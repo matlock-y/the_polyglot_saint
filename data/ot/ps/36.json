@@ -4,156 +4,156 @@
     "book": "ps",
     "chapter": 36,
     "headings": {
-      "eng": "David praises the Lord for His mercy, His righteousness, and His loving kindnessâThe fountain of life is with the Lord.",
-      "spa": "David alaba a JehovÃ¡ por Su misericordia, Su justicia y Su amorosa bondadÂ â El manantial de la vida estÃ¡ en JehovÃ¡.",
-      "por": "Davi louva ao Senhor por Sua misericÃ³rdia, Sua retidÃ£o e Sua benignidadeÂ â O manancial da vida estÃ¡ no Senhor.",
-      "fra": "David loue lâÃternel pour sa bontÃ© et sa justice. La source de la vie est en lâÃternel.",
-      "ita": "Davide loda il Signore per la Sua rettitudine e la Sua benignitÃ Â â La fonte della vita Ã¨ nel Signore."
+      "eng": "David praises the Lord for His mercy, His righteousness, and His loving kindness—The fountain of life is with the Lord.",
+      "spa": "David alaba a Jehová por Su misericordia, Su justicia y Su amorosa bondad — El manantial de la vida está en Jehová.",
+      "por": "Davi louva ao Senhor por Sua misericórdia, Sua retidão e Sua benignidade — O manancial da vida está no Senhor.",
+      "fra": "David loue l’Éternel pour sa bonté et sa justice. La source de la vie est en l’Éternel.",
+      "ita": "Davide loda il Signore per la Sua rettitudine e la Sua benignità — La fonte della vita è nel Signore."
     },
     "intros": {
       "eng": "To the chief Musician, <span class=\"clarity-word\">A Psalm</span> of David the servant of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
-      "jpn": "<ruby><rb>èæ­</rb><rt>ããã</rt></ruby><ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ææ®è</rb><rt>ãããã</rt></ruby>ã«ãã£ã¦ããããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ããã¹ãããã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
-      "spa": "Al mÃºsico principal. Salmo de David, siervo de JehovÃ¡.",
-      "por": "Salmo de Davi, servo do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; para o mÃºsico-mor.",
-      "ita": "Per il capo dei musici. Di Davide, servo dellâEterno."
+      "jpn": "<ruby>聖歌<rt>せいか</rt></ruby><ruby>隊<rt>たい</rt></ruby>の<ruby>指揮者<rt>しきしゃ</rt></ruby>によってうたわせた<ruby>主<rt>しゅ</rt></ruby>のしもべダビデの<ruby>歌<rt>うた</rt></ruby>",
+      "spa": "Al músico principal. Salmo de David, siervo de Jehová.",
+      "por": "Salmo de Davi, servo do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; para o músico-mor.",
+      "ita": "Per il capo dei musici. Di Davide, servo dell’Eterno."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>The transgression of the wicked saith within my heart, <span class=\"clarity-word\">that there is</span> no fear of God before his eyes.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙÙÙØ¨ÙØ¦ÙÙÙÙ ÙÙÙÙØ¨ÙÙ ÙÙÙ Ø¯ÙØ§Ø®ÙÙÙÙ Ø¨ÙÙÙØ¹ÙØµÙÙÙØ©Ù Ø§ÙØ´ÙÙØ±ÙÙÙØ±ÙØ Ø§ÙÙÙØ°ÙÙ ÙÙØ§ ÙÙØ±ÙØªÙØ¯ÙØ¹Ù Ø®ÙÙÙÙØ§Ù ÙÙÙÙ Ø§ÙÙÙÙ°ÙÙ.",
-      "jpn": "<span class=\"verse-number\">1</span> ã¨ãã¯<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ãããããã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã®ãã¡ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¯ãªãã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">La transgresiÃ³n del impÃ­o me dice al corazÃ³n:</span><span class=\"line\">No hay temor de Dios delante de sus ojos.</span>",
-      "por": "<span class=\"verse-number\">1</span> A transgressÃ£o do Ã­mpio diz no Ã­ntimo do seu coraÃ§Ã£o: NÃ£o hÃ¡ temor de Deus perante os seus olhos.",
-      "fra": "<span class=\"verse-number\">1</span> Au chef des chantres. Du serviteur de lâÃternel, de David.",
-      "deu": "<span class=\"verse-number\">1Â </span>Dem Musikmeister; vom Knechte des HErrn, von David.",
-      "kor": "<span class=\"verse-number\">1</span> ìì¸ì ì£ê° ê·¸ì ë§ììì¼ë¡ ì´ë¥´ê¸°ë¥¼ ê·¸ì ëìë íëëì ëë ¤ìíë ë¹ì´ ìë¤ íë",
-      "ita": "<span class=\"verse-number\">1</span> LâiniquitÃ  parla allâempio nellâintimo del suo cuore; non câÃ¨ timore di Dio davanti ai suoi occhi."
+      "eng": "The transgression of the wicked saith within my heart, <span class=\"clarity-word\">that there is</span> no fear of God before his eyes.",
+      "ara": "يُنْبِئُنِي قَلْبِي فِي دَاخِلِي بِمَعْصِيَةِ الشِّرِّيرِ، الَّذِي لَا يَرْتَدِعُ خَوْفاً مِنَ اللّٰهِ.",
+      "jpn": "とがは<ruby>悪<rt>あ</rt></ruby>しき<ruby>者<rt>もの</rt></ruby>にむかい、その<ruby>心<rt>こころ</rt></ruby>のうちに<ruby>言<rt>い</rt></ruby>う。その<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>神<rt>かみ</rt></ruby>を<ruby>恐<rt>おそ</rt></ruby>れる<ruby>恐<rt>おそ</rt></ruby>れはない。",
+      "spa": "<span class=\"line\">La transgresión del impío me dice al corazón:</span><span class=\"line\">No hay temor de Dios delante de sus ojos.</span>",
+      "por": "A transgressão do ímpio diz no íntimo do seu coração: Não há temor de Deus perante os seus olhos.",
+      "fra": "Au chef des chantres. Du serviteur de l’Éternel, de David.",
+      "deu": "Dem Musikmeister; vom Knechte des HErrn, von David.",
+      "kor": "악인의 죄가 그의 마음속으로 이르기를 그의 눈에는 하나님을 두려워하는 빛이 없다 하니",
+      "ita": "L’iniquità parla all’empio nell’intimo del suo cuore; non c’è timore di Dio davanti ai suoi occhi."
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>For he flattereth himself in his own eyes, until his iniquity be found to be hateful.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØ¥ÙÙÙÙÙÙ ÙÙØªÙÙÙÙÙÙÙÙ ÙÙÙÙØ³ÙÙÙ (ÙÙÙÙÙÙÙÙØ¹ÙÙÙØ§) Ø£ÙÙÙÙ Ø®ÙØ·ÙÙØ¦ÙØªÙÙÙ Ø§ÙÙÙÙÙÙÙÙÙØªÙØ©Ù ÙÙÙÙ ØªÙÙÙØªÙØ´ÙÙÙ ÙÙØªÙØ¯ÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>ä¸ç¾©</rb><rt>ãµã</rt></ruby>ãããããããªããããã¾ã<ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ã¾ããªãããã«ãã¿ããããã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã§ããã­ãã",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Porque se lisonjea en sus propios ojos,</span><span class=\"line\">hasta que su iniquidad sea hallada aborrecible.</span>",
-      "por": "<span class=\"verse-number\">2</span> Porque a seus olhos se lisonjeia, atÃ© que se descubra ser detestÃ¡vel a sua iniquidade.",
-      "fra": "<span class=\"verse-number\">2</span> La parole impie du mÃ©chant pÃ©nÃ¨tre au fond de mon cÅurÂ ; La crainte de Dieu nâest pas devant ses yeux.",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Eingebung der SÃ¼nde beherrscht den Frevler,</span><span class=\"line\">so lÃ¤Ãt es im Innern meines Herzens sich hÃ¶ren:</span><span class=\"line\">kein Zagen vor Gott steht ihm vor Augen (vgl. RÃ¶m. 3,18);</span>",
-      "kor": "<span class=\"verse-number\">2</span> ê·¸ê° ì¤ì¤ë¡ ìëíê¸°ë¥¼ ìê¸°ì ì£ìì ëë¬ëì§ ìëíê³  ë¯¸ìí¨ì ë°ì§ë ìëíë¦¬ë¼ í¨ì´ë¡ë¤",
-      "ita": "<span class=\"verse-number\">2</span> Essa lo lusinga che la sua empietÃ  non sarÃ  scoperta nÃ© presa in odio."
+      "eng": "For he flattereth himself in his own eyes, until his iniquity be found to be hateful.",
+      "ara": "فَإِنَّهُ يَتَمَلَّقُ نَفْسَهُ (لِيُقْنِعَهَا) أَنَّ خَطِيئَتَهُ الْمَمْقُوتَةَ لَنْ تُكْتَشَفَ وَتُدَانَ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>不義<rt>ふぎ</rt></ruby>があらわされないため、また<ruby>憎<rt>にく</rt></ruby>まれないために、みずからその<ruby>目<rt>め</rt></ruby>でおもねる。",
+      "spa": "<span class=\"line\">Porque se lisonjea en sus propios ojos,</span><span class=\"line\">hasta que su iniquidad sea hallada aborrecible.</span>",
+      "por": "Porque a seus olhos se lisonjeia, até que se descubra ser detestável a sua iniquidade.",
+      "fra": "La parole impie du méchant pénètre au fond de mon cœur ; La crainte de Dieu n’est pas devant ses yeux.",
+      "deu": "<span class=\"line\">Eingebung der Sünde beherrscht den Frevler,</span><span class=\"line\">so läßt es im Innern meines Herzens sich hören:</span><span class=\"line\">kein Zagen vor Gott steht ihm vor Augen (vgl. Röm. 3,18);</span>",
+      "kor": "그가 스스로 자랑하기를 자기의 죄악은 드러나지 아니하고 미워함을 받지도 아니하리라 함이로다",
+      "ita": "Essa lo lusinga che la sua empietà non sarà scoperta né presa in odio."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>The words of his mouth <span class=\"clarity-word\">are</span> iniquity and deceit: he hath left off to be wise, <span class=\"clarity-word\">and</span> to do good.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙØ§ÙÙ ÙÙÙÙÙÙ Ø¥ÙØ«ÙÙÙ ÙÙÙÙÙÙØ§ÙÙØ ÙÙÙÙØ¯Ù ÙÙÙÙÙ Ø¹ÙÙÙ Ø§ÙØªÙÙØ¹ÙÙÙÙÙÙ ÙØ£ÙØ¬ÙÙÙ Ø¹ÙÙÙÙÙ Ø§ÙÙØ®ÙÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">3</span> ãã®<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã®<ruby><rb>è¨è</rb><rt>ãã¨ã°</rt></ruby>ã¯ãããã¾ã¨<ruby><rb>æ¬º</rb><rt>ããã</rt></ruby>ãã§ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã¨ã¨ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã¨ããããã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Las palabras de su boca son iniquidad y fraude;</span><span class=\"line\">ha dejado de ser sensato y de hacer el bien.</span>",
-      "por": "<span class=\"verse-number\">3</span> As palavras da sua boca <span class=\"clarity-word\">sÃ£o</span> maldade e engano; deixou de entender <span class=\"clarity-word\">e</span> de fazer o bem.",
-      "fra": "<span class=\"verse-number\">3</span> Car il se flatte Ã  ses propres yeux, Pour consommer son iniquitÃ©, pour assouvir sa haine.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">denn sie (d. h. die SÃ¼nde) verblendet ihn mit Schmeichelreden,</span><span class=\"line\">daÃ er in Verschuldung gerÃ¤t, indem er HaÃ ausÃ¼bt(?).</span>",
-      "kor": "<span class=\"verse-number\">3</span> ê·¸ì ììì ëì¤ë ë§ì ì£ìê³¼ ììì´ë¼ ê·¸ë ì§íì ì íì ê·¸ì³¤ëë¤",
-      "ita": "<span class=\"verse-number\">3</span> Le parole della sua bocca sono iniquitÃ  e frode; egli ha cessato di essere saggio e di fare il bene."
+      "eng": "The words of his mouth <span class=\"clarity-word\">are</span> iniquity and deceit: he hath left off to be wise, <span class=\"clarity-word\">and</span> to do good.",
+      "ara": "كَلامُ فَمِهِ إِثْمٌ وَنِفَاقٌ، وَقَدْ كَفَّ عَنِ التَّعَقُّلِ لأَجْلِ عَمَلِ الْخَيْرِ.",
+      "jpn": "その<ruby>口<rt>くち</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>はよこしまと<ruby>欺<rt>あざむ</rt></ruby>きである。<ruby>彼<rt>かれ</rt></ruby>は<ruby>知恵<rt>ちえ</rt></ruby>を<ruby>得<rt>え</rt></ruby>ることと、<ruby>善<rt>ぜん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>事<rt>こと</rt></ruby>とをやめた。",
+      "spa": "<span class=\"line\">Las palabras de su boca son iniquidad y fraude;</span><span class=\"line\">ha dejado de ser sensato y de hacer el bien.</span>",
+      "por": "As palavras da sua boca <span class=\"clarity-word\">são</span> maldade e engano; deixou de entender <span class=\"clarity-word\">e</span> de fazer o bem.",
+      "fra": "Car il se flatte à ses propres yeux, Pour consommer son iniquité, pour assouvir sa haine.",
+      "deu": "<span class=\"line\">denn sie (d. h. die Sünde) verblendet ihn mit Schmeichelreden,</span><span class=\"line\">daß er in Verschuldung gerät, indem er Haß ausübt(?).</span>",
+      "kor": "그의 입에서 나오는 말은 죄악과 속임이라 그는 지혜와 선행을 그쳤도다",
+      "ita": "Le parole della sua bocca sono iniquità e frode; egli ha cessato di essere saggio e di fare il bene."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>He deviseth mischief upon his bed; he setteth himself in a way <span class=\"clarity-word\">that is</span> not good; he abhorreth not evil.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØªÙÙÙÙÙÙØ±Ù ÙÙÙ Ø§ÙÙØ¨ÙØ§Ø·ÙÙÙ Ø¹ÙÙÙÙ Ø³ÙØ±ÙÙØ±ÙÙ ÙÙÙÙÙØ§Ù. ÙÙÙÙØ³ÙÙÙÙÙ ÙÙÙ Ø³ÙØ¨ÙÙÙÙ Ø§ÙØ³ÙÙÙØ¡Ù ÙÙØ§ ÙÙØ³ÙØªÙÙÙÙÙØ±Ù Ø§ÙØ´ÙÙØ±ÙÙ.",
-      "jpn": "<span class=\"verse-number\">4</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ãã®<ruby><rb>åº</rb><rt>ã¨ã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã§ãããã¾ãª<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ããããã¿ããããã¬<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã«<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ãããã¦ã<ruby><rb>æª</rb><rt>ãã</rt></ruby>ãããããªãã",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Maquina iniquidad sobre su cama;</span><span class=\"line\">estÃ¡ en camino no bueno;</span><span class=\"line\">el mal no aborrece.</span>",
-      "por": "<span class=\"verse-number\">4</span> Intenta a maldade na sua cama; pÃµe-se no caminho <span class=\"clarity-word\">que</span> nÃ£o <span class=\"clarity-word\">Ã©</span> bom; nÃ£o odeia o mal.",
-      "fra": "<span class=\"verse-number\">4</span> Les paroles de sa bouche sont fausses et trompeusesÂ ; Il renonce Ã  agir avec sagesse, Ã  faire le bien.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Was er ausspricht, ist Unheil und Trug;</span><span class=\"line\">aufgehÃ¶rt hat er, verstÃ¤ndig zu sein, um gut zu handeln.</span>",
-      "kor": "<span class=\"verse-number\">4</span> ê·¸ë ê·¸ì ì¹¨ììì ì£ìì ê¾íë©° ì¤ì¤ë¡ ìí ê¸¸ì ìê³  ìì ê±°ì íì§ ìëíëëë¤",
-      "ita": "<span class=\"verse-number\">4</span> Egli medita iniquitÃ  sopra il suo letto; si tiene nella via che non Ã¨ buona; non aborrisce il male."
+      "eng": "He deviseth mischief upon his bed; he setteth himself in a way <span class=\"clarity-word\">that is</span> not good; he abhorreth not evil.",
+      "ara": "يَتَفَكَّرُ فِي الْبَاطِلِ عَلَى سَرِيرِه لَيْلاً. وَيَسْلُكُ فِي سَبِيلِ السُّوءِ لَا يَسْتَنْكِرُ الشَّرَّ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>はその<ruby>床<rt>とこ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>でよこしまな<ruby>事<rt>こと</rt></ruby>をたくらみ、よからぬ<ruby>道<rt>みち</rt></ruby>に<ruby>身<rt>み</rt></ruby>をおいて、<ruby>悪<rt>あく</rt></ruby>をきらわない。",
+      "spa": "<span class=\"line\">Maquina iniquidad sobre su cama;</span><span class=\"line\">está en camino no bueno;</span><span class=\"line\">el mal no aborrece.</span>",
+      "por": "Intenta a maldade na sua cama; põe-se no caminho <span class=\"clarity-word\">que</span> não <span class=\"clarity-word\">é</span> bom; não odeia o mal.",
+      "fra": "Les paroles de sa bouche sont fausses et trompeuses ; Il renonce à agir avec sagesse, à faire le bien.",
+      "deu": "<span class=\"line\">Was er ausspricht, ist Unheil und Trug;</span><span class=\"line\">aufgehört hat er, verständig zu sein, um gut zu handeln.</span>",
+      "kor": "그는 그의 침상에서 죄악을 꾀하며 스스로 악한 길에 서고 악을 거절하지 아니하는도다",
+      "ita": "Egli medita iniquità sopra il suo letto; si tiene nella via che non è buona; non aborrisce il male."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>Thy mercy, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, <span class=\"clarity-word\">is</span> in the heavens; <span class=\"clarity-word\">and</span> thy faithfulness <span class=\"clarity-word\">reacheth</span> unto the clouds.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ§ Ø±ÙØ¨ÙÙØ Ø¥ÙÙÙÙ Ø±ÙØ­ÙÙÙØªÙÙÙ ÙÙÙ Ø§ÙØ³ÙÙÙÙØ§ÙÙØ§ØªÙØ ÙÙØ£ÙÙÙØ§ÙÙØªÙÙÙ ØªÙØ¨ÙÙÙØºÙ Ø§ÙÙØºÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããªãã®ãã¤ããã¿ã¯<ruby><rb>å¤©</rb><rt>ã¦ã</rt></ruby>ã«ã¾ã§<ruby><rb>å</rb><rt>ãã</rt></ruby>ã³ãããªãã®ã¾ãã¨ã¯<ruby><rb>é²</rb><rt>ãã</rt></ruby>ã«ã¾ã§<ruby><rb>å</rb><rt>ãã</rt></ruby>ã¶ã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">JehovÃ¡, hasta los cielos llega tu misericordia;</span><span class=\"line\">tu fidelidad alcanza hasta las nubes.</span>",
-      "por": "<span class=\"verse-number\">5</span> A tua misericÃ³rdia, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, <span class=\"clarity-word\">estÃ¡</span> nos cÃ©us, e a tua fidelidade <span class=\"clarity-word\">chega</span> atÃ© as mais <span class=\"clarity-word\">excelsas</span> nuvens.",
-      "fra": "<span class=\"verse-number\">5</span> Il mÃ©dite lâinjustice sur son lit, Il se tient sur une voie qui nâest pas bonne, Il ne repousse pas le mal.",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Unheil sinnt er auf seinem Lager,</span><span class=\"line\">tritt hin auf den Weg der Bosheit,</span><span class=\"line\">das Schlechte verabscheut er nicht.</span>",
-      "kor": "<span class=\"verse-number\">5</span> ì¬í¸ìì¬ ì£¼ì ì¸ìíì¬ì´ íëì ìê³  ì£¼ì ì§ì¤íì¬ì´ ê³µì¤ì ì¬ë¬´ì³¤ì¼ë©°",
-      "ita": "<span class=\"verse-number\">5</span> O Eterno, la tua benignitÃ  va fino al cielo, e la tua fedeltÃ  fino alle nuvole."
+      "eng": "Thy mercy, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, <span class=\"clarity-word\">is</span> in the heavens; <span class=\"clarity-word\">and</span> thy faithfulness <span class=\"clarity-word\">reacheth</span> unto the clouds.",
+      "ara": "يَا رَبُّ، إِنَّ رَحْمَتَكَ فِي السَّمَاوَاتِ، وَأَمَانَتَكَ تَبْلُغُ الْغُيُومَ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、あなたのいつくしみは<ruby>天<rt>てん</rt></ruby>にまで<ruby>及<rt>およ</rt></ruby>び、あなたのまことは<ruby>雲<rt>くも</rt></ruby>にまで<ruby>及<rt>およ</rt></ruby>ぶ。",
+      "spa": "<span class=\"line\">Jehová, hasta los cielos llega tu misericordia;</span><span class=\"line\">tu fidelidad alcanza hasta las nubes.</span>",
+      "por": "A tua misericórdia, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, <span class=\"clarity-word\">está</span> nos céus, e a tua fidelidade <span class=\"clarity-word\">chega</span> até as mais <span class=\"clarity-word\">excelsas</span> nuvens.",
+      "fra": "Il médite l’injustice sur son lit, Il se tient sur une voie qui n’est pas bonne, Il ne repousse pas le mal.",
+      "deu": "<span class=\"line\">Unheil sinnt er auf seinem Lager,</span><span class=\"line\">tritt hin auf den Weg der Bosheit,</span><span class=\"line\">das Schlechte verabscheut er nicht.</span>",
+      "kor": "여호와여 주의 인자하심이 하늘에 있고 주의 진실하심이 공중에 사무쳤으며",
+      "ita": "O Eterno, la tua benignità va fino al cielo, e la tua fedeltà fino alle nuvole."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>Thy righteousness <span class=\"clarity-word\">is</span> like the great mountains; thy judgments <span class=\"clarity-word\">are</span> a great deep: O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, thou preservest man and beast.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø¹ÙØ¯ÙÙÙÙÙ Ø«ÙØ§Ø¨ÙØªÙ ÙÙØ«ÙÙÙ Ø§ÙÙØ¬ÙØ¨ÙØ§ÙÙ Ø§ÙØ´ÙÙØ§ÙÙØ®ÙØ©ÙØ ÙÙØ£ÙØ­ÙÙÙØ§ÙÙÙÙ ÙÙØ§ÙÙØ¹ÙÙÙÙÙ Ø§ÙØ³ÙÙØ­ÙÙÙÙ. ÙÙØ£ÙÙÙØªÙ ÙÙØ§ Ø±ÙØ¨ÙÙ ØªÙØ­ÙÙÙØ¸Ù Ø§ÙÙÙÙØ§Ø³Ù ÙÙØ§ÙÙØ¨ÙÙÙØ§Ø¦ÙÙÙ Ø¬ÙÙÙÙØ¹Ø§Ù.",
-      "jpn": "<span class=\"verse-number\">6</span> ããªãã®<ruby><rb>ç¾©</rb><rt>ã</rt></ruby>ã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ã®ãã¨ããããªãã®ãã°ãã¯<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããª<ruby><rb>æ·µ</rb><rt>ãµã¡</rt></ruby>ã®ããã ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããªãã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¨<ruby><rb>ç£</rb><rt>ããã®</rt></ruby>ã¨ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Tu justicia es como las montaÃ±as de Dios;</span><span class=\"line\">tus juicios, las grandes profundidades.</span><span class=\"line\">Oh JehovÃ¡, al hombre y al animal conservas.</span>",
-      "por": "<span class=\"verse-number\">6</span> A tua justiÃ§a <span class=\"clarity-word\">Ã©</span> como as grandes montanhas; os teus juÃ­zos <span class=\"clarity-word\">sÃ£o um</span> grande abismo; <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, tu preservas os homens e os animais.",
-      "fra": "<span class=\"verse-number\">6</span> ÃternelÂ ! ta bontÃ© sâÃ©lÃ¨ve jusquâaux cieux, Ta fidÃ©litÃ© jusquâaux nues.",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">O HErr, bis zum Himmel reicht deine Gnade (oder: GÃ¼te),</span><span class=\"line\">deine Treue bis hin an die Wolken;</span>",
-      "kor": "<span class=\"verse-number\">6</span> ì£¼ì ìë íëëì ì°ë¤ê³¼ ê°ê³  ì£¼ì ì¬íì í° ë°ë¤ì ê°ì¼ëì´ë¤ ì¬í¸ìì¬ ì£¼ë ì¬ëê³¼ ì§ì¹ì êµ¬íì¬ ì£¼ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">6</span> La tua rettitudine Ã¨ come le montagne di Dio, i tuoi giudizi sono un grande abisso. O Eterno, tu salvi uomini e bestie."
+      "eng": "Thy righteousness <span class=\"clarity-word\">is</span> like the great mountains; thy judgments <span class=\"clarity-word\">are</span> a great deep: O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, thou preservest man and beast.",
+      "ara": "عَدْلُكَ ثَابِتٌ مِثْلُ الْجِبَالِ الشَّامِخَةِ، وَأَحْكَامُكَ كَالْعُمْقِ السَّحِيقِ. وَأَنْتَ يَا رَبُّ تَحْفَظُ النَّاسَ وَالْبَهَائِمَ جَمِيعاً.",
+      "jpn": "あなたの<ruby>義<rt>ぎ</rt></ruby>は<ruby>神<rt>かみ</rt></ruby>の<ruby>山<rt>やま</rt></ruby>のごとく、あなたのさばきは<ruby>大<rt>おお</rt></ruby>きな<ruby>淵<rt>ふち</rt></ruby>のようだ。<ruby>主<rt>しゅ</rt></ruby>よ、あなたは<ruby>人<rt>ひと</rt></ruby>と<ruby>獣<rt>けもの</rt></ruby>とを<ruby>救<rt>すく</rt></ruby>われる。",
+      "spa": "<span class=\"line\">Tu justicia es como las montañas de Dios;</span><span class=\"line\">tus juicios, las grandes profundidades.</span><span class=\"line\">Oh Jehová, al hombre y al animal conservas.</span>",
+      "por": "A tua justiça <span class=\"clarity-word\">é</span> como as grandes montanhas; os teus juízos <span class=\"clarity-word\">são um</span> grande abismo; <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, tu preservas os homens e os animais.",
+      "fra": "Éternel ! ta bonté s’élève jusqu’aux cieux, Ta fidélité jusqu’aux nues.",
+      "deu": "<span class=\"line\">O HErr, bis zum Himmel reicht deine Gnade (oder: Güte),</span><span class=\"line\">deine Treue bis hin an die Wolken;</span>",
+      "kor": "주의 의는 하나님의 산들과 같고 주의 심판은 큰 바다와 같으니이다 여호와여 주는 사람과 짐승을 구하여 주시나이다",
+      "ita": "La tua rettitudine è come le montagne di Dio, i tuoi giudizi sono un grande abisso. O Eterno, tu salvi uomini e bestie."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>How excellent <span class=\"clarity-word\">is</span> thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>Ø§ÙÙÙÙ°ÙÙÙÙÙØ ÙÙØ§ Ø£ÙØ«ÙÙÙÙÙ Ø±ÙØ­ÙÙÙØªÙÙÙ! ÙÙØ¥ÙÙÙÙ Ø¨ÙÙÙÙ Ø§ÙÙØ¨ÙØ´ÙØ±Ù ÙÙØ­ÙØªÙÙÙÙÙÙ ÙÙÙ Ø¸ÙÙÙÙ Ø¬ÙÙÙØ§Ø­ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ããããªãã®ãã¤ããã¿ã¯ããã«<ruby><rb>å°</rb><rt>ãã£ã¨</rt></ruby>ããã¨ã§ãããã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ããªãã®<ruby><rb>ç¿¼</rb><rt>ã¤ã°ã</rt></ruby>ã®ããã«<ruby><rb>é¿</rb><rt>ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã©ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Â¡CuÃ¡n preciosa, oh Dios, es tu amorosa bondad!</span><span class=\"line\">Por eso los hijos de los hombres se refugian bajo la sombra de tus alas.</span>",
-      "por": "<span class=\"verse-number\">7</span> QuÃ£o preciosa <span class=\"clarity-word\">Ã©,</span> Ã³ Deus, a tua benignidade, pelo que os filhos dos homens se abrigam Ã  sombra das tuas asas.",
-      "fra": "<span class=\"verse-number\">7</span> Ta justice est comme les montagnes de Dieu, Tes jugements sont comme le grand abÃ®me. ÃternelÂ ! tu soutiens les hommes et les bÃªtes.",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">deine Gerechtigkeit steht fest wie die Gottesberge,</span><span class=\"line\">deine Gerichte gleichen dem weiten (oder: tiefen) Weltmeer;</span><span class=\"line\">Menschen und Tieren hilfst du, o HErr.</span>",
-      "kor": "<span class=\"verse-number\">7</span> íëëì´ì¬ ì£¼ì ì¸ìíì¬ì´ ì´ì° ê·¸ë¦¬ ë³´ë°°ë¡ì°ì ì§ì ì¬ëë¤ì´ ì£¼ì ë ê° ê·¸ë ìëì í¼íëì´ë¤",
-      "ita": "<span class=\"verse-number\">7</span> O Dio, comâÃ¨ preziosa la tua benignitÃ ! PerciÃ² i figli degli uomini si rifugiano allâombra delle tue ali,"
+      "eng": "How excellent <span class=\"clarity-word\">is</span> thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.",
+      "ara": "اللّٰهُمَّ، مَا أَثْمَنَ رَحْمَتَكَ! فَإِنَّ بَنِي الْبَشَرِ يَحْتَمُونَ فِي ظِلِّ جَنَاحَيْكَ.",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>よ、あなたのいつくしみはいかに<ruby>尊<rt>たっと</rt></ruby>いことでしょう。<ruby>人<rt>ひと</rt></ruby>の<ruby>子<rt>こ</rt></ruby>らはあなたの<ruby>翼<rt>つばさ</rt></ruby>のかげに<ruby>避<rt>さ</rt></ruby>け<ruby>所<rt>どころ</rt></ruby>を<ruby>得<rt>え</rt></ruby>、",
+      "spa": "<span class=\"line\">¡Cuán preciosa, oh Dios, es tu amorosa bondad!</span><span class=\"line\">Por eso los hijos de los hombres se refugian bajo la sombra de tus alas.</span>",
+      "por": "Quão preciosa <span class=\"clarity-word\">é,</span> ó Deus, a tua benignidade, pelo que os filhos dos homens se abrigam à sombra das tuas asas.",
+      "fra": "Ta justice est comme les montagnes de Dieu, Tes jugements sont comme le grand abîme. Éternel ! tu soutiens les hommes et les bêtes.",
+      "deu": "<span class=\"line\">deine Gerechtigkeit steht fest wie die Gottesberge,</span><span class=\"line\">deine Gerichte gleichen dem weiten (oder: tiefen) Weltmeer;</span><span class=\"line\">Menschen und Tieren hilfst du, o HErr.</span>",
+      "kor": "하나님이여 주의 인자하심이 어찌 그리 보배로우신지요 사람들이 주의 날개 그늘 아래에 피하나이다",
+      "ita": "O Dio, com’è preziosa la tua benignità! Perciò i figli degli uomini si rifugiano all’ombra delle tue ali,"
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØ±ÙØªÙÙÙÙÙÙ ÙÙÙÙ Ø®ÙÙÙØ±ÙØ§ØªÙ Ø¨ÙÙÙØªÙÙÙØ ÙÙÙÙÙÙ ÙÙÙÙØ±Ù ÙÙØ¹ÙÙÙÙÙ ØªÙØ³ÙÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">8</span> ããªãã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã®<ruby><rb>è±</rb><rt>ãã</rt></ruby>ããªã®ã«ãã£ã¦<ruby><rb>é£½</rb><rt>ã</rt></ruby>ã<ruby><rb>è¶³</rb><rt>ã</rt></ruby>ãããããªãã¯ãã®<ruby><rb>æ¥½</rb><rt>ãã®</rt></ruby>ãã¿ã®<ruby><rb>å·</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>é£²</rb><rt>ã®</rt></ruby>ã¾ããããã",
-      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">SerÃ¡n completamente saciados de la grosura de tu casa,</span><span class=\"line\">y tÃº les darÃ¡s de beber del torrente de tus deleites.</span>",
-      "por": "<span class=\"verse-number\">8</span> Eles se fartarÃ£o da gordura da tua casa, e os farÃ¡s beber da corrente das tuas delÃ­cias,",
-      "fra": "<span class=\"verse-number\">8</span> Combien est prÃ©cieuse ta bontÃ©, Ã´ DieuÂ ! Ã lâombre de tes ailes les enfants des hommes cherchent un refuge.",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">Wie kÃ¶stlich ist deine Gnade (oder: GÃ¼te), o Gott,</span><span class=\"line\">daÃ Menschenkinder sich bergen im Schatten deiner FlÃ¼gel!</span>",
-      "kor": "<span class=\"verse-number\">8</span> ê·¸ë¤ì´ ì£¼ì ì§ì ìë ì´ì§ ê²ì¼ë¡ íì¡±í  ê²ì´ë¼ ì£¼ê»ì ì£¼ì ë³µë½ì ê°ë¬¼ì ë§ìê² íìë¦¬ì´ë¤",
-      "ita": "<span class=\"verse-number\">8</span> sono saziati dellâabbondanza della tua casa, e tu li abbeveri al torrente delle tue delizie."
+      "eng": "They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures.",
+      "ara": "يَرْتَوُونَ مِنْ خَيْرَاتِ بَيْتِكَ، وَمِنْ نَهْرِ نِعَمِكَ تَسْقِيهِمْ.",
+      "jpn": "あなたの<ruby>家<rt>いえ</rt></ruby>の<ruby>豊<rt>ゆた</rt></ruby>かなのによって<ruby>飽<rt>あ</rt></ruby>き<ruby>足<rt>た</rt></ruby>りる。あなたはその<ruby>楽<rt>たの</rt></ruby>しみの<ruby>川<rt>かわ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>を<ruby>彼<rt>かれ</rt></ruby>らに<ruby>飲<rt>の</rt></ruby>ませられる。",
+      "spa": "<span class=\"line\">Serán completamente saciados de la grosura de tu casa,</span><span class=\"line\">y tú les darás de beber del torrente de tus deleites.</span>",
+      "por": "Eles se fartarão da gordura da tua casa, e os farás beber da corrente das tuas delícias,",
+      "fra": "Combien est précieuse ta bonté, ô Dieu ! À l’ombre de tes ailes les enfants des hommes cherchent un refuge.",
+      "deu": "<span class=\"line\">Wie köstlich ist deine Gnade (oder: Güte), o Gott,</span><span class=\"line\">daß Menschenkinder sich bergen im Schatten deiner Flügel!</span>",
+      "kor": "그들이 주의 집에 있는 살진 것으로 풍족할 것이라 주께서 주의 복락의 강물을 마시게 하시리이다",
+      "ita": "sono saziati dell’abbondanza della tua casa, e tu li abbeveri al torrente delle tue delizie."
     },
     "9": {
-      "eng": "<span class=\"verse-number\">9 </span>For with thee <span class=\"clarity-word\">is</span> the fountain of life: in thy light shall we see light.",
-      "ara": "<span class=\"verse-number\">Ù© </span>ÙØ£ÙÙÙÙ Ø¹ÙÙÙØ¯ÙÙÙ ÙÙØ¨ÙØ¹Ù Ø§ÙÙØ­ÙÙÙØ§Ø©ÙØ ÙÙØ¨ÙÙÙÙØ±ÙÙÙ ÙÙØ±ÙÙ Ø§ÙÙÙÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">9</span> ãã®ã¡ã®<ruby><rb>æ³</rb><rt>ããã¿</rt></ruby>ã¯ããªãã®ãã¨ã«ããããããã¯ããªãã®<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã",
-      "spa": "<span class=\"verse-number\">9 </span><span class=\"line\">Porque contigo estÃ¡ el manantial de la vida;</span><span class=\"line\">en tu luz veremos la luz.</span>",
-      "por": "<span class=\"verse-number\">9</span> Porque em ti <span class=\"clarity-word\">estÃ¡</span> o manancial da vida; na tua luz veremos a luz.",
-      "fra": "<span class=\"verse-number\">9</span> Ils se rassasient de lâabondance de ta maison, Et tu les abreuves au torrent de tes dÃ©lices.",
-      "deu": "<span class=\"verse-number\">9Â </span><span class=\"line\">Sie laben sich an den reichen GÃ¼tern deines Hauses,</span><span class=\"line\">und du trÃ¤nkst sie mit dem Strom deiner Wonnen;</span>",
-      "kor": "<span class=\"verse-number\">9</span> ì§ì¤ë¡ ìëªì ìì²ì´ ì£¼ê» ìì¬ì¤ë ì£¼ì ë¹ ììì ì°ë¦¬ê° ë¹ì ë³´ë¦¬ì´ë¤",
-      "ita": "<span class=\"verse-number\">9</span> PoichÃ© in te Ã¨ la fonte della vita, e per la tua luce noi vediamo la luce."
+      "eng": "For with thee <span class=\"clarity-word\">is</span> the fountain of life: in thy light shall we see light.",
+      "ara": "لأَنَّ عِنْدَكَ نَبْعَ الْحَيَاةِ، وَبِنُورِكَ نَرَى النُّورَ.",
+      "jpn": "いのちの<ruby>泉<rt>いずみ</rt></ruby>はあなたのもとにあり、われらはあなたの<ruby>光<rt>ひかり</rt></ruby>によって<ruby>光<rt>ひかり</rt></ruby>を<ruby>見<rt>み</rt></ruby>る。",
+      "spa": "<span class=\"line\">Porque contigo está el manantial de la vida;</span><span class=\"line\">en tu luz veremos la luz.</span>",
+      "por": "Porque em ti <span class=\"clarity-word\">está</span> o manancial da vida; na tua luz veremos a luz.",
+      "fra": "Ils se rassasient de l’abondance de ta maison, Et tu les abreuves au torrent de tes délices.",
+      "deu": "<span class=\"line\">Sie laben sich an den reichen Gütern deines Hauses,</span><span class=\"line\">und du tränkst sie mit dem Strom deiner Wonnen;</span>",
+      "kor": "진실로 생명의 원천이 주께 있사오니 주의 빛 안에서 우리가 빛을 보리이다",
+      "ita": "Poiché in te è la fonte della vita, e per la tua luce noi vediamo la luce."
     },
     "10": {
-      "eng": "<span class=\"verse-number\">10 </span>O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>Ø£ÙØ¯ÙÙÙ Ø±ÙØ­ÙÙÙØªÙÙÙ ÙÙØ¹ÙØ§Ø±ÙÙÙÙÙÙØ ÙÙØ¹ÙØ¯ÙÙÙÙÙ ÙÙØ°ÙÙÙÙ Ø§ÙÙÙÙÙÙÙØ¨Ù Ø§ÙÙÙÙØ³ÙØªÙÙÙÙÙÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">10</span> ã©ãããããªãã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«<ruby><rb>çµ¶</rb><rt>ã</rt></ruby>ãããã¤ããã¿ã<ruby><rb>æ½</rb><rt>ã»ã©ã</rt></ruby>ãã<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã®<ruby><rb>ç´</rb><rt>ãªã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«<ruby><rb>çµ¶</rb><rt>ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ããã</rt></ruby>ã<ruby><rb>æ½</rb><rt>ã»ã©ã</rt></ruby>ãã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">10 </span><span class=\"line\">Extiende tu misericordia a los que te conocen,</span><span class=\"line\">y tu justicia a los rectos de corazÃ³n.</span>",
-      "por": "<span class=\"verse-number\">10</span> Estende a tua benignidade sobre os que te conhecem, <span class=\"page-break\" data-page=\"899\"></span>e a tua justiÃ§a sobre os retos de coraÃ§Ã£o.",
-      "fra": "<span class=\"verse-number\">10</span> Car auprÃ¨s de toi est la source de la vieÂ ; Par ta lumiÃ¨re nous voyons la lumiÃ¨re.",
-      "deu": "<span class=\"verse-number\">10Â </span><span class=\"line\">denn bei dir ist der Brunnquell des Lebens,</span><span class=\"line\">und in deinem Lichte schauen wir Licht.</span>",
-      "kor": "<span class=\"verse-number\">10</span> ì£¼ë¥¼ ìë ìë¤ìê² ì£¼ì ì¸ìíì¬ì ê³ì ë² í¸ìë©° ë§ìì´ ì ì§í ììê² ì£¼ì ê³µìë¥¼ ë² í¸ìì",
-      "ita": "<span class=\"verse-number\">10</span> Continua la tua benignitÃ  verso quelli che ti conoscono, e la tua rettitudine verso i retti di cuore."
+      "eng": "O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.",
+      "ara": "أَدِمْ رَحْمَتَكَ لِعَارِفيِكَ، وَعَدْلَكَ لِذَوِي الْقُلُوبِ الْمُسْتَقِيمَةِ.",
+      "jpn": "どうか、あなたを<ruby>知<rt>し</rt></ruby>る<ruby>者<rt>もの</rt></ruby>に<ruby>絶<rt>た</rt></ruby>えずいつくしみを<ruby>施<rt>ほどこ</rt></ruby>し、<ruby>心<rt>こころ</rt></ruby>の<ruby>直<rt>なお</rt></ruby>き<ruby>者<rt>もの</rt></ruby>に<ruby>絶<rt>た</rt></ruby>えず<ruby>救<rt>すくい</rt></ruby>を<ruby>施<rt>ほどこ</rt></ruby>してください。",
+      "spa": "<span class=\"line\">Extiende tu misericordia a los que te conocen,</span><span class=\"line\">y tu justicia a los rectos de corazón.</span>",
+      "por": "Estende a tua benignidade sobre os que te conhecem, e a tua justiça sobre os retos de coração.",
+      "fra": "Car auprès de toi est la source de la vie ; Par ta lumière nous voyons la lumière.",
+      "deu": "<span class=\"line\">denn bei dir ist der Brunnquell des Lebens,</span><span class=\"line\">und in deinem Lichte schauen wir Licht.</span>",
+      "kor": "주를 아는 자들에게 주의 인자하심을 계속 베푸시며 마음이 정직한 자에게 주의 공의를 베푸소서",
+      "ita": "Continua la tua benignità verso quelli che ti conoscono, e la tua rettitudine verso i retti di cuore."
     },
     "11": {
-      "eng": "<span class=\"verse-number\">11 </span>Let not the foot of pride come against me, and let not the hand of the wicked remove me.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙØ§ ØªÙØ¯ÙØ¹Ù ÙÙØ¯ÙÙÙ Ø§ÙÙÙÙØªÙÙÙØ¨ÙÙØ±Ù ØªÙØ¨ÙÙÙØºÙÙÙÙØ ÙÙÙÙØ¯Ù Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù ØªÙØ²ÙØ­ÙØ²ÙØ­ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">11</span> <ruby><rb>é«</rb><rt>ãã</rt></ruby>ã¶ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>è¶³</rb><rt>ãã</rt></ruby>ããããã<ruby><rb>è¸</rb><rt>ãµ</rt></ruby>ã¿ã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ããããã<ruby><rb>è¿½</rb><rt>ã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ããã¨ãããããªãã§ãã ããã",
-      "spa": "<span class=\"verse-number\">11 </span><span class=\"line\">No venga contra mÃ­ el pie de la soberbia,</span><span class=\"line\">ni me mueva la mano de los impÃ­os.</span>",
-      "por": "<span class=\"verse-number\">11</span> NÃ£o venha sobre mim o pÃ© dos soberbos, e nÃ£o me mova a mÃ£o dos Ã­mpios.",
-      "fra": "<span class=\"verse-number\">11</span> Ãtends ta bontÃ© sur ceux qui te connaissent, Et ta justice sur ceux dont le cÅur est droitÂ !",
-      "deu": "<span class=\"verse-number\">11Â </span><span class=\"line\">Erhalte deine Gnade (oder: GÃ¼te) denen, die dich kennen,</span><span class=\"line\">und deine Gerechtigkeit den redlich Gesinnten!</span>",
-      "kor": "<span class=\"verse-number\">11</span> êµë§í ìì ë°ì´ ë´ê² ì´ë¥´ì§ ëª»íê² íìë©° ìì¸ë¤ì ìì´ ëë¥¼ ì«ìë´ì§ ëª»íê² íìì",
-      "ita": "<span class=\"verse-number\">11</span> Non mi venga contro il piede del superbo, e la mano degli empi non mi metta in fuga."
+      "eng": "Let not the foot of pride come against me, and let not the hand of the wicked remove me.",
+      "ara": "لَا تَدَعْ قَدَمَ الْمُتَكَبِّرِ تَبْلُغُنِي، وَيَدَ الأَشْرَارِ تُزَحْزِحُنِي.",
+      "jpn": "<ruby>高<rt>たか</rt></ruby>ぶる<ruby>者<rt>もの</rt></ruby>の<ruby>足<rt>あし</rt></ruby>がわたしを<ruby>踏<rt>ふ</rt></ruby>み、<ruby>悪<rt>あ</rt></ruby>しき<ruby>者<rt>もの</rt></ruby>の<ruby>手<rt>て</rt></ruby>がわたしを<ruby>追<rt>お</rt></ruby>い<ruby>出<rt>だ</rt></ruby>すことをゆるさないでください。",
+      "spa": "<span class=\"line\">No venga contra mí el pie de la soberbia,</span><span class=\"line\">ni me mueva la mano de los impíos.</span>",
+      "por": "Não venha sobre mim o pé dos soberbos, e não me mova a mão dos ímpios.",
+      "fra": "Étends ta bonté sur ceux qui te connaissent, Et ta justice sur ceux dont le cœur est droit !",
+      "deu": "<span class=\"line\">Erhalte deine Gnade (oder: Güte) denen, die dich kennen,</span><span class=\"line\">und deine Gerechtigkeit den redlich Gesinnten!</span>",
+      "kor": "교만한 자의 발이 내게 이르지 못하게 하시며 악인들의 손이 나를 쫓아내지 못하게 하소서",
+      "ita": "Non mi venga contro il piede del superbo, e la mano degli empi non mi metta in fuga."
     },
     "12": {
-      "eng": "<span class=\"verse-number\">12 </span>There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙÙØ§ÙÙ Ø³ÙÙÙØ·Ù ÙÙØ§Ø¹ÙÙÙÙ Ø§ÙØ¥ÙØ«ÙÙÙØ Ø·ÙØ±ÙØ­ÙÙØ§Ø Ø¹ÙØ¬ÙØ²ÙÙØ§ Ø¹ÙÙÙ Ø§ÙÙÙÙÙÙÙØ¶Ù.",
-      "jpn": "<span class=\"verse-number\">12</span> <ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ããã«<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>ä¼</rb><rt>ãµ</rt></ruby>ãããã¦ã<ruby><rb>èµ·</rb><rt>ã</rt></ruby>ãããããã¨ã¯ã§ããªãã",
-      "spa": "<span class=\"verse-number\">12 </span><span class=\"line\">AllÃ­ cayeron los obradores de iniquidad;</span><span class=\"line\">fueron derribados y no podrÃ¡n levantarse.</span>",
-      "por": "<span class=\"verse-number\">12</span> Ali caem os que praticam a iniquidade; cairÃ£o, e nÃ£o se poderÃ£o levantar.",
-      "fra": "<span class=\"verse-number\">12</span> Que le pied de lâorgueil ne mâatteigne pas, Et que la main des mÃ©chants ne me fasse pas fuirÂ !",
-      "deu": "<span class=\"verse-number\">12Â </span><span class=\"line\">LaÃ den FuÃ des Hochmuts mich nicht treten</span><span class=\"line\">und die Hand der Frevler mich nicht vertreiben!</span>",
-      "kor": "<span class=\"verse-number\">12</span> ìì ííë ìë¤ì´ ê±°ê¸°ì ëì´ì¡ì¼ë ìëë¬ì§ê³  ë¤ì ì¼ì´ë  ì ìì¼ë¦¬ì´ë¤",
-      "ita": "<span class=\"verse-number\">12</span> Ecco lÃ , gli operatori dâiniquitÃ  sono caduti; sono gettati a terra, e non possono rialzarsi."
+      "eng": "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.",
+      "ara": "هُنَاكَ سَقَطَ فَاعِلُو الإِثْمِ، طُرِحُوا، عَجَزُوا عَنِ النُّهُوضِ.",
+      "jpn": "<ruby>悪<rt>あく</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>者<rt>もの</rt></ruby>はそこに<ruby>倒<rt>たお</rt></ruby>れ、<ruby>彼<rt>かれ</rt></ruby>らは<ruby>打<rt>う</rt></ruby>ち<ruby>伏<rt>ふ</rt></ruby>せられて、<ruby>起<rt>お</rt></ruby>きあがることはできない。",
+      "spa": "<span class=\"line\">Allí cayeron los obradores de iniquidad;</span><span class=\"line\">fueron derribados y no podrán levantarse.</span>",
+      "por": "Ali caem os que praticam a iniquidade; cairão, e não se poderão levantar.",
+      "fra": "Que le pied de l’orgueil ne m’atteigne pas, Et que la main des méchants ne me fasse pas fuir !",
+      "deu": "<span class=\"line\">Laß den Fuß des Hochmuts mich nicht treten</span><span class=\"line\">und die Hand der Frevler mich nicht vertreiben!</span>",
+      "kor": "악을 행하는 자들이 거기서 넘어졌으니 엎드러지고 다시 일어날 수 없으리이다",
+      "ita": "Ecco là, gli operatori d’iniquità sono caduti; sono gettati a terra, e non possono rialzarsi."
     },
     "13": {
-      "fra": "<span class=\"verse-number\">13</span> DÃ©jÃ  tombent ceux qui commettent lâiniquitÃ©Â ; Ils sont renversÃ©s et ils ne peuvent se relever.",
-      "deu": "<span class=\"verse-number\">13Â </span><span class=\"line\">Einst werden die ÃbeltÃ¤ter gefallen sein,</span><span class=\"line\">niedergestÃ¼rzt und kÃ¶nnen nicht wieder aufstehn.</span>"
+      "fra": "Déjà tombent ceux qui commettent l’iniquité ; Ils sont renversés et ils ne peuvent se relever.",
+      "deu": "<span class=\"line\">Einst werden die Übeltäter gefallen sein,</span><span class=\"line\">niedergestürzt und können nicht wieder aufstehn.</span>"
     }
   }
 }

@@ -4,15 +4,15 @@
     "book": "ps",
     "chapter": 101,
     "headings": {
-      "eng": "David sings of mercy and justiceâHe will forsake the company of evildoers.",
-      "spa": "David canta de la misericordia y del juicioÂ â David rechazarÃ¡ la compaÃ±Ã­a de los que hacen el mal.",
-      "por": "Davi canta a misericÃ³rdia e a justiÃ§aÂ â Ele rejeitarÃ¡ a companhia dos que praticam a iniquidade.",
-      "fra": "David chante la bontÃ© et la justice. Il renoncera Ã  la compagnie des mÃ©chants.",
-      "ita": "Davide canta la benignitÃ  e la giustiziaÂ â Egli abbandonerÃ  la compagnia dei malvagi."
+      "eng": "David sings of mercy and justice—He will forsake the company of evildoers.",
+      "spa": "David canta de la misericordia y del juicio — David rechazará la compañía de los que hacen el mal.",
+      "por": "Davi canta a misericórdia e a justiça — Ele rejeitará a companhia dos que praticam a iniquidade.",
+      "fra": "David chante la bonté et la justice. Il renoncera à la compagnie des méchants.",
+      "ita": "Davide canta la benignità e la giustizia — Egli abbandonerà la compagnia dei malvagi."
     },
     "intros": {
       "eng": "A Psalm of David.",
-      "jpn": "ãããã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
+      "jpn": "ダビデの<ruby>歌<rt>うた</rt></ruby>",
       "spa": "Salmo de David.",
       "por": "Salmo de Davi.",
       "ita": "Salmo di Davide."
@@ -20,92 +20,92 @@
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>I will sing of mercy and judgment: unto thee, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, will I sing.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø³ÙØ£ÙØ´ÙÙØ¯Ù Ø¨ÙØ±ÙØ­ÙÙÙØªÙÙÙ ÙÙØ¹ÙØ¯ÙÙÙÙÙ ÙÙØ§ Ø±ÙØ¨ÙÙØ ÙÙÙÙÙÙ Ø£ÙØ±ÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">1</span> ãããã¯ãã¤ããã¿ã¨<ruby><rb>å¬ç¾©</rb><rt>ããã</rt></ruby>ã«ã¤ãã¦<ruby><rb>æ­</rb><rt>ãã</rt></ruby>ãã¾ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããããã¯ããªãã«ããã£ã¦<ruby><rb>æ­</rb><rt>ãã</rt></ruby>ãã¾ãã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">Misericordia y juicio cantarÃ©;</span><span class=\"line\">a ti, oh JehovÃ¡, cantarÃ©.</span>",
-      "por": "<span class=\"verse-number\">1</span> Cantarei a misericÃ³rdia e o juÃ­zo; a ti, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, cantarei.",
-      "fra": "<span class=\"verse-number\">1</span> De David. Psaume. Je chanterai la bontÃ© et la justiceÂ ; Câest Ã  toi, ÃternelÂ ! que je chanterai.",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Von David, ein Psalm.</span><span class=\"line\">Von Gnade und Recht will ich singen,</span><span class=\"line\">dir, o HErr, will ich spielen!</span>",
-      "kor": "<span class=\"verse-number\">1</span> ë´ê° ì¸ìì ì ìë¥¼ ë¸ëíê² ëì´ë¤ ì¬í¸ìì¬ ë´ê° ì£¼ê» ì°¬ìíë¦¬ì´ë¤",
-      "ita": "<span class=\"verse-number\">1</span> Io canterÃ² la benignitÃ  e la giustizia; a te, o Eterno, salmeggerÃ²."
+      "eng": "I will sing of mercy and judgment: unto thee, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, will I sing.",
+      "ara": "سَأُشِيدُ بِرَحْمَتِكَ وَعَدْلِكَ يَا رَبُّ، وَلَكَ أُرَنِّمُ.",
+      "jpn": "わたしはいつくしみと<ruby>公義<rt>こうぎ</rt></ruby>について<ruby>歌<rt>うた</rt></ruby>います。<ruby>主<rt>しゅ</rt></ruby>よ、わたしはあなたにむかって<ruby>歌<rt>うた</rt></ruby>います。",
+      "spa": "<span class=\"line\">Misericordia y juicio cantaré;</span><span class=\"line\">a ti, oh Jehová, cantaré.</span>",
+      "por": "Cantarei a misericórdia e o juízo; a ti, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, cantarei.",
+      "fra": "De David. Psaume. Je chanterai la bonté et la justice ; C’est à toi, Éternel ! que je chanterai.",
+      "deu": "<span class=\"line\">Von David, ein Psalm.</span><span class=\"line\">Von Gnade und Recht will ich singen,</span><span class=\"line\">dir, o HErr, will ich spielen!</span>",
+      "kor": "내가 인자와 정의를 노래하겠나이다 여호와여 내가 주께 찬양하리이다",
+      "ita": "Io canterò la benignità e la giustizia; a te, o Eterno, salmeggerò."
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø£ÙØ³ÙÙÙÙÙ Ø¨ÙØªÙØ¹ÙÙÙÙÙÙ ÙÙÙ Ø·ÙØ±ÙÙÙÙ Ø§ÙÙÙÙÙÙØ§ÙÙ. ÙÙØªÙÙ ØªÙØ£ÙØªÙÙ ÙÙØ§ Ø±ÙØ¨ÙÙ ÙÙÙÙØ¹ÙÙÙÙØªÙÙØ Ø£ÙØ³ÙÙÙÙÙ ÙÙÙ ÙÙØ³ÙØ·Ù Ø¨ÙÙÙØªÙÙ Ø¨ÙØ§Ø³ÙØªÙÙÙØ§ÙÙØ©Ù ÙÙÙÙØ¨ÙÙ.",
-      "jpn": "<span class=\"verse-number\">2</span> ãããã¯<ruby><rb>å¨</rb><rt>ã¾ã£ã</rt></ruby>ã<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã«<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ãã¨ãã¾ããããªãã¯ãã¤ããããã«<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ãããã§ããããããããã¯<ruby><rb>ç´</rb><rt>ãªã</rt></ruby>ã<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ããã£ã¦ããã<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã®ãã¡ã<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ã¿ã¾ãã",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">PrestarÃ© atenciÃ³n al camino de la perfecciÃ³n.</span><span class=\"line\">Â¿CuÃ¡ndo vendrÃ¡s a mÃ­?</span><span class=\"line\">En la integridad de mi corazÃ³n andarÃ© en medio de mi casa.</span>",
-      "por": "<span class=\"verse-number\">2</span> Portar-me-ei com sabedoria no caminho reto. Quando virÃ¡s a mim? Andarei em minha casa com um coraÃ§Ã£o Ã­ntegro.",
-      "fra": "<span class=\"verse-number\">2</span> Je prendrai garde Ã  la voie droite. Quand viendras-tu Ã  moiÂ ? Je marcherai dans lâintÃ©gritÃ© de mon cÅur, Au milieu de ma maison.",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Achten will ich auf fehllosen Wandel</span><span class=\"line\">â wann wirst du zu mir kommen? â </span><span class=\"line\">In Herzensreinheit will ich wandeln</span><span class=\"line\">im Innern meines Hauses.</span>",
-      "kor": "<span class=\"verse-number\">2</span> ë´ê° ìì í ê¸¸ì ì£¼ëª©íì¤ë¦¬ë ì£¼ê»ì ì´ë ëë ë´ê² ìíìê² ëì´ê¹ ë´ê° ìì í ë§ìì¼ë¡ ë´ ì§ ììì ííë¦¬ì´ë¤",
-      "ita": "<span class=\"verse-number\">2</span> Io mi applicherÃ² a seguire la via perfetta; quando verrai a me? Io camminerÃ² con integritÃ  di cuore, dentro la mia casa."
+      "eng": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.",
+      "ara": "أَسْلُكُ بِتَعَقُّلٍ فِي طَرِيقِ الْكَمَالِ. مَتَى تَأْتِي يَا رَبُّ لِمَعُونَتِي؟ أَسْلُكُ فِي وَسَطِ بَيْتِي بِاسْتِقَامَةِ قَلْبِي.",
+      "jpn": "わたしは<ruby>全<rt>まった</rt></ruby>き<ruby>道<rt>みち</rt></ruby>に<ruby>心<rt>こころ</rt></ruby>をとめます。あなたはいつ、わたしに<ruby>来<rt>こ</rt></ruby>られるでしょうか。わたしは<ruby>直<rt>なお</rt></ruby>き<ruby>心<rt>こころ</rt></ruby>をもって、わが<ruby>家<rt>いえ</rt></ruby>のうちを<ruby>歩<rt>あゆ</rt></ruby>みます。",
+      "spa": "<span class=\"line\">Prestaré atención al camino de la perfección.</span><span class=\"line\">¿Cuándo vendrás a mí?</span><span class=\"line\">En la integridad de mi corazón andaré en medio de mi casa.</span>",
+      "por": "Portar-me-ei com sabedoria no caminho reto. Quando virás a mim? Andarei em minha casa com um coração íntegro.",
+      "fra": "Je prendrai garde à la voie droite. Quand viendras-tu à moi ? Je marcherai dans l’intégrité de mon cœur, Au milieu de ma maison.",
+      "deu": "<span class=\"line\">Achten will ich auf fehllosen Wandel</span><span class=\"line\">— wann wirst du zu mir kommen? — </span><span class=\"line\">In Herzensreinheit will ich wandeln</span><span class=\"line\">im Innern meines Hauses.</span>",
+      "kor": "내가 완전한 길을 주목하오리니 주께서 어느 때나 내게 임하시겠나이까 내가 완전한 마음으로 내 집 안에서 행하리이다",
+      "ita": "Io mi applicherò a seguire la via perfetta; quando verrai a me? Io camminerò con integrità di cuore, dentro la mia casa."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>I will set no wicked thing before mine eyes: I hate the work of them that turn aside; <span class=\"clarity-word\">it</span> shall not cleave to me.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙÙ Ø£ÙØ¶ÙØ¹Ù ÙÙØµÙØ¨Ù Ø¹ÙÙÙÙÙÙÙÙ Ø£ÙÙÙØ±Ø§Ù Ø¨ÙØ§Ø·ÙÙØ§ÙØ ÙÙØ¥ÙÙÙÙÙ Ø£ÙØ¨ÙØºÙØ¶Ù Ø¹ÙÙÙÙÙ Ø§ÙØ¶ÙÙØ§ÙÙÙÙÙÙ ÙÙØ¦ÙÙÙØ§ ÙÙÙÙØªÙØµÙÙÙ Ø¨ÙÙ.",
-      "jpn": "<span class=\"verse-number\">3</span> ãããã¯<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ãã¾ããããããã¯ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãã<ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ã¿ã¾ããããã¯ãããã«<ruby><rb>ä»</rb><rt>ã¤</rt></ruby>ãã¾ã¨ãã¾ããã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">No pondrÃ© delante de mis ojos cosa indigna;</span><span class=\"line\">aborrezco la obra de los que se desvÃ­an;</span><span class=\"line\">nada <span class=\"clarity-word\">de esto</span> se aferrarÃ¡ a mÃ­.</span>",
-      "por": "<span class=\"verse-number\">3</span> NÃ£o porei coisa mÃ¡ diante dos meus olhos; odeio a obra daqueles que se desviam; nÃ£o se apegarÃ¡ a mim.",
-      "fra": "<span class=\"verse-number\">3</span> Je ne mettrai rien de mauvais devant mes yeuxÂ ; Je hais la conduite des pÃ©cheursÂ ; Elle ne sâattachera pas Ã  moi.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Ich will nicht mein Auge gerichtet halten</span><span class=\"line\">auf schandbare Dinge;</span><span class=\"line\">das Tun der AbtrÃ¼nnigen hasse ich:</span><span class=\"line\">es soll mir nicht anhaften.</span>",
-      "kor": "<span class=\"verse-number\">3</span> ëë ë¹ì²í ê²ì ë´ ë ìì ëì§ ìëí  ê²ì´ì ë°°êµìë¤ì íìë¥¼ ë´ê° ë¯¸ìíì¤ë¦¬ë ëë ê·¸ ì´ë ê²ë ë¶ë¤ì§ ìëíë¦¬ì´ë¤",
-      "ita": "<span class=\"verse-number\">3</span> Non mi proporrÃ² alcuna cosa scellerata; io odio il fare degli sviati; esso non mi si attaccherÃ ."
+      "eng": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; <span class=\"clarity-word\">it</span> shall not cleave to me.",
+      "ara": "لَنْ أَضَعَ نُصْبَ عَيْنَيَّ أَمْراً بَاطِلاً، فَإِنِّي أُبْغِضُ عَمَلَ الضَّالِّينَ لِئَلّا يَلْتَصِقَ بِي.",
+      "jpn": "わたしは<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>卑<rt>いや</rt></ruby>しい<ruby>事<rt>こと</rt></ruby>を<ruby>置<rt>お</rt></ruby>きません。わたしはそむく<ruby>者<rt>もの</rt></ruby>の<ruby>行<rt>おこな</rt></ruby>いを<ruby>憎<rt>にく</rt></ruby>みます。それはわたしに<ruby>付<rt>つ</rt></ruby>きまといません。",
+      "spa": "<span class=\"line\">No pondré delante de mis ojos cosa indigna;</span><span class=\"line\">aborrezco la obra de los que se desvían;</span><span class=\"line\">nada <span class=\"clarity-word\">de esto</span> se aferrará a mí.</span>",
+      "por": "Não porei coisa má diante dos meus olhos; odeio a obra daqueles que se desviam; não se apegará a mim.",
+      "fra": "Je ne mettrai rien de mauvais devant mes yeux ; Je hais la conduite des pécheurs ; Elle ne s’attachera pas à moi.",
+      "deu": "<span class=\"line\">Ich will nicht mein Auge gerichtet halten</span><span class=\"line\">auf schandbare Dinge;</span><span class=\"line\">das Tun der Abtrünnigen hasse ich:</span><span class=\"line\">es soll mir nicht anhaften.</span>",
+      "kor": "나는 비천한 것을 내 눈 앞에 두지 아니할 것이요 배교자들의 행위를 내가 미워하오리니 나는 그 어느 것도 붙들지 아니하리이다",
+      "ita": "Non mi proporrò alcuna cosa scellerata; io odio il fare degli sviati; esso non mi si attaccherà."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>A froward heart shall depart from me: I will not know a wicked <span class=\"clarity-word\">person.</span>",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙÙÙÙØ§Ø±ÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙØ¨Ù Ø§ÙÙÙÙÙÙØ­ÙØ±ÙÙÙ ÙÙÙÙØ§ Ø£ÙØ±ÙØªÙÙÙØ¨Ù Ø´ÙØ±ÙØ§Ù.",
-      "jpn": "<span class=\"verse-number\">4</span> ã²ããã <ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã¯ãããã<ruby><rb>é¢</rb><rt>ã¯ãª</rt></ruby>ããã§ãããããããã¯<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãã¾ããã",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">El corazÃ³n perverso se apartarÃ¡ de mÃ­;</span><span class=\"line\">no conocerÃ© la maldad.</span>",
-      "por": "<span class=\"verse-number\">4</span> Um coraÃ§Ã£o perverso se apartarÃ¡ de mim; nÃ£o conhecerei o <span class=\"clarity-word\">homem</span> mau.",
-      "fra": "<span class=\"verse-number\">4</span> Le cÅur pervers sâÃ©loignera de moiÂ ; Je ne veux pas connaÃ®tre le mÃ©chant.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Ein falsches Herz soll fern von mir bleiben,</span><span class=\"line\">einen BÃ¶sen will ich nicht kennen.</span>",
-      "kor": "<span class=\"verse-number\">4</span> ì¬ìí ë§ìì´ ë´ê²ì ë ë  ê²ì´ë ìí ì¼ì ë´ê° ìì§ ìëíë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">4</span> Il cuore perverso si allontanerÃ  da me; il malvagio non lo conoscerÃ²."
+      "eng": "A froward heart shall depart from me: I will not know a wicked <span class=\"clarity-word\">person.</span>",
+      "ara": "لِيُفَارِقْنِي الْقَلْبُ الْمُنْحَرِفُ فَلَا أَرْتَكِبَ شَرّاً.",
+      "jpn": "ひがんだ<ruby>心<rt>こころ</rt></ruby>はわたしを<ruby>離<rt>はな</rt></ruby>れるでしょう。わたしは<ruby>悪<rt>わる</rt></ruby>い<ruby>事<rt>こと</rt></ruby>を<ruby>知<rt>し</rt></ruby>りません。",
+      "spa": "<span class=\"line\">El corazón perverso se apartará de mí;</span><span class=\"line\">no conoceré la maldad.</span>",
+      "por": "Um coração perverso se apartará de mim; não conhecerei o <span class=\"clarity-word\">homem</span> mau.",
+      "fra": "Le cœur pervers s’éloignera de moi ; Je ne veux pas connaître le méchant.",
+      "deu": "<span class=\"line\">Ein falsches Herz soll fern von mir bleiben,</span><span class=\"line\">einen Bösen will ich nicht kennen.</span>",
+      "kor": "사악한 마음이 내게서 떠날 것이니 악한 일을 내가 알지 아니하리로다",
+      "ita": "Il cuore perverso si allontanerà da me; il malvagio non lo conoscerò."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>Ø£ÙØ¨ÙÙØ¯Ù ÙÙÙÙÙ ÙÙÙÙ ÙÙØºÙØªÙØ§Ø¨Ù ÙÙØ±ÙÙØ¨ÙÙÙ Ø³ÙØ±ÙØ§ÙØ ÙÙØ°ÙÙ Ø§ÙÙØ¹ÙÙÙÙÙ Ø§ÙÙÙÙØªÙØ´ÙØ§ÙÙØ®ÙØ©Ù ÙÙØ§ÙÙÙÙÙÙØ¨Ù Ø§ÙÙÙÙØªÙÙÙØ¨ÙÙØ±Ù ÙÙØ§ Ø£ÙØ­ÙØªÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">5</span> ã²ããã«ããã®<ruby><rb>é£</rb><rt>ã¨ãª</rt></ruby>ã<ruby><rb>äºº</rb><rt>ã³ã¨</rt></ruby>ãããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããããã¯<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã¼ãã¾ãã<ruby><rb>é«</rb><rt>ãã</rt></ruby>ã¶ã<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã¨<ruby><rb>é«æ¢</rb><rt>ããã¾ã</rt></ruby>ãª<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>è</rb><rt>ã</rt></ruby>ã<ruby><rb>å¿</rb><rt>ãã®</rt></ruby>ã¶<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã¯ã§ãã¾ããã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">Al que solapadamente difama a su prÃ³jimo,</span><span class=\"line\">yo lo destruirÃ©;</span><span class=\"line\">no tolerarÃ© al de ojos altaneros y de corazÃ³n vanidoso.</span>",
-      "por": "<span class=\"verse-number\">5</span> Aquele que calunia o seu prÃ³ximo Ã s escondidas, eu o destruirei; aquele que tem olhar altivo, e coraÃ§Ã£o soberbo, nÃ£o suportarei.",
-      "fra": "<span class=\"verse-number\">5</span> Celui qui calomnie en secret son prochain, je lâanÃ©antiraiÂ ; Celui qui a des regards hautains et un cÅur enflÃ©, je ne le supporterai pas.",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Wer seinen NÃ¤chsten heimlich verleumdet,</span><span class=\"line\">den will ich zum Schweigen bringen;</span><span class=\"line\">wer stolze Augen hat und ein hoffÃ¤rtig Herz,</span><span class=\"line\">den werde ich nicht ertragen.</span>",
-      "kor": "<span class=\"verse-number\">5</span> ìê¸°ì ì´ìì ìê·¼í íë¯ë ìë¥¼ ë´ê° ë©¸í  ê²ì´ì ëì´ ëê³  ë§ìì´ êµë§í ìë¥¼ ë´ê° ì©ë©íì§ ìëíë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">5</span> Io sterminerÃ² chi sparla in segreto del suo prossimo; e chi ha lâocchio altero e il cuore gonfio non lo sopporterÃ²."
+      "eng": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.",
+      "ara": "أُبِيدُ كُلَّ مَنْ يَغْتَابُ قَرِيبَهُ سِرّاً؛ وَذُو الْعَيْنِ الْمُتَشَامِخَةِ وَالْقَلْبِ الْمُتَكَبِّرِ لَا أَحْتَمِلُهُ.",
+      "jpn": "ひそかに、その<ruby>隣<rt>とな</rt></ruby>り<ruby>人<rt>びと</rt></ruby>をそしる<ruby>者<rt>もの</rt></ruby>をわたしは<ruby>滅<rt>ほろ</rt></ruby>ぼします。<ruby>高<rt>たか</rt></ruby>ぶる<ruby>目<rt>め</rt></ruby>と<ruby>高慢<rt>こうまん</rt></ruby>な<ruby>心<rt>こころ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>耐<rt>た</rt></ruby>え<ruby>忍<rt>しの</rt></ruby>ぶ<ruby>事<rt>こと</rt></ruby>はできません。",
+      "spa": "<span class=\"line\">Al que solapadamente difama a su prójimo,</span><span class=\"line\">yo lo destruiré;</span><span class=\"line\">no toleraré al de ojos altaneros y de corazón vanidoso.</span>",
+      "por": "Aquele que calunia o seu próximo às escondidas, eu o destruirei; aquele que tem olhar altivo, e coração soberbo, não suportarei.",
+      "fra": "Celui qui calomnie en secret son prochain, je l’anéantirai ; Celui qui a des regards hautains et un cœur enflé, je ne le supporterai pas.",
+      "deu": "<span class=\"line\">Wer seinen Nächsten heimlich verleumdet,</span><span class=\"line\">den will ich zum Schweigen bringen;</span><span class=\"line\">wer stolze Augen hat und ein hoffärtig Herz,</span><span class=\"line\">den werde ich nicht ertragen.</span>",
+      "kor": "자기의 이웃을 은근히 헐뜯는 자를 내가 멸할 것이요 눈이 높고 마음이 교만한 자를 내가 용납하지 아니하리로다",
+      "ita": "Io sterminerò chi sparla in segreto del suo prossimo; e chi ha l’occhio altero e il cuore gonfio non lo sopporterò."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>Mine eyes <span class=\"clarity-word\">shall be</span> upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ØªÙØ±ÙØ¹ÙÙ Ø¹ÙÙÙÙÙØ§ÙÙ Ø§ÙØ£ÙÙÙÙÙØ§Ø¡Ù ÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù ÙÙÙÙØ³ÙÙÙÙÙÙØ§ ÙÙØ¹ÙÙ. ÙÙØ®ÙØ¯ÙÙØ§ÙÙÙ ÙÙÙÙ Ø§ÙØ³ÙÙØ§ÙÙÙÙÙÙÙ ÙÙÙ Ø·ÙØ±ÙÙÙÙ Ø§ÙÙÙÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">6</span> ãããã¯<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ã®ãã¡ã®<ruby><rb>å¿ ä¿¡</rb><rt>ã¡ãããã</rt></ruby>ãª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«<ruby><rb>å¥½æ</rb><rt>ããã</rt></ruby>ã<ruby><rb>å¯</rb><rt>ã</rt></ruby>ãããããã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ã¾ããã¾ãã<ruby><rb>å¨</rb><rt>ã¾ã£ã</rt></ruby>ã<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ãããã«<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ããã§ãããã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Mis ojos <span class=\"clarity-word\">pondrÃ©</span> en los fieles de la tierra,</span><span class=\"line\">para que moren conmigo;</span><span class=\"line\">el que ande en el camino de la perfecciÃ³n,</span><span class=\"line\">este me servirÃ¡.</span>",
-      "por": "<span class=\"verse-number\">6</span> Os meus olhos <span class=\"clarity-word\">estarÃ£o</span> sobre os fiÃ©is da terra, para que se assentem comigo; o que anda <span class=\"clarity-word\">num</span> caminho reto, esse me servirÃ¡.",
-      "fra": "<span class=\"verse-number\">6</span> Jâaurai les yeux sur les fidÃ¨les du pays, Pour quâils demeurent auprÃ¨s de moiÂ ; Celui qui marche dans une voie intÃ¨gre sera mon serviteur.",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">Meine Augen sollen blicken auf die Treuen im Lande:</span><span class=\"line\">die sollen bei mir wohnen;</span><span class=\"line\">wer auf frommem Wege wandelt,</span><span class=\"line\">der soll mir dienen.</span>",
-      "kor": "<span class=\"verse-number\">6</span> ë´ ëì´ <span class=\"clarity-word\">ì´</span> ëì ì¶©ì±ë ìë¥¼ ì´í´ ëì í¨ê» ì´ê² íë¦¬ë ìì í ê¸¸ì ííë ìê° ëë¥¼ ë°ë¥´ë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">6</span> AvrÃ² gli occhi sui fedeli del paese perchÃ© dimorino con me; chi cammina per la via dellâintegritÃ , quello sarÃ  mio servitore."
+      "eng": "Mine eyes <span class=\"clarity-word\">shall be</span> upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
+      "ara": "تَرْعَى عَيْنَايَ الأُمَنَاءَ فِي الأَرْضِ لِيَسْكُنُوا مَعِي. وَخُدَّامِي هُمُ السَّالِكُونَ فِي طَرِيقِ الكَمَالِ.",
+      "jpn": "わたしは<ruby>国<rt>くに</rt></ruby>のうちの<ruby>忠信<rt>ちゅうしん</rt></ruby>な<ruby>者<rt>もの</rt></ruby>に<ruby>好意<rt>こうい</rt></ruby>を<ruby>寄<rt>よ</rt></ruby>せ、わたしと<ruby>共<rt>とも</rt></ruby>に<ruby>住<rt>す</rt></ruby>まわせます。<ruby>全<rt>まった</rt></ruby>き<ruby>道<rt>みち</rt></ruby>を<ruby>歩<rt>あゆ</rt></ruby>む<ruby>者<rt>もの</rt></ruby>はわたしに<ruby>仕<rt>つか</rt></ruby>えるでしょう。",
+      "spa": "<span class=\"line\">Mis ojos <span class=\"clarity-word\">pondré</span> en los fieles de la tierra,</span><span class=\"line\">para que moren conmigo;</span><span class=\"line\">el que ande en el camino de la perfección,</span><span class=\"line\">este me servirá.</span>",
+      "por": "Os meus olhos <span class=\"clarity-word\">estarão</span> sobre os fiéis da terra, para que se assentem comigo; o que anda <span class=\"clarity-word\">num</span> caminho reto, esse me servirá.",
+      "fra": "J’aurai les yeux sur les fidèles du pays, Pour qu’ils demeurent auprès de moi ; Celui qui marche dans une voie intègre sera mon serviteur.",
+      "deu": "<span class=\"line\">Meine Augen sollen blicken auf die Treuen im Lande:</span><span class=\"line\">die sollen bei mir wohnen;</span><span class=\"line\">wer auf frommem Wege wandelt,</span><span class=\"line\">der soll mir dienen.</span>",
+      "kor": "내 눈이 <span class=\"clarity-word\">이</span> 땅의 충성된 자를 살펴 나와 함께 살게 하리니 완전한 길에 행하는 자가 나를 따르리로다",
+      "ita": "Avrò gli occhi sui fedeli del paese perché dimorino con me; chi cammina per la via dell’integrità, quello sarà mio servitore."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙØ§ ÙÙÙÙÙÙÙ Ø¯ÙØ§Ø®ÙÙÙ Ø¨ÙÙÙØªÙÙ Ø§ÙÙØºÙØ´ÙÙØ§Ø´ÙÙÙÙØ ÙÙØ§ÙÙÙÙØ°ÙØ¨ÙØ©Ù ÙÙØ§ ÙÙÙÙØ«ÙÙÙÙÙÙ Ø£ÙÙÙØ§ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>æ¬º</rb><rt>ããã</rt></ruby>ããã¨ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ãã<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã®ãã¡ã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ããã¨ãã§ãã¾ããã<ruby><rb>å½</rb><rt>ãã¤ã</rt></ruby>ãã<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ãã<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¤ãã¨ãã§ãã¾ããã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">No habitarÃ¡ dentro de mi casa el que practica el engaÃ±o;</span><span class=\"line\">el que habla mentiras no se afirmarÃ¡ delante de mis ojos.</span>",
-      "por": "<span class=\"verse-number\">7</span> O que usa de engano nÃ£o ficarÃ¡ dentro da minha casa; o que fala mentiras nÃ£o permanecerÃ¡ ante os meus olhos.",
-      "fra": "<span class=\"verse-number\">7</span> Celui qui se livre Ã  la fraude nâhabitera pas dans ma maisonÂ ; Celui qui dit des mensonges ne subsistera pas en ma prÃ©sence.",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">Nicht darf inmitten meines Hauses weilen,</span><span class=\"line\">wer Trug verÃ¼bt;</span><span class=\"line\">wer LÃ¼gen redet, soll nicht bestehn</span><span class=\"line\">vor meinen Augen.</span>",
-      "kor": "<span class=\"verse-number\">7</span> ê±°ì§ì ííë ìë ë´ ì§ ìì ê±°ì£¼íì§ ëª»íë©° ê±°ì§ë§íë ìë ë´ ëª©ì ì ìì§ ëª»íë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">7</span> Chi pratica la frode non abiterÃ  nella mia casa; chi proferisce menzogna non sussisterÃ  davanti ai miei occhi."
+      "eng": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.",
+      "ara": "لَا يُقِيمُ دَاخِلَ بَيْتِي الْغَشَّاشُونَ، وَالْكَذَبَةُ لَا يَمْثُلُونَ أَمَامِي.",
+      "jpn": "<ruby>欺<rt>あざむ</rt></ruby>くことをする<ruby>者<rt>もの</rt></ruby>はわが<ruby>家<rt>いえ</rt></ruby>のうちに<ruby>住<rt>す</rt></ruby>むことができません。<ruby>偽<rt>いつわ</rt></ruby>りを<ruby>言<rt>い</rt></ruby>う<ruby>者<rt>もの</rt></ruby>はわが<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つことができません。",
+      "spa": "<span class=\"line\">No habitará dentro de mi casa el que practica el engaño;</span><span class=\"line\">el que habla mentiras no se afirmará delante de mis ojos.</span>",
+      "por": "O que usa de engano não ficará dentro da minha casa; o que fala mentiras não permanecerá ante os meus olhos.",
+      "fra": "Celui qui se livre à la fraude n’habitera pas dans ma maison ; Celui qui dit des mensonges ne subsistera pas en ma présence.",
+      "deu": "<span class=\"line\">Nicht darf inmitten meines Hauses weilen,</span><span class=\"line\">wer Trug verübt;</span><span class=\"line\">wer Lügen redet, soll nicht bestehn</span><span class=\"line\">vor meinen Augen.</span>",
+      "kor": "거짓을 행하는 자는 내 집 안에 거주하지 못하며 거짓말하는 자는 내 목전에 서지 못하리로다",
+      "ita": "Chi pratica la frode non abiterà nella mia casa; chi proferisce menzogna non sussisterà davanti ai miei occhi."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø£ÙÙÙØ¶ÙÙ ÙÙÙ ÙÙÙÙÙ ØµÙØ¨ÙØ§Ø­Ù Ø¹ÙÙÙÙ Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù ÙÙÙ Ø£ÙØ±ÙØ¶ÙÙÙØ§Ø Ø­ÙØªÙÙÙ Ø£ÙØ³ÙØªÙØ£ÙØµÙÙÙ ÙÙÙÙ ÙÙØ¯ÙÙÙÙØ©Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙ ÙÙØ§Ø¹ÙÙÙÙ Ø§ÙØ¥ÙØ«ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">8</span> ãããã¯<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¨ã«<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ã®<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããã¨ãã¨ã<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã¼ãã<ruby><rb>ä¸ç¾©</rb><rt>ãµã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããã¨ãã¨ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é½</rb><rt>ã¿ãã</rt></ruby>ãã<ruby><rb>æ­</rb><rt>ã</rt></ruby>ã¡<ruby><rb>é¤</rb><rt>ã®ã</rt></ruby>ãã¾ãã",
-      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">Por las maÃ±anas destruirÃ© a todos los malvados de la tierra,</span><span class=\"line\">para talar de la ciudad de JehovÃ¡ a todos los que hagan iniquidad.</span>",
-      "por": "<span class=\"verse-number\">8</span> Pela manhÃ£ destruirei todos os Ã­mpios da terra, para desarraigar da cidade do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> todos os que praticam a iniquidade.",
-      "fra": "<span class=\"verse-number\">8</span> Chaque matin, jâanÃ©antirai tous les mÃ©chants du pays, Afin dâexterminer de la ville de lâÃternel Tous ceux qui commettent lâiniquitÃ©.",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">Jeden Morgen (= Tag fÃ¼r Tag) will ich unschÃ¤dlich machen</span><span class=\"line\">alle Frevler im Lande,</span><span class=\"line\">um auszurotten aus der Stadt des HErrn</span><span class=\"line\">alle ÃbeltÃ¤ter.</span>",
-      "kor": "<span class=\"verse-number\">8</span> ìì¹¨ë§ë¤ ë´ê° <span class=\"clarity-word\">ì´</span> ëì ëª¨ë  ìì¸ì ë©¸íë¦¬ë ìì ííë ìë ì¬í¸ìì ì±ìì ë¤ ëì´ì§ë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">8</span> Ogni mattina distruggerÃ² tutti gli empi del paese per estirpare dalla cittÃ  dellâEterno tutti gli operatori dâiniquitÃ ."
+      "eng": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "أَقْضِي فِي كُلِّ صَبَاحٍ عَلَى جَمِيعِ الأَشْرَارِ فِي أَرْضِنَا، حَتَّى أَسْتَأْصِلَ مِنْ مَدِينَةِ الرَّبِّ كُلَّ فَاعِلِي الإِثْمِ.",
+      "jpn": "わたしは<ruby>朝<rt>あさ</rt></ruby>ごとに<ruby>国<rt>くに</rt></ruby>の<ruby>悪<rt>あ</rt></ruby>しき<ruby>者<rt>もの</rt></ruby>をことごとく<ruby>滅<rt>ほろ</rt></ruby>ぼし、<ruby>不義<rt>ふぎ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>者<rt>もの</rt></ruby>をことごとく<ruby>主<rt>しゅ</rt></ruby>の<ruby>都<rt>みやこ</rt></ruby>から<ruby>断<rt>た</rt></ruby>ち<ruby>除<rt>のぞ</rt></ruby>きます。",
+      "spa": "<span class=\"line\">Por las mañanas destruiré a todos los malvados de la tierra,</span><span class=\"line\">para talar de la ciudad de Jehová a todos los que hagan iniquidad.</span>",
+      "por": "Pela manhã destruirei todos os ímpios da terra, para desarraigar da cidade do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> todos os que praticam a iniquidade.",
+      "fra": "Chaque matin, j’anéantirai tous les méchants du pays, Afin d’exterminer de la ville de l’Éternel Tous ceux qui commettent l’iniquité.",
+      "deu": "<span class=\"line\">Jeden Morgen (= Tag für Tag) will ich unschädlich machen</span><span class=\"line\">alle Frevler im Lande,</span><span class=\"line\">um auszurotten aus der Stadt des HErrn</span><span class=\"line\">alle Übeltäter.</span>",
+      "kor": "아침마다 내가 <span class=\"clarity-word\">이</span> 땅의 모든 악인을 멸하리니 악을 행하는 자는 여호와의 성에서 다 끊어지리로다",
+      "ita": "Ogni mattina distruggerò tutti gli empi del paese per estirpare dalla città dell’Eterno tutti gli operatori d’iniquità."
     }
   }
 }

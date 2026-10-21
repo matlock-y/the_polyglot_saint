@@ -4,97 +4,97 @@
     "book": "ps",
     "chapter": 14,
     "headings": {
-      "eng": "David says, The fool has said in his heart, there is no GodâIsrael will rejoice in the day of restoration.",
-      "spa": "David dice: El necio ha dicho en su corazÃ³n: No hay DiosÂ â Israel se regocijarÃ¡ en el dÃ­a de la restauraciÃ³n.",
-      "por": "Davi proclama: Disse o nÃ©scio no seu coraÃ§Ã£o: NÃ£o hÃ¡ DeusÂ â Israel se regozijarÃ¡ no dia da restauraÃ§Ã£o.",
-      "fra": "Paroles de DavidÂ : Â«Â LâinsensÃ© dit en son cÅurÂ : il nây a pas de DieuÂ !Â Â» IsraÃ«l se rÃ©jouira le jour du rÃ©tablissement.",
-      "ita": "Davide dice: âLo stolto ha detto nel suo cuore: âNon câÃ¨ DioââÂ â Israele gioirÃ  nel giorno della restaurazione."
+      "eng": "David says, The fool has said in his heart, there is no God—Israel will rejoice in the day of restoration.",
+      "spa": "David dice: El necio ha dicho en su corazón: No hay Dios — Israel se regocijará en el día de la restauración.",
+      "por": "Davi proclama: Disse o néscio no seu coração: Não há Deus — Israel se regozijará no dia da restauração.",
+      "fra": "Paroles de David : « L’insensé dit en son cœur : il n’y a pas de Dieu ! » Israël se réjouira le jour du rétablissement.",
+      "ita": "Davide dice: “Lo stolto ha detto nel suo cuore: ‘Non c’è Dio’” — Israele gioirà nel giorno della restaurazione."
     },
     "intros": {
       "eng": "To the chief Musician, <span class=\"clarity-word\">A Psalm</span> of David.",
-      "jpn": "<ruby><rb>èæ­</rb><rt>ããã</rt></ruby><ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ææ®è</rb><rt>ãããã</rt></ruby>ã«ãã£ã¦ããããããããã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
-      "spa": "Al mÃºsico principal. Salmo de David.",
-      "por": "Salmo de Davi para o mÃºsico-mor.",
+      "jpn": "<ruby>聖歌<rt>せいか</rt></ruby><ruby>隊<rt>たい</rt></ruby>の<ruby>指揮者<rt>しきしゃ</rt></ruby>によってうたわせたダビデの<ruby>歌<rt>うた</rt></ruby>",
+      "spa": "Al músico principal. Salmo de David.",
+      "por": "Salmo de Davi para o músico-mor.",
       "ita": "Al capo dei musici. Di Davide."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>The fool hath said in his heart, <span class=\"clarity-word\">There is</span> no God. They are corrupt, they have done abominable works, <span class=\"clarity-word\">there is</span> none that doeth good.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ§ÙÙ Ø§ÙÙØ¬ÙØ§ÙÙÙÙ ÙÙÙ ÙÙÙÙØ¨ÙÙÙ: ÙÙØ§ ÙÙÙØ¬ÙØ¯Ù Ø¥ÙÙÙÙÙ! ÙÙØ¯Ù ÙÙØ³ÙØ¯Ù Ø§ÙÙØ¨ÙØ´ÙØ±Ù ÙÙØ§Ø±ÙØªÙÙÙØ¨ÙÙØ§ Ø§ÙÙÙÙÙØ¨ÙÙÙØ§ØªÙØ ÙÙÙÙÙÙØ³Ù Ø¨ÙÙÙÙÙÙÙÙÙ ÙÙÙÙ ÙÙØ¹ÙÙÙÙÙ Ø§ÙØµÙÙÙØ§Ø­Ù.",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>æ</rb><rt>ãã</rt></ruby>ããª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã®ãã¡ã«ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã¯ãªããã¨<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>è</rb><rt>ãã</rt></ruby>ãã¯ã¦ã<ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ãã¹ã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ããªãã<ruby><rb>å</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ãªãã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">Dice el necio en su corazÃ³n: No hay Dios.</span><span class=\"line\">Se han corrompido; han hecho obras abominables;</span><span class=\"line\">no hay quien haga el bien.</span>",
-      "por": "<span class=\"verse-number\">1</span> O nÃ©scio disse no seu coraÃ§Ã£o: NÃ£o <span class=\"clarity-word\">hÃ¡</span> Deus. Corrompem-se, fazem-se abominÃ¡veis em suas obras, nÃ£o <span class=\"clarity-word\">hÃ¡</span> ninguÃ©m que faÃ§a o bem.",
-      "fra": "<span class=\"verse-number\">1</span> Au chef des chantres. De David. LâinsensÃ© dit en son cÅurÂ : Il nây a pas de DieuÂ ! Ils se sont corrompus, ils ont commis des actions abominablesÂ ; Il nâen est aucun qui fasse le bien.",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Dem Musikmeister, von David.</span><span class=\"line\">Die Toren sprechen (= denken) in ihrem Herzen:</span><span class=\"line\">âEs gibt keinen Gottâ;</span><span class=\"line\">verderbt, abscheulich ist ihr Tun:</span><span class=\"line\">da ist keiner, des Gutes tÃ¤te.</span>",
-      "kor": "<span class=\"verse-number\">1</span> ì´ë¦¬ìì ìë ê·¸ì ë§ìì ì´ë¥´ê¸°ë¥¼ íëëì´ ìë¤ íëëë¤ ê·¸ë¤ì ë¶í¨íê³  ê·¸ íì¤ì´ ê°ì¦íë ì ì ííë ìê° ìëë¤",
-      "ita": "<span class=\"verse-number\">1</span> Lo stolto ha detto nel suo cuore: âNon câÃ¨ Dioâ. Si sono corrotti, si sono resi abominevoli nella loro condotta; non câÃ¨ nessuno che faccia il bene."
+      "eng": "The fool hath said in his heart, <span class=\"clarity-word\">There is</span> no God. They are corrupt, they have done abominable works, <span class=\"clarity-word\">there is</span> none that doeth good.",
+      "ara": "قَالَ الْجَاهِلُ فِي قَلْبِهِ: لَا يُوجَدُ إِلَهٌ! قَدْ فَسَدَ الْبَشَرُ وَارْتَكَبُوا الْمُوبِقَاتِ، وَلَيْسَ بَيْنَهُمْ مَنْ يَعْمَلُ الصَّلاحَ.",
+      "jpn": "<ruby>愚<rt>おろ</rt></ruby>かな<ruby>者<rt>もの</rt></ruby>は<ruby>心<rt>こころ</rt></ruby>のうちに「<ruby>神<rt>かみ</rt></ruby>はない」と<ruby>言<rt>い</rt></ruby>う。<ruby>彼<rt>かれ</rt></ruby>らは<ruby>腐<rt>くさ</rt></ruby>れはて、<ruby>憎<rt>にく</rt></ruby>むべき<ruby>事<rt>こと</rt></ruby>をなし、<ruby>善<rt>ぜん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>者<rt>もの</rt></ruby>はない。",
+      "spa": "<span class=\"line\">Dice el necio en su corazón: No hay Dios.</span><span class=\"line\">Se han corrompido; han hecho obras abominables;</span><span class=\"line\">no hay quien haga el bien.</span>",
+      "por": "O néscio disse no seu coração: Não <span class=\"clarity-word\">há</span> Deus. Corrompem-se, fazem-se abomináveis em suas obras, não <span class=\"clarity-word\">há</span> ninguém que faça o bem.",
+      "fra": "Au chef des chantres. De David. L’insensé dit en son cœur : Il n’y a pas de Dieu ! Ils se sont corrompus, ils ont commis des actions abominables ; Il n’en est aucun qui fasse le bien.",
+      "deu": "<span class=\"line\">Dem Musikmeister, von David.</span><span class=\"line\">Die Toren sprechen (= denken) in ihrem Herzen:</span><span class=\"line\">„Es gibt keinen Gott”;</span><span class=\"line\">verderbt, abscheulich ist ihr Tun:</span><span class=\"line\">da ist keiner, des Gutes täte.</span>",
+      "kor": "어리석은 자는 그의 마음에 이르기를 하나님이 없다 하는도다 그들은 부패하고 그 행실이 가증하니 선을 행하는 자가 없도다",
+      "ita": "Lo stolto ha detto nel suo cuore: “Non c’è Dio”. Si sono corrotti, si sono resi abominevoli nella loro condotta; non c’è nessuno che faccia il bene."
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>The <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> looked down from heaven upon the children of men, to see if there were any that did understand, <span class=\"clarity-word\">and</span> seek God.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø£ÙØ´ÙØ±ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¹ÙÙÙÙ Ø¨ÙÙÙÙ Ø¢Ø¯ÙÙÙ ÙÙÙÙØ±ÙÙ ÙÙÙÙ ÙÙÙÙØ§ÙÙ Ø£ÙÙÙÙ ÙÙØ§ÙÙÙÙ ÙÙØ·ÙÙÙØ¨Ù Ø§ÙÙÙÙ°ÙÙØ",
-      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å¤©</rb><rt>ã¦ã</rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããã¦ã<ruby><rb>è³¢</rb><rt>ããã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãããã­<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããããªããã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããã",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">JehovÃ¡ mirÃ³ desde los cielos sobre los hijos de los hombres,</span><span class=\"line\">para ver si habÃ­a algÃºn entendido</span><span class=\"line\">que buscara a Dios.</span>",
-      "por": "<span class=\"verse-number\">2</span> O <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> olhou desde os cÃ©us para os filhos dos homens, para ver se havia <span class=\"clarity-word\">algum</span> que tivesse entendimento <span class=\"clarity-word\">e</span> buscasse a Deus.",
-      "fra": "<span class=\"verse-number\">2</span> LâÃternel, du haut des cieux, regarde les enfants des hommes, Pour voir sâil y a quelquâun qui soit intelligent, Qui cherche Dieu.",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Der HErr schaut hernieder vom Himmel aus</span><span class=\"line\">nach den Menschenkindern,</span><span class=\"line\">um zu sehn, ob da sei ein VerstÃ¤ndiger,</span><span class=\"line\">einer der nach Gott fragt.</span>",
-      "kor": "<span class=\"verse-number\">2</span> ì¬í¸ìê»ì íëìì ì¸ìì êµ½ì´ì´í¼ì¬ ì§ê°ì´ ìì´ íëëì ì°¾ë ìê° ìëê° ë³´ë ¤ íì ì¦",
-      "ita": "<span class=\"verse-number\">2</span> LâEterno ha guardato dal cielo i figli degli uomini per vedere se vi fosse alcuno che avesse intelletto, che cercasse Dio."
+      "eng": "The <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> looked down from heaven upon the children of men, to see if there were any that did understand, <span class=\"clarity-word\">and</span> seek God.",
+      "ara": "أَشْرَفَ الرَّبُّ عَلَى بَنِي آدَمَ لِيَرَى هَلْ هُنَاكَ أَيُّ فَاهِمٍ يَطْلُبُ اللّٰهَ؟",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>は<ruby>天<rt>てん</rt></ruby>から<ruby>人<rt>ひと</rt></ruby>の<ruby>子<rt>こ</rt></ruby>らを<ruby>見<rt>み</rt></ruby>おろして、<ruby>賢<rt>かしこ</rt></ruby>い<ruby>者<rt>もの</rt></ruby>、<ruby>神<rt>かみ</rt></ruby>をたずね<ruby>求<rt>もと</rt></ruby>める<ruby>者<rt>もの</rt></ruby>があるかないかを<ruby>見<rt>み</rt></ruby>られた。",
+      "spa": "<span class=\"line\">Jehová miró desde los cielos sobre los hijos de los hombres,</span><span class=\"line\">para ver si había algún entendido</span><span class=\"line\">que buscara a Dios.</span>",
+      "por": "O <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> olhou desde os céus para os filhos dos homens, para ver se havia <span class=\"clarity-word\">algum</span> que tivesse entendimento <span class=\"clarity-word\">e</span> buscasse a Deus.",
+      "fra": "L’Éternel, du haut des cieux, regarde les enfants des hommes, Pour voir s’il y a quelqu’un qui soit intelligent, Qui cherche Dieu.",
+      "deu": "<span class=\"line\">Der HErr schaut hernieder vom Himmel aus</span><span class=\"line\">nach den Menschenkindern,</span><span class=\"line\">um zu sehn, ob da sei ein Verständiger,</span><span class=\"line\">einer der nach Gott fragt.</span>",
+      "kor": "여호와께서 하늘에서 인생을 굽어살피사 지각이 있어 하나님을 찾는 자가 있는가 보려 하신즉",
+      "ita": "L’Eterno ha guardato dal cielo i figli degli uomini per vedere se vi fosse alcuno che avesse intelletto, che cercasse Dio."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>They are all gone aside, they are <span class=\"clarity-word\">all</span> together become filthy: <span class=\"clarity-word\">there is</span> none that doeth good, no, not one.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØ¥ÙØ°ÙØ§ Ø§ÙÙØ¬ÙÙÙÙØ¹Ù ÙÙØ¯Ù Ø¶ÙÙÙÙÙØ§ Ø¹ÙÙÙÙ Ø§ÙØ³ÙÙÙÙØ§Ø¡Ù. ÙÙÙÙÙÙÙÙÙ ÙÙØ³ÙØ¯ÙÙØ§Ø ÙÙÙÙÙÙØ³Ù Ø¨ÙÙÙÙÙÙÙÙÙ ÙÙÙÙ ÙÙØ¹ÙÙÙÙÙ Ø§ÙØµÙÙÙØ§Ø­ÙØ ÙÙÙÙØ§ ÙÙØ§Ø­ÙØ¯Ù.",
-      "jpn": "<span class=\"verse-number\">3</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ã¿ãª<ruby><rb>è¿·</rb><rt>ã¾ã</rt></ruby>ããã¿ãªã²ã¨ãã<ruby><rb>è</rb><rt>ãã</rt></ruby>ããã<ruby><rb>å</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ãªããã²ã¨ãããªãã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Todos se han desviado; a una se han corrompido.</span><span class=\"line\">No hay quien haga el bien; no hay ni siquiera uno.</span>",
-      "por": "<span class=\"verse-number\">3</span> Desviaram-se todos e juntamente se fizeram imundos; nÃ£o <span class=\"clarity-word\">hÃ¡</span> ninguÃ©m que faÃ§a o bem, nÃ£o <span class=\"clarity-word\">hÃ¡</span> um sequer.",
-      "fra": "<span class=\"verse-number\">3</span> Tous sont Ã©garÃ©s, tous sont pervertisÂ ; Il nâen est aucun qui fasse le bien, Pas mÃªme un seul.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Doch alle sind sie abgefallen,</span><span class=\"line\">insgesamt entartet;</span><span class=\"line\">da ist keiner, der Gutes tut,</span><span class=\"line\">auch nicht einer (RÃ¶m. 3,10â12).</span>",
-      "kor": "<span class=\"verse-number\">3</span> ë¤ ì¹ì°ì³ í¨ê» ëë¬ì´ ìê° ëê³  ì ì ííë ìê° ìì¼ë íëë ìëë¤",
-      "ita": "<span class=\"verse-number\">3</span> Tutti si sono sviati, tutti quanti si sono corrotti, non câÃ¨ nessuno che faccia il bene, neppure uno."
+      "eng": "They are all gone aside, they are <span class=\"clarity-word\">all</span> together become filthy: <span class=\"clarity-word\">there is</span> none that doeth good, no, not one.",
+      "ara": "فَإِذَا الْجَمِيعُ قَدْ ضَلُّوا عَلَى السَّوَاءِ. كُلُّهُمْ فَسَدُوا، وَلَيْسَ بَيْنَهُمْ مَنْ يَعْمَلُ الصَّلاحَ، وَلَا وَاحِدٌ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らはみな<ruby>迷<rt>まよ</rt></ruby>い、みなひとしく<ruby>腐<rt>くさ</rt></ruby>れた。<ruby>善<rt>ぜん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>者<rt>もの</rt></ruby>はない、ひとりもない。",
+      "spa": "<span class=\"line\">Todos se han desviado; a una se han corrompido.</span><span class=\"line\">No hay quien haga el bien; no hay ni siquiera uno.</span>",
+      "por": "Desviaram-se todos e juntamente se fizeram imundos; não <span class=\"clarity-word\">há</span> ninguém que faça o bem, não <span class=\"clarity-word\">há</span> um sequer.",
+      "fra": "Tous sont égarés, tous sont pervertis ; Il n’en est aucun qui fasse le bien, Pas même un seul.",
+      "deu": "<span class=\"line\">Doch alle sind sie abgefallen,</span><span class=\"line\">insgesamt entartet;</span><span class=\"line\">da ist keiner, der Gutes tut,</span><span class=\"line\">auch nicht einer (Röm. 3,10—12).</span>",
+      "kor": "다 치우쳐 함께 더러운 자가 되고 선을 행하는 자가 없으니 하나도 없도다",
+      "ita": "Tutti si sono sviati, tutti quanti si sono corrotti, non c’è nessuno che faccia il bene, neppure uno."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>Have all the workers of iniquity no knowledge? who eat up my people <span class=\"clarity-word\">as</span> they eat bread, and call not upon the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø£ÙÙÙÙÙØ³Ù ÙÙØ¯ÙÙ Ø¬ÙÙÙÙØ¹Ù ÙÙØ§Ø¹ÙÙÙÙ Ø§ÙØ¥ÙØ«ÙÙÙ ÙÙØ¹ÙØ±ÙÙÙØ©ÙØ Ø£ÙÙÙÙØ¦ÙÙÙ Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙÙÙ Ø´ÙØ¹ÙØ¨ÙÙ ÙÙÙÙØ§ ÙÙØ£ÙÙÙÙÙÙÙÙ Ø®ÙØ¨ÙØ²Ø§ÙØ ÙÙÙÙØ§ ÙÙØ·ÙÙÙØ¨ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ.",
-      "jpn": "<span class=\"verse-number\">4</span> ãã¹ã¦<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>æ</rb><rt>ãã¨</rt></ruby>ãããªãã®ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>ç©</rb><rt>ãã®</rt></ruby><ruby><rb>é£</rb><rt>ã</rt></ruby>ãããã«ãã<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ãããããã¾ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã¶ãã¨ãããªãã",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Â¿No tienen conocimiento todos los que hacen iniquidad,</span><span class=\"line\">que devoran a mi pueblo <span class=\"clarity-word\">como</span> si comiesen pan,</span><span class=\"line\">y no invocan a JehovÃ¡?</span>",
-      "por": "<span class=\"verse-number\">4</span> NÃ£o terÃ£o conhecimento os que praticam a iniquidade, os quais devoram o meu povo, <span class=\"clarity-word\">como</span> se comessem pÃ£o, e nÃ£o invocam ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>?",
-      "fra": "<span class=\"verse-number\">4</span> Tous ceux qui commettent lâiniquitÃ© nâont-ils aucune connaissanceÂ ? Ils dÃ©vorent mon peuple comme ils mangent du painÂ ; Ils nâinvoquent pas lâÃternel.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Haben denn keinen Verstand die ÃbeltÃ¤ter alle,</span><span class=\"line\">die mein Volk verzehren?</span><span class=\"line\">die das Brot des HErrn wohl essen,</span><span class=\"line\">doch ohne ihn anzurufen?</span>",
-      "kor": "<span class=\"verse-number\">4</span> ì£ìì ííë ìë ë¤ ë¬´ì§íë ê·¸ë¤ì´ ë¡ ë¨¹ë¯ì´ ë´ ë°±ì±ì ë¨¹ì¼ë©´ì ì¬í¸ìë¥¼ ë¶ë¥´ì§ ìëíëëë¤",
-      "ita": "<span class=\"verse-number\">4</span> Sono essi senza conoscenza tutti questi operatori dâiniquitÃ , che mangiano il mio popolo come mangiano il pane e non invocano lâEterno?"
+      "eng": "Have all the workers of iniquity no knowledge? who eat up my people <span class=\"clarity-word\">as</span> they eat bread, and call not upon the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "أَلَيْسَ لَدَى جَمِيعِ فَاعِلِي الإِثْمِ مَعْرِفَةٌ؟ أُولَئِكَ الَّذِينَ يَأْكُلُونَ شَعْبِي كَمَا يَأْكُلُونَ خُبْزاً، وَلَا يَطْلُبُونَ الرَّبَّ.",
+      "jpn": "すべて<ruby>悪<rt>あく</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>者<rt>もの</rt></ruby>は<ruby>悟<rt>さと</rt></ruby>りがないのか。<ruby>彼<rt>かれ</rt></ruby>らは<ruby>物<rt>もの</rt></ruby><ruby>食<rt>く</rt></ruby>うようにわが<ruby>民<rt>たみ</rt></ruby>をくらい、また<ruby>主<rt>しゅ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ぶことをしない。",
+      "spa": "<span class=\"line\">¿No tienen conocimiento todos los que hacen iniquidad,</span><span class=\"line\">que devoran a mi pueblo <span class=\"clarity-word\">como</span> si comiesen pan,</span><span class=\"line\">y no invocan a Jehová?</span>",
+      "por": "Não terão conhecimento os que praticam a iniquidade, os quais devoram o meu povo, <span class=\"clarity-word\">como</span> se comessem pão, e não invocam ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>?",
+      "fra": "Tous ceux qui commettent l’iniquité n’ont-ils aucune connaissance ? Ils dévorent mon peuple comme ils mangent du pain ; Ils n’invoquent pas l’Éternel.",
+      "deu": "<span class=\"line\">Haben denn keinen Verstand die Übeltäter alle,</span><span class=\"line\">die mein Volk verzehren?</span><span class=\"line\">die das Brot des HErrn wohl essen,</span><span class=\"line\">doch ohne ihn anzurufen?</span>",
+      "kor": "죄악을 행하는 자는 다 무지하냐 그들이 떡 먹듯이 내 백성을 먹으면서 여호와를 부르지 아니하는도다",
+      "ita": "Sono essi senza conoscenza tutti questi operatori d’iniquità, che mangiano il mio popolo come mangiano il pane e non invocano l’Eterno?"
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>There were they in great fear: for God <span class=\"clarity-word\">is</span> in the generation of the righteous.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙØ§ÙÙ Ø§Ø³ÙØªÙÙÙÙÙÙ Ø¹ÙÙÙÙÙÙÙÙÙ Ø®ÙÙÙÙÙ Ø¹ÙØ¸ÙÙÙÙØ ÙØ£ÙÙÙÙ Ø§ÙÙÙÙ°ÙÙ ÙÙÙ Ø¬ÙÙÙØ§Ø¹ÙØ©Ù Ø§ÙØ£ÙØ¨ÙØ±ÙØ§Ø±Ù.",
-      "jpn": "<span class=\"verse-number\">5</span> ãã®<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã¯<ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ãããã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«ããããããã§ããã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">AllÃ­ tiemblan de espanto,</span><span class=\"line\">porque Dios estÃ¡ con la generaciÃ³n de los justos.</span>",
-      "por": "<span class=\"verse-number\">5</span> Ali se acharam em grande pavor, porque Deus <span class=\"clarity-word\">estÃ¡</span> na geraÃ§Ã£o dos justos.",
-      "fra": "<span class=\"verse-number\">5</span> Câest alors quâils trembleront dâÃ©pouvante, Quand Dieu paraÃ®tra au milieu de la gÃ©nÃ©ration juste.",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Damals gerieten sie in Angst und Schrecken,</span><span class=\"line\">denn Gott war mit dem gerechten Geschlecht.</span>",
-      "kor": "<span class=\"verse-number\">5</span> ê·¸ë¬ë ê±°ê¸°ì ê·¸ë¤ì ëë ¤ìíê³  ëë ¤ìíìì¼ë íëëì´ ìì¸ì ì¸ëì ê³ì¬ì´ë¡ë¤",
-      "ita": "<span class=\"verse-number\">5</span> Ecco lÃ , sono presi da grande spavento perchÃ© Dio Ã¨ con la gente retta."
+      "eng": "There were they in great fear: for God <span class=\"clarity-word\">is</span> in the generation of the righteous.",
+      "ara": "هُنَاكَ اسْتَوْلَى عَلَيْهِمْ خَوْفٌ عَظِيمٌ، لأَنَّ اللّٰهَ فِي جَمَاعَةِ الأَبْرَارِ.",
+      "jpn": "その<ruby>時<rt>とき</rt></ruby>、<ruby>彼<rt>かれ</rt></ruby>らは<ruby>大<rt>おお</rt></ruby>いに<ruby>恐<rt>おそ</rt></ruby>れた。<ruby>神<rt>かみ</rt></ruby>は<ruby>正<rt>ただ</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>のやからと<ruby>共<rt>とも</rt></ruby>におられるからである。",
+      "spa": "<span class=\"line\">Allí tiemblan de espanto,</span><span class=\"line\">porque Dios está con la generación de los justos.</span>",
+      "por": "Ali se acharam em grande pavor, porque Deus <span class=\"clarity-word\">está</span> na geração dos justos.",
+      "fra": "C’est alors qu’ils trembleront d’épouvante, Quand Dieu paraîtra au milieu de la génération juste.",
+      "deu": "<span class=\"line\">Damals gerieten sie in Angst und Schrecken,</span><span class=\"line\">denn Gott war mit dem gerechten Geschlecht.</span>",
+      "kor": "그러나 거기서 그들은 두려워하고 두려워하였으니 하나님이 의인의 세대에 계심이로다",
+      "ita": "Ecco là, sono presi da grande spavento perché Dio è con la gente retta."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>Ye have shamed the counsel of the poor, because the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> his refuge.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ØªÙØ³ÙÙÙÙÙÙÙÙÙ Ø±ÙØ£ÙÙÙ Ø§ÙÙÙÙØ³ÙÙÙÙÙÙØ ÙØ£ÙÙÙÙÙÙ Ø¬ÙØ¹ÙÙÙ Ø§ÙÙÙÙ°ÙÙ ÙÙÙÙØ¬ÙØ£ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">6</span> ããªãããã¯<ruby><rb>è²§</rb><rt>ã¾ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>è¨ç»</rb><rt>ãããã</rt></ruby>ãã¯ããããããã¨ãããããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é¿</rb><rt>ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã©ãã</rt></ruby>ã§ããã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Os habÃ©is burlado del consejo del pobre,</span><span class=\"line\">pero JehovÃ¡ es su refugio.</span>",
-      "por": "<span class=\"verse-number\">6</span> VÃ³s envergonhais o conselho dos pobres, porquanto o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">Ã©</span> o seu refÃºgio.",
-      "fra": "<span class=\"verse-number\">6</span> Jetez le dÃ©shonneur sur lâespÃ©rance du malheureuxÂ â¦ LâÃternel est son refuge.",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">Beim Anschlag gegen den Elenden werdet zuschanden ihr werden,</span><span class=\"line\">denn der HErr ist seine Zuflucht.</span>",
-      "kor": "<span class=\"verse-number\">6</span> ëí¬ê° ê°ëí ìì ê³íì ë¶ëë½ê² íë ì¤ì§ ì¬í¸ìë ê·¸ì í¼ëì²ê° ëìëë¤",
-      "ita": "<span class=\"verse-number\">6</span> Voi, invece, umiliate il consiglio del misero, perchÃ© lâEterno Ã¨ il suo rifugio."
+      "eng": "Ye have shamed the counsel of the poor, because the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> his refuge.",
+      "ara": "تُسَفِّهُونَ رَأْيَ الْمِسْكِينِ، لأَنَّهُ جَعَلَ اللّٰهَ مَلْجَأَهُ.",
+      "jpn": "あなたがたは<ruby>貧<rt>まず</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>をはずかしめようとする。しかし<ruby>主<rt>しゅ</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>の<ruby>避<rt>さ</rt></ruby>け<ruby>所<rt>どころ</rt></ruby>である。",
+      "spa": "<span class=\"line\">Os habéis burlado del consejo del pobre,</span><span class=\"line\">pero Jehová es su refugio.</span>",
+      "por": "Vós envergonhais o conselho dos pobres, porquanto o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">é</span> o seu refúgio.",
+      "fra": "Jetez le déshonneur sur l’espérance du malheureux … L’Éternel est son refuge.",
+      "deu": "<span class=\"line\">Beim Anschlag gegen den Elenden werdet zuschanden ihr werden,</span><span class=\"line\">denn der HErr ist seine Zuflucht.</span>",
+      "kor": "너희가 가난한 자의 계획을 부끄럽게 하나 오직 여호와는 그의 피난처가 되시도다",
+      "ita": "Voi, invece, umiliate il consiglio del misero, perché l’Eterno è il suo rifugio."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>Oh that the salvation of Israel <span class=\"clarity-word\">were come</span> out of Zion! when the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> bringeth back the captivity of his people, Jacob shall rejoice, <span class=\"clarity-word\">and</span> Israel shall be glad.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙØªÙ ÙÙÙÙ ØµÙÙÙÙÙÙÙÙÙ Ø®ÙÙØ§ØµÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ. Ø¹ÙÙÙØ¯ÙÙÙØ§ ÙÙØ±ÙØ¯ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø³ÙØ¨ÙÙÙ Ø´ÙØ¹ÙØ¨ÙÙÙØ ÙÙØ¨ÙØªÙÙÙØ¬Ù ÙÙØ¹ÙÙÙÙØ¨ÙØ ÙÙÙÙÙÙØ±ÙØ­Ù Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">7</span> ã©ãããã·ãªã³ããã¤ã¹ã©ã¨ã«ã®<ruby><rb>æ</rb><rt>ããã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ãããã«ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>ç¹æ </rb><rt>ã¯ããã</rt></ruby>ã<ruby><rb>åå¾©</rb><rt>ãããµã</rt></ruby>ãããã¨ããã¤ã³ãã¯<ruby><rb>å</rb><rt>ããã</rt></ruby>ã³ãã¤ã¹ã©ã¨ã«ã¯<ruby><rb>æ¥½</rb><rt>ãã®</rt></ruby>ããã§ãããã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Â¡Oh, que saliese de Sion la salvaciÃ³n de Israel!</span><span class=\"line\">Cuando JehovÃ¡ haga volver de la cautividad a su pueblo,</span><span class=\"line\">se regocijarÃ¡ Jacob, y se alegrarÃ¡ Israel.</span>",
-      "por": "<span class=\"verse-number\">7</span> Oh, se de SiÃ£o <span class=\"clarity-word\">tivesse jÃ¡ vindo</span> a redenÃ§Ã£o de Israel! Quando o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> fizer voltar os cativos do seu povo, JacÃ³ se regozijarÃ¡ <span class=\"clarity-word\">e</span> Israel <span class=\"clarity-word\">se</span> alegrarÃ¡.",
-      "fra": "<span class=\"verse-number\">7</span> OhÂ ! qui fera partir de Sion la dÃ©livrance dâIsraÃ«lÂ ? Quand lâÃternel rÃ©tablira les captifs de son peuple, Jacob sera dans lâallÃ©gresse, IsraÃ«l se rÃ©jouira.",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">O daÃ doch aus Zion die Rettung Israels kÃ¤me!</span><span class=\"line\">Wenn der HErr einst wendet das Schicksal seines Volkes,</span><span class=\"line\">wird Jakob jubeln, Israel sich freuen.</span>",
-      "kor": "<span class=\"verse-number\">7</span> ì´ì¤ë¼ìì êµ¬ìì´ ìì¨ìì ëì¤ê¸°ë¥¼ ìíëë¤ ì¬í¸ìê»ì ê·¸ì ë°±ì±ì í¬ë¡ë ê³³ìì ëì´í¤ì¤ ëì ì¼ê³±ì´ ì¦ê±°ìíê³  ì´ì¤ë¼ìì´ ê¸°ë»íë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">7</span> Oh, chi recherÃ  da Sion la salvezza dâIsraele? Quando lâEterno ricondurrÃ  dalla schiavitÃ¹ il suo popolo, Giacobbe festeggerÃ , Israele si rallegrerÃ ."
+      "eng": "Oh that the salvation of Israel <span class=\"clarity-word\">were come</span> out of Zion! when the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> bringeth back the captivity of his people, Jacob shall rejoice, <span class=\"clarity-word\">and</span> Israel shall be glad.",
+      "ara": "لَيْتَ مِنْ صِهْيَوْنَ خَلاصَ إِسْرَائِيلَ. عِنْدَمَا يَرُدُّ الرَّبُّ سَبْيَ شَعْبِهِ، يَبْتَهِجُ يَعْقُوبُ، وَيَفْرَحُ بَنُو إِسْرَائِيلَ.",
+      "jpn": "どうか、シオンからイスラエルの<ruby>救<rt>すくい</rt></ruby>が<ruby>出<rt>で</rt></ruby>るように。<ruby>主<rt>しゅ</rt></ruby>がその<ruby>民<rt>たみ</rt></ruby>の<ruby>繁栄<rt>はんえい</rt></ruby>を<ruby>回復<rt>かいふく</rt></ruby>されるとき、ヤコブは<ruby>喜<rt>よろこ</rt></ruby>び、イスラエルは<ruby>楽<rt>たの</rt></ruby>しむであろう。",
+      "spa": "<span class=\"line\">¡Oh, que saliese de Sion la salvación de Israel!</span><span class=\"line\">Cuando Jehová haga volver de la cautividad a su pueblo,</span><span class=\"line\">se regocijará Jacob, y se alegrará Israel.</span>",
+      "por": "Oh, se de Sião <span class=\"clarity-word\">tivesse já vindo</span> a redenção de Israel! Quando o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> fizer voltar os cativos do seu povo, Jacó se regozijará <span class=\"clarity-word\">e</span> Israel <span class=\"clarity-word\">se</span> alegrará.",
+      "fra": "Oh ! qui fera partir de Sion la délivrance d’Israël ? Quand l’Éternel rétablira les captifs de son peuple, Jacob sera dans l’allégresse, Israël se réjouira.",
+      "deu": "<span class=\"line\">O daß doch aus Zion die Rettung Israels käme!</span><span class=\"line\">Wenn der HErr einst wendet das Schicksal seines Volkes,</span><span class=\"line\">wird Jakob jubeln, Israel sich freuen.</span>",
+      "kor": "이스라엘의 구원이 시온에서 나오기를 원하도다 여호와께서 그의 백성을 포로된 곳에서 돌이키실 때에 야곱이 즐거워하고 이스라엘이 기뻐하리로다",
+      "ita": "Oh, chi recherà da Sion la salvezza d’Israele? Quando l’Eterno ricondurrà dalla schiavitù il suo popolo, Giacobbe festeggerà, Israele si rallegrerà."
     }
   }
 }

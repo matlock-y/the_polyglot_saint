@@ -4,119 +4,119 @@
     "book": "ps",
     "chapter": 122,
     "headings": {
-      "eng": "David says, Go into the house of the LordâGive thanks unto Him.",
-      "spa": "David dice: Id a la casa de JehovÃ¡Â â Alabad a JehovÃ¡.",
-      "por": "Davi declara: Ide Ã  casa do SenhorÂ â Dai graÃ§as a Ele.",
-      "fra": "David ditÂ : Allons Ã  la maison de lâÃternel. Louons-le.",
-      "ita": "Davide dice: âAndiamo alla casa dellâEternoâÂ â Celebrate il Signore."
+      "eng": "David says, Go into the house of the Lord—Give thanks unto Him.",
+      "spa": "David dice: Id a la casa de Jehová — Alabad a Jehová.",
+      "por": "Davi declara: Ide à casa do Senhor — Dai graças a Ele.",
+      "fra": "David dit : Allons à la maison de l’Éternel. Louons-le.",
+      "ita": "Davide dice: “Andiamo alla casa dell’Eterno” — Celebrate il Signore."
     },
     "intros": {
       "eng": "A Song of degrees of David.",
-      "jpn": "ããããããã <ruby><rb>é½</rb><rt>ã¿ãã</rt></ruby>ããã§ã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
-      "spa": "CÃ¡ntico de ascenso gradual. De David.",
-      "por": "CÃ¢ntico das subidas, de Davi.",
+      "jpn": "ダビデがよんだ<ruby>都<rt>みやこ</rt></ruby>もうでの<ruby>歌<rt>うた</rt></ruby>",
+      "spa": "Cántico de ascenso gradual. De David.",
+      "por": "Cântico das subidas, de Davi.",
       "ita": "Canto dei pellegrinaggi. Di Davide."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>I was glad when they said unto me, Let us go into the house of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ±ÙØ­ÙØªÙ Ø¨ÙØ§ÙÙÙÙØ§Ø¦ÙÙÙÙÙÙ ÙÙÙ: ÙÙÙÙØ°ÙÙÙØ¨Ù ÙÙØ¹Ø§Ù Ø¥ÙÙÙÙ Ø¨ÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ.",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ããããã«ããã£ã¦ããããã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ãããã¨<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãã¨ãããããã¯<ruby><rb>å</rb><rt>ããã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">1</span> <span class=\"line\">Yo me alegrÃ© con los que me decÃ­an:</span><span class=\"line\">Vayamos a la casa de JehovÃ¡.</span>",
-      "por": "<span class=\"verse-number\">1</span> Alegrei-me quando me disseram: Vamos Ã  casa do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
-      "fra": "<span class=\"verse-number\">1</span> Cantique des degrÃ©s. De David. Je suis dans la joie quand on me ditÂ : Allons Ã  la maison de lâÃternelÂ !",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Ein Wallfahrtslied (oder Stufenlied?; vgl. 120) Davids.</span><span class=\"line\">Ich freute mich, als man mir sagte:</span><span class=\"line\">âWir wollen pilgern zum Hause des HErrn!â</span>",
-      "kor": "<span class=\"verse-number\">1</span> ì¬ëì´ ë´ê² ë§íê¸°ë¥¼ ì¬í¸ìì ì§ì ì¬ë¼ê°ì í  ëì ë´ê° ê¸°ë»íìëë¤",
-      "ita": "<span class=\"verse-number\">1</span> Io mi sono rallegrato quando mi hanno detto: âAndiamo alla casa dellâEternoâ."
+      "eng": "I was glad when they said unto me, Let us go into the house of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "فَرِحْتُ بِالْقَائِلِينَ لِي: لِنَذْهَبْ مَعاً إِلَى بَيْتِ الرَّبِّ.",
+      "jpn": "<ruby>人々<rt>ひとびと</rt></ruby>がわたしにむかって「われらは<ruby>主<rt>しゅ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>行<rt>い</rt></ruby>こう」と<ruby>言<rt>い</rt></ruby>ったとき、わたしは<ruby>喜<rt>よろこ</rt></ruby>んだ。",
+      "spa": "<span class=\"line\">Yo me alegré con los que me decían:</span><span class=\"line\">Vayamos a la casa de Jehová.</span>",
+      "por": "Alegrei-me quando me disseram: Vamos à casa do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
+      "fra": "Cantique des degrés. De David. Je suis dans la joie quand on me dit : Allons à la maison de l’Éternel !",
+      "deu": "<span class=\"line\">Ein Wallfahrtslied (oder Stufenlied?; vgl. 120) Davids.</span><span class=\"line\">Ich freute mich, als man mir sagte:</span><span class=\"line\">„Wir wollen pilgern zum Hause des HErrn!”</span>",
+      "kor": "사람이 내게 말하기를 여호와의 집에 올라가자 할 때에 내가 기뻐하였도다",
+      "ita": "Io mi sono rallegrato quando mi hanno detto: “Andiamo alla casa dell’Eterno”."
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>Our feet shall stand within thy gates, O Jerusalem.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ØªÙÙÙÙÙ Ø£ÙÙÙØ¯ÙØ§ÙÙÙÙØ§ Ø§ÙØ¢ÙÙ Ø¯ÙØ§Ø®ÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¨ÙÙÙ ÙÙØ§ Ø£ÙÙØ±ÙØ´ÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">2</span> ã¨ã«ãµã¬ã ãããããã®<ruby><rb>è¶³</rb><rt>ãã</rt></ruby>ã¯ããªãã®<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®ãã¡ã«<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã£ã¦ããã",
-      "spa": "<span class=\"verse-number\">2</span> <span class=\"line\">Nuestros pies estÃ¡n</span><span class=\"line\">dentro de tus puertas, oh JerusalÃ©n.</span>",
-      "por": "<span class=\"verse-number\">2</span> Os nossos pÃ©s estÃ£o dentro das tuas portas, Ã³ JerusalÃ©m.",
-      "fra": "<span class=\"verse-number\">2</span> Nos pieds sâarrÃªtent Dans tes portes, JÃ©rusalemÂ !",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">So stehn denn nunmehr unsre FÃ¼Ãe</span><span class=\"line\">in deinen Toren, Jerusalem!</span>",
-      "kor": "<span class=\"verse-number\">2</span> ìë£¨ì´ë ì ì°ë¦¬ ë°ì´ ë¤ ì±ë¬¸ ìì ì°ëë¤",
-      "ita": "<span class=\"verse-number\">2</span> I nostri passi si sono fermati dentro le tue porte, o Gerusalemme;"
+      "eng": "Our feet shall stand within thy gates, O Jerusalem.",
+      "ara": "تَقِفُ أَقْدَامُنَا الآنَ دَاخِلَ أَبْوَابِكِ يَا أُورُشَلِيمُ.",
+      "jpn": "エルサレムよ、われらの<ruby>足<rt>あし</rt></ruby>はあなたの<ruby>門<rt>もん</rt></ruby>のうちに<ruby>立<rt>た</rt></ruby>っている。",
+      "spa": "<span class=\"line\">Nuestros pies están</span><span class=\"line\">dentro de tus puertas, oh Jerusalén.</span>",
+      "por": "Os nossos pés estão dentro das tuas portas, ó Jerusalém.",
+      "fra": "Nos pieds s’arrêtent Dans tes portes, Jérusalem !",
+      "deu": "<span class=\"line\">So stehn denn nunmehr unsre Füße</span><span class=\"line\">in deinen Toren, Jerusalem!</span>",
+      "kor": "예루살렘아 우리 발이 네 성문 안에 섰도다",
+      "ita": "I nostri passi si sono fermati dentro le tue porte, o Gerusalemme;"
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>Jerusalem is builded as a city that is compact together:",
-      "ara": "<span class=\"verse-number\">Ù£ </span>Ø£ÙÙØ±ÙØ´ÙÙÙÙÙÙ Ø§ÙÙÙÙØ¨ÙÙÙÙÙÙØ©Ù ÙÙÙÙØ¯ÙÙÙÙØ©Ù ÙÙØªÙÙÙØ§Ø³ÙÙÙØ©Ù ÙÙØªÙÙØ­ÙØ¯ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">3</span> ãããã¤ããªã£ã<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã®ããã«<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ããã¦ããã¨ã«ãµã¬ã ãã",
-      "spa": "<span class=\"verse-number\">3</span> <span class=\"line\">JerusalÃ©n, que ha sido edificada</span><span class=\"line\">como una ciudad que estÃ¡ bien unida entre sÃ­.</span>",
-      "por": "<span class=\"verse-number\">3</span> JerusalÃ©m estÃ¡ edificada como uma cidade que Ã© compacta,",
-      "fra": "<span class=\"verse-number\">3</span> JÃ©rusalem, tu es bÃ¢tie Comme une ville dont les parties sont liÃ©es ensemble.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Jerusalem, du wiedererbaute</span><span class=\"line\">als eine Stadt, die fest in sich geschlossen,</span>",
-      "kor": "<span class=\"verse-number\">3</span> ìë£¨ì´ë ì ëë ì ì§ì¬ì§ ì±ìê³¼ ê°ì´ ê±´ì¤ëìëë¤",
-      "ita": "<span class=\"verse-number\">3</span> Gerusalemme, che sei edificata, come una cittÃ  ben compatta,"
+      "eng": "Jerusalem is builded as a city that is compact together:",
+      "ara": "أُورُشَلِيمُ الْمَبْنِيَّةُ كَمَدِينَةٍ مُتَمَاسِكَةٍ مُتَّحِدَةٍ.",
+      "jpn": "しげくつらなった<ruby>町<rt>まち</rt></ruby>のように<ruby>建<rt>た</rt></ruby>てられているエルサレムよ、",
+      "spa": "<span class=\"line\">Jerusalén, que ha sido edificada</span><span class=\"line\">como una ciudad que está bien unida entre sí.</span>",
+      "por": "Jerusalém está edificada como uma cidade que é compacta,",
+      "fra": "Jérusalem, tu es bâtie Comme une ville dont les parties sont liées ensemble.",
+      "deu": "<span class=\"line\">Jerusalem, du wiedererbaute</span><span class=\"line\">als eine Stadt, die fest in sich geschlossen,</span>",
+      "kor": "예루살렘아 너는 잘 짜여진 성읍과 같이 건설되었도다",
+      "ita": "Gerusalemme, che sei edificata, come una città ben compatta,"
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>Whither the tribes go up, the tribes of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, unto the testimony of Israel, to give thanks unto the name of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø¥ÙÙÙÙÙÙÙØ§ ØµÙØ¹ÙØ¯ÙØªÙ Ø§ÙØ£ÙØ³ÙØ¨ÙØ§Ø·ÙØ Ø£ÙØ³ÙØ¨ÙØ§Ø·Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØªÙØ±ÙÙÙØ¹Ù Ø§ÙØ´ÙÙÙÙØ±Ù ÙÙÙÙ Ø¨ÙØ­ÙØ³ÙØ¨Ù Ø£ÙÙÙØ§ÙÙØ±ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">4</span> ããããã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ããªãã¡<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ããããã«<ruby><rb>ä¸</rb><rt>ã®ã¼</rt></ruby>ã£ã¦<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ã¦<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ã¿<ruby><rb>å</rb><rt>ãª</rt></ruby>ã«<ruby><rb>æè¬</rb><rt>ãããã</rt></ruby>ãããã¨ã¯ãã¤ã¹ã©ã¨ã«ã®ããã¦ã§ããã",
-      "spa": "<span class=\"verse-number\">4</span> <span class=\"line\">AllÃ¡ subieron las tribus, las tribus de <span class=\"deity-name\"><span class=\"uppercase\">Jah</span></span>,</span><span class=\"line\"><span class=\"clarity-word\">conforme</span> al testimonio a Israel,</span><span class=\"line\">para alabar el nombre de JehovÃ¡.</span>",
-      "por": "<span class=\"verse-number\">4</span> Onde sobem as tribos, as tribos do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, como testemunho para Israel, para darem graÃ§as ao nome do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
-      "fra": "<span class=\"verse-number\">4</span> Câest lÃ  que montent les tribus, les tribus de lâÃternel, Selon la loi dâIsraÃ«l, Pour louer le nom de lâÃternel.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">wohin die StÃ¤mme hinaufziehn, die StÃ¤mme des HErrn,</span><span class=\"line\">nach der fÃ¼r Israel gÃ¼ltigen Weisung,</span><span class=\"line\">dort den Namen des HErrn zu preisen;</span>",
-      "kor": "<span class=\"verse-number\">4</span> ì§íë¤ ê³§ ì¬í¸ìì ì§íë¤ì´ ì¬í¸ìì ì´ë¦ì ê°ì¬íë ¤ê³  ì´ì¤ë¼ìì ì ë¡ëë¡ ê·¸ë¦¬ë¡ ì¬ë¼ê°ëëë¤",
-      "ita": "<span class=\"verse-number\">4</span> dove salgono le tribÃ¹, le tribÃ¹ dellâEterno, secondo lâingiunzione fatta ad Israele, per celebrare il nome dellâEterno."
+      "eng": "Whither the tribes go up, the tribes of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, unto the testimony of Israel, to give thanks unto the name of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "إِلَيْهَا صَعِدَتِ الأَسْبَاطُ، أَسْبَاطُ الرَّبِّ لِتَرْفَعَ الشُّكْرَ لَهُ بِحَسَبِ أَوَامِرِهِ.",
+      "jpn": "もろもろの<ruby>部族<rt>ぶぞく</rt></ruby>すなわち<ruby>主<rt>しゅ</rt></ruby>の<ruby>部族<rt>ぶぞく</rt></ruby>が、そこに<ruby>上<rt>のぼ</rt></ruby>って<ruby>来<rt>き</rt></ruby>て<ruby>主<rt>しゅ</rt></ruby>のみ<ruby>名<rt>な</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>することは、イスラエルのおきてである。",
+      "spa": "<span class=\"line\">Allá subieron las tribus, las tribus de <span class=\"deity-name\"><span class=\"uppercase\">Jah</span></span>,</span><span class=\"line\"><span class=\"clarity-word\">conforme</span> al testimonio a Israel,</span><span class=\"line\">para alabar el nombre de Jehová.</span>",
+      "por": "Onde sobem as tribos, as tribos do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, como testemunho para Israel, para darem graças ao nome do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
+      "fra": "C’est là que montent les tribus, les tribus de l’Éternel, Selon la loi d’Israël, Pour louer le nom de l’Éternel.",
+      "deu": "<span class=\"line\">wohin die Stämme hinaufziehn, die Stämme des HErrn,</span><span class=\"line\">nach der für Israel gültigen Weisung,</span><span class=\"line\">dort den Namen des HErrn zu preisen;</span>",
+      "kor": "지파들 곧 여호와의 지파들이 여호와의 이름에 감사하려고 이스라엘의 전례대로 그리로 올라가는도다",
+      "ita": "dove salgono le tribù, le tribù dell’Eterno, secondo l’ingiunzione fatta ad Israele, per celebrare il nome dell’Eterno."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>For there are set thrones of judgment, the thrones of the house of David.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙØ§ÙÙ ÙÙØµÙØ¨ÙØªÙ Ø¹ÙØ±ÙÙØ´Ù Ø§ÙÙÙÙØ¶ÙØ§Ø¡ÙØ Ø¹ÙØ±ÙÙØ´Ù Ø¢ÙÙ Ø¯ÙØ§ÙÙØ¯Ù.",
-      "jpn": "<span class=\"verse-number\">5</span> ããã«ãã°ãã®<ruby><rb>åº§</rb><rt>ã</rt></ruby>ããããã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã®<ruby><rb>çåº§</rb><rt>ããã</rt></ruby>ã<ruby><rb>è¨­</rb><rt>ãã</rt></ruby>ãããã¦ãã£ãã",
-      "spa": "<span class=\"verse-number\">5</span> <span class=\"line\">Porque allÃ¡ estÃ¡n los tronos del juicio,</span><span class=\"line\">los tronos de la casa de David.</span>",
-      "por": "<span class=\"verse-number\">5</span> Pois ali estÃ£o os tronos do juÃ­zo, os tronos da casa de Davi.",
-      "fra": "<span class=\"verse-number\">5</span> Car lÃ  sont les trÃ´nes pour la justice, Les trÃ´nes de la maison de David.",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">denn dort waren einst aufgestellt die StÃ¼hle zum Gericht,</span><span class=\"line\">die StÃ¼hle des Hauses Davids.</span>",
-      "kor": "<span class=\"verse-number\">5</span> ê±°ê¸°ì ì¬íì ë³´ì¢ë¥¼ ëì¨ì¼ë ê³§ ë¤ìì ì§ì ë³´ì¢ë¡ë¤",
-      "ita": "<span class=\"verse-number\">5</span> PerchÃ© lÃ¬ sono posti i troni per il giudizio, i troni della casa di Davide."
+      "eng": "For there are set thrones of judgment, the thrones of the house of David.",
+      "ara": "هُنَاكَ نُصِبَتْ عُرُوشُ الْقَضَاءِ، عُرُوشُ آلِ دَاوُدَ.",
+      "jpn": "そこにさばきの<ruby>座<rt>ざ</rt></ruby>、ダビデの<ruby>家<rt>いえ</rt></ruby>の<ruby>王座<rt>おうざ</rt></ruby>が<ruby>設<rt>もう</rt></ruby>けられてあった。",
+      "spa": "<span class=\"line\">Porque allá están los tronos del juicio,</span><span class=\"line\">los tronos de la casa de David.</span>",
+      "por": "Pois ali estão os tronos do juízo, os tronos da casa de Davi.",
+      "fra": "Car là sont les trônes pour la justice, Les trônes de la maison de David.",
+      "deu": "<span class=\"line\">denn dort waren einst aufgestellt die Stühle zum Gericht,</span><span class=\"line\">die Stühle des Hauses Davids.</span>",
+      "kor": "거기에 심판의 보좌를 두셨으니 곧 다윗의 집의 보좌로다",
+      "ita": "Perché lì sono posti i troni per il giudizio, i troni della casa di Davide."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>Pray for the peace of Jerusalem: they shall prosper that love thee.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ØµÙÙÙÙÙØ§ ÙØ£ÙØ¬ÙÙÙ Ø³ÙÙØ§ÙÙ Ø£ÙÙØ±ÙØ´ÙÙÙÙÙÙ. ÙÙÙÙÙÙÙÙØ­Ù ÙÙØ­ÙØ¨ÙÙÙÙÙ ÙÙÙÙØ·ÙÙÙØ¦ÙÙÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">6</span> ã¨ã«ãµã¬ã ã®ããã«<ruby><rb>å¹³å®</rb><rt>ã¸ããã</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ãã®</rt></ruby>ãããã¨ã«ãµã¬ã ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>æ </rb><rt>ãã</rt></ruby>ãã",
-      "spa": "<span class=\"verse-number\">6</span> <span class=\"line\">Pedid por la paz de JerusalÃ©n;</span><span class=\"line\">sean prosperados los que te aman.</span>",
-      "por": "<span class=\"verse-number\">6</span> Orai pela paz de JerusalÃ©m; prosperarÃ£o aqueles que te amam.",
-      "fra": "<span class=\"verse-number\">6</span> Demandez la paix de JÃ©rusalem. Que ceux qui tâaiment profitent du reposÂ !",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">Bringet Jerusalem dar den FriedensgruÃ:</span><span class=\"line\">âHeil denen, die dich lieben!</span>",
-      "kor": "<span class=\"verse-number\">6</span> ìë£¨ì´ë ì ìíì¬ íìì êµ¬íë¼ ìë£¨ì´ë ì ì¬ëíë ìë ííµíë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">6</span> Pregate per la pace di Gerusalemme. Prosperino quelli che ti amano."
+      "eng": "Pray for the peace of Jerusalem: they shall prosper that love thee.",
+      "ara": "صَلُّوا لأَجْلِ سَلامِ أُورُشَلِيمَ. لِيُفْلِحْ مُحِبُّوكِ وَيَطْمَئِنُّوا.",
+      "jpn": "エルサレムのために<ruby>平安<rt>へいあん</rt></ruby>を<ruby>祈<rt>いの</rt></ruby>れ、「エルサレムを<ruby>愛<rt>あい</rt></ruby>する<ruby>者<rt>もの</rt></ruby>は<ruby>栄<rt>さか</rt></ruby>え、",
+      "spa": "<span class=\"line\">Pedid por la paz de Jerusalén;</span><span class=\"line\">sean prosperados los que te aman.</span>",
+      "por": "Orai pela paz de Jerusalém; prosperarão aqueles que te amam.",
+      "fra": "Demandez la paix de Jérusalem. Que ceux qui t’aiment profitent du repos !",
+      "deu": "<span class=\"line\">Bringet Jerusalem dar den Friedensgruß:</span><span class=\"line\">„Heil denen, die dich lieben!</span>",
+      "kor": "예루살렘을 위하여 평안을 구하라 예루살렘을 사랑하는 자는 형통하리로다",
+      "ita": "Pregate per la pace di Gerusalemme. Prosperino quelli che ti amano."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>Peace be within thy walls, <span class=\"clarity-word\">and</span> prosperity within thy palaces.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙÙÙÙÙ Ø§ÙØ³ÙÙÙØ§ÙÙ Ø¯ÙØ§Ø®ÙÙÙ Ø£ÙØ³ÙÙÙØ§Ø±ÙÙÙØ ÙÙØ§ÙØ£ÙÙÙØ§ÙÙ Ø¯ÙØ§Ø®ÙÙÙ ÙÙØµÙÙØ±ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">7</span> ãã®<ruby><rb>åå£</rb><rt>ãããã¸ã</rt></ruby>ã®ãã¡ã«<ruby><rb>å¹³å®</rb><rt>ã¸ããã</rt></ruby>ããããããããã®<ruby><rb>æ®¿</rb><rt>ã¨ã®</rt></ruby>ã®ãã¡ã«<ruby><rb>å®å¨</rb><rt>ãããã</rt></ruby>ãããããã«ãã¨ã",
-      "spa": "<span class=\"verse-number\">7</span> <span class=\"line\">Haya paz dentro de tus muros</span><span class=\"line\"><span class=\"clarity-word\">y</span> serenidad en tus palacios.</span>",
-      "por": "<span class=\"verse-number\">7</span> Haja paz dentro de teus muros; <span class=\"clarity-word\">e</span> prosperidade, dentro dos teus palÃ¡cios.",
-      "fra": "<span class=\"verse-number\">7</span> Que la paix soit dans tes murs, Et la tranquillitÃ© dans tes palaisÂ !",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">âFriede herrsche vor deinen Mauern,</span><span class=\"line\">âsichere Ruhe in deinen PalÃ¤sten!â</span>",
-      "kor": "<span class=\"verse-number\">7</span> ë¤ ì± ììë íìì´ ìê³  ë¤ ê¶ì¤ìë ííµí¨ì´ ììì§ì´ë¤",
-      "ita": "<span class=\"verse-number\">7</span> Pace sia dentro i tuoi bastioni, e tranquillitÃ  nei tuoi palazzi."
+      "eng": "Peace be within thy walls, <span class=\"clarity-word\">and</span> prosperity within thy palaces.",
+      "ara": "لِيَكُنِ السَّلامُ دَاخِلَ أَسْوَارِكِ، وَالأَمَانُ دَاخِلَ قُصُورِكِ.",
+      "jpn": "その<ruby>城壁<rt>じょうへき</rt></ruby>のうちに<ruby>平安<rt>へいあん</rt></ruby>があり、もろもろの<ruby>殿<rt>との</rt></ruby>のうちに<ruby>安全<rt>あんぜん</rt></ruby>があるように」と。",
+      "spa": "<span class=\"line\">Haya paz dentro de tus muros</span><span class=\"line\"><span class=\"clarity-word\">y</span> serenidad en tus palacios.</span>",
+      "por": "Haja paz dentro de teus muros; <span class=\"clarity-word\">e</span> prosperidade, dentro dos teus palácios.",
+      "fra": "Que la paix soit dans tes murs, Et la tranquillité dans tes palais !",
+      "deu": "<span class=\"line\">„Friede herrsche vor deinen Mauern,</span><span class=\"line\">„sichere Ruhe in deinen Palästen!”</span>",
+      "kor": "네 성 안에는 평안이 있고 네 궁중에는 형통함이 있을지어다",
+      "ita": "Pace sia dentro i tuoi bastioni, e tranquillità nei tuoi palazzi."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>For my brethren and companionsâ sakes, I will now say, Peace <span class=\"clarity-word\">be</span> within thee.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙÙÙ Ø£ÙØ¬ÙÙÙ Ø¥ÙØ®ÙÙÙØªÙÙ ÙÙØ£ÙØµÙØ­ÙØ§Ø¨ÙÙ Ø£ÙÙÙÙÙÙ: ÙÙÙÙØ³ÙØ¯Ù ÙÙÙÙÙ Ø³ÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">8</span> ãã<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ããã³<ruby><rb>å</rb><rt>ã¨ã</rt></ruby>ã®ããã«ããããã¯ãã¨ã«ãµã¬ã ã®ãã¡ã«<ruby><rb>å¹³å®</rb><rt>ã¸ããã</rt></ruby>ãããããã«ãã¨<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãã",
-      "spa": "<span class=\"verse-number\">8</span> <span class=\"line\">Por mis hermanos y mis compaÃ±eros</span><span class=\"line\">dirÃ© ahora: La paz sea contigo.</span>",
-      "por": "<span class=\"verse-number\">8</span> Por causa dos meus irmÃ£os e amigos, direi: <span class=\"clarity-word\">Haja</span> paz em ti.",
-      "fra": "<span class=\"verse-number\">8</span> Ã cause de mes frÃ¨res et de mes amis, Je dÃ©sire la paix dans ton seinÂ ;",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">Um meiner BrÃ¼der und Freunde willen</span><span class=\"line\">will ich dir Frieden (oder: Heil) wÃ¼nschen;</span>",
-      "kor": "<span class=\"verse-number\">8</span> ë´ê° ë´ íì ì ì¹êµ¬ë¥¼ ìíì¬ ì´ì  ë§íë¦¬ë ë¤ ê°ì´ë°ì íìì´ ììì§ì´ë¤",
-      "ita": "<span class=\"verse-number\">8</span> Per amore dei miei fratelli e dei miei amici, io dirÃ² adesso: âSia pace in te.â."
+      "eng": "For my brethren and companions’ sakes, I will now say, Peace <span class=\"clarity-word\">be</span> within thee.",
+      "ara": "مِنْ أَجْلِ إِخْوَتِي وَأَصْحَابِي أَقُولُ: لِيَسُدْ فِيكِ سَلامٌ.",
+      "jpn": "わが<ruby>兄弟<rt>きょうだい</rt></ruby>および<ruby>友<rt>とも</rt></ruby>のために、わたしは「エルサレムのうちに<ruby>平安<rt>へいあん</rt></ruby>があるように」と<ruby>言<rt>い</rt></ruby>い、",
+      "spa": "<span class=\"line\">Por mis hermanos y mis compañeros</span><span class=\"line\">diré ahora: La paz sea contigo.</span>",
+      "por": "Por causa dos meus irmãos e amigos, direi: <span class=\"clarity-word\">Haja</span> paz em ti.",
+      "fra": "À cause de mes frères et de mes amis, Je désire la paix dans ton sein ;",
+      "deu": "<span class=\"line\">Um meiner Brüder und Freunde willen</span><span class=\"line\">will ich dir Frieden (oder: Heil) wünschen;</span>",
+      "kor": "내가 내 형제와 친구를 위하여 이제 말하리니 네 가운데에 평안이 있을지어다",
+      "ita": "Per amore dei miei fratelli e dei miei amici, io dirò adesso: “Sia pace in te.”."
     },
     "9": {
-      "eng": "<span class=\"verse-number\">9 </span>Because of the house of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> our God I will seek thy good.",
-      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙÙÙ Ø£ÙØ¬ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙÙÙØ§ Ø£ÙÙÙØªÙÙÙØ³Ù ÙÙÙÙ Ø®ÙÙÙØ±Ø§Ù.",
-      "jpn": "<span class=\"verse-number\">9</span> ãããã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã®ããã«ããããã¯ã¨ã«ãµã¬ã ã®ããããã<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ããã§ãããã",
-      "spa": "<span class=\"verse-number\">9</span> <span class=\"line\">A causa de la casa de JehovÃ¡ nuestro Dios,</span><span class=\"line\">buscarÃ© tu bien.</span>",
-      "por": "<span class=\"verse-number\">9</span> Por causa da casa do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, nosso Deus, buscarei o teu bem.",
-      "fra": "<span class=\"verse-number\">9</span> Ã cause de la maison de lâÃternel, notre Dieu, Je fais des vÅux pour ton bonheur.",
-      "deu": "<span class=\"verse-number\">9Â </span><span class=\"line\">um des Hauses des HErrn, unsres Gottes, willen</span><span class=\"line\">will ich Segen fÃ¼r dich erbitten.</span>",
-      "kor": "<span class=\"verse-number\">9</span> ì¬í¸ì ì°ë¦¬ íëëì ì§ì ìíì¬ ë´ê° ëë¥¼ ìíì¬ ë³µì êµ¬íë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">9</span> Per amore della casa dellâEterno, del nostro Dio, io procaccerÃ² il tuo bene."
+      "eng": "Because of the house of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> our God I will seek thy good.",
+      "ara": "مِنْ أَجْلِ الرَّبِّ إِلَهِنَا أَلْتَمِسُ لَكِ خَيْراً.",
+      "jpn": "われらの<ruby>神<rt>かみ</rt></ruby>、<ruby>主<rt>しゅ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>のために、わたしはエルサレムのさいわいを<ruby>求<rt>もと</rt></ruby>めるであろう。",
+      "spa": "<span class=\"line\">A causa de la casa de Jehová nuestro Dios,</span><span class=\"line\">buscaré tu bien.</span>",
+      "por": "Por causa da casa do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, nosso Deus, buscarei o teu bem.",
+      "fra": "À cause de la maison de l’Éternel, notre Dieu, Je fais des vœux pour ton bonheur.",
+      "deu": "<span class=\"line\">um des Hauses des HErrn, unsres Gottes, willen</span><span class=\"line\">will ich Segen für dich erbitten.</span>",
+      "kor": "여호와 우리 하나님의 집을 위하여 내가 너를 위하여 복을 구하리로다",
+      "ita": "Per amore della casa dell’Eterno, del nostro Dio, io procaccerò il tuo bene."
     }
   }
 }

@@ -4,112 +4,112 @@
     "book": "ps",
     "chapter": 4,
     "headings": {
-      "eng": "David pleads for mercyâHe counsels, Put your trust in the Lord.",
-      "spa": "David suplica misericordiaÂ â Ãl aconseja confiar en JehovÃ¡.",
-      "por": "Davi implora misericÃ³rdiaÂ â Ele aconselha: Confiai no Senhor.",
-      "fra": "David implore la misÃ©ricorde. Il conseilleÂ : Â«Â Confiez-vous en lâÃternel.Â Â»",
-      "ita": "Davide implora misericordiaÂ â Consiglia: âConfidate nellâEternoâ."
+      "eng": "David pleads for mercy—He counsels, Put your trust in the Lord.",
+      "spa": "David suplica misericordia — Él aconseja confiar en Jehová.",
+      "por": "Davi implora misericórdia — Ele aconselha: Confiai no Senhor.",
+      "fra": "David implore la miséricorde. Il conseille : « Confiez-vous en l’Éternel. »",
+      "ita": "Davide implora misericordia — Consiglia: “Confidate nell’Eterno”."
     },
     "intros": {
       "eng": "To the chief Musician on Neginoth, A Psalm of David.",
-      "jpn": "<ruby><rb>èæ­</rb><rt>ããã</rt></ruby><ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ææ®è</rb><rt>ãããã</rt></ruby>ã«ãã£ã¦<ruby><rb>ç´</rb><rt>ãã¨</rt></ruby>ã«ãããã¦ããããããããã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
-      "spa": "Al mÃºsico principal: con Neginot. Salmo de David.",
-      "por": "Salmo de Davi para o mÃºsico-mor, sobre Neginote.",
+      "jpn": "<ruby>聖歌<rt>せいか</rt></ruby><ruby>隊<rt>たい</rt></ruby>の<ruby>指揮者<rt>しきしゃ</rt></ruby>によって<ruby>琴<rt>こと</rt></ruby>にあわせてうたわせたダビデの<ruby>歌<rt>うた</rt></ruby>",
+      "spa": "Al músico principal: con Neginot. Salmo de David.",
+      "por": "Salmo de Davi para o músico-mor, sobre Neginote.",
       "ita": "Al capo dei musici. Per strumenti a corda. Salmo di Davide."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>Hear me when I call, O God of my righteousness: thou hast enlarged me <span class=\"clarity-word\">when I was</span> in distress; have mercy upon me, and hear my prayer.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø§Ø³ÙØªÙØ¬ÙØ¨Ù ÙÙÙ Ø¹ÙÙÙØ¯ÙÙÙØ§ Ø£ÙØ¯ÙØ¹ÙÙÙÙ ÙÙØ§ Ø¥ÙÙÙÙÙ Ø¨ÙØ±ÙÙÙØ ÙÙÙÙØ¯Ù Ø£ÙÙÙØ±ÙØ¬ÙØªÙ ÙÙÙ Ø¯ÙÙÙÙØ§Ù ÙÙÙ Ø§ÙØ¶ÙÙÙÙÙØ ÙÙØ£ÙÙÙØ¹ÙÙÙ Ø¹ÙÙÙÙÙÙ ÙÙØ£ÙØµÙØºÙ Ø¥ÙÙÙÙ ØµÙÙØ§ØªÙÙ.",
-      "jpn": "<span class=\"verse-number\">1</span> ãããã®<ruby><rb>ç¾©</rb><rt>ã</rt></ruby>ã<ruby><rb>å©</rb><rt>ãã</rt></ruby>ã<ruby><rb>å®</rb><rt>ã¾ã</rt></ruby>ããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãããããã<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã°ãã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ãã<ruby><rb>ç­</rb><rt>ãã</rt></ruby>ããã ãããããªãã¯ãããã<ruby><rb>æ©</rb><rt>ãªã</rt></ruby>ãã§ãã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ããããããã¤ãããã¦ãã ããã¾ããããããããããã¿ããããã®<ruby><rb>ç¥</rb><rt>ãã®ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ã</rt></ruby>ããã ããã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">RespÃ³ndeme cuando clamo, oh Dios de mi justicia.</span><span class=\"line\"><span class=\"page-break\" data-page=\"888\"></span><span class=\"clarity-word\">Estando</span> en angustia, tÃº me diste alivio;</span><span class=\"line\">ten misericordia de mÃ­ y oye mi oraciÃ³n.</span>",
-      "por": "<span class=\"verse-number\">1</span> Ouve-me quando eu clamo, Ã³ Deus da minha justiÃ§a; na angÃºstia me deste alÃ­vio; tem misericÃ³rdia de mim e ouve a minha oraÃ§Ã£o.",
-      "fra": "<span class=\"verse-number\">1</span> Au chef des chantres. Avec instruments Ã  cordes. Psaume de David.",
-      "deu": "<span class=\"verse-number\">1Â </span>Dem Musikmeister, mit Saitenspiel; ein Psalm von David.",
-      "kor": "<span class=\"verse-number\">1</span> ë´ ìì íëëì´ì¬ ë´ê° ë¶ë¥¼ ëì ìëµíìì ê³¤ë ì¤ì ëë¥¼ ëê·¸ë½ê² íì¨ì¬ì¤ë ë´ê² ìíë¥¼ ë² í¸ì¬ ëì ê¸°ëë¥¼ ë¤ì¼ìì",
-      "ita": "<span class=\"verse-number\">1</span> Quando io grido, rispondimi, o Dio della mia rettitudine; quando ero nella distretta, tu mi hai liberato; abbi pietÃ  di me ed esaudisci la mia preghiera!"
+      "eng": "Hear me when I call, O God of my righteousness: thou hast enlarged me <span class=\"clarity-word\">when I was</span> in distress; have mercy upon me, and hear my prayer.",
+      "ara": "اسْتَجِبْ لِي عِنْدَمَا أَدْعُوكَ يَا إِلَهَ بِرِّي، فَقَدْ أَفْرَجْتَ لِي دَوْماً فِي الضِّيقِ، فَأَنْعِمْ عَلَيَّ وَأَصْغِ إِلَى صَلاتِي.",
+      "jpn": "わたしの<ruby>義<rt>ぎ</rt></ruby>を<ruby>助<rt>たす</rt></ruby>け<ruby>守<rt>まも</rt></ruby>られる<ruby>神<rt>かみ</rt></ruby>よ、わたしが<ruby>呼<rt>よ</rt></ruby>ばわる<ruby>時<rt>とき</rt></ruby>、お<ruby>答<rt>こた</rt></ruby>えください。あなたはわたしが<ruby>悩<rt>なや</rt></ruby>んでいた<ruby>時<rt>とき</rt></ruby>、わたしをくつろがせてくださいました。わたしをあわれみ、わたしの<ruby>祈<rt>いのり</rt></ruby>をお<ruby>聞<rt>き</rt></ruby>きください。",
+      "spa": "<span class=\"line\">Respóndeme cuando clamo, oh Dios de mi justicia.</span><span class=\"line\"><span class=\"clarity-word\">Estando</span> en angustia, tú me diste alivio;</span><span class=\"line\">ten misericordia de mí y oye mi oración.</span>",
+      "por": "Ouve-me quando eu clamo, ó Deus da minha justiça; na angústia me deste alívio; tem misericórdia de mim e ouve a minha oração.",
+      "fra": "Au chef des chantres. Avec instruments à cordes. Psaume de David.",
+      "deu": "Dem Musikmeister, mit Saitenspiel; ein Psalm von David.",
+      "kor": "내 의의 하나님이여 내가 부를 때에 응답하소서 곤란 중에 나를 너그럽게 하셨사오니 내게 은혜를 베푸사 나의 기도를 들으소서",
+      "ita": "Quando io grido, rispondimi, o Dio della mia rettitudine; quando ero nella distretta, tu mi hai liberato; abbi pietà di me ed esaudisci la mia preghiera!"
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>O ye sons of men, how long <span class=\"clarity-word\">will ye turn</span> my glory into shame? <span class=\"clarity-word\">how long</span> will ye love vanity, <span class=\"clarity-word\">and</span> seek after leasing? <span class=\"selah\">Selah</span>.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø¥ÙÙÙÙ ÙÙØªÙÙ ÙÙØ§ Ø¨ÙÙÙÙ Ø§ÙÙØ¨ÙØ´ÙØ±Ù ØªÙØ­ÙÙÙÙÙÙÙÙÙ ÙÙØ¬ÙØ¯ÙÙ Ø¹ÙØ§Ø±Ø§ÙØ ÙÙØ¥ÙÙÙÙ ÙÙØªÙÙ ØªÙØ­ÙØ¨ÙÙÙÙÙ Ø§ÙØ£ÙÙÙÙØ±Ù Ø§ÙØ¨ÙØ§Ø·ÙÙÙØ©ÙØ ÙÙØªÙØ³ÙØ¹ÙÙÙÙÙ ÙÙØ±ÙØ§Ø¡Ù Ø§ÙØ£ÙÙÙØ§Ø°ÙÙØ¨ÙØ",
-      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããããã¤ã¾ã§ãããã®<ruby><rb>èª</rb><rt>ã»ã¾ã</rt></ruby>ãã¯ãããããã®ãããã¤ã¾ã§ããªãã<ruby><rb>è¨è</rb><rt>ãã¨ã°</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å½</rb><rt>ãã¤ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ããã®ãã<span class=\"selah\">ãã»ã©</span>",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Hijos de los hombres, Â¿hasta cuÃ¡ndo seguirÃ©is convirtiendo mi honra en infamia?</span><span class=\"line\">Â¿Hasta cuÃ¡ndo amarÃ©is la vanidad y buscarÃ©is la mentira? <span class=\"selah\">Selah</span></span>",
-      "por": "<span class=\"verse-number\">2</span> Filhos dos homens, atÃ© quando <span class=\"clarity-word\">convertereis</span> a minha glÃ³ria em infÃ¢mia? <span class=\"clarity-word\">AtÃ© quando</span> amareis a vaidade <span class=\"clarity-word\">e</span> buscareis a mentira? <span class=\"selah\">(SelÃ¡.)</span>",
-      "fra": "<span class=\"verse-number\">2</span> Quand je crie, rÃ©ponds-moi, Dieu de ma justiceÂ ! Quand je suis dans la dÃ©tresse, sauve-moiÂ ! Aie pitiÃ© de moi, Ã©coute ma priÃ¨reÂ !",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Wenn ich rufe, erhÃ¶re mich,</span><span class=\"line\">du Gott meiner Gerechtigkeit (oder: meines Rechts)!</span><span class=\"line\">In BedrÃ¤ngnis hast du mir (immer) Raum geschafft:</span><span class=\"line\">sei mir gnÃ¤dig und hÃ¶re mein Gebet!</span>",
-      "kor": "<span class=\"verse-number\">2</span> ì¸ìë¤ì ì´ë ëê¹ì§ ëì ìê´ì ë°ê¾¸ì´ ìëê² íë©° íë ì¼ì ì¢ìíê³  ê±°ì§ì êµ¬íë ¤ëê° (ìë¼)",
-      "ita": "<span class=\"verse-number\">2</span> Figli degli uomini, fino a quando sarÃ  la mia gloria coperta di obbrobrio? Fino a quando amerete la vanitÃ  e andrete dietro alla menzogna? <span class=\"clarity-word\">Sela.</span>"
+      "eng": "O ye sons of men, how long <span class=\"clarity-word\">will ye turn</span> my glory into shame? <span class=\"clarity-word\">how long</span> will ye love vanity, <span class=\"clarity-word\">and</span> seek after leasing? <span class=\"selah\">Selah</span>.",
+      "ara": "إِلَى مَتَى يَا بَنِي الْبَشَرِ تُحَوِّلُونَ مَجْدِي عَاراً؟ وَإِلَى مَتَى تُحِبُّونَ الأُمُورَ البَاطِلَةَ، وَتَسْعَوْنَ وَرَاءَ الأَكَاذِيبِ؟",
+      "jpn": "<ruby>人<rt>ひと</rt></ruby>の<ruby>子<rt>こ</rt></ruby>らよ、いつまでわたしの<ruby>誉<rt>ほまれ</rt></ruby>をはずかしめるのか。いつまでむなしい<ruby>言葉<rt>ことば</rt></ruby>を<ruby>愛<rt>あい</rt></ruby>し、<ruby>偽<rt>いつわ</rt></ruby>りを<ruby>慕<rt>した</rt></ruby>い<ruby>求<rt>もと</rt></ruby>めるのか。<span class=\"selah\">〔セラ</span>",
+      "spa": "<span class=\"line\">Hijos de los hombres, ¿hasta cuándo seguiréis convirtiendo mi honra en infamia?</span><span class=\"line\">¿Hasta cuándo amaréis la vanidad y buscaréis la mentira? <span class=\"selah\">Selah</span></span>",
+      "por": "Filhos dos homens, até quando <span class=\"clarity-word\">convertereis</span> a minha glória em infâmia? <span class=\"clarity-word\">Até quando</span> amareis a vaidade <span class=\"clarity-word\">e</span> buscareis a mentira? <span class=\"selah\">(Selá.)</span>",
+      "fra": "Quand je crie, réponds-moi, Dieu de ma justice ! Quand je suis dans la détresse, sauve-moi ! Aie pitié de moi, écoute ma prière !",
+      "deu": "<span class=\"line\">Wenn ich rufe, erhöre mich,</span><span class=\"line\">du Gott meiner Gerechtigkeit (oder: meines Rechts)!</span><span class=\"line\">In Bedrängnis hast du mir (immer) Raum geschafft:</span><span class=\"line\">sei mir gnädig und höre mein Gebet!</span>",
+      "kor": "인생들아 어느 때까지 나의 영광을 바꾸어 욕되게 하며 헛된 일을 좋아하고 거짓을 구하려는가 (셀라)",
+      "ita": "Figli degli uomini, fino a quando sarà la mia gloria coperta di obbrobrio? Fino a quando amerete la vanità e andrete dietro alla menzogna? <span class=\"clarity-word\">Sela.</span>"
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>But know that the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> hath set apart him that is godly for himself: the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> will hear when I call unto him.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>Ø§Ø¹ÙÙÙÙÙÙØ§ Ø£ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¯Ù ÙÙÙÙÙØ²Ù ÙÙÙÙÙÙØ³ÙÙÙ ØªÙÙÙÙÙÙÙÙØ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ³ÙÙÙØ¹Ù Ø¹ÙÙÙØ¯ÙÙÙØ§ Ø£ÙØ¯ÙØ¹ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">3</span> ãããããªãããã¯<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ããããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>æ¬</rb><rt>ããã¾</rt></ruby>ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®ããã«<ruby><rb>èå¥</rb><rt>ããã¹ã¤</rt></ruby>ããããã¨ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ãããã<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã°ãã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã«ããããã ããã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Sabed, pues, que JehovÃ¡ ha apartado al piadoso para sÃ­;</span><span class=\"line\">JehovÃ¡ oirÃ¡ cuando yo a Ã©l clame.</span>",
-      "por": "<span class=\"verse-number\">3</span> Sabei, pois, que o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> separou para si aquele que lhe Ã© piedoso; o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> ouvirÃ¡ quando eu clamar a ele.",
-      "fra": "<span class=\"verse-number\">3</span> Fils des hommes, jusquâÃ  quand ma gloire sera-t-elle outragÃ©eÂ ? JusquâÃ  quand aimerez-vous la vanitÃ©, Chercherez-vous le mensongeÂ ?Â â SÃ©lah.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Ihr HerrensÃ¶hne, wie lange noch</span><span class=\"line\">soll meine Ehre geschÃ¤ndet werden?</span><span class=\"line\">wie lange noch wollt ihr an Eitlem hangen,</span><span class=\"line\">auf LÃ¼gen ausgehn? Sela.</span>",
-      "kor": "<span class=\"verse-number\">3</span> ì¬í¸ìê»ì ìê¸°ë¥¼ ìíì¬ ê²½ê±´í ìë¥¼ ííì  ì¤ <span class=\"clarity-word\">ëí¬ê°</span> ìì§ì´ë¤ ë´ê° ê·¸ë¥¼ ë¶ë¥¼ ëì ì¬í¸ìê»ì ë¤ì¼ìë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">3</span> Sappiate che lâEterno si Ã¨ riservato uno che egli ama; lâEterno mi esaudirÃ  quando griderÃ² a lui."
+      "eng": "But know that the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> hath set apart him that is godly for himself: the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> will hear when I call unto him.",
+      "ara": "اعْلَمُوا أَنَّ الرَّبَّ قَدْ مَيَّزَ لِنَفْسِهِ تَقِيَّهُ؛ الرَّبُّ يَسْمَعُ عِنْدَمَا أَدْعُوهُ.",
+      "jpn": "しかしあなたがたは<ruby>知<rt>し</rt></ruby>るがよい、<ruby>主<rt>しゅ</rt></ruby>は<ruby>神<rt>かみ</rt></ruby>を<ruby>敬<rt>うやま</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>をご<ruby>自分<rt>じぶん</rt></ruby>のために<ruby>聖別<rt>せいべつ</rt></ruby>されたことを。<ruby>主<rt>しゅ</rt></ruby>はわたしが<ruby>呼<rt>よ</rt></ruby>ばわる<ruby>時<rt>とき</rt></ruby>におききくださる。",
+      "spa": "<span class=\"line\">Sabed, pues, que Jehová ha apartado al piadoso para sí;</span><span class=\"line\">Jehová oirá cuando yo a él clame.</span>",
+      "por": "Sabei, pois, que o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> separou para si aquele que lhe é piedoso; o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> ouvirá quando eu clamar a ele.",
+      "fra": "Fils des hommes, jusqu’à quand ma gloire sera-t-elle outragée ? Jusqu’à quand aimerez-vous la vanité, Chercherez-vous le mensonge ? — Sélah.",
+      "deu": "<span class=\"line\">Ihr Herrensöhne, wie lange noch</span><span class=\"line\">soll meine Ehre geschändet werden?</span><span class=\"line\">wie lange noch wollt ihr an Eitlem hangen,</span><span class=\"line\">auf Lügen ausgehn? Sela.</span>",
+      "kor": "여호와께서 자기를 위하여 경건한 자를 택하신 줄 <span class=\"clarity-word\">너희가</span> 알지어다 내가 그를 부를 때에 여호와께서 들으시리로다",
+      "ita": "Sappiate che l’Eterno si è riservato uno che egli ama; l’Eterno mi esaudirà quando griderò a lui."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>Stand in awe, and sin not: commune with your own heart upon your bed, and be still. <span class=\"selah\">Selah</span>.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø§Ø±ÙØªÙØ¹ÙØ¯ÙÙØ§ ÙÙÙÙØ§ ØªÙØ®ÙØ·ÙØ¦ÙÙØ§. ÙÙÙÙÙØ±ÙÙØ§ ÙÙÙ ÙÙÙÙÙØ¨ÙÙÙÙÙ Ø¹ÙÙÙÙ ÙÙØ¶ÙØ§Ø¬ÙØ¹ÙÙÙÙÙ ÙÙÙÙØªÙØ²ÙÙÙÙÙ Ø§ÙØµÙÙÙÙØªÙ.",
-      "jpn": "<span class=\"verse-number\">4</span> ããªãããã¯<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã£ã¦ãã<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ãã¦ã¯ãªããªãã<ruby><rb>åº</rb><rt>ã¨ã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã§<ruby><rb>é</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã«<ruby><rb>èª</rb><rt>ãã</rt></ruby>ããªããã<span class=\"selah\">ãã»ã©</span>",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Temblad y no pequÃ©is;</span><span class=\"line\">meditad en vuestro corazÃ³n sobre vuestro lecho, y callad. <span class=\"selah\">Selah</span></span>",
-      "por": "<span class=\"verse-number\">4</span> Tremei e nÃ£o pequeis; meditai em vosso coraÃ§Ã£o sobre a vossa cama, e calai-vos. <span class=\"selah\">(SelÃ¡.)</span>",
-      "fra": "<span class=\"verse-number\">4</span> Sachez que lâÃternel sâest choisi un homme pieuxÂ ; LâÃternel entend quand je lâinvoque.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Erkennt doch, daÃ der HErr</span><span class=\"line\">den ihm Getreuen sich auserkoren:</span><span class=\"line\">der HErr vernimmtâs, wenn ich zu ihm rufe.</span>",
-      "kor": "<span class=\"verse-number\">4</span> ëí¬ë ë¨ë©° ë²ì£íì§ ë§ì§ì´ë¤ ìë¦¬ì ëì ì¬ì¤ì ë§íê³  ì ì í ì§ì´ë¤ (ìë¼)",
-      "ita": "<span class=\"verse-number\">4</span> Tremate e non peccate; ragionate nel vostro cuore sui vostri letti e tacete. <span class=\"clarity-word\">Sela.</span>"
+      "eng": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still. <span class=\"selah\">Selah</span>.",
+      "ara": "ارْتَعِدُوا وَلَا تُخْطِئُوا. فَكِّرُوا فِي قُلُوبِكُمْ عَلَى مَضَاجِعِكُمْ مُلْتَزِمِين الصَّمْتَ.",
+      "jpn": "あなたがたは<ruby>怒<rt>いか</rt></ruby>っても、<ruby>罪<rt>つみ</rt></ruby>を<ruby>犯<rt>おか</rt></ruby>してはならない。<ruby>床<rt>とこ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で<ruby>静<rt>しず</rt></ruby>かに<ruby>自分<rt>じぶん</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>に<ruby>語<rt>かた</rt></ruby>りなさい。<span class=\"selah\">〔セラ</span>",
+      "spa": "<span class=\"line\">Temblad y no pequéis;</span><span class=\"line\">meditad en vuestro corazón sobre vuestro lecho, y callad. <span class=\"selah\">Selah</span></span>",
+      "por": "Tremei e não pequeis; meditai em vosso coração sobre a vossa cama, e calai-vos. <span class=\"selah\">(Selá.)</span>",
+      "fra": "Sachez que l’Éternel s’est choisi un homme pieux ; L’Éternel entend quand je l’invoque.",
+      "deu": "<span class=\"line\">Erkennt doch, daß der HErr</span><span class=\"line\">den ihm Getreuen sich auserkoren:</span><span class=\"line\">der HErr vernimmt’s, wenn ich zu ihm rufe.</span>",
+      "kor": "너희는 떨며 범죄하지 말지어다 자리에 누워 심중에 말하고 잠잠할지어다 (셀라)",
+      "ita": "Tremate e non peccate; ragionate nel vostro cuore sui vostri letti e tacete. <span class=\"clarity-word\">Sela.</span>"
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>Offer the sacrifices of righteousness, and put your trust in the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ¯ÙÙÙÙÙØ§ Ø°ÙØ¨ÙØ§Ø¦ÙØ­Ù Ø§ÙÙØ¨ÙØ±ÙÙØ ÙÙØ§ØªÙÙÙÙÙÙÙØ§ Ø¹ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ.",
-      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>ç¾©</rb><rt>ã</rt></ruby>ã®ããã«ãããããã¦<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¯</rb><rt>ã</rt></ruby>ã<ruby><rb>é ¼</rb><rt>ãã®</rt></ruby>ã¿ãªããã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">Ofreced sacrificios de justicia,</span><span class=\"line\">y confiad en JehovÃ¡.</span>",
-      "por": "<span class=\"verse-number\">5</span> Oferecei sacrifÃ­cios de justiÃ§a, e confiai no <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
-      "fra": "<span class=\"verse-number\">5</span> Tremblez et ne pÃ©chez pasÂ ; Parlez en votre cÅur sur votre lit puis, taisez-vous.Â â SÃ©lah.",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Seid zornerregt, doch versÃ¼ndigt euch nicht! (Eph. 4,26)</span><span class=\"line\">denkt nach im stillen auf eurem Lager und schweigt! Sela.</span>",
-      "kor": "<span class=\"verse-number\">5</span> ìì ì ì¬ë¥¼ ëë¦¬ê³  ì¬í¸ìë¥¼ ìì§í ì§ì´ë¤",
-      "ita": "<span class=\"verse-number\">5</span> Offrite sacrifici di rettitudine, e confidate nellâEterno."
+      "eng": "Offer the sacrifices of righteousness, and put your trust in the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "قَدِّمُوا ذَبَائِحَ الْبِرِّ، وَاتَّكِلُوا عَلَى الرَّبِّ.",
+      "jpn": "<ruby>義<rt>ぎ</rt></ruby>のいけにえをささげて<ruby>主<rt>しゅ</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>り<ruby>頼<rt>たの</rt></ruby>みなさい。",
+      "spa": "<span class=\"line\">Ofreced sacrificios de justicia,</span><span class=\"line\">y confiad en Jehová.</span>",
+      "por": "Oferecei sacrifícios de justiça, e confiai no <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
+      "fra": "Tremblez et ne péchez pas ; Parlez en votre cœur sur votre lit puis, taisez-vous. — Sélah.",
+      "deu": "<span class=\"line\">Seid zornerregt, doch versündigt euch nicht! (Eph. 4,26)</span><span class=\"line\">denkt nach im stillen auf eurem Lager und schweigt! Sela.</span>",
+      "kor": "의의 제사를 드리고 여호와를 의지할지어다",
+      "ita": "Offrite sacrifici di rettitudine, e confidate nell’Eterno."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span><span class=\"clarity-word\">There be</span> many that say, Who will shew us <span class=\"clarity-word\">any</span> good? <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, lift thou up the light of thy countenance upon us.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ§ Ø£ÙÙÙØ«ÙØ±Ù Ø§ÙÙÙÙØªÙØ³ÙØ§Ø¦ÙÙÙÙÙÙ: âÙÙÙÙ ÙÙØ±ÙÙÙÙØ§ Ø®ÙÙÙØ±Ø§ÙØâ Ø£ÙØ´ÙØ±ÙÙÙ Ø¹ÙÙÙÙÙÙÙØ§ Ø£ÙÙÙÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¨ÙÙÙÙØ±Ù ÙÙØ¬ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã©ãããããããã¡ã«<ruby><rb>è¯</rb><rt>ã</rt></ruby>ã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããããã«ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããã©ãããã¿<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ãããããã¡ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ç§</rb><rt>ã¦ã</rt></ruby>ãããããã«ãã¨ã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Muchos dicen: Â¿QuiÃ©n nos mostrarÃ¡ el bien?</span><span class=\"line\">Alza sobre nosotros, oh JehovÃ¡, la luz de tu rostro.</span>",
-      "por": "<span class=\"verse-number\">6</span> Muitos dizem: Quem nos mostrarÃ¡ o bem? <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, levanta sobre nÃ³s a luz do teu rosto.",
-      "fra": "<span class=\"verse-number\">6</span> Offrez des sacrifices de justice, Et confiez-vous en lâÃternel.",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">Bringt Opfer der Gerechtigkeit</span><span class=\"line\">dar und vertraut auf den HErrn!</span>",
-      "kor": "<span class=\"verse-number\">6</span> ì¬ë¬ <span class=\"clarity-word\">ì¬ë</span>ì ë§ì´ ì°ë¦¬ìê² ì ì ë³´ì¼ ì ëêµ¬ë¨ íì¤ë ì¬í¸ìì¬ ì£¼ì ì¼êµ´ì ë¤ì´ ì°ë¦¬ìê² ë¹ì¶ìì",
-      "ita": "<span class=\"verse-number\">6</span> Molti vanno dicendo: âChi ci farÃ  vedere la prosperitÃ ? O Eterno, faâ levare su di noi la luce del tuo volto!â."
+      "eng": "<span class=\"clarity-word\">There be</span> many that say, Who will shew us <span class=\"clarity-word\">any</span> good? <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, lift thou up the light of thy countenance upon us.",
+      "ara": "مَا أَكْثَرَ الْمُتَسَائِلِينَ: ”مَنْ يُرِينَا خَيْراً؟“ أَشْرِقْ عَلَيْنَا أَيُّهَا الرَّبُّ بِنُورِ وَجْهِكَ.",
+      "jpn": "<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>は<ruby>言<rt>い</rt></ruby>う、「どうか、わたしたちに<ruby>良<rt>よ</rt></ruby>い<ruby>事<rt>こと</rt></ruby>が<ruby>見<rt>み</rt></ruby>られるように。<ruby>主<rt>しゅ</rt></ruby>よ、どうか、み<ruby>顔<rt>かお</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>をわたしたちの<ruby>上<rt>うえ</rt></ruby>に<ruby>照<rt>てら</rt></ruby>されるように」と。",
+      "spa": "<span class=\"line\">Muchos dicen: ¿Quién nos mostrará el bien?</span><span class=\"line\">Alza sobre nosotros, oh Jehová, la luz de tu rostro.</span>",
+      "por": "Muitos dizem: Quem nos mostrará o bem? <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, levanta sobre nós a luz do teu rosto.",
+      "fra": "Offrez des sacrifices de justice, Et confiez-vous en l’Éternel.",
+      "deu": "<span class=\"line\">Bringt Opfer der Gerechtigkeit</span><span class=\"line\">dar und vertraut auf den HErrn!</span>",
+      "kor": "여러 <span class=\"clarity-word\">사람</span>의 말이 우리에게 선을 보일 자 누구뇨 하오니 여호와여 주의 얼굴을 들어 우리에게 비추소서",
+      "ita": "Molti vanno dicendo: “Chi ci farà vedere la prosperità? O Eterno, fa’ levare su di noi la luce del tuo volto!”."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>Thou hast put gladness in my heart, more than in the time <span class=\"clarity-word\">that</span> their corn and their wine increased.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>ØºÙØ±ÙØ³ÙØªÙ ÙÙÙ ÙÙÙÙØ¨ÙÙ ÙÙØ±ÙØ­Ø§Ù Ø£ÙØ¹ÙØ¸ÙÙÙ ÙÙÙÙ ÙÙØ±ÙØ­Ù ÙÙÙÙ Ø§ÙÙØªÙÙÙØ£ÙØªÙ Ø¨ÙÙÙÙØªÙÙÙÙÙ ÙÙØ£ÙØ¬ÙØ±ÙØ§ÙÙÙÙÙÙ Ø¨ÙØ§ÙÙØ­ÙÙÙØ·ÙØ©Ù ÙÙØ§ÙÙØ®ÙÙÙØ±Ù Ø§ÙÙØ¬ÙØ¯ÙÙØ¯ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">7</span> ããªãããããã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã«ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãã«ãªã£ã<ruby><rb>å</rb><rt>ããã</rt></ruby>ã³ã¯ã<ruby><rb>ç©ç©</rb><rt>ãããã¤</rt></ruby>ã¨ãã¶ã©ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>è±</rb><rt>ãã</rt></ruby>ããª<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ããã</rt></ruby>ã³ã«ã¾ãããã®ã§ããã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">TÃº diste alegrÃ­a a mi corazÃ³n,</span><span class=\"line\">mayor que la de <span class=\"clarity-word\">ellos</span> en el tiempo en que abundan su grano y su mosto.</span>",
-      "por": "<span class=\"verse-number\">7</span> Puseste alegria no meu coraÃ§Ã£o, mais do que no tempo em que se multiplicaram o seu trigo e o seu vinho.",
-      "fra": "<span class=\"verse-number\">7</span> Plusieurs disentÂ : Qui nous fera voir le bonheurÂ ? Fais lever sur nous la lumiÃ¨re de ta face, Ã´ ÃternelÂ !",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">Es sagen gar viele:</span><span class=\"line\">âWer lÃ¤Ãt Gutes uns schauen (= GlÃ¼ck uns erleben)?â</span><span class=\"line\">Erhebe (= laÃ leuchten) Ã¼ber uns, o HErr,</span><span class=\"line\">das Licht deines Angesichts!</span>",
-      "kor": "<span class=\"verse-number\">7</span> ì£¼ê»ì ë´ ë§ìì ëì  ê¸°ì¨ì ê·¸ë¤ì ê³¡ìê³¼ ì í¬ëì£¼ê° íì±í  ëë³´ë¤ ëíëì´ë¤",
-      "ita": "<span class=\"verse-number\">7</span> Tu mi hai messo piÃ¹ gioia nel cuore di quanta non provino essi quando il loro grano e il loro mosto abbondano."
+      "eng": "Thou hast put gladness in my heart, more than in the time <span class=\"clarity-word\">that</span> their corn and their wine increased.",
+      "ara": "غَرَسْتَ فِي قَلْبِي فَرَحاً أَعْظَمَ مِنْ فَرَحِ مَنِ امْتَلَأَتْ بُيُوتُهُمْ وَأَجْرَانُهُمْ بِالْحِنْطَةِ وَالْخَمْرِ الْجَدِيدَةِ.",
+      "jpn": "あなたがわたしの<ruby>心<rt>こころ</rt></ruby>にお<ruby>与<rt>あた</rt></ruby>えになった<ruby>喜<rt>よろこ</rt></ruby>びは、<ruby>穀物<rt>こくもつ</rt></ruby>と、ぶどう<ruby>酒<rt>しゅ</rt></ruby>の<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>時<rt>とき</rt></ruby>の<ruby>喜<rt>よろこ</rt></ruby>びにまさるものでした。",
+      "spa": "<span class=\"line\">Tú diste alegría a mi corazón,</span><span class=\"line\">mayor que la de <span class=\"clarity-word\">ellos</span> en el tiempo en que abundan su grano y su mosto.</span>",
+      "por": "Puseste alegria no meu coração, mais do que no tempo em que se multiplicaram o seu trigo e o seu vinho.",
+      "fra": "Plusieurs disent : Qui nous fera voir le bonheur ? Fais lever sur nous la lumière de ta face, ô Éternel !",
+      "deu": "<span class=\"line\">Es sagen gar viele:</span><span class=\"line\">„Wer läßt Gutes uns schauen (= Glück uns erleben)?”</span><span class=\"line\">Erhebe (= laß leuchten) über uns, o HErr,</span><span class=\"line\">das Licht deines Angesichts!</span>",
+      "kor": "주께서 내 마음에 두신 기쁨은 그들의 곡식과 새 포도주가 풍성할 때보다 더하니이다",
+      "ita": "Tu mi hai messo più gioia nel cuore di quanta non provino essi quando il loro grano e il loro mosto abbondano."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>I will both lay me down in peace, and sleep: for thou, <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, only makest me dwell in safety.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø¨ÙØ³ÙÙØ§ÙÙ Ø£ÙØ¶ÙØ·ÙØ¬ÙØ¹Ù ÙÙØ£ÙÙÙØ§ÙÙØ ÙØ£ÙÙÙÙÙÙ Ø£ÙÙÙØªÙ ÙÙØ­ÙØ¯ÙÙÙ ÙÙØ§ Ø±ÙØ¨ÙÙ ØªÙÙÙØ¹ÙÙÙ Ø¹ÙÙÙÙÙÙ Ø¨ÙØ§ÙØ·ÙÙÙÙØ£ÙÙÙÙÙÙØ©Ù ÙÙØ§ÙØ³ÙÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">8</span> ãããã¯<ruby><rb>å®</rb><rt>ãã</rt></ruby>ããã«<ruby><rb>ä¼</rb><rt>ãµ</rt></ruby>ããã¾ã<ruby><rb>ç </rb><rt>ã­ã</rt></ruby>ãã¾ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããããã<ruby><rb>å®</rb><rt>ãã</rt></ruby>ããã«ãããã¦ãã ããã®ã¯ããã ããªãã ãã§ãã",
-      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">En paz me acostarÃ© y asimismo dormirÃ©,</span><span class=\"line\">porque solo tÃº, oh JehovÃ¡, me haces vivir confiado.</span>",
-      "por": "<span class=\"verse-number\">8</span> Em paz tambÃ©m me deitarei e dormirei, porque sÃ³ tu, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, me fazes habitar em seguranÃ§a.",
-      "fra": "<span class=\"verse-number\">8</span> Tu mets dans mon cÅur plus de joie quâils nâen ont Quand abondent leur froment et leur moÃ»t.",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">Du hast mir grÃ¶Ãere Freude ins Herz gegeben</span><span class=\"line\">als ihnen zur Zeit, wo sie Korn und Wein in FÃ¼lle haben.</span>",
-      "kor": "<span class=\"verse-number\">8</span> ë´ê° íìí ëê³  ìê¸°ë íë¦¬ë ëë¥¼ ìì í ì´ê² íìë ì´ë ì¤ì§ ì¬í¸ìì´ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">8</span> In pace io mi coricherÃ² e in pace dormirÃ², perchÃ© tu solo, o Eterno, mi fai abitare in sicurezza."
+      "eng": "I will both lay me down in peace, and sleep: for thou, <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, only makest me dwell in safety.",
+      "ara": "بِسَلامٍ أَضْطَجِعُ وَأَنَامُ، لأَنَّكَ أَنْتَ وَحْدَكَ يَا رَبُّ تُنْعِمُ عَلَيَّ بِالطُّمَأْنِينَةِ وَالسَّلامِ.",
+      "jpn": "わたしは<ruby>安<rt>やす</rt></ruby>らかに<ruby>伏<rt>ふ</rt></ruby>し、また<ruby>眠<rt>ねむ</rt></ruby>ります。<ruby>主<rt>しゅ</rt></ruby>よ、わたしを<ruby>安<rt>やす</rt></ruby>らかにおらせてくださるのは、ただあなただけです。",
+      "spa": "<span class=\"line\">En paz me acostaré y asimismo dormiré,</span><span class=\"line\">porque solo tú, oh Jehová, me haces vivir confiado.</span>",
+      "por": "Em paz também me deitarei e dormirei, porque só tu, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, me fazes habitar em segurança.",
+      "fra": "Tu mets dans mon cœur plus de joie qu’ils n’en ont Quand abondent leur froment et leur moût.",
+      "deu": "<span class=\"line\">Du hast mir größere Freude ins Herz gegeben</span><span class=\"line\">als ihnen zur Zeit, wo sie Korn und Wein in Fülle haben.</span>",
+      "kor": "내가 평안히 눕고 자기도 하리니 나를 안전히 살게 하시는 이는 오직 여호와이시니이다",
+      "ita": "In pace io mi coricherò e in pace dormirò, perché tu solo, o Eterno, mi fai abitare in sicurezza."
     },
     "9": {
-      "fra": "<span class=\"verse-number\">9</span> Je me couche et je mâendors en paix, Car toi seul, Ã´ ÃternelÂ ! tu me donnes la sÃ©curitÃ© dans ma demeure.",
-      "deu": "<span class=\"verse-number\">9Â </span><span class=\"line\">In Frieden will ich beides,</span><span class=\"line\">mich niederlegen und schlafen;</span><span class=\"line\">denn du allein, HErr, lÃ¤Ãt mich</span><span class=\"line\">in Sicherheit wohnen.</span>"
+      "fra": "Je me couche et je m’endors en paix, Car toi seul, ô Éternel ! tu me donnes la sécurité dans ma demeure.",
+      "deu": "<span class=\"line\">In Frieden will ich beides,</span><span class=\"line\">mich niederlegen und schlafen;</span><span class=\"line\">denn du allein, HErr, läßt mich</span><span class=\"line\">in Sicherheit wohnen.</span>"
     }
   }
 }

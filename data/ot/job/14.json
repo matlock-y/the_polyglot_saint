@@ -4,257 +4,257 @@
     "book": "job",
     "chapter": 14,
     "headings": {
-      "eng": "Job testifies of the shortness of life, the certainty of death, and the guarantee of a resurrectionâHe asks, If a man die, will he live again?âJob answers that he will await the Lordâs call to come forth from the grave.",
-      "spa": "Job testifica de la brevedad de la vida, de la certeza de la muerte y de la certidumbre de la resurrecciÃ³nÂ â Job pregunta: Si el hombre muriere, Â¿volverÃ¡ a vivir?Â â Responde que esperarÃ¡ el llamado de JehovÃ¡ para salir del sepulcro.",
-      "por": "JÃ³ testifica que a vida Ã© curta, que a morte Ã© certa e que a ressurreiÃ§Ã£o Ã© garantidaÂ â Ele pergunta: Morrendo o homem, porventura tornarÃ¡ a viver?Â â JÃ³ responde que esperarÃ¡ o chamado do Senhor para sair do sepulcro.",
-      "fra": "Job tÃ©moigne de la briÃ¨vetÃ© de la vie, de la certitude de la mort et de lâassurance de la rÃ©surrection. Il demandeÂ : Â«Â Si lâhomme meurt, pourra-t-il revivreÂ ?Â Â» Job rÃ©pond quâil attendra lâappel de lâÃternel Ã  sortir du sÃ©jour des morts.",
-      "deu": "Ijob gibt Zeugnis von der KÃ¼rze des Lebens, der Gewissheit des Todes und der ZuverlÃ¤ssigkeit der AuferstehungÂ â Er fragt: Wenn ein Mensch stirbt, wird er wieder leben?Â â Ijob antwortet, er wolle harren auf den Ruf des Herrn, aus dem Grab hervorzukommen.",
-      "ita": "Giobbe rende testimonianza della brevitÃ  della vita, della certezza della morte e della garanzia di una resurrezioneÂ â Chiede: âSe lâuomo muore, puÃ² ritornare in vita?âÂ â Giobbe risponde che attenderÃ  la chiamata del Signore per uscire dalla tomba."
+      "eng": "Job testifies of the shortness of life, the certainty of death, and the guarantee of a resurrection—He asks, If a man die, will he live again?—Job answers that he will await the Lord’s call to come forth from the grave.",
+      "spa": "Job testifica de la brevedad de la vida, de la certeza de la muerte y de la certidumbre de la resurrección — Job pregunta: Si el hombre muriere, ¿volverá a vivir? — Responde que esperará el llamado de Jehová para salir del sepulcro.",
+      "por": "Jó testifica que a vida é curta, que a morte é certa e que a ressurreição é garantida — Ele pergunta: Morrendo o homem, porventura tornará a viver? — Jó responde que esperará o chamado do Senhor para sair do sepulcro.",
+      "fra": "Job témoigne de la brièveté de la vie, de la certitude de la mort et de l’assurance de la résurrection. Il demande : « Si l’homme meurt, pourra-t-il revivre ? » Job répond qu’il attendra l’appel de l’Éternel à sortir du séjour des morts.",
+      "deu": "Ijob gibt Zeugnis von der Kürze des Lebens, der Gewissheit des Todes und der Zuverlässigkeit der Auferstehung – Er fragt: Wenn ein Mensch stirbt, wird er wieder leben? – Ijob antwortet, er wolle harren auf den Ruf des Herrn, aus dem Grab hervorzukommen.",
+      "ita": "Giobbe rende testimonianza della brevità della vita, della certezza della morte e della garanzia di una resurrezione — Chiede: “Se l’uomo muore, può ritornare in vita?” — Giobbe risponde che attenderà la chiamata del Signore per uscire dalla tomba."
     },
     "intros": {}
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>Man <span class=\"clarity-word\">that is</span> born of a woman <span class=\"clarity-word\">is</span> of few days, and full of trouble.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø§ÙØ¥ÙÙÙØ³ÙØ§ÙÙ ÙÙÙÙÙÙÙØ¯Ù Ø§ÙÙÙÙØ±ÙØ£ÙØ©Ù. ÙÙØµÙÙØ±Ù Ø§ÙÙØ¹ÙÙÙØ±Ù ÙÙÙÙÙÙØ¹ÙÙÙ Ø¨ÙØ§ÙØ´ÙÙÙÙØ§Ø¡ÙØ",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã<ruby><rb>ç­</rb><rt>ã¿ãã</rt></ruby>ãã<ruby><rb>æ©</rb><rt>ãªã</rt></ruby>ã¿ã«<ruby><rb>æº</rb><rt>ã¿</rt></ruby>ã¡ã¦ããã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">El hombre, nacido de mujer,</span><span class=\"line\">corto de dÃ­as y hastiado de sinsabores,</span>",
-      "por": "<span class=\"verse-number\">1</span> O homem nascido da mulher <span class=\"clarity-word\">Ã©</span> curto de dias e farto de inquietaÃ§Ã£o.",
-      "fra": "<span class=\"verse-number\">1</span> Lâhomme nÃ© de la femmeÂ ! Sa vie est courte, sans cesse agitÃ©e.",
-      "deu": "<span class=\"verse-number\">1Â </span>âDer Mensch, von der Frau geboren, ist arm an Lebenszeit, aber Ã¼berreich an Unruhe.",
-      "kor": "<span class=\"verse-number\">1</span> ì¬ì¸ìê²ì íì´ë ì¬ëì ìì ê° ì§§ê³  ê±±ì ì´ ê°ëíë©°",
-      "ita": "<span class=\"verse-number\">1</span> âLâuomo, nato di donna, vive pochi giorni, e sazio dâaffanni."
+      "eng": "Man <span class=\"clarity-word\">that is</span> born of a woman <span class=\"clarity-word\">is</span> of few days, and full of trouble.",
+      "ara": "الإِنْسَانُ مَوْلُودُ الْمَرْأَةِ. قَصِيرُ الْعُمْرِ وَمُفْعَمٌ بِالشَّقَاءِ،",
+      "jpn": "<ruby>女<rt>おんな</rt></ruby>から<ruby>生<rt>うま</rt></ruby>れる<ruby>人<rt>ひと</rt></ruby>は<ruby>日<rt>ひ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>く、<ruby>悩<rt>なや</rt></ruby>みに<ruby>満<rt>み</rt></ruby>ちている。",
+      "spa": "<span class=\"line\">El hombre, nacido de mujer,</span><span class=\"line\">corto de días y hastiado de sinsabores,</span>",
+      "por": "O homem nascido da mulher <span class=\"clarity-word\">é</span> curto de dias e farto de inquietação.",
+      "fra": "L’homme né de la femme ! Sa vie est courte, sans cesse agitée.",
+      "deu": "„Der Mensch, von der Frau geboren, ist arm an Lebenszeit, aber überreich an Unruhe.",
+      "kor": "여인에게서 태어난 사람은 생애가 짧고 걱정이 가득하며",
+      "ita": "“L’uomo, nato di donna, vive pochi giorni, e sazio d’affanni."
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØªÙÙÙØªÙÙØ­Ù ÙÙØ§ÙØ²ÙÙÙÙØ±Ù Ø«ÙÙÙÙ ÙÙÙÙØªÙØ«ÙØ±ÙØ ÙÙÙÙØªÙÙÙØ§Ø±ÙÙ ÙÙØ§ÙØ´ÙÙØ¨ÙØ­Ù ÙÙÙØ§ ÙÙØ¨ÙÙÙÙ ÙÙÙÙ Ø£ÙØ«ÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>è±</rb><rt>ã¯ãª</rt></ruby>ã®ããã«<ruby><rb>å²</rb><rt>ã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦<ruby><rb>æ¯</rb><rt>ã</rt></ruby>ãã<ruby><rb>å½±</rb><rt>ãã</rt></ruby>ã®ããã«<ruby><rb>é£</rb><rt>ã¨</rt></ruby>ã³<ruby><rb>å»</rb><rt>ã</rt></ruby>ã£ã¦ãã¨ã©ã¾ããªãã",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">brota como una flor y es cortado;</span><span class=\"line\">y huye como la sombra y no permanece.</span>",
-      "por": "<span class=\"verse-number\">2</span> Sai como a flor, e logo murcha; foge tambÃ©m como a sombra, e nÃ£o permanece.",
-      "fra": "<span class=\"verse-number\">2</span> Il naÃ®t, il est coupÃ© comme une fleurÂ ; Il fuit et disparaÃ®t comme une ombre.",
-      "deu": "<span class=\"verse-number\">2Â </span>Wie eine Blume sprieÃt er auf und verwelkt, er flieht wie ein Schatten dahin und hat keinen Bestand.",
-      "kor": "<span class=\"verse-number\">2</span> ê·¸ë ê½ê³¼ ê°ì´ ìë¼ëì ìë¤ë©° ê·¸ë¦¼ì ê°ì´ ì§ëê°ë©° ë¨¸ë¬¼ì§ ìëíê±°ë",
-      "ita": "<span class=\"verse-number\">2</span> Spunta come un fiore, poi Ã¨ reciso; fugge come unâombra, e non dura."
+      "eng": "He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.",
+      "ara": "يَتَفَتَّحُ كَالزَّهْرِ ثُمَّ يَنْتَثِرُ، وَيَتَوَارَى كَالشَّبَحِ فَلا يَبْقَى لَهُ أَثَرٌ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>花<rt>はな</rt></ruby>のように<ruby>咲<rt>さ</rt></ruby>き<ruby>出<rt>で</rt></ruby>て<ruby>枯<rt>か</rt></ruby>れ、<ruby>影<rt>かげ</rt></ruby>のように<ruby>飛<rt>と</rt></ruby>び<ruby>去<rt>さ</rt></ruby>って、とどまらない。",
+      "spa": "<span class=\"line\">brota como una flor y es cortado;</span><span class=\"line\">y huye como la sombra y no permanece.</span>",
+      "por": "Sai como a flor, e logo murcha; foge também como a sombra, e não permanece.",
+      "fra": "Il naît, il est coupé comme une fleur ; Il fuit et disparaît comme une ombre.",
+      "deu": "Wie eine Blume sprießt er auf und verwelkt, er flieht wie ein Schatten dahin und hat keinen Bestand.",
+      "kor": "그는 꽃과 같이 자라나서 시들며 그림자 같이 지나가며 머물지 아니하거늘",
+      "ita": "Spunta come un fiore, poi è reciso; fugge come un’ombra, e non dura."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>And dost thou open thine eyes upon such an one, and bringest me into judgment with thee?",
-      "ara": "<span class=\"verse-number\">Ù£ </span>Ø£ÙØ¹ÙÙÙÙ ÙÙØ«ÙÙÙ ÙÙØ°ÙØ§ ÙÙØªÙØ­ÙØªÙ Ø¹ÙÙÙÙÙÙÙÙÙ ÙÙØ£ÙØ­ÙØ¶ÙØ±ÙØªÙÙÙÙ ÙØ£ÙØªÙØ­ÙØ§Ø¬ÙÙ ÙÙØ¹ÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">3</span> ããªãã¯ãã®ãããª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ãã<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã<ruby><rb>é</rb><rt>ã²ã</rt></ruby>ããããªãã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>å¼</rb><rt>ã²</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦ããã°ãããã§ããããã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Â¿Y sobre este abres tus ojos</span><span class=\"line\">y me traes a juicio contigo?</span>",
-      "por": "<span class=\"verse-number\">3</span> E sobre este tal abres os teus olhos, e a mim me fazes entrar no juÃ­zo contigo.",
-      "fra": "<span class=\"verse-number\">3</span> Et câest sur lui que tu as lâÅil ouvertÂ ! Et tu me fais aller en justice avec toiÂ !",
-      "deu": "<span class=\"verse-number\">3Â </span>Dennoch hÃ¤ltst du Ã¼ber einem solchen <span class=\"clarity-word\">Wesen</span> deine Augen offen und ziehst mich vor deinen Richterstuhl!",
-      "kor": "<span class=\"verse-number\">3</span> ì´ì ê°ì ìë¥¼ ì£¼ê»ì ëì¬ê²¨ ë³´ìëì´ê¹ ëë¥¼ ì£¼ ìì¼ë¡ ì´ëì´ì ì¬ííìëì´ê¹",
-      "ita": "<span class=\"verse-number\">3</span> E sopra un essere cosÃ¬ tu tieni gli occhi aperti e mi fai comparire con te in giudizio."
+      "eng": "And dost thou open thine eyes upon such an one, and bringest me into judgment with thee?",
+      "ara": "أَعَلَى مِثْلِ هَذَا فَتَحْتَ عَيْنَيْكَ وَأَحْضَرْتَنِي لأَتَحَاجَّ مَعَكَ؟",
+      "jpn": "あなたはこのような<ruby>者<rt>もの</rt></ruby>にさえ<ruby>目<rt>め</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>き、あなたの<ruby>前<rt>まえ</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>して、さばかれるであろうか。",
+      "spa": "<span class=\"line\">¿Y sobre este abres tus ojos</span><span class=\"line\">y me traes a juicio contigo?</span>",
+      "por": "E sobre este tal abres os teus olhos, e a mim me fazes entrar no juízo contigo.",
+      "fra": "Et c’est sur lui que tu as l’œil ouvert ! Et tu me fais aller en justice avec toi !",
+      "deu": "Dennoch hältst du über einem solchen <span class=\"clarity-word\">Wesen</span> deine Augen offen und ziehst mich vor deinen Richterstuhl!",
+      "kor": "이와 같은 자를 주께서 눈여겨 보시나이까 나를 주 앞으로 이끌어서 재판하시나이까",
+      "ita": "E sopra un essere così tu tieni gli occhi aperti e mi fai comparire con te in giudizio."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>Who can bring a clean <span class=\"clarity-word\">thing</span> out of an unclean? not one.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙÙ ÙÙØ³ÙØªÙÙÙÙÙØ¯Ù Ø§ÙØ·ÙÙØ§ÙÙØ±Ù ÙÙÙÙ Ø§ÙÙÙÙØ¬ÙØ³ÙØ ÙÙØ§ Ø£ÙØ­ÙØ¯Ù!",
-      "jpn": "<span class=\"verse-number\">4</span> ã ãã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãããã®ã®ãã¡ãã<ruby><rb>æ¸</rb><rt>ãã</rt></ruby>ããã®ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ããã¨ãã§ãããããã²ã¨ãããªãã",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Â¿QuiÃ©n sacarÃ¡ lo limpio de lo inmundo? Â¡Nadie!</span>",
-      "por": "<span class=\"verse-number\">4</span> Quem do imundo tirarÃ¡ o puro? NinguÃ©m.",
-      "fra": "<span class=\"verse-number\">4</span> Comment dâun Ãªtre souillÃ© sortira-t-il un homme purÂ ? Il nâen peut sortir aucun.",
-      "deu": "<span class=\"verse-number\">4Â </span>Wie kÃ¶nnte wohl ein Reiner von Unreinen herkommen? Nein, nicht ein Einziger.",
-      "kor": "<span class=\"verse-number\">4</span> ëê° ê¹¨ëí ê²ì ëë¬ì´ ê² ê°ì´ë°ìì ë¼ ì ìì¼ë¦¬ì´ê¹ íëë ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">4</span> Chi puÃ² trarre una cosa pura da una impura? Nessuno."
+      "eng": "Who can bring a clean <span class=\"clarity-word\">thing</span> out of an unclean? not one.",
+      "ara": "مَنْ يَسْتَوْلِدُ الطَّاهِرَ مِنَ النَّجِسِ؟ لَا أَحَدٌ!",
+      "jpn": "だれが<ruby>汚<rt>けが</rt></ruby>れたもののうちから<ruby>清<rt>きよ</rt></ruby>いものを<ruby>出<rt>だ</rt></ruby>すことができようか、ひとりもない。",
+      "spa": "<span class=\"line\">¿Quién sacará lo limpio de lo inmundo? ¡Nadie!</span>",
+      "por": "Quem do imundo tirará o puro? Ninguém.",
+      "fra": "Comment d’un être souillé sortira-t-il un homme pur ? Il n’en peut sortir aucun.",
+      "deu": "Wie könnte wohl ein Reiner von Unreinen herkommen? Nein, nicht ein Einziger.",
+      "kor": "누가 깨끗한 것을 더러운 것 가운데에서 낼 수 있으리이까 하나도 없나이다",
+      "ita": "Chi può trarre una cosa pura da una impura? Nessuno."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>Seeing his days <span class=\"clarity-word\">are</span> determined, the number of his months <span class=\"clarity-word\">are</span> with thee, thou hast appointed his bounds that he cannot pass;",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ¥ÙÙÙ ÙÙØ§ÙÙØªÙ Ø£ÙÙÙÙØ§ÙÙÙÙ ÙÙØ­ÙØ¯ÙÙØ¯ÙØ©ÙØ ÙÙØ¹ÙØ¯ÙØ¯Ù Ø£ÙØ´ÙÙÙØ±ÙÙÙ ÙÙÙÙØªÙÙØ¨Ø§Ù ÙÙØ¯ÙÙÙÙÙØ ÙÙØ¹ÙÙÙÙÙÙØªÙ Ø£ÙØ¬ÙÙÙÙÙ ÙÙÙØ§ ÙÙØªÙØ¬ÙØ§ÙÙØ²ÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">5</span> ãã®<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã¯<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãããããã®<ruby><rb>æ</rb><rt>ã¤ã</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããªãã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«ãããããªãããã®<ruby><rb>é</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãã¦ã<ruby><rb>è¶</rb><rt>ã</rt></ruby>ãããã¨ã®ã§ããªãããã«ãããã®ã ããã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">Ciertamente sus dÃ­as estÃ¡n determinados,</span><span class=\"line\">y el nÃºmero de sus meses te es conocido;</span><span class=\"line\">tÃº le pusiste lÃ­mites, de los cuales no pasarÃ¡.</span>",
-      "por": "<span class=\"verse-number\">5</span> Visto que os seus dias <span class=\"clarity-word\">estÃ£o</span> determinados, contigo <span class=\"clarity-word\">estÃ¡</span> o nÃºmero dos seus dias; <span class=\"clarity-word\">e</span> tu lhe puseste limites, e nÃ£o passarÃ¡ alÃ©m <span class=\"clarity-word\">deles.</span>",
-      "fra": "<span class=\"verse-number\">5</span> Si ses jours sont fixÃ©s, si tu as comptÃ© ses mois, Si tu en as marquÃ© le terme quâil ne saurait franchir,",
-      "deu": "<span class=\"verse-number\">5Â </span>Wenn denn seine Tage genau bemessen sind, wenn die Zahl seiner Monde bei dir feststeht und du ihm eine Grenze gesetzt hast, die er nicht Ã¼berschreiten darf,",
-      "kor": "<span class=\"verse-number\">5</span> ê·¸ì ë ì ì íì¨ê³  ê·¸ì ë¬ ìë ì£¼ê» ìì¼ë¯ë¡ ê·¸ì ê·ë¡ë¥¼ ì íì¬ ëì´ê°ì§ ëª»íê² íì¨ì¬ì¨ì¦",
-      "ita": "<span class=\"verse-number\">5</span> PoichÃ© i suoi giorni sono fissati, e il numero dei suoi mesi dipende da te, e tu gli hai posto un termine che egli non puÃ² varcare,"
+      "eng": "Seeing his days <span class=\"clarity-word\">are</span> determined, the number of his months <span class=\"clarity-word\">are</span> with thee, thou hast appointed his bounds that he cannot pass;",
+      "ara": "فَإِنْ كَانَتْ أَيَّامُهُ مَحْدُودَةً، وَعَدَدُ أَشْهُرِهِ مَكْتُوباً لَدَيْكَ، وَعَيَّنْتَ أَجَلَهُ فَلا يَتَجَاوَزُهُ،",
+      "jpn": "その<ruby>日<rt>ひ</rt></ruby>は<ruby>定<rt>さだ</rt></ruby>められ、その<ruby>月<rt>つき</rt></ruby>の<ruby>数<rt>かず</rt></ruby>もあなたと<ruby>共<rt>とも</rt></ruby>にあり、あなたがその<ruby>限<rt>かぎ</rt></ruby>りを<ruby>定<rt>さだ</rt></ruby>めて、<ruby>越<rt>こ</rt></ruby>えることのできないようにされたのだから、",
+      "spa": "<span class=\"line\">Ciertamente sus días están determinados,</span><span class=\"line\">y el número de sus meses te es conocido;</span><span class=\"line\">tú le pusiste límites, de los cuales no pasará.</span>",
+      "por": "Visto que os seus dias <span class=\"clarity-word\">estão</span> determinados, contigo <span class=\"clarity-word\">está</span> o número dos seus dias; <span class=\"clarity-word\">e</span> tu lhe puseste limites, e não passará além <span class=\"clarity-word\">deles.</span>",
+      "fra": "Si ses jours sont fixés, si tu as compté ses mois, Si tu en as marqué le terme qu’il ne saurait franchir,",
+      "deu": "Wenn denn seine Tage genau bemessen sind, wenn die Zahl seiner Monde bei dir feststeht und du ihm eine Grenze gesetzt hast, die er nicht überschreiten darf,",
+      "kor": "그의 날을 정하셨고 그의 달 수도 주께 있으므로 그의 규례를 정하여 넘어가지 못하게 하셨사온즉",
+      "ita": "Poiché i suoi giorni sono fissati, e il numero dei suoi mesi dipende da te, e tu gli hai posto un termine che egli non può varcare,"
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ£ÙØ´ÙØ­Ù Ø¨ÙÙÙØ¬ÙÙÙÙÙ Ø¹ÙÙÙÙÙ ÙÙØ¯ÙØ¹ÙÙÙ ÙÙØ³ÙØªÙØ±ÙÙØ­Ù ÙÙØ³ÙØªÙÙÙØªÙØ¹Ø§ÙØ Ø±ÙÙÙØ«ÙÙÙØ§ ÙÙÙÙØªÙÙÙÙ ÙÙÙÙÙÙÙÙØ ÙÙØ§ÙØ£ÙØ¬ÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ç®</rb><rt>ã</rt></ruby>ãã¯ãªãã<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ãã²ãã¦ãã ãããããããã°<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>éäºº</rb><rt>ãã¨ãã«ã</rt></ruby>ã®ããã«ããã®<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã<ruby><rb>æ¥½</rb><rt>ãã®</rt></ruby>ãããã¨ãã§ããã§ãããã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Aparta tu mirada de Ã©l, para que descanse</span><span class=\"line\">hasta que, como el jornalero, cumpla su dÃ­a.</span>",
-      "por": "<span class=\"verse-number\">6</span> Desvia-te dele, para que tenha repouso, atÃ© que, como o jornaleiro, tenha contentamento no seu dia.",
-      "fra": "<span class=\"verse-number\">6</span> DÃ©tourne de lui les regards et donne-lui du rÃ©pit, Pour quâil ait au moins la joie de lâouvrier Ã  la fin de sa journÃ©e.",
-      "deu": "<span class=\"verse-number\">6Â </span>so wende doch deine Blicke von ihm weg, damit er Ruhe habe, bis er wie ein TagelÃ¶hner zufrieden auf seinen Tag blicken kann!",
-      "kor": "<span class=\"verse-number\">6</span> ê·¸ìê²ì ëì ëì´ì¼ ê·¸ê° íê¾¼ ê°ì´ ê·¸ì ë ì ë§ì¹  ëê¹ì§ ê·¸ë¥¼ íë¡ ìê² íìµìì",
-      "ita": "<span class=\"verse-number\">6</span> distogli da lui lo sguardo, cosÃ¬ che egli abbia un poâ di requie, e possa godere come un operaio la fine della sua giornata."
+      "eng": "Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.",
+      "ara": "فَأَشِحْ بِوَجْهِكَ عَنْهُ وَدَعْهُ يَسْتَرِيحُ مُسْتَمْتِعاً، رَيْثَمَا يَنْتَهِي يَوْمُهُ، كَالأَجِيرِ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>から<ruby>目<rt>め</rt></ruby>をはなし、<ruby>手<rt>て</rt></ruby>をひいてください。そうすれば<ruby>彼<rt>かれ</rt></ruby>は<ruby>雇人<rt>やといにん</rt></ruby>のように、その<ruby>日<rt>ひ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむことができるでしょう。",
+      "spa": "<span class=\"line\">Aparta tu mirada de él, para que descanse</span><span class=\"line\">hasta que, como el jornalero, cumpla su día.</span>",
+      "por": "Desvia-te dele, para que tenha repouso, até que, como o jornaleiro, tenha contentamento no seu dia.",
+      "fra": "Détourne de lui les regards et donne-lui du répit, Pour qu’il ait au moins la joie de l’ouvrier à la fin de sa journée.",
+      "deu": "so wende doch deine Blicke von ihm weg, damit er Ruhe habe, bis er wie ein Tagelöhner zufrieden auf seinen Tag blicken kann!",
+      "kor": "그에게서 눈을 돌이켜 그가 품꾼 같이 그의 날을 마칠 때까지 그를 홀로 있게 하옵소서",
+      "ita": "distogli da lui lo sguardo, così che egli abbia un po’ di requie, e possa godere come un operaio la fine della sua giornata."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>ÙØ£ÙÙÙÙ ÙÙÙØ´ÙÙØ¬ÙØ±ÙØ©Ù Ø£ÙÙÙÙØ§ÙØ Ø¥ÙØ°ÙØ§ ÙÙØ·ÙØ¹ÙØªÙ Ø£ÙÙÙ ØªÙÙÙØ±ÙØ®Ù ÙÙÙÙ Ø¬ÙØ¯ÙÙØ¯Ù ÙÙÙØ§ ØªÙÙÙÙÙÙ Ø¨ÙØ±ÙØ§Ø¹ÙÙÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã«ã¯<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ã¿ãããããã¨ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¦ãã¾ã<ruby><rb>è½</rb><rt>ã</rt></ruby>ãã ãããã®<ruby><rb>è¥</rb><rt>ãã</rt></ruby><ruby><rb>æ</rb><rt>ãã </rt></ruby>ã¯<ruby><rb>çµ¶</rb><rt>ã</rt></ruby>ãããã¨ããªãã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Porque si el Ã¡rbol es cortado, aÃºn queda para Ã©l esperanza; retoÃ±arÃ¡ aÃºn,</span><span class=\"line\">y sus renuevos no faltarÃ¡n.</span>",
-      "por": "<span class=\"verse-number\">7</span> Porque hÃ¡ esperanÃ§a para a Ã¡rvore que, se for cortada, ainda se <span class=\"page-break\" data-page=\"840\"></span>renovarÃ¡, e nÃ£o cessarÃ£o os seus renovos.",
-      "fra": "<span class=\"verse-number\">7</span> Un arbre a de lâespÃ©ranceÂ : Quand on le coupe, il repousse, Il produit encore des rejetonsÂ ;",
-      "deu": "<span class=\"verse-number\">7Â </span>Denn fÃ¼r einen Baum bleibt eine Hoffnung bestehen. Wird er abgehauen, so schlÃ¤gt er von neuem aus, und seine SchÃ¶sslinge hÃ¶ren nicht auf.",
-      "kor": "<span class=\"verse-number\">7</span> ëë¬´ë í¬ë§ì´ ìëë ì°íì§ë¼ë ë¤ì ìì´ ëì ì°í ê°ì§ê° ëì´ì§ ìëíë©°",
-      "ita": "<span class=\"verse-number\">7</span> Per lâalbero, almeno câÃ¨ speranza; se Ã¨ tagliato, rigermoglia e continua a mettere rampolli."
+      "eng": "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.",
+      "ara": "لأَنَّ لِلشَّجَرَةِ أَمَلاً، إِذَا قُطِعَتْ أَنْ تُفْرِخَ مِنْ جَدِيدٍ وَلا تَفْنَى بَرَاعِمُهَا.",
+      "jpn": "<ruby>木<rt>き</rt></ruby>には<ruby>望<rt>のぞ</rt></ruby>みがある。たとい<ruby>切<rt>き</rt></ruby>られてもまた<ruby>芽<rt>め</rt></ruby>をだし、その<ruby>若<rt>わか</rt></ruby><ruby>枝<rt>えだ</rt></ruby>は<ruby>絶<rt>た</rt></ruby>えることがない。",
+      "spa": "<span class=\"line\">Porque si el árbol es cortado, aún queda para él esperanza; retoñará aún,</span><span class=\"line\">y sus renuevos no faltarán.</span>",
+      "por": "Porque há esperança para a árvore que, se for cortada, ainda se renovará, e não cessarão os seus renovos.",
+      "fra": "Un arbre a de l’espérance : Quand on le coupe, il repousse, Il produit encore des rejetons ;",
+      "deu": "Denn für einen Baum bleibt eine Hoffnung bestehen. Wird er abgehauen, so schlägt er von neuem aus, und seine Schösslinge hören nicht auf.",
+      "kor": "나무는 희망이 있나니 찍힐지라도 다시 움이 나서 연한 가지가 끊이지 아니하며",
+      "ita": "Per l’albero, almeno c’è speranza; se è tagliato, rigermoglia e continua a mettere rampolli."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>Though the root thereof wax old in the earth, and the stock thereof die in the ground;",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø­ÙØªÙÙÙ ÙÙÙÙ Ø´ÙØ§Ø®ÙØªÙ Ø£ÙØµÙÙÙÙÙÙØ§ ÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù ÙÙÙÙØ§ØªÙ Ø¬ÙØ°ÙØ¹ÙÙÙØ§ ÙÙÙ Ø§ÙØªÙÙØ±ÙØ§Ø¨ÙØ",
-      "jpn": "<span class=\"verse-number\">8</span> ãã¨ããã®<ruby><rb>æ ¹</rb><rt>ã­</rt></ruby>ã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã«<ruby><rb>è</rb><rt>ã</rt></ruby>ãããã®<ruby><rb>å¹¹</rb><rt>ã¿ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¤ã¡</rt></ruby>ã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã«<ruby><rb>æ¯</rb><rt>ã</rt></ruby>ãã¦ãã",
-      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">Aunque se envejezca en la tierra su raÃ­z,</span><span class=\"line\">y su tronco muera en el polvo,</span>",
-      "por": "<span class=\"verse-number\">8</span> Ainda que envelheÃ§a na terra a sua raiz, e morra o seu tronco no pÃ³,",
-      "fra": "<span class=\"verse-number\">8</span> Quand sa racine a vieilli dans la terre, Quand son tronc meurt dans la poussiÃ¨re,",
-      "deu": "<span class=\"verse-number\">8Â </span>Wenn auch seine Wurzel in der Erde altert und sein Stumpf im Boden abstirbt,",
-      "kor": "<span class=\"verse-number\">8</span> ê·¸ ë¿ë¦¬ê° ëìì ëê³  ì¤ê¸°ê° íìì ì£½ìì§ë¼ë",
-      "ita": "<span class=\"verse-number\">8</span> Quando la sua radice Ã¨ invecchiata sotto terra, e il suo tronco muore nel suolo,"
+      "eng": "Though the root thereof wax old in the earth, and the stock thereof die in the ground;",
+      "ara": "حَتَّى لَوْ شَاخَتْ أُصُولُهَا فِي الأَرْضِ وَمَاتَ جِذْعُهَا فِي التُّرَابِ،",
+      "jpn": "たといその<ruby>根<rt>ね</rt></ruby>が<ruby>地<rt>ち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>老<rt>お</rt></ruby>い、その<ruby>幹<rt>みき</rt></ruby>が<ruby>土<rt>つち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>枯<rt>か</rt></ruby>れても、",
+      "spa": "<span class=\"line\">Aunque se envejezca en la tierra su raíz,</span><span class=\"line\">y su tronco muera en el polvo,</span>",
+      "por": "Ainda que envelheça na terra a sua raiz, e morra o seu tronco no pó,",
+      "fra": "Quand sa racine a vieilli dans la terre, Quand son tronc meurt dans la poussière,",
+      "deu": "Wenn auch seine Wurzel in der Erde altert und sein Stumpf im Boden abstirbt,",
+      "kor": "그 뿌리가 땅에서 늙고 줄기가 흙에서 죽을지라도",
+      "ita": "Quando la sua radice è invecchiata sotto terra, e il suo tronco muore nel suolo,"
     },
     "9": {
-      "eng": "<span class=\"verse-number\">9 </span><span class=\"clarity-word\">Yet</span> through the scent of water it will bud, and bring forth boughs like a plant.",
-      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ¥ÙÙÙÙÙÙØ§ Ø­ÙØ§ÙÙÙØ§ ØªÙØ³ÙØªÙØ±ÙÙÙØ­Ù Ø§ÙÙÙÙØ§Ø¡Ù ØªÙÙÙØ±ÙØ®ÙØ ÙÙØªÙÙÙØ¨ÙØªÙ ÙÙØ±ÙÙØ¹Ø§Ù ÙÙØ§ÙÙØºÙØ±ÙØ³Ù.",
-      "jpn": "<span class=\"verse-number\">9</span> ãªã<ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>æ½¤</rb><rt>ããã</rt></ruby>ãã«ããã°<ruby><rb>è½</rb><rt>ã</rt></ruby>ããµãã<ruby><rb>è¥æ¨</rb><rt>ããã</rt></ruby>ã®ããã«<ruby><rb>æ</rb><rt>ãã </rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã",
-      "spa": "<span class=\"verse-number\">9 </span><span class=\"line\">al percibir el agua reverdecerÃ¡</span><span class=\"line\">y echarÃ¡ ramas como planta nueva.</span>",
-      "por": "<span class=\"verse-number\">9</span> Ao cheiro das Ã¡guas brotarÃ¡, e darÃ¡ ramos como uma planta.",
-      "fra": "<span class=\"verse-number\">9</span> Il reverdit Ã  lâapproche de lâeau, Il dÃ©veloppe des branches comme une jeune plante.",
-      "deu": "<span class=\"verse-number\">9Â </span>so treibt er doch vom Duft des Wassers neue Sprossen und bringt Zweige hervor wie ein junges Reis.",
-      "kor": "<span class=\"verse-number\">9</span> ë¬¼ ê¸°ì´ì ìì´ ëê³  ê°ì§ê° ë»ì´ì ìë¡ ì¬ì ê²ê³¼ ê°ê±°ëì",
-      "ita": "<span class=\"verse-number\">9</span> a sentir lâacqua, rinverdisce e mette rami come una pianta nuova."
+      "eng": "<span class=\"clarity-word\">Yet</span> through the scent of water it will bud, and bring forth boughs like a plant.",
+      "ara": "فَإِنَّهَا حَالَما تَسْتَرْوِحُ الْمَاءَ تُفْرِخُ، وَتُنْبِتُ فُرُوعاً كَالْغَرْسِ.",
+      "jpn": "なお<ruby>水<rt>みず</rt></ruby>の<ruby>潤<rt>うるお</rt></ruby>いにあえば<ruby>芽<rt>め</rt></ruby>をふき、<ruby>若木<rt>わかぎ</rt></ruby>のように<ruby>枝<rt>えだ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す。",
+      "spa": "<span class=\"line\">al percibir el agua reverdecerá</span><span class=\"line\">y echará ramas como planta nueva.</span>",
+      "por": "Ao cheiro das águas brotará, e dará ramos como uma planta.",
+      "fra": "Il reverdit à l’approche de l’eau, Il développe des branches comme une jeune plante.",
+      "deu": "so treibt er doch vom Duft des Wassers neue Sprossen und bringt Zweige hervor wie ein junges Reis.",
+      "kor": "물 기운에 움이 돋고 가지가 뻗어서 새로 심은 것과 같거니와",
+      "ita": "a sentir l’acqua, rinverdisce e mette rami come una pianta nuova."
     },
     "10": {
-      "eng": "<span class=\"verse-number\">10 </span>But man dieth, and wasteth away: yea, man giveth up the ghost, and where <span class=\"clarity-word\">is</span> he?",
-      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>Ø£ÙÙÙÙØ§ Ø§ÙØ¥ÙÙÙØ³ÙØ§ÙÙ ÙÙØ¥ÙÙÙÙÙÙ ÙÙÙÙÙØªÙ ÙÙÙÙØ¨ÙÙÙÙØ ÙÙÙÙÙÙØ¸Ù Ø¢Ø®ÙØ±Ù Ø£ÙÙÙÙÙØ§Ø³ÙÙÙØ ÙÙØ£ÙÙÙÙÙ ÙÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">10</span> ããã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ã­ã°<ruby><rb>æ¶</rb><rt>ã</rt></ruby>ããããã<ruby><rb>æ¯</rb><rt>ãã</rt></ruby>ã<ruby><rb>çµ¶</rb><rt>ã</rt></ruby>ããã°ãã©ãã«ãããã",
-      "spa": "<span class=\"verse-number\">10 </span><span class=\"line\">Mas el hombre morirÃ¡ y yacerÃ¡ inerte;</span><span class=\"line\">y perecerÃ¡ el hombre, Â¿y dÃ³nde estarÃ¡ Ã©l?</span>",
-      "por": "<span class=\"verse-number\">10</span> PorÃ©m, morrendo o homem, estÃ¡ abatido; e expirando o homem, entÃ£o onde estÃ¡?",
-      "fra": "<span class=\"verse-number\">10</span> Mais lâhomme meurt et il perd sa forceÂ ; Lâhomme expire et oÃ¹ est-ilÂ ?",
-      "deu": "<span class=\"verse-number\">10Â </span>Wenn aber ein Mann stirbt, so liegt er hingestreckt da, und wenn ein Mensch verscheidet, wo ist er dann?",
-      "kor": "<span class=\"verse-number\">10</span> ì¥ì ì´ë¼ë ì£½ì¼ë©´ ìë©¸ëëë ì¸ìì´ ì¨ì ê±°ëë©´ ê·¸ê° ì´ë ìëë",
-      "ita": "<span class=\"verse-number\">10</span> Ma lâuomo muore e perde ogni forza; il mortale spira eâ¦ dovâÃ¨ egli?"
+      "eng": "But man dieth, and wasteth away: yea, man giveth up the ghost, and where <span class=\"clarity-word\">is</span> he?",
+      "ara": "أَمَّا الإِنْسَانُ فَإِنَّهُ يَمُوتُ وَيَبْلَى، يَلْفِظُ آخِرَ أَنْفَاسِهِ، فَأَيْنَ هُوَ؟",
+      "jpn": "しかし<ruby>人<rt>ひと</rt></ruby>は<ruby>死<rt>し</rt></ruby>ねば<ruby>消<rt>き</rt></ruby>えうせる。<ruby>息<rt>いき</rt></ruby>が<ruby>絶<rt>た</rt></ruby>えれば、どこにおるか。",
+      "spa": "<span class=\"line\">Mas el hombre morirá y yacerá inerte;</span><span class=\"line\">y perecerá el hombre, ¿y dónde estará él?</span>",
+      "por": "Porém, morrendo o homem, está abatido; e expirando o homem, então onde está?",
+      "fra": "Mais l’homme meurt et il perd sa force ; L’homme expire et où est-il ?",
+      "deu": "Wenn aber ein Mann stirbt, so liegt er hingestreckt da, und wenn ein Mensch verscheidet, wo ist er dann?",
+      "kor": "장정이라도 죽으면 소멸되나니 인생이 숨을 거두면 그가 어디 있느냐",
+      "ita": "Ma l’uomo muore e perde ogni forza; il mortale spira e… dov’è egli?"
     },
     "11": {
-      "eng": "<span class=\"verse-number\">11 </span><span class=\"clarity-word\">As</span> the waters fail from the sea, and the flood decayeth and drieth up:",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙØ§ ØªÙÙÙÙÙØ¯Ù Ø§ÙÙÙÙÙÙØ§ÙÙ ÙÙÙÙ Ø§ÙÙØ¨ÙØ­ÙÙÙØ±ÙØ©ÙØ ÙÙÙÙØ¬ÙÙÙÙ Ø§ÙÙÙÙÙÙØ±ÙØ",
-      "jpn": "<span class=\"verse-number\">11</span> <ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ã¿ããã¿</rt></ruby>ãã<ruby><rb>æ¶</rb><rt>ã</rt></ruby>ãã<ruby><rb>å·</rb><rt>ãã</rt></ruby>ãããã¦ããããããã«ã",
-      "spa": "<span class=\"verse-number\">11 </span><span class=\"line\">Como las aguas del mar se evaporan,</span><span class=\"line\">y el rÃ­o se agota <span class=\"clarity-word\">y</span> se seca,</span>",
-      "por": "<span class=\"verse-number\">11</span> Como as Ã¡guas se retiram do mar, e o rio se esgota, e fica seco,",
-      "fra": "<span class=\"verse-number\">11</span> Les eaux des lacs sâÃ©vanouissent, Les fleuves tarissent et se dessÃ¨chentÂ ;",
-      "deu": "<span class=\"verse-number\">11Â </span>Wie das Wasser aus einem Teich verdunstet und ein Strom versiegt und austrocknet,",
-      "kor": "<span class=\"verse-number\">11</span> ë¬¼ì´ ë°ë¤ìì ì¤ì´ë¤ê³  ê°ë¬¼ì´ ì¦ìì ë§ë¦ ê°ì´",
-      "ita": "<span class=\"verse-number\">11</span> Le acque del lago se ne vanno, il fiume viene meno e si prosciuga;"
+      "eng": "<span class=\"clarity-word\">As</span> the waters fail from the sea, and the flood decayeth and drieth up:",
+      "ara": "كَمَا تَنْفَدُ الْمِيَاهُ مِنَ الْبُحَيْرَةِ، وَيَجِفُّ النَّهْرُ،",
+      "jpn": "<ruby>水<rt>みず</rt></ruby>が<ruby>湖<rt>みずうみ</rt></ruby>から<ruby>消<rt>き</rt></ruby>え、<ruby>川<rt>かわ</rt></ruby>がかれて、かわくように、",
+      "spa": "<span class=\"line\">Como las aguas del mar se evaporan,</span><span class=\"line\">y el río se agota <span class=\"clarity-word\">y</span> se seca,</span>",
+      "por": "Como as águas se retiram do mar, e o rio se esgota, e fica seco,",
+      "fra": "Les eaux des lacs s’évanouissent, Les fleuves tarissent et se dessèchent ;",
+      "deu": "Wie das Wasser aus einem Teich verdunstet und ein Strom versiegt und austrocknet,",
+      "kor": "물이 바다에서 줄어들고 강물이 잦아서 마름 같이",
+      "ita": "Le acque del lago se ne vanno, il fiume viene meno e si prosciuga;"
     },
     "12": {
-      "eng": "<span class=\"verse-number\">12 </span>So man lieth down, and riseth not: till the heavens <span class=\"clarity-word\">be</span> no more, they shall not awake, nor be raised out of their sleep.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙÙØ°Ø§ ÙÙØ±ÙÙÙØ¯Ù Ø§ÙØ¥ÙÙÙØ³ÙØ§ÙÙ ÙÙÙØ§ ÙÙÙÙÙÙÙØ ÙÙÙØ§ ÙÙØ³ÙØªÙÙÙÙÙØ¸Ù ÙÙÙÙ ÙÙÙÙÙÙÙÙ Ø¥ÙÙÙÙ Ø£ÙÙ ØªÙØ²ÙÙÙÙ Ø§ÙØ³ÙÙÙÙØ§ÙÙØ§ØªÙ.",
-      "jpn": "<span class=\"verse-number\">12</span> <ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯<ruby><rb>ä¼</rb><rt>ãµ</rt></ruby>ãã¦<ruby><rb>å¯</rb><rt>ã­</rt></ruby>ãã¾ã<ruby><rb>èµ·</rb><rt>ã</rt></ruby>ããã<ruby><rb>å¤©</rb><rt>ã¦ã</rt></ruby>ã®ã¤ããã¾ã§ã<ruby><rb>ç®</rb><rt>ã</rt></ruby>ãããããã®<ruby><rb>ç </rb><rt>ã­ã</rt></ruby>ããããã¾ãããªãã",
-      "spa": "<span class=\"verse-number\">12 </span><span class=\"line\">asÃ­ el hombre yace y no vuelve a levantarse;</span><span class=\"line\">hasta que no haya cielo, no despertarÃ¡</span><span class=\"line\">ni se levantarÃ¡ de su sueÃ±o.</span>",
-      "por": "<span class=\"verse-number\">12</span> Assim, o homem se deita, e nÃ£o se levanta; atÃ© que nÃ£o haja mais cÃ©us, nÃ£o acordarÃ£o nem se erguerÃ£o de seu sono.",
-      "fra": "<span class=\"verse-number\">12</span> Ainsi lâhomme se couche et ne se relÃ¨vera plus, Il ne se rÃ©veillera pas tant que les cieux subsisteront, Il ne sortira pas de son sommeil.",
-      "deu": "<span class=\"verse-number\">12Â </span>so legt der Mensch sich nieder und steht nicht wieder auf. Bis der Himmel nicht mehr ist, erwachen sie nicht wieder und werden aus ihrem Schlaf nicht aufgerÃ¼ttelt.",
-      "kor": "<span class=\"verse-number\">12</span> ì¬ëì´ ëì°ë©´ ë¤ì ì¼ì´ëì§ ëª»íê³  íëì´ ìì´ì§ê¸°ê¹ì§ ëì ë¨ì§ ëª»íë©° ì ì ê¹¨ì§ ëª»íëëë¼",
-      "ita": "<span class=\"verse-number\">12</span> cosÃ¬ lâuomo giace, e non risorge piÃ¹; finchÃ© non vi siano piÃ¹ cieli, egli non si risveglierÃ  nÃ© sarÃ  piÃ¹ destato dal suo sonno."
+      "eng": "So man lieth down, and riseth not: till the heavens <span class=\"clarity-word\">be</span> no more, they shall not awake, nor be raised out of their sleep.",
+      "ara": "هَكَذا يَرْقُدُ الإِنْسَانُ وَلا يَقُومُ، وَلا يَسْتَيْقِظُ مِنْ نَوْمِهِ إِلَى أنْ تَزُولَ السَّمَاوَاتُ.",
+      "jpn": "<ruby>人<rt>ひと</rt></ruby>は<ruby>伏<rt>ふ</rt></ruby>して<ruby>寝<rt>ね</rt></ruby>、また<ruby>起<rt>お</rt></ruby>きず、<ruby>天<rt>てん</rt></ruby>のつきるまで、<ruby>目<rt>め</rt></ruby>ざめず、その<ruby>眠<rt>ねむ</rt></ruby>りからさまされない。",
+      "spa": "<span class=\"line\">así el hombre yace y no vuelve a levantarse;</span><span class=\"line\">hasta que no haya cielo, no despertará</span><span class=\"line\">ni se levantará de su sueño.</span>",
+      "por": "Assim, o homem se deita, e não se levanta; até que não haja mais céus, não acordarão nem se erguerão de seu sono.",
+      "fra": "Ainsi l’homme se couche et ne se relèvera plus, Il ne se réveillera pas tant que les cieux subsisteront, Il ne sortira pas de son sommeil.",
+      "deu": "so legt der Mensch sich nieder und steht nicht wieder auf. Bis der Himmel nicht mehr ist, erwachen sie nicht wieder und werden aus ihrem Schlaf nicht aufgerüttelt.",
+      "kor": "사람이 누우면 다시 일어나지 못하고 하늘이 없어지기까지 눈을 뜨지 못하며 잠을 깨지 못하느니라",
+      "ita": "così l’uomo giace, e non risorge più; finché non vi siano più cieli, egli non si risveglierà né sarà più destato dal suo sonno."
     },
     "13": {
-      "eng": "<span class=\"verse-number\">13 </span>O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!",
-      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙÙÙØªÙÙÙ ØªÙÙÙØ§Ø±ÙÙÙÙÙ ÙÙÙ Ø¹ÙØ§ÙÙÙÙ Ø§ÙØ£ÙÙÙÙÙØ§ØªÙØ ÙÙØªÙØ®ÙÙÙÙÙÙÙ Ø¥ÙÙÙÙ Ø£ÙÙÙ ÙÙØ¹ÙØ¨ÙØ±Ù Ø¹ÙÙÙÙÙ ØºÙØ¶ÙØ¨ÙÙÙØ ÙÙØªÙØ­ÙØ¯ÙÙØ¯Ù ÙÙÙ Ø£ÙØ¬ÙÙØ§Ù ÙÙØªÙØ°ÙÙÙØ±ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">13</span> ã©ããããããã<ruby><rb>é°åº</rb><rt>ãã¿</rt></ruby>ã«ããããããªãã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã®ããã¾ã§ã<ruby><rb>æ½</rb><rt>ã²ã</rt></ruby>ã¾ãããããã®ããã«<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãã¦ããããã<ruby><rb>è¦</rb><rt>ãã¼</rt></ruby>ãã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">13 </span><span class=\"line\">Â¡Oh, quiÃ©n me diera que me escondieses en el Seol,</span><span class=\"line\">que me encubrieras hasta apaciguarse tu ira,</span><span class=\"line\">que me pusieses plazo y de mÃ­ te acordaras!</span>",
-      "por": "<span class=\"verse-number\">13</span> Quem dera que me escondesses na sepultura, <span class=\"clarity-word\">e</span> me ocultasses atÃ© que a tua ira se desviasse, <span class=\"clarity-word\">e</span> me pusesses um limite, e te lembrasses de mim!",
-      "fra": "<span class=\"verse-number\">13</span> OhÂ ! si tu voulais me cacher dans le sÃ©jour des morts, Mây tenir Ã  couvert jusquâÃ  ce que ta colÃ¨re soit passÃ©e, Et me fixer un dÃ©lai au terme duquel tu te souviendras de moiÂ !",
-      "deu": "<span class=\"verse-number\">13Â </span>O wenn du mich doch im Totenreich verwahrtest, mich dort verbergen wolltest, bis dein Zorn sich gelegt hÃ¤tte, mir eine Frist bestimmtest und dann meiner gedÃ¤chtest!",
-      "kor": "<span class=\"verse-number\">13</span> ì£¼ë ëë¥¼ ì¤ì¬ì ê°ì¶ìë©° ì£¼ì ì§ë¸ë¥¼ ëì´í¤ì¤ ëê¹ì§ ëë¥¼ ì¨ê¸°ìê³  ëë¥¼ ìíì¬ ê·ë¡ë¥¼ ì íìê³  ëë¥¼ ê¸°ìµíìµìì",
-      "ita": "<span class=\"verse-number\">13</span> Oh, volessi tu nascondermi nel soggiorno dei morti, tenermi occulto finchÃ© la tua ira sia passata, fissarmi un termine, e poi ricordarti di me!"
+      "eng": "O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!",
+      "ara": "لَيْتَكَ تُوَارِينِي فِي عَالَمِ الأَمْوَاتِ، وَتُخْفِينِي إِلَى أَنْ يَعْبُرَ عَنِّي غَضَبُكَ، وَتُحَدِّدُ لِي أَجَلاً فَتَذْكُرَنِي.",
+      "jpn": "どうぞ、わたしを<ruby>陰府<rt>よみ</rt></ruby>にかくし、あなたの<ruby>怒<rt>いか</rt></ruby>りのやむまで、<ruby>潜<rt>ひそ</rt></ruby>ませ、わたしのために<ruby>時<rt>とき</rt></ruby>を<ruby>定<rt>さだ</rt></ruby>めて、わたしを<ruby>覚<rt>おぼ</rt></ruby>えてください。",
+      "spa": "<span class=\"line\">¡Oh, quién me diera que me escondieses en el Seol,</span><span class=\"line\">que me encubrieras hasta apaciguarse tu ira,</span><span class=\"line\">que me pusieses plazo y de mí te acordaras!</span>",
+      "por": "Quem dera que me escondesses na sepultura, <span class=\"clarity-word\">e</span> me ocultasses até que a tua ira se desviasse, <span class=\"clarity-word\">e</span> me pusesses um limite, e te lembrasses de mim!",
+      "fra": "Oh ! si tu voulais me cacher dans le séjour des morts, M’y tenir à couvert jusqu’à ce que ta colère soit passée, Et me fixer un délai au terme duquel tu te souviendras de moi !",
+      "deu": "O wenn du mich doch im Totenreich verwahrtest, mich dort verbergen wolltest, bis dein Zorn sich gelegt hätte, mir eine Frist bestimmtest und dann meiner gedächtest!",
+      "kor": "주는 나를 스올에 감추시며 주의 진노를 돌이키실 때까지 나를 숨기시고 나를 위하여 규례를 정하시고 나를 기억하옵소서",
+      "ita": "Oh, volessi tu nascondermi nel soggiorno dei morti, tenermi occulto finché la tua ira sia passata, fissarmi un termine, e poi ricordarti di me!"
     },
     "14": {
-      "eng": "<span class=\"verse-number\">14 </span>If a man die, shall he live <span class=\"clarity-word\">again?</span> all the days of my appointed time will I wait, till my change come.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>Ø¥ÙÙÙ ÙÙØ§ØªÙ Ø±ÙØ¬ÙÙÙ Ø£ÙÙÙÙÙØ­ÙÙÙØ§Ø Ø¥ÙØ°ÙÙÙ ÙÙØµÙØ¨ÙØ±ÙØªÙ ÙÙÙÙÙ Ø£ÙÙÙÙØ§ÙÙ ÙÙÙÙØ§Ø¨ÙØ¯ÙØªÙÙØ Ø±ÙÙÙØ«ÙÙÙØ§ ÙÙØ£ÙØªÙÙ Ø²ÙÙÙÙÙ Ø¥ÙØ¹ÙÙÙØ§Ø¦ÙÙ.",
-      "jpn": "<span class=\"verse-number\">14</span> <ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ããã<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ã­ã°ãã¾ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ããã§ããããããããã¯ãã<ruby><rb>æå½¹</rb><rt>ãµããã</rt></ruby>ã®<ruby><rb>è«¸</rb><rt>ãã</rt></ruby><ruby><rb>æ¥</rb><rt>ã«ã¡</rt></ruby>ã®<ruby><rb>é</rb><rt>ããã </rt></ruby>ããã<ruby><rb>è§£æ¾</rb><rt>ããã»ã</rt></ruby>ã®<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ãã¾ã§<ruby><rb>å¾</rb><rt>ã¾</rt></ruby>ã¤ã§ãããã",
-      "spa": "<span class=\"verse-number\">14 </span><span class=\"line\">Si el hombre muriere, Â¿<span class=\"clarity-word\">volverÃ¡</span> a vivir?</span><span class=\"line\"><span class=\"page-break\" data-page=\"847\"></span>Todos los dÃ­as de mi servicio esperarÃ©,</span><span class=\"line\">hasta que llegue mi relevo.</span>",
-      "por": "<span class=\"verse-number\">14</span> Morrendo o homem, <span class=\"clarity-word\">porventura tornarÃ¡ a</span> viver? Todos os dias de meu combate esperaria, atÃ© que viesse a minha mudanÃ§a.",
-      "fra": "<span class=\"verse-number\">14</span> Si lâhomme meurt, pourra-t-il revivreÂ ? Jâattendrais tout le temps de mes souffrances, JusquâÃ  ce que mon Ã©tat vienne Ã  changer.",
-      "deu": "<span class=\"verse-number\">14Â </span>Doch wenn der Mensch gestorben istÂ â kann er wohl wieder aufleben? Dann wollte ich alle Tage meines Frondienstes harren, bis die AblÃ¶sung fÃ¼r mich kÃ¤me.",
-      "kor": "<span class=\"verse-number\">14</span> ì¥ì ì´ë¼ë ì£½ì¼ë©´ ì´ì° ë¤ì ì´ë¦¬ì´ê¹ ëë ëì ëª¨ë  ê³ ëì ë  ëìì ì°¸ì¼ë©´ì íë ¤ëê¸°ë¥¼ ê¸°ë¤ë¦¬ê² ëì´ë¤",
-      "ita": "<span class=\"verse-number\">14</span> Se lâuomo muore, puÃ² ritornare in vita? Aspetterei tutti i giorni del mio duro servizio, finchÃ© giungesse lâora del mio cambio;"
+      "eng": "If a man die, shall he live <span class=\"clarity-word\">again?</span> all the days of my appointed time will I wait, till my change come.",
+      "ara": "إِنْ مَاتَ رَجُلٌ أَفَيَحْيَا؟ إِذَنْ لَصَبِرْتُ كُلَّ أَيَّامِ مُكَابَدَتِي، رَيْثَمَا يَأْتِي زَمَنُ إِعْفَائِي.",
+      "jpn": "<ruby>人<rt>ひと</rt></ruby>がもし<ruby>死<rt>し</rt></ruby>ねば、また<ruby>生<rt>い</rt></ruby>きるでしょうか。わたしはわが<ruby>服役<rt>ふくえき</rt></ruby>の<ruby>諸<rt>しょ</rt></ruby><ruby>日<rt>にち</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>、わが<ruby>解放<rt>かいほう</rt></ruby>の<ruby>来<rt>く</rt></ruby>るまで<ruby>待<rt>ま</rt></ruby>つでしょう。",
+      "spa": "<span class=\"line\">Si el hombre muriere, ¿<span class=\"clarity-word\">volverá</span> a vivir?</span><span class=\"line\">Todos los días de mi servicio esperaré,</span><span class=\"line\">hasta que llegue mi relevo.</span>",
+      "por": "Morrendo o homem, <span class=\"clarity-word\">porventura tornará a</span> viver? Todos os dias de meu combate esperaria, até que viesse a minha mudança.",
+      "fra": "Si l’homme meurt, pourra-t-il revivre ? J’attendrais tout le temps de mes souffrances, Jusqu’à ce que mon état vienne à changer.",
+      "deu": "Doch wenn der Mensch gestorben ist – kann er wohl wieder aufleben? Dann wollte ich alle Tage meines Frondienstes harren, bis die Ablösung für mich käme.",
+      "kor": "장정이라도 죽으면 어찌 다시 살리이까 나는 나의 모든 고난의 날 동안을 참으면서 풀려나기를 기다리겠나이다",
+      "ita": "Se l’uomo muore, può ritornare in vita? Aspetterei tutti i giorni del mio duro servizio, finché giungesse l’ora del mio cambio;"
     },
     "15": {
-      "eng": "<span class=\"verse-number\">15 </span>Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>Ø£ÙÙÙØªÙ ØªÙØ¯ÙØ¹ÙÙ ÙÙØ£ÙÙÙØ§ Ø£ÙØ¬ÙÙØ¨ÙÙÙ. Ø£ÙÙÙØªÙ ØªÙØªÙÙÙÙ Ø¥ÙÙÙÙ Ø¹ÙÙÙÙÙ ÙÙØ¯ÙÙÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">15</span> ããªããã<ruby><rb>å¼</rb><rt>ãã</rt></ruby>ã³ã«ãªãã¨ãããããã¯<ruby><rb>ç­</rb><rt>ãã</rt></ruby>ããã§ããããããªãã¯ã¿<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã®ããã<ruby><rb>é¡§</rb><rt>ããã</rt></ruby>ã¿ãããã§ãããã",
-      "spa": "<span class=\"verse-number\">15 </span><span class=\"line\">LlamarÃ¡s, y yo te responderÃ©; aÃ±orarÃ¡s la obra de tus manos.</span>",
-      "por": "<span class=\"verse-number\">15</span> Chama-<span class=\"clarity-word\">me,</span> e eu te responderei; <span class=\"clarity-word\">e</span> afeiÃ§oa-te Ã  obra de tuas mÃ£os.",
-      "fra": "<span class=\"verse-number\">15</span> Tu appellerais alors et je te rÃ©pondrais, Tu languirais aprÃ¨s lâouvrage de tes mains.",
-      "deu": "<span class=\"verse-number\">15Â </span>Dann wÃ¼rdest du rufen und ich gÃ¤be dir Antwort; nach dem Werk deiner HÃ¤nde wÃ¼rdest du Verlangen tragen;",
-      "kor": "<span class=\"verse-number\">15</span> ì£¼ê»ìë ëë¥¼ ë¶ë¥´ìê² ê³  ëë ëëµíê² ëì´ë¤ ì£¼ê»ìë ì£¼ì ìì¼ë¡ ì§ì¼ì  ê²ì ê¸°ë¤ë¦¬ìê² ëì´ë¤",
-      "ita": "<span class=\"verse-number\">15</span> tu mi chiameresti e io risponderei, tu brameresti rivedere lâopera delle tue mani."
+      "eng": "Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.",
+      "ara": "أَنْتَ تَدْعُو وَأَنَا أُجِيبُكَ. أَنْتَ تَتُوقُ إِلَى عَمَلِ يَدَيْكَ،",
+      "jpn": "あなたがお<ruby>呼<rt>およ</rt></ruby>びになるとき、わたしは<ruby>答<rt>こた</rt></ruby>えるでしょう。あなたはみ<ruby>手<rt>て</rt></ruby>のわざを<ruby>顧<rt>かえり</rt></ruby>みられるでしょう。",
+      "spa": "<span class=\"line\">Llamarás, y yo te responderé; añorarás la obra de tus manos.</span>",
+      "por": "Chama-<span class=\"clarity-word\">me,</span> e eu te responderei; <span class=\"clarity-word\">e</span> afeiçoa-te à obra de tuas mãos.",
+      "fra": "Tu appellerais alors et je te répondrais, Tu languirais après l’ouvrage de tes mains.",
+      "deu": "Dann würdest du rufen und ich gäbe dir Antwort; nach dem Werk deiner Hände würdest du Verlangen tragen;",
+      "kor": "주께서는 나를 부르시겠고 나는 대답하겠나이다 주께서는 주의 손으로 지으신 것을 기다리시겠나이다",
+      "ita": "tu mi chiameresti e io risponderei, tu brameresti rivedere l’opera delle tue mani."
     },
     "16": {
-      "eng": "<span class=\"verse-number\">16 </span>For now thou numberest my steps: dost thou not watch over my sin?",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>Ø­ÙÙÙÙØ¦ÙØ°Ù ØªÙØ­ÙØµÙÙ Ø®ÙØ·ÙÙÙØ§ØªÙÙ Ø­ÙÙÙØ§ÙØ ÙÙÙÙÙÙÙÙÙÙÙ ÙÙØ§ ØªÙØ±ÙØ§ÙÙØ¨Ù Ø®ÙØ·ÙÙØ¦ÙØªÙÙØ",
-      "jpn": "<span class=\"verse-number\">16</span> ãã®<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ããªãã¯ãããã®<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ã¿ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ã®ããããã§ãããã",
-      "spa": "<span class=\"verse-number\">16 </span><span class=\"line\">Pues ahora me cuentas los pasos</span><span class=\"line\">y no das tregua a mi pecado.</span>",
-      "por": "<span class=\"verse-number\">16</span> Pois agora contas os meus passos; <span class=\"clarity-word\">porventura</span> nÃ£o vigias sobre o meu pecado?",
-      "fra": "<span class=\"verse-number\">16</span> Mais aujourdâhui tu comptes mes pas, Tu as lâÅil sur mes pÃ©chÃ©sÂ ;",
-      "deu": "<span class=\"verse-number\">16Â </span>ja, dann wÃ¼rdest du meine Schritte sorglich zÃ¤hlen, Ã¼ber einen Fehltritt von mir kein strenger WÃ¤chter sein;",
-      "kor": "<span class=\"verse-number\">16</span> ê·¸ë¬íì¨ë° ì´ì  ì£¼ê»ì ëì ê±¸ìì ì¸ìì¤ë ëì ì£ë¥¼ ê°ì°°íì§ ìëíìëì´ê¹",
-      "ita": "<span class=\"verse-number\">16</span> Ma ora tu conti i miei passi, tu osservi i miei peccati;"
+      "eng": "For now thou numberest my steps: dost thou not watch over my sin?",
+      "ara": "حِينَئِذٍ تُحْصِي خَطْوَاتِي حَقّاً، وَلَكِنَّكَ لَا تُرَاقِبُ خَطِيئَتِي،",
+      "jpn": "その<ruby>時<rt>とき</rt></ruby>あなたはわたしの<ruby>歩<rt>あゆ</rt></ruby>みを<ruby>数<rt>かぞ</rt></ruby>え、わたしの<ruby>罪<rt>つみ</rt></ruby>を<ruby>見<rt>み</rt></ruby>のがされるでしょう。",
+      "spa": "<span class=\"line\">Pues ahora me cuentas los pasos</span><span class=\"line\">y no das tregua a mi pecado.</span>",
+      "por": "Pois agora contas os meus passos; <span class=\"clarity-word\">porventura</span> não vigias sobre o meu pecado?",
+      "fra": "Mais aujourd’hui tu comptes mes pas, Tu as l’œil sur mes péchés ;",
+      "deu": "ja, dann würdest du meine Schritte sorglich zählen, über einen Fehltritt von mir kein strenger Wächter sein;",
+      "kor": "그러하온데 이제 주께서 나의 걸음을 세시오니 나의 죄를 감찰하지 아니하시나이까",
+      "ita": "Ma ora tu conti i miei passi, tu osservi i miei peccati;"
     },
     "17": {
-      "eng": "<span class=\"verse-number\">17 </span>My transgression <span class=\"clarity-word\">is</span> sealed up in a bag, and thou sewest up mine iniquity.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØªÙØ®ÙØªÙÙÙ ÙÙØ¹ÙØµÙÙÙØªÙÙ ÙÙÙ ØµÙØ±ÙÙØ©ÙØ ÙÙØªÙØ³ÙØªÙØ±Ù Ø°ÙÙÙØ¨ÙÙ.",
-      "jpn": "<span class=\"verse-number\">17</span> ãããã®ã¨ãã¯<ruby><rb>è¢</rb><rt>ãµãã</rt></ruby>ã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã«<ruby><rb>å°</rb><rt>ãµã</rt></ruby>ããããããªãã¯ãããã®<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>å¡</rb><rt>ã¬</rt></ruby>ããããããã§ãããã",
-      "spa": "<span class=\"verse-number\">17 </span><span class=\"line\">Tienes sellada en una bolsa mi transgresiÃ³n</span><span class=\"line\">y cubres mi iniquidad.</span>",
-      "por": "<span class=\"verse-number\">17</span> A minha transgressÃ£o <span class=\"clarity-word\">estÃ¡</span> selada num saco, e amontoas as minhas iniquidades.",
-      "fra": "<span class=\"verse-number\">17</span> Mes transgressions sont scellÃ©es dans un sac, Et tu Ã©tales un enduit sur mes iniquitÃ©s.",
-      "deu": "<span class=\"verse-number\">17Â </span>nein, versiegelt wÃ¼rde meine Ãbertretung in einem BÃ¼ndel liegen, und meine Schuld hÃ¤ttest du verklebt.",
-      "kor": "<span class=\"verse-number\">17</span> ì£¼ë ë´ íë¬¼ì ì£¼ë¨¸ëì ë´íìê³  ë´ ì£ìì ì¸ë§¤ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">17</span> le mie trasgressioni sono sigillate in un sacco, e alle mie iniquitÃ , altre ne aggiungi."
+      "eng": "My transgression <span class=\"clarity-word\">is</span> sealed up in a bag, and thou sewest up mine iniquity.",
+      "ara": "فَتَخْتِمُ مَعْصِيَتِي فِي صُرَّةٍ، وَتَسْتُرُ ذَنْبِي.",
+      "jpn": "わたしのとがは<ruby>袋<rt>ふくろ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>封<rt>ふう</rt></ruby>じられ、あなたはわたしの<ruby>罪<rt>つみ</rt></ruby>を<ruby>塗<rt>ぬ</rt></ruby>りかくされるでしょう。",
+      "spa": "<span class=\"line\">Tienes sellada en una bolsa mi transgresión</span><span class=\"line\">y cubres mi iniquidad.</span>",
+      "por": "A minha transgressão <span class=\"clarity-word\">está</span> selada num saco, e amontoas as minhas iniquidades.",
+      "fra": "Mes transgressions sont scellées dans un sac, Et tu étales un enduit sur mes iniquités.",
+      "deu": "nein, versiegelt würde meine Übertretung in einem Bündel liegen, und meine Schuld hättest du verklebt.",
+      "kor": "주는 내 허물을 주머니에 봉하시고 내 죄악을 싸매시나이다",
+      "ita": "le mie trasgressioni sono sigillate in un sacco, e alle mie iniquità, altre ne aggiungi."
     },
     "18": {
-      "eng": "<span class=\"verse-number\">18 </span>And surely the mountain falling cometh to nought, and the rock is removed out of his place.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙÙÙÙÙØ§ ÙÙØªÙÙÙØªÙÙØªÙ Ø§ÙÙØ¬ÙØ¨ÙÙÙ Ø§ÙØ³ÙÙØ§ÙÙØ·ÙØ ÙÙÙÙØªÙØ²ÙØ­ÙØ²ÙØ­Ù Ø§ÙØµÙÙØ®ÙØ±Ù ÙÙÙÙ ÙÙÙÙØ¶ÙØ¹ÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">18</span> ããã<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ã¯<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã¦ãããã<ruby><rb>å²©</rb><rt>ãã</rt></ruby>ããã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ãã<ruby><rb>ç§»</rb><rt>ãã¤</rt></ruby>ãããã",
-      "spa": "<span class=\"verse-number\">18 </span><span class=\"line\">Y ciertamente el monte que cae se deshace,</span><span class=\"line\">y las peÃ±as son removidas de su lugar;</span>",
-      "por": "<span class=\"verse-number\">18</span> E na verdade, caindo a montanha, desfaz-se; e a rocha se remove do seu lugar.",
-      "fra": "<span class=\"verse-number\">18</span> La montagne sâÃ©croule et pÃ©rit, Le rocher disparaÃ®t de sa place,",
-      "deu": "<span class=\"verse-number\">18Â </span>Doch Berge stÃ¼rzen in sich zusammen, und Felsen werden von ihrer Stelle weggerÃ¼ckt,",
-      "kor": "<span class=\"verse-number\">18</span> ë¬´ëì§ë ì°ì ë°ëì í©ì´ì§ê³  ë°ìë ê·¸ ìë¦¬ìì ì®ê²¨ê°ê³",
-      "ita": "<span class=\"verse-number\">18</span> La montagna frana e scompare, la rupe Ã¨ divelta dal suo luogo,"
+      "eng": "And surely the mountain falling cometh to nought, and the rock is removed out of his place.",
+      "ara": "وَكَمَا يَتَفَتَّتُ الْجَبَلُ السَّاقِطُ، وَيَتَزَحْزَحُ الصَّخْرُ مِنْ مَوْضِعِهِ،",
+      "jpn": "しかし<ruby>山<rt>やま</rt></ruby>は<ruby>倒<rt>たお</rt></ruby>れてくずれ、<ruby>岩<rt>いわ</rt></ruby>もその<ruby>所<rt>ところ</rt></ruby>から<ruby>移<rt>うつ</rt></ruby>される。",
+      "spa": "<span class=\"line\">Y ciertamente el monte que cae se deshace,</span><span class=\"line\">y las peñas son removidas de su lugar;</span>",
+      "por": "E na verdade, caindo a montanha, desfaz-se; e a rocha se remove do seu lugar.",
+      "fra": "La montagne s’écroule et périt, Le rocher disparaît de sa place,",
+      "deu": "Doch Berge stürzen in sich zusammen, und Felsen werden von ihrer Stelle weggerückt,",
+      "kor": "ë¬´ëì§ë ì°ì ë°ëì í©ì´ì§ê³  ë°ìë ê·¸ ìë¦¬ìì ì®ê²¨ê°ê³",
+      "ita": "La montagna frana e scompare, la rupe è divelta dal suo luogo,"
     },
     "19": {
-      "eng": "<span class=\"verse-number\">19 </span>The waters wear the stones: thou washest away the things which grow <span class=\"clarity-word\">out</span> of the dust of the earth; and thou destroyest the hope of man.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙÙÙÙÙØ§ ØªÙØ¨ÙÙÙÙ Ø§ÙÙÙÙÙÙØ§ÙÙ Ø§ÙÙØ­ÙØ¬ÙØ§Ø±ÙØ©ÙØ ÙÙØªÙØ¬ÙØ±ÙÙÙ Ø³ÙÙÙÙÙÙÙÙØ§ ØªÙØ±ÙØ§Ø¨Ù Ø§ÙØ£ÙØ±ÙØ¶ÙØ ÙÙÙÙØ°ÙØ§ ØªÙØ¨ÙÙØ¯Ù Ø£ÙÙÙØªÙ Ø±ÙØ¬ÙØ§Ø¡Ù Ø§ÙØ¥ÙÙÙØ³ÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">19</span> <ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã¯<ruby><rb>ç³</rb><rt>ãã</rt></ruby>ãããã¡ã<ruby><rb>å¤§æ°´</rb><rt>ããã¿ã</rt></ruby>ã¯<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®ã¡ãã<ruby><rb>æ´</rb><rt>ãã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ãããã®ããã«ããªãã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ã¿ã<ruby><rb>æ­</rb><rt>ã</rt></ruby>ãããã",
-      "spa": "<span class=\"verse-number\">19 </span><span class=\"line\">las piedras se desgastan con el agua impetuosa que se lleva el polvo de la tierra;</span><span class=\"line\">de igual manera haces tÃº perecer la esperanza del hombre.</span>",
-      "por": "<span class=\"verse-number\">19</span> As Ã¡guas gastam as pedras, as cheias afogam o pÃ³ da terra; e tu fazes perecer a esperanÃ§a do homem.",
-      "fra": "<span class=\"verse-number\">19</span> La pierre est broyÃ©e par les eaux, Et la terre emportÃ©e par leur courantÂ ; Ainsi tu dÃ©truis lâespÃ©rance de lâhomme.",
-      "deu": "<span class=\"verse-number\">19Â </span>Steine hÃ¶hlt das Wasser aus, und seine GÃ¼sse schwemmen das Erdreich weg: So machst du auch die Hoffnung des Menschen zunichte.",
-      "kor": "<span class=\"verse-number\">19</span> ë¬¼ì ëì ë³ê² íê³  ëì¹ë ë¬¼ì ëì í°ëì ì»ì´ë²ë¦¬ëì´ë¤ ì´ì ê°ì´ ì£¼ê»ìë ì¬ëì í¬ë§ì ëì¼ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">19</span> le acque rodono la pietra, le loro inondazioni trascinano via la terra: cosÃ¬ tu distruggi la speranza dellâuomo."
+      "eng": "The waters wear the stones: thou washest away the things which grow <span class=\"clarity-word\">out</span> of the dust of the earth; and thou destroyest the hope of man.",
+      "ara": "وَكَمَا تُبْلِي الْمِيَاهُ الْحِجَارَةَ، وَتَجْرُفُ سُيُولُهَا تُرَابَ الأَرْضِ، هَكَذَا تُبِيدُ أَنْتَ رَجَاءَ الإِنْسَانِ.",
+      "jpn": "<ruby>水<rt>みず</rt></ruby>は<ruby>石<rt>いし</rt></ruby>をうがち、<ruby>大水<rt>おおみず</rt></ruby>は<ruby>地<rt>ち</rt></ruby>のちりを<ruby>洗<rt>あら</rt></ruby>い<ruby>去<rt>さ</rt></ruby>る。このようにあなたは<ruby>人<rt>ひと</rt></ruby>の<ruby>望<rt>のぞ</rt></ruby>みを<ruby>断<rt>た</rt></ruby>たれる。",
+      "spa": "<span class=\"line\">las piedras se desgastan con el agua impetuosa que se lleva el polvo de la tierra;</span><span class=\"line\">de igual manera haces tú perecer la esperanza del hombre.</span>",
+      "por": "As águas gastam as pedras, as cheias afogam o pó da terra; e tu fazes perecer a esperança do homem.",
+      "fra": "La pierre est broyée par les eaux, Et la terre emportée par leur courant ; Ainsi tu détruis l’espérance de l’homme.",
+      "deu": "Steine höhlt das Wasser aus, und seine Güsse schwemmen das Erdreich weg: So machst du auch die Hoffnung des Menschen zunichte.",
+      "kor": "물은 돌을 닳게 하고 넘치는 물은 땅의 티끌을 씻어버리나이다 이와 같이 주께서는 사람의 희망을 끊으시나이다",
+      "ita": "le acque rodono la pietra, le loro inondazioni trascinano via la terra: così tu distruggi la speranza dell’uomo."
     },
     "20": {
-      "eng": "<span class=\"verse-number\">20 </span>Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ØªÙÙÙÙÙØ±ÙÙÙ Ø¯ÙÙÙØ¹ÙØ©Ù ÙÙØ§Ø­ÙØ¯ÙØ©Ù ÙÙÙÙØªÙÙØ§Ø´ÙÙØ ÙÙØªÙØºÙÙÙÙØ±Ù ÙÙÙÙ ÙÙÙØ§ÙÙØ­ÙÙÙ ÙÙØªÙØ·ÙØ±ÙØ¯ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">20</span> ããªãã¯ãªãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å</rb><rt>ã</rt></ruby>ã£ã¦ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ã</rt></ruby>ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ããã¡ã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ããã¦<ruby><rb>è¿½</rb><rt>ã</rt></ruby>ãããããã",
-      "spa": "<span class=\"verse-number\">20 </span><span class=\"line\">Para siempre prevalecerÃ¡s sobre Ã©l, y Ã©l se irÃ¡;</span><span class=\"line\">cambiarÃ¡s su rostro y lo despedirÃ¡s.</span>",
-      "por": "<span class=\"verse-number\">20</span> Tu para sempre prevaleces contra ele, e ele passa; tu, mudando o seu semblante, o despedes.",
-      "fra": "<span class=\"verse-number\">20</span> Tu es sans cesse Ã  lâassaillir et il sâen vaÂ ; Tu le dÃ©figures, puis tu le renvoies.",
-      "deu": "<span class=\"verse-number\">20Â </span>Du Ã¼berwÃ¤ltigst ihn auf ewig, und er muss davon; sein Antlitz entstellend, lÃ¤sst du ihn dahinfahren.",
-      "kor": "<span class=\"verse-number\">20</span> ì£¼ê»ì ì¬ëì ììí ì´ê¸°ìì ë ëê² íìë©° ê·¸ì ì¼êµ´ ë¹ì ë³íê² íìê³  ì«ìë³´ë´ìì¤ë",
-      "ita": "<span class=\"verse-number\">20</span> Tu lo sopraffai una volta per sempre, ed egli se ne va; gli muti lâaspetto, e lo mandi via."
+      "eng": "Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.",
+      "ara": "تَقْهَرُهُ دَفْعَةً وَاحِدَةً فَيَتَلاشَى، وَتُغَيِّرُ مِنْ مَلامِحِهِ وَتَطْرُدُهُ.",
+      "jpn": "あなたはながく<ruby>彼<rt>かれ</rt></ruby>に<ruby>勝<rt>か</rt></ruby>って、<ruby>彼<rt>かれ</rt></ruby>を<ruby>去<rt>さ</rt></ruby>り<ruby>行<rt>い</rt></ruby>かせ、<ruby>彼<rt>かれ</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>かたちを<ruby>変<rt>かわ</rt></ruby>らせて<ruby>追<rt>お</rt></ruby>いやられる。",
+      "spa": "<span class=\"line\">Para siempre prevalecerás sobre él, y él se irá;</span><span class=\"line\">cambiarás su rostro y lo despedirás.</span>",
+      "por": "Tu para sempre prevaleces contra ele, e ele passa; tu, mudando o seu semblante, o despedes.",
+      "fra": "Tu es sans cesse à l’assaillir et il s’en va ; Tu le défigures, puis tu le renvoies.",
+      "deu": "Du überwältigst ihn auf ewig, und er muss davon; sein Antlitz entstellend, lässt du ihn dahinfahren.",
+      "kor": "주께서 사람을 영원히 이기셔서 떠나게 하시며 그의 얼굴 빛을 변하게 하시고 쫓아보내시오니",
+      "ita": "Tu lo sopraffai una volta per sempre, ed egli se ne va; gli muti l’aspetto, e lo mandi via."
     },
     "21": {
-      "eng": "<span class=\"verse-number\">21 </span>His sons come to honour, and he knoweth <span class=\"clarity-word\">it</span> not; and they are brought low, but he perceiveth <span class=\"clarity-word\">it</span> not of them.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙÙÙØ±ÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¤ÙÙÙ ÙÙÙÙÙÙ ÙÙØ§ ÙÙØ¹ÙÙÙÙÙØ Ø£ÙÙÙ ÙÙØ°ÙÙÙÙÙÙÙ ÙÙÙØ§ ÙÙØ¯ÙØ±ÙÙÙ Ø°ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">21</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯<ruby><rb>å°</rb><rt>ãã£ã¨</rt></ruby>ããªã£ã¦ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ããã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ããªãã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãããªã£ã¦ããããã<ruby><rb>æ</rb><rt>ãã¨</rt></ruby>ããªãã",
-      "spa": "<span class=\"verse-number\">21 </span><span class=\"line\">Sus hijos alcanzarÃ¡n honores, y Ã©l no lo sabrÃ¡;</span><span class=\"line\">o serÃ¡n humillados, y no se enterarÃ¡ de ello.</span>",
-      "por": "<span class=\"verse-number\">21</span> Os seus filhos estÃ£o em honra, sem que ele o saiba; ou ficam minguados, sem que ele o perceba.",
-      "fra": "<span class=\"verse-number\">21</span> Que ses fils soient honorÃ©s, il nâen sait rienÂ ; Quâils soient dans lâabaissement, il lâignore.",
-      "deu": "<span class=\"verse-number\">21Â </span>Gelangen seine Kinder zu EhrenÂ â er weiÃ nichts davon, und sinken sie in Schande hinabÂ â er achtet nicht auf sie.",
-      "kor": "<span class=\"verse-number\">21</span> ê·¸ì ìë¤ë¤ì´ ì¡´ê·íê² ëì´ë ê·¸ê° ìì§ ëª»íë©° ê·¸ë¤ì´ ë¹ì²íê² ëì´ë ê·¸ê° ê¹¨ë«ì§ ëª»íëì´ë¤",
-      "ita": "<span class=\"verse-number\">21</span> Se i suoi figli salgono in onore, egli non lo sa; se cadono in disprezzo, egli non lo vede;"
+      "eng": "His sons come to honour, and he knoweth <span class=\"clarity-word\">it</span> not; and they are brought low, but he perceiveth <span class=\"clarity-word\">it</span> not of them.",
+      "ara": "يُكْرَمُ أَبْنَاؤُهُ وَهُوَ لَا يَعْلَمُ، أَوْ يُذَلُّونَ وَلا يُدْرِكُ ذَلِكَ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>らは<ruby>尊<rt>たっと</rt></ruby>くなっても、<ruby>彼<rt>かれ</rt></ruby>はそれを<ruby>知<rt>し</rt></ruby>らない、<ruby>卑<rt>いや</rt></ruby>しくなっても、それを<ruby>悟<rt>さと</rt></ruby>らない。",
+      "spa": "<span class=\"line\">Sus hijos alcanzarán honores, y él no lo sabrá;</span><span class=\"line\">o serán humillados, y no se enterará de ello.</span>",
+      "por": "Os seus filhos estão em honra, sem que ele o saiba; ou ficam minguados, sem que ele o perceba.",
+      "fra": "Que ses fils soient honorés, il n’en sait rien ; Qu’ils soient dans l’abaissement, il l’ignore.",
+      "deu": "Gelangen seine Kinder zu Ehren – er weiß nichts davon, und sinken sie in Schande hinab – er achtet nicht auf sie.",
+      "kor": "그의 아들들이 존귀하게 되어도 그가 알지 못하며 그들이 비천하게 되어도 그가 깨닫지 못하나이다",
+      "ita": "Se i suoi figli salgono in onore, egli non lo sa; se cadono in disprezzo, egli non lo vede;"
     },
     "22": {
-      "eng": "<span class=\"verse-number\">22 </span>But his flesh upon him shall have pain, and his soul within him shall mourn.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙØ§ ÙÙØ´ÙØ¹ÙØ±Ù Ø¨ÙØºÙÙÙØ±Ù Ø¢ÙØ§ÙÙ Ø¨ÙØ¯ÙÙÙÙÙØ ÙÙÙØ§ ÙÙÙÙÙØ­Ù Ø¥ÙÙÙØ§ Ø¹ÙÙÙÙ ÙÙÙÙØ³ÙÙÙâ.",
-      "jpn": "<span class=\"verse-number\">22</span> ãã ãã®ã<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã«<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã¿ã<ruby><rb>è¦</rb><rt>ãã¼</rt></ruby>ãããã®ãã®ããã«<ruby><rb>å</rb><rt>ãªã</rt></ruby>ãã®ã¿ã§ãããã",
-      "spa": "<span class=\"verse-number\">22 </span><span class=\"line\">Mas su carne sobre Ã©l se dolerÃ¡,</span><span class=\"line\">y se lamentarÃ¡ en Ã©l su alma.</span>",
-      "por": "<span class=\"verse-number\">22</span> Mas a sua carne nele tem dores; e a sua alma nele lamenta.",
-      "fra": "<span class=\"verse-number\">22</span> Câest pour lui seul quâil Ã©prouve de la douleur en son corps, Câest pour lui seul quâil ressent de la tristesse en son Ã¢me.",
-      "deu": "<span class=\"verse-number\">22Â </span>Nur seines eigenen Leibes Schmerzen fÃ¼hlt er, und nur um sich selbst empfindet seine Seele Trauer.â",
-      "kor": "<span class=\"verse-number\">22</span> ë¤ë§ ê·¸ì ì´ì´ ìíê³  ê·¸ì ìí¼ì´ ì ê³¡í  ë¿ì´ëì´ë¤",
-      "ita": "<span class=\"verse-number\">22</span> questo solo sente: che il suo corpo soffre, che lâanima sua Ã¨ in luttoâ."
+      "eng": "But his flesh upon him shall have pain, and his soul within him shall mourn.",
+      "ara": "لَا يَشْعُرُ بِغَيْرِ آلامِ بَدَنِهِ، وَلا يَنُوحُ إِلّا عَلَى نَفْسِهِ“.",
+      "jpn": "ただおのが<ruby>身<rt>み</rt></ruby>に<ruby>痛<rt>いた</rt></ruby>みを<ruby>覚<rt>おぼ</rt></ruby>え、おのれのために<ruby>嘆<rt>なげ</rt></ruby>くのみである」。",
+      "spa": "<span class=\"line\">Mas su carne sobre él se dolerá,</span><span class=\"line\">y se lamentará en él su alma.</span>",
+      "por": "Mas a sua carne nele tem dores; e a sua alma nele lamenta.",
+      "fra": "C’est pour lui seul qu’il éprouve de la douleur en son corps, C’est pour lui seul qu’il ressent de la tristesse en son âme.",
+      "deu": "Nur seines eigenen Leibes Schmerzen fühlt er, und nur um sich selbst empfindet seine Seele Trauer.“",
+      "kor": "다만 그의 살이 아프고 그의 영혼이 애곡할 뿐이니이다",
+      "ita": "questo solo sente: che il suo corpo soffre, che l’anima sua è in lutto”."
     }
   }
 }

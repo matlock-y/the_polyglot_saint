@@ -4,75 +4,75 @@
     "book": "ps",
     "chapter": 125,
     "headings": {
-      "eng": "Blessed are they who trust in the LordâPeace will be upon Israel.",
-      "spa": "Bienaventurados los que confÃ­an en JehovÃ¡Â â La paz serÃ¡ sobre Israel.",
-      "por": "Bem-aventurados os que confiam no SenhorÂ â Paz haverÃ¡ sobre Israel.",
-      "fra": "BÃ©nis sont ceux qui se confient en lâÃternel. Que la paix soit sur IsraÃ«lÂ !",
-      "ita": "Beati coloro che confidano nel SignoreÂ â Pace sia su Israele."
+      "eng": "Blessed are they who trust in the Lord—Peace will be upon Israel.",
+      "spa": "Bienaventurados los que confían en Jehová — La paz será sobre Israel.",
+      "por": "Bem-aventurados os que confiam no Senhor — Paz haverá sobre Israel.",
+      "fra": "Bénis sont ceux qui se confient en l’Éternel. Que la paix soit sur Israël !",
+      "ita": "Beati coloro che confidano nel Signore — Pace sia su Israele."
     },
     "intros": {
       "eng": "A Song of degrees.",
-      "jpn": "<ruby><rb>é½</rb><rt>ã¿ãã</rt></ruby>ããã§ã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
-      "spa": "CÃ¡ntico de ascenso gradual.",
-      "por": "CÃ¢ntico das subidas.",
+      "jpn": "<ruby>都<rt>みやこ</rt></ruby>もうでの<ruby>歌<rt>うた</rt></ruby>",
+      "spa": "Cántico de ascenso gradual.",
+      "por": "Cântico das subidas.",
       "ita": "Canto dei pellegrinaggi."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>They that trust in the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">shall be</span> as mount Zion, <span class=\"clarity-word\">which</span> cannot be removed, <span class=\"clarity-word\">but</span> abideth for ever.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø§ÙÙÙÙØ§Ø«ÙÙÙÙÙÙ Ø¨ÙØ§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙ ÙÙØ«ÙÙÙ Ø¬ÙØ¨ÙÙÙ ØµÙÙÙÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ§Ø³ÙØ®Ù Ø§ÙÙÙØ°ÙÙ ÙÙØ§ ÙÙØªÙØ²ÙØ¹ÙØ²ÙØ¹Ù Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯Ù.",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ä¿¡é ¼</rb><rt>ãããã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãããããã¨ãªãã¦ãã¨ãããã«ããã·ãªã³ã®<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ã®ããã§ããã",
-      "spa": "<span class=\"verse-number\">1</span> <span class=\"line\">Los que confÃ­an en JehovÃ¡</span><span class=\"line\">son como el monte Sion, que no se mueve, sino que permanece para siempre.</span>",
-      "por": "<span class=\"verse-number\">1</span> Os que confiam no <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">serÃ£o</span> como o monte SiÃ£o, <span class=\"clarity-word\">que</span> nÃ£o se abala, <span class=\"clarity-word\">mas</span> permanece para sempre.",
-      "fra": "<span class=\"verse-number\">1</span> Cantique des degrÃ©s. Ceux qui se confient en lâÃternel Sont comme la montagne de SionÂ : elle ne chancelle pas, Elle demeure pour toujours.",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Ein Wallfahrtslied (oder Stufenlied?; vgl. 120).</span><span class=\"line\">Die auf den HErrn vertrauen die gleichen dem Berge Zion,</span><span class=\"line\">der nicht wankt, der in Ewigkeit feststeht.</span>",
-      "kor": "<span class=\"verse-number\">1</span> ì¬í¸ìë¥¼ ìì§íë ìë ìì¨ ì°ì´ íë¤ë¦¬ì§ ìëíê³  ììí ìì ê°ëë¤",
-      "ita": "<span class=\"verse-number\">1</span> Quelli che confidano nellâEterno sono come il monte di Sion, che non puÃ² essere smosso, ma dimora in perpetuo."
+      "eng": "They that trust in the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">shall be</span> as mount Zion, <span class=\"clarity-word\">which</span> cannot be removed, <span class=\"clarity-word\">but</span> abideth for ever.",
+      "ara": "الْوَاثِقُونَ بِالرَّبِّ هُمْ مِثْلُ جَبَلِ صِهْيَوْنَ الرَّاسِخِ الَّذِي لَا يَتَزَعْزَعُ إِلَى الأَبَدِ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>に<ruby>信頼<rt>しんらい</rt></ruby>する<ruby>者<rt>もの</rt></ruby>は、<ruby>動<rt>うご</rt></ruby>かされることなくて、とこしえにあるシオンの<ruby>山<rt>やま</rt></ruby>のようである。",
+      "spa": "<span class=\"line\">Los que confían en Jehová</span><span class=\"line\">son como el monte Sion, que no se mueve, sino que permanece para siempre.</span>",
+      "por": "Os que confiam no <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">serão</span> como o monte Sião, <span class=\"clarity-word\">que</span> não se abala, <span class=\"clarity-word\">mas</span> permanece para sempre.",
+      "fra": "Cantique des degrés. Ceux qui se confient en l’Éternel Sont comme la montagne de Sion : elle ne chancelle pas, Elle demeure pour toujours.",
+      "deu": "<span class=\"line\">Ein Wallfahrtslied (oder Stufenlied?; vgl. 120).</span><span class=\"line\">Die auf den HErrn vertrauen die gleichen dem Berge Zion,</span><span class=\"line\">der nicht wankt, der in Ewigkeit feststeht.</span>",
+      "kor": "여호와를 의지하는 자는 시온 산이 흔들리지 아니하고 영원히 있음 같도다",
+      "ita": "Quelli che confidano nell’Eterno sono come il monte di Sion, che non può essere smosso, ma dimora in perpetuo."
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span><span class=\"clarity-word\">As</span> the mountains <span class=\"clarity-word\">are</span> round about Jerusalem, so the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> round about his people from henceforth even for ever.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙØ§ ØªÙØ­ÙÙØ·Ù Ø§ÙÙØ¬ÙØ¨ÙØ§ÙÙ Ø¨ÙØ£ÙÙØ±ÙØ´ÙÙÙÙÙÙØ ÙÙØ°ÙÙÙÙÙ ÙÙØ­ÙÙØ·Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø¨ÙØ´ÙØ¹ÙØ¨ÙÙÙ ÙÙÙÙ Ø§ÙØ¢ÙÙ ÙÙØ¥ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯ÙØ",
-      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>å±±ã</rb><rt>ãã¾ãã¾</rt></ruby>ãã¨ã«ãµã¬ã ã<ruby><rb>å²</rb><rt>ãã</rt></ruby>ãã§ããããã«ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ä»</rb><rt>ãã¾</rt></ruby>ããã¨ãããã«ãã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>å²</rb><rt>ãã</rt></ruby>ã¾ããã",
-      "spa": "<span class=\"verse-number\">2</span> <span class=\"line\">Como JerusalÃ©n tiene montes alrededor de ella,</span><span class=\"line\">asÃ­ JehovÃ¡ estÃ¡ alrededor de su pueblo,</span><span class=\"line\">desde ahora y para siempre.</span>",
-      "por": "<span class=\"verse-number\">2</span> <span class=\"clarity-word\">Assim como estÃ£o</span> os montes em redor de JerusalÃ©m, assim o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">estÃ¡</span> em volta do seu povo desde agora e para sempre.",
-      "fra": "<span class=\"verse-number\">2</span> Des montagnes entourent JÃ©rusalemÂ ; Ainsi lâÃternel entoure son peuple, DÃ¨s maintenant et Ã  jamais.",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Wie Berge Jerusalem rings umgeben,</span><span class=\"line\">so umhegt der HErr sein Volk</span><span class=\"line\">von nun an bis in Ewigkeit.</span>",
-      "kor": "<span class=\"verse-number\">2</span> ì°ë¤ì´ ìë£¨ì´ë ì ëë¦ê³¼ ê°ì´ ì¬í¸ìê»ì ê·¸ì ë°±ì±ì ì§ê¸ë¶í° ììê¹ì§ ëë¥´ìë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">2</span> Gerusalemme Ã¨ circondata dai monti; e cosÃ¬ lâEterno circonda il suo popolo, da ora in perpetuo."
+      "eng": "<span class=\"clarity-word\">As</span> the mountains <span class=\"clarity-word\">are</span> round about Jerusalem, so the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> round about his people from henceforth even for ever.",
+      "ara": "كَمَا تُحِيطُ الْجِبَالُ بِأُورُشَلِيمَ، كَذَلِكَ يُحِيطُ الرَّبُّ بِشَعْبِهِ مِنَ الآنَ وَإِلَى الأَبَدِ،",
+      "jpn": "<ruby>山々<rt>やまやま</rt></ruby>がエルサレムを<ruby>囲<rt>かこ</rt></ruby>んでいるように、<ruby>主<rt>しゅ</rt></ruby>は<ruby>今<rt>いま</rt></ruby>からとこしえにその<ruby>民<rt>たみ</rt></ruby>を<ruby>囲<rt>かこ</rt></ruby>まれる。",
+      "spa": "<span class=\"line\">Como Jerusalén tiene montes alrededor de ella,</span><span class=\"line\">así Jehová está alrededor de su pueblo,</span><span class=\"line\">desde ahora y para siempre.</span>",
+      "por": "<span class=\"clarity-word\">Assim como estão</span> os montes em redor de Jerusalém, assim o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">está</span> em volta do seu povo desde agora e para sempre.",
+      "fra": "Des montagnes entourent Jérusalem ; Ainsi l’Éternel entoure son peuple, Dès maintenant et à jamais.",
+      "deu": "<span class=\"line\">Wie Berge Jerusalem rings umgeben,</span><span class=\"line\">so umhegt der HErr sein Volk</span><span class=\"line\">von nun an bis in Ewigkeit.</span>",
+      "kor": "산들이 예루살렘을 두름과 같이 여호와께서 그의 백성을 지금부터 영원까지 두르시리로다",
+      "ita": "Gerusalemme è circondata dai monti; e così l’Eterno circonda il suo popolo, da ora in perpetuo."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙÙØ§ ÙÙØªÙØ³ÙÙÙÙØ·Ù Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù Ø¹ÙÙÙÙ ÙÙØµÙÙØ¨Ù Ø§ÙØ£ÙØ¨ÙØ±ÙØ§Ø±Ù ÙÙØ¦ÙÙÙØ§ ÙÙÙÙØ¯ÙÙ Ø§ÙØ£ÙØ¨ÙØ±ÙØ§Ø±Ù Ø£ÙÙÙØ¯ÙÙÙÙÙÙÙ Ø¥ÙÙÙÙ Ø§ÙØ¥ÙØ«ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">3</span> ããã¯<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ã¤ãã<ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æé </rb><rt>ããããã</rt></ruby>ã«ã¨ã©ã¾ããã¨ãªãã<ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã<ruby><rb>ä¸ç¾©</rb><rt>ãµã</rt></ruby>ã«<ruby><rb>ä¼¸</rb><rt>ã®</rt></ruby>ã¹ããã¨ã®ãªãããã§ããã",
-      "spa": "<span class=\"verse-number\">3</span> <span class=\"line\">Porque no reposarÃ¡ la vara de la impiedad</span><span class=\"line\"><span class=\"page-break\" data-page=\"1020\"></span>sobre la heredad de los justos,</span><span class=\"line\">no sea que extiendan los justos sus manos a la iniquidad.</span>",
-      "por": "<span class=\"verse-number\">3</span> Porque o cetro da impiedade nÃ£o permanecerÃ¡ sobre a sorte dos justos, para que o justo nÃ£o estenda as suas mÃ£os para a iniquidade.",
-      "fra": "<span class=\"verse-number\">3</span> Car le sceptre de la mÃ©chancetÃ© ne restera pas sur le lot des justes, Afin que les justes ne tendent pas les mains vers lâiniquitÃ©.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Denn der Gottlosen Zepter wird nicht lasten bleiben</span><span class=\"line\">auf dem Erbteil der Gerechten,</span><span class=\"line\">damit nicht auch die Gerechten ihre HÃ¤nde</span><span class=\"line\">ausstrecken zum Frevel.</span>",
-      "kor": "<span class=\"verse-number\">3</span> ìì¸ì ê·ê° ìì¸ë¤ì ëììë ê·¸ ê¶ì¸ë¥¼ ëë¦¬ì§ ëª»íë¦¬ë ì´ë ìì¸ë¤ë¡ íì¬ê¸ ì£ìì ìì ëì§ ìëíê² í¨ì´ë¡ë¤",
-      "ita": "<span class=\"verse-number\">3</span> PoichÃ© lo scettro dellâempietÃ  non rimarrÃ  sullâereditÃ  dei giusti, affinchÃ© i giusti non mettano mano allâiniquitÃ ."
+      "eng": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.",
+      "ara": "فَلَا يَتَسَلَّطُ الأَشْرَارُ عَلَى نَصِيبِ الأَبْرَارِ لِئَلّا يَمُدَّ الأَبْرَارُ أَيْدِيَهُمْ إِلَى الإِثْمِ.",
+      "jpn": "これは<ruby>悪<rt>あ</rt></ruby>しき<ruby>者<rt>もの</rt></ruby>のつえが<ruby>正<rt>ただ</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>の<ruby>所領<rt>しょりょう</rt></ruby>にとどまることなく、<ruby>正<rt>ただ</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>がその<ruby>手<rt>て</rt></ruby>を<ruby>不義<rt>ふぎ</rt></ruby>に<ruby>伸<rt>の</rt></ruby>べることのないためである。",
+      "spa": "<span class=\"line\">Porque no reposará la vara de la impiedad</span><span class=\"line\">sobre la heredad de los justos,</span><span class=\"line\">no sea que extiendan los justos sus manos a la iniquidad.</span>",
+      "por": "Porque o cetro da impiedade não permanecerá sobre a sorte dos justos, para que o justo não estenda as suas mãos para a iniquidade.",
+      "fra": "Car le sceptre de la méchanceté ne restera pas sur le lot des justes, Afin que les justes ne tendent pas les mains vers l’iniquité.",
+      "deu": "<span class=\"line\">Denn der Gottlosen Zepter wird nicht lasten bleiben</span><span class=\"line\">auf dem Erbteil der Gerechten,</span><span class=\"line\">damit nicht auch die Gerechten ihre Hände</span><span class=\"line\">ausstrecken zum Frevel.</span>",
+      "kor": "악인의 규가 의인들의 땅에서는 그 권세를 누리지 못하리니 이는 의인들로 하여금 죄악에 손을 대지 아니하게 함이로다",
+      "ita": "Poiché lo scettro dell’empietà non rimarrà sull’eredità dei giusti, affinché i giusti non mettano mano all’iniquità."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>Do good, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, unto <span class=\"clarity-word\">those that be</span> good, and to <span class=\"clarity-word\">them that are</span> upright in their hearts.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø£ÙØ­ÙØ³ÙÙÙ ÙÙØ§ Ø±ÙØ¨ÙÙ Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ®ÙÙÙØ§Ø±Ù ÙÙØ¥ÙÙÙÙ Ø°ÙÙÙÙ Ø§ÙÙÙÙÙÙÙØ¨Ù Ø§ÙÙÙÙØ³ÙØªÙÙÙÙÙÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">4</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãã<ruby><rb>åè¯</rb><rt>ããããã</rt></ruby>ãª<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¨ã<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¨ã«ãããããã<ruby><rb>æ½</rb><rt>ã»ã©ã</rt></ruby>ãã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">4</span> <span class=\"line\">Haz bien, oh JehovÃ¡, a los buenos</span><span class=\"line\">y a los que son rectos en sus corazones.</span>",
-      "por": "<span class=\"verse-number\">4</span> Faze o bem, Ã³ <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, aos bons e aos <span class=\"clarity-word\">que sÃ£o</span> retos de coraÃ§Ã£o.",
-      "fra": "<span class=\"verse-number\">4</span> Ãternel, rÃ©pands tes bienfaits sur les bons Et sur ceux dont le cÅur est droitÂ !",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Erweise deine GÃ¼te, HErr, den Guten</span><span class=\"line\">und denen, die redlichen Herzens sind!</span>",
-      "kor": "<span class=\"verse-number\">4</span> ì¬í¸ìì¬ ì í ìë¤ê³¼ ë§ìì´ ì ì§í ìë¤ìê² ì ëíìì",
-      "ita": "<span class=\"verse-number\">4</span> O Eterno, faâ del bene a quelli che sono buoni, e a quelli che sono retti nel loro cuore."
+      "eng": "Do good, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, unto <span class=\"clarity-word\">those that be</span> good, and to <span class=\"clarity-word\">them that are</span> upright in their hearts.",
+      "ara": "أَحْسِنْ يَا رَبُّ إِلَى الأَخْيَارِ وَإِلَى ذَوِي الْقُلُوبِ الْمُسْتَقِيمَةِ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、<ruby>善良<rt>ぜんりょう</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>と、<ruby>心<rt>こころ</rt></ruby>の<ruby>正<rt>ただ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>とに、さいわいを<ruby>施<rt>ほどこ</rt></ruby>してください。",
+      "spa": "<span class=\"line\">Haz bien, oh Jehová, a los buenos</span><span class=\"line\">y a los que son rectos en sus corazones.</span>",
+      "por": "Faze o bem, ó <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, aos bons e aos <span class=\"clarity-word\">que são</span> retos de coração.",
+      "fra": "Éternel, répands tes bienfaits sur les bons Et sur ceux dont le cœur est droit !",
+      "deu": "<span class=\"line\">Erweise deine Güte, HErr, den Guten</span><span class=\"line\">und denen, die redlichen Herzens sind!</span>",
+      "kor": "여호와여 선한 자들과 마음이 정직한 자들에게 선대하소서",
+      "ita": "O Eterno, fa’ del bene a quelli che sono buoni, e a quelli che sono retti nel loro cuore."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>As for such as turn aside unto their crooked ways, the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> shall lead them forth with the workers of iniquity: <span class=\"clarity-word\">but</span> peace <span class=\"clarity-word\">shall be</span> upon Israel.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>Ø£ÙÙÙÙØ§ Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ­ÙÙØ¯ÙÙÙÙ Ø¥ÙÙÙÙ Ø·ÙØ±ÙÙÙ ÙÙÙÙØªÙÙÙÙÙØ©ÙØ ÙÙØ¥ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ³ÙÙÙÙÙÙÙÙ Ø¥ÙÙÙÙ Ø§ÙÙÙÙÙØ§ÙÙ ÙÙØ¹Ù ÙÙØ§Ø¹ÙÙÙÙ Ø§ÙØ¥ÙØ«ÙÙÙ. ÙÙÙÙÙÙÙÙ Ø§ÙØ³ÙÙÙØ§ÙÙ ÙÙØ´ÙØ¹ÙØ¨Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">5</span> ããã<ruby><rb>è»¢</rb><rt>ã¦ã</rt></ruby>ãã¦<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>æ²</rb><rt>ã¾ã</rt></ruby>ã£ã<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã«<ruby><rb>å¥</rb><rt>ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>å»</rb><rt>ã</rt></ruby>ããããããã¤ã¹ã©ã¨ã«ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¹³å®</rb><rt>ã¸ããã</rt></ruby>ãããããã«ã",
-      "spa": "<span class=\"verse-number\">5</span> <span class=\"line\">Mas a los que se apartan tras sus perversidades,</span><span class=\"line\">JehovÃ¡ los llevarÃ¡ con los que hacen iniquidad.</span><span class=\"line\">Â¡Paz sea sobre Israel!</span>",
-      "por": "<span class=\"verse-number\">5</span> Quanto Ã queles que se desviam para os seus caminhos tortuosos, levÃ¡-los-Ã¡ o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> com os que praticam a maldade; paz <span class=\"clarity-word\">haverÃ¡</span> sobre Israel.",
-      "fra": "<span class=\"verse-number\">5</span> Mais ceux qui sâengagent dans des voies dÃ©tournÃ©es, Que lâÃternel les dÃ©truise avec ceux qui font le malÂ ! Que la paix soit sur IsraÃ«lÂ !",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Doch die auf ihre krummen Wege abbiegen,</span><span class=\"line\">die lasse der HErr hinfahren mitsamt den ÃbeltÃ¤tern!</span><span class=\"line\">Heil Ã¼ber Israel!</span>",
-      "kor": "<span class=\"verse-number\">5</span> ìê¸°ì êµ½ì ê¸¸ë¡ ì¹ì°ì¹ë ìë¤ì ì¬í¸ìê»ì ì£ë¥¼ ë²íë ìë¤ê³¼ í¨ê» ë¤ëê² íìë¦¬ë¡ë¤ ì´ì¤ë¼ììê²ë íê°ì´ ììì§ì´ë¤",
-      "ita": "<span class=\"verse-number\">5</span> Ma quanto a quelli che deviano per le loro vie tortuose, lâEterno li farÃ  andare con gli operatori dâiniquitÃ . Pace sia su Israele."
+      "eng": "As for such as turn aside unto their crooked ways, the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> shall lead them forth with the workers of iniquity: <span class=\"clarity-word\">but</span> peace <span class=\"clarity-word\">shall be</span> upon Israel.",
+      "ara": "أَمَّا الَّذِينَ يَحِيدُونَ إِلَى طُرُقٍ مُلْتَوِيَةٍ، فَإِنَّ الرَّبَّ يَسُوقُهُمْ إِلَى الْهَلاكِ مَعَ فَاعِلِي الإِثْمِ. لِيَكُنِ السَّلامُ لِشَعْبِ إِسْرَائِيلَ.",
+      "jpn": "しかし<ruby>転<rt>てん</rt></ruby>じて<ruby>自分<rt>じぶん</rt></ruby>の<ruby>曲<rt>まが</rt></ruby>った<ruby>道<rt>みち</rt></ruby>に<ruby>入<rt>い</rt></ruby>る<ruby>者<rt>もの</rt></ruby>を<ruby>主<rt>しゅ</rt></ruby>は、<ruby>悪<rt>あく</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>者<rt>もの</rt></ruby>と<ruby>共<rt>とも</rt></ruby>に<ruby>去<rt>さ</rt></ruby>らせられる。イスラエルの<ruby>上<rt>うえ</rt></ruby>に<ruby>平安<rt>へいあん</rt></ruby>があるように。",
+      "spa": "<span class=\"line\">Mas a los que se apartan tras sus perversidades,</span><span class=\"line\">Jehová los llevará con los que hacen iniquidad.</span><span class=\"line\">¡Paz sea sobre Israel!</span>",
+      "por": "Quanto àqueles que se desviam para os seus caminhos tortuosos, levá-los-á o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> com os que praticam a maldade; paz <span class=\"clarity-word\">haverá</span> sobre Israel.",
+      "fra": "Mais ceux qui s’engagent dans des voies détournées, Que l’Éternel les détruise avec ceux qui font le mal ! Que la paix soit sur Israël !",
+      "deu": "<span class=\"line\">Doch die auf ihre krummen Wege abbiegen,</span><span class=\"line\">die lasse der HErr hinfahren mitsamt den Übeltätern!</span><span class=\"line\">Heil über Israel!</span>",
+      "kor": "자기의 굽은 길로 치우치는 자들은 여호와께서 죄를 범하는 자들과 함께 다니게 하시리로다 이스라엘에게는 평강이 있을지어다",
+      "ita": "Ma quanto a quelli che deviano per le loro vie tortuose, l’Eterno li farà andare con gli operatori d’iniquità. Pace sia su Israele."
     }
   }
 }

@@ -44,6 +44,8 @@
 
   // State
   let activeLanguages = loadActiveLanguages();
+  let currentAuthSession = null;
+  let currentChapterData = null;
   let hiddenLanguages = loadHiddenLanguages();
   let manifest = null;
   let request = null;
@@ -391,8 +393,91 @@
       handle.innerHTML = '<span></span><span></span>';
 
       label.append(cb, code, handle);
+
+      if (activeLanguages.length > 1) {
+        const removeBtn = document.createElement('button');
+        removeBtn.type = 'button';
+        removeBtn.className = 'lang-pill-remove';
+        removeBtn.title = `Remove ${lang} from active columns`;
+        removeBtn.innerHTML = '&times;';
+        removeBtn.addEventListener('click', (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          activeLanguages = activeLanguages.filter(l => l !== lang);
+          hiddenLanguages = hiddenLanguages.filter(l => l !== lang);
+          try {
+            localStorage.setItem(STORAGE_KEY_LANGS, JSON.stringify(activeLanguages));
+            saveHiddenLanguages();
+          } catch (err) {}
+          renderLanguagePills();
+          applyColumnVisibility();
+          if (currentChapterData) {
+            renderChapter(currentChapterData);
+          }
+        });
+        label.appendChild(removeBtn);
+      }
+
       inner.appendChild(label);
     });
+
+    // Add Language button
+    const inactiveLangs = ALL_LANGUAGES.filter(l => !activeLanguages.includes(l.code));
+    if (inactiveLangs.length > 0) {
+      const addContainer = document.createElement('div');
+      addContainer.className = 'lang-add-container';
+
+      const addBtn = document.createElement('button');
+      addBtn.type = 'button';
+      addBtn.className = 'btn-add-reader-lang';
+      addBtn.title = 'Add another language column';
+      addBtn.innerHTML = `
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="12" y1="5" x2="12" y2="19"></line>
+          <line x1="5" y1="12" x2="19" y2="12"></line>
+        </svg>
+        <span>Add</span>
+      `;
+
+      const menu = document.createElement('div');
+      menu.className = 'lang-add-menu';
+      menu.hidden = true;
+
+      inactiveLangs.forEach(lang => {
+        const item = document.createElement('button');
+        item.type = 'button';
+        item.className = 'lang-add-item';
+        item.innerHTML = `<strong>${lang.code.toUpperCase()}</strong> <span>${lang.name}</span>`;
+        item.addEventListener('click', (e) => {
+          e.stopPropagation();
+          menu.hidden = true;
+          activeLanguages.push(lang.code);
+          try {
+            localStorage.setItem(STORAGE_KEY_LANGS, JSON.stringify(activeLanguages));
+          } catch (err) {}
+          renderLanguagePills();
+          applyColumnVisibility();
+          if (currentChapterData) {
+            renderChapter(currentChapterData);
+          }
+        });
+        menu.appendChild(item);
+      });
+
+      addBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        menu.hidden = !menu.hidden;
+      });
+
+      document.addEventListener('click', (e) => {
+        if (!addContainer.contains(e.target)) {
+          menu.hidden = true;
+        }
+      });
+
+      addContainer.append(addBtn, menu);
+      inner.appendChild(addContainer);
+    }
   }
 
   // Hiding is pure CSS: one generated rule per hidden language
@@ -683,6 +768,7 @@
     const btnText = authBtn.querySelector('.auth-btn-text') || authBtn.querySelector('span');
 
     const updateUI = (session) => {
+      currentAuthSession = session;
       if (session) {
         if (btnText) btnText.textContent = 'Sign Out';
         authBtn.title = 'Sign Out';
@@ -980,6 +1066,12 @@
 
     function handleSelection() {
       if (modal) return; // Keep modal open if user is currently interacting with it
+
+      // Disallow flashcard creation for unauthenticated users
+      if (!currentAuthSession) {
+        removePopup();
+        return;
+      }
 
       const sel = window.getSelection();
       if (!sel || sel.isCollapsed || sel.rangeCount === 0) {
@@ -1373,6 +1465,10 @@
     const cardsBtn = document.querySelector('.btn-chapter-cards');
     if (cardsBtn) {
       cardsBtn.addEventListener('click', () => {
+        if (!currentAuthSession) {
+          alert('Please sign in with Google to view and study your saved flashcards.');
+          return;
+        }
         const poly = window.POLYGLOT || {};
         const vol = poly.normalizeVolume ? poly.normalizeVolume(request?.volume || (request?.type === 'gc' ? 'gc' : 'bom')) : (request?.volume || 'bom');
         const book = request?.book || (request?.type === 'gc' ? request.session : '1-ne');
@@ -1401,17 +1497,11 @@
         };
 
     try {
-      if (typeof supabase === 'undefined') {
-        const demoCards = window.DEMO_FLASHCARDS || poly.DEMO_FLASHCARDS || [];
-        badge.textContent = demoCards.filter(matchesThisChapter).length;
+      if (typeof supabase === 'undefined' || !currentAuthSession) {
+        badge.textContent = '0';
         return;
       }
-      const { data: { session } } = await supabase.auth.getSession();
-      if (!session) {
-        const demoCards = window.DEMO_FLASHCARDS || poly.DEMO_FLASHCARDS || [];
-        badge.textContent = demoCards.filter(matchesThisChapter).length;
-        return;
-      }
+      const session = currentAuthSession;
 
       const { data, error } = await supabase
         .from('flashcards')
@@ -1452,6 +1542,7 @@
     showMessage('Loading…');
     try {
       const data = await fetchChapter(request);
+      currentChapterData = data;
       setTitle(chapterTitle(request, data));
       renderChapter(data);
       window.scrollTo(0, 0);

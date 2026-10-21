@@ -4,108 +4,108 @@
     "book": "ps",
     "chapter": 124,
     "headings": {
-      "eng": "David says, Israelâs help is in the name of the Lord.",
-      "spa": "David dice: El socorro de Israel estÃ¡ en el nombre de JehovÃ¡.",
-      "por": "Davi declara: O socorro de Israel estÃ¡ no nome do Senhor.",
-      "fra": "David dit que le secours dâIsraÃ«l est dans le nom de lâÃternel.",
-      "ita": "Davide dice: âLâaiuto di Israele Ã¨ nel nome del Signoreâ."
+      "eng": "David says, Israel’s help is in the name of the Lord.",
+      "spa": "David dice: El socorro de Israel está en el nombre de Jehová.",
+      "por": "Davi declara: O socorro de Israel está no nome do Senhor.",
+      "fra": "David dit que le secours d’Israël est dans le nom de l’Éternel.",
+      "ita": "Davide dice: “L’aiuto di Israele è nel nome del Signore”."
     },
     "intros": {
       "eng": "A Song of degrees of David.",
-      "jpn": "ããããããã <ruby><rb>é½</rb><rt>ã¿ãã</rt></ruby>ããã§ã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
-      "spa": "CÃ¡ntico de ascenso gradual.",
-      "por": "CÃ¢ntico das subidas, de Davi.",
+      "jpn": "ダビデがよんだ<ruby>都<rt>みやこ</rt></ruby>もうでの<ruby>歌<rt>うた</rt></ruby>",
+      "spa": "Cántico de ascenso gradual.",
+      "por": "Cântico das subidas, de Davi.",
       "ita": "Canto dei pellegrinaggi. Di Davide."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>If <span class=\"clarity-word\">it had</span> not <span class=\"clarity-word\">been</span> the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> who was on our side, now may Israel say;",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙÙÙ ÙÙÙÙ ÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¹ÙÙÙØ§ ÙÙÙÙÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ä»</rb><rt>ãã¾</rt></ruby>ãã¤ã¹ã©ã¨ã«ã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããããã®<ruby><rb>æ¹</rb><rt>ã»ã</rt></ruby>ã«ããããªãã£ããªãã°ã",
-      "spa": "<span class=\"verse-number\">1</span> <span class=\"line\">De no haber estado JehovÃ¡ por nosotros,</span><span class=\"line\">diga ahora Israel,</span>",
-      "por": "<span class=\"verse-number\">1</span> Se nÃ£o <span class=\"clarity-word\">fosse</span> o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, que esteve ao nosso lado, ora, diga Israel;",
-      "fra": "<span class=\"verse-number\">1</span> Cantique des degrÃ©s. De David. Sans lâÃternel qui nous protÃ©gea, QuâIsraÃ«l le diseÂ !",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Ein Wallfahrtslied (oder Stufenlied?; vgl. 120) von David.</span><span class=\"line\">âWÃ¤re der HErr nicht fÃ¼r uns gewesenâ</span><span class=\"line\">â so bekenne Israel! â</span>",
-      "kor": "<span class=\"verse-number\">1</span> ì´ì¤ë¼ìì ì´ì  ë§íê¸°ë¥¼ ì¬í¸ìê»ì ì°ë¦¬ í¸ì ê³ìì§ ìëíì¨ëë¼ë©´ ì°ë¦¬ê° ì´ë»ê² íìì¼ë´",
-      "ita": "<span class=\"verse-number\">1</span> Se lâEterno non fosse stato dalla nostra parte, lo dica pure Israele,"
+      "eng": "If <span class=\"clarity-word\">it had</span> not <span class=\"clarity-word\">been</span> the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> who was on our side, now may Israel say;",
+      "ara": "لَوْ لَمْ يَكُنِ الرَّبُّ مَعَنَا لِيَقُلْ إِسْرَائِيلُ،",
+      "jpn": "<ruby>今<rt>いま</rt></ruby>、イスラエルは<ruby>言<rt>い</rt></ruby>え、<ruby>主<rt>しゅ</rt></ruby>がもしわれらの<ruby>方<rt>ほう</rt></ruby>におられなかったならば、",
+      "spa": "<span class=\"line\">De no haber estado Jehová por nosotros,</span><span class=\"line\">diga ahora Israel,</span>",
+      "por": "Se não <span class=\"clarity-word\">fosse</span> o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, que esteve ao nosso lado, ora, diga Israel;",
+      "fra": "Cantique des degrés. De David. Sans l’Éternel qui nous protégea, Qu’Israël le dise !",
+      "deu": "<span class=\"line\">Ein Wallfahrtslied (oder Stufenlied?; vgl. 120) von David.</span><span class=\"line\">„Wäre der HErr nicht für uns gewesen”</span><span class=\"line\">— so bekenne Israel! —</span>",
+      "kor": "이스라엘은 이제 말하기를 여호와께서 우리 편에 계시지 아니하셨더라면 우리가 어떻게 하였으랴",
+      "ita": "Se l’Eterno non fosse stato dalla nostra parte, lo dica pure Israele,"
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>If <span class=\"clarity-word\">it had</span> not <span class=\"clarity-word\">been</span> the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> who was on our side, when men rose up against us:",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙ ÙÙÙÙ ÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¹ÙÙÙØ§Ø Ø¹ÙÙÙØ¯ÙÙÙØ§ ÙÙØ§ÙÙ Ø§ÙÙÙÙØ§Ø³Ù Ø¹ÙÙÙÙÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ããããã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ãã£ã¦<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¡ããã£ãã¨ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããããã®<ruby><rb>æ¹</rb><rt>ã»ã</rt></ruby>ã«ããããªãã£ããªãã°ã",
-      "spa": "<span class=\"verse-number\">2</span> <span class=\"line\">de no haber estado JehovÃ¡ por nosotros</span><span class=\"line\">cuando se levantaron contra nosotros los hombres,</span>",
-      "por": "<span class=\"verse-number\">2</span> Se nÃ£o <span class=\"clarity-word\">fosse</span> o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, que esteve ao nosso lado, quando os homens se levantaram contra nÃ³s,",
-      "fra": "<span class=\"verse-number\">2</span> Sans lâÃternel qui nous protÃ©gea, Quand les hommes sâÃ©levÃ¨rent contre nous,",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">âwÃ¤re der HErr nicht fÃ¼r uns gewesen,</span><span class=\"line\">âals Menschen sich gegen uns erhoben:</span>",
-      "kor": "<span class=\"verse-number\">2</span> ì¬ëë¤ì´ ì°ë¦¬ë¥¼ ì¹ë¬ ì¼ì´ë  ëì ì¬í¸ìê»ì ì°ë¦¬ í¸ì ê³ìì§ ìëíì¨ëë¼ë©´",
-      "ita": "<span class=\"verse-number\">2</span> se lâEterno non fosse stato dalla nostra parte, quando gli uomini si levarono contro noi,"
+      "eng": "If <span class=\"clarity-word\">it had</span> not <span class=\"clarity-word\">been</span> the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> who was on our side, when men rose up against us:",
+      "ara": "لَوْ لَمْ يَكُنِ الرَّبُّ مَعَنَا، عِنْدَمَا قَامَ النَّاسُ عَلَيْنَا.",
+      "jpn": "<ruby>人々<rt>ひとびと</rt></ruby>がわれらに<ruby>逆<rt>さか</rt></ruby>らって<ruby>立<rt>た</rt></ruby>ちあがったとき、<ruby>主<rt>しゅ</rt></ruby>がもしわれらの<ruby>方<rt>ほう</rt></ruby>におられなかったならば、",
+      "spa": "<span class=\"line\">de no haber estado Jehová por nosotros</span><span class=\"line\">cuando se levantaron contra nosotros los hombres,</span>",
+      "por": "Se não <span class=\"clarity-word\">fosse</span> o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, que esteve ao nosso lado, quando os homens se levantaram contra nós,",
+      "fra": "Sans l’Éternel qui nous protégea, Quand les hommes s’élevèrent contre nous,",
+      "deu": "<span class=\"line\">„wäre der HErr nicht für uns gewesen,</span><span class=\"line\">„als Menschen sich gegen uns erhoben:</span>",
+      "kor": "사람들이 우리를 치러 일어날 때에 여호와께서 우리 편에 계시지 아니하셨더라면",
+      "ita": "se l’Eterno non fosse stato dalla nostra parte, quando gli uomini si levarono contro noi,"
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>Then they had swallowed us up quick, when their wrath was kindled against us:",
-      "ara": "<span class=\"verse-number\">Ù£ </span>ÙØ§Ø¨ÙØªÙÙÙØ¹ÙÙÙÙØ§ ÙÙÙÙØ­ÙÙÙ Ø£ÙØ­ÙÙÙØ§Ø¡ÙØ Ø¹ÙÙÙØ¯ÙÙÙØ§ Ø§Ø­ÙØªÙØ¯ÙÙÙ ØºÙØ¶ÙØ¨ÙÙÙÙÙ Ø¹ÙÙÙÙÙÙÙØ§Ø",
-      "jpn": "<span class=\"verse-number\">3</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããããã«ããã£ã¦<ruby><rb>ç</rb><rt>ã</rt></ruby>ããã£ãã¨ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ãããã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã¦ããã¾ã¾ã§ãã®ãã ã§ãããã",
-      "spa": "<span class=\"verse-number\">3</span> <span class=\"line\">vivos nos habrÃ­an tragado entonces,</span><span class=\"line\">cuando se encendiÃ³ su furor contra nosotros.</span>",
-      "por": "<span class=\"verse-number\">3</span> Eles entÃ£o nos teriam engolido vivos, quando a sua ira se acendesse contra nÃ³s.",
-      "fra": "<span class=\"verse-number\">3</span> Ils nous auraient engloutis tout vivants, Quand leur colÃ¨re sâenflamma contre nousÂ ;",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">âdann hÃ¤tten sie uns lebendig verschlungen,</span><span class=\"line\">âals ihr Zorn gegen uns entbrannt war;</span>",
-      "kor": "<span class=\"verse-number\">3</span> ê·¸ ëì ê·¸ë¤ì ë¸ì¬ìì´ ì°ë¦¬ìê² ë§¹ë ¬íì¬ ì°ë¦¬ë¥¼ ì° ì±ë¡ ì¼ì¼°ì ê²ì´ë©°",
-      "ita": "<span class=\"verse-number\">3</span> allora ci avrebbero inghiottiti tutti vivi, quando la loro ira ardeva contro di noi;"
+      "eng": "Then they had swallowed us up quick, when their wrath was kindled against us:",
+      "ara": "لابْتَلَعُونَا وَنَحْنُ أَحْيَاءُ، عِنْدَمَا احْتَدَمَ غَضَبُهُمْ عَلَيْنَا،",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らの<ruby>怒<rt>いか</rt></ruby>りがわれらにむかって<ruby>燃<rt>も</rt></ruby>えたったとき、<ruby>彼<rt>かれ</rt></ruby>らはわれらを<ruby>生<rt>い</rt></ruby>きているままで、のんだであろう。",
+      "spa": "<span class=\"line\">vivos nos habrían tragado entonces,</span><span class=\"line\">cuando se encendió su furor contra nosotros.</span>",
+      "por": "Eles então nos teriam engolido vivos, quando a sua ira se acendesse contra nós.",
+      "fra": "Ils nous auraient engloutis tout vivants, Quand leur colère s’enflamma contre nous ;",
+      "deu": "<span class=\"line\">„dann hätten sie uns lebendig verschlungen,</span><span class=\"line\">„als ihr Zorn gegen uns entbrannt war;</span>",
+      "kor": "그 때에 그들의 노여움이 우리에게 맹렬하여 우리를 산 채로 삼켰을 것이며",
+      "ita": "allora ci avrebbero inghiottiti tutti vivi, quando la loro ira ardeva contro di noi;"
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>Then the waters had overwhelmed us, the stream had gone over our soul:",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙÙØ¬ÙØ±ÙÙÙØªÙÙÙØ§ Ø§ÙÙÙÙÙÙØ§ÙÙØ ÙÙÙÙØ·ÙÙÙØ§ Ø§ÙØ³ÙÙÙÙÙÙ Ø¹ÙÙÙÙÙÙÙØ§Ø",
-      "jpn": "<span class=\"verse-number\">4</span> ã¾ã<ruby><rb>å¤§æ°´</rb><rt>ããã¿ã</rt></ruby>ã¯ãããã<ruby><rb>æ¼</rb><rt>ã</rt></ruby>ã<ruby><rb>æµ</rb><rt>ãªã</rt></ruby>ãã<ruby><rb>æ¿æµ</rb><rt>ããããã</rt></ruby>ã¯ãããã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¶</rb><rt>ã</rt></ruby>ãã",
-      "spa": "<span class=\"verse-number\">4</span> <span class=\"line\">Entonces nos habrÃ­an inundado las aguas;</span><span class=\"line\">sobre nuestra alma hubiera pasado el torrente;</span>",
-      "por": "<span class=\"verse-number\">4</span> EntÃ£o as Ã¡guas teriam transbordado sobre nÃ³s, <span class=\"clarity-word\">e</span> a corrente teria passado sobre a nossa alma;",
-      "fra": "<span class=\"verse-number\">4</span> Alors les eaux nous auraient submergÃ©s, Les torrents seraient passÃ©s sur notre Ã¢meÂ ;",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">âdann hÃ¤tten die Wasser uns Ã¼berflutet,</span><span class=\"line\">âein Wildbach hÃ¤tte sich Ã¼ber uns ergossen;</span>",
-      "kor": "<span class=\"verse-number\">4</span> ê·¸ ëì ë¬¼ì´ ì°ë¦¬ë¥¼ í©ì¸ë©° ìë´ê° ì°ë¦¬ ìí¼ì ì¼ì¼°ì ê²ì´ë©°",
-      "ita": "<span class=\"verse-number\">4</span> allora le acque ci avrebbero sommerso, il torrente sarebbe passato sulla nostra anima;"
+      "eng": "Then the waters had overwhelmed us, the stream had gone over our soul:",
+      "ara": "وَلَجَرَفَتْنَا الْمِيَاهُ، وَلَطَمَا السَّيْلُ عَلَيْنَا،",
+      "jpn": "また<ruby>大水<rt>おおみず</rt></ruby>はわれらを<ruby>押<rt>お</rt></ruby>し<ruby>流<rt>なが</rt></ruby>し、<ruby>激流<rt>げきりゅう</rt></ruby>はわれらの<ruby>上<rt>うえ</rt></ruby>を<ruby>越<rt>こ</rt></ruby>え、",
+      "spa": "<span class=\"line\">Entonces nos habrían inundado las aguas;</span><span class=\"line\">sobre nuestra alma hubiera pasado el torrente;</span>",
+      "por": "Então as águas teriam transbordado sobre nós, <span class=\"clarity-word\">e</span> a corrente teria passado sobre a nossa alma;",
+      "fra": "Alors les eaux nous auraient submergés, Les torrents seraient passés sur notre âme ;",
+      "deu": "<span class=\"line\">„dann hätten die Wasser uns überflutet,</span><span class=\"line\">„ein Wildbach hätte sich über uns ergossen;</span>",
+      "kor": "그 때에 물이 우리를 휩쓸며 시내가 우리 영혼을 삼켰을 것이며",
+      "ita": "allora le acque ci avrebbero sommerso, il torrente sarebbe passato sulla nostra anima;"
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>Then the proud waters had gone over our soul.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙØ·ÙØºÙØªÙ Ø§ÙÙÙÙÙÙØ§ÙÙ Ø§ÙØ¹ÙØ§ØªÙÙÙØ©Ù Ø¹ÙÙÙÙ Ø£ÙÙÙÙÙØ³ÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">5</span> ãã<ruby><rb>å·»</rb><rt>ã¾</rt></ruby>ã<ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã¯ãããã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¶</rb><rt>ã</rt></ruby>ããã§ãããã",
-      "spa": "<span class=\"verse-number\">5</span> <span class=\"line\">hubieran entonces pasado sobre nuestra alma</span><span class=\"line\">las impetuosas aguas.</span>",
-      "por": "<span class=\"verse-number\">5</span> EntÃ£o as Ã¡guas altivas teriam passado sobre a nossa alma.",
-      "fra": "<span class=\"verse-number\">5</span> Alors seraient passÃ©s sur notre Ã¢me Les flots impÃ©tueux.",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">âdann wÃ¤ren Ã¼ber uns hingegangen</span><span class=\"line\">âdie wildwogenden (oder: Ã¼berwallenden) Fluten.â</span>",
-      "kor": "<span class=\"verse-number\">5</span> ê·¸ ëì ëì¹ë ë¬¼ì´ ì°ë¦¬ ìí¼ì ì¼ì¼°ì ê²ì´ë¼ í  ê²ì´ë¡ë¤",
-      "ita": "<span class=\"verse-number\">5</span> allora le acque orgogliose sarebbero passate sulla nostra anima."
+      "eng": "Then the proud waters had gone over our soul.",
+      "ara": "وَلَطَغَتِ الْمِيَاهُ العَاتِيَةُ عَلَى أَنْفُسِنَا.",
+      "jpn": "さか<ruby>巻<rt>ま</rt></ruby>く<ruby>水<rt>みず</rt></ruby>はわれらの<ruby>上<rt>うえ</rt></ruby>を<ruby>越<rt>こ</rt></ruby>えたであろう。",
+      "spa": "<span class=\"line\">hubieran entonces pasado sobre nuestra alma</span><span class=\"line\">las impetuosas aguas.</span>",
+      "por": "Então as águas altivas teriam passado sobre a nossa alma.",
+      "fra": "Alors seraient passés sur notre âme Les flots impétueux.",
+      "deu": "<span class=\"line\">„dann wären über uns hingegangen</span><span class=\"line\">„die wildwogenden (oder: überwallenden) Fluten.”</span>",
+      "kor": "그 때에 넘치는 물이 우리 영혼을 삼켰을 것이라 할 것이로다",
+      "ita": "allora le acque orgogliose sarebbero passate sulla nostra anima."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>Blessed <span class=\"clarity-word\">be</span> the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, who hath not given us <span class=\"clarity-word\">as</span> a prey to their teeth.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ¨ÙØ§Ø±ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø§ÙÙÙØ°ÙÙ ÙÙÙÙ ÙÙØ¬ÙØ¹ÙÙÙÙÙØ§ ÙÙØ±ÙÙØ³ÙØ©Ù ÙØ£ÙØ³ÙÙÙØ§ÙÙ Ø£ÙØ¹ÙØ¯ÙØ§Ø¦ÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã»ãã¹ãããªã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ãããããããã¨ãã¦<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>æ­¯</rb><rt>ã¯</rt></ruby>ã«ãããããªãã£ãã",
-      "spa": "<span class=\"verse-number\">6</span> <span class=\"line\">Â¡Bendito sea JehovÃ¡,</span><span class=\"line\">que no nos dio como presa a los dientes de ellos!</span>",
-      "por": "<span class=\"verse-number\">6</span> Bendito <span class=\"clarity-word\">seja</span> o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, que nÃ£o nos deu por presa aos seus dentes.",
-      "fra": "<span class=\"verse-number\">6</span> BÃ©ni soit lâÃternel, Qui ne nous a pas livrÃ©s en proie Ã  leurs dentsÂ !",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">Gepriesen sei der HErr, der uns nicht ihren ZÃ¤hnen</span><span class=\"line\">zum Raub hat preisgegeben!</span>",
-      "kor": "<span class=\"verse-number\">6</span> ì°ë¦¬ë¥¼ ë´ì£¼ì´ ê·¸ë¤ì ì´ì ì¹íì§ ìëíê² íì  ì¬í¸ìë¥¼ ì°¬ì¡í ì§ë¡ë¤",
-      "ita": "<span class=\"verse-number\">6</span> Benedetto sia lâEterno che non ci ha dato in preda ai loro denti!"
+      "eng": "Blessed <span class=\"clarity-word\">be</span> the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, who hath not given us <span class=\"clarity-word\">as</span> a prey to their teeth.",
+      "ara": "مُبَارَكٌ الرَّبُّ الَّذِي لَمْ يَجْعَلْنَا فَرِيسَةً لأَسْنَانِ أَعْدَائِنَا.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>はほむべきかな。<ruby>主<rt>しゅ</rt></ruby>はわれらをえじきとして<ruby>彼<rt>かれ</rt></ruby>らの<ruby>歯<rt>は</rt></ruby>にわたされなかった。",
+      "spa": "<span class=\"line\">¡Bendito sea Jehová,</span><span class=\"line\">que no nos dio como presa a los dientes de ellos!</span>",
+      "por": "Bendito <span class=\"clarity-word\">seja</span> o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, que não nos deu por presa aos seus dentes.",
+      "fra": "Béni soit l’Éternel, Qui ne nous a pas livrés en proie à leurs dents !",
+      "deu": "<span class=\"line\">Gepriesen sei der HErr, der uns nicht ihren Zähnen</span><span class=\"line\">zum Raub hat preisgegeben!</span>",
+      "kor": "우리를 내주어 그들의 이에 씹히지 아니하게 하신 여호와를 찬송할지로다",
+      "ita": "Benedetto sia l’Eterno che non ci ha dato in preda ai loro denti!"
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙØ¬ÙØªÙ ÙÙÙÙÙØ³ÙÙÙØ§ ÙÙØ§ÙÙØ¹ÙØµÙÙÙÙØ±Ù ÙÙÙÙ ÙÙØ®ÙÙ Ø§ÙØµÙÙÙÙÙØ§Ø¯ÙÙÙÙ: Ø§ÙÙÙÙØ³ÙØ±Ù Ø§ÙÙÙÙØ®ÙÙ ÙÙÙÙØ¬ÙÙÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">7</span> ãããã¯<ruby><rb>éé³¥</rb><rt>ãã¡ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ããããªãã®ããã<ruby><rb>é³¥</rb><rt>ã¨ã</rt></ruby>ã®ããã«ã®ããããããªã¯<ruby><rb>ç ´</rb><rt>ãã¶</rt></ruby>ãã¦ãããã¯ã®ãããã",
-      "spa": "<span class=\"verse-number\">7</span> <span class=\"line\">Nuestra alma ha escapado cual ave del lazo de los cazadores;</span><span class=\"line\">se rompiÃ³ el lazo, y escapamos nosotros.</span>",
-      "por": "<span class=\"verse-number\">7</span> A nossa alma escapou, como um pÃ¡ssaro do laÃ§o dos passarinheiros; o laÃ§o quebrou-se, e nÃ³s escapamos.",
-      "fra": "<span class=\"verse-number\">7</span> Notre Ã¢me sâest Ã©chappÃ©e comme lâoiseau du filet des oiseleursÂ ; Le filet sâest rompu et nous nous sommes Ã©chappÃ©s.",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">Unsre Seele ist entschlÃ¼pft wie ein Vogel dem Netz der Vogelsteller:</span><span class=\"line\">das Netz ist zerrissen, und wir sind frei geworden.</span>",
-      "kor": "<span class=\"verse-number\">7</span> ì°ë¦¬ì ìí¼ì´ ì¬ë¥ê¾¼ì ì¬ë¬´ìì ë²ì´ë ì ê°ì´ ëìëë ì¬ë¬´ê° ëì´ì§ë¯ë¡ ì°ë¦¬ê° ë²ì´ë¬ëë¤",
-      "ita": "<span class=\"verse-number\">7</span> La nostra anima Ã¨ scampata, come un uccello dal laccio degli uccellatori; il laccio Ã¨ stato rotto, e noi siamo scampati."
+      "eng": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.",
+      "ara": "نَجَتْ نُفُوسُنَا كَالْعُصْفُورِ مِنْ فَخِّ الصَّيَّادِينَ: انْكَسَرَ الْفَخُّ وَنَجَوْنَا.",
+      "jpn": "われらは<ruby>野鳥<rt>やちょう</rt></ruby>を<ruby>捕<rt>とら</rt></ruby>えるわなをのがれる<ruby>鳥<rt>とり</rt></ruby>のようにのがれた。わなは<ruby>破<rt>やぶ</rt></ruby>れてわれらはのがれた。",
+      "spa": "<span class=\"line\">Nuestra alma ha escapado cual ave del lazo de los cazadores;</span><span class=\"line\">se rompió el lazo, y escapamos nosotros.</span>",
+      "por": "A nossa alma escapou, como um pássaro do laço dos passarinheiros; o laço quebrou-se, e nós escapamos.",
+      "fra": "Notre âme s’est échappée comme l’oiseau du filet des oiseleurs ; Le filet s’est rompu et nous nous sommes échappés.",
+      "deu": "<span class=\"line\">Unsre Seele ist entschlüpft wie ein Vogel dem Netz der Vogelsteller:</span><span class=\"line\">das Netz ist zerrissen, und wir sind frei geworden.</span>",
+      "kor": "우리의 영혼이 사냥꾼의 올무에서 벗어난 새 같이 되었나니 올무가 끊어지므로 우리가 벗어났도다",
+      "ita": "La nostra anima è scampata, come un uccello dal laccio degli uccellatori; il laccio è stato rotto, e noi siamo scampati."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>Our help <span class=\"clarity-word\">is</span> in the name of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, who made heaven and earth.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø¹ÙÙÙÙÙÙÙØ§ Ø¨ÙØ§Ø³ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ØµÙØ§ÙÙØ¹Ù Ø§ÙØ³ÙÙÙÙØ§ÙÙØ§ØªÙ ÙÙØ§ÙØ£ÙØ±ÙØ¶Ù.",
-      "jpn": "<span class=\"verse-number\">8</span> ãããã®<ruby><rb>å©</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>å¤©å°</rb><rt>ã¦ãã¡</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ã¿<ruby><rb>å</rb><rt>ãª</rt></ruby>ã«ããã",
-      "spa": "<span class=\"verse-number\">8</span> <span class=\"line\">Nuestro socorro estÃ¡ en el nombre de JehovÃ¡,</span><span class=\"line\">que hizo el cielo y la tierra.</span>",
-      "por": "<span class=\"verse-number\">8</span> O nosso socorro <span class=\"clarity-word\">estÃ¡</span> no nome do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, que fez o cÃ©u e a terra.",
-      "fra": "<span class=\"verse-number\">8</span> Notre secours est dans le nom de lâÃternel, Qui a fait les cieux et la terre.",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">Unsre Hilfe steht im Namen des HErrn,</span><span class=\"line\">der Himmel und Erde geschaffen.</span>",
-      "kor": "<span class=\"verse-number\">8</span> ì°ë¦¬ì ëìì ì²ì§ë¥¼ ì§ì¼ì  ì¬í¸ìì ì´ë¦ì ìëë¤",
-      "ita": "<span class=\"verse-number\">8</span> Il nostro aiuto Ã¨ nel nome dellâEterno, che ha fatto il cielo e la terra."
+      "eng": "Our help <span class=\"clarity-word\">is</span> in the name of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, who made heaven and earth.",
+      "ara": "عَوْنُنَا بِاسْمِ الرَّبِّ صَانِعِ السَّمَاوَاتِ وَالأَرْضِ.",
+      "jpn": "われらの<ruby>助<rt>たす</rt></ruby>けは<ruby>天地<rt>てんち</rt></ruby>を<ruby>造<rt>つく</rt></ruby>られた<ruby>主<rt>しゅ</rt></ruby>のみ<ruby>名<rt>な</rt></ruby>にある。",
+      "spa": "<span class=\"line\">Nuestro socorro está en el nombre de Jehová,</span><span class=\"line\">que hizo el cielo y la tierra.</span>",
+      "por": "O nosso socorro <span class=\"clarity-word\">está</span> no nome do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, que fez o céu e a terra.",
+      "fra": "Notre secours est dans le nom de l’Éternel, Qui a fait les cieux et la terre.",
+      "deu": "<span class=\"line\">Unsre Hilfe steht im Namen des HErrn,</span><span class=\"line\">der Himmel und Erde geschaffen.</span>",
+      "kor": "우리의 도움은 천지를 지으신 여호와의 이름에 있도다",
+      "ita": "Il nostro aiuto è nel nome dell’Eterno, che ha fatto il cielo e la terra."
     }
   }
 }

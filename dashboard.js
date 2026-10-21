@@ -862,6 +862,7 @@
     const btnText = authBtn.querySelector('.auth-btn-text') || authBtn.querySelector('span');
 
     const updateUI = (session) => {
+      currentUserSession = session;
       if (session) {
         if (btnText) btnText.textContent = 'Sign Out';
         authBtn.title = 'Sign Out';
@@ -872,9 +873,8 @@
       } else {
         if (btnText) btnText.textContent = 'Continue with Google';
         authBtn.title = 'Continue with Google';
-        populateDecksList();
-        buildReviewQueue();
-        renderCurrentFlashcard();
+        userFlashcards = [];
+        renderUnauthenticatedFlashcardsState();
       }
     };
 
@@ -916,6 +916,7 @@
   // 7. Flashcards & Spaced Repetition (SRS)
   // =========================================================================
 
+  let currentUserSession = null;
   let userFlashcards = [];
   let reviewQueue = [];
   let currentCardIndex = 0;
@@ -1014,6 +1015,90 @@
     }
   }
 
+    function renderUnauthenticatedFlashcardsState() {
+    const stage = document.querySelector('.flashcard-stage');
+    if (!stage) return;
+
+    stage.classList.remove('is-revealed');
+
+    const sourceRef = stage.querySelector('.flashcard-source-ref');
+    if (sourceRef) sourceRef.textContent = 'Flashcards';
+
+    const counter = stage.querySelector('.flashcard-counter');
+    if (counter) counter.textContent = '';
+
+    const navControls = stage.querySelector('.flashcard-nav-controls');
+    if (navControls) navControls.style.display = 'none';
+
+    const editBtn = stage.querySelector('.flashcard-btn-edit');
+    if (editBtn) editBtn.style.display = 'none';
+
+    const cardSurface = stage.querySelector('.flashcard-card-surface');
+    if (cardSurface) {
+      cardSurface.style.cursor = 'default';
+      cardSurface.innerHTML = `
+        <div class="flashcard-unauth-container">
+          <div class="flashcard-unauth-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+            </svg>
+          </div>
+          <h3 class="flashcard-unauth-title">Sign In to Use Flashcards</h3>
+          <p class="flashcard-unauth-desc">
+            Spaced repetition flashcards and custom chapter decks require an authorized account. Sign in with Google to create cards while reading scriptures and review them daily.
+          </p>
+          <button type="button" class="btn-flashcard-signin">
+            <svg width="18" height="18" viewBox="0 0 24 24">
+              <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+              <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/>
+              <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.06H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.94l2.85-2.22.81-.63z"/>
+              <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.06l3.66 2.84c.87-2.6 3.3-4.52 6.16-4.52z"/>
+            </svg>
+            <span>Sign in with Google</span>
+          </button>
+        </div>
+      `;
+
+      const signinBtn = cardSurface.querySelector('.btn-flashcard-signin');
+      if (signinBtn) {
+        signinBtn.addEventListener('click', async (e) => {
+          e.stopPropagation();
+          if (typeof supabase !== 'undefined') {
+            await supabase.auth.signInWithOAuth({
+              provider: 'google',
+              options: {
+                redirectTo: window.location.origin + window.location.pathname
+              }
+            });
+          }
+        });
+      }
+    }
+
+    const ratingsRow = stage.querySelector('.flashcard-ratings-row');
+    if (ratingsRow) {
+      ratingsRow.style.display = 'none';
+      ratingsRow.innerHTML = '';
+    }
+
+    const footerHint = stage.querySelector('.flashcard-footer-hint');
+    if (footerHint) footerHint.innerHTML = '';
+
+    const decksList = document.querySelector('.decks-list');
+    if (decksList) {
+      decksList.innerHTML = `
+        <div class="decks-unauth-notice">
+          Sign in to view and study your saved flashcard decks.
+        </div>
+      `;
+    }
+
+    const runBtn = document.querySelector('.decks-actions-bar .btn-deck-action:first-child');
+    const viewBtn = document.querySelector('.decks-actions-bar .btn-deck-action:last-child');
+    if (runBtn) runBtn.disabled = true;
+    if (viewBtn) viewBtn.disabled = true;
+  }
+
   function renderEmptyFlashcardsState() {
     const stage = document.querySelector('.flashcard-stage');
     if (!stage) return;
@@ -1054,9 +1139,18 @@
     const decksList = document.querySelector('.decks-list');
     if (!decksList) return;
 
+    if (!currentUserSession) {
+      decksList.innerHTML = `
+        <div class="decks-unauth-notice">
+          Sign in to view and study your saved flashcard decks.
+        </div>
+      `;
+      return;
+    }
+
     decksList.innerHTML = '';
 
-    const cards = (userFlashcards && userFlashcards.length > 0) ? userFlashcards : DEMO_FLASHCARDS;
+    const cards = (userFlashcards && userFlashcards.length > 0) ? userFlashcards : [];
 
     // Group cards by chapter deck
     const deckMap = {};
@@ -1308,14 +1402,18 @@
 
   async function fetchVerseText(lang, vol, book, ch, verse) {
     const normalizedVol = (vol === 'bofm') ? 'bom' : vol;
-    const cacheKey = `${lang}/${normalizedVol}/${book}/${ch}`;
+    const cacheKey = ${normalizedVol}//;
 
     let chapterData = chapterCache.get(cacheKey);
     if (!chapterData) {
       try {
-        let res = await fetch(`raw_cache/${lang}/${normalizedVol}/${book}/${ch}.json`);
+        let res = await fetch(data///.json);
         if (!res.ok) {
-          res = await fetch(`data/scriptures/${normalizedVol}/${book}/${ch}.json`);
+          res = await fetch(
+aw_cache////.json);
+        }
+        if (!res.ok) {
+          res = await fetch(data/scriptures///.json);
         }
         if (res.ok) {
           chapterData = await res.json();
@@ -1327,6 +1425,13 @@
     }
 
     if (chapterData) {
+      if (chapterData.verses && chapterData.verses[String(verse)]) {
+        const verseObj = chapterData.verses[String(verse)];
+        const verseText = verseObj[lang] || verseObj['eng'] || '';
+        if (verseText) {
+          return cleanVerseHtml(verseText);
+        }
+      }
       const rawVerse = chapterData[verse] || chapterData[String(verse)];
       if (rawVerse) {
         return cleanVerseHtml(rawVerse);
@@ -1339,8 +1444,7 @@
   const DEMO_FLASHCARDS = window.POLYGLOT?.DEMO_FLASHCARDS || window.DEMO_FLASHCARDS || [];
 
   function getSelectedDeckCards() {
-    const isUserSet = userFlashcards && userFlashcards.length > 0;
-    const baseCards = isUserSet ? userFlashcards : DEMO_FLASHCARDS;
+    const baseCards = (userFlashcards && userFlashcards.length > 0) ? userFlashcards : [];
 
     if (isDueTodaySelected()) {
       const now = new Date();
@@ -1356,6 +1460,10 @@
   }
 
   function openFlashcardListModal() {
+    if (!currentUserSession) {
+      alert('Please sign in with Google to view and study your flashcard decks.');
+      return;
+    }
     let modal = document.querySelector('.flashcard-list-modal-backdrop');
     if (modal) modal.remove();
 
@@ -1672,8 +1780,7 @@
   }
 
   function buildReviewQueue() {
-    const isUserSet = userFlashcards && userFlashcards.length > 0;
-    const baseCards = isUserSet ? userFlashcards : DEMO_FLASHCARDS;
+    const baseCards = (userFlashcards && userFlashcards.length > 0) ? userFlashcards : [];
 
     const now = new Date();
     let filtered;
@@ -1743,6 +1850,38 @@
   function renderCurrentFlashcard() {
     const stage = document.querySelector('.flashcard-stage');
     if (!stage) return;
+
+    if (!currentUserSession) {
+      renderUnauthenticatedFlashcardsState();
+      return;
+    }
+
+    // Restore stage elements if they were replaced by unauthenticated state
+    const cardSurface = stage.querySelector('.flashcard-card-surface');
+    let layout = stage.querySelector('.flashcard-body-layout');
+    if (!layout && cardSurface) {
+      cardSurface.style.cursor = 'pointer';
+      cardSurface.innerHTML = `
+        <div class="flashcard-body-layout">
+          <div class="flashcard-left-col">
+            <p class="flashcard-prompt-word"></p>
+            <div class="flashcard-subprompt"></div>
+          </div>
+          <div class="flashcard-right-col"></div>
+        </div>
+      `;
+    }
+
+    const navControls = stage.querySelector('.flashcard-nav-controls');
+    if (navControls) navControls.style.display = '';
+
+    const editBtn = stage.querySelector('.flashcard-btn-edit');
+    if (editBtn) editBtn.style.display = '';
+
+    const runBtn = document.querySelector('.decks-actions-bar .btn-deck-action:first-child');
+    const viewBtn = document.querySelector('.decks-actions-bar .btn-deck-action:last-child');
+    if (runBtn) runBtn.disabled = false;
+    if (viewBtn) viewBtn.disabled = false;
 
     const cards = getActiveCards();
     if (!cards || cards.length === 0) {
@@ -2447,6 +2586,7 @@
     const cardSurface = document.querySelector('.flashcard-card-surface');
     if (cardSurface) {
       cardSurface.onclick = (e) => {
+        if (!currentUserSession) return;
         // Do not flip if clicked on an interactive button or control inside
         if (e.target.closest('button, input, select, textarea, a')) {
           return;
@@ -2490,6 +2630,7 @@
     // Keyboard shortcut for flashcard review (Space to flip, Left/Right arrows to browse, V to toggle verse, 1-4 to rate)
     document.addEventListener('keydown', (e) => {
       if (e.target.closest('input, textarea, [contenteditable]')) return;
+      if (!currentUserSession) return;
 
       if (e.code === 'Space') {
         e.preventDefault();

@@ -20,8 +20,8 @@
     { code: 'ita', name: 'Italian (Italiano)' }
   ];
 
-  const DEFAULT_LANGUAGES = ['eng', 'jpn', 'zhs', 'zht', 'spa'];
-  const STORAGE_KEY_LANGS = 'polyglot_active_languages';
+  const DEFAULT_LANGUAGES = ['eng'];
+  const STORAGE_KEY_LANGS = 'polyglot_active_languages_v2';
 
   // Canonical Volume & Book Display Names
   const VOLUME_NAMES = {
@@ -319,93 +319,7 @@
     return `${bookName} ${ch}`;
   }
 
-  const DEMO_FLASHCARDS = [
-    {
-      id: 'demo-card-1',
-      source_lang: 'jpn',
-      source_text: '悔い改め',
-      reference_id: 'bom/1-ne/1/4',
-      tags: ['bom/1-ne/1', '1-ne'],
-      target_translations: {
-        reading: '<ruby>悔<rt>く</rt></ruby>い<ruby>改<rt>あらた</rt></ruby>め',
-        definitions: {
-          eng: 'repentance, to repent',
-          spa: 'arrepentirse, arrepentimiento',
-          jpn: '<ruby>悔<rt>く</rt></ruby>い<ruby>改<rt>あらた</rt></ruby>め (くいあらため)',
-          zhs: '<ruby>悔<rt>huǐ</rt></ruby><ruby>改<rt>gǎi</rt></ruby>',
-          fra: 'se repentir, repentir'
-        }
-      }
-    },
-    {
-      id: 'demo-card-2',
-      source_lang: 'zhs',
-      source_text: '永生',
-      reference_id: 'bom/2-ne/2/25',
-      tags: ['bom/2-ne/2', '2-ne'],
-      target_translations: {
-        reading: '<ruby>永<rt>yǒng</rt></ruby><ruby>生<rt>shēng</rt></ruby>',
-        definitions: {
-          eng: 'eternal life',
-          spa: 'vida eterna',
-          jpn: '<ruby>永<rt>えい</rt></ruby><ruby>遠<rt>えん</rt></ruby>の<ruby>命<rt>いのち</rt></ruby>',
-          zhs: '<ruby>永<rt>yǒng</rt></ruby><ruby>生<rt>shēng</rt></ruby>',
-          fra: 'vie éternelle'
-        }
-      }
-    },
-    {
-      id: 'demo-card-3',
-      source_lang: 'spa',
-      source_text: 'esperanza',
-      reference_id: 'bom/alma/32/21',
-      tags: ['bom/alma/32', 'alma'],
-      target_translations: {
-        reading: '',
-        definitions: {
-          eng: 'hope',
-          spa: 'esperanza',
-          jpn: '<ruby>希<rt>き</rt></ruby><ruby>望<rt>ぼう</rt></ruby>',
-          zhs: '<ruby>指<rt>zhǐ</rt></ruby><ruby>望<rt>wàng</rt></ruby>',
-          fra: 'espérance'
-        }
-      }
-    },
-    {
-      id: 'demo-card-4',
-      source_lang: 'fra',
-      source_text: 'foi',
-      reference_id: 'bom/alma/32/21',
-      tags: ['bom/alma/32', 'alma'],
-      target_translations: {
-        reading: '',
-        definitions: {
-          eng: 'faith',
-          spa: 'fe',
-          jpn: '<ruby>信<rt>しん</rt></ruby><ruby>仰<rt>こう</rt></ruby>',
-          zhs: '<ruby>信<rt>xìn</rt></ruby><ruby>心<rt>xīn</rt></ruby>',
-          fra: 'foi'
-        }
-      }
-    },
-    {
-      id: 'demo-card-5',
-      source_lang: 'eng',
-      source_text: 'peacemaker',
-      reference_id: 'gc/2023-10/peacemakers-needed/1',
-      tags: ['gc/2023-10/peacemakers-needed', 'gc-2023-10-peacemakers-needed'],
-      target_translations: {
-        reading: '',
-        definitions: {
-          eng: 'peacemaker',
-          spa: 'pacificador',
-          jpn: '<ruby>平<rt>へい</rt></ruby><ruby>和<rt>わ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>',
-          zhs: '<ruby>使<rt>shǐ</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>睦<rt>mù</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>人<rt>rén</rt></ruby>',
-          fra: 'artisan de paix'
-        }
-      }
-    }
-  ];
+  const DEMO_FLASHCARDS = [];
 
   window.POLYGLOT = {
     ALL_LANGUAGES,

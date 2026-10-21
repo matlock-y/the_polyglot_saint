@@ -4,284 +4,284 @@
     "book": "ps",
     "chapter": 139,
     "headings": {
-      "eng": "David says that the Lord knows all manâs thoughts and doingsâHe asks, Where can man go to escape from the spirit and presence of the Lord?âMan is fearfully and wonderfully made.",
-      "spa": "David dice que JehovÃ¡ conoce todos los pensamientos y los hechos de los hombresÂ â David pregunta: Â¿AdÃ³nde irÃ¡ el hombre para huir del EspÃ­ritu y de la presencia de JehovÃ¡?Â â El hombre ha sido hecho asombrosa y maravillosamente.",
-      "por": "Davi diz que o Senhor conhece todos os pensamentos e feitos do homemÂ â Ele pergunta: Para onde irÃ¡ o homem para fugir do EspÃ­rito e da presenÃ§a do Senhor?Â â O homem foi feito de modo assombroso e maravilhoso.",
-      "fra": "David constate que lâÃternel connaÃ®t toutes les pensÃ©es et les actions de lâhomme. Il demande oÃ¹ ira lâhomme pour Ã©chapper Ã  lâesprit et Ã  la prÃ©sence de lâÃternel. Lâhomme est une crÃ©ature merveilleuse.",
-      "ita": "Davide dice che il Signore conosce tutti i pensieri e le azioni dellâuomoÂ â Chiede: âDove puÃ² andare lâuomo per fuggire dallo spirito e dal cospetto del Signore?âÂ â Lâuomo Ã¨ stato fatto in modo meraviglioso e stupendo."
+      "eng": "David says that the Lord knows all man’s thoughts and doings—He asks, Where can man go to escape from the spirit and presence of the Lord?—Man is fearfully and wonderfully made.",
+      "spa": "David dice que Jehová conoce todos los pensamientos y los hechos de los hombres — David pregunta: ¿Adónde irá el hombre para huir del Espíritu y de la presencia de Jehová? — El hombre ha sido hecho asombrosa y maravillosamente.",
+      "por": "Davi diz que o Senhor conhece todos os pensamentos e feitos do homem — Ele pergunta: Para onde irá o homem para fugir do Espírito e da presença do Senhor? — O homem foi feito de modo assombroso e maravilhoso.",
+      "fra": "David constate que l’Éternel connaît toutes les pensées et les actions de l’homme. Il demande où ira l’homme pour échapper à l’esprit et à la présence de l’Éternel. L’homme est une créature merveilleuse.",
+      "ita": "Davide dice che il Signore conosce tutti i pensieri e le azioni dell’uomo — Chiede: “Dove può andare l’uomo per fuggire dallo spirito e dal cospetto del Signore?” — L’uomo è stato fatto in modo meraviglioso e stupendo."
     },
     "intros": {
       "eng": "To the chief Musician, A Psalm of David.",
-      "jpn": "<ruby><rb>èæ­</rb><rt>ããã</rt></ruby><ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ææ®è</rb><rt>ãããã</rt></ruby>ã«ãã£ã¦ããããããããã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
-      "spa": "Al mÃºsico principal. Salmo de David.",
-      "por": "Salmo de Davi para o mÃºsico-mor.",
+      "jpn": "<ruby>聖歌<rt>せいか</rt></ruby><ruby>隊<rt>たい</rt></ruby>の<ruby>指揮者<rt>しきしゃ</rt></ruby>によってうたわせたダビデの<ruby>歌<rt>うた</rt></ruby>",
+      "spa": "Al músico principal. Salmo de David.",
+      "por": "Salmo de Davi para o músico-mor.",
       "ita": "Per il capo dei musici. Salmo di Davide."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, thou hast searched me, and known <span class=\"clarity-word\">me.</span>",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ§ Ø±ÙØ¨ÙÙ ÙÙØ¯Ù ÙÙØ­ÙØµÙØªÙÙÙÙ ÙÙØ¹ÙØ±ÙÙÙØªÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããªãã¯ãããã<ruby><rb>æ¢</rb><rt>ãã</rt></ruby>ãããããã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãã¤ãããã¾ããã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">Oh JehovÃ¡, tÃº me has escudriÃ±ado y conocido.</span>",
-      "por": "<span class=\"verse-number\">1</span> <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, tu me sondaste, e <span class=\"clarity-word\">me</span> conheces.",
-      "fra": "<span class=\"verse-number\">1</span> Au chef des chantres. De David. Psaume. ÃternelÂ ! tu me sondes et tu me connais,",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Dem Musikmeister, von David ein Psalm.</span><span class=\"line\">HErr, du erforschest mich und kennst mich;</span>",
-      "kor": "<span class=\"verse-number\">1</span> ì¬í¸ìì¬ ì£¼ê»ì ëë¥¼ ì´í´ ë³´ì¨ì¼ë¯ë¡ <span class=\"clarity-word\">ëë¥¼</span> ììëì´ë¤",
-      "ita": "<span class=\"verse-number\">1</span> O Eterno tu mi hai scrutato e mi conosci."
+      "eng": "O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, thou hast searched me, and known <span class=\"clarity-word\">me.</span>",
+      "ara": "يَا رَبُّ قَدْ فَحَصْتَنِي وَعَرَفْتَنِي.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、あなたはわたしを<ruby>探<rt>さぐ</rt></ruby>り、わたしを<ruby>知<rt>し</rt></ruby>りつくされました。",
+      "spa": "<span class=\"line\">Oh Jehová, tú me has escudriñado y conocido.</span>",
+      "por": "<span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, tu me sondaste, e <span class=\"clarity-word\">me</span> conheces.",
+      "fra": "Au chef des chantres. De David. Psaume. Éternel ! tu me sondes et tu me connais,",
+      "deu": "<span class=\"line\">Dem Musikmeister, von David ein Psalm.</span><span class=\"line\">HErr, du erforschest mich und kennst mich;</span>",
+      "kor": "여호와여 주께서 나를 살펴 보셨으므로 <span class=\"clarity-word\">나를</span> 아시나이다",
+      "ita": "O Eterno tu mi hai scrutato e mi conosci."
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø£ÙÙÙØªÙ Ø¹ÙØ±ÙÙÙØªÙ ÙÙØ¹ÙÙØ¯ÙÙ ÙÙÙÙÙÙØ§ÙÙÙ. ÙÙÙÙÙÙØªÙ ÙÙÙÙØ±ÙÙ ÙÙÙÙ Ø¨ÙØ¹ÙÙØ¯Ù.",
-      "jpn": "<span class=\"verse-number\">2</span> ããªãã¯ãããããããã<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¤ãã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãã<ruby><rb>é </rb><rt>ã¨ã</rt></ruby>ããããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããããã¾ãããã¾ãã",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">TÃº has conocido mi sentar y mi levantar;</span><span class=\"line\">desde lejos has entendido mis pensamientos.</span>",
-      "por": "<span class=\"verse-number\">2</span> Tu sabes o meu assentar e o meu levantar, de longe entendes o meu pensamento.",
-      "fra": "<span class=\"verse-number\">2</span> Tu sais quand je mâassieds et quand je me lÃ¨ve, Tu discernes de loin ma pensÃ©eÂ ;",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">du weiÃt es, ob ich sitze oder aufstehe,</span><span class=\"line\">du verstehst, was ich denke, von ferne;</span>",
-      "kor": "<span class=\"verse-number\">2</span> ì£¼ê»ì ë´ê° ìê³  ì¼ì´ì¬ì ììê³  ë©ë¦¬ìë ëì ìê°ì ë°í ììì¤ë©°",
-      "ita": "<span class=\"verse-number\">2</span> Tu sai quando mi siedo e quando mi alzo, tu intendi da lontano il mio pensiero."
+      "eng": "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.",
+      "ara": "أَنْتَ عَرَفْتَ قُعُودِي وَقِيَامِي. فَهِمْتَ فِكْرِي مِنْ بَعِيدٍ.",
+      "jpn": "あなたはわがすわるをも、<ruby>立<rt>た</rt></ruby>つをも<ruby>知<rt>し</rt></ruby>り、<ruby>遠<rt>とお</rt></ruby>くからわが<ruby>思<rt>おも</rt></ruby>いをわきまえられます。",
+      "spa": "<span class=\"line\">Tú has conocido mi sentar y mi levantar;</span><span class=\"line\">desde lejos has entendido mis pensamientos.</span>",
+      "por": "Tu sabes o meu assentar e o meu levantar, de longe entendes o meu pensamento.",
+      "fra": "Tu sais quand je m’assieds et quand je me lève, Tu discernes de loin ma pensée ;",
+      "deu": "<span class=\"line\">du weißt es, ob ich sitze oder aufstehe,</span><span class=\"line\">du verstehst, was ich denke, von ferne;</span>",
+      "kor": "주께서 내가 앉고 일어섬을 아시고 멀리서도 나의 생각을 밝히 아시오며",
+      "ita": "Tu sai quando mi siedo e quando mi alzo, tu intendi da lontano il mio pensiero."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>Thou compassest my path and my lying down, and art acquainted <span class=\"clarity-word\">with</span> all my ways.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>Ø£ÙÙÙØªÙ ØªÙÙÙØµÙÙÙÙØªÙ ÙÙØ³ÙÙÙÙÙÙ ÙÙÙÙØ±ÙÙÙØ¯ÙÙØ ÙÙØªÙØ¹ÙØ±ÙÙÙ ÙÙÙÙÙ Ø·ÙØ±ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">3</span> ããªãã¯ãã<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>ä¼</rb><rt>ãµ</rt></ruby>ããã<ruby><rb>æ¢</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ããããããããã®<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ããã¨ãã¨ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã£ã¦ãããã¾ãã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Has escudriÃ±ado mi andar y mi reposo,</span><span class=\"line\">y todos mis caminos te son conocidos.</span>",
-      "por": "<span class=\"verse-number\">3</span> Cercas o meu andar, e o meu deitar, e conheces todos os meus caminhos.",
-      "fra": "<span class=\"verse-number\">3</span> Tu sais quand je marche et quand je me couche, Et tu observes toutes mes voies.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">ob ich wandre oder ruhe, du prÃ¼fst es</span><span class=\"line\">und bist mit all meinen Wegen vertraut;</span>",
-      "kor": "<span class=\"verse-number\">3</span> ëì ëª¨ë  ê¸¸ê³¼ ë´ê° ëë ê²ì ì´í´ ë³´ì¨ì¼ë¯ë¡ ëì ëª¨ë  íìë¥¼ ìµí ììì¤ë",
-      "ita": "<span class=\"verse-number\">3</span> Tu mi osservi quando cammino e quando giaccio, e conosci a fondo tutte le mie vie."
+      "eng": "Thou compassest my path and my lying down, and art acquainted <span class=\"clarity-word\">with</span> all my ways.",
+      "ara": "أَنْتَ تَقَصَّيْتَ مَسْلَكِي وَمَرْقَدِي، وَتَعْرِفُ كُلَّ طُرُقِي.",
+      "jpn": "あなたはわが<ruby>歩<rt>あゆ</rt></ruby>むをも、<ruby>伏<rt>ふ</rt></ruby>すをも<ruby>探<rt>さぐ</rt></ruby>り<ruby>出<rt>だ</rt></ruby>し、わがもろもろの<ruby>道<rt>みち</rt></ruby>をことごとく<ruby>知<rt>し</rt></ruby>っておられます。",
+      "spa": "<span class=\"line\">Has escudriñado mi andar y mi reposo,</span><span class=\"line\">y todos mis caminos te son conocidos.</span>",
+      "por": "Cercas o meu andar, e o meu deitar, e conheces todos os meus caminhos.",
+      "fra": "Tu sais quand je marche et quand je me couche, Et tu observes toutes mes voies.",
+      "deu": "<span class=\"line\">ob ich wandre oder ruhe, du prüfst es</span><span class=\"line\">und bist mit all meinen Wegen vertraut;</span>",
+      "kor": "나의 모든 길과 내가 눕는 것을 살펴 보셨으므로 나의 모든 행위를 익히 아시오니",
+      "ita": "Tu mi osservi quando cammino e quando giaccio, e conosci a fondo tutte le mie vie."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>For <span class=\"clarity-word\">there is</span> not a word in my tongue, <span class=\"clarity-word\">but,</span> lo, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, thou knowest it altogether.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø¹ÙØ±ÙÙÙØªÙ ÙÙÙÙÙ ÙÙÙÙÙÙØ©Ù ÙÙÙÙ ÙÙØ¨ÙÙÙ Ø£ÙÙÙ ÙÙØªÙÙÙÙÙÙÙÙ Ø¨ÙÙØ§ ÙÙØ³ÙØ§ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">4</span> ãããã®<ruby><rb>è</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ä¸è¨</rb><rt>ãã¡ãã</rt></ruby>ããªãã®ã«ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããªãã¯ãã¨ãã¨ãããã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ããã¾ãã",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Pues aÃºn no estÃ¡ la palabra en mi lengua,</span><span class=\"line\">y he aquÃ­, oh JehovÃ¡, tÃº la sabes toda.</span>",
-      "por": "<span class=\"verse-number\">4</span> NÃ£o <span class=\"clarity-word\">havendo</span> ainda palavra <span class=\"clarity-word\">alguma</span> na minha lÃ­ngua, eis que jÃ¡, Ã³ <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, tudo conheces.",
-      "fra": "<span class=\"verse-number\">4</span> Car la parole nâest pas sur ma langue, Que dÃ©jÃ , Ã´ ÃternelÂ ! tu la connais entiÃ¨rement.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">denn ehe ein Wort auf meiner Zunge liegt,</span><span class=\"line\">kennst du, o HErr, es schon genau.</span>",
-      "kor": "<span class=\"verse-number\">4</span> ì¬í¸ìì¬ ë´ íì ë§ì ìì§ ëª»íìë ê²ì´ íëë ìì¼ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">4</span> PoichÃ© la parola non Ã¨ ancora sulla mia lingua, che tu, o Eterno, giÃ  la conosci appieno."
+      "eng": "For <span class=\"clarity-word\">there is</span> not a word in my tongue, <span class=\"clarity-word\">but,</span> lo, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, thou knowest it altogether.",
+      "ara": "عَرَفْتَ كُلَّ كَلِمَةٍ مِنْ قَبْلِ أَنْ يَتَفَوَّهَ بِها لِسَانِي.",
+      "jpn": "わたしの<ruby>舌<rt>した</rt></ruby>に<ruby>一言<rt>いちごん</rt></ruby>もないのに、<ruby>主<rt>しゅ</rt></ruby>よ、あなたはことごとくそれを<ruby>知<rt>し</rt></ruby>られます。",
+      "spa": "<span class=\"line\">Pues aún no está la palabra en mi lengua,</span><span class=\"line\">y he aquí, oh Jehová, tú la sabes toda.</span>",
+      "por": "Não <span class=\"clarity-word\">havendo</span> ainda palavra <span class=\"clarity-word\">alguma</span> na minha língua, eis que já, ó <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, tudo conheces.",
+      "fra": "Car la parole n’est pas sur ma langue, Que déjà, ô Éternel ! tu la connais entièrement.",
+      "deu": "<span class=\"line\">denn ehe ein Wort auf meiner Zunge liegt,</span><span class=\"line\">kennst du, o HErr, es schon genau.</span>",
+      "kor": "여호와여 내 혀의 말을 알지 못하시는 것이 하나도 없으시니이다",
+      "ita": "Poiché la parola non è ancora sulla mia lingua, che tu, o Eterno, già la conosci appieno."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>Thou hast beset me behind and before, and laid thine hand upon me.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙØ¯Ù Ø·ÙÙÙÙÙÙØªÙÙÙÙ (Ø¨ÙØ¹ÙÙÙÙÙÙÙ) ÙÙÙÙ Ø®ÙÙÙÙÙ ÙÙÙÙÙÙ Ø£ÙÙÙØ§ÙÙ ÙÙØ¨ÙØ³ÙØ·ÙØªÙ ÙÙØ¯ÙÙÙ ÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">5</span> ããªãã¯<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ããã<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ãããããã<ruby><rb>å²</rb><rt>ãã</rt></ruby>ã¿ããããã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ã¿<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ããããã¾ãã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">DetrÃ¡s y delante me rodeaste</span><span class=\"line\">y sobre mÃ­ pusiste tu mano.</span>",
-      "por": "<span class=\"verse-number\">5</span> Tu me cercaste por detrÃ¡s e por diante, e puseste sobre mim a tua mÃ£o.",
-      "fra": "<span class=\"verse-number\">5</span> Tu mâentoures par derriÃ¨re et par devant, Et tu mets ta main sur moi.",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Du hÃ¤ltst mich von hinten und von vorne umschlossen</span><span class=\"line\">und hast deine Hand auf mich gelegt.</span>",
-      "kor": "<span class=\"verse-number\">5</span> ì£¼ê»ì ëì ìë¤ë¥¼ ëë¬ì¸ìê³  ë´ê² ììíì¨ëì´ë¤",
-      "ita": "<span class=\"verse-number\">5</span> Tu mi stringi di dietro e davanti, e mi metti la tua mano su di me."
+      "eng": "Thou hast beset me behind and before, and laid thine hand upon me.",
+      "ara": "لَقَدْ طَوَّقْتَنِي (بِعِلْمِكَ) مِنْ خَلْفٍ وَمِنْ أَمَامٍ وَبَسَطْتَ يَدَكَ فَوْقِي.",
+      "jpn": "あなたは<ruby>後<rt>うしろ</rt></ruby>から、<ruby>前<rt>まえ</rt></ruby>からわたしを<ruby>囲<rt>かこ</rt></ruby>み、わたしの<ruby>上<rt>うえ</rt></ruby>にみ<ruby>手<rt>て</rt></ruby>をおかれます。",
+      "spa": "<span class=\"line\">Detrás y delante me rodeaste</span><span class=\"line\">y sobre mí pusiste tu mano.</span>",
+      "por": "Tu me cercaste por detrás e por diante, e puseste sobre mim a tua mão.",
+      "fra": "Tu m’entoures par derrière et par devant, Et tu mets ta main sur moi.",
+      "deu": "<span class=\"line\">Du hältst mich von hinten und von vorne umschlossen</span><span class=\"line\">und hast deine Hand auf mich gelegt.</span>",
+      "kor": "주께서 나의 앞뒤를 둘러싸시고 내게 안수하셨나이다",
+      "ita": "Tu mi stringi di dietro e davanti, e mi metti la tua mano su di me."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span><span class=\"clarity-word\">Such</span> knowledge <span class=\"clarity-word\">is</span> too wonderful for me; it is high, I cannot <span class=\"clarity-word\">attain</span> unto it.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ§ Ø£ÙØ¹ÙØ¬ÙØ¨Ù ÙÙØ°ÙØ§ Ø§ÙÙØ¹ÙÙÙÙÙ Ø§ÙÙÙÙØ§Ø¦ÙÙÙØ Ø¥ÙÙÙÙÙÙ Ø£ÙØ³ÙÙÙÙ ÙÙÙÙ Ø£ÙÙÙ Ø£ÙØ¯ÙØ±ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">6</span> ãã®ãããª<ruby><rb>ç¥è­</rb><rt>ã¡ãã</rt></ruby>ã¯ãã¾ãã«<ruby><rb>ä¸æè­°</rb><rt>ãµãã</rt></ruby>ã§ããããã«ã¯<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å</rb><rt>ãã</rt></ruby>ã³ã¾ãããããã¯<ruby><rb>é«</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>é</rb><rt>ãã£</rt></ruby>ãããã¨ã¯ã§ãã¾ããã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Tal conocimiento es demasiado maravilloso para mÃ­;</span><span class=\"line\">elevado es, no puedo comprenderlo.</span>",
-      "por": "<span class=\"verse-number\">6</span> <span class=\"clarity-word\">Tal</span> conhecimento <span class=\"clarity-word\">Ã©</span> para mim maravilhosÃ­ssimo, <span class=\"clarity-word\">tÃ£o</span> alto <span class=\"clarity-word\">que</span> nÃ£o o posso <span class=\"clarity-word\">atingir.</span>",
-      "fra": "<span class=\"verse-number\">6</span> Une connaissance aussi merveilleuse est au-dessus de ma portÃ©e, Elle est trop Ã©levÃ©e pour que je puisse la saisir.",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">Zu wunderbar ist solches Wissen fÃ¼r mich,</span><span class=\"line\">zu hoch: ich vermagâs nicht zu begreifen!</span>",
-      "kor": "<span class=\"verse-number\">6</span> <span class=\"clarity-word\">ì´</span> ì§ìì´ ë´ê² ëë¬´ ê¸°ì´íë ëìì ë´ê° ë¥í ë¯¸ì¹ì§ ëª»íëì´ë¤",
-      "ita": "<span class=\"verse-number\">6</span> Una tale conoscenza Ã¨ troppo meravigliosa per me, tanto alta che io non posso arrivarci."
+      "eng": "<span class=\"clarity-word\">Such</span> knowledge <span class=\"clarity-word\">is</span> too wonderful for me; it is high, I cannot <span class=\"clarity-word\">attain</span> unto it.",
+      "ara": "مَا أَعْجَبَ هَذَا الْعِلْمَ الْفَائِقَ، إِنَّهُ أَسْمَى مِنْ أَنْ أُدْرِكَهُ.",
+      "jpn": "このような<ruby>知識<rt>ちしき</rt></ruby>はあまりに<ruby>不思議<rt>ふしぎ</rt></ruby>で、わたしには<ruby>思<rt>おも</rt></ruby>いも<ruby>及<rt>およ</rt></ruby>びません。これは<ruby>高<rt>たか</rt></ruby>くて<ruby>達<rt>たっ</rt></ruby>することはできません。",
+      "spa": "<span class=\"line\">Tal conocimiento es demasiado maravilloso para mí;</span><span class=\"line\">elevado es, no puedo comprenderlo.</span>",
+      "por": "<span class=\"clarity-word\">Tal</span> conhecimento <span class=\"clarity-word\">é</span> para mim maravilhosíssimo, <span class=\"clarity-word\">tão</span> alto <span class=\"clarity-word\">que</span> não o posso <span class=\"clarity-word\">atingir.</span>",
+      "fra": "Une connaissance aussi merveilleuse est au-dessus de ma portée, Elle est trop élevée pour que je puisse la saisir.",
+      "deu": "<span class=\"line\">Zu wunderbar ist solches Wissen für mich,</span><span class=\"line\">zu hoch: ich vermag’s nicht zu begreifen!</span>",
+      "kor": "<span class=\"clarity-word\">이</span> 지식이 내게 너무 기이하니 높아서 내가 능히 미치지 못하나이다",
+      "ita": "Una tale conoscenza è troppo meravigliosa per me, tanto alta che io non posso arrivarci."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
-      "ara": "<span class=\"verse-number\">Ù§ </span>Ø£ÙÙÙÙÙ Ø§ÙÙÙÙÙÙØ±ÙØ¨Ù ÙÙÙÙ Ø±ÙÙØ­ÙÙÙØ Ø£ÙÙÙÙÙ Ø§ÙÙÙÙÙÙØ±ÙÙ ÙÙÙÙ Ø­ÙØ¶ÙØ±ÙØªÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">7</span> ãããã¯ã©ãã¸<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ãããªãã®ã¿ãã¾ã<ruby><rb>é¢</rb><rt>ã¯ãª</rt></ruby>ãã¾ããããããããã¯ã©ãã¸<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ãããªãã®ã¿<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ãã®ããã¾ããããã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Â¿AdÃ³nde me irÃ© de tu espÃ­ritu?</span><span class=\"line\">Â¿Y adÃ³nde huirÃ© de tu presencia?</span>",
-      "por": "<span class=\"verse-number\">7</span> Para onde me irei do teu EspÃ­rito, ou para onde fugirei da tua face?",
-      "fra": "<span class=\"verse-number\">7</span> OÃ¹ irais-je loin de ton esprit, Et oÃ¹ fuirais-je loin de ta faceÂ ?",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">Wohin soll ich gehn vor deinem Geist</span><span class=\"line\">und wohin fliehn vor deinem Angesicht?</span>",
-      "kor": "<span class=\"verse-number\">7</span> ë´ê° ì£¼ì ìì ë ë ì´ëë¡ ê°ë©° ì£¼ì ììì ì´ëë¡ í¼íë¦¬ì´ê¹",
-      "ita": "<span class=\"verse-number\">7</span> Dove me ne andrÃ² lontano dal tuo spirito, e dove fuggirÃ² dal tuo cospetto?"
+      "eng": "Whither shall I go from thy spirit? or whither shall I flee from thy presence?",
+      "ara": "أَيْنَ الْمَهْرَبُ مِنْ رُوحِكَ؟ أَيْنَ الْمَفَرُّ مِنْ حَضْرَتِكَ؟",
+      "jpn": "わたしはどこへ<ruby>行<rt>い</rt></ruby>って、あなたのみたまを<ruby>離<rt>はな</rt></ruby>れましょうか。わたしはどこへ<ruby>行<rt>い</rt></ruby>って、あなたのみ<ruby>前<rt>まえ</rt></ruby>をのがれましょうか。",
+      "spa": "<span class=\"line\">¿Adónde me iré de tu espíritu?</span><span class=\"line\">¿Y adónde huiré de tu presencia?</span>",
+      "por": "Para onde me irei do teu Espírito, ou para onde fugirei da tua face?",
+      "fra": "Où irais-je loin de ton esprit, Et où fuirais-je loin de ta face ?",
+      "deu": "<span class=\"line\">Wohin soll ich gehn vor deinem Geist</span><span class=\"line\">und wohin fliehn vor deinem Angesicht?</span>",
+      "kor": "내가 주의 영을 떠나 어디로 가며 주의 앞에서 어디로 피하리이까",
+      "ita": "Dove me ne andrò lontano dal tuo spirito, e dove fuggirò dal tuo cospetto?"
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>If I ascend up into heaven, thou <span class=\"clarity-word\">art</span> there: if I make my bed in hell, behold, thou <span class=\"clarity-word\">art there.</span>",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø¥ÙÙÙ ØµÙØ¹ÙØ¯ÙØªÙ Ø¥ÙÙÙÙ Ø§ÙØ³ÙÙÙÙØ§ÙÙØ§ØªÙ ÙÙØ£ÙÙÙØªÙ ÙÙÙÙØ§ÙÙØ ÙÙØ¥ÙÙÙ Ø¬ÙØ¹ÙÙÙØªÙ ÙÙØ±ÙØ§Ø´ÙÙ ÙÙÙ Ø¹ÙØ§ÙÙÙÙ Ø§ÙØ£ÙÙÙÙÙØ§ØªÙ ÙÙÙÙÙÙØ§ÙÙ Ø£ÙÙÙØªÙ Ø£ÙÙÙØ¶Ø§Ù.",
-      "jpn": "<span class=\"verse-number\">8</span> ãããã<ruby><rb>å¤©</rb><rt>ã¦ã</rt></ruby>ã«ã®ã¼ã£ã¦ããããªãã¯ããã«ãããã¾ãããããã<ruby><rb>é°åº</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã¨ã</rt></ruby>ã<ruby><rb>è¨­</rb><rt>ãã</rt></ruby>ãã¦ããããªãã¯ããã«ãããã¾ãã",
-      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">Si subo a los cielos, allÃ­ estÃ¡s tÃº;</span><span class=\"line\">y si en el Seol hago mi lecho, he aquÃ­, allÃ­ estÃ¡s tÃº.</span>",
-      "por": "<span class=\"verse-number\">8</span> Se eu subir ao cÃ©u, lÃ¡ tu <span class=\"clarity-word\">estÃ¡s;</span> se fizer no inferno a minha cama, eis que tu <span class=\"clarity-word\">ali estÃ¡s tambÃ©m.</span>",
-      "fra": "<span class=\"verse-number\">8</span> Si je monte aux cieux, tu y esÂ ; Si je me couche au sÃ©jour des morts, tây voilÃ .",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">FÃ¼hre ich auf zum Himmel, so wÃ¤rst du da,</span><span class=\"line\">und lagertâ ich mich in der Unterwelt, so wÃ¤rst du dort;</span>",
-      "kor": "<span class=\"verse-number\">8</span> ë´ê° íëì ì¬ë¼ê°ì§ë¼ë ê±°ê¸° ê³ìë©° ì¤ì¬ì ë´ <span class=\"clarity-word\">ìë¦¬ë¥¼</span> í¼ì§ë¼ë ê±°ê¸° ê³ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">8</span> Se salgo in cielo tu sei lÃ¬; se mi metto a giacere nel soggiorno dei morti, eccoti lÃ¬."
+      "eng": "If I ascend up into heaven, thou <span class=\"clarity-word\">art</span> there: if I make my bed in hell, behold, thou <span class=\"clarity-word\">art there.</span>",
+      "ara": "إِنْ صَعِدْتُ إِلَى السَّمَاوَاتِ فَأَنْتَ هُنَاكَ، وَإِنْ جَعَلْتُ فِرَاشِي فِي عَالَمِ الأَمْوَاتِ فَهُنَاكَ أَنْتَ أَيْضاً.",
+      "jpn": "わたしが<ruby>天<rt>てん</rt></ruby>にのぼっても、あなたはそこにおられます。わたしが<ruby>陰府<rt>よみ</rt></ruby>に<ruby>床<rt>とこ</rt></ruby>を<ruby>設<rt>もう</rt></ruby>けても、あなたはそこにおられます。",
+      "spa": "<span class=\"line\">Si subo a los cielos, allí estás tú;</span><span class=\"line\">y si en el Seol hago mi lecho, he aquí, allí estás tú.</span>",
+      "por": "Se eu subir ao céu, lá tu <span class=\"clarity-word\">estás;</span> se fizer no inferno a minha cama, eis que tu <span class=\"clarity-word\">ali estás também.</span>",
+      "fra": "Si je monte aux cieux, tu y es ; Si je me couche au séjour des morts, t’y voilà.",
+      "deu": "<span class=\"line\">Führe ich auf zum Himmel, so wärst du da,</span><span class=\"line\">und lagert’ ich mich in der Unterwelt, so wärst du dort;</span>",
+      "kor": "내가 하늘에 올라갈지라도 거기 계시며 스올에 내 <span class=\"clarity-word\">자리를</span> 펼지라도 거기 계시니이다",
+      "ita": "Se salgo in cielo tu sei lì; se mi metto a giacere nel soggiorno dei morti, eccoti lì."
     },
     "9": {
-      "eng": "<span class=\"verse-number\">9 </span><span class=\"clarity-word\">If</span> I take the wings of the morning, <span class=\"clarity-word\">and</span> dwell in the uttermost parts of the sea;",
-      "ara": "<span class=\"verse-number\">Ù© </span>Ø¥ÙÙÙ Ø§Ø³ÙØªÙØ¹ÙØ±ÙØªÙ Ø£ÙØ¬ÙÙÙØ­ÙØ©Ù Ø§ÙÙÙÙØ¬ÙØ±Ù ÙÙØ·ÙØ±ÙØªÙØ ÙÙØ³ÙÙÙÙÙØªÙ ÙÙÙ Ø£ÙÙÙØµÙÙ Ø£ÙØ·ÙØ±ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ­ÙØ±Ù",
-      "jpn": "<span class=\"verse-number\">9</span> ããããããã¼ã®ã®<ruby><rb>ç¿¼</rb><rt>ã¤ã°ã</rt></ruby>ããã£ã¦<ruby><rb>æµ·</rb><rt>ãã¿</rt></ruby>ã®ã¯ã¦ã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ãã§ãã",
-      "spa": "<span class=\"verse-number\">9 </span><span class=\"line\">Si tomo las alas del alba</span><span class=\"line\">y habito en el extremo del mar,</span>",
-      "por": "<span class=\"verse-number\">9</span> <span class=\"clarity-word\">Se</span> eu tomar as asas da alva, <span class=\"clarity-word\">se</span> habitar nas extremidades do mar,",
-      "fra": "<span class=\"verse-number\">9</span> Si je prends les ailes de lâaurore, Pour aller habiter Ã  lâextrÃ©mitÃ© de la mer,",
-      "deu": "<span class=\"verse-number\">9Â </span><span class=\"line\">nÃ¤hme ich Schwingen des Morgenrots zum Flug</span><span class=\"line\">und lieÃe mich nieder am Ã¤uÃersten Westmeer,</span>",
-      "kor": "<span class=\"verse-number\">9</span> ë´ê° ìë²½ ë ê°ë¥¼ ì¹ë©° ë°ë¤ ëì <span class=\"clarity-word\">ê°ì</span> ê±°ì£¼í ì§ë¼ë",
-      "ita": "<span class=\"verse-number\">9</span> Se prendo le ali dellâalba e vado a dimorare allâestremitÃ  del mare,"
+      "eng": "<span class=\"clarity-word\">If</span> I take the wings of the morning, <span class=\"clarity-word\">and</span> dwell in the uttermost parts of the sea;",
+      "ara": "إِنِ اسْتَعَرْتُ أَجْنِحَةَ الْفَجْرِ وَطِرْتُ، وَسَكَنْتُ فِي أَقْصَى أَطْرَافِ الْبَحْرِ",
+      "jpn": "わたしがあけぼのの<ruby>翼<rt>つばさ</rt></ruby>をかって<ruby>海<rt>うみ</rt></ruby>のはてに<ruby>住<rt>す</rt></ruby>んでも、",
+      "spa": "<span class=\"line\">Si tomo las alas del alba</span><span class=\"line\">y habito en el extremo del mar,</span>",
+      "por": "<span class=\"clarity-word\">Se</span> eu tomar as asas da alva, <span class=\"clarity-word\">se</span> habitar nas extremidades do mar,",
+      "fra": "Si je prends les ailes de l’aurore, Pour aller habiter à l’extrémité de la mer,",
+      "deu": "<span class=\"line\">nähme ich Schwingen des Morgenrots zum Flug</span><span class=\"line\">und ließe mich nieder am äußersten Westmeer,</span>",
+      "kor": "내가 새벽 날개를 치며 바다 끝에 <span class=\"clarity-word\">가서</span> 거주할지라도",
+      "ita": "Se prendo le ali dell’alba e vado a dimorare all’estremità del mare,"
     },
     "10": {
-      "eng": "<span class=\"verse-number\">10 </span>Even there shall thy hand lead me, and thy right hand shall hold me.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙÙÙÙÙØ§ÙÙ Ø£ÙÙÙØ¶Ø§Ù ÙÙØ¯ÙÙÙ ØªÙÙÙØ¯ÙÙÙÙÙ ÙÙÙÙÙÙÙÙØ§ÙÙ ØªÙÙÙØ³ÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">10</span> ããªãã®ã¿<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã¯ãã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã§ãããã<ruby><rb>å°</rb><rt>ã¿ã¡ã³</rt></ruby>ããããªãã®<ruby><rb>å³</rb><rt>ã¿ã</rt></ruby>ã®ã¿<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã¯ãããããããããã¾ãã",
-      "spa": "<span class=\"verse-number\">10 </span><span class=\"line\">aun allÃ­ me guiarÃ¡ tu mano</span><span class=\"line\">y me asirÃ¡ tu diestra.</span>",
-      "por": "<span class=\"verse-number\">10</span> AtÃ© ali a tua mÃ£o me guiarÃ¡ e a tua destra me susterÃ¡.",
-      "fra": "<span class=\"verse-number\">10</span> LÃ  aussi ta main me conduira, Et ta droite me saisira.",
-      "deu": "<span class=\"verse-number\">10Â </span><span class=\"line\">so wÃ¼rde auch dort deine Hand mich fÃ¼hren</span><span class=\"line\">und deine Rechte mich fassen;</span>",
-      "kor": "<span class=\"verse-number\">10</span> ê±°ê¸°ìë ì£¼ì ìì´ ëë¥¼ ì¸ëíìë©° ì£¼ì ì¤ë¥¸ìì´ ëë¥¼ ë¶ëìë¦¬ì´ë¤",
-      "ita": "<span class=\"verse-number\">10</span> anche lÃ¬ mi condurrÃ  la tua mano, e la tua destra mi afferrerÃ ."
+      "eng": "Even there shall thy hand lead me, and thy right hand shall hold me.",
+      "ara": "فَهُنَاكَ أَيْضاً يَدُكَ تَهْدِينِي وَيُمْنَاكَ تُمْسِكُنِي.",
+      "jpn": "あなたのみ<ruby>手<rt>て</rt></ruby>はその<ruby>所<rt>ところ</rt></ruby>でわたしを<ruby>導<rt>みちび</rt></ruby>き、あなたの<ruby>右<rt>みぎ</rt></ruby>のみ<ruby>手<rt>て</rt></ruby>はわたしをささえられます。",
+      "spa": "<span class=\"line\">aun allí me guiará tu mano</span><span class=\"line\">y me asirá tu diestra.</span>",
+      "por": "Até ali a tua mão me guiará e a tua destra me susterá.",
+      "fra": "Là aussi ta main me conduira, Et ta droite me saisira.",
+      "deu": "<span class=\"line\">so würde auch dort deine Hand mich führen</span><span class=\"line\">und deine Rechte mich fassen;</span>",
+      "kor": "거기서도 주의 손이 나를 인도하시며 주의 오른손이 나를 붙드시리이다",
+      "ita": "anche lì mi condurrà la tua mano, e la tua destra mi afferrerà."
     },
     "11": {
-      "eng": "<span class=\"verse-number\">11 </span>If I say, Surely the darkness shall cover me; even the night shall be light about me.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>Ø¥ÙÙÙ ÙÙÙÙØªÙ ÙÙÙ ÙÙÙÙØ³ÙÙ: âØ±ÙØ¨ÙÙÙÙØ§ Ø§ÙØ¸ÙÙÙÙÙÙØ©Ù ØªÙØ­ÙØ¬ÙØ¨ÙÙÙÙ ÙÙØ§ÙØ¶ÙÙÙÙØ¡Ù Ø­ÙÙÙÙÙÙ ÙÙØµÙÙØ±Ù ÙÙÙÙÙØ§ÙâØ",
-      "jpn": "<span class=\"verse-number\">11</span> ããã¿ã¯ãããããããããããã<ruby><rb>å²</rb><rt>ãã</rt></ruby>ã<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã¯<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ã¨ãªããã¨ãããã<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ã¦ãã",
-      "spa": "<span class=\"verse-number\">11 </span><span class=\"line\">Si digo: Ciertamente las tinieblas me encubrirÃ¡n,</span><span class=\"line\">aun la noche resplandecerÃ¡ alrededor de mÃ­.</span>",
-      "por": "<span class=\"verse-number\">11</span> Se eu disser: Decerto que as trevas me encobrirÃ£o; entÃ£o a noite <span class=\"clarity-word\">serÃ¡</span> luz em redor de mim.",
-      "fra": "<span class=\"verse-number\">11</span> Si je disÂ : Au moins les tÃ©nÃ¨bres me couvriront, La nuit devient lumiÃ¨re autour de moiÂ ;",
-      "deu": "<span class=\"verse-number\">11Â </span><span class=\"line\">und sprÃ¤châ ich: âLauter Finsternis soll mich umhÃ¼llen</span><span class=\"line\">âund Nacht sei das Licht um mich her!â â</span>",
-      "kor": "<span class=\"verse-number\">11</span> ë´ê° í¹ì ë§íê¸°ë¥¼ íìì´ ë°ëì ëë¥¼ ë®ê³  ëë¥¼ ëë¥¸ ë¹ì ë°¤ì´ ëë¦¬ë¼ í ì§ë¼ë",
-      "ita": "<span class=\"verse-number\">11</span> Se dico: âCertamente le tenebre mi nasconderanno, e la luce diventerÃ  notte intorno a meâ,"
+      "eng": "If I say, Surely the darkness shall cover me; even the night shall be light about me.",
+      "ara": "إِنْ قُلْتُ فِي نَفْسِي: ”رُبَّمَا الظُّلْمَةُ تَحْجُبُنِي وَالضَّوْءُ حَوْلِي يَصِيرُ لَيْلاً“،",
+      "jpn": "「やみはわたしをおおい、わたしを<ruby>囲<rt>かこ</rt></ruby>む<ruby>光<rt>ひかり</rt></ruby>は<ruby>夜<rt>よる</rt></ruby>となれ」とわたしが<ruby>言<rt>い</rt></ruby>っても、",
+      "spa": "<span class=\"line\">Si digo: Ciertamente las tinieblas me encubrirán,</span><span class=\"line\">aun la noche resplandecerá alrededor de mí.</span>",
+      "por": "Se eu disser: Decerto que as trevas me encobrirão; então a noite <span class=\"clarity-word\">será</span> luz em redor de mim.",
+      "fra": "Si je dis : Au moins les ténèbres me couvriront, La nuit devient lumière autour de moi ;",
+      "deu": "<span class=\"line\">und spräch’ ich: „Lauter Finsternis soll mich umhüllen</span><span class=\"line\">„und Nacht sei das Licht um mich her!” —</span>",
+      "kor": "내가 혹시 말하기를 흑암이 반드시 나를 덮고 나를 두른 빛은 밤이 되리라 할지라도",
+      "ita": "Se dico: “Certamente le tenebre mi nasconderanno, e la luce diventerà notte intorno a me”,"
     },
     "12": {
-      "eng": "<span class=\"verse-number\">12 </span>Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light <span class=\"clarity-word\">are</span> both alike <span class=\"clarity-word\">to thee.</span>",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ­ÙØªÙÙÙ Ø§ÙØ¸ÙÙÙÙÙÙØ©Ù ÙÙØ§ ØªÙØ®ÙÙÙÙ Ø¹ÙÙÙÙÙ Ø´ÙÙÙØ¦Ø§ÙØ ÙÙØ§ÙÙÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙÙÙØ§Ø±Ù ÙÙØ¶ÙÙØ¡ÙØ ÙÙØ³ÙÙÙÙØ§ÙÙ Ø¹ÙÙÙØ¯ÙÙÙ Ø§ÙØ¸ÙÙÙØ§ÙÙ ÙÙØ§ÙØ¶ÙÙÙÙØ¡Ù.",
-      "jpn": "<span class=\"verse-number\">12</span> ããªãã«ã¯ããã¿ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¯ãªãã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ¼</rb><rt>ã²ã</rt></ruby>ã®ããã«<ruby><rb>è¼</rb><rt>ããã</rt></ruby>ãã¾ããããªãã«ã¯ããã¿ã<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã<ruby><rb>ç°</rb><rt>ãã¨</rt></ruby>ãªããã¨ã¯ããã¾ããã",
-      "spa": "<span class=\"verse-number\">12 </span><span class=\"line\">Aun las tinieblas no encubren de ti,</span><span class=\"line\">y la noche resplandece como el dÃ­a;</span><span class=\"line\">lo mismo te son las tinieblas que la luz.</span>",
-      "por": "<span class=\"verse-number\">12</span> Nem ainda as trevas me encobrem de ti, mas a noite resplandece como o dia; as trevas e a luz <span class=\"clarity-word\">sÃ£o para ti</span> a mesma coisa.",
-      "fra": "<span class=\"verse-number\">12</span> MÃªme les tÃ©nÃ¨bres ne sont pas obscures pour toi, La nuit brille comme le jour, Et les tÃ©nÃ¨bres comme la lumiÃ¨re.",
-      "deu": "<span class=\"verse-number\">12Â </span><span class=\"line\">auch die Finsternis wÃ¼rde fÃ¼r dich nicht finster sein,</span><span class=\"line\">vielmehr die Nacht dir leuchten wie der Tag:</span><span class=\"line\">Finsternis wÃ¤re fÃ¼r dich wie das Licht.</span>",
-      "kor": "<span class=\"verse-number\">12</span> ì£¼ìê²ìë íìì´ ì¨ê¸°ì§ ëª»íë©° ë°¤ì´ ë®ê³¼ ê°ì´ ë¹ì¶ì´ëë <span class=\"clarity-word\">ì£¼ìê²ë</span> íìê³¼ ë¹ì´ ê°ìì´ëì´ë¤",
-      "ita": "<span class=\"verse-number\">12</span> le tenebre stesse non possono nasconderti nulla, e la notte risplende come il giorno; le tenebre e la luce sono tuttâuno per te."
+      "eng": "Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light <span class=\"clarity-word\">are</span> both alike <span class=\"clarity-word\">to thee.</span>",
+      "ara": "فَحَتَّى الظُّلْمَةُ لَا تُخْفِي عَنْكَ شَيْئاً، وَاللَّيْلُ كَالنَّهَارِ يُضِيءُ، فَسِيَّانَ عِنْدَكَ الظَّلامُ وَالضَّوْءُ.",
+      "jpn": "あなたには、やみも<ruby>暗<rt>くら</rt></ruby>くはなく、<ruby>夜<rt>よる</rt></ruby>も<ruby>昼<rt>ひる</rt></ruby>のように<ruby>輝<rt>かがや</rt></ruby>きます。あなたには、やみも<ruby>光<rt>ひかり</rt></ruby>も<ruby>異<rt>こと</rt></ruby>なることはありません。",
+      "spa": "<span class=\"line\">Aun las tinieblas no encubren de ti,</span><span class=\"line\">y la noche resplandece como el día;</span><span class=\"line\">lo mismo te son las tinieblas que la luz.</span>",
+      "por": "Nem ainda as trevas me encobrem de ti, mas a noite resplandece como o dia; as trevas e a luz <span class=\"clarity-word\">são para ti</span> a mesma coisa.",
+      "fra": "Même les ténèbres ne sont pas obscures pour toi, La nuit brille comme le jour, Et les ténèbres comme la lumière.",
+      "deu": "<span class=\"line\">auch die Finsternis würde für dich nicht finster sein,</span><span class=\"line\">vielmehr die Nacht dir leuchten wie der Tag:</span><span class=\"line\">Finsternis wäre für dich wie das Licht.</span>",
+      "kor": "주에게서는 흑암이 숨기지 못하며 밤이 낮과 같이 비추이나니 <span class=\"clarity-word\">주에게는</span> 흑암과 빛이 같음이니이다",
+      "ita": "le tenebre stesse non possono nasconderti nulla, e la notte risplende come il giorno; le tenebre e la luce sono tutt’uno per te."
     },
     "13": {
-      "eng": "<span class=\"verse-number\">13 </span>For thou hast possessed my reins: thou hast covered me in my motherâs womb.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙØ£ÙÙÙÙÙÙ Ø£ÙÙÙØªÙ ÙÙØ¯Ù ÙÙÙÙÙÙÙØªÙ ÙÙÙÙÙÙØªÙÙÙÙ. ÙÙØ³ÙØ¬ÙØªÙÙÙÙ Ø¯ÙØ§Ø®ÙÙÙ Ø¨ÙØ·ÙÙÙ Ø£ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">13</span> ããªãã¯ãã<ruby><rb>åè</rb><rt>ãªããã</rt></ruby>ãã¤ããããã<ruby><rb>æ¯</rb><rt>ã¯ã¯</rt></ruby>ã®<ruby><rb>èå</rb><rt>ãããªã</rt></ruby>ã§ãããã<ruby><rb>çµ</rb><rt>ã</rt></ruby>ã¿<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¦ããã¾ããã",
-      "spa": "<span class=\"verse-number\">13 </span><span class=\"line\">Porque tÃº creaste mis entraÃ±as;</span><span class=\"line\">me formaste en el vientre de mi madre.</span>",
-      "por": "<span class=\"verse-number\">13</span> Pois criaste as minhas entranhas; formaste-me no ventre de minha mÃ£e.",
-      "fra": "<span class=\"verse-number\">13</span> Câest toi qui as formÃ© mes reins, Qui mâas tissÃ© dans le sein de ma mÃ¨re.",
-      "deu": "<span class=\"verse-number\">13Â </span><span class=\"line\">Denn du bistâs, der meine Nieren (d. h. mein Innerstes) gebildet,</span><span class=\"line\">mich gewoben im SchoÃ meiner Mutter.</span>",
-      "kor": "<span class=\"verse-number\">13</span> ì£¼ê»ì ë´ ë´ì¥ì ì§ì¼ìë©° ëì ëª¨íìì ëë¥¼ ë§ëì¨ëì´ë¤",
-      "ita": "<span class=\"verse-number\">13</span> PoichÃ© sei tu che hai formato i miei reni, che mi hai intessuto nel grembo di mia madre."
+      "eng": "For thou hast possessed my reins: thou hast covered me in my mother’s womb.",
+      "ara": "لأَنَّكَ أَنْتَ قَدْ كَوَّنْتَ كُلْيَتَيَّ. نَسَجْتَنِي دَاخِلَ بَطْنِ أُمِّي.",
+      "jpn": "あなたはわが<ruby>内臓<rt>ないぞう</rt></ruby>をつくり、わが<ruby>母<rt>はは</rt></ruby>の<ruby>胎内<rt>たいない</rt></ruby>でわたしを<ruby>組<rt>く</rt></ruby>み<ruby>立<rt>た</rt></ruby>てられました。",
+      "spa": "<span class=\"line\">Porque tú creaste mis entrañas;</span><span class=\"line\">me formaste en el vientre de mi madre.</span>",
+      "por": "Pois criaste as minhas entranhas; formaste-me no ventre de minha mãe.",
+      "fra": "C’est toi qui as formé mes reins, Qui m’as tissé dans le sein de ma mère.",
+      "deu": "<span class=\"line\">Denn du bist’s, der meine Nieren (d. h. mein Innerstes) gebildet,</span><span class=\"line\">mich gewoben im Schoß meiner Mutter.</span>",
+      "kor": "주께서 내 내장을 지으시며 나의 모태에서 나를 만드셨나이다",
+      "ita": "Poiché sei tu che hai formato i miei reni, che mi hai intessuto nel grembo di mia madre."
     },
     "14": {
-      "eng": "<span class=\"verse-number\">14 </span>I will praise thee; for I am fearfully <span class=\"clarity-word\">and</span> wonderfully made: marvellous <span class=\"clarity-word\">are</span> thy works; and <span class=\"clarity-word\">that</span> my soul knoweth right well.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>Ø£ÙØ­ÙÙÙØ¯ÙÙÙ ÙØ£ÙÙÙÙÙÙ ØµÙÙÙØ¹ÙØªÙÙÙÙ Ø¨ÙØ¥ÙØ¹ÙØ¬ÙØ§Ø²ÙÙÙ Ø§ÙÙÙÙØ¯ÙÙÙØ´Ù. ÙÙØ§ Ø£ÙØ¹ÙØ¬ÙØ¨Ù Ø£ÙØ¹ÙÙÙØ§ÙÙÙÙ ÙÙÙÙÙÙØ³ÙÙ ØªÙØ¹ÙÙÙÙÙ Ø°ÙÙÙÙÙ ÙÙÙÙÙÙØ§Ù.",
-      "jpn": "<span class=\"verse-number\">14</span> ãããã¯ããªããã»ããããã¾ããããªãã¯<ruby><rb>æ</rb><rt>ããã</rt></ruby>ãã¹ãããããã<ruby><rb>æ¹</rb><rt>ãã</rt></ruby>ã ããã§ããããªãã®ã¿ããã¯ãããããããªãã¯<ruby><rb>æ</rb><rt>ãã£ã¨</rt></ruby>ããããããã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã£ã¦ãããã¾ãã",
-      "spa": "<span class=\"verse-number\">14 </span><span class=\"line\">Te alabarÃ©, porque asombrosa y maravillosamente he sido hecho;</span><span class=\"line\">maravillosas son tus obras,</span><span class=\"line\">y mi alma lo sabe muy bien.</span>",
-      "por": "<span class=\"verse-number\">14</span> Eu te louvarei, porque de um modo assombroso, e tÃ£o maravilhoso fui feito; maravilhosas <span class=\"clarity-word\">sÃ£o</span> as tuas obras, e a minha alma o sabe muito bem.",
-      "fra": "<span class=\"verse-number\">14</span> Je te loue de ce que je suis une crÃ©ature si merveilleuse. Tes Åuvres sont admirables, Et mon Ã¢me le reconnaÃ®t bien.",
-      "deu": "<span class=\"verse-number\">14Â </span><span class=\"line\">Ich danke dir, daÃ ich so Ã¼beraus wunderbar bereitet bin:</span><span class=\"line\">wunderbar sind deine Werke,</span><span class=\"line\">und meine Seele erkennt das wohl.</span>",
-      "kor": "<span class=\"verse-number\">14</span> ë´ê° ì£¼ê» ê°ì¬íì´ì ëë¥¼ ì§ì¼ì¬ì´ ì¬í ê¸°ë¬íì¬ì´ë¼ ì£¼ê»ì íìë ì¼ì´ ê¸°ì´í¨ì ë´ ìí¼ì´ ì ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">14</span> Io ti celebrerÃ², perchÃ© sono stato fatto in modo meraviglioso, stupendo. Meravigliose sono le tue opere, e la mia anima lo sa molto bene."
+      "eng": "I will praise thee; for I am fearfully <span class=\"clarity-word\">and</span> wonderfully made: marvellous <span class=\"clarity-word\">are</span> thy works; and <span class=\"clarity-word\">that</span> my soul knoweth right well.",
+      "ara": "أَحْمَدُكَ لأَنَّكَ صَنَعْتَنِي بِإِعْجَازِكَ الْمُدْهِشِ. مَا أَعْجَبَ أَعْمَالَكَ وَنَفْسِي تَعْلَمُ ذَلِكَ يَقِيناً.",
+      "jpn": "わたしはあなたをほめたたえます。あなたは<ruby>恐<rt>おそれ</rt></ruby>るべく、くすしき<ruby>方<rt>かた</rt></ruby>だからです。あなたのみわざはくすしく、あなたは<ruby>最<rt>もっと</rt></ruby>もよくわたしを<ruby>知<rt>し</rt></ruby>っておられます。",
+      "spa": "<span class=\"line\">Te alabaré, porque asombrosa y maravillosamente he sido hecho;</span><span class=\"line\">maravillosas son tus obras,</span><span class=\"line\">y mi alma lo sabe muy bien.</span>",
+      "por": "Eu te louvarei, porque de um modo assombroso, e tão maravilhoso fui feito; maravilhosas <span class=\"clarity-word\">são</span> as tuas obras, e a minha alma o sabe muito bem.",
+      "fra": "Je te loue de ce que je suis une créature si merveilleuse. Tes œuvres sont admirables, Et mon âme le reconnaît bien.",
+      "deu": "<span class=\"line\">Ich danke dir, daß ich so überaus wunderbar bereitet bin:</span><span class=\"line\">wunderbar sind deine Werke,</span><span class=\"line\">und meine Seele erkennt das wohl.</span>",
+      "kor": "내가 주께 감사하옴은 나를 지으심이 심히 기묘하심이라 주께서 하시는 일이 기이함을 내 영혼이 잘 아나이다",
+      "ita": "Io ti celebrerò, perché sono stato fatto in modo meraviglioso, stupendo. Meravigliose sono le tue opere, e la mia anima lo sa molto bene."
     },
     "15": {
-      "eng": "<span class=\"verse-number\">15 </span>My substance was not hid from thee, when I was made in secret, <span class=\"clarity-word\">and</span> curiously wrought in the lowest parts of the earth.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙÙÙ ÙÙØ®ÙÙÙ Ø¹ÙÙÙÙÙÙÙ ÙÙÙÙØ§ÙÙÙ Ø¹ÙÙÙØ¯ÙÙÙØ§ ÙÙÙÙÙÙÙØªÙ ÙÙÙ Ø§ÙØ³ÙÙØ±ÙÙØ ÙÙØ¬ÙØ¨ÙÙÙØªÙ ÙÙÙ Ø£ÙØ¹ÙÙÙØ§ÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù.",
-      "jpn": "<span class=\"verse-number\">15</span> ãããã<ruby><rb>é </rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã§<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®<ruby><rb>æ·±</rb><rt>ãµã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã§ã¤ã¥ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãããã¨ãããããã®<ruby><rb>éª¨</rb><rt>ã»ã­</rt></ruby>ã¯ããªãã«<ruby><rb>é </rb><rt>ãã</rt></ruby>ãããã¨ããªãã£ãã",
-      "spa": "<span class=\"verse-number\">15 </span><span class=\"line\">No fueron encubiertos de ti mis huesos,</span><span class=\"line\">cuando en oculto fui formado</span><span class=\"line\"><span class=\"page-break\" data-page=\"1029\"></span><span class=\"clarity-word\">y</span> entretejido en lo mÃ¡s profundo de la tierra.</span>",
-      "por": "<span class=\"verse-number\">15</span> Os meus ossos nÃ£o te foram <span class=\"page-break\" data-page=\"985\"></span>encobertos, quando no oculto fui feito, <span class=\"clarity-word\">e</span> entretecido nas profundezas da terra.",
-      "fra": "<span class=\"verse-number\">15</span> Mon corps nâÃ©tait pas cachÃ© devant toi, Lorsque jâai Ã©tÃ© fait dans un lieu secret, TissÃ© dans les profondeurs de la terre.",
-      "deu": "<span class=\"verse-number\">15Â </span><span class=\"line\">Meine Wesensgestaltung war dir nicht verborgen,</span><span class=\"line\">als im Dunkeln ich gebildet ward,</span><span class=\"line\">kunstvoll gewirkt in den Tiefen der Erde.</span>",
-      "kor": "<span class=\"verse-number\">15</span> ë´ê° ìë°í ë°ì ì§ìì ë°ê³  ëì ê¹ì ê³³ìì ê¸°ì´íê² ì§ìì ë°ì ëì ëì íì²´ê° ì£¼ì ìì ì¨ê²¨ì§ì§ ëª»íìëì´ë¤",
-      "ita": "<span class=\"verse-number\">15</span> Le mie ossa non ti erano nascoste, quando io fui formato in segreto e tessuto nelle parti piÃ¹ basse della terra."
+      "eng": "My substance was not hid from thee, when I was made in secret, <span class=\"clarity-word\">and</span> curiously wrought in the lowest parts of the earth.",
+      "ara": "لَمْ يَخْفَ عَلَيْكَ كِيَانِي عِنْدَمَا كُوِّنْتُ فِي السِّرِّ، وَجُبِلْتُ فِي أَعْمَاقِ الأَرْضِ.",
+      "jpn": "わたしが<ruby>隠<rt>かく</rt></ruby>れた<ruby>所<rt>ところ</rt></ruby>で<ruby>造<rt>つく</rt></ruby>られ、<ruby>地<rt>ち</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>でつづり<ruby>合<rt>あわ</rt></ruby>されたとき、わたしの<ruby>骨<rt>ほね</rt></ruby>はあなたに<ruby>隠<rt>かく</rt></ruby>れることがなかった。",
+      "spa": "<span class=\"line\">No fueron encubiertos de ti mis huesos,</span><span class=\"line\">cuando en oculto fui formado</span><span class=\"line\"><span class=\"clarity-word\">y</span> entretejido en lo más profundo de la tierra.</span>",
+      "por": "Os meus ossos não te foram encobertos, quando no oculto fui feito, <span class=\"clarity-word\">e</span> entretecido nas profundezas da terra.",
+      "fra": "Mon corps n’était pas caché devant toi, Lorsque j’ai été fait dans un lieu secret, Tissé dans les profondeurs de la terre.",
+      "deu": "<span class=\"line\">Meine Wesensgestaltung war dir nicht verborgen,</span><span class=\"line\">als im Dunkeln ich gebildet ward,</span><span class=\"line\">kunstvoll gewirkt in den Tiefen der Erde.</span>",
+      "kor": "내가 은밀한 데서 지음을 받고 땅의 깊은 곳에서 기이하게 지음을 받은 때에 나의 형체가 주의 앞에 숨겨지지 못하였나이다",
+      "ita": "Le mie ossa non ti erano nascoste, quando io fui formato in segreto e tessuto nelle parti più basse della terra."
     },
     "16": {
-      "eng": "<span class=\"verse-number\">16 </span>Thine eyes did see my substance, yet being unperfect; and in thy book all <span class=\"clarity-word\">my members</span> were written, <span class=\"clarity-word\">which</span> in continuance were fashioned, when <span class=\"clarity-word\">as yet there was</span> none of them.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>Ø±ÙØ£ÙØªÙÙÙÙ Ø¹ÙÙÙÙÙØ§ÙÙ ÙÙØ£ÙÙÙØ§ ÙÙØ§Ø²ÙÙÙØªÙ Ø¬ÙÙÙÙÙØ§ÙØ ÙÙÙÙØ¨ÙÙÙ Ø£ÙÙÙ ØªÙØ®ÙÙÙÙÙ Ø£ÙØ¹ÙØ¶ÙØ§Ø¦ÙÙ ÙÙØªÙØ¨ÙØªÙ ÙÙÙ Ø³ÙÙÙØ±ÙÙÙ ÙÙÙÙÙÙ ØªÙØµÙÙÙÙØ±ÙØªÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">16</span> ããªãã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã¯ãã¾ã ã§ãããããªããããã®ããã ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããããããã®ããã«ã¤ãããããããããã®<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã®ã¾ã ä¸<ruby><rb>æ¥</rb><rt>ã«ã¡</rt></ruby>ããªãã£ãã¨ãããã®<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã¯ãã¨ãã¨ãããªãã®<ruby><rb>æ¸</rb><rt>ãã</rt></ruby>ã«ãããããã",
-      "spa": "<span class=\"verse-number\">16 </span><span class=\"line\">Tus ojos vieron mi embriÃ³n,</span><span class=\"line\">y en tu libro estaban escritas todas aquellas cosas</span><span class=\"line\">que fueron luego formadas,</span><span class=\"line\">cuando no existÃ­a ninguna de ellas.</span>",
-      "por": "<span class=\"verse-number\">16</span> Os teus olhos viram o meu <span class=\"clarity-word\">corpo</span> ainda informe, e no teu livro todas essas coisas foram escritas, as quais em continuaÃ§Ã£o foram formadas, quando nem ainda uma delas <span class=\"clarity-word\">havia.</span>",
-      "fra": "<span class=\"verse-number\">16</span> Quand je nâÃ©tais quâune masse informe, tes yeux me voyaientÂ ; Et sur ton livre Ã©taient tous inscrits Les jours qui mâÃ©taient destinÃ©s, Avant quâaucun dâeux nâexiste.",
-      "deu": "<span class=\"verse-number\">16Â </span><span class=\"line\">Deine Augen sahen mich schon als formlosen Keim,</span><span class=\"line\">und in deinem Buch standen eingeschrieben</span><span class=\"line\">alle Tage, die vorbedacht waren,</span><span class=\"line\">als noch keiner von ihnen da war.</span>",
-      "kor": "<span class=\"verse-number\">16</span> ë´ íì§ì´ ì´ë£¨ì´ì§ê¸° ì ì ì£¼ì ëì´ ë³´ì¨ì¼ë©° <span class=\"clarity-word\">ëë¥¼</span><span class=\"clarity-word\">ìíì¬</span> ì í ë ì´ íë£¨ë ëê¸° ì ì ì£¼ì ì±ì ë¤ ê¸°ë¡ì´ ëìëì´ë¤",
-      "ita": "<span class=\"verse-number\">16</span> I tuoi occhi videro la massa informe del mio corpo; e nel tuo libro erano tutti scritti i giorni che mi erano destinati, quando nessuno di essi era ancora sorto."
+      "eng": "Thine eyes did see my substance, yet being unperfect; and in thy book all <span class=\"clarity-word\">my members</span> were written, <span class=\"clarity-word\">which</span> in continuance were fashioned, when <span class=\"clarity-word\">as yet there was</span> none of them.",
+      "ara": "رَأَتْنِي عَيْنَاكَ وَأَنَا مَازِلْتُ جَنِيناً؛ وَقَبْلَ أَنْ تُخْلَقَ أَعْضَائِي كُتِبَتْ فِي سِفْرِكَ يَوْمَ تَصَوَّرْتَهَا.",
+      "jpn": "あなたの<ruby>目<rt>め</rt></ruby>は、まだできあがらないわたしのからだを<ruby>見<rt>み</rt></ruby>られた。わたしのためにつくられたわがよわいの<ruby>日<rt>ひ</rt></ruby>のまだ一<ruby>日<rt>にち</rt></ruby>もなかったとき、その<ruby>日<rt>ひ</rt></ruby>はことごとくあなたの<ruby>書<rt>しょ</rt></ruby>にしるされた。",
+      "spa": "<span class=\"line\">Tus ojos vieron mi embrión,</span><span class=\"line\">y en tu libro estaban escritas todas aquellas cosas</span><span class=\"line\">que fueron luego formadas,</span><span class=\"line\">cuando no existía ninguna de ellas.</span>",
+      "por": "Os teus olhos viram o meu <span class=\"clarity-word\">corpo</span> ainda informe, e no teu livro todas essas coisas foram escritas, as quais em continuação foram formadas, quando nem ainda uma delas <span class=\"clarity-word\">havia.</span>",
+      "fra": "Quand je n’étais qu’une masse informe, tes yeux me voyaient ; Et sur ton livre étaient tous inscrits Les jours qui m’étaient destinés, Avant qu’aucun d’eux n’existe.",
+      "deu": "<span class=\"line\">Deine Augen sahen mich schon als formlosen Keim,</span><span class=\"line\">und in deinem Buch standen eingeschrieben</span><span class=\"line\">alle Tage, die vorbedacht waren,</span><span class=\"line\">als noch keiner von ihnen da war.</span>",
+      "kor": "내 형질이 이루어지기 전에 주의 눈이 보셨으며 <span class=\"clarity-word\">나를</span><span class=\"clarity-word\">위하여</span> 정한 날이 하루도 되기 전에 주의 책에 다 기록이 되었나이다",
+      "ita": "I tuoi occhi videro la massa informe del mio corpo; e nel tuo libro erano tutti scritti i giorni che mi erano destinati, quando nessuno di essi era ancora sorto."
     },
     "17": {
-      "eng": "<span class=\"verse-number\">17 </span>How precious also are thy thoughts unto me, O God! how great is the sum of them!",
-      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØ§ Ø£ÙØ«ÙÙÙÙÙ Ø£ÙÙÙÙÙØ§Ø±ÙÙÙ ÙÙØ§ Ø§ÙÙÙÙ°ÙÙ Ø¹ÙÙÙØ¯ÙÙ! ÙÙØ§ Ø£ÙØ¹ÙØ¸ÙÙÙ Ø¬ÙÙÙÙÙØªÙÙÙØ§!",
-      "jpn": "<span class=\"verse-number\">17</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ããããªãã®ããããã®ã¿<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¯ããªãã¨ãããã«<ruby><rb>å°</rb><rt>ãã£ã¨</rt></ruby>ããã¨ã§ãããããã®<ruby><rb>å¨ä½</rb><rt>ãããã</rt></ruby>ã¯ãªãã¨<ruby><rb>åºå¤§</rb><rt>ããã ã</rt></ruby>ãªãã¨ã§ãããã",
-      "spa": "<span class=\"verse-number\">17 </span><span class=\"line\">Y, Â¡cuÃ¡n preciosos me son,</span><span class=\"line\">oh Dios, tus pensamientos!</span><span class=\"line\">Â¡CuÃ¡n grande es la suma de ellos!</span>",
-      "por": "<span class=\"verse-number\">17</span> E quÃ£o preciosos me sÃ£o, Ã³ Deus, os teus pensamentos! QuÃ£o grandes sÃ£o as somas deles!",
-      "fra": "<span class=\"verse-number\">17</span> Que tes pensÃ©es, Ã´ Dieu, me semblent impÃ©nÃ©trablesÂ ! Que le nombre en est grandÂ !",
-      "deu": "<span class=\"verse-number\">17Â </span><span class=\"line\">FÃ¼r mich nun â wie kostbar sind deine Gedanken, o Gott,</span><span class=\"line\">wie gewaltig sind ihre Summen!</span>",
-      "kor": "<span class=\"verse-number\">17</span> íëëì´ì¬ ì£¼ì ìê°ì´ ë´ê² ì´ì° ê·¸ë¦¬ ë³´ë°°ë¡ì°ì ì§ì ê·¸ ìê° ì´ì° ê·¸ë¦¬ ë§ìì§ì",
-      "ita": "<span class=\"verse-number\">17</span> Oh quanto mi sono preziosi i tuoi pensieri, o Dio! Quanto Ã¨ grande la loro somma!"
+      "eng": "How precious also are thy thoughts unto me, O God! how great is the sum of them!",
+      "ara": "مَا أَثْمَنَ أَفْكَارَكَ يَا اللّٰهُ عِنْدِي! مَا أَعْظَمَ جُمْلَتَهَا!",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>よ、あなたのもろもろのみ<ruby>思<rt>おも</rt></ruby>いは、なんとわたしに<ruby>尊<rt>たっと</rt></ruby>いことでしょう。その<ruby>全体<rt>ぜんたい</rt></ruby>はなんと<ruby>広大<rt>こうだい</rt></ruby>なことでしょう。",
+      "spa": "<span class=\"line\">Y, ¡cuán preciosos me son,</span><span class=\"line\">oh Dios, tus pensamientos!</span><span class=\"line\">¡Cuán grande es la suma de ellos!</span>",
+      "por": "E quão preciosos me são, ó Deus, os teus pensamentos! Quão grandes são as somas deles!",
+      "fra": "Que tes pensées, ô Dieu, me semblent impénétrables ! Que le nombre en est grand !",
+      "deu": "<span class=\"line\">Für mich nun — wie kostbar sind deine Gedanken, o Gott,</span><span class=\"line\">wie gewaltig sind ihre Summen!</span>",
+      "kor": "하나님이여 주의 생각이 내게 어찌 그리 보배로우신지요 그 수가 어찌 그리 많은지요",
+      "ita": "Oh quanto mi sono preziosi i tuoi pensieri, o Dio! Quanto è grande la loro somma!"
     },
     "18": {
-      "eng": "<span class=\"verse-number\">18 </span><span class=\"clarity-word\">If</span> I should count them, they are more in number than the sand: when I awake, I am still with thee.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>Ø¥ÙÙÙ Ø£ÙØ­ÙØµÙÙÙØªÙÙÙØ§ Ø²ÙØ§Ø¯ÙØªÙ Ø¹ÙÙÙÙ Ø§ÙØ±ÙÙÙÙÙÙ Ø¹ÙØ¯ÙØ¯Ø§Ù. Ø¹ÙÙÙØ¯ÙÙÙØ§ Ø£ÙØ³ÙØªÙÙÙÙÙØ¸Ù Ø£ÙØ¬ÙØ¯ÙÙÙÙ ÙÙØ§Ø²ÙÙÙØªÙ ÙÙØ¹ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">18</span> ããããããã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããã¨ããã°ããã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç </rb><rt>ããª</rt></ruby>ããã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãããããã<ruby><rb>ç®</rb><rt>ã</rt></ruby>ãããã¨ãããããã¯ãªãããªãã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«ãã¾ãã",
-      "spa": "<span class=\"verse-number\">18 </span><span class=\"line\">Si los contara, serÃ­an mÃ¡s numerosos que la arena.</span><span class=\"line\">Despierto y aÃºn estoy contigo.</span>",
-      "por": "<span class=\"verse-number\">18</span> <span class=\"clarity-word\">Se</span> as contasse, seriam em maior nÃºmero do que a areia; <span class=\"clarity-word\">quando</span> acordo ainda estou contigo.",
-      "fra": "<span class=\"verse-number\">18</span> Si je les compte, elles sont plus nombreuses que les grains de sable. Je mâÃ©veille et je suis encore avec toi.",
-      "deu": "<span class=\"verse-number\">18Â </span><span class=\"line\">Wolltâ ich sie zÃ¤hlen: ihrer sind mehr als des Sandes;</span><span class=\"line\">wenn ich erwache, bin ich noch immer bei dir.</span>",
-      "kor": "<span class=\"verse-number\">18</span> ë´ê° ì¸ë ¤ê³  í ì§ë¼ë ê·¸ ìê° ëª¨ëë³´ë¤ ë§ëìì´ë¤ ë´ê° ê¹° ëìë ì¬ì í ì£¼ì í¨ê» ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">18</span> Se li voglio contare, sono piÃ¹ numerosi della sabbia; quando mi sveglio sono ancora con te."
+      "eng": "<span class=\"clarity-word\">If</span> I should count them, they are more in number than the sand: when I awake, I am still with thee.",
+      "ara": "إِنْ أَحْصَيْتُهَا زَادَتْ عَلَى الرَّمْلِ عَدَداً. عِنْدَمَا أَسْتَيْقِظُ أَجِدُنِي مَازِلْتُ مَعَكَ.",
+      "jpn": "わたしがこれを<ruby>数<rt>かぞ</rt></ruby>えようとすれば、その<ruby>数<rt>かず</rt></ruby>は<ruby>砂<rt>すな</rt></ruby>よりも<ruby>多<rt>おお</rt></ruby>い。わたしが<ruby>目<rt>め</rt></ruby>ざめるとき、わたしはなおあなたと<ruby>共<rt>とも</rt></ruby>にいます。",
+      "spa": "<span class=\"line\">Si los contara, serían más numerosos que la arena.</span><span class=\"line\">Despierto y aún estoy contigo.</span>",
+      "por": "<span class=\"clarity-word\">Se</span> as contasse, seriam em maior número do que a areia; <span class=\"clarity-word\">quando</span> acordo ainda estou contigo.",
+      "fra": "Si je les compte, elles sont plus nombreuses que les grains de sable. Je m’éveille et je suis encore avec toi.",
+      "deu": "<span class=\"line\">Wollt’ ich sie zählen: ihrer sind mehr als des Sandes;</span><span class=\"line\">wenn ich erwache, bin ich noch immer bei dir.</span>",
+      "kor": "내가 세려고 할지라도 그 수가 모래보다 많도소이다 내가 깰 때에도 여전히 주와 함께 있나이다",
+      "ita": "Se li voglio contare, sono più numerosi della sabbia; quando mi sveglio sono ancora con te."
     },
     "19": {
-      "eng": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p19\" title=\"Associated Content\"><button aria-label=\"Associated Content\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">19 </span>Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙÙÙØªÙÙÙ ÙÙØ§ Ø§ÙÙÙÙ°ÙÙ ØªÙÙÙØªÙÙÙ Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±ÙØ ÙÙÙÙØ¨ÙØªÙØ¹ÙØ¯Ù Ø¹ÙÙÙÙÙ Ø³ÙØ§ÙÙÙÙÙ Ø§ÙØ¯ÙÙÙÙØ§Ø¡Ù.",
-      "jpn": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p19\" title=\"é¢é£ã³ã³ãã³ã\"><button aria-label=\"é¢é£ã³ã³ãã³ã\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">19</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ããã©ãã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãã¦ãã ããã<ruby><rb>è¡</rb><rt>ã¡</rt></ruby>ã<ruby><rb>æµ</rb><rt>ãªã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããããã<ruby><rb>é¢</rb><rt>ã¯ãª</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ããã¦ãã ããã",
-      "spa": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p19\" title=\"Contenido relacionado\"><button aria-label=\"Contenido relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">19 </span><span class=\"line\">De cierto, oh Dios, harÃ¡s morir al malvado.</span><span class=\"line\">Â¡Apartaos, pues, de mÃ­, hombres sanguinarios!</span>",
-      "por": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p19\" title=\"ConteÃºdo relacionado\"><button aria-label=\"ConteÃºdo relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">19</span> Ã Deus, tu matarÃ¡s decerto o Ã­mpio; apartai-vos, portanto, de mim, homens de sangue.",
-      "fra": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p19\" title=\"Contenu associÃ©\"><button aria-label=\"Contenu associÃ©\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">19</span> Ã Dieu, puisses-tu faire mourir le mÃ©chantÂ ! Hommes de sang, Ã©loignez-vous de moiÂ !",
-      "deu": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p19\" title=\"DazugehÃ¶riger Inhalt\"><button aria-label=\"DazugehÃ¶riger Inhalt\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">19Â </span><span class=\"line\">MÃ¶chtest du doch die Frevler tÃ¶ten, o Gott!</span><span class=\"line\">und ihr MÃ¤nner (= Freunde) der Blutschuld, weichet von mir!</span>",
-      "kor": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p19\" title=\"ê´ë ¨ ì½íì¸ \"><button aria-label=\"ê´ë ¨ ì½íì¸ \" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">19</span> íëëì´ì¬ ì£¼ê»ì ë°ëì ìì¸ì ì£½ì´ìë¦¬ì´ë¤ í¼ íë¦¬ê¸°ë¥¼ ì¦ê¸°ë ìë¤ì ëë¥¼ ë ë ì§ì´ë¤",
-      "ita": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p19\" title=\"Contenuti collegati\"><button aria-label=\"Contenuti collegati\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">19</span> Certo, tu ucciderai lâempio, o Dio; perciÃ² dipartitevi da me, uomini di sangue."
+      "eng": "Surely thou wilt slay the wicked, O God: depart from me therefore, ye bloody men.",
+      "ara": "لَيْتَكَ يَا اللّٰهُ تَقْتُلُ الأَشْرَارَ، فَيَبْتَعِدَ عَنِّي سَافِكُو الدِّمَاءِ.",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>よ、どうか<ruby>悪<rt>あ</rt></ruby>しき<ruby>者<rt>もの</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>してください。<ruby>血<rt>ち</rt></ruby>を<ruby>流<rt>なが</rt></ruby>す<ruby>者<rt>もの</rt></ruby>をわたしから<ruby>離<rt>はな</rt></ruby>れ<ruby>去<rt>さ</rt></ruby>らせてください。",
+      "spa": "<span class=\"line\">De cierto, oh Dios, harás morir al malvado.</span><span class=\"line\">¡Apartaos, pues, de mí, hombres sanguinarios!</span>",
+      "por": "Ó Deus, tu matarás decerto o ímpio; apartai-vos, portanto, de mim, homens de sangue.",
+      "fra": "Ô Dieu, puisses-tu faire mourir le méchant ! Hommes de sang, éloignez-vous de moi !",
+      "deu": "<span class=\"line\">Möchtest du doch die Frevler töten, o Gott!</span><span class=\"line\">und ihr Männer (= Freunde) der Blutschuld, weichet von mir!</span>",
+      "kor": "하나님이여 주께서 반드시 악인을 죽이시리이다 피 흘리기를 즐기는 자들아 나를 떠날지어다",
+      "ita": "Certo, tu ucciderai l’empio, o Dio; perciò dipartitevi da me, uomini di sangue."
     },
     "20": {
-      "eng": "<span class=\"verse-number\">20 </span>For they speak against thee wickedly, <span class=\"clarity-word\">and</span> thine enemies take <span class=\"clarity-word\">thy name</span> in vain.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙØ¥ÙÙÙÙÙÙÙÙ ÙÙØªÙØ­ÙØ¯ÙÙØ«ÙÙÙÙ Ø¹ÙÙÙÙÙ Ø¨ÙØ§ÙÙÙÙÙÙØ±Ù ÙÙØ§ÙÙÙÙØ°ÙØ¨ÙØ ÙØ£ÙÙÙÙÙÙÙÙ Ø£ÙØ¹ÙØ¯ÙØ§Ø¤ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">20</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>æµæ</rb><rt>ã¦ãã</rt></ruby>ããã£ã¦ããªããããªã©ããããªãã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ãã£ã¦<ruby><rb>é«</rb><rt>ãã</rt></ruby>ã¶ãã<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã§ãã",
-      "spa": "<span class=\"verse-number\">20 </span><span class=\"line\">Porque ellos hablan maliciosamente contra ti;</span><span class=\"line\">tus enemigos toman en vano <span class=\"clarity-word\">tu nombre.</span></span>",
-      "por": "<span class=\"verse-number\">20</span> Pois falam malvadamente contra ti, <span class=\"clarity-word\">e</span> os teus inimigos tomam o <span class=\"clarity-word\">teu nome</span> em vÃ£o.",
-      "fra": "<span class=\"verse-number\">20</span> Ils parlent de toi dâune maniÃ¨re criminelle, Ils prennent ton nom pour mentir, eux, tes ennemisÂ !",
-      "deu": "<span class=\"verse-number\">20Â </span><span class=\"line\">sie, die von dir mit Arglist (oder: Hintergedanken) reden,</span><span class=\"line\">mit Falschheit reden als deine Widersacher.</span>",
-      "kor": "<span class=\"verse-number\">20</span> ê·¸ë¤ì´ ì£¼ë¥¼ ëíì¬ ìíê² ë§íë©° ì£¼ì ììë¤ì´ <span class=\"clarity-word\">ì£¼ì ì´ë¦ì¼ë¡</span> íëì´ ë§¹ì¸íëì´ë¤",
-      "ita": "<span class=\"verse-number\">20</span> Essi parlano contro di te malvagiamente; i tuoi nemici usano il tuo nome invano."
+      "eng": "For they speak against thee wickedly, <span class=\"clarity-word\">and</span> thine enemies take <span class=\"clarity-word\">thy name</span> in vain.",
+      "ara": "فَإِنَّهُمْ يَتَحَدَّثُونَ عَنْكَ بِالْمَكْرِ وَالْكَذِبِ، لأَنَّهُمْ أَعْدَاؤُكَ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らは<ruby>敵意<rt>てきい</rt></ruby>をもってあなたをあなどり、あなたに<ruby>逆<rt>さか</rt></ruby>らって<ruby>高<rt>たか</rt></ruby>ぶり、<ruby>悪<rt>あく</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>人々<rt>ひとびと</rt></ruby>です。",
+      "spa": "<span class=\"line\">Porque ellos hablan maliciosamente contra ti;</span><span class=\"line\">tus enemigos toman en vano <span class=\"clarity-word\">tu nombre.</span></span>",
+      "por": "Pois falam malvadamente contra ti, <span class=\"clarity-word\">e</span> os teus inimigos tomam o <span class=\"clarity-word\">teu nome</span> em vão.",
+      "fra": "Ils parlent de toi d’une manière criminelle, Ils prennent ton nom pour mentir, eux, tes ennemis !",
+      "deu": "<span class=\"line\">sie, die von dir mit Arglist (oder: Hintergedanken) reden,</span><span class=\"line\">mit Falschheit reden als deine Widersacher.</span>",
+      "kor": "그들이 주를 대하여 악하게 말하며 주의 원수들이 <span class=\"clarity-word\">주의 이름으로</span> 헛되이 맹세하나이다",
+      "ita": "Essi parlano contro di te malvagiamente; i tuoi nemici usano il tuo nome invano."
     },
     "21": {
-      "eng": "<span class=\"verse-number\">21 </span>Do not I hate them, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, that hate thee? and am not I grieved with those that rise up against thee?",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØ§ Ø±ÙØ¨ÙÙ Ø£ÙÙÙØ§ Ø£ÙØ¨ÙØºÙØ¶Ù ÙÙØ¨ÙØºÙØ¶ÙÙÙÙØ ÙÙØ£ÙÙÙØ±ÙÙÙ Ø§ÙØ«ÙÙØ§Ø¦ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">21</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããããã¯ããªãã<ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ã¿ãããªãã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ãã£ã¦<ruby><rb>èµ·</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¤<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããã¨ãã§ã¯ããã¾ãããã",
-      "spa": "<span class=\"verse-number\">21 </span><span class=\"line\">Â¿No odio, oh JehovÃ¡, a los que te aborrecen,</span><span class=\"line\">y no me repugnan tus enemigos?</span>",
-      "por": "<span class=\"verse-number\">21</span> NÃ£o odeio eu, Ã³ <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, aqueles que te odeiam, e nÃ£o me aflijo por causa dos que se levantam contra ti?",
-      "fra": "<span class=\"verse-number\">21</span> Ãternel, nâaurais-je pas de la haine pour ceux qui te haÃ¯ssent, Du dÃ©goÃ»t pour ceux qui sâÃ©lÃ¨vent contre toiÂ ?",
-      "deu": "<span class=\"verse-number\">21Â </span><span class=\"line\">Solltâ ich nicht hassen, die dich, HErr, hassen,</span><span class=\"line\">nicht verabscheun, die sich erheben gegen dich?</span>",
-      "kor": "<span class=\"verse-number\">21</span> ì¬í¸ìì¬ ë´ê° ì£¼ë¥¼ ë¯¸ìíë ìë¤ì ë¯¸ìíì§ ìëíì¤ë©° ì£¼ë¥¼ ì¹ë¬ ì¼ì´ëë ìë¤ì ë¯¸ìíì§ ìëíëì´ê¹",
-      "ita": "<span class=\"verse-number\">21</span> O Eterno, non odio io quelli che ti odiano? E non aborro io quelli che si levano contro di te?"
+      "eng": "Do not I hate them, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, that hate thee? and am not I grieved with those that rise up against thee?",
+      "ara": "يَا رَبُّ أَلَا أُبْغِضُ مُبْغِضِيكَ، وَأَكْرَهُ الثَّائِرِينَ عَلَيْكَ؟",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、わたしはあなたを<ruby>憎<rt>にく</rt></ruby>む<ruby>者<rt>もの</rt></ruby>を<ruby>憎<rt>にく</rt></ruby>み、あなたに<ruby>逆<rt>さか</rt></ruby>らって<ruby>起<rt>おこ</rt></ruby>り<ruby>立<rt>た</rt></ruby>つ<ruby>者<rt>もの</rt></ruby>をいとうではありませんか。",
+      "spa": "<span class=\"line\">¿No odio, oh Jehová, a los que te aborrecen,</span><span class=\"line\">y no me repugnan tus enemigos?</span>",
+      "por": "Não odeio eu, ó <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, aqueles que te odeiam, e não me aflijo por causa dos que se levantam contra ti?",
+      "fra": "Éternel, n’aurais-je pas de la haine pour ceux qui te haïssent, Du dégoût pour ceux qui s’élèvent contre toi ?",
+      "deu": "<span class=\"line\">Sollt’ ich nicht hassen, die dich, HErr, hassen,</span><span class=\"line\">nicht verabscheun, die sich erheben gegen dich?</span>",
+      "kor": "여호와여 내가 주를 미워하는 자들을 미워하지 아니하오며 주를 치러 일어나는 자들을 미워하지 아니하나이까",
+      "ita": "O Eterno, non odio io quelli che ti odiano? E non aborro io quelli che si levano contro di te?"
     },
     "22": {
-      "eng": "<span class=\"verse-number\">22 </span>I hate them with perfect hatred: I count them mine enemies.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>Ø¨ÙØºÙØ¶Ø§Ù ØªÙØ§ÙÙØ§Ù Ø£ÙØ¨ÙØºÙØ¶ÙÙÙÙÙØ ÙÙØ£ÙØ­ÙØ³ÙØ¨ÙÙÙÙÙ Ø£ÙØ¹ÙØ¯ÙØ§Ø¡Ù ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">22</span> ãããã¯<ruby><rb>å¨</rb><rt>ã¾ã£ã</rt></ruby>ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ã¿ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãããããã®<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ã¨<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¾ãã",
-      "spa": "<span class=\"verse-number\">22 </span><span class=\"line\">Los aborrezco con intenso odio;</span><span class=\"line\">los tengo por enemigos.</span>",
-      "por": "<span class=\"verse-number\">22</span> Odeio-os com Ã³dio consumado; tenho-os por inimigos.",
-      "fra": "<span class=\"verse-number\">22</span> Je les hais dâune parfaite haineÂ ; Ils sont pour moi des ennemis.",
-      "deu": "<span class=\"verse-number\">22Â </span><span class=\"line\">Ja, ich hasse sie mit tÃ¶dlichem HaÃ:</span><span class=\"line\">als Feinde gelten sie mir.</span>",
-      "kor": "<span class=\"verse-number\">22</span> ë´ê° ê·¸ë¤ì ì¬í ë¯¸ìíë ê·¸ë¤ì ëì ììë¤ì´ëì´ë¤",
-      "ita": "<span class=\"verse-number\">22</span> Io li odio di un odio perfetto; li tengo per miei nemici."
+      "eng": "I hate them with perfect hatred: I count them mine enemies.",
+      "ara": "بُغْضاً تَامّاً أُبْغِضُهُمْ، وَأَحْسِبُهُمْ أَعْدَاءَ لِي.",
+      "jpn": "わたしは<ruby>全<rt>まった</rt></ruby>く<ruby>彼<rt>かれ</rt></ruby>らを<ruby>憎<rt>にく</rt></ruby>み、<ruby>彼<rt>かれ</rt></ruby>らをわたしの<ruby>敵<rt>てき</rt></ruby>と<ruby>思<rt>おも</rt></ruby>います。",
+      "spa": "<span class=\"line\">Los aborrezco con intenso odio;</span><span class=\"line\">los tengo por enemigos.</span>",
+      "por": "Odeio-os com ódio consumado; tenho-os por inimigos.",
+      "fra": "Je les hais d’une parfaite haine ; Ils sont pour moi des ennemis.",
+      "deu": "<span class=\"line\">Ja, ich hasse sie mit tödlichem Haß:</span><span class=\"line\">als Feinde gelten sie mir.</span>",
+      "kor": "내가 그들을 심히 미워하니 그들은 나의 원수들이니이다",
+      "ita": "Io li odio di un odio perfetto; li tengo per miei nemici."
     },
     "23": {
-      "eng": "<span class=\"verse-number\">23 </span>Search me, O God, and know my heart: try me, and know my thoughts:",
-      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ØªÙÙÙØ­ÙÙØµÙÙÙÙ ÙÙØ§ Ø§ÙÙÙÙ°ÙÙ ÙÙØ§Ø¹ÙØ±ÙÙÙ ÙÙÙÙØ¨ÙÙ. Ø§ÙÙØªÙØ­ÙÙÙÙÙ ÙÙØ§Ø¹ÙØ±ÙÙÙ Ø£ÙÙÙÙÙØ§Ø±ÙÙ.",
-      "jpn": "<span class=\"verse-number\">23</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ããã©ããããããã<ruby><rb>æ¢</rb><rt>ãã</rt></ruby>ã£ã¦ããã<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããããã<ruby><rb>è©¦</rb><rt>ããã</rt></ruby>ã¿ã¦ãããããããã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã£ã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">23 </span><span class=\"line\">EscudrÃ­Ã±ame, oh Dios, y conoce mi corazÃ³n;</span><span class=\"line\">pruÃ©bame y conoce mis pensamientos.</span>",
-      "por": "<span class=\"verse-number\">23</span> Sonda-me, Ã³ Deus, e conhece o meu coraÃ§Ã£o; pÃµe-me Ã  prova, e conhece os meus pensamentos,",
-      "fra": "<span class=\"verse-number\">23</span> Sonde-moi, Ã´ Dieu, et connais mon cÅurÂ ! Ãprouve-moi et connais mes pensÃ©esÂ !",
-      "deu": "<span class=\"verse-number\">23Â </span><span class=\"line\">Erforsche mich, Gott, und erkenne mein Herz,</span><span class=\"line\">prÃ¼fe mich und erkenne meine Gedanken!</span>",
-      "kor": "<span class=\"verse-number\">23</span>  íëëì´ì¬ ëë¥¼ ì´í¼ì¬ ë´ ë§ìì ììë©° ëë¥¼ ìííì¬ ë´ ë»ì ììµìì",
-      "ita": "<span class=\"verse-number\">23</span> Scrutami, o Dio, e conosci il mio cuore. Provami, e conosci i miei pensieri."
+      "eng": "Search me, O God, and know my heart: try me, and know my thoughts:",
+      "ara": "تَفَحَّصْنِي يَا اللّٰهُ وَاعْرِفْ قَلْبِي. امْتَحِنِّي وَاعْرِفْ أَفْكَارِي.",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>よ、どうか、わたしを<ruby>探<rt>さぐ</rt></ruby>って、わが<ruby>心<rt>こころ</rt></ruby>を<ruby>知<rt>し</rt></ruby>り、わたしを<ruby>試<rt>こころ</rt></ruby>みて、わがもろもろの<ruby>思<rt>おも</rt></ruby>いを<ruby>知<rt>し</rt></ruby>ってください。",
+      "spa": "<span class=\"line\">Escudríñame, oh Dios, y conoce mi corazón;</span><span class=\"line\">pruébame y conoce mis pensamientos.</span>",
+      "por": "Sonda-me, ó Deus, e conhece o meu coração; põe-me à prova, e conhece os meus pensamentos,",
+      "fra": "Sonde-moi, ô Dieu, et connais mon cœur ! Éprouve-moi et connais mes pensées !",
+      "deu": "<span class=\"line\">Erforsche mich, Gott, und erkenne mein Herz,</span><span class=\"line\">prüfe mich und erkenne meine Gedanken!</span>",
+      "kor": "하나님이여 나를 살피사 내 마음을 아시며 나를 시험하사 내 뜻을 아옵소서",
+      "ita": "Scrutami, o Dio, e conosci il mio cuore. Provami, e conosci i miei pensieri."
     },
     "24": {
-      "eng": "<span class=\"verse-number\">24 </span>And see if <span class=\"clarity-word\">there be any</span> wicked way in me, and lead me in the way everlasting.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙØ§ÙÙØ¸ÙØ±Ù Ø¥ÙÙ ÙÙØ§ÙÙ ÙÙÙÙÙ Ø·ÙØ±ÙÙÙÙ Ø³ÙÙØ¡ÙØ ÙÙØ§ÙÙØ¯ÙÙÙÙ Ø§ÙØ·ÙÙØ±ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">24</span> ãããã«<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã®ããããªããã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ã¦ãããããã¨ãããã®<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã«<ruby><rb>å°</rb><rt>ã¿ã¡ã³</rt></ruby>ãã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">24 </span><span class=\"line\">Y ve si hay camino de perversidad en mÃ­</span><span class=\"line\">y guÃ­ame por el camino eterno.</span>",
-      "por": "<span class=\"verse-number\">24</span> E vÃª se <span class=\"clarity-word\">hÃ¡</span> em mim algum caminho mau, e guia-me pelo caminho eterno.",
-      "fra": "<span class=\"verse-number\">24</span> Regarde si je suis sur une mauvaise voie, Et conduis-moi sur la voie de lâÃ©ternitÃ©Â !",
-      "deu": "<span class=\"verse-number\">24Â </span><span class=\"line\">und sieh, ob ich wandle auf trÃ¼glichem Wege,</span><span class=\"line\">und leite mich auf dem ewigen Wege!</span>",
-      "kor": "<span class=\"verse-number\">24</span> ë´ê² ë¬´ì¨ ìí íìê° ìë ë³´ìê³  ëë¥¼ ììí ê¸¸ë¡ ì¸ëíìì",
-      "ita": "<span class=\"verse-number\">24</span> E vedi se vâÃ¨ in me qualche via iniqua, e guidami per la via eterna."
+      "eng": "And see if <span class=\"clarity-word\">there be any</span> wicked way in me, and lead me in the way everlasting.",
+      "ara": "وَانْظُرْ إنْ كَانَ فِيَّ طَرِيقُ سُوءٍ، وَاهْدِنِي الطَّرِيقَ الأَبَدِيَّ.",
+      "jpn": "わたしに<ruby>悪<rt>あ</rt></ruby>しき<ruby>道<rt>みち</rt></ruby>のあるかないかを<ruby>見<rt>み</rt></ruby>て、わたしをとこしえの<ruby>道<rt>みち</rt></ruby>に<ruby>導<rt>みちび</rt></ruby>いてください。",
+      "spa": "<span class=\"line\">Y ve si hay camino de perversidad en mí</span><span class=\"line\">y guíame por el camino eterno.</span>",
+      "por": "E vê se <span class=\"clarity-word\">há</span> em mim algum caminho mau, e guia-me pelo caminho eterno.",
+      "fra": "Regarde si je suis sur une mauvaise voie, Et conduis-moi sur la voie de l’éternité !",
+      "deu": "<span class=\"line\">und sieh, ob ich wandle auf trüglichem Wege,</span><span class=\"line\">und leite mich auf dem ewigen Wege!</span>",
+      "kor": "내게 무슨 악한 행위가 있나 보시고 나를 영원한 길로 인도하소서",
+      "ita": "E vedi se v’è in me qualche via iniqua, e guidami per la via eterna."
     }
   }
 }

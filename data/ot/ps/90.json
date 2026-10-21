@@ -4,207 +4,207 @@
     "book": "ps",
     "chapter": 90,
     "headings": {
-      "eng": "A prayer of Moses, the man of GodâGod is from everlasting to everlastingâManâs days last but seventy yearsâMoses implores the Lord to give mercy and blessings to His people.",
-      "spa": "OraciÃ³n de MoisÃ©s, varÃ³n de DiosÂ â Dios es de eternidad en eternidadÂ â Los dÃ­as de los hombres son setenta aÃ±osÂ â MoisÃ©s implora a JehovÃ¡ que sea misericordioso con Su pueblo y que le dÃ© bendiciones.",
-      "por": "OraÃ§Ã£o de MoisÃ©s, homem de DeusÂ â Deus Ã© de eternidade em eternidadeÂ â Os dias do homem nÃ£o duram mais que setenta anosÂ â MoisÃ©s implora ao Senhor que conceda misericÃ³rdia e bÃªnÃ§Ã£os a Seu povo.",
-      "fra": "PriÃ¨re de MoÃ¯se, homme de Dieu. Dieu est dâÃ©ternitÃ© en Ã©ternitÃ©. La durÃ©e de vie de lâhomme nâest que de soixante-dix ans. MoÃ¯se implore lâÃternel dâÃªtre bon et dâaccorder des bÃ©nÃ©dictions Ã  son peuple.",
-      "ita": "Preghiera di MosÃ¨, lâuomo di DioÂ â Dio Ã¨ di eternitÃ  in eternitÃ Â â I giorni dellâuomo non durano che settantâanniÂ â MosÃ¨ implora il Signore di concedere benignitÃ  e benedizioni al Suo popolo."
+      "eng": "A prayer of Moses, the man of God—God is from everlasting to everlasting—Man’s days last but seventy years—Moses implores the Lord to give mercy and blessings to His people.",
+      "spa": "Oración de Moisés, varón de Dios — Dios es de eternidad en eternidad — Los días de los hombres son setenta años — Moisés implora a Jehová que sea misericordioso con Su pueblo y que le dé bendiciones.",
+      "por": "Oração de Moisés, homem de Deus — Deus é de eternidade em eternidade — Os dias do homem não duram mais que setenta anos — Moisés implora ao Senhor que conceda misericórdia e bênçãos a Seu povo.",
+      "fra": "Prière de Moïse, homme de Dieu. Dieu est d’éternité en éternité. La durée de vie de l’homme n’est que de soixante-dix ans. Moïse implore l’Éternel d’être bon et d’accorder des bénédictions à son peuple.",
+      "ita": "Preghiera di Mosè, l’uomo di Dio — Dio è di eternità in eternità — I giorni dell’uomo non durano che settant’anni — Mosè implora il Signore di concedere benignità e benedizioni al Suo popolo."
     },
     "intros": {
       "eng": "A Prayer of Moses the man of God.",
-      "jpn": "<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¢ã¼ã»ã®<ruby><rb>ç¥</rb><rt>ãã®ã</rt></ruby>",
-      "spa": "OraciÃ³n de MoisÃ©s, varÃ³n de Dios.",
-      "por": "OraÃ§Ã£o de MoisÃ©s, homem de Deus.",
-      "ita": "Preghiera di MosÃ¨, uomo di Dio."
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>モーセの<ruby>祈<rt>いのり</rt></ruby>",
+      "spa": "Oración de Moisés, varón de Dios.",
+      "por": "Oração de Moisés, homem de Deus.",
+      "ita": "Preghiera di Mosè, uomo di Dio."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span><span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, thou hast been our dwelling place in all generations.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ§ Ø±ÙØ¨ÙÙ Ø£ÙÙÙØªÙ ÙÙÙÙØªÙ ÙÙÙÙØ¬ÙØ£Ù ÙÙÙÙØ§ ÙÙÙÙÙØ°Ù Ø¨ÙÙÙ Ø¬ÙÙÙØ§Ù Ø¨ÙØ¹ÙØ¯Ù Ø¬ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããªãã¯<ruby><rb>ä¸ã</rb><rt>ãã</rt></ruby>ãããã®ãã¿ãã§ããããããã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">SeÃ±or, tÃº has sido nuestra morada</span><span class=\"line\">de generaciÃ³n en generaciÃ³n.</span>",
-      "por": "<span class=\"verse-number\">1</span> <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, tu tens sido o nosso refÃºgio, de geraÃ§Ã£o em geraÃ§Ã£o.",
-      "fra": "<span class=\"verse-number\">1</span> PriÃ¨re de MoÃ¯se, homme de Dieu. SeigneurÂ ! tu as Ã©tÃ© pour nous un refuge, De gÃ©nÃ©ration en gÃ©nÃ©ration.",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Ein Gebet Moseâs, des Mannes Gottes.</span><span class=\"line\">O Allherr, eine Zuflucht bist du uns gewesen</span><span class=\"line\">von Geschlecht zu Geschlecht.</span>",
-      "kor": "<span class=\"verse-number\">1</span> ì£¼ì¬ ì£¼ë ëëì ì°ë¦¬ì ê±°ì²ê° ëì¨ëì´ë¤",
-      "ita": "<span class=\"verse-number\">1</span> O Signore, tu sei stato per noi un rifugio di generazione in generazione."
+      "eng": "<span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, thou hast been our dwelling place in all generations.",
+      "ara": "يَا رَبُّ أَنْتَ كُنْتَ مَلْجَأً لَنَا نَلُوذُ بِهِ جِيلاً بَعْدَ جِيلٍ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、あなたは<ruby>世々<rt>よよ</rt></ruby>われらのすみかでいらせられる。",
+      "spa": "<span class=\"line\">Señor, tú has sido nuestra morada</span><span class=\"line\">de generación en generación.</span>",
+      "por": "<span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, tu tens sido o nosso refúgio, de geração em geração.",
+      "fra": "Prière de Moïse, homme de Dieu. Seigneur ! tu as été pour nous un refuge, De génération en génération.",
+      "deu": "<span class=\"line\">Ein Gebet Mose’s, des Mannes Gottes.</span><span class=\"line\">O Allherr, eine Zuflucht bist du uns gewesen</span><span class=\"line\">von Geschlecht zu Geschlecht.</span>",
+      "kor": "주여 주는 대대에 우리의 거처가 되셨나이다",
+      "ita": "O Signore, tu sei stato per noi un rifugio di generazione in generazione."
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou <span class=\"clarity-word\">art</span> God.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØ¨ÙÙÙ Ø£ÙÙÙ Ø£ÙÙÙØ¬ÙØ¯ÙØªÙ Ø§ÙÙØ¬ÙØ¨ÙØ§ÙÙ Ø£ÙÙÙ ÙÙÙÙÙÙÙØªÙ Ø§ÙÙÙÙØ³ÙÙÙÙÙÙØ©ÙØ Ø£ÙÙÙØªÙ Ø§ÙÙÙÙ°ÙÙ ÙÙÙÙ Ø§ÙØ£ÙØ²ÙÙÙ ÙÙØ¥ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯Ù.",
-      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ãã¾ã <ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããããªããã¾ã <ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã¨<ruby><rb>ä¸ç</rb><rt>ããã</rt></ruby>ã¨ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãããªãã£ãã¨ããã¨ãããããã¨ãããã¾ã§ãããªãã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã§ããããããã",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Antes que naciesen los montes</span><span class=\"line\">y formases la tierra y el mundo,</span><span class=\"line\">y desde la eternidad y hasta la eternidad, tÃº eres Dios.</span>",
-      "por": "<span class=\"verse-number\">2</span> Antes que os montes nascessem, ou que tu formasses a terra e o mundo, mesmo de eternidade em eternidade, tu <span class=\"clarity-word\">Ã©s</span> Deus.",
-      "fra": "<span class=\"verse-number\">2</span> Avant que les montagnes soient nÃ©es, Et que tu aies crÃ©Ã© la terre et le monde, DâÃ©ternitÃ© en Ã©ternitÃ© tu es Dieu.",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Ehe die Berge geboren waren</span><span class=\"line\">und die Erde und die Welt von dir geschaffen wurden,</span><span class=\"line\">ja von Ewigkeit zu Ewigkeit bist du, o Gott.</span>",
-      "kor": "<span class=\"verse-number\">2</span> ì°ì´ ìê¸°ê¸° ì , ëê³¼ ì¸ê³ë ì£¼ê»ì ì¡°ì±íìê¸° ì  ê³§ ììë¶í° ììê¹ì§ ì£¼ë íëëì´ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">2</span> Prima che i monti fossero nati e che tu avessi formato la terra e il mondo, anzi, di eternitÃ  in eternitÃ , tu sei Dio."
+      "eng": "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou <span class=\"clarity-word\">art</span> God.",
+      "ara": "قَبْلَ أَنْ أَوْجَدْتَ الْجِبَالَ أَوْ كَوَّنْتَ الْمَسْكُونَةَ، أَنْتَ اللّٰهُ مِنَ الأَزَلِ وَإِلَى الأَبَدِ.",
+      "jpn": "<ruby>山<rt>やま</rt></ruby>がまだ<ruby>生<rt>うま</rt></ruby>れず、あなたがまだ<ruby>地<rt>ち</rt></ruby>と<ruby>世界<rt>せかい</rt></ruby>とを<ruby>造<rt>つく</rt></ruby>られなかったとき、とこしえからとこしえまで、あなたは<ruby>神<rt>かみ</rt></ruby>でいらせられる。",
+      "spa": "<span class=\"line\">Antes que naciesen los montes</span><span class=\"line\">y formases la tierra y el mundo,</span><span class=\"line\">y desde la eternidad y hasta la eternidad, tú eres Dios.</span>",
+      "por": "Antes que os montes nascessem, ou que tu formasses a terra e o mundo, mesmo de eternidade em eternidade, tu <span class=\"clarity-word\">és</span> Deus.",
+      "fra": "Avant que les montagnes soient nées, Et que tu aies créé la terre et le monde, D’éternité en éternité tu es Dieu.",
+      "deu": "<span class=\"line\">Ehe die Berge geboren waren</span><span class=\"line\">und die Erde und die Welt von dir geschaffen wurden,</span><span class=\"line\">ja von Ewigkeit zu Ewigkeit bist du, o Gott.</span>",
+      "kor": "산이 생기기 전, 땅과 세계도 주께서 조성하시기 전 곧 영원부터 영원까지 주는 하나님이시니이다",
+      "ita": "Prima che i monti fossero nati e che tu avessi formato la terra e il mondo, anzi, di eternità in eternità, tu sei Dio."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>Thou turnest man to destruction; and sayest, Return, ye children of men.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>ØªÙØ¹ÙÙØ¯Ù Ø§ÙØ¥ÙÙÙØ³ÙØ§ÙÙ Ø¥ÙÙÙÙ Ø§ÙØªÙÙØ±ÙØ§Ø¨Ù ÙÙØ§Ø¦ÙÙØ§Ù: Ø¹ÙÙØ¯ÙÙØ§ Ø¥ÙÙÙÙÙÙÙ ÙÙØ§ Ø¨ÙÙÙÙ Ø¢Ø¯ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">3</span> ããªãã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãã¡ãã«<ruby><rb>å¸°</rb><rt>ãã</rt></ruby>ããã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ããã¾ããã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã<ruby><rb>å¸°</rb><rt>ãã</rt></ruby>ããã¨ã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Haces que el hombre vuelva a ser polvo</span><span class=\"line\">y dices: Volved, hijos de los hombres.</span>",
-      "por": "<span class=\"verse-number\">3</span> Tu reduzes o homem Ã  destruiÃ§Ã£o, e dizes: Voltai, filhos dos homens.",
-      "fra": "<span class=\"verse-number\">3</span> Tu fais retourner les hommes Ã  la poussiÃ¨re, Et tu disÂ : Enfants des hommes, retournezÂ !",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Du lÃ¤Ãt die Menschen zum Staub zurÃ¼ckkehren</span><span class=\"line\">und sprichst: âKommt wieder (= kehrt zurÃ¼ck), ihr Menschenkinder!â</span>",
-      "kor": "<span class=\"verse-number\">3</span> ì£¼ê»ì ì¬ëì í°ëë¡ ëìê°ê² íìê³  ë§ìíìê¸°ë¥¼ ëí¬ ì¸ìë¤ì ëìê°ë¼ íì¨ì¬ì¤ë",
-      "ita": "<span class=\"verse-number\">3</span> Tu fai tornare i mortali in polvere e dici: âRitornate, o figli degli uominiâ."
+      "eng": "Thou turnest man to destruction; and sayest, Return, ye children of men.",
+      "ara": "تُعِيدُ الإِنْسَانَ إِلَى التُّرَابِ قَائِلاً: عُودُوا إِلَيْهِ يَا بَنِي آدَمَ.",
+      "jpn": "あなたは<ruby>人<rt>ひと</rt></ruby>をちりに<ruby>帰<rt>かえ</rt></ruby>らせて<ruby>言<rt>い</rt></ruby>われます、「<ruby>人<rt>ひと</rt></ruby>の<ruby>子<rt>こ</rt></ruby>よ、<ruby>帰<rt>かえ</rt></ruby>れ」と。",
+      "spa": "<span class=\"line\">Haces que el hombre vuelva a ser polvo</span><span class=\"line\">y dices: Volved, hijos de los hombres.</span>",
+      "por": "Tu reduzes o homem à destruição, e dizes: Voltai, filhos dos homens.",
+      "fra": "Tu fais retourner les hommes à la poussière, Et tu dis : Enfants des hommes, retournez !",
+      "deu": "<span class=\"line\">Du läßt die Menschen zum Staub zurückkehren</span><span class=\"line\">und sprichst: „Kommt wieder (= kehrt zurück), ihr Menschenkinder!”</span>",
+      "kor": "주께서 사람을 티끌로 돌아가게 하시고 말씀하시기를 너희 인생들은 돌아가라 하셨사오니",
+      "ita": "Tu fai tornare i mortali in polvere e dici: “Ritornate, o figli degli uomini”."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>For a thousand years in thy sight <span class=\"clarity-word\">are but</span> as yesterday when it is past, and <span class=\"clarity-word\">as</span> a watch in the night.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ¥ÙÙÙÙ Ø£ÙÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙ Ø¹ÙÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙÙÙ Ø£ÙÙÙØ³Ù Ø§ÙÙØ¹ÙØ§Ø¨ÙØ±ÙØ Ø£ÙÙÙ ÙÙØ«ÙÙÙ ÙÙØ²ÙÙØ¹Ù ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">4</span> ããªãã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ã¯å<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby>ã<ruby><rb>é</rb><rt>ã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ãã°ãã®ãã®ãã¨ãã<ruby><rb>å¤</rb><rt>ã</rt></ruby>ã®<ruby><rb>é</rb><rt>ã¾</rt></ruby>ã®ã²ã¨<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã®ããã§ãã",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Porque mil aÃ±os delante de tus ojos</span><span class=\"line\">son como el dÃ­a de ayer, que ya pasÃ³,</span><span class=\"line\">y como una de las vigilias de la noche.</span>",
-      "por": "<span class=\"verse-number\">4</span> Porque mil anos <span class=\"clarity-word\">sÃ£o</span> aos teus olhos como o dia de ontem que passou, e <span class=\"clarity-word\">como</span> a vigÃ­lia da noite.",
-      "fra": "<span class=\"verse-number\">4</span> Car mille ans sont Ã  tes yeux, Comme le jour dâhier quand il nâest plus, Et comme une veille de la nuit.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Denn tausend Jahre sind in deinen Augen</span><span class=\"line\">wie der gestrige Tag, wenn er vergangen,</span><span class=\"line\">und wie eine Wache in der Nacht.</span>",
-      "kor": "<span class=\"verse-number\">4</span> ì£¼ì ëª©ì ìë ì² ëì´ ì§ëê° ì´ì  ê°ì¼ë©° ë°¤ì í ìê° ê°ì ë¿ìì´ëì´ë¤",
-      "ita": "<span class=\"verse-number\">4</span> PerchÃ© mille anni, ai tuoi occhi, sono come il giorno di ieri quando Ã¨ passato, e come una veglia nella notte."
+      "eng": "For a thousand years in thy sight <span class=\"clarity-word\">are but</span> as yesterday when it is past, and <span class=\"clarity-word\">as</span> a watch in the night.",
+      "ara": "فَإِنَّ أَلْفَ سَنَةٍ فِي عَيْنَيْكَ كَيَوْمِ أَمْسِ الْعَابِرِ، أَوْ مِثْلُ هَزِيعٍ مِنَ اللَّيْلِ.",
+      "jpn": "あなたの<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>には千<ruby>年<rt>ねん</rt></ruby>も<ruby>過<rt>す</rt></ruby>ぎ<ruby>去<rt>さ</rt></ruby>ればきのうのごとく、<ruby>夜<rt>よ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>のひと<ruby>時<rt>とき</rt></ruby>のようです。",
+      "spa": "<span class=\"line\">Porque mil años delante de tus ojos</span><span class=\"line\">son como el día de ayer, que ya pasó,</span><span class=\"line\">y como una de las vigilias de la noche.</span>",
+      "por": "Porque mil anos <span class=\"clarity-word\">são</span> aos teus olhos como o dia de ontem que passou, e <span class=\"clarity-word\">como</span> a vigília da noite.",
+      "fra": "Car mille ans sont à tes yeux, Comme le jour d’hier quand il n’est plus, Et comme une veille de la nuit.",
+      "deu": "<span class=\"line\">Denn tausend Jahre sind in deinen Augen</span><span class=\"line\">wie der gestrige Tag, wenn er vergangen,</span><span class=\"line\">und wie eine Wache in der Nacht.</span>",
+      "kor": "주의 목전에는 천 년이 지나간 어제 같으며 밤의 한 순간 같을 뿐임이니이다",
+      "ita": "Perché mille anni, ai tuoi occhi, sono come il giorno di ieri quando è passato, e come una veglia nella notte."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>Thou carriest them away as with a flood; they are <span class=\"clarity-word\">as</span> a sleep: in the morning <span class=\"clarity-word\">they are</span> like grass <span class=\"clarity-word\">which</span> groweth up.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ØªÙØ¬ÙØ±ÙÙÙ Ø§ÙÙØ¨ÙØ´ÙØ±Ù ÙÙÙÙØ§ ÙÙØ¬ÙØ±ÙÙÙÙÙÙÙ Ø§ÙØ·ÙÙÙÙÙØ§ÙÙØ ÙÙÙÙØ²ÙÙÙÙÙÙÙ ÙÙØ§ÙÙØ­ÙÙÙÙÙ Ø¹ÙÙÙØ¯Ù Ø§ÙØµÙÙØ¨ÙØ§Ø­Ù ÙÙØ«ÙÙÙ Ø§ÙÙØ¹ÙØ´ÙØ¨Ù Ø§ÙÙÙØ°ÙÙ ÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">5</span> ããªãã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>å¤§æ°´</rb><rt>ããã¿ã</rt></ruby>ã®ããã«<ruby><rb>æµ</rb><rt>ãªã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ããããã¾ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ã²ã¨<ruby><rb>å¤</rb><rt>ã</rt></ruby>ã®<ruby><rb>å¤¢</rb><rt>ãã</rt></ruby>ã®ãã¨ãããããã«ããã§ã<ruby><rb>éè</rb><rt>ãããã</rt></ruby>ã®ããã§ãã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">Los arrastras como con torrente de aguas; son como sueÃ±o,</span><span class=\"line\">como la hierba que crece por la maÃ±ana,</span>",
-      "por": "<span class=\"verse-number\">5</span> Tu os levas como com <span class=\"clarity-word\">uma</span> corrente de Ã¡gua; sÃ£o <span class=\"clarity-word\">como um</span> sono; de manhÃ£ <span class=\"clarity-word\">sÃ£o</span> como a erva <span class=\"clarity-word\">que</span> cresce.",
-      "fra": "<span class=\"verse-number\">5</span> Tu les emportes, semblables Ã  un songe, Qui, le matin, passe comme lâherbeÂ :",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Du schwemmst sie hinweg: sie sind wie ein Schlaf am Morgen,</span><span class=\"line\">dem sprossenden Grase gleich:</span>",
-      "kor": "<span class=\"verse-number\">5</span> ì£¼ê»ì ê·¸ë¤ì íìì²ë¼ ì¸ì´ê°ìëì´ë¤ ê·¸ë¤ì ì ê¹ ìë ê² ê°ì¼ë©° ìì¹¨ì ëë í ê°ì¼ëì´ë¤",
-      "ita": "<span class=\"verse-number\">5</span> Tu li porti via come in una piena; sono come un sogno. Sono come lâerba che verdeggia la mattina;"
+      "eng": "Thou carriest them away as with a flood; they are <span class=\"clarity-word\">as</span> a sleep: in the morning <span class=\"clarity-word\">they are</span> like grass <span class=\"clarity-word\">which</span> groweth up.",
+      "ara": "تَجْرُفُ الْبَشَرَ كَمَا يَجْرُفُهُمُ الطُّوفَانُ، فَيَزُولُونَ كَالْحُلْمِ عِنْدَ الصَّبَاحِ مِثْلَ الْعُشْبِ الَّذِي يَنْمُو.",
+      "jpn": "あなたは<ruby>人<rt>ひと</rt></ruby>を<ruby>大水<rt>おおみず</rt></ruby>のように<ruby>流<rt>なが</rt></ruby>れ<ruby>去<rt>さ</rt></ruby>らせられます。<ruby>彼<rt>かれ</rt></ruby>らはひと<ruby>夜<rt>よ</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>のごとく、あしたにもえでる<ruby>青草<rt>あおくさ</rt></ruby>のようです。",
+      "spa": "<span class=\"line\">Los arrastras como con torrente de aguas; son como sueño,</span><span class=\"line\">como la hierba que crece por la mañana,</span>",
+      "por": "Tu os levas como com <span class=\"clarity-word\">uma</span> corrente de água; são <span class=\"clarity-word\">como um</span> sono; de manhã <span class=\"clarity-word\">são</span> como a erva <span class=\"clarity-word\">que</span> cresce.",
+      "fra": "Tu les emportes, semblables à un songe, Qui, le matin, passe comme l’herbe :",
+      "deu": "<span class=\"line\">Du schwemmst sie hinweg: sie sind wie ein Schlaf am Morgen,</span><span class=\"line\">dem sprossenden Grase gleich:</span>",
+      "kor": "주께서 그들을 홍수처럼 쓸어가시나이다 그들은 잠깐 자는 것 같으며 아침에 돋는 풀 같으니이다",
+      "ita": "Tu li porti via come in una piena; sono come un sogno. Sono come l’erba che verdeggia la mattina;"
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ²ÙÙÙØ±Ù ÙÙÙ Ø§ÙØµÙÙØ¨ÙØ§Ø­Ù ÙÙÙÙÙÙÙÙÙØ ÙÙÙÙÙ Ø§ÙÙÙÙØ³ÙØ§Ø¡Ù ÙÙÙÙØ·ÙØ¹Ù ÙÙÙÙØ¬ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">6</span> ãããã«ããã§ã¦ã<ruby><rb>æ </rb><rt>ãã</rt></ruby>ãããã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ã¹ã«ã¯ããããã¦<ruby><rb>æ¯</rb><rt>ã</rt></ruby>ããã®ã§ãã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">por la maÃ±ana florece y crece;</span><span class=\"line\">al atardecer se marchita y se seca.</span>",
-      "por": "<span class=\"verse-number\">6</span> De madrugada, floresce e cresce; Ã  tarde, murcha e seca.",
-      "fra": "<span class=\"verse-number\">6</span> Elle fleurit le matin et elle passe, On la coupe le soir et elle sÃ¨che.",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">am Morgen grÃ¼nt es und sprieÃt,</span><span class=\"line\">am Abend welkt es (oder: man mÃ¤ht es) ab, und es verdorrt.</span>",
-      "kor": "<span class=\"verse-number\">6</span> <span class=\"clarity-word\">íì</span> ìì¹¨ì ê½ì´ í¼ì´ ìë¼ë¤ê° ì ëìë ìë¤ì´ ë§ë¥´ëì´ë¤",
-      "ita": "<span class=\"verse-number\">6</span> la mattina essa fiorisce e verdeggia, la sera Ã¨ falciata e si secca."
+      "eng": "In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.",
+      "ara": "يُزْهِرُ فِي الصَّبَاحِ وَيَنْمُو، وَفِي الْمَسَاءِ يُقْطَعُ وَيَجِفُّ.",
+      "jpn": "あしたにもえでて、<ruby>栄<rt>さか</rt></ruby>えるが、<ruby>夕<rt>ゆう</rt></ruby>べには、しおれて<ruby>枯<rt>か</rt></ruby>れるのです。",
+      "spa": "<span class=\"line\">por la mañana florece y crece;</span><span class=\"line\">al atardecer se marchita y se seca.</span>",
+      "por": "De madrugada, floresce e cresce; à tarde, murcha e seca.",
+      "fra": "Elle fleurit le matin et elle passe, On la coupe le soir et elle sèche.",
+      "deu": "<span class=\"line\">am Morgen grünt es und sprießt,</span><span class=\"line\">am Abend welkt es (oder: man mäht es) ab, und es verdorrt.</span>",
+      "kor": "<span class=\"clarity-word\">풀은</span> 아침에 꽃이 피어 자라다가 저녁에는 시들어 마르나이다",
+      "ita": "la mattina essa fiorisce e verdeggia, la sera è falciata e si secca."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>For we are consumed by thine anger, and by thy wrath are we troubled.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>Ø¥ÙÙÙÙ ØºÙØ¶ÙØ¨ÙÙÙ ÙÙØ¯Ù Ø£ÙÙÙÙÙØ§ÙÙØ§ ÙÙØ³ÙØ®ÙØ·ÙÙÙ ÙÙØ¯Ù Ø±ÙÙÙÙØ¹ÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">7</span> ãããã¯ããªãã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã«ãã£ã¦<ruby><rb>æ¶</rb><rt>ã</rt></ruby>ããããããªãã®<ruby><rb>æ¤</rb><rt>ããã©ã</rt></ruby>ãã«ãã£ã¦<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã³<ruby><rb>å»</rb><rt>ã</rt></ruby>ãã®ã§ãã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Porque con tu ira somos consumidos,</span><span class=\"line\">y con tu furor somos conturbados.</span>",
-      "por": "<span class=\"verse-number\">7</span> Pois somos consumidos pela tua ira, e pelo teu furor somos angustiados.",
-      "fra": "<span class=\"verse-number\">7</span> Nous sommes consumÃ©s par ta colÃ¨re, Et ta fureur nous Ã©pouvante.",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">Denn wir vergehen durch deinen Zorn</span><span class=\"line\">und werden hinweggerafft durch deinen Grimm.</span>",
-      "kor": "<span class=\"verse-number\">7</span> ì°ë¦¬ë ì£¼ì ë¸ì ìë©¸ëë©° ì£¼ì ë¶ë´ì¬ì ëë¼ëì´ë¤",
-      "ita": "<span class=\"verse-number\">7</span> PoichÃ© noi siamo consumati dalla tua ira, e siamo atterriti dalla tua furia."
+      "eng": "For we are consumed by thine anger, and by thy wrath are we troubled.",
+      "ara": "إِنَّ غَضَبَكَ قَدْ أَفْنَانَا وَسَخَطَكَ قَدْ رَوَّعَنَا.",
+      "jpn": "われらはあなたの<ruby>怒<rt>いか</rt></ruby>りによって<ruby>消<rt>き</rt></ruby>えうせ、あなたの<ruby>憤<rt>いきどお</rt></ruby>りによって<ruby>滅<rt>ほろ</rt></ruby>び<ruby>去<rt>さ</rt></ruby>るのです。",
+      "spa": "<span class=\"line\">Porque con tu ira somos consumidos,</span><span class=\"line\">y con tu furor somos conturbados.</span>",
+      "por": "Pois somos consumidos pela tua ira, e pelo teu furor somos angustiados.",
+      "fra": "Nous sommes consumés par ta colère, Et ta fureur nous épouvante.",
+      "deu": "<span class=\"line\">Denn wir vergehen durch deinen Zorn</span><span class=\"line\">und werden hinweggerafft durch deinen Grimm.</span>",
+      "kor": "우리는 주의 노에 소멸되며 주의 분내심에 놀라나이다",
+      "ita": "Poiché noi siamo consumati dalla tua ira, e siamo atterriti dalla tua furia."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>Thou hast set our iniquities before thee, our secret <span class=\"clarity-word\">sins</span> in the light of thy countenance.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø¬ÙØ¹ÙÙÙØªÙ Ø¢Ø«ÙØ§ÙÙÙÙØ§ Ø£ÙÙÙØ§ÙÙÙÙ ÙÙØ®ÙØ·ÙØ§ÙÙØ§ÙÙØ§ Ø§ÙÙØ®ÙÙÙÙÙÙØ©Ù Ø¸ÙØ§ÙÙØ±ÙØ©Ù ÙÙØ¯ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">8</span> ããªãã¯ãããã®<ruby><rb>ä¸ç¾©</rb><rt>ãµã</rt></ruby>ãã¿<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ããããããã®<ruby><rb>é </rb><rt>ãã</rt></ruby>ãã<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ãã¿<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã®ãªãã«ãããã¾ããã",
-      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">Has puesto nuestras iniquidades delante de ti,</span><span class=\"line\">nuestros <span class=\"clarity-word\">pecados</span> secretos a la luz de tu rostro.</span>",
-      "por": "<span class=\"verse-number\">8</span> Diante de ti puseste as nossas iniquidades; os nossos <span class=\"clarity-word\">pecados</span> ocultos, Ã  luz do teu rosto.",
-      "fra": "<span class=\"verse-number\">8</span> Tu mets devant toi nos iniquitÃ©s, Et Ã  la lumiÃ¨re de ta face nos fautes cachÃ©es.",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">Du hast unsre SÃ¼nden vor dich hingestellt,</span><span class=\"line\">unser geheimstes Denken ins Licht vor deinem Angesicht.</span>",
-      "kor": "<span class=\"verse-number\">8</span> ì£¼ê»ì ì°ë¦¬ì ì£ìì ì£¼ì ìì ëì¼ìë©° ì°ë¦¬ì ìë°í <span class=\"clarity-word\">ì£</span>ë¥¼ ì£¼ì ì¼êµ´ ë¹ ê°ì´ë°ì ëì¨ì¬ì¤ë",
-      "ita": "<span class=\"verse-number\">8</span> Tu metti le nostre iniquitÃ  davanti a te, e i nostri peccati occulti alla luce della tua faccia."
+      "eng": "Thou hast set our iniquities before thee, our secret <span class=\"clarity-word\">sins</span> in the light of thy countenance.",
+      "ara": "جَعَلْتَ آثَامَنَا أَمَامَكَ وَخَطَايَانَا الْخَفِيَّةَ ظَاهِرَةً لَدَيْكَ.",
+      "jpn": "あなたはわれらの<ruby>不義<rt>ふぎ</rt></ruby>をみ<ruby>前<rt>まえ</rt></ruby>におき、われらの<ruby>隠<rt>かく</rt></ruby>れた<ruby>罪<rt>つみ</rt></ruby>をみ<ruby>顔<rt>かお</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>のなかにおかれました。",
+      "spa": "<span class=\"line\">Has puesto nuestras iniquidades delante de ti,</span><span class=\"line\">nuestros <span class=\"clarity-word\">pecados</span> secretos a la luz de tu rostro.</span>",
+      "por": "Diante de ti puseste as nossas iniquidades; os nossos <span class=\"clarity-word\">pecados</span> ocultos, à luz do teu rosto.",
+      "fra": "Tu mets devant toi nos iniquités, Et à la lumière de ta face nos fautes cachées.",
+      "deu": "<span class=\"line\">Du hast unsre Sünden vor dich hingestellt,</span><span class=\"line\">unser geheimstes Denken ins Licht vor deinem Angesicht.</span>",
+      "kor": "주께서 우리의 죄악을 주의 앞에 놓으시며 우리의 은밀한 <span class=\"clarity-word\">죄</span>를 주의 얼굴 빛 가운데에 두셨사오니",
+      "ita": "Tu metti le nostre iniquità davanti a te, e i nostri peccati occulti alla luce della tua faccia."
     },
     "9": {
-      "eng": "<span class=\"verse-number\">9 </span>For all our days are passed away in thy wrath: we spend our years as a tale <span class=\"clarity-word\">that is told.</span>",
-      "ara": "<span class=\"verse-number\">Ù© </span>ÙØ£ÙÙÙÙ Ø£ÙÙÙÙØ§ÙÙÙÙØ§ ÙÙÙÙÙÙÙØ§ ØªÙÙÙÙÙØ¶ÙÙ ÙÙÙ ØºÙØ¶ÙØ¨ÙÙÙ Ø§ÙØ´ÙÙØ¯ÙÙØ¯ÙØ ÙÙØ£ÙØ¹ÙÙÙØ§ÙÙÙÙØ§ ØªÙØªÙÙØ§Ø´ÙÙ ÙÙØ²ÙÙÙØ±ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">9</span> ãããã®ãã¹ã¦ã®<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã¯ãããªãã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã«ãã£ã¦<ruby><rb>é</rb><rt>ã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ãããããã®<ruby><rb>å¹´</rb><rt>ã¨ã</rt></ruby>ã®<ruby><rb>å°½</rb><rt>ã¤</rt></ruby>ããã®ã¯ãã²ã¨<ruby><rb>æ¯</rb><rt>ãã</rt></ruby>ã®ããã§ãã",
-      "spa": "<span class=\"verse-number\">9 </span><span class=\"line\">Porque todos nuestros dÃ­as declinan en tu ira;</span><span class=\"line\">acabamos nuestros aÃ±os como un suspiro.</span>",
-      "por": "<span class=\"verse-number\">9</span> Pois todos os nossos dias vÃ£o passando na tua indignaÃ§Ã£o; passamos os nossos anos como um suspiro.",
-      "fra": "<span class=\"verse-number\">9</span> Tous nos jours disparaissent par ton courrouxÂ ; Nous voyons nos annÃ©es sâÃ©vanouir comme un soupir.",
-      "deu": "<span class=\"verse-number\">9Â </span><span class=\"line\">Ach, alle unsre Tage fahren dahin durch deinen Grimm;</span><span class=\"line\">wir lassen unsre Jahre entschwinden wie einen Gedanken.</span>",
-      "kor": "<span class=\"verse-number\">9</span> ì°ë¦¬ì ëª¨ë  ë ì´ ì£¼ì ë¶ë¸ ì¤ì ì§ëê°ë©° ì°ë¦¬ì íìì´ ììê°ì ë¤íìëì´ë¤",
-      "ita": "<span class=\"verse-number\">9</span> Tutti i nostri giorni spariscono per la tua collera; noi finiamo i nostri anni come un soffio."
+      "eng": "For all our days are passed away in thy wrath: we spend our years as a tale <span class=\"clarity-word\">that is told.</span>",
+      "ara": "لأَنَّ أَيَّامَنَا كُلَّهَا تَنْقَضِي فِي غَضَبِكَ الشَّدِيدِ، وَأَعْوَامَنَا تَتَلاشَى كَزَفْرَةٍ.",
+      "jpn": "われらのすべての<ruby>日<rt>ひ</rt></ruby>は、あなたの<ruby>怒<rt>いか</rt></ruby>りによって<ruby>過<rt>す</rt></ruby>ぎ<ruby>去<rt>さ</rt></ruby>り、われらの<ruby>年<rt>とし</rt></ruby>の<ruby>尽<rt>つ</rt></ruby>きるのは、ひと<ruby>息<rt>いき</rt></ruby>のようです。",
+      "spa": "<span class=\"line\">Porque todos nuestros días declinan en tu ira;</span><span class=\"line\">acabamos nuestros años como un suspiro.</span>",
+      "por": "Pois todos os nossos dias vão passando na tua indignação; passamos os nossos anos como um suspiro.",
+      "fra": "Tous nos jours disparaissent par ton courroux ; Nous voyons nos années s’évanouir comme un soupir.",
+      "deu": "<span class=\"line\">Ach, alle unsre Tage fahren dahin durch deinen Grimm;</span><span class=\"line\">wir lassen unsre Jahre entschwinden wie einen Gedanken.</span>",
+      "kor": "우리의 모든 날이 주의 분노 중에 지나가며 우리의 평생이 순식간에 다하였나이다",
+      "ita": "Tutti i nostri giorni spariscono per la tua collera; noi finiamo i nostri anni come un soffio."
     },
     "10": {
-      "eng": "<span class=\"verse-number\">10 </span>The days of our years <span class=\"clarity-word\">are</span> threescore years and ten; and if by reason of strength <span class=\"clarity-word\">they be</span> fourscore years, yet <span class=\"clarity-word\">is</span> their strength labour and sorrow; for it is soon cut off, and we fly away.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØ¯Ù ÙÙØ¹ÙÙØ´Ù Ø³ÙØ¨ÙØ¹ÙÙÙÙ Ø³ÙÙÙØ©ÙØ ÙÙØ¥ÙÙÙ ÙÙÙÙÙØ§ Ø°ÙÙÙÙ Ø¹ÙØ§ÙÙÙÙØ©Ù ÙÙØ«ÙÙÙØ§ÙÙÙÙ ÙÙØ£ÙÙÙØ¶ÙÙÙ Ø£ÙÙÙÙØ§ÙÙÙÙØ§ ØªÙØ¹ÙØ¨Ù ÙÙØ¨ÙÙÙÙÙÙØ©ÙØ ÙØ£ÙÙÙÙÙÙØ§ Ø³ÙØ±ÙØ¹ÙØ§ÙÙ ÙÙØ§ ØªÙØ²ÙÙÙÙ ÙÙÙÙØ·ÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">10</span> ãããã®ãããã¯ä¸å<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby>ã«ããã¾ããããããã¯<ruby><rb>å¥</rb><rt>ãã</rt></ruby>ããã§ãã£ã¦ãå«å<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby>ã§ããããããããã®<ruby><rb>ä¸ç</rb><rt>ãã£ããã</rt></ruby>ã¯ãã ãã»ã­ããã¨<ruby><rb>æ©</rb><rt>ãªã</rt></ruby>ã¿ã§ãã£ã¦ããã®<ruby><rb>é</rb><rt>ã</rt></ruby>ããããã¨ã¯<ruby><rb>é</rb><rt>ã¯ã</rt></ruby>ãããããã¯<ruby><rb>é£</rb><rt>ã¨</rt></ruby>ã³<ruby><rb>å»</rb><rt>ã</rt></ruby>ãã®ã§ãã",
-      "spa": "<span class=\"verse-number\">10 </span><span class=\"line\">Los dÃ­as de nuestra edad son setenta aÃ±os;</span><span class=\"line\">y en los mÃ¡s robustos son ochenta aÃ±os.</span><span class=\"line\">Con todo, su orgullo es molestia y pesar,</span><span class=\"line\">porque pronto pasan, y volamos.</span>",
-      "por": "<span class=\"verse-number\">10</span> Os dias da nossa vida chegam a setenta anos, e se alguns pela sua robustez chegam a oitenta anos, o orgulho deles <span class=\"clarity-word\">Ã©</span> canseira e enfado, pois logo passa e vamos embora voando.",
-      "fra": "<span class=\"verse-number\">10</span> La durÃ©e de notre vie est de soixante-dix ans, Et, pour les plus robustes, de quatre-vingts ansÂ ; Et lâorgueil quâils en tirent nâest que peine et misÃ¨re, Car cela passe vite et nous nous envolons.",
-      "deu": "<span class=\"verse-number\">10Â </span><span class=\"line\">Unsre Lebenszeit â sie wÃ¤hrt nur siebzig Jahre,</span><span class=\"line\">und, wennâs hoch kommt, sindâs achtzig Jahre,</span><span class=\"line\">und ihr Stolz ist MÃ¼hsal und Nichtigkeit (oder: Beschwer);</span><span class=\"line\">denn schnell ist sie enteilt, und wir fliegen davon.</span>",
-      "kor": "<span class=\"verse-number\">10</span> ì°ë¦¬ì ì°ìê° ì¹ ì­ì´ì ê°ê±´íë©´ íì­ì´ë¼ë ê·¸ ì°ìì ìëì ìê³ ì ì¬íë¿ì´ì ì ìí ê°ë ì°ë¦¬ê° ë ìê°ëì´ë¤",
-      "ita": "<span class=\"verse-number\">10</span> I giorni dei nostri anni arrivano a settantâanni; o, per i piÃ¹ forti, a ottantâanni; e il loro fiore non Ã¨ che travaglio e vanitÃ ; perchÃ© passa presto, e noi voliamo via."
+      "eng": "The days of our years <span class=\"clarity-word\">are</span> threescore years and ten; and if by reason of strength <span class=\"clarity-word\">they be</span> fourscore years, yet <span class=\"clarity-word\">is</span> their strength labour and sorrow; for it is soon cut off, and we fly away.",
+      "ara": "قَدْ نَعِيشُ سَبْعِينَ سَنَةً، وَإِنْ كُنَّا ذَوِي عَافِيَةٍ فَثَمَانينَ وَأَفْضَلُ أَيَّامِنَا تَعَبٌ وَبَلِيَّةٌ، لأَنَّهَا سَرْعَانَ مَا تَزُولُ فَنَطِيرُ.",
+      "jpn": "われらのよわいは七十<ruby>年<rt>ねん</rt></ruby>にすぎません。あるいは<ruby>健<rt>すこ</rt></ruby>やかであっても八十<ruby>年<rt>ねん</rt></ruby>でしょう。しかしその<ruby>一生<rt>いっしょう</rt></ruby>はただ、ほねおりと<ruby>悩<rt>なや</rt></ruby>みであって、その<ruby>過<rt>す</rt></ruby>ぎゆくことは<ruby>速<rt>はや</rt></ruby>く、われらは<ruby>飛<rt>と</rt></ruby>び<ruby>去<rt>さ</rt></ruby>るのです。",
+      "spa": "<span class=\"line\">Los días de nuestra edad son setenta años;</span><span class=\"line\">y en los más robustos son ochenta años.</span><span class=\"line\">Con todo, su orgullo es molestia y pesar,</span><span class=\"line\">porque pronto pasan, y volamos.</span>",
+      "por": "Os dias da nossa vida chegam a setenta anos, e se alguns pela sua robustez chegam a oitenta anos, o orgulho deles <span class=\"clarity-word\">é</span> canseira e enfado, pois logo passa e vamos embora voando.",
+      "fra": "La durée de notre vie est de soixante-dix ans, Et, pour les plus robustes, de quatre-vingts ans ; Et l’orgueil qu’ils en tirent n’est que peine et misère, Car cela passe vite et nous nous envolons.",
+      "deu": "<span class=\"line\">Unsre Lebenszeit — sie währt nur siebzig Jahre,</span><span class=\"line\">und, wenn’s hoch kommt, sind’s achtzig Jahre,</span><span class=\"line\">und ihr Stolz ist Mühsal und Nichtigkeit (oder: Beschwer);</span><span class=\"line\">denn schnell ist sie enteilt, und wir fliegen davon.</span>",
+      "kor": "우리의 연수가 칠십이요 강건하면 팔십이라도 그 연수의 자랑은 수고와 슬픔뿐이요 신속히 가니 우리가 날아가나이다",
+      "ita": "I giorni dei nostri anni arrivano a settant’anni; o, per i più forti, a ottant’anni; e il loro fiore non è che travaglio e vanità; perché passa presto, e noi voliamo via."
     },
     "11": {
-      "eng": "<span class=\"verse-number\">11 </span>Who knoweth the power of thine anger? even according to thy fear, <span class=\"clarity-word\">so is</span> thy wrath.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙ ÙÙØ¹ÙØ±ÙÙÙ Ø´ÙØ¯ÙÙØ©Ù ØºÙØ¶ÙØ¨ÙÙÙØ Ø¥ÙÙÙÙ Ø³ÙØ®ÙØ·ÙÙÙ ÙÙÙÙ Ø¨ÙØ­ÙØ³ÙØ¨Ù ÙÙÙÙØ§Ø¨ÙØªÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">11</span> ã ããããªãã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãã§ãããããã ããããªãããããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã«ãããã£ã¦ããªãã®<ruby><rb>æ¤</rb><rt>ããã©ã</rt></ruby>ãã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãã§ããããã",
-      "spa": "<span class=\"verse-number\">11 </span><span class=\"line\">Â¿QuiÃ©n conoce el poder de tu ira,</span><span class=\"line\">y tu furor segÃºn el temor que te es debido?</span>",
-      "por": "<span class=\"verse-number\">11</span> Quem conhece o poder da tua ira? Tal como Ã©s temÃ­vel, <span class=\"clarity-word\">assim Ã© o</span> teu furor.",
-      "fra": "<span class=\"verse-number\">11</span> Qui prend garde Ã  la force de ta colÃ¨re, Et Ã  ton courroux, selon la crainte qui tâest dueÂ ?",
-      "deu": "<span class=\"verse-number\">11Â </span><span class=\"line\">Doch wer bedenkt die StÃ¤rke deines Zorns</span><span class=\"line\">und deinen Grimm trotz deines furchtbaren Waltens?</span>",
-      "kor": "<span class=\"verse-number\">11</span> ëê° ì£¼ì ë¸ì¬ìì ë¥ë ¥ì ìë©° ëê° ì£¼ì ì§ë¸ì ëë ¤ìì ìë¦¬ì´ê¹",
-      "ita": "<span class=\"verse-number\">11</span> Chi conosce la forza della tua ira e la tua collera secondo il timore che ti Ã¨ dovuto?"
+      "eng": "Who knoweth the power of thine anger? even according to thy fear, <span class=\"clarity-word\">so is</span> thy wrath.",
+      "ara": "مَنْ يَعْرِفُ شِدَّةَ غَضَبِكَ؟ إِنَّ سَخَطَكَ هُوَ بِحَسَبِ مَهَابَتِكَ؟",
+      "jpn": "だれがあなたの<ruby>怒<rt>いか</rt></ruby>りの<ruby>力<rt>ちから</rt></ruby>を<ruby>知<rt>し</rt></ruby>るでしょうか。だれがあなたをおそれる<ruby>恐<rt>おそ</rt></ruby>れにしたがってあなたの<ruby>憤<rt>いきどお</rt></ruby>りを<ruby>知<rt>し</rt></ruby>るでしょうか。",
+      "spa": "<span class=\"line\">¿Quién conoce el poder de tu ira,</span><span class=\"line\">y tu furor según el temor que te es debido?</span>",
+      "por": "Quem conhece o poder da tua ira? Tal como és temível, <span class=\"clarity-word\">assim é o</span> teu furor.",
+      "fra": "Qui prend garde à la force de ta colère, Et à ton courroux, selon la crainte qui t’est due ?",
+      "deu": "<span class=\"line\">Doch wer bedenkt die Stärke deines Zorns</span><span class=\"line\">und deinen Grimm trotz deines furchtbaren Waltens?</span>",
+      "kor": "누가 주의 노여움의 능력을 알며 누가 주의 진노의 두려움을 알리이까",
+      "ita": "Chi conosce la forza della tua ira e la tua collera secondo il timore che ti è dovuto?"
     },
     "12": {
-      "eng": "<span class=\"verse-number\">12 </span>So teach <span class=\"clarity-word\">us</span> to number our days, that we may apply <span class=\"clarity-word\">our</span> hearts unto wisdom.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>Ø¹ÙÙÙÙÙÙÙÙØ§ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø£ÙÙÙÙØ§ÙÙÙÙØ§Ø ÙÙØ¹ÙÙÙÙÙÙØ§ ÙÙØªÙØ¹ÙÙÙÙÙÙ Ø¨ÙÙÙÙÙØ¨Ù Ø­ÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">12</span> ãããã«ãã®ã<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããã¨ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¦ã<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">12 </span><span class=\"line\">EnsÃ©Ã±anos de tal modo a contar nuestros dÃ­as</span><span class=\"line\">que traigamos al corazÃ³n sabidurÃ­a.</span>",
-      "por": "<span class=\"verse-number\">12</span> Ensina-nos a contar os nossos dias, de tal maneira que obtenhamos um coraÃ§Ã£o sÃ¡bio.",
-      "fra": "<span class=\"verse-number\">12</span> Enseigne-nous Ã  bien compter nos jours, Afin que nous appliquions notre cÅur Ã  la sagesse.",
-      "deu": "<span class=\"verse-number\">12Â </span><span class=\"line\">Unsre Tage zÃ¤hlen, das lehre uns,</span><span class=\"line\">damit ein weises Herz wir gewinnen!</span>",
-      "kor": "<span class=\"verse-number\">12</span> ì°ë¦¬ìê² ì°ë¦¬ ë  ê³ìí¨ì ê°ë¥´ì¹ì¬ ì§íë¡ì´ ë§ìì ì»ê² íìì",
-      "ita": "<span class=\"verse-number\">12</span> Insegnaci dunque a contare i nostri giorni, cosÃ¬ che acquistiamo un cuore saggio."
+      "eng": "So teach <span class=\"clarity-word\">us</span> to number our days, that we may apply <span class=\"clarity-word\">our</span> hearts unto wisdom.",
+      "ara": "عَلِّمْنَا إِحْصَاءَ أَيَّامِنَا، لَعَلَّنَا نَتَعَقَّلُ بِقَلْبٍ حَكِيمٍ.",
+      "jpn": "われらにおのが<ruby>日<rt>ひ</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えることを<ruby>教<rt>おし</rt></ruby>えて、<ruby>知恵<rt>ちえ</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>を<ruby>得<rt>え</rt></ruby>させてください。",
+      "spa": "<span class=\"line\">Enséñanos de tal modo a contar nuestros días</span><span class=\"line\">que traigamos al corazón sabiduría.</span>",
+      "por": "Ensina-nos a contar os nossos dias, de tal maneira que obtenhamos um coração sábio.",
+      "fra": "Enseigne-nous à bien compter nos jours, Afin que nous appliquions notre cœur à la sagesse.",
+      "deu": "<span class=\"line\">Unsre Tage zählen, das lehre uns,</span><span class=\"line\">damit ein weises Herz wir gewinnen!</span>",
+      "kor": "우리에게 우리 날 계수함을 가르치사 지혜로운 마음을 얻게 하소서",
+      "ita": "Insegnaci dunque a contare i nostri giorni, così che acquistiamo un cuore saggio."
     },
     "13": {
-      "eng": "<span class=\"verse-number\">13 </span>Return, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, how long? and let it repent thee concerning thy servants.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>Ø¥ÙÙÙÙ ÙÙØªÙÙ ÙÙØ·ÙÙÙÙ ÙÙØ§ Ø±ÙØ¨ÙÙ ØºÙØ¶ÙØ¨ÙÙÙØ Ø§Ø±ÙØ¬ÙØ¹Ù ÙÙØªÙØ¹ÙØ·ÙÙÙÙ Ø¹ÙÙÙÙ Ø¹ÙØ¨ÙÙØ¯ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">13</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããã¿<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã<ruby><rb>å¤</rb><rt>ã</rt></ruby>ãã¦ãã ããããã¤ã¾ã§ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã«ãªãã®ã§ãããããªãã®ããã¹ãããããã§ãã ããã",
-      "spa": "<span class=\"verse-number\">13 </span><span class=\"line\">Â¡VuÃ©lvete, oh JehovÃ¡! Â¿Hasta cuÃ¡ndo?</span><span class=\"line\">Y ten piedad de tus siervos.</span>",
-      "por": "<span class=\"verse-number\">13</span> Volta-te para nÃ³s, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>! AtÃ© quando? E tem compaixÃ£o para com os teus servos.",
-      "fra": "<span class=\"verse-number\">13</span> Reviens, ÃternelÂ ! JusquâÃ  quandÂ ?Â â¦ Aie pitiÃ© de tes serviteursÂ !",
-      "deu": "<span class=\"verse-number\">13Â </span><span class=\"line\">Kehre dich wieder zu uns, o HErr! wie lange noch (willst du zÃ¼rnen)?</span><span class=\"line\">erbarm dich deiner Knechte!</span>",
-      "kor": "<span class=\"verse-number\">13</span> ì¬í¸ìì¬ ëìì¤ìì ì¸ì ê¹ì§ëì´ê¹ ì£¼ì ì¢ë¤ì ë¶ìí ì¬ê¸°ìì",
-      "ita": "<span class=\"verse-number\">13</span> Ritorna, o Eterno; fino a quando? E muoviti a pietÃ  per i tuoi servitori."
+      "eng": "Return, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, how long? and let it repent thee concerning thy servants.",
+      "ara": "إِلَى مَتَى يَطُولُ يَا رَبُّ غَضَبُكَ؟ ارْجِعْ وَتَعَطَّفْ عَلَى عَبِيدِكَ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、み<ruby>心<rt>こころ</rt></ruby>を<ruby>変<rt>か</rt></ruby>えてください。いつまでお<ruby>怒<rt>いか</rt></ruby>りになるのですか。あなたのしもべをあわれんでください。",
+      "spa": "<span class=\"line\">¡Vuélvete, oh Jehová! ¿Hasta cuándo?</span><span class=\"line\">Y ten piedad de tus siervos.</span>",
+      "por": "Volta-te para nós, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>! Até quando? E tem compaixão para com os teus servos.",
+      "fra": "Reviens, Éternel ! Jusqu’à quand ? … Aie pitié de tes serviteurs !",
+      "deu": "<span class=\"line\">Kehre dich wieder zu uns, o HErr! wie lange noch (willst du zürnen)?</span><span class=\"line\">erbarm dich deiner Knechte!</span>",
+      "kor": "여호와여 돌아오소서 언제까지니이까 주의 종들을 불쌍히 여기소서",
+      "ita": "Ritorna, o Eterno; fino a quando? E muoviti a pietà per i tuoi servitori."
     },
     "14": {
-      "eng": "<span class=\"verse-number\">14 </span>O satisfy us early with thy mercy; that we may rejoice and be glad all our days.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>Ø£ÙÙÙØ¶Ù Ø¹ÙÙÙÙÙÙÙØ§ Ø¨ÙØ§ÙÙØ±Ø§Ù ÙÙÙÙ Ø±ÙØ­ÙÙÙØªÙÙÙØ ÙÙÙÙØªÙØ±ÙÙÙÙÙÙ ÙÙØ±ÙØ­Ø§Ù ÙÙÙÙØ¨ÙØªÙÙÙØ¬Ù Ø·ÙÙÙØ§ÙÙ Ø£ÙØ¹ÙÙÙØ§Ø±ÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">14</span> ãããã«ãããªãã®ãã¤ããã¿ããã£ã¦ãããã<ruby><rb>é£½</rb><rt>ã</rt></ruby>ã<ruby><rb>è¶³</rb><rt>ã</rt></ruby>ããã<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ã<ruby><rb>çµ</rb><rt>ãã</rt></ruby>ãã¾ã§<ruby><rb>å</rb><rt>ããã</rt></ruby>ã³<ruby><rb>æ¥½</rb><rt>ãã®</rt></ruby>ãã¾ãã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">14 </span><span class=\"line\">Por la maÃ±ana, sÃ¡cianos de tu misericordia,</span><span class=\"line\">y cantaremos con gozo y nos regocijaremos todos nuestros dÃ­as.</span>",
-      "por": "<span class=\"verse-number\">14</span> Farta-nos de madrugada com a tua benignidade, para que nos regozijemos, e nos alegremos todos os nossos dias.",
-      "fra": "<span class=\"verse-number\">14</span> Rassasie-nous chaque matin de ta bontÃ©, Et nous serons toute notre vie dans la joie et lâallÃ©gresse.",
-      "deu": "<span class=\"verse-number\">14Â </span><span class=\"line\">SÃ¤ttige frÃ¼h uns am Morgen mit deiner Gnade (oder: GÃ¼te),</span><span class=\"line\">daÃ wir jubeln und uns freun unser Leben lang!</span>",
-      "kor": "<span class=\"verse-number\">14</span> ìì¹¨ì ì£¼ì ì¸ìíì¬ì´ ì°ë¦¬ë¥¼ ë§ì¡±íê² íì¬ ì°ë¦¬ë¥¼ ì¼ì ëì ì¦ê²ê³  ê¸°ìê² íìì",
-      "ita": "<span class=\"verse-number\">14</span> Saziaci al mattino della tua benignitÃ , e noi giubileremo, ci rallegreremo tutti i nostri giorni."
+      "eng": "O satisfy us early with thy mercy; that we may rejoice and be glad all our days.",
+      "ara": "أَفِضْ عَلَيْنَا بَاكِراً مِنْ رَحْمَتِكَ، فَنَتَرَنَّمَ فَرَحاً وَنَبْتَهِجَ طَوَالَ أَعْمَارِنَا.",
+      "jpn": "あしたに、あなたのいつくしみをもってわれらを<ruby>飽<rt>あ</rt></ruby>き<ruby>足<rt>た</rt></ruby>らせ、<ruby>世<rt>よ</rt></ruby>を<ruby>終<rt>おわ</rt></ruby>るまで<ruby>喜<rt>よろこ</rt></ruby>び<ruby>楽<rt>たの</rt></ruby>しませてください。",
+      "spa": "<span class=\"line\">Por la mañana, sácianos de tu misericordia,</span><span class=\"line\">y cantaremos con gozo y nos regocijaremos todos nuestros días.</span>",
+      "por": "Farta-nos de madrugada com a tua benignidade, para que nos regozijemos, e nos alegremos todos os nossos dias.",
+      "fra": "Rassasie-nous chaque matin de ta bonté, Et nous serons toute notre vie dans la joie et l’allégresse.",
+      "deu": "<span class=\"line\">Sättige früh uns am Morgen mit deiner Gnade (oder: Güte),</span><span class=\"line\">daß wir jubeln und uns freun unser Leben lang!</span>",
+      "kor": "아침에 주의 인자하심이 우리를 만족하게 하사 우리를 일생 동안 즐겁고 기쁘게 하소서",
+      "ita": "Saziaci al mattino della tua benignità, e noi giubileremo, ci rallegreremo tutti i nostri giorni."
     },
     "15": {
-      "eng": "<span class=\"verse-number\">15 </span>Make us glad according to the days <span class=\"clarity-word\">wherein</span> thou hast afflicted us, <span class=\"clarity-word\">and</span> the years <span class=\"clarity-word\">wherein</span> we have seen evil.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙØ±ÙÙØ­ÙÙÙØ§ Ø¨ÙÙÙÙÙØ¯ÙØ§Ø±Ù Ø§ÙØ£ÙÙÙÙØ§ÙÙ Ø§ÙÙÙØªÙÙ Ø¨ÙÙÙÙÙØªÙÙÙØ§ Ø¨ÙÙØ§Ø ÙÙØ¨ÙÙÙÙÙØ¯ÙØ§Ø±Ù Ø§ÙØ³ÙÙÙÙÙÙÙ Ø§ÙÙÙØªÙÙ Ø±ÙØ£ÙÙÙÙÙØ§ ÙÙÙÙÙØ§ Ø§ÙÙÙÙØµÙØ§Ø¦ÙØ¨Ù",
-      "jpn": "<span class=\"verse-number\">15</span> ããªãããããã<ruby><rb>è¦</rb><rt>ãã</rt></ruby>ããããã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã¨ããããã<ruby><rb>ç½</rb><rt>ãããã</rt></ruby>ã«ãã£ã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>å¹´</rb><rt>ã¨ã</rt></ruby>ã¨ã«<ruby><rb>æ¯</rb><rt>ãã</rt></ruby>ã¹ã¦ããããã<ruby><rb>æ¥½</rb><rt>ãã®</rt></ruby>ãã¾ãã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">15 </span><span class=\"line\">AlÃ©granos conforme a los dÃ­as en que nos afligiste</span><span class=\"line\">y a los aÃ±os en que vimos el mal.</span>",
-      "por": "<span class=\"verse-number\">15</span> Alegra-nos pelos dias <span class=\"clarity-word\">em que</span> nos afligiste, <span class=\"clarity-word\">e</span> pelos anos <span class=\"clarity-word\">em que</span> vimos o mal.",
-      "fra": "<span class=\"verse-number\">15</span> RÃ©jouis-nous autant de jours que tu nous as humiliÃ©s, Autant dâannÃ©es que nous avons vu le malheur.",
-      "deu": "<span class=\"verse-number\">15Â </span><span class=\"line\">Erfreue uns so viele Tage, wie du uns gebeugt hast,</span><span class=\"line\">so viele Jahre, wie UnglÃ¼ck wir erlebten!</span>",
-      "kor": "<span class=\"verse-number\">15</span> ì°ë¦¬ë¥¼ ê´´ë¡­ê² íì  ë ìëë¡ì ì°ë¦¬ê° íë¥¼ ë¹í ì°ìëë¡ ì°ë¦¬ë¥¼ ê¸°ìê² íìì",
-      "ita": "<span class=\"verse-number\">15</span> Rallegraci in proporzione dei giorni in cui ci hai afflitto, e degli anni in cui abbiamo visto il male."
+      "eng": "Make us glad according to the days <span class=\"clarity-word\">wherein</span> thou hast afflicted us, <span class=\"clarity-word\">and</span> the years <span class=\"clarity-word\">wherein</span> we have seen evil.",
+      "ara": "فَرِّحْنَا بِمِقْدَارِ الأَيَّامِ الَّتِي بَلَيْتَنَا بِها، وَبِمِقْدَارِ السِّنِينَ الَّتِي رَأَيْنَا فِيهَا الْمَصَائِبَ",
+      "jpn": "あなたがわれらを<ruby>苦<rt>くる</rt></ruby>しめられた<ruby>多<rt>おお</rt></ruby>くの<ruby>日<rt>ひ</rt></ruby>と、われらが<ruby>災<rt>わざわい</rt></ruby>にあった<ruby>多<rt>おお</rt></ruby>くの<ruby>年<rt>とし</rt></ruby>とに<ruby>比<rt>くら</rt></ruby>べて、われらを<ruby>楽<rt>たの</rt></ruby>しませてください。",
+      "spa": "<span class=\"line\">Alégranos conforme a los días en que nos afligiste</span><span class=\"line\">y a los años en que vimos el mal.</span>",
+      "por": "Alegra-nos pelos dias <span class=\"clarity-word\">em que</span> nos afligiste, <span class=\"clarity-word\">e</span> pelos anos <span class=\"clarity-word\">em que</span> vimos o mal.",
+      "fra": "Réjouis-nous autant de jours que tu nous as humiliés, Autant d’années que nous avons vu le malheur.",
+      "deu": "<span class=\"line\">Erfreue uns so viele Tage, wie du uns gebeugt hast,</span><span class=\"line\">so viele Jahre, wie Unglück wir erlebten!</span>",
+      "kor": "우리를 괴롭게 하신 날수대로와 우리가 화를 당한 연수대로 우리를 기쁘게 하소서",
+      "ita": "Rallegraci in proporzione dei giorni in cui ci hai afflitto, e degli anni in cui abbiamo visto il male."
     },
     "16": {
-      "eng": "<span class=\"verse-number\">16 </span>Let thy work appear unto thy servants, and thy glory unto their children.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙÙØ¸ÙÙÙØ±Ù ØµÙÙÙÙØ¹ÙÙÙ Ø£ÙÙÙØ§ÙÙ Ø¹ÙØ¨ÙÙØ¯ÙÙÙ ÙÙØ¬ÙÙØ§ÙÙÙÙ Ø£ÙÙÙØ§ÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¦ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">16</span> ããªãã®ã¿ããããããªãã®ããã¹ãã«ãããªãã®<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ãããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã«ããããã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">16 </span><span class=\"line\">Aparezca tu obra a tus siervos,</span><span class=\"line\">y tu majestad sobre sus hijos.</span>",
-      "por": "<span class=\"verse-number\">16</span> ApareÃ§a a tua obra aos teus servos; e a tua glÃ³ria, sobre seus filhos.",
-      "fra": "<span class=\"verse-number\">16</span> Que ton Åuvre se manifeste Ã  tes serviteurs, Et ta gloire sur leurs enfantsÂ !",
-      "deu": "<span class=\"verse-number\">16Â </span><span class=\"line\">LaÃ deinen Knechten dein Walten sichtbar werden</span><span class=\"line\">und ihren Kindern deine Herrlichkeit!</span>",
-      "kor": "<span class=\"verse-number\">16</span> ì£¼ê»ì ííì  ì¼ì ì£¼ì ì¢ë¤ìê² ëíë´ìë©° ì£¼ì ìê´ì ê·¸ë¤ì ìììê² <span class=\"clarity-word\">ëíë´</span>ìì",
-      "ita": "<span class=\"verse-number\">16</span> Si manifesti la tua opera ai tuoi servitori, e la tua gloria ai loro figli."
+      "eng": "Let thy work appear unto thy servants, and thy glory unto their children.",
+      "ara": "لِيَظْهَرْ صَنِيعُكَ أَمَامَ عَبِيدِكَ وَجَلالُكَ أَمَامَ أَبْنَائِهِمْ.",
+      "jpn": "あなたのみわざを、あなたのしもべらに、あなたの<ruby>栄光<rt>えいこう</rt></ruby>を、その<ruby>子<rt>こ</rt></ruby>らにあらわしてください。",
+      "spa": "<span class=\"line\">Aparezca tu obra a tus siervos,</span><span class=\"line\">y tu majestad sobre sus hijos.</span>",
+      "por": "Apareça a tua obra aos teus servos; e a tua glória, sobre seus filhos.",
+      "fra": "Que ton œuvre se manifeste à tes serviteurs, Et ta gloire sur leurs enfants !",
+      "deu": "<span class=\"line\">Laß deinen Knechten dein Walten sichtbar werden</span><span class=\"line\">und ihren Kindern deine Herrlichkeit!</span>",
+      "kor": "주께서 행하신 일을 주의 종들에게 나타내시며 주의 영광을 그들의 자손에게 <span class=\"clarity-word\">나타내</span>소서",
+      "ita": "Si manifesti la tua opera ai tuoi servitori, e la tua gloria ai loro figli."
     },
     "17": {
-      "eng": "<span class=\"verse-number\">17 </span>And let the beauty of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙÙÙØªÙÙÙÙÙ ÙÙØ¹ÙÙÙØ©Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙÙÙØ§ Ø¹ÙÙÙÙÙÙÙØ§. Ø£ÙÙÙØ¬ÙØ­Ù Ø¹ÙÙÙÙÙ Ø£ÙÙÙØ¯ÙÙÙÙØ§Ø ÙÙØ¹ÙÙÙ Ø£ÙÙÙØ¬ÙØ­Ù ÙÙÙÙØ§ Ø¹ÙÙÙÙÙ Ø£ÙÙÙØ¯ÙÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">17</span> ãããã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æµ</rb><rt>ãã</rt></ruby>ã¿ãããããã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ãã ãããããã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã®ãããããããã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ </rb><rt>ãã</rt></ruby>ãããã¦ãã ããããããã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã®ããã<ruby><rb>æ </rb><rt>ãã</rt></ruby>ãããã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">17 </span><span class=\"line\">Y sea la hermosura del SeÃ±or, nuestro Dios, sobre nosotros,</span><span class=\"line\">y confirma sobre nosotros la obra de nuestras manos; sÃ­,</span><span class=\"line\">la obra de nuestras manos confirma.</span>",
-      "por": "<span class=\"verse-number\">17</span> E seja sobre nÃ³s a formosura do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> nosso Deus; e confirma sobre nÃ³s a obra das nossas mÃ£os, sim, confirma a obra das nossas mÃ£os.",
-      "fra": "<span class=\"verse-number\">17</span> Que la grÃ¢ce de lâÃternel, notre Dieu, soit sur nousÂ ! Affermis lâouvrage de nos mains, Oui, affermis lâouvrage de nos mainsÂ !",
-      "deu": "<span class=\"verse-number\">17Â </span><span class=\"line\">Und es ruhe auf uns die Huld des Allherrn, unsres Gottes,</span><span class=\"line\">und das Werk unsrer HÃ¤nde segne bei uns!</span><span class=\"line\">Ja, das Werk unsrer HÃ¤nde wollest du segnen!</span>",
-      "kor": "<span class=\"verse-number\">17</span> ì£¼ ì°ë¦¬ íëëì ìì´ì ì°ë¦¬ìê² ë´ë¦¬ê² íì¬ ì°ë¦¬ì ìì´ íí ì¼ì ì°ë¦¬ìê² ê²¬ê³ íê² íìì ì°ë¦¬ì ìì´ íí ì¼ì ê²¬ê³ íê² íìì",
-      "ita": "<span class=\"verse-number\">17</span> La grazia del Signore nostro Dio sia su di noi, e rendi stabile lâopera delle nostre mani; sÃ¬, lâopera delle nostre mani rendila stabile."
+      "eng": "And let the beauty of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
+      "ara": "وَلْتَكُنْ نِعْمَةُ الرَّبِّ إِلَهِنَا عَلَيْنَا. أَنْجِحْ عَمَلَ أَيْدِينَا، نَعَمْ أَنْجِحْ لَنَا عَمَلَ أَيْدِينَا.",
+      "jpn": "われらの<ruby>神<rt>かみ</rt></ruby>、<ruby>主<rt>しゅ</rt></ruby>の<ruby>恵<rt>めぐ</rt></ruby>みを、われらの<ruby>上<rt>うえ</rt></ruby>にくだし、われらの<ruby>手<rt>て</rt></ruby>のわざを、われらの<ruby>上<rt>うえ</rt></ruby>に<ruby>栄<rt>さか</rt></ruby>えさせてください。われらの<ruby>手<rt>て</rt></ruby>のわざを<ruby>栄<rt>さか</rt></ruby>えさせてください。",
+      "spa": "<span class=\"line\">Y sea la hermosura del Señor, nuestro Dios, sobre nosotros,</span><span class=\"line\">y confirma sobre nosotros la obra de nuestras manos; sí,</span><span class=\"line\">la obra de nuestras manos confirma.</span>",
+      "por": "E seja sobre nós a formosura do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> nosso Deus; e confirma sobre nós a obra das nossas mãos, sim, confirma a obra das nossas mãos.",
+      "fra": "Que la grâce de l’Éternel, notre Dieu, soit sur nous ! Affermis l’ouvrage de nos mains, Oui, affermis l’ouvrage de nos mains !",
+      "deu": "<span class=\"line\">Und es ruhe auf uns die Huld des Allherrn, unsres Gottes,</span><span class=\"line\">und das Werk unsrer Hände segne bei uns!</span><span class=\"line\">Ja, das Werk unsrer Hände wollest du segnen!</span>",
+      "kor": "주 우리 하나님의 은총을 우리에게 내리게 하사 우리의 손이 행한 일을 우리에게 견고하게 하소서 우리의 손이 행한 일을 견고하게 하소서",
+      "ita": "La grazia del Signore nostro Dio sia su di noi, e rendi stabile l’opera delle nostre mani; sì, l’opera delle nostre mani rendila stabile."
     }
   }
 }

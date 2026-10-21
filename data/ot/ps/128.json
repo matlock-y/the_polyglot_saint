@@ -5,85 +5,85 @@
     "chapter": 128,
     "headings": {
       "eng": "Blessed are those who fear the Lord and walk in His ways.",
-      "spa": "Bienaventurados los que temen a JehovÃ¡ y andan en Sus caminos.",
+      "spa": "Bienaventurados los que temen a Jehová y andan en Sus caminos.",
       "por": "Bem-aventurado aquele que teme ao Senhor e anda nos Seus caminhos.",
-      "fra": "Heureux tout homme qui craint lâÃternel et qui marche dans ses voies.",
+      "fra": "Heureux tout homme qui craint l’Éternel et qui marche dans ses voies.",
       "ita": "Beati coloro che temono il Signore e camminano nelle Sue vie."
     },
     "intros": {
       "eng": "A Song of degrees.",
-      "jpn": "<ruby><rb>é½</rb><rt>ã¿ãã</rt></ruby>ããã§ã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
-      "spa": "CÃ¡ntico de ascenso gradual.",
-      "por": "CÃ¢ntico das subidas.",
+      "jpn": "<ruby>都<rt>みやこ</rt></ruby>もうでの<ruby>歌<rt>うた</rt></ruby>",
+      "spa": "Cántico de ascenso gradual.",
+      "por": "Cântico das subidas.",
       "ita": "Canto dei pellegrinaggi."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>Blessed <span class=\"clarity-word\">is</span> every one that feareth the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; that walketh in his ways.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø·ÙÙØ¨ÙØ§ÙÙ ÙÙØ§ ÙÙÙÙ ØªÙØªÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØªÙØ³ÙÙÙÙÙ ÙÙÙ Ø·ÙØ±ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">1</span> ãã¹ã¦<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã«<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ããããã§ããã",
-      "spa": "<span class=\"verse-number\">1</span> <span class=\"line\">Bienaventurado todo aquel que teme a JehovÃ¡,</span><span class=\"line\">que anda en sus caminos.</span>",
-      "por": "<span class=\"verse-number\">1</span> Bem-aventurado aquele que teme ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> e anda nos seus caminhos.",
-      "fra": "<span class=\"verse-number\">1</span> Cantique des degrÃ©s. Heureux tout homme qui craint lâÃternel, Qui marche dans ses voiesÂ !",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Ein Wallfahrtslied (oder Stufenlied?; vgl. 120).</span><span class=\"line\">Wohl jedem, der den HErrn fÃ¼rchtet</span><span class=\"line\">und auf seinen Wegen wandelt!</span>",
-      "kor": "<span class=\"verse-number\">1</span> ì¬í¸ìë¥¼ ê²½ì¸íë©° ê·¸ì ê¸¸ì ê±·ë ìë§ë¤ ë³µì´ ìëë¤",
-      "ita": "<span class=\"verse-number\">1</span> Beato chiunque teme lâEterno e cammina nelle sue vie!"
+      "eng": "Blessed <span class=\"clarity-word\">is</span> every one that feareth the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; that walketh in his ways.",
+      "ara": "طُوبَاكَ يَا مَنْ تَتَّقِي الرَّبَّ وَتَسْلُكُ فِي طُرُقِهِ.",
+      "jpn": "すべて<ruby>主<rt>しゅ</rt></ruby>をおそれ、<ruby>主<rt>しゅ</rt></ruby>の<ruby>道<rt>みち</rt></ruby>に<ruby>歩<rt>あゆ</rt></ruby>む<ruby>者<rt>もの</rt></ruby>はさいわいである。",
+      "spa": "<span class=\"line\">Bienaventurado todo aquel que teme a Jehová,</span><span class=\"line\">que anda en sus caminos.</span>",
+      "por": "Bem-aventurado aquele que teme ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> e anda nos seus caminhos.",
+      "fra": "Cantique des degrés. Heureux tout homme qui craint l’Éternel, Qui marche dans ses voies !",
+      "deu": "<span class=\"line\">Ein Wallfahrtslied (oder Stufenlied?; vgl. 120).</span><span class=\"line\">Wohl jedem, der den HErrn fürchtet</span><span class=\"line\">und auf seinen Wegen wandelt!</span>",
+      "kor": "여호와를 경외하며 그의 길을 걷는 자마다 복이 있도다",
+      "ita": "Beato chiunque teme l’Eterno e cammina nelle sue vie!"
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>For thou shalt eat the labour of thine hands: happy <span class=\"clarity-word\">shalt</span> thou <span class=\"clarity-word\">be,</span> and <span class=\"clarity-word\">it shall be</span> well with thee.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙØ£ÙÙÙÙÙÙ ØªÙØ£ÙÙÙÙÙ ÙÙÙÙ ØªÙØ¹ÙØ¨Ù ÙÙØ¯ÙÙÙÙÙ ÙÙØªÙØªÙÙÙØªÙÙØ¹Ù Ø¨ÙØ§ÙØ³ÙÙØ¹ÙØ§Ø¯ÙØ©Ù ÙÙØ§ÙÙØ®ÙÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">2</span> ããªãã¯<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã®<ruby><rb>å¤å´</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>å®</rb><rt>ã¿</rt></ruby>ã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã<ruby><rb>å¹¸ç¦</rb><rt>ãããµã</rt></ruby>ã§ããã¤<ruby><rb>å®</rb><rt>ãã</rt></ruby>ããã§ãããã",
-      "spa": "<span class=\"verse-number\">2</span> <span class=\"line\">El trabajo de tus manos comerÃ¡s;</span><span class=\"line\">bienaventurado serÃ¡s, y te irÃ¡ bien.</span>",
-      "por": "<span class=\"verse-number\">2</span> Pois comerÃ¡s do trabalho das tuas mÃ£os; feliz <span class=\"clarity-word\">serÃ¡s,</span> e te <span class=\"clarity-word\">irÃ¡</span> bem.",
-      "fra": "<span class=\"verse-number\">2</span> Tu profites alors du travail de tes mains, Tu es heureux, tu prospÃ¨res.",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Deiner HÃ¤nde Erwerb â du darfst ihn genieÃen:</span><span class=\"line\">wohl dir, du hast es gut!</span>",
-      "kor": "<span class=\"verse-number\">2</span> ë¤ê° ë¤ ìì´ ìê³ í ëë¡ ë¨¹ì ê²ì´ë¼ ë¤ê° ë³µëê³  ííµíë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">2</span> Tu allora mangerai della fatica delle tue mani; sarai felice e prospererai."
+      "eng": "For thou shalt eat the labour of thine hands: happy <span class=\"clarity-word\">shalt</span> thou <span class=\"clarity-word\">be,</span> and <span class=\"clarity-word\">it shall be</span> well with thee.",
+      "ara": "لأَنَّكَ تَأْكُلُ مِنْ تَعَبِ يَدَيْكَ وَتَتَمَتَّعُ بِالسَّعَادَةِ وَالْخَيْرِ.",
+      "jpn": "あなたは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>手<rt>て</rt></ruby>の<ruby>勤労<rt>きんろう</rt></ruby>の<ruby>実<rt>み</rt></ruby>を<ruby>食<rt>た</rt></ruby>べ、<ruby>幸福<rt>こうふく</rt></ruby>で、かつ<ruby>安<rt>やす</rt></ruby>らかであろう。",
+      "spa": "<span class=\"line\">El trabajo de tus manos comerás;</span><span class=\"line\">bienaventurado serás, y te irá bien.</span>",
+      "por": "Pois comerás do trabalho das tuas mãos; feliz <span class=\"clarity-word\">serás,</span> e te <span class=\"clarity-word\">irá</span> bem.",
+      "fra": "Tu profites alors du travail de tes mains, Tu es heureux, tu prospères.",
+      "deu": "<span class=\"line\">Deiner Hände Erwerb — du darfst ihn genießen:</span><span class=\"line\">wohl dir, du hast es gut!</span>",
+      "kor": "네가 네 손이 수고한 대로 먹을 것이라 네가 복되고 형통하리로다",
+      "ita": "Tu allora mangerai della fatica delle tue mani; sarai felice e prospererai."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>Thy wife <span class=\"clarity-word\">shall be</span> as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>ØªÙÙÙÙÙÙ Ø§ÙÙØ±ÙØ£ÙØªÙÙÙ ÙÙÙÙØ±ÙÙÙØ©Ù ÙÙØ«ÙÙÙØ±ÙØ©Ù ÙÙÙ Ø¬ÙÙÙØ§ÙÙØ¨Ù Ø¨ÙÙÙØªÙÙÙØ ÙÙØ£ÙØ¨ÙÙÙØ§Ø¤ÙÙÙ ÙÙØ£ÙØºÙØ±ÙØ§Ø³Ù Ø§ÙØ²ÙÙÙÙØªÙÙÙÙ Ø­ÙÙÙÙÙ ÙÙØ§Ø¦ÙØ¯ÙØªÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">3</span> ããªãã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã¯<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å¥¥</rb><rt>ãã</rt></ruby>ã«ãã¦<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>å®</rb><rt>ã¿</rt></ruby>ã<ruby><rb>çµ</rb><rt>ãã</rt></ruby>ã¶ã¶ã©ãã®<ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã®ããã§ãããããªãã®<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ãã¡ã¯<ruby><rb>é£å</rb><rt>ããããã</rt></ruby>ã<ruby><rb>å²</rb><rt>ãã</rt></ruby>ãã§ãªãªãã®<ruby><rb>è¥æ¨</rb><rt>ããã</rt></ruby>ã®ããã§ããã",
-      "spa": "<span class=\"verse-number\">3</span> <span class=\"line\">Tu esposa serÃ¡ como una vid fructÃ­fera</span><span class=\"line\">a los lados de tu casa;</span><span class=\"line\">tus hijos, como renuevos de olivo alrededor de tu mesa.</span>",
-      "por": "<span class=\"verse-number\">3</span> A tua mulher <span class=\"clarity-word\">serÃ¡</span> como a videira frutÃ­fera aos lados da tua casa; os teus filhos, como plantas de oliveira em redor da tua mesa.",
-      "fra": "<span class=\"verse-number\">3</span> Ta femme est comme une vigne fÃ©conde Dans lâintÃ©rieur de ta maisonÂ ; Tes enfants sont comme des plants dâolivier Autour de ta table.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Dein Weib gleicht einem fruchtbaren Weinstock</span><span class=\"line\">im Innern deines Hauses;</span><span class=\"line\">deine Kinder sind wie Ãlbaumschosse</span><span class=\"line\">rings um deinen Tisch.</span>",
-      "kor": "<span class=\"verse-number\">3</span> ë¤ ì§ ìë°©ì ìë ë¤ ìë´ë ê²°ì¤í í¬ëëë¬´ ê°ì¼ë©° ë¤ ìíì ëë¬ ìì ììë¤ì ì´ë¦° ê°ëëë¬´ ê°ì¼ë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">3</span> Tua moglie sarÃ  come una vigna fruttifera allâinterno della tua casa; i tuoi figli, come piante dâulivo intorno alla tua tavola."
+      "eng": "Thy wife <span class=\"clarity-word\">shall be</span> as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.",
+      "ara": "تَكُونُ امْرَأَتُكَ كَكَرْمَةٍ مُثْمِرَةٍ فِي جَوَانِبِ بَيْتِكَ، وَأَبْنَاؤُكَ كَأَغْرَاسِ الزَّيْتُونِ حَوْلَ مَائِدَتِكَ.",
+      "jpn": "あなたの<ruby>妻<rt>つま</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>にいて<ruby>多<rt>おお</rt></ruby>くの<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>ぶぶどうの<ruby>木<rt>き</rt></ruby>のようであり、あなたの<ruby>子供<rt>こども</rt></ruby>たちは<ruby>食卓<rt>しょくたく</rt></ruby>を<ruby>囲<rt>かこ</rt></ruby>んでオリブの<ruby>若木<rt>わかぎ</rt></ruby>のようである。",
+      "spa": "<span class=\"line\">Tu esposa será como una vid fructífera</span><span class=\"line\">a los lados de tu casa;</span><span class=\"line\">tus hijos, como renuevos de olivo alrededor de tu mesa.</span>",
+      "por": "A tua mulher <span class=\"clarity-word\">será</span> como a videira frutífera aos lados da tua casa; os teus filhos, como plantas de oliveira em redor da tua mesa.",
+      "fra": "Ta femme est comme une vigne féconde Dans l’intérieur de ta maison ; Tes enfants sont comme des plants d’olivier Autour de ta table.",
+      "deu": "<span class=\"line\">Dein Weib gleicht einem fruchtbaren Weinstock</span><span class=\"line\">im Innern deines Hauses;</span><span class=\"line\">deine Kinder sind wie Ölbaumschosse</span><span class=\"line\">rings um deinen Tisch.</span>",
+      "kor": "네 집 안방에 있는 네 아내는 결실한 포도나무 같으며 네 식탁에 둘러 앉은 자식들은 어린 감람나무 같으리로다",
+      "ita": "Tua moglie sarà come una vigna fruttifera all’interno della tua casa; i tuoi figli, come piante d’ulivo intorno alla tua tavola."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>Behold, that thus shall the man be blessed that feareth the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙÙØ°ÙØ§ ÙÙØ¨ÙØ§Ø±ÙÙÙ Ø§ÙØ±ÙÙØ¬ÙÙÙ Ø§ÙÙÙØ°ÙÙ ÙÙØªÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ.",
-      "jpn": "<span class=\"verse-number\">4</span> <ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯ããã®ããã«<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ãã",
-      "spa": "<span class=\"verse-number\">4</span> <span class=\"line\">He aquÃ­ que asÃ­ serÃ¡ bendecido el hombre</span><span class=\"line\">que teme a JehovÃ¡.</span>",
-      "por": "<span class=\"verse-number\">4</span> Eis que assim serÃ¡ abenÃ§oado o homem que teme ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
-      "fra": "<span class=\"verse-number\">4</span> Câest ainsi quâest bÃ©ni Lâhomme qui craint lâÃternel.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Ja wahrlich, so wird der Mann gesegnet,</span><span class=\"line\">der da fÃ¼rchtet den HErrn.</span>",
-      "kor": "<span class=\"verse-number\">4</span> ì¬í¸ìë¥¼ ê²½ì¸íë ìë ì´ê°ì´ ë³µì ì»ì¼ë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">4</span> Ecco, cosÃ¬ sarÃ  benedetto lâuomo che teme lâEterno."
+      "eng": "Behold, that thus shall the man be blessed that feareth the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "هَكَذَا يُبَارَكُ الرَّجُلُ الَّذِي يَتَّقِي الرَّبَّ.",
+      "jpn": "<ruby>見<rt>み</rt></ruby>よ、<ruby>主<rt>しゅ</rt></ruby>をおそれる<ruby>人<rt>ひと</rt></ruby>は、このように<ruby>祝福<rt>しゅくふく</rt></ruby>を<ruby>得<rt>え</rt></ruby>る。",
+      "spa": "<span class=\"line\">He aquí que así será bendecido el hombre</span><span class=\"line\">que teme a Jehová.</span>",
+      "por": "Eis que assim será abençoado o homem que teme ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
+      "fra": "C’est ainsi qu’est béni L’homme qui craint l’Éternel.",
+      "deu": "<span class=\"line\">Ja wahrlich, so wird der Mann gesegnet,</span><span class=\"line\">der da fürchtet den HErrn.</span>",
+      "kor": "여호와를 경외하는 자는 이같이 복을 얻으리로다",
+      "ita": "Ecco, così sarà benedetto l’uomo che teme l’Eterno."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>The <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> shall bless thee out of <span class=\"page-break\" data-page=\"801\"></span>Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ¨ÙØ§Ø±ÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙ ØµÙÙÙÙÙÙÙÙÙØ Ø­ÙØªÙÙÙ ØªÙØ´ÙÙÙØ¯Ù Ø®ÙÙÙØ±Ù Ø£ÙÙØ±ÙØ´ÙÙÙÙÙÙ ÙÙÙÙÙ Ø£ÙÙÙÙØ§ÙÙ Ø­ÙÙÙØ§ØªÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã·ãªã³ããããªãã<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ãããããã«ãããªãã¯<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ã«ãããããã¨ã«ãµã¬ã ã®<ruby><rb>ç¹æ </rb><rt>ã¯ããã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ã",
-      "spa": "<span class=\"verse-number\">5</span> <span class=\"line\">JehovÃ¡ te bendiga desde Sion,</span><span class=\"line\">y veas el bien de JerusalÃ©n todos los dÃ­as de tu vida.</span>",
-      "por": "<span class=\"verse-number\">5</span> O <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> te abenÃ§oarÃ¡ desde SiÃ£o, e tu verÃ¡s o bem de JerusalÃ©m em todos os dias da tua vida.",
-      "fra": "<span class=\"verse-number\">5</span> LâÃternel te bÃ©nira de Sion, Et tu verras le bonheur de JÃ©rusalem Tous les jours de ta vieÂ ;",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Dich segne der HErr von Zion her,</span><span class=\"line\">daÃ du schauest deine Lust an Jerusalems GlÃ¼ck dein Lebenlang</span>",
-      "kor": "<span class=\"verse-number\">5</span> ì¬í¸ìê»ì ìì¨ìì ë¤ê² ë³µì ì£¼ì¤ì§ì´ë¤ ëë íìì ìë£¨ì´ë ì ë²ìì ë³´ë©°",
-      "ita": "<span class=\"verse-number\">5</span> LâEterno ti benedica da Sion, e vedrai il bene di Gerusalemme tutti i giorni della tua vita,"
+      "eng": "The <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+      "ara": "يُبَارِكُكَ الرَّبُّ مِنْ صِهْيَوْنَ، حَتَّى تَشْهَدَ خَيْرَ أُورُشَلِيمَ كُلَّ أَيَّامِ حَيَاتِكَ،",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>はシオンからあなたを<ruby>祝福<rt>しゅくふく</rt></ruby>されるように。あなたは<ruby>世<rt>よ</rt></ruby>にあるかぎりエルサレムの<ruby>繁栄<rt>はんえい</rt></ruby>を<ruby>見<rt>み</rt></ruby>、",
+      "spa": "<span class=\"line\">Jehová te bendiga desde Sion,</span><span class=\"line\">y veas el bien de Jerusalén todos los días de tu vida.</span>",
+      "por": "O <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> te abençoará desde Sião, e tu verás o bem de Jerusalém em todos os dias da tua vida.",
+      "fra": "L’Éternel te bénira de Sion, Et tu verras le bonheur de Jérusalem Tous les jours de ta vie ;",
+      "deu": "<span class=\"line\">Dich segne der HErr von Zion her,</span><span class=\"line\">daß du schauest deine Lust an Jerusalems Glück dein Lebenlang</span>",
+      "kor": "여호와께서 시온에서 네게 복을 주실지어다 너는 평생에 예루살렘의 번영을 보며",
+      "ita": "L’Eterno ti benedica da Sion, e vedrai il bene di Gerusalemme tutti i giorni della tua vita,"
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>Yea, thou shalt see thy childrenâs children, <span class=\"clarity-word\">and</span> peace upon Israel.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØªÙØ¹ÙÙØ´Ù ÙÙØªÙØ±ÙÙ Ø£ÙØ­ÙÙÙØ§Ø¯ÙÙÙ. ÙÙÙÙÙÙÙÙÙÙ ÙÙØ´ÙØ¹ÙØ¨Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø³ÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">6</span> ã¾ãããªãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã§ããããã©ãããã¤ã¹ã©ã¨ã«ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¹³å®</rb><rt>ã¸ããã</rt></ruby>ãããããã«ã",
-      "spa": "<span class=\"verse-number\">6</span> <span class=\"line\">Y veas a los hijos de tus hijos.</span><span class=\"line\">Â¡La paz sea sobre Israel!</span>",
-      "por": "<span class=\"verse-number\">6</span> E verÃ¡s os filhos de teus filhos, <span class=\"clarity-word\">e</span> a paz sobre Israel.",
-      "fra": "<span class=\"verse-number\">6</span> Tu verras les enfants de tes enfants. Que la paix soit sur IsraÃ«lÂ !",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">und sehest Kinder von deinen Kindern!</span><span class=\"line\">Heil Ã¼ber Israel!</span>",
-      "kor": "<span class=\"verse-number\">6</span> ë¤ ììì ììì ë³¼ì§ì´ë¤ ì´ì¤ë¼ììê² íê°ì´ ììì§ë¡ë¤",
-      "ita": "<span class=\"verse-number\">6</span> e vedrai i figli dei tuoi figli. Pace sia su Israele."
+      "eng": "Yea, thou shalt see thy children’s children, <span class=\"clarity-word\">and</span> peace upon Israel.",
+      "ara": "وَتَعِيشَ لِتَرَى أَحْفَادَكَ. وَلْيَكُنْ لِشَعْبِ إِسْرَائِيلَ سَلامٌ.",
+      "jpn": "またあなたの<ruby>子<rt>こ</rt></ruby>らの<ruby>子<rt>こ</rt></ruby>を<ruby>見<rt>み</rt></ruby>るであろう。どうぞ、イスラエルの<ruby>上<rt>うえ</rt></ruby>に<ruby>平安<rt>へいあん</rt></ruby>があるように。",
+      "spa": "<span class=\"line\">Y veas a los hijos de tus hijos.</span><span class=\"line\">¡La paz sea sobre Israel!</span>",
+      "por": "E verás os filhos de teus filhos, <span class=\"clarity-word\">e</span> a paz sobre Israel.",
+      "fra": "Tu verras les enfants de tes enfants. Que la paix soit sur Israël !",
+      "deu": "<span class=\"line\">und sehest Kinder von deinen Kindern!</span><span class=\"line\">Heil über Israel!</span>",
+      "kor": "네 자식의 자식을 볼지어다 이스라엘에게 평강이 있을지로다",
+      "ita": "e vedrai i figli dei tuoi figli. Pace sia su Israele."
     }
   }
 }

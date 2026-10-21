@@ -5,619 +5,619 @@
     "chapter": 2,
     "headings": {
       "eng": "The descendants of Israel, Judah, Jesse, Caleb, and others are listed.",
-      "spa": "Se mencionan los descendientes de Israel, de JudÃ¡, de IsaÃ­, de Caleb y de otros.",
-      "por": "Enumeram-se os descendentes de Israel, de JudÃ¡, de JessÃ©, de Calebe e de outros.",
-      "fra": "Liste des descendants dâIsraÃ«l, de Juda, dâIsaÃ¯, de Caleb et dâautres personnes.",
-      "deu": "Die Nachfahren Israels, Judas, Isais, Kalebs und weiterer werden aufgezÃ¤hlt.",
+      "spa": "Se mencionan los descendientes de Israel, de Judá, de Isaí, de Caleb y de otros.",
+      "por": "Enumeram-se os descendentes de Israel, de Judá, de Jessé, de Calebe e de outros.",
+      "fra": "Liste des descendants d’Israël, de Juda, d’Isaï, de Caleb et d’autres personnes.",
+      "deu": "Die Nachfahren Israels, Judas, Isais, Kalebs und weiterer werden aufgezählt.",
       "ita": "Vengono elencati i discendenti di Israele, Giuda, Isai, Caleb e altri."
     },
     "intros": {}
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>These <span class=\"clarity-word\">are</span> the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙÙÙØ¤ÙÙØ§Ø¡Ù ÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ: Ø±ÙØ£ÙÙØ¨ÙÙÙÙÙØ Ø´ÙÙÙØ¹ÙÙÙÙØ ÙØ§ÙÙÙØ ÙÙÙÙÙØ°ÙØ§Ø ÙÙØ³ÙÙØ§ÙÙØ±ÙØ Ø²ÙØ¨ÙÙÙÙÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">1 </span>ã¤ã¹ã©ã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®ã¨ããã§ãããã«ãã³ãã·ã¡ãªã³ãã¬ããã¦ããã¤ããµã«ã«ãã¼ãã«ã³ã",
-      "spa": "<span class=\"verse-number\">1 </span>Estos son los hijos de Israel: RubÃ©n, SimeÃ³n, LevÃ­, y JudÃ¡, Isacar, y ZabulÃ³n,",
-      "por": "<span class=\"verse-number\">1 </span>Estes <span class=\"clarity-word\">sÃ£o</span> os filhos de Israel: RÃºben, SimeÃ£o, Levi, JudÃ¡, Issacar, e Zebulom;",
-      "fra": "<span class=\"verse-number\">1 </span>Voici les fils dâIsraÃ«l. Ruben, SimÃ©on, LÃ©vi, Juda, Issacar, Zabulon,",
-      "deu": "<span class=\"verse-number\">1Â </span>Dies sind die SÃ¶hne Israels: Ruben, Simeon, Levi und Juda, Issachar und Sebulon,",
-      "kor": "<span class=\"verse-number\">1 </span>ì´ì¤ë¼ìì ìë¤ì ì´ë¬íë ë¥´ì°ë²¤ê³¼ ìë¯ì¨ê³¼ ë ìì ì ë¤ì ìì¬ê°ê³¼ ì¤ë¶ë¡ ê³¼",
-      "ita": "<span class=\"verse-number\">1</span> Questi sono i figli di Israele: Ruben, Simeone, Levi, Giuda, Issacar e Zabulon;"
+      "eng": "These <span class=\"clarity-word\">are</span> the sons of Israel; Reuben, Simeon, Levi, and Judah, Issachar, and Zebulun,",
+      "ara": "وَهَؤُلاءِ هُمْ أَبْنَاءُ إِسْرَائِيلَ: رَأُوبَيْنُ، شِمْعُونُ، لاوِي، يَهُوذَا، يَسَّاكَرُ، زَبُولُونُ،",
+      "jpn": "イスラエルの<ruby>子<rt>こ</rt></ruby>らは<ruby>次<rt>つぎ</rt></ruby>のとおりである。ルベン、シメオン、レビ、ユダ、イッサカル、ゼブルン、",
+      "spa": "Estos son los hijos de Israel: Rubén, Simeón, Leví, y Judá, Isacar, y Zabulón,",
+      "por": "Estes <span class=\"clarity-word\">são</span> os filhos de Israel: Rúben, Simeão, Levi, Judá, Issacar, e Zebulom;",
+      "fra": "Voici les fils d’Israël. Ruben, Siméon, Lévi, Juda, Issacar, Zabulon,",
+      "deu": "Dies sind die Söhne Israels: Ruben, Simeon, Levi und Juda, Issachar und Sebulon,",
+      "kor": "이스라엘의 아들은 이러하니 르우벤과 시므온과 레위와 유다와 잇사갈과 스불론과",
+      "ita": "Questi sono i figli di Israele: Ruben, Simeone, Levi, Giuda, Issacar e Zabulon;"
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø¯ÙØ§ÙÙØ ÙÙÙØ³ÙÙÙ ÙÙØ¨ÙÙÙÙÙØ§ÙÙÙÙÙØ ÙÙÙÙØªÙØ§ÙÙÙØ Ø¬ÙØ§Ø¯ÙØ ÙÙØ£ÙØ´ÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">2 </span>ãã³ãã¨ã»ããããã¤ãã³ãããã¿ãªãã¬ããã¢ã»ã«ã",
-      "spa": "<span class=\"verse-number\">2 </span>Dan, JosÃ©, y BenjamÃ­n, NeftalÃ­, Gad y Aser.",
-      "por": "<span class=\"verse-number\">2 </span>DÃ£, JosÃ©, e Benjamim, Naftali, Gade, e Aser.",
-      "fra": "<span class=\"verse-number\">2 </span>Dan, Joseph, Benjamin, Nephthali, Gad et Aser.",
-      "deu": "<span class=\"verse-number\">2Â </span>Dan, Josef und Benjamin, Naftali, Gad und Ascher.",
-      "kor": "<span class=\"verse-number\">2 </span>ë¨ê³¼ ììê³¼ ë² ëë¯¼ê³¼ ë©ë¬ë¦¬ì ê°ê³¼ ììì´ëë¼",
-      "ita": "<span class=\"verse-number\">2</span> Dan, Giuseppe, Beniamino, Neftali, Gad e Ascer."
+      "eng": "Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.",
+      "ara": "دَانٌ، يُوسُفُ وَبَنْيَامِينُ، نَفْتَالِي، جَادٌ، وَأَشِيرُ.",
+      "jpn": "ダン、ヨセフ、ベニヤミン、ナフタリ、ガド、アセル。",
+      "spa": "Dan, José, y Benjamín, Neftalí, Gad y Aser.",
+      "por": "Dã, José, e Benjamim, Naftali, Gade, e Aser.",
+      "fra": "Dan, Joseph, Benjamin, Nephthali, Gad et Aser.",
+      "deu": "Dan, Josef und Benjamin, Naftali, Gad und Ascher.",
+      "kor": "단과 요셉과 베냐민과 납달리와 갓과 아셀이더라",
+      "ita": "Dan, Giuseppe, Beniamino, Neftali, Gad e Ascer."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span><span class=\"para-mark\">Â¶ </span>The sons of Judah; Er, and Onan, and Shelah: <span class=\"clarity-word\">which</span> three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; and he slew him.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>Ø£ÙÙÙÙØ§ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙÙÙÙØ°ÙØ§ ÙÙÙÙÙÙ: Ø¹ÙÙØ±Ù ÙÙØ£ÙÙÙÙØ§ÙÙ ÙÙØ´ÙÙÙÙÙØ©Ù. ÙÙÙÙØ¯Ù Ø£ÙÙÙØ¬ÙØ¨ÙØªÙ Ø¨ÙÙÙØªÙ Ø´ÙÙØ¹Ù Ø§ÙÙÙÙÙÙØ¹ÙØ§ÙÙÙÙÙØ©Ù ÙÙØ¤ÙÙØ§Ø¡Ù Ø§ÙØ«ÙÙÙØ§Ø«ÙØ©Ù. ÙÙØ£ÙÙÙØ§ØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¹ÙÙØ±ÙØ Ø¨ÙÙÙØ±Ù ÙÙÙÙÙØ°ÙØ§Ø ÙØ£ÙÙÙÙÙÙ ÙÙØ§ÙÙ Ø´ÙØ±ÙÙÙØ±Ø§Ù ÙÙÙ Ø¹ÙÙÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">3 </span>ã¦ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã¨ã«ããªãã³ãã·ã©ã§ããããã®ä¸<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã¯ã«ãã³ã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã·ã¥ã¢ãã¦ãã«ãã£ã¦<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã <ruby><rb>è</rb><rt>ãã®</rt></ruby>ã§ãããã¦ãã®<ruby><rb>é·å­</rb><rt>ã¡ããã</rt></ruby>ã¨ã«ã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã£ãã®ã§ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãããã",
-      "spa": "<span class=\"verse-number\">3 </span>Los hijos de JudÃ¡: Er, y OnÃ¡n y Sela. Estos tres le nacieron de la hija de SÃºa, la cananea. Y Er, primogÃ©nito de JudÃ¡, fue malo delante de JehovÃ¡, y Ã©l le dio muerte.",
-      "por": "<span class=\"verse-number\">3 </span>Os filhos de JudÃ¡ <span class=\"clarity-word\">foram</span> Er, e OnÃ£, e SelÃ¡; <span class=\"clarity-word\">esses</span> trÃªs lhe nasceram da filha de SuÃ¡, a cananeia; e Er, o primogÃªnito de JudÃ¡, foi mau aos olhos do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, pelo que o matou.",
-      "fra": "<span class=\"verse-number\">3 </span>Fils de JudaÂ : Er, Onan, SchÃ©laÂ ; ces trois lui naquirent de la fille de Schua, la CananÃ©enne. Er, premier-nÃ© de Juda, Ã©tait mÃ©chant aux yeux de lâÃternel qui le fit mourir.",
-      "deu": "<span class=\"verse-number\">3Â </span>Die SÃ¶hne Judas waren: Er, Onan und Schela; diese drei wurden ihm von der Tochter der Kanaaniterin Schua geboren. Der erstgeborene Sohn Judas aber, Er, machte sich dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> verhasst; darum lieÃ er ihn sterben.",
-      "kor": "<span class=\"verse-number\">3 </span>ì ë¤ì ìë¤ì ìë¥´ì ì¤ëê³¼ ìë¼ë ì´ ì¸ ì¬ëì ê°ëì ì¬ë ììì ë¸ì´ ì ë¤ìê² ë³ì ì¤ ìì ì ë¤ì ë§ìë¤ ìë¥´ë ì¬í¸ì ë³´ìê¸°ì ìíìì¼ë¯ë¡ ì¬í¸ìê»ì ì£½ì´ì¨ê³",
-      "ita": "<span class=\"verse-number\">3</span> Figli di Giuda: Er, Onan e Scela; questi tre gli nacquero dalla figlia di Shua, la Cananea. Er, primogenito di Giuda, era malvagio agli occhi dellâEterno, e lâEterno lo fece morire."
+      "eng": "<span class=\"para-mark\">¶ </span>The sons of Judah; Er, and Onan, and Shelah: <span class=\"clarity-word\">which</span> three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; and he slew him.",
+      "ara": "أَمَّا أَبْنَاءُ يَهُوذَا فَهُمْ: عِيرُ وَأُونَانُ وَشَيْلَةُ. وَقَدْ أَنْجَبَتْ بِنْتُ شُوعَ الْكَنْعَانِيَّةُ هَؤُلاءِ الثَّلاثَةَ. وَأَمَاتَ الرَّبُّ عِيرَ، بِكْرَ يَهُوذَا، لأَنَّهُ كَانَ شِرِّيراً فِي عَيْنَيْهِ.",
+      "jpn": "ユダの<ruby>子<rt>こ</rt></ruby>らはエル、オナン、シラである。この三<ruby>人<rt>にん</rt></ruby>はカナンの<ruby>女<rt>おんな</rt></ruby>バテシュアがユダによって<ruby>産<rt>う</rt></ruby>んだ<ruby>者<rt>もの</rt></ruby>である。ユダの<ruby>長子<rt>ちょうし</rt></ruby>エルは<ruby>主<rt>しゅ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>悪<rt>あく</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>ったので、<ruby>主<rt>しゅ</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>された。",
+      "spa": "Los hijos de Judá: Er, y Onán y Sela. Estos tres le nacieron de la hija de Súa, la cananea. Y Er, primogénito de Judá, fue malo delante de Jehová, y él le dio muerte.",
+      "por": "Os filhos de Judá <span class=\"clarity-word\">foram</span> Er, e Onã, e Selá; <span class=\"clarity-word\">esses</span> três lhe nasceram da filha de Suá, a cananeia; e Er, o primogênito de Judá, foi mau aos olhos do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, pelo que o matou.",
+      "fra": "Fils de Juda : Er, Onan, Schéla ; ces trois lui naquirent de la fille de Schua, la Cananéenne. Er, premier-né de Juda, était méchant aux yeux de l’Éternel qui le fit mourir.",
+      "deu": "Die Söhne Judas waren: Er, Onan und Schela; diese drei wurden ihm von der Tochter der Kanaaniterin Schua geboren. Der erstgeborene Sohn Judas aber, Er, machte sich dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> verhasst; darum ließ er ihn sterben.",
+      "kor": "ì ë¤ì ìë¤ì ìë¥´ì ì¤ëê³¼ ìë¼ë ì´ ì¸ ì¬ëì ê°ëì ì¬ë ììì ë¸ì´ ì ë¤ìê² ë³ì ì¤ ìì ì ë¤ì ë§ìë¤ ìë¥´ë ì¬í¸ì ë³´ìê¸°ì ìíìì¼ë¯ë¡ ì¬í¸ìê»ì ì£½ì´ì¨ê³",
+      "ita": "Figli di Giuda: Er, Onan e Scela; questi tre gli nacquero dalla figlia di Shua, la Cananea. Er, primogenito di Giuda, era malvagio agli occhi dell’Eterno, e l’Eterno lo fece morire."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>And Tamar his daughter in law bare him Pharez and Zerah. All the sons of Judah <span class=\"clarity-word\">were</span> five.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙÙÙÙØ°ÙØ§ ÙÙÙÙ ÙÙÙÙÙØªÙÙÙ Ø«ÙØ§ÙÙØ§Ø±Ù: ÙÙØ§Ø±ÙØµÙ ÙÙØ²ÙØ§Ø±ÙØ­ÙØ ÙÙÙÙØ§ÙÙØªÙ Ø¬ÙÙÙÙÙØ©Ù Ø£ÙÙÙÙØ§Ø¯ÙÙÙ Ø®ÙÙÙØ³ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">4 </span>ã¦ãã®<ruby><rb>å«</rb><rt>ãã</rt></ruby>ã¿ãã«ã¯ã¦ãã«ãã£ã¦ãã¬ãã¨ã¼ã©ã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã ãã¦ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¦äº<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ããã",
-      "spa": "<span class=\"verse-number\">4 </span>Y Tamar, su nuera, le dio a luz a Fares y a Zera. Todos los hijos de JudÃ¡ fueron cinco.",
-      "por": "<span class=\"verse-number\">4 </span>PorÃ©m Tamar, sua nora, lhe deu Perez e ZerÃ¡; todos os filhos de JudÃ¡ <span class=\"clarity-word\">foram</span> cinco.",
-      "fra": "<span class=\"verse-number\">4 </span>Tamar, belle-fille de Juda, lui enfanta PÃ©rets et ZÃ©rach. Total des fils de JudaÂ : cinq.",
-      "deu": "<span class=\"verse-number\">4Â </span>Tamar aber, seine Schwiegertochter, hatte ihm Perez und Serach geboren, sodass die Gesamtzahl der SÃ¶hne Judas fÃ¼nf war.",
-      "kor": "<span class=\"verse-number\">4 </span>ì ë¤ì ë©°ëë¦¬ ë¤ë§ì´ ì ë¤ìê² ë² ë ì¤ì ì¸ë¼ë¥¼ ë³ì ì£¼ìì¼ë ì ë¤ì ìë¤ì´ ëª¨ë ë¤ì¯ì´ëë¼",
-      "ita": "<span class=\"verse-number\">4</span> Tamar, nuora di Giuda, gli partorÃ¬ Perez e Zerac. Totale dei figli di Giuda: cinque."
+      "eng": "And Tamar his daughter in law bare him Pharez and Zerah. All the sons of Judah <span class=\"clarity-word\">were</span> five.",
+      "ara": "وَأَنْجَبَ يَهُوذَا مِنْ كَنَّتِهِ ثَامَارَ: فَارَصَ وَزَارَحَ، فَكَانَتْ جُمْلَةُ أَوْلادِهِ خَمْسَةً.",
+      "jpn": "ユダの<ruby>嫁<rt>よめ</rt></ruby>タマルはユダによってペレヅとゼラを<ruby>産<rt>う</rt></ruby>んだ。ユダの<ruby>子<rt>こ</rt></ruby>らは<ruby>合<rt>あ</rt></ruby>わせて五<ruby>人<rt>にん</rt></ruby>である。",
+      "spa": "Y Tamar, su nuera, le dio a luz a Fares y a Zera. Todos los hijos de Judá fueron cinco.",
+      "por": "Porém Tamar, sua nora, lhe deu Perez e Zerá; todos os filhos de Judá <span class=\"clarity-word\">foram</span> cinco.",
+      "fra": "Tamar, belle-fille de Juda, lui enfanta Pérets et Zérach. Total des fils de Juda : cinq.",
+      "deu": "Tamar aber, seine Schwiegertochter, hatte ihm Perez und Serach geboren, sodass die Gesamtzahl der Söhne Judas fünf war.",
+      "kor": "유다의 며느리 다말이 유다에게 베레스와 세라를 낳아 주었으니 유다의 아들이 모두 다섯이더라",
+      "ita": "Tamar, nuora di Giuda, gli partorì Perez e Zerac. Totale dei figli di Giuda: cinque."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>The sons of Pharez; Hezron, and Hamul.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙØ§Ø±ÙØµÙ: Ø­ÙØµÙØ±ÙÙÙÙ ÙÙØ­ÙØ§ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">5 </span>ãã¬ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ããã­ã³ã¨ãã ã«ã",
-      "spa": "<span class=\"verse-number\">5 </span>Los hijos de Fares: HezrÃ³n y Hamul.",
-      "por": "<span class=\"verse-number\">5 </span>Os filhos de Perez <span class=\"clarity-word\">foram</span> Hezrom e Hamul.",
-      "fra": "<span class=\"verse-number\">5 </span>Fils de PÃ©retsÂ : Hetsron et Hamul.",
-      "deu": "<span class=\"verse-number\">5Â </span>Die SÃ¶hne des Perez waren: Hezron und Hamul;",
-      "kor": "<span class=\"verse-number\">5 </span>ë² ë ì¤ì ìë¤ì í¤ì¤ë¡ ê³¼ íë¬¼ì´ì",
-      "ita": "<span class=\"verse-number\">5</span> Figli di Perez: Ezron e Amul."
+      "eng": "The sons of Pharez; Hezron, and Hamul.",
+      "ara": "وَأَنْجَبَ فَارَصُ: حَصْرُونَ وَحَامُولَ.",
+      "jpn": "ペレヅの<ruby>子<rt>こ</rt></ruby>らはヘヅロンとハムル。",
+      "spa": "Los hijos de Fares: Hezrón y Hamul.",
+      "por": "Os filhos de Perez <span class=\"clarity-word\">foram</span> Hezrom e Hamul.",
+      "fra": "Fils de Pérets : Hetsron et Hamul.",
+      "deu": "Die Söhne des Perez waren: Hezron und Hamul;",
+      "kor": "베레스의 아들은 헤스론과 하물이요",
+      "ita": "Figli di Perez: Ezron e Amul."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙÙÙØ§ Ø£ÙÙÙØ¬ÙØ¨Ù Ø²ÙØ§Ø±ÙØ­Ù: Ø²ÙÙÙØ±ÙÙ ÙÙØ£ÙÙÙØ«ÙØ§ÙÙ ÙÙÙÙÙÙÙÙØ§ÙÙ ÙÙÙÙÙÙÙÙÙÙÙ ÙÙØ¯ÙØ§Ø±ÙØ¹Ù. ÙÙÙÙØ§ÙÙÙØ§ Ø®ÙÙÙØ³ÙØ©Ù ÙÙÙ Ø¬ÙÙÙÙÙØªÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">6 </span>ã¼ã©ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã¸ã ãªãã¨ã¿ã³ãããã³ãã«ã«ã³ã«ããã©ã§ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¦äº<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ããã",
-      "spa": "<span class=\"verse-number\">6 </span>Y los hijos de Zera: Zimri, y EtÃ¡n, y HemÃ¡n, y Calcol y Dara; por todos cinco.",
-      "por": "<span class=\"verse-number\">6 </span>E os filhos de ZerÃ¡: Zinri, e EtÃ£, e HemÃ£, e Calcol, e Dara; cinco ao todo.",
-      "fra": "<span class=\"verse-number\">6 </span>Fils de ZÃ©rachÂ : Zimri, Ãthan, HÃ©man, Calcol et Dara. En toutÂ : cinq.",
-      "deu": "<span class=\"verse-number\">6Â </span>und die SÃ¶hne Serachs: Simri, Etan, Heman, Kalkol und Darda, im Ganzen fÃ¼nf.",
-      "kor": "<span class=\"verse-number\">6 </span>ì¸ë¼ì ìë¤ì ìë¯ë¦¬ì ìë¨ê³¼ í¤ë§ê³¼ ê°ê³¨ê³¼ ë¤ë¼ë ëª¨ë ë¤ì¯ ì¬ëì´ì",
-      "ita": "<span class=\"verse-number\">6</span> Figli di Zerac: Zimri, Etan, Eman, Calcol e Dara: in tutto, cinque."
+      "eng": "And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all.",
+      "ara": "كَمَا أَنْجَبَ زَارَحُ: زِمْرِي وَأَيْثَانَ وَهَيْمَانَ وَكَلْكُولَ وَدَارَعَ. فَكَانُوا خَمْسَةً فِي جُمْلَتِهِمْ.",
+      "jpn": "ゼラの<ruby>子<rt>こ</rt></ruby>らはジムリ、エタン、ヘマン、カルコル、ダラで、<ruby>合<rt>あ</rt></ruby>わせて五<ruby>人<rt>にん</rt></ruby>である。",
+      "spa": "Y los hijos de Zera: Zimri, y Etán, y Hemán, y Calcol y Dara; por todos cinco.",
+      "por": "E os filhos de Zerá: Zinri, e Etã, e Hemã, e Calcol, e Dara; cinco ao todo.",
+      "fra": "Fils de Zérach : Zimri, Éthan, Héman, Calcol et Dara. En tout : cinq.",
+      "deu": "und die Söhne Serachs: Simri, Etan, Heman, Kalkol und Darda, im Ganzen fünf.",
+      "kor": "세라의 아들은 시므리와 에단과 헤만과 갈골과 다라니 모두 다섯 사람이요",
+      "ita": "Figli di Zerac: Zimri, Etan, Eman, Calcol e Dara: in tutto, cinque."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>And the sons of Carmi; Achar, the troubler of Israel, who transgressed in the thing accursed.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙØ¹ÙØ®ÙØ§ÙÙ Ø¨ÙÙÙ ÙÙØ±ÙÙÙÙ ÙÙÙÙ Ø§ÙÙÙØ°ÙÙ Ø³ÙØ¨ÙÙØ¨Ù ÙÙØ§Ø±ÙØ«ÙØ©Ù ÙØ¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø­ÙÙÙÙ Ø®ÙØ§ÙÙ ÙÙØ³ÙØ±ÙÙÙ ÙÙÙÙÙØ§ ÙÙÙÙ ÙÙØ­ÙØ±ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">7 </span>ã«ã«ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ã«ã«ãã¢ã«ã«ã¯<ruby><rb>å¥ç´ç©</rb><rt>ã»ãã®ãã¶ã¤</rt></ruby>ã«ã¤ãã¦<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ããã¤ã¹ã©ã¨ã«ã<ruby><rb>æ©</rb><rt>ãªã</rt></ruby>ã¾ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã§ããã",
-      "spa": "<span class=\"verse-number\">7 </span>Y el hijo de Carmi fue AcÃ¡n, <span class=\"page-break\" data-page=\"668\"></span>el que perturbÃ³ a Israel, porque prevaricÃ³ en el anatema.",
-      "por": "<span class=\"verse-number\">7 </span>E o filho de Carmi <span class=\"clarity-word\">foi</span> Acar, o perturbador de Israel, que pecou no anÃ¡tema.",
-      "fra": "<span class=\"verse-number\">7 </span>Fils de CarmiÂ : Acar, qui sema le trouble en IsraÃ«l lorsquâil commit une infidÃ©litÃ© au sujet des choses vouÃ©es Ã  la destruction.",
-      "deu": "<span class=\"verse-number\">7Â </span>Und die SÃ¶hne Karmis: Achan, der Israel ins UnglÃ¼ck stÃ¼rzte, weil er sich an gebanntem Gut vergriff.",
-      "kor": "<span class=\"verse-number\">7 </span>ê°ë¯¸ì ìë¤ì ìê°ì´ë ê·¸ë ì§ë©¸ìí¬ ë¬¼ê±´ì ë²íì¬ ì´ì¤ë¼ìì ê´´ë¡­í ìì´ë©°",
-      "ita": "<span class=\"verse-number\">7</span> Figli di Carmi: Acan che fece ricadere una calamitÃ  su Israele quando commise unâinfedeltÃ  riguardo allâinterdetto."
+      "eng": "And the sons of Carmi; Achar, the troubler of Israel, who transgressed in the thing accursed.",
+      "ara": "وَعَخَانُ بْنُ كَرْمِي هُوَ الَّذِي سَبَّبَ كَارِثَةً لإِسْرَائِيلَ حِينَ خَانَ فَسَرَقَ مِمَّا هُوَ مُحَرَّمٌ.",
+      "jpn": "カルミの<ruby>子<rt>こ</rt></ruby>はアカル。アカルは<ruby>奉納物<rt>ほうのうぶつ</rt></ruby>について<ruby>罪<rt>つみ</rt></ruby>を<ruby>犯<rt>おか</rt></ruby>し、イスラエルを<ruby>悩<rt>なや</rt></ruby>ました<ruby>者<rt>もの</rt></ruby>である。",
+      "spa": "Y el hijo de Carmi fue Acán, el que perturbó a Israel, porque prevaricó en el anatema.",
+      "por": "E o filho de Carmi <span class=\"clarity-word\">foi</span> Acar, o perturbador de Israel, que pecou no anátema.",
+      "fra": "Fils de Carmi : Acar, qui sema le trouble en Israël lorsqu’il commit une infidélité au sujet des choses vouées à la destruction.",
+      "deu": "Und die Söhne Karmis: Achan, der Israel ins Unglück stürzte, weil er sich an gebanntem Gut vergriff.",
+      "kor": "갈미의 아들은 아갈이니 그는 진멸시킬 물건을 범하여 이스라엘을 괴롭힌 자이며",
+      "ita": "Figli di Carmi: Acan che fece ricadere una calamità su Israele quando commise un’infedeltà riguardo all’interdetto."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>And the sons of Ethan; Azariah.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø£ÙÙÙØ«ÙØ§ÙÙ Ø¹ÙØ²ÙØ±ÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">8 </span>ã¨ã¿ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ã¶ãªã¤ã§ããã",
-      "spa": "<span class=\"verse-number\">8 </span>Y AzarÃ­as fue hijo de EtÃ¡n.",
-      "por": "<span class=\"verse-number\">8 </span>E o filho de EtÃ£ <span class=\"clarity-word\">foi</span> Azarias.",
-      "fra": "<span class=\"verse-number\">8 </span>Fils dâÃthanÂ : Azaria.",
-      "deu": "<span class=\"verse-number\">8Â </span>Und die SÃ¶hne Etans: Asarja.",
-      "kor": "<span class=\"verse-number\">8 </span>ìë¨ì ìë¤ì ìì¬ë´ëë¼",
-      "ita": "<span class=\"verse-number\">8</span> Figli di Etan: Azaria."
+      "eng": "And the sons of Ethan; Azariah.",
+      "ara": "وَأَنْجَبَ أَيْثَانُ عَزَرْيَا.",
+      "jpn": "エタンの<ruby>子<rt>こ</rt></ruby>はアザリヤである。",
+      "spa": "Y Azarías fue hijo de Etán.",
+      "por": "E o filho de Etã <span class=\"clarity-word\">foi</span> Azarias.",
+      "fra": "Fils d’Éthan : Azaria.",
+      "deu": "Und die Söhne Etans: Asarja.",
+      "kor": "에단의 아들은 아사랴더라",
+      "ita": "Figli di Etan: Azaria."
     },
     "9": {
-      "eng": "<span class=\"verse-number\">9 </span>The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, and Chelubai.",
-      "ara": "<span class=\"verse-number\">Ù© </span>Ø£ÙÙÙÙØ§ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø­ÙØµÙØ±ÙÙÙÙ ÙÙÙÙÙÙ: ÙÙØ±ÙØ­ÙÙÙØ¦ÙÙÙÙØ ÙÙØ±ÙØ§ÙÙ ÙÙÙÙÙÙÙØ¨ÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">9 </span>ããã­ã³ã«<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãã<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã¨ã©ã¡ã«ãã©ã ãã±ã«ãã¤ã§ããã",
-      "spa": "<span class=\"verse-number\">9 </span>Y los hijos que le nacieron a HezrÃ³n: Jerameel, y Ram y Quelubai.",
-      "por": "<span class=\"verse-number\">9 </span>E os filhos de Hezrom, que lhe nasceram, <span class=\"clarity-word\">foram</span> Jerameel, e RÃ£o, e Quelubai.",
-      "fra": "<span class=\"verse-number\">9 </span>Fils qui naquirent Ã  HetsronÂ : Jerachmeel, Ram et KelubaÃ¯.",
-      "deu": "<span class=\"verse-number\">9Â </span>Und die SÃ¶hne Hezrons, die ihm geboren wurden: Jerachmeel, Ram und Kelubai.",
-      "kor": "<span class=\"verse-number\">9 </span>í¤ì¤ë¡ ì´ ë³ì ìë¤ì ì¬ë¼ë¯ìê³¼ ëê³¼ ê¸ë£¨ë°°ë¼",
-      "ita": "<span class=\"verse-number\">9</span> Figli che nacquero a Ezron: Ierameel, Ram e Chelubai."
+      "eng": "The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, and Chelubai.",
+      "ara": "أَمَّا أَبْنَاءُ حَصْرُونَ فَهُمْ: يَرْحَمْئِيلُ، وَرَامُ وَكَلُوبَايُ.",
+      "jpn": "ヘヅロンに<ruby>生<rt>うま</rt></ruby>れた<ruby>子<rt>こ</rt></ruby>らはエラメル、ラム、ケルバイである。",
+      "spa": "Y los hijos que le nacieron a Hezrón: Jerameel, y Ram y Quelubai.",
+      "por": "E os filhos de Hezrom, que lhe nasceram, <span class=\"clarity-word\">foram</span> Jerameel, e Rão, e Quelubai.",
+      "fra": "Fils qui naquirent à Hetsron : Jerachmeel, Ram et Kelubaï.",
+      "deu": "Und die Söhne Hezrons, die ihm geboren wurden: Jerachmeel, Ram und Kelubai.",
+      "kor": "헤스론이 낳은 아들은 여라므엘과 람과 글루배라",
+      "ita": "Figli che nacquero a Ezron: Ierameel, Ram e Chelubai."
     },
     "10": {
-      "eng": "<span class=\"verse-number\">10 </span>And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;",
-      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø±ÙØ§ÙÙ Ø¹ÙÙÙÙÙÙÙØ§Ø¯ÙØ§Ø¨ÙØ ÙÙØ¹ÙÙÙÙÙÙÙØ§Ø¯ÙØ§Ø¨Ù ÙÙØ­ÙØ´ÙÙÙÙØ Ø±ÙØ¦ÙÙØ³Ù Ø¨ÙÙÙÙ ÙÙÙÙÙØ°ÙØ§.",
-      "jpn": "<span class=\"verse-number\">10 </span>ã©ã ã¯ã¢ããããã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã¢ããããã¯ã¦ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã®ã¤ãããã·ã§ã³ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">10 </span>Y Ram engendrÃ³ a Aminadab, y Aminadab engendrÃ³ a NaasÃ³n, prÃ­ncipe de los hijos de JudÃ¡;",
-      "por": "<span class=\"verse-number\">10 </span>E RÃ£o gerou Aminadabe, e Aminadabe gerou Naassom, prÃ­ncipe dos filhos de JudÃ¡.",
-      "fra": "<span class=\"verse-number\">10 </span>Ram engendra Amminadab. Amminadab engendra Nachschon, prince des fils de Juda.",
-      "deu": "<span class=\"verse-number\">10Â </span>Ram aber zeugte Amminadab; und Amminadab zeugte Nachschon, den FÃ¼rsten der JudÃ¤er;",
-      "kor": "<span class=\"verse-number\">10 </span>ëì ìë¯¸ëëµì ë³ê³  ìë¯¸ëëµì ëìì ë³ìì¼ë ëìì ì ë¤ ììì ë°©ë°±ì´ë©°",
-      "ita": "<span class=\"verse-number\">10</span> Ram generÃ² Amminadab; Amminadab generÃ² Nahshon, capo dei figli di Giuda;"
+      "eng": "And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;",
+      "ara": "وَأَنْجَبَ رَامُ عَمِّينَادَابَ، وَعَمِّينَادَابُ نَحْشُونَ، رَئِيسَ بَنِي يَهُوذَا.",
+      "jpn": "ラムはアミナダブを<ruby>生<rt>う</rt></ruby>み、アミナダブはユダの<ruby>子孫<rt>しそん</rt></ruby>のつかさナションを<ruby>生<rt>う</rt></ruby>んだ。",
+      "spa": "Y Ram engendró a Aminadab, y Aminadab engendró a Naasón, príncipe de los hijos de Judá;",
+      "por": "E Rão gerou Aminadabe, e Aminadabe gerou Naassom, príncipe dos filhos de Judá.",
+      "fra": "Ram engendra Amminadab. Amminadab engendra Nachschon, prince des fils de Juda.",
+      "deu": "Ram aber zeugte Amminadab; und Amminadab zeugte Nachschon, den Fürsten der Judäer;",
+      "kor": "람은 암미나답을 낳고 암미나답은 나손을 낳았으니 나손은 유다 자손의 방백이며",
+      "ita": "Ram generò Amminadab; Amminadab generò Nahshon, capo dei figli di Giuda;"
     },
     "11": {
-      "eng": "<span class=\"verse-number\">11 </span>And Nahshon begat Salma, and Salma begat Boaz,",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙØ­ÙØ´ÙÙÙÙ Ø³ÙÙÙÙÙÙÙ Ø§ÙÙÙØ°ÙÙ Ø£ÙÙÙØ¬ÙØ¨Ù Ø¨ÙÙØ¹ÙØ²Ù.",
-      "jpn": "<span class=\"verse-number\">11 </span>ãã·ã§ã³ã¯ãµã«ãã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ããµã«ãã¯ãã¢ãºã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
-      "spa": "<span class=\"verse-number\">11 </span>y NaasÃ³n engendrÃ³ a SalmÃ³n, y SalmÃ³n engendrÃ³ a Booz;",
-      "por": "<span class=\"verse-number\">11 </span>E Naassom gerou Salma, e Salma gerou Boaz.",
-      "fra": "<span class=\"verse-number\">11 </span>Nachschon engendra Salma. Salma engendra Boaz.",
-      "deu": "<span class=\"verse-number\">11Â </span>und Nachschon zeugte Salmon; Salmon zeugte Boas,",
-      "kor": "<span class=\"verse-number\">11 </span>ëìì ì´ë§ë¥¼ ë³ê³  ì´ë§ë ë³´ìì¤ë¥¼ ë³ê³",
-      "ita": "<span class=\"verse-number\">11</span> e Nahshon generÃ² Salma; e Salma generÃ² Boaz. Boaz generÃ² Obed."
+      "eng": "And Nahshon begat Salma, and Salma begat Boaz,",
+      "ara": "وَأَنْجَبَ نَحْشُونُ سَلْمُوَ الَّذِي أَنْجَبَ بُوعَزَ.",
+      "jpn": "ナションはサルマを<ruby>生<rt>う</rt></ruby>み、サルマはボアズを<ruby>生<rt>う</rt></ruby>み、",
+      "spa": "y Naasón engendró a Salmón, y Salmón engendró a Booz;",
+      "por": "E Naassom gerou Salma, e Salma gerou Boaz.",
+      "fra": "Nachschon engendra Salma. Salma engendra Boaz.",
+      "deu": "und Nachschon zeugte Salmon; Salmon zeugte Boas,",
+      "kor": "ëìì ì´ë§ë¥¼ ë³ê³  ì´ë§ë ë³´ìì¤ë¥¼ ë³ê³",
+      "ita": "e Nahshon generò Salma; e Salma generò Boaz. Boaz generò Obed."
     },
     "12": {
-      "eng": "<span class=\"verse-number\">12 </span>And Boaz begat Obed, and Obed begat Jesse,",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø¨ÙÙØ¹ÙØ²Ù Ø¹ÙÙØ¨ÙÙØ¯Ù ÙÙØ§ÙÙØ¯Ù ÙÙØ³ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">12 </span>ãã¢ãºã¯ãªããã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ããªããã¯ã¨ããµã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">12 </span>y Booz engendrÃ³ a Obed, y Obed engendrÃ³ a IsaÃ­;",
-      "por": "<span class=\"verse-number\">12 </span>E Boaz gerou Obede, e Obede gerou JessÃ©.",
-      "fra": "<span class=\"verse-number\">12 </span>Boaz engendra Obed. Obed engendra IsaÃ¯.",
-      "deu": "<span class=\"verse-number\">12Â </span>Boas zeugte Obed, Obed zeugte Isai;",
-      "kor": "<span class=\"verse-number\">12 </span>ë³´ìì¤ë ì¤ë²³ì ë³ê³  ì¤ë²³ì ì´ìë¥¼ ë³ê³",
-      "ita": "<span class=\"verse-number\">12</span> Obed generÃ² Isai."
+      "eng": "And Boaz begat Obed, and Obed begat Jesse,",
+      "ara": "وَأَنْجَبَ بُوعَزُ عُوبِيدَ وَالِدَ يَسَّى.",
+      "jpn": "ボアズはオベデを<ruby>生<rt>う</rt></ruby>み、オベデはエッサイを<ruby>生<rt>う</rt></ruby>んだ。",
+      "spa": "y Booz engendró a Obed, y Obed engendró a Isaí;",
+      "por": "E Boaz gerou Obede, e Obede gerou Jessé.",
+      "fra": "Boaz engendra Obed. Obed engendra Isaï.",
+      "deu": "Boas zeugte Obed, Obed zeugte Isai;",
+      "kor": "ë³´ìì¤ë ì¤ë²³ì ë³ê³  ì¤ë²³ì ì´ìë¥¼ ë³ê³",
+      "ita": "Obed generò Isai."
     },
     "13": {
-      "eng": "<span class=\"verse-number\">13 </span><span class=\"para-mark\">Â¶ </span>And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,",
-      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙØ³ÙÙÙ Ø¨ÙÙÙØ±ÙÙÙ Ø£ÙÙÙÙØ¢Ø¨ÙØ Ø«ÙÙÙÙ Ø£ÙØ¨ÙÙÙÙØ§Ø¯ÙØ§Ø¨ÙØ ÙÙØ´ÙÙÙØ¹ÙÙØ",
-      "jpn": "<span class=\"verse-number\">13 </span>ã¨ããµã¤ã¯<ruby><rb>é·å­</rb><rt>ã¡ããã</rt></ruby>ã¨ãªã¢ãã<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã«ã¢ããããã<ruby><rb>ç¬¬</rb><rt>ã ã</rt></ruby>ä¸ã«ã·ã¡ã¢ã",
-      "spa": "<span class=\"verse-number\">13 </span>e IsaÃ­ engendrÃ³ a Eliab, su primogÃ©nito, y el segundo Abinadab, y Simea el tercero,",
-      "por": "<span class=\"verse-number\">13 </span>E JessÃ© gerou Eliabe, seu primogÃªnito, e Abinadabe, o segundo, e Simeia, o terceiro,",
-      "fra": "<span class=\"verse-number\">13 </span>IsaÃ¯ engendra Ãliab, son premier-nÃ©, Abinadab le deuxiÃ¨me, Schimea le troisiÃ¨me,",
-      "deu": "<span class=\"verse-number\">13Â </span>Isai zeugte Eliab, seinen Erstgeborenen, und Abinadab als zweiten, Schima als dritten,",
-      "kor": "<span class=\"verse-number\">13 </span>ì´ìë ë§ìë¤ ìë¦¬ìê³¼ ëì§¸ë¡ ìë¹ëëµê³¼ ìì§¸ë¡ ìë¯ìì",
-      "ita": "<span class=\"verse-number\">13</span> Isai generÃ² Eliab, suo primogenito, Abinadab il secondo, Scimea il terzo,"
+      "eng": "<span class=\"para-mark\">¶ </span>And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,",
+      "ara": "وَأَنْجَبَ يَسَّى بِكْرَهُ أَلِيآبَ، ثُمَّ أَبِينَادَابَ، فَشِمْعَى،",
+      "jpn": "エッサイは<ruby>長子<rt>ちょうし</rt></ruby>エリアブ、<ruby>次<rt>つぎ</rt></ruby>にアビナダブ、<ruby>第<rt>だい</rt></ruby>三にシメア、",
+      "spa": "e Isaí engendró a Eliab, su primogénito, y el segundo Abinadab, y Simea el tercero,",
+      "por": "E Jessé gerou Eliabe, seu primogênito, e Abinadabe, o segundo, e Simeia, o terceiro,",
+      "fra": "Isaï engendra Éliab, son premier-né, Abinadab le deuxième, Schimea le troisième,",
+      "deu": "Isai zeugte Eliab, seinen Erstgeborenen, und Abinadab als zweiten, Schima als dritten,",
+      "kor": "이새는 맏아들 엘리압과 둘째로 아비나답과 셋째로 시므아와",
+      "ita": "Isai generò Eliab, suo primogenito, Abinadab il secondo, Scimea il terzo,"
     },
     "14": {
-      "eng": "<span class=\"verse-number\">14 </span>Nethaneel the fourth, Raddai the fifth,",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>Ø«ÙÙÙÙ ÙÙØ«ÙÙÙØ¦ÙÙÙÙ ÙÙØ±ÙØ¯ÙÙØ§ÙÙØ",
-      "jpn": "<span class=\"verse-number\">14 </span><ruby><rb>ç¬¬</rb><rt>ã ã</rt></ruby>åã«ãã¿ã³ã¨ã«ã<ruby><rb>ç¬¬</rb><rt>ã ã</rt></ruby>äºã«ã©ãã¤ã",
-      "spa": "<span class=\"verse-number\">14 </span>el cuarto Natanael, el quinto Radai,",
-      "por": "<span class=\"verse-number\">14 </span>Natanael, o quarto, Radai, o quinto,",
-      "fra": "<span class=\"verse-number\">14 </span>Nethaneel le quatriÃ¨me, RaddaÃ¯ le cinquiÃ¨me,",
-      "deu": "<span class=\"verse-number\">14Â </span>Netanel als vierten, Raddai als fÃ¼nften,",
-      "kor": "<span class=\"verse-number\">14 </span>ë·ì§¸ë¡ ëë¤ë¬ê³¼ ë¤ì¯ì§¸ë¡ ëëì",
-      "ita": "<span class=\"verse-number\">14</span> Netaneel il quarto, Raddai il quinto,"
+      "eng": "Nethaneel the fourth, Raddai the fifth,",
+      "ara": "ثُمَّ نَثْنِئِيلَ فَرَدَّايَ،",
+      "jpn": "<ruby>第<rt>だい</rt></ruby>四にネタンエル、<ruby>第<rt>だい</rt></ruby>五にラダイ、",
+      "spa": "el cuarto Natanael, el quinto Radai,",
+      "por": "Natanael, o quarto, Radai, o quinto,",
+      "fra": "Nethaneel le quatrième, Raddaï le cinquième,",
+      "deu": "Netanel als vierten, Raddai als fünften,",
+      "kor": "넷째로 느다넬과 다섯째로 랏대와",
+      "ita": "Netaneel il quarto, Raddai il quinto,"
     },
     "15": {
-      "eng": "<span class=\"verse-number\">15 </span>Ozem the sixth, David the seventh:",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙØ£ÙÙØµÙÙÙ ÙÙØ£ÙØ®ÙÙØ±Ø§Ù Ø¯ÙØ§ÙÙØ¯Ù.",
-      "jpn": "<span class=\"verse-number\">15 </span><ruby><rb>ç¬¬</rb><rt>ã ã</rt></ruby>å­ã«ãªã¼ã ã<ruby><rb>ç¬¬</rb><rt>ã ã</rt></ruby>ä¸ã«ãããã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">15 </span>el sexto Ozem, el sÃ©ptimo David,",
-      "por": "<span class=\"verse-number\">15 </span>OzÃ©m, o sexto, Davi, o sÃ©timo.",
-      "fra": "<span class=\"verse-number\">15 </span>Otsem le sixiÃ¨me, David le septiÃ¨me.",
-      "deu": "<span class=\"verse-number\">15Â </span>Ozem als sechsten, David als siebten.",
-      "kor": "<span class=\"verse-number\">15 </span>ì¬ì¯ì§¸ë¡ ì¤ìê³¼ ì¼ê³±ì§¸ë¡ ë¤ìì ë³ìì¼ë©°",
-      "ita": "<span class=\"verse-number\">15</span> Ozem il sesto, Davide il settimo."
+      "eng": "Ozem the sixth, David the seventh:",
+      "ara": "فَأُوصَمَ وَأَخِيراً دَاوُدَ.",
+      "jpn": "<ruby>第<rt>だい</rt></ruby>六にオゼム、<ruby>第<rt>だい</rt></ruby>七にダビデを<ruby>生<rt>う</rt></ruby>んだ。",
+      "spa": "el sexto Ozem, el séptimo David,",
+      "por": "Ozém, o sexto, Davi, o sétimo.",
+      "fra": "Otsem le sixième, David le septième.",
+      "deu": "Ozem als sechsten, David als siebten.",
+      "kor": "여섯째로 오셈과 일곱째로 다윗을 낳았으며",
+      "ita": "Ozem il sesto, Davide il settimo."
     },
     "16": {
-      "eng": "<span class=\"verse-number\">16 </span>Whose sisters <span class=\"clarity-word\">were</span> Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙÙØ§ Ø£ÙÙÙØ¬ÙØ¨Ù ÙÙØ³ÙÙÙ Ø§Ø¨ÙÙÙØªÙÙÙÙÙ ÙÙÙÙØ§ ØµÙØ±ÙÙÙÙÙØ©Ù ÙÙØ£ÙØ¨ÙÙØ¬ÙØ§ÙÙÙÙ. ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù ØµÙØ±ÙÙÙÙÙØ©Ù Ø«ÙÙØ§Ø«ÙØ©Ù ÙÙÙÙ: Ø£ÙØ¨ÙÙØ´ÙØ§ÙÙ ÙÙÙÙÙØ¢Ø¨Ù ÙÙØ¹ÙØ³ÙØ§Ø¦ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">16 </span><ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>å§å¦¹</rb><rt>ãã¾ã</rt></ruby>ã¯ã¼ã«ã¤ã¨ã¢ãã¬ã¤ã«ã§ãããã¼ã«ã¤ã®<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã <ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ãã·ã£ã¤ãã¨ã¢ããã¢ãµãã«ã®ä¸<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ããã",
-      "spa": "<span class=\"verse-number\">16 </span>de los cuales Sarvia y Abigail fueron hermanas. Y los hijos de Sarvia fueron tres: Abisai, y Joab y Asael.",
-      "por": "<span class=\"verse-number\">16 </span>E <span class=\"clarity-word\">foram</span> suas irmÃ£s Zeruia e Abigail; e <span class=\"clarity-word\">foram</span> os filhos de <span class=\"page-break\" data-page=\"666\"></span>Zeruia: Abisai, e Joabe, e Asael, trÃªs.",
-      "fra": "<span class=\"verse-number\">16 </span>Leurs sÅurs Ã©taientÂ : Tseruja et AbigaÃ¯l. Fils de TserujaÂ : AbischaÃ¯, Joab et AsaÃ«l, trois.",
-      "deu": "<span class=\"verse-number\">16Â </span>Und ihre Schwestern waren: Zeruja und Abigajil; und die SÃ¶hne der Zeruja waren: Abischai, Joab und AsaÃ«l, die drei.",
-      "kor": "<span class=\"verse-number\">16 </span>ê·¸ë¤ì ìë§¤ë ì¤ë£¨ì¼ì ìë¹ê°ì¼ì´ë¼ ì¤ë£¨ì¼ì ìë¤ì ìë¹ìì ììê³¼ ìì¬í¬ ì¼íì ì",
-      "ita": "<span class=\"verse-number\">16</span> Le loro sorelle erano Zeruia e Abigail. Figli di Zeruia: Abishai, Ioab ed Asael: tre."
+      "eng": "Whose sisters <span class=\"clarity-word\">were</span> Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.",
+      "ara": "كَمَا أَنْجَبَ يَسَّى ابْنَتَيْنِ هُمَا صُرُويَّةُ وَأَبِيجَايِلُ. وَأَبْنَاءُ صُرُويَّةَ ثَلاثَةٌ هُمْ: أَبِيشَايُ وَيُوآبُ وَعَسَائِيلُ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らの<ruby>姉妹<rt>しまい</rt></ruby>はゼルヤとアビガイルである。ゼルヤの<ruby>産<rt>う</rt></ruby>んだ<ruby>子<rt>こ</rt></ruby>はアビシャイ、ヨアブ、アサヘルの三<ruby>人<rt>にん</rt></ruby>である。",
+      "spa": "de los cuales Sarvia y Abigail fueron hermanas. Y los hijos de Sarvia fueron tres: Abisai, y Joab y Asael.",
+      "por": "E <span class=\"clarity-word\">foram</span> suas irmãs Zeruia e Abigail; e <span class=\"clarity-word\">foram</span> os filhos de Zeruia: Abisai, e Joabe, e Asael, três.",
+      "fra": "Leurs sœurs étaient : Tseruja et Abigaïl. Fils de Tseruja : Abischaï, Joab et Asaël, trois.",
+      "deu": "Und ihre Schwestern waren: Zeruja und Abigajil; und die Söhne der Zeruja waren: Abischai, Joab und Asaël, die drei.",
+      "kor": "그들의 자매는 스루야와 아비가일이라 스루야의 아들은 아비새와 요압과 아사헬 삼형제요",
+      "ita": "Le loro sorelle erano Zeruia e Abigail. Figli di Zeruia: Abishai, Ioab ed Asael: tre."
     },
     "17": {
-      "eng": "<span class=\"verse-number\">17 </span>And Abigail bare Amasa: and the father of Amasa <span class=\"clarity-word\">was</span> Jether the Ishmeelite.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>Ø£ÙÙÙÙØ§ Ø£ÙØ¨ÙÙØ¬ÙØ§ÙÙÙÙ ÙÙÙÙØ¯Ù Ø£ÙÙÙØ¬ÙØ¨ÙØªÙ: Ø¹ÙÙÙØ§Ø³ÙØ§ ÙÙÙÙ ÙÙØ«ÙØ±Ù Ø§ÙØ¥ÙØ³ÙÙÙØ§Ø¹ÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">17 </span>ã¢ãã¬ã¤ã«ã¯ã¢ããµã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã ãã¢ããµã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã¯ã¤ã·ãã¨ã«ã³ã¨ã¨ãã«ã§ããã",
-      "spa": "<span class=\"verse-number\">17 </span>Y Abigail dio a luz a Amasa, cuyo padre fue Jeter, el ismaelita.",
-      "por": "<span class=\"verse-number\">17 </span>E Abigail deu Ã  luz Amasa; e o pai de Amasa <span class=\"clarity-word\">foi</span> Jeter, o ismaelita.",
-      "fra": "<span class=\"verse-number\">17 </span>AbigaÃ¯l enfanta AmasaÂ ; le pÃ¨re dâAmasa fut JÃ©ther, lâIsmaÃ©lite.",
-      "deu": "<span class=\"verse-number\">17Â </span>Abigajil aber gebar Amasa, und der Vater Amasas war der Ismaeliter Jeter.",
-      "kor": "<span class=\"verse-number\">17 </span>ìë¹ê°ì¼ì ìë§ì¬ë¥¼ ë³ìì¼ë ìë§ì¬ì ìë²ì§ë ì´ì¤ë§ì ì¬ë ìë¸ì´ìëë¼",
-      "ita": "<span class=\"verse-number\">17</span> Abigail partorÃ¬ Amasa, il cui padre fu Ieter, lâIsmaelita."
+      "eng": "And Abigail bare Amasa: and the father of Amasa <span class=\"clarity-word\">was</span> Jether the Ishmeelite.",
+      "ara": "أَمَّا أَبِيجَايِلُ فَقَدْ أَنْجَبَتْ: عَمَاسَا مِنْ يَثْرَ الإِسْمَاعِيلِيِّ.",
+      "jpn": "アビガイルはアマサを<ruby>産<rt>う</rt></ruby>んだ。アマサの<ruby>父<rt>ちち</rt></ruby>はイシマエルびとエテルである。",
+      "spa": "Y Abigail dio a luz a Amasa, cuyo padre fue Jeter, el ismaelita.",
+      "por": "E Abigail deu à luz Amasa; e o pai de Amasa <span class=\"clarity-word\">foi</span> Jeter, o ismaelita.",
+      "fra": "Abigaïl enfanta Amasa ; le père d’Amasa fut Jéther, l’Ismaélite.",
+      "deu": "Abigajil aber gebar Amasa, und der Vater Amasas war der Ismaeliter Jeter.",
+      "kor": "아비가일은 아마사를 낳았으니 아마사의 아버지는 이스마엘 사람 예델이었더라",
+      "ita": "Abigail partorì Amasa, il cui padre fu Ieter, l’Ismaelita."
     },
     "18": {
-      "eng": "<span class=\"verse-number\">18 </span><span class=\"para-mark\">Â¶ </span>And Caleb the son of Hezron begat <span class=\"clarity-word\">children</span> of Azubah <span class=\"clarity-word\">his</span> wife, and of Jerioth: her sons <span class=\"clarity-word\">are</span> these; Jesher, and Shobab, and Ardon.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙÙÙØ§ÙÙ ÙÙØ§ÙÙØ¨Ù Ø¨ÙÙÙ Ø­ÙØµÙØ±ÙÙÙÙ ÙÙØªÙØ²ÙÙÙÙØ¬Ø§Ù ÙÙÙÙ Ø¹ÙØ²ÙÙØ¨ÙØ©Ù ÙÙÙÙØ±ÙÙØ¹ÙÙØ«Ù. ÙÙØ£ÙÙÙØ¬ÙØ¨ÙØªÙ ÙÙÙÙ Ø¹ÙØ²ÙÙØ¨ÙØ©Ù ÙÙØ§Ø´ÙØ±Ù ÙÙØ´ÙÙØ¨ÙØ§Ø¨Ù ÙÙØ£ÙØ±ÙØ¯ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">18 </span>ããã­ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã«ã¬ãã¯ãã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã¢ãºãããã³ã¨ãªãªãã«ãã£ã¦<ruby><rb>å­</rb><rt>ã</rt></ruby>ãããããããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã¨ã·ã«ãã·ã§ãããã¢ã«ãã³ã§ããã",
-      "spa": "<span class=\"verse-number\">18 </span>Y Caleb hijo de HezrÃ³n engendrÃ³ hijos de Azuba, su esposa, y de Jeriot; y los hijos de esta fueron Jeser, y Sobab y ArdÃ³n.",
-      "por": "<span class=\"verse-number\">18 </span>E Calebe, filho de Hezrom, gerou <span class=\"clarity-word\">filhos</span> de Azuba, sua mulher, e de Jeriote; e os filhos desta <span class=\"clarity-word\">foram</span> estes: Jeser, e Sobabe, e Ardom.",
-      "fra": "<span class=\"verse-number\">18 </span>Caleb, fils de Hetsron, eut des enfants dâAzuba, sa femme, et de Jerioth. Voici les fils quâil eut dâAzubaÂ : JÃ©scher, Schobab et Ardon.",
-      "deu": "<span class=\"verse-number\">18Â </span>Kaleb aber, der Sohn Hezrons, hatte Kinder von seiner Frau Asuba und von Jeriot; und dies sind deren SÃ¶hne: Jescher, Schobab und Ardon.",
-      "kor": "<span class=\"verse-number\">18 </span>í¤ì¤ë¡ ì ìë¤ ê°ë ì´ ê·¸ì ìë´ ììë°ì ì¬ë¦¬ì·ìê²ì ìë¤ì ë³ìì¼ë ê·¸ê° ë³ì ìë¤ë¤ì ììê³¼ ìë°¥ê³¼ ìë¥´ëì´ë©°",
-      "ita": "<span class=\"verse-number\">18</span> Caleb, figlio di Ezron, ebbe dei figli da Azuba sua moglie, e da Ieriot. Questi sono i figli che ebbe da Azuba: Iescer, Shobab e Ardon."
+      "eng": "<span class=\"para-mark\">¶ </span>And Caleb the son of Hezron begat <span class=\"clarity-word\">children</span> of Azubah <span class=\"clarity-word\">his</span> wife, and of Jerioth: her sons <span class=\"clarity-word\">are</span> these; Jesher, and Shobab, and Ardon.",
+      "ara": "وَكَانَ كَالَبُ بْنُ حَصْرُونَ مُتَزَوِّجاً مِنْ عَزُوبَةَ وَيَرِيعُوثَ. فَأَنْجَبَتْ لَهُ عَزُوبَةُ يَاشَرَ وَشُوبَابَ وَأَرْدُونَ.",
+      "jpn": "ヘヅロンの<ruby>子<rt>こ</rt></ruby>カレブはその<ruby>妻<rt>つま</rt></ruby>アズバおよびエリオテによって<ruby>子<rt>こ</rt></ruby>をもうけた。その<ruby>子<rt>こ</rt></ruby>らはエシル、ショバブ、アルドンである。",
+      "spa": "Y Caleb hijo de Hezrón engendró hijos de Azuba, su esposa, y de Jeriot; y los hijos de esta fueron Jeser, y Sobab y Ardón.",
+      "por": "E Calebe, filho de Hezrom, gerou <span class=\"clarity-word\">filhos</span> de Azuba, sua mulher, e de Jeriote; e os filhos desta <span class=\"clarity-word\">foram</span> estes: Jeser, e Sobabe, e Ardom.",
+      "fra": "Caleb, fils de Hetsron, eut des enfants d’Azuba, sa femme, et de Jerioth. Voici les fils qu’il eut d’Azuba : Jéscher, Schobab et Ardon.",
+      "deu": "Kaleb aber, der Sohn Hezrons, hatte Kinder von seiner Frau Asuba und von Jeriot; und dies sind deren Söhne: Jescher, Schobab und Ardon.",
+      "kor": "헤스론의 아들 갈렙이 그의 아내 아수바와 여리옷에게서 아들을 낳았으니 그가 낳은 아들들은 예셀과 소밥과 아르돈이며",
+      "ita": "Caleb, figlio di Ezron, ebbe dei figli da Azuba sua moglie, e da Ieriot. Questi sono i figli che ebbe da Azuba: Iescer, Shobab e Ardon."
     },
     "19": {
-      "eng": "<span class=\"verse-number\">19 </span>And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØ¹ÙÙÙØ¯ÙÙÙØ§ ÙÙØ§ØªÙØªÙ Ø¹ÙØ²ÙÙØ¨ÙØ©Ù ØªÙØ²ÙÙÙÙØ¬Ù ÙÙØ§ÙÙØ¨Ù ÙÙÙÙ Ø£ÙÙÙØ±ÙØ§ØªÙ ÙÙØ£ÙÙÙØ¬ÙØ¨ÙØªÙ ÙÙÙÙ Ø­ÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">19 </span>ã«ã¬ãã¯ã¢ãºãã<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãã ã®ã§ã¨ãã©ã¿ããã¨ã£ããã¨ãã©ã¿ã¯ã«ã¬ãã«ãã£ã¦ãã«ã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">19 </span>Y cuando muriÃ³ Azuba, Caleb tomÃ³ por esposa a Efrata, la que le dio a luz a Hur.",
-      "por": "<span class=\"verse-number\">19 </span>E morreu Azuba; e Calebe tomou para si Efrate, a qual lhe deu Hur.",
-      "fra": "<span class=\"verse-number\">19 </span>Azuba mourutÂ ; et Caleb prit Ãphrath qui lui enfanta Hur.",
-      "deu": "<span class=\"verse-number\">19Â </span>Nach dem Tod der Asuba aber heiratete Kaleb Efrata; die gebar ihm Hur.",
-      "kor": "<span class=\"verse-number\">19 </span>ììë°ê° ì£½ì íì ê°ë ì´ ë ìë¸ëìê² ì¥ê° ë¤ìëë ìë¸ëì´ ê·¸ìê² íì ë³ì ì£¼ìê³",
-      "ita": "<span class=\"verse-number\">19</span> Azuba morÃ¬ e Caleb sposÃ² Efrat, che gli partorÃ¬ Ur."
+      "eng": "And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur.",
+      "ara": "وَعِنْدَمَا مَاتَتْ عَزُوبَةُ تَزَوَّجَ كَالَبُ مِنْ أَفْرَاتَ فَأَنْجَبَتْ لَهُ حُورَ.",
+      "jpn": "カレブはアズバが<ruby>死<rt>し</rt></ruby>んだのでエフラタをめとった。エフラタはカレブによってホルを<ruby>産<rt>う</rt></ruby>んだ。",
+      "spa": "Y cuando murió Azuba, Caleb tomó por esposa a Efrata, la que le dio a luz a Hur.",
+      "por": "E morreu Azuba; e Calebe tomou para si Efrate, a qual lhe deu Hur.",
+      "fra": "Azuba mourut ; et Caleb prit Éphrath qui lui enfanta Hur.",
+      "deu": "Nach dem Tod der Asuba aber heiratete Kaleb Efrata; die gebar ihm Hur.",
+      "kor": "ììë°ê° ì£½ì íì ê°ë ì´ ë ìë¸ëìê² ì¥ê° ë¤ìëë ìë¸ëì´ ê·¸ìê² íì ë³ì ì£¼ìê³",
+      "ita": "Azuba morì e Caleb sposò Efrat, che gli partorì Ur."
     },
     "20": {
-      "eng": "<span class=\"verse-number\">20 </span>And Hur begat Uri, and Uri begat Bezaleel.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø­ÙÙØ±Ù Ø£ÙÙØ±ÙÙÙ ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø£ÙÙØ±ÙÙ Ø¨ÙØµÙÙÙØ¦ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">20 </span>ãã«ã¯ã¦ãªã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã¦ãªã¯ãã¶ã¬ã«ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">20 </span>Y Hur engendrÃ³ a Uri, y Uri engendrÃ³ a Bezaleel.",
-      "por": "<span class=\"verse-number\">20 </span>E Hur gerou Uri, e Uri gerou Bezaleel.",
-      "fra": "<span class=\"verse-number\">20 </span>Hur engendra Uri et Uri engendra Betsaleel.",
-      "deu": "<span class=\"verse-number\">20Â </span>Hur aber zeugte Uri, und Uri zeugte Bezalel.",
-      "kor": "<span class=\"verse-number\">20 </span>íì ì°ë¦¬ë¥¼ ë³ê³  ì°ë¦¬ë ë¸ì´ë ì ë³ìëë¼",
-      "ita": "<span class=\"verse-number\">20</span> Ur generÃ² Uri, e Uri generÃ² Bezaleel."
+      "eng": "And Hur begat Uri, and Uri begat Bezaleel.",
+      "ara": "وَأَنْجَبَ حُورُ أُورِيَ وَأَنْجَبَ أُورِي بَصَلْئِيلَ.",
+      "jpn": "ホルはウリを<ruby>生<rt>う</rt></ruby>み、ウリはベザレルを<ruby>生<rt>う</rt></ruby>んだ。",
+      "spa": "Y Hur engendró a Uri, y Uri engendró a Bezaleel.",
+      "por": "E Hur gerou Uri, e Uri gerou Bezaleel.",
+      "fra": "Hur engendra Uri et Uri engendra Betsaleel.",
+      "deu": "Hur aber zeugte Uri, und Uri zeugte Bezalel.",
+      "kor": "훌은 우리를 낳고 우리는 브살렐을 낳았더라",
+      "ita": "Ur generò Uri, e Uri generò Bezaleel."
     },
     "21": {
-      "eng": "<span class=\"verse-number\">21 </span><span class=\"para-mark\">Â¶ </span>And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he <span class=\"clarity-word\">was</span> threescore years old; and she bare him Segub.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØªÙØ²ÙÙÙÙØ¬Ù Ø­ÙØµÙØ±ÙÙÙÙ ÙÙÙÙÙÙ ÙÙÙ Ø§ÙØ³ÙÙØªÙÙÙÙÙ ÙÙÙÙ Ø¹ÙÙÙØ±ÙÙÙ Ø§Ø¨ÙÙÙØ©Ù ÙÙØ§ÙÙÙØ±Ù Ø£ÙØ¨ÙÙ Ø¬ÙÙÙØ¹ÙØ§Ø¯Ù ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙÙÙÙÙØ§ Ø³ÙØ¬ÙÙØ¨Ù.",
-      "jpn": "<span class=\"verse-number\">21 </span>ãã®ã®ã¡ããã­ã³ã¯ã®ã¬ã¢ãã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ãã­ã«ã®<ruby><rb>å¨</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã«ã¯ãã£ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>å½¼å¥³</rb><rt>ãã®ãã</rt></ruby>ããã¨ã£ãã¨ãã¯å­å<ruby><rb>æ­³</rb><rt>ãã</rt></ruby>ã§ãã£ãã<ruby><rb>å½¼å¥³</rb><rt>ãã®ãã</rt></ruby>ã¯ããã­ã³ã«ãã£ã¦ã»ã°ãã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">21 </span>Y despuÃ©s HezrÃ³n se uniÃ³ a la hija de Maquir, padre de Galaad, a la que tomÃ³ por esposa siendo Ã©l de sesenta aÃ±os, y ella le dio a luz a Segub.",
-      "por": "<span class=\"verse-number\">21 </span>EntÃ£o Hezrom deitou-se com a filha de Maquir, pai de Gileade, e <span class=\"clarity-word\">sendo</span> ele de sessenta anos, a tomou; e ela lhe deu Segube.",
-      "fra": "<span class=\"verse-number\">21 </span>Ensuite, Hetsron alla vers la fille de Makir, pÃ¨re de Galaad, et il avait soixante ans lorsquâil la pritÂ ; elle lui enfanta Segub.",
-      "deu": "<span class=\"verse-number\">21Â </span>Danach verband sich Hezron mit der Tochter Machirs, des Vaters Gileads, und heiratete sie, als er sechzig Jahre alt war; die gebar ihm Segub.",
-      "kor": "<span class=\"verse-number\">21 </span>ê·¸ íì í¤ì¤ë¡ ì´ ì¡ì­ ì¸ì ê¸¸ë¥´ìì ìë²ì§ ë§ê¸¸ì ë¸ìê² ì¥ê° ë¤ì´ ëì¹¨íìëë ê·¸ê° ì¤êµ½ì í¤ì¤ë¡ ìê² ë³ì ì£¼ìì¼ë©°",
-      "ita": "<span class=\"verse-number\">21</span> Poi Ezron prese la figlia di Machir, padre di Galaad; egli aveva sessantâanni quando la sposÃ²; ed essa gli partorÃ¬ Segub."
+      "eng": "<span class=\"para-mark\">¶ </span>And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he <span class=\"clarity-word\">was</span> threescore years old; and she bare him Segub.",
+      "ara": "وَتَزَوَّجَ حَصْرُونُ وَهُوَ فِي السِّتِّينَ مِنْ عُمْرِهِ ابْنَةَ مَاكِيرَ أَبِي جِلْعَادَ وَأَنْجَبَ مِنْهَا سَجُوبَ.",
+      "jpn": "そののちヘヅロンはギレアデの<ruby>父<rt>ちち</rt></ruby>マキルの<ruby>娘<rt>むすめ</rt></ruby>の<ruby>所<rt>ところ</rt></ruby>にはいった。<ruby>彼<rt>かれ</rt></ruby>が<ruby>彼女<rt>かのじょ</rt></ruby>をめとったときは六十<ruby>歳<rt>さい</rt></ruby>であった。<ruby>彼女<rt>かのじょ</rt></ruby>はヘヅロンによってセグブを<ruby>産<rt>う</rt></ruby>んだ。",
+      "spa": "Y después Hezrón se unió a la hija de Maquir, padre de Galaad, a la que tomó por esposa siendo él de sesenta años, y ella le dio a luz a Segub.",
+      "por": "Então Hezrom deitou-se com a filha de Maquir, pai de Gileade, e <span class=\"clarity-word\">sendo</span> ele de sessenta anos, a tomou; e ela lhe deu Segube.",
+      "fra": "Ensuite, Hetsron alla vers la fille de Makir, père de Galaad, et il avait soixante ans lorsqu’il la prit ; elle lui enfanta Segub.",
+      "deu": "Danach verband sich Hezron mit der Tochter Machirs, des Vaters Gileads, und heiratete sie, als er sechzig Jahre alt war; die gebar ihm Segub.",
+      "kor": "그 후에 헤스론이 육십 세에 길르앗의 아버지 마길의 딸에게 장가 들어 동침하였더니 그가 스굽을 헤스론에게 낳아 주었으며",
+      "ita": "Poi Ezron prese la figlia di Machir, padre di Galaad; egli aveva sessant’anni quando la sposò; ed essa gli partorì Segub."
     },
     "22": {
-      "eng": "<span class=\"verse-number\">22 </span>And Segub begat Jair, who had three and twenty cities in the land of Gilead.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø³ÙØ¬ÙÙØ¨Ù ÙÙØ§Ø¦ÙÙØ±Ù Ø§ÙÙÙØ°ÙÙ Ø§ÙÙØªÙÙÙÙÙ Ø«ÙÙØ§Ø«Ø§Ù ÙÙØ¹ÙØ´ÙØ±ÙÙÙÙ ÙÙØ¯ÙÙÙÙØ©Ù ÙÙÙ Ø£ÙØ±ÙØ¶Ù Ø¬ÙÙÙØ¹ÙØ§Ø¯Ù.",
-      "jpn": "<span class=\"verse-number\">22 </span>ã»ã°ãã¯ã¤ã¤ã«ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã ãã¤ã¤ã«ã¯ã®ã¬ã¢ãã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã«äºåä¸ã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ããã£ã¦ããã",
-      "spa": "<span class=\"verse-number\">22 </span>Y Segub engendrÃ³ a Jair, que tuvo veintitrÃ©s ciudades en la tierra de Galaad.",
-      "por": "<span class=\"verse-number\">22 </span>E Segube gerou Jair; e este tinha vinte e trÃªs cidades na terra de Gileade.",
-      "fra": "<span class=\"verse-number\">22 </span>Segub engendra JaÃ¯r qui eut vingt-trois villes dans le pays de Galaad.",
-      "deu": "<span class=\"verse-number\">22Â </span>Segub zeugte dann JaÃ¯r; der besaÃ dreiundzwanzig StÃ¤dte im Land Gilead;",
-      "kor": "<span class=\"verse-number\">22 </span>ì¤êµ½ì ì¼ì¼ì ë³ìê³  ì¼ì¼ì ê¸¸ë¥´ì ëìì ì¤ë¬¼ì¸ ì±ìì ê°ì¡ëë",
-      "ita": "<span class=\"verse-number\">22</span> Segub generÃ² Iair, che ebbe ventitrÃ© cittÃ  nel paese di Galaad."
+      "eng": "And Segub begat Jair, who had three and twenty cities in the land of Gilead.",
+      "ara": "وَأَنْجَبَ سَجُوبُ يَائِيرَ الَّذِي امْتَلَكَ ثَلاثاً وَعِشْرِينَ مَدِينَةً فِي أَرْضِ جِلْعَادَ.",
+      "jpn": "セグブはヤイルを<ruby>生<rt>う</rt></ruby>んだ。ヤイルはギレアデの<ruby>地<rt>ち</rt></ruby>に二十三の<ruby>町<rt>まち</rt></ruby>をもっていた。",
+      "spa": "Y Segub engendró a Jair, que tuvo veintitrés ciudades en la tierra de Galaad.",
+      "por": "E Segube gerou Jair; e este tinha vinte e três cidades na terra de Gileade.",
+      "fra": "Segub engendra Jaïr qui eut vingt-trois villes dans le pays de Galaad.",
+      "deu": "Segub zeugte dann Jaïr; der besaß dreiundzwanzig Städte im Land Gilead;",
+      "kor": "스굽은 야일을 낳았고 야일은 길르앗 땅에서 스물세 성읍을 가졌더니",
+      "ita": "Segub generò Iair, che ebbe ventitré città nel paese di Galaad."
     },
     "23": {
-      "eng": "<span class=\"verse-number\">23 </span>And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, <span class=\"clarity-word\">even</span> threescore cities. All these <span class=\"clarity-word\">belonged to</span> the sons of Machir the father of Gilead.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ØºÙÙÙØ±Ù Ø£ÙÙÙÙ ÙÙÙÙÙÙÙÙØ©Ù Ø¬ÙØ´ÙÙØ±Ù ÙÙÙÙÙÙÙÙÙÙØ©Ù Ø£ÙØ±ÙØ§ÙÙ Ø§Ø³ÙØªÙÙÙÙÙØªÙØ§ Ø¹ÙÙÙÙ Ø­ÙÙÙÙÙØ«Ù ÙÙØ§Ø¦ÙÙØ±Ù ÙÙØ¹Ù ÙÙÙÙØ§Ø©Ù ÙÙÙÙØ±ÙØ§ÙÙØ§Ø ÙÙÙÙØ§ÙÙØªÙ ÙÙÙ Ø¬ÙÙÙÙÙØªÙÙÙØ§ Ø³ÙØªÙÙÙÙÙ ÙÙØ¯ÙÙÙÙØ©Ù. ÙÙÙÙØ§ÙÙ ÙÙÙÙÙ Ø£ÙÙÙÙÙÙÙØ§ ÙÙÙÙØ­ÙØ¯ÙØ±ÙÙÙÙ ÙÙÙÙ Ø°ÙØ±ÙÙÙÙÙØ©Ù ÙÙØ§ÙÙÙØ±Ù Ø£ÙØ¨ÙÙ Ø¬ÙÙÙØ¹ÙØ§Ø¯Ù.",
-      "jpn": "<span class=\"verse-number\">23 </span>ãããã²ã·ã¥ã«ã¨ã¢ã©ã ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ããããããã»ã¤ã¤ã«ããã³ã±ããã¨ãã®<ruby><rb>æé</rb><rt>ãããã¨</rt></ruby>ãªã©<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¦å­åã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã£ãããããã¯ã¿ãªã®ã¬ã¢ãã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ãã­ã«ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã§ãã£ãã",
-      "spa": "<span class=\"verse-number\">23 </span>Y Ã©l tomÃ³ Gesur y Aram, con las ciudades de Jair, de ellos, con Kenat y sus aldeas, sesenta ciudades. Todas estas <span class=\"clarity-word\">pertenecieron</span> a los hijos de Maquir, padre de Galaad.",
-      "por": "<span class=\"verse-number\">23 </span>E Gesur e ArÃ£ tomaram deles as aldeias de Jair, e Quenate, e seus lugares, sessenta cidades; todos estes <span class=\"clarity-word\">foram</span> filhos de Maquir, pai de Gileade.",
-      "fra": "<span class=\"verse-number\">23 </span>Les Gueschuriens et les Syriens leur prirent les bourgs de JaÃ¯r avec Kenath et les villes de son ressort, soixante villes. Tous ceux-lÃ  Ã©taient fils de Makir, pÃ¨re de Galaad.",
-      "deu": "<span class=\"verse-number\">23Â </span>aber die Geschuriter und AramÃ¤er nahmen ihnen die JaÃ¯rdÃ¶rfer weg, Kenat mit den dazugehÃ¶rigen Ortschaften, sechzig StÃ¤dte. Diese alle waren SÃ¶hne Machirs, des Vaters Gileads.",
-      "kor": "<span class=\"verse-number\">23 </span>ê·¸ì ê³¼ ìëì´ ì¼ì¼ì ì±ìë¤ê³¼ ê·¸ë«ê³¼ ê·¸ì ë¸ë¦° ì±ìë¤ ëª¨ë ì¡ì­ì ê·¸ë¤ìê²ì ë¹¼ììì¼ë©° ì´ë¤ì ë¤ ê¸¸ë¥´ìì ìë²ì§ ë§ê¸¸ì ììì´ìëë¼",
-      "ita": "<span class=\"verse-number\">23</span> I Gheshuriti e i Siri presero loro le borgate di Iair, Chenat e i villaggi che ne dipendevano, sessanta cittÃ . Tutti questi erano figli di Machir, padre di Galaad."
+      "eng": "And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, <span class=\"clarity-word\">even</span> threescore cities. All these <span class=\"clarity-word\">belonged to</span> the sons of Machir the father of Gilead.",
+      "ara": "غَيْرَ أَنَّ مَمْلَكَةَ جَشُورَ وَمَمْلَكَةَ أَرَامَ اسْتَوْلَتَا عَلَى حَوُّوثَ يَائِيرَ مَعَ قَنَاةَ وَقُرَاهَا، فَكَانَتْ فِي جُمْلَتِهَا سِتِّينَ مَدِينَةً. وَكَانَ كُلُّ أَهْلِهَا مُنْحَدِرِينَ مِنْ ذُرِّيَّةِ مَاكِيرَ أَبِي جِلْعَادَ.",
+      "jpn": "しかしゲシュルとアラムは<ruby>彼<rt>かれ</rt></ruby>らからハボテ・ヤイルおよびケナテとその<ruby>村里<rt>むらざと</rt></ruby>など<ruby>合<rt>あ</rt></ruby>わせて六十の<ruby>町<rt>まち</rt></ruby>を<ruby>取<rt>と</rt></ruby>った。これらはみなギレアデの<ruby>父<rt>ちち</rt></ruby>マキルの<ruby>子孫<rt>しそん</rt></ruby>であった。",
+      "spa": "Y él tomó Gesur y Aram, con las ciudades de Jair, de ellos, con Kenat y sus aldeas, sesenta ciudades. Todas estas <span class=\"clarity-word\">pertenecieron</span> a los hijos de Maquir, padre de Galaad.",
+      "por": "E Gesur e Arã tomaram deles as aldeias de Jair, e Quenate, e seus lugares, sessenta cidades; todos estes <span class=\"clarity-word\">foram</span> filhos de Maquir, pai de Gileade.",
+      "fra": "Les Gueschuriens et les Syriens leur prirent les bourgs de Jaïr avec Kenath et les villes de son ressort, soixante villes. Tous ceux-là étaient fils de Makir, père de Galaad.",
+      "deu": "aber die Geschuriter und Aramäer nahmen ihnen die Jaïrdörfer weg, Kenat mit den dazugehörigen Ortschaften, sechzig Städte. Diese alle waren Söhne Machirs, des Vaters Gileads.",
+      "kor": "그술과 아람이 야일의 성읍들과 그낫과 그에 딸린 성읍들 모두 육십을 그들에게서 빼앗았으며 이들은 다 길르앗의 아버지 마길의 자손이었더라",
+      "ita": "I Gheshuriti e i Siri presero loro le borgate di Iair, Chenat e i villaggi che ne dipendevano, sessanta città. Tutti questi erano figli di Machir, padre di Galaad."
     },
     "24": {
-      "eng": "<span class=\"verse-number\">24 </span>And after that Hezron was dead in Caleb-ephratah, then Abiah Hezronâs wife bare him Ashur the father of Tekoa.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙØ¨ÙØ¹ÙØ¯Ù ÙÙÙÙØ§Ø©Ù Ø­ÙØµÙØ±ÙÙÙÙ ÙÙÙ ÙÙØ§ÙÙØ¨Ù Ø£ÙÙÙØ±ÙØ§ØªÙØ©ÙØ ØªÙØ²ÙÙÙÙØ¬Ù Ø§Ø¨ÙÙÙÙÙ ÙÙØ§ÙÙØ¨Ù Ø£ÙØ¨ÙÙÙÙØ§ÙÙ Ø£ÙØ±ÙÙÙÙÙØ©Ù Ø£ÙØ¨ÙÙÙÙØ ÙÙØ£ÙÙÙØ¬ÙØ¨ÙØªÙ ÙÙÙÙ Ø£ÙØ´ÙØ­ÙÙØ±Ù ÙÙØ¤ÙØ³ÙÙØ³Ù ÙÙØ¯ÙÙÙÙØ©Ù ØªÙÙÙÙØ¹Ù.",
-      "jpn": "<span class=\"verse-number\">24 </span>ããã­ã³ã<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãã ã®ã¡ãã«ã¬ãã¯<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ããã­ã³ã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã¨ãã©ã¿ã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã«ã¯ãã£ãã<ruby><rb>å½¼å¥³</rb><rt>ãã®ãã</rt></ruby>ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã«ãã³ã¢ã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã¢ã·ã¥ã«ã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">24 </span>Y despuÃ©s que muriÃ³ HezrÃ³n en Caleb de Efrata, AbÃ­as, esposa de HezrÃ³n, dio a luz a Asur, padre de Tecoa.",
-      "por": "<span class=\"verse-number\">24 </span>E depois da morte de Hezrom, em Calebe de Efrata, Abia, mulher de Hezrom, lhe deu Asur, pai de Tecoa.",
-      "fra": "<span class=\"verse-number\">24 </span>AprÃ¨s la mort de Hetsron Ã  Caleb-Ãphratha, Abija, femme de Hetsron, lui enfanta Aschchur, pÃ¨re de Tekoa.",
-      "deu": "<span class=\"verse-number\">24Â </span>Und nach dem Tod Hezrons in Kaleb Efrata gebar Abija, Hezrons Frau, ihm Aschhur, den Stammvater von Tekoa.",
-      "kor": "<span class=\"verse-number\">24 </span>í¤ì¤ë¡ ì´ ê°ë  ìë¸ë¼ë¤ìì ì£½ì íì ê·¸ì ìë´ ìë¹ì¼ê° ê·¸ë¡ ë§ë¯¸ìì ìì¤íì ë³ìì¼ë ìì¤íì ëê³ ìì ìë²ì§ëë¼",
-      "ita": "<span class=\"verse-number\">24</span> Dopo la morte di Ezron, avvenuta a Caleb-Efrata, Abia, moglie di Ezron, gli partorÃ¬ Ashhur, padre di Tecoa."
+      "eng": "And after that Hezron was dead in Caleb-ephratah, then Abiah Hezron’s wife bare him Ashur the father of Tekoa.",
+      "ara": "وَبَعْدَ وَفَاةِ حَصْرُونَ فِي كَالَبِ أَفْرَاتَةَ، تَزَوَّجَ ابْنُهُ كَالَبُ أَبِيَّاهَ أَرْمَلَةَ أَبِيهِ، فَأَنْجَبَتْ لَهُ أَشْحُورَ مُؤَسِّسَ مَدِينَةِ تَقُوعَ.",
+      "jpn": "ヘヅロンが<ruby>死<rt>し</rt></ruby>んだのち、カレブは<ruby>父<rt>ちち</rt></ruby>ヘヅロンの<ruby>妻<rt>つま</rt></ruby>エフラタの<ruby>所<rt>ところ</rt></ruby>にはいった。<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>にテコアの<ruby>父<rt>ちち</rt></ruby>アシュルを<ruby>産<rt>う</rt></ruby>んだ。",
+      "spa": "Y después que murió Hezrón en Caleb de Efrata, Abías, esposa de Hezrón, dio a luz a Asur, padre de Tecoa.",
+      "por": "E depois da morte de Hezrom, em Calebe de Efrata, Abia, mulher de Hezrom, lhe deu Asur, pai de Tecoa.",
+      "fra": "Après la mort de Hetsron à Caleb-Éphratha, Abija, femme de Hetsron, lui enfanta Aschchur, père de Tekoa.",
+      "deu": "Und nach dem Tod Hezrons in Kaleb Efrata gebar Abija, Hezrons Frau, ihm Aschhur, den Stammvater von Tekoa.",
+      "kor": "헤스론이 갈렙 에브라다에서 죽은 후에 그의 아내 아비야가 그로 말미암아 아스훌을 낳았으니 아스훌은 드고아의 아버지더라",
+      "ita": "Dopo la morte di Ezron, avvenuta a Caleb-Efrata, Abia, moglie di Ezron, gli partorì Ashhur, padre di Tecoa."
     },
     "25": {
-      "eng": "<span class=\"verse-number\">25 </span><span class=\"para-mark\">Â¶ </span>And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, <span class=\"clarity-word\">and</span> Ahijah.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>Ø£ÙÙÙÙØ§ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙØ±ÙØ­ÙÙÙØ¦ÙÙÙÙ Ø¨ÙÙÙØ±Ù Ø­ÙØµÙØ±ÙÙÙÙ ÙÙÙÙÙÙ: Ø§ÙÙØ¨ÙÙÙØ±Ù Ø±ÙØ§ÙÙØ Ø«ÙÙÙÙ Ø¨ÙÙÙÙØ©Ù ÙÙØ£ÙÙÙØ±ÙÙÙ ÙÙØ£ÙÙØµÙÙÙ ÙÙØ£ÙØ®ÙÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">25 </span>ããã­ã³ã®<ruby><rb>é·å­</rb><rt>ã¡ããã</rt></ruby>ã¨ã©ã¡ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯<ruby><rb>é·å­</rb><rt>ã¡ããã</rt></ruby>ã©ã ã<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã¯ããããªã¬ã³ããªã¼ã ãã¢ãã¤ã§ããã",
-      "spa": "<span class=\"verse-number\">25 </span>Y los hijos de Jerameel, primogÃ©nito de HezrÃ³n, fueron Ram, su primogÃ©nito, y Buna, y OrÃ©n, y Ozem y AhÃ­as.",
-      "por": "<span class=\"verse-number\">25 </span>E os filhos de Jerameel, primogÃªnito de Hezrom, <span class=\"clarity-word\">foram</span> RÃ£o, o primogÃªnito, e Buna, e OrÃ©m, e OzÃ©m, <span class=\"clarity-word\">e</span> AÃ­as.",
-      "fra": "<span class=\"verse-number\">25 </span>Les fils de Jerachmeel, premier-nÃ© de Hetsron, furentÂ : Ram, le premier-nÃ©, Buna, Oren et Otsem, nÃ©s dâAchija.",
-      "deu": "<span class=\"verse-number\">25Â </span>Die SÃ¶hne Jerachmeels, des Ã¤ltesten Sohnes Hezrons, waren: der Erstgeborene Ram, sodann Buna, Oren und Ozem und Ahija.",
-      "kor": "<span class=\"verse-number\">25 </span>í¤ì¤ë¡ ì ë§ìë¤ ì¬ë¼ë¯ìì ìë¤ì ë§ìë¤ ëê³¼ ê·¸ ë¤ì ë¸ëì ì¤ë ê³¼ ì¤ìê³¼ ìíì¼ì´ë©°",
-      "ita": "<span class=\"verse-number\">25</span> I figli di Ierameel, primogenito di Ezron, furono: Ram, il primogenito, Buna, Oren e Ozem, nati da Aija."
+      "eng": "<span class=\"para-mark\">¶ </span>And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, <span class=\"clarity-word\">and</span> Ahijah.",
+      "ara": "أَمَّا أَبْنَاءُ يَرْحَمْئِيلَ بِكْرِ حَصْرُونَ فَهُمْ: الْبِكْرُ رَامٌ، ثُمَّ بُونَةُ وَأَوْرَنُ وَأُوصَمُ وَأَخِيَّا.",
+      "jpn": "ヘヅロンの<ruby>長子<rt>ちょうし</rt></ruby>エラメルの<ruby>子<rt>こ</rt></ruby>らは<ruby>長子<rt>ちょうし</rt></ruby>ラム、<ruby>次<rt>つぎ</rt></ruby>はブナ、オレン、オゼム、アヒヤである。",
+      "spa": "Y los hijos de Jerameel, primogénito de Hezrón, fueron Ram, su primogénito, y Buna, y Orén, y Ozem y Ahías.",
+      "por": "E os filhos de Jerameel, primogênito de Hezrom, <span class=\"clarity-word\">foram</span> Rão, o primogênito, e Buna, e Orém, e Ozém, <span class=\"clarity-word\">e</span> Aías.",
+      "fra": "Les fils de Jerachmeel, premier-né de Hetsron, furent : Ram, le premier-né, Buna, Oren et Otsem, nés d’Achija.",
+      "deu": "Die Söhne Jerachmeels, des ältesten Sohnes Hezrons, waren: der Erstgeborene Ram, sodann Buna, Oren und Ozem und Ahija.",
+      "kor": "헤스론의 맏아들 여라므엘의 아들은 맏아들 람과 그 다음 브나와 오렌과 오셈과 아히야이며",
+      "ita": "I figli di Ierameel, primogenito di Ezron, furono: Ram, il primogenito, Buna, Oren e Ozem, nati da Aija."
     },
     "26": {
-      "eng": "<span class=\"verse-number\">26 </span>Jerahmeel had also another wife, whose name <span class=\"clarity-word\">was</span> Atarah; she <span class=\"clarity-word\">was</span> the mother of Onam.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙÙÙØ§ÙÙ ÙÙÙÙØ±ÙØ­ÙÙÙØ¦ÙÙÙÙ Ø²ÙÙÙØ¬ÙØ©Ù Ø£ÙØ®ÙØ±ÙÙ ØªÙØ¯ÙØ¹ÙÙ Ø¹ÙØ·ÙØ§Ø±ÙØ©Ù ÙÙÙÙ Ø£ÙÙÙÙ Ø£ÙÙÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">26 </span>ã¨ã©ã¡ã«ã¯ã¾ãã»ãã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ããã£ã¦ããã<ruby><rb>å</rb><rt>ãª</rt></ruby>ãã¢ã¿ã©ã¨ãã£ã¦ããªãã ã®<ruby><rb>æ¯</rb><rt>ã¯ã¯</rt></ruby>ã§ããã",
-      "spa": "<span class=\"verse-number\">26 </span>Y tuvo Jerameel otra esposa llamada Atara, que fue madre de Onam.",
-      "por": "<span class=\"verse-number\">26 </span>Teve tambÃ©m Jerameel <span class=\"clarity-word\">ainda</span> outra mulher, cujo nome <span class=\"clarity-word\">era</span> Atara; esta foi a mÃ£e de OnÃ£.",
-      "fra": "<span class=\"verse-number\">26 </span>Jerachmeel eut une autre femme, nommÃ©e Athara, qui fut mÃ¨re dâOnam.",
-      "deu": "<span class=\"verse-number\">26Â </span>Jerachmeel hatte aber noch eine andere Frau namens Atara; diese war die Mutter Onams.",
-      "kor": "<span class=\"verse-number\">26 </span>ì¬ë¼ë¯ìì´ ë¤ë¥¸ ìë´ê° ììì¼ë ì´ë¦ì ìë¤ë¼ë¼ ê·¸ë ì¤ë¨ì ì´ë¨¸ëëë¼",
-      "ita": "<span class=\"verse-number\">26</span> Ierameel ebbe unâaltra moglie, di nome Atara, che fu madre di Onam."
+      "eng": "Jerahmeel had also another wife, whose name <span class=\"clarity-word\">was</span> Atarah; she <span class=\"clarity-word\">was</span> the mother of Onam.",
+      "ara": "وَكَانَ لِيَرْحَمْئِيلَ زَوْجَةٌ أُخْرَى تُدْعَى عَطَارَةَ هِيَ أُمُّ أُونَامَ.",
+      "jpn": "エラメルはまたほかの<ruby>妻<rt>つま</rt></ruby>をもっていた。<ruby>名<rt>な</rt></ruby>をアタラといって、オナムの<ruby>母<rt>はは</rt></ruby>である。",
+      "spa": "Y tuvo Jerameel otra esposa llamada Atara, que fue madre de Onam.",
+      "por": "Teve também Jerameel <span class=\"clarity-word\">ainda</span> outra mulher, cujo nome <span class=\"clarity-word\">era</span> Atara; esta foi a mãe de Onã.",
+      "fra": "Jerachmeel eut une autre femme, nommée Athara, qui fut mère d’Onam.",
+      "deu": "Jerachmeel hatte aber noch eine andere Frau namens Atara; diese war die Mutter Onams.",
+      "kor": "여라므엘이 다른 아내가 있었으니 이름은 아다라라 그는 오남의 어머니더라",
+      "ita": "Ierameel ebbe un’altra moglie, di nome Atara, che fu madre di Onam."
     },
     "27": {
-      "eng": "<span class=\"verse-number\">27 </span>And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù Ø±ÙØ§ÙÙ Ø¨ÙÙÙØ±Ù ÙÙØ±ÙØ­ÙÙÙØ¦ÙÙÙÙ ÙÙÙÙ: ÙÙØ¹ÙØµÙ ÙÙÙÙÙÙÙÙÙ ÙÙØ¹ÙØ§ÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">27 </span>ã¨ã©ã¡ã«ã®<ruby><rb>é·å­</rb><rt>ã¡ããã</rt></ruby>ã©ã ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ãã¢ããã¤ãã³ãã¨ã±ã«ã§ããã",
-      "spa": "<span class=\"verse-number\">27 </span>Y los hijos de Ram, primogÃ©nito de Jerameel, fueron Maaz, y JamÃ­n y Equer.",
-      "por": "<span class=\"verse-number\">27 </span>E foram os filhos de RÃ£o, primogÃªnito de Jerameel: Maaz, e Jamim, e Equer.",
-      "fra": "<span class=\"verse-number\">27 </span>Les fils de Ram, premier-nÃ© de Jerachmeel, furentÂ : Maats, Jamin et Ãker.",
-      "deu": "<span class=\"verse-number\">27Â </span>Die SÃ¶hne Rams, des erstgeborenen Sohnes Jerachmeels, waren: Maaz, Jamin und Eker.",
-      "kor": "<span class=\"verse-number\">27 </span>ì¬ë¼ë¯ìì ë§ìë¤ ëì ìë¤ì ë§ìì¤ì ì¼ë¯¼ê³¼ ìê²ì´ì",
-      "ita": "<span class=\"verse-number\">27</span> I figli di Ram, primogenito di Ierameel, furono: Maaz, Iamin ed Echer."
+      "eng": "And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.",
+      "ara": "وَأَبْنَاءُ رَامٍ بِكْرِ يَرْحَمْئِيلَ هُمْ: مَعَصُ وَيَمِينُ وَعَاقَرُ.",
+      "jpn": "エラメルの<ruby>長子<rt>ちょうし</rt></ruby>ラムの<ruby>子<rt>こ</rt></ruby>らはマアツ、ヤミン、エケルである。",
+      "spa": "Y los hijos de Ram, primogénito de Jerameel, fueron Maaz, y Jamín y Equer.",
+      "por": "E foram os filhos de Rão, primogênito de Jerameel: Maaz, e Jamim, e Equer.",
+      "fra": "Les fils de Ram, premier-né de Jerachmeel, furent : Maats, Jamin et Éker.",
+      "deu": "Die Söhne Rams, des erstgeborenen Sohnes Jerachmeels, waren: Maaz, Jamin und Eker.",
+      "kor": "여라므엘의 맏아들 람의 아들은 마아스와 야민과 에겔이요",
+      "ita": "I figli di Ram, primogenito di Ierameel, furono: Maaz, Iamin ed Echer."
     },
     "28": {
-      "eng": "<span class=\"verse-number\">28 </span>And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab, and Abishur.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙØ§Ø¨ÙÙÙØ§ Ø£ÙÙÙÙØ§ÙÙ: Ø´ÙÙÙÙØ§ÙÙ ÙÙÙÙØ§Ø¯ÙØ§Ø¹Ù. ÙÙØ§Ø¨ÙÙÙØ§ Ø´ÙÙÙÙØ§ÙÙ: ÙÙØ§Ø¯ÙØ§Ø¨Ù ÙÙØ£ÙØ¨ÙÙØ´ÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">28 </span>ãªãã ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã·ã£ã³ãã¤ã¨ã¤ãã§ãããã·ã£ã³ãã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ãããã¨ã¢ãã·ã¥ã«ã§ããã",
-      "spa": "<span class=\"verse-number\">28 </span>Y los hijos de Onam fueron Samai y Jada. Y los hijos de Samai: Nadab y Abisur.",
-      "por": "<span class=\"verse-number\">28 </span>E foram os filhos de OnÃ£: Samai e Jada; e os filhos de Samai: Nadabe e Abisur.",
-      "fra": "<span class=\"verse-number\">28 </span>Les fils dâOnam furentÂ : SchammaÃ¯ et Jada. Fils de SchammaÃ¯Â : Nadab et Abischur.",
-      "deu": "<span class=\"verse-number\">28Â </span>Die SÃ¶hne Onams waren: Schammai und Jada; und die SÃ¶hne Schammais: Nadab und Abischur.",
-      "kor": "<span class=\"verse-number\">28 </span>ì¤ë¨ì ìë¤ë¤ì ì¼ë§¤ì ì¼ë¤ì ì¼ë§¤ì ìë¤ì ëëµê³¼ ìë¹ì ì´ë©°",
-      "ita": "<span class=\"verse-number\">28</span> I figli di Onam furono: Shammai e Iada. Figli di Shammai: Nadab e Abishur."
+      "eng": "And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab, and Abishur.",
+      "ara": "وَابْنَا أُونَامَ: شَمَّايُ وَيَادَاعُ. وَابْنَا شَمَّايَ: نَادَابُ وَأَبِيشُورُ.",
+      "jpn": "オナムの<ruby>子<rt>こ</rt></ruby>らはシャンマイとヤダである。シャンマイの<ruby>子<rt>こ</rt></ruby>らはナダブとアビシュルである。",
+      "spa": "Y los hijos de Onam fueron Samai y Jada. Y los hijos de Samai: Nadab y Abisur.",
+      "por": "E foram os filhos de Onã: Samai e Jada; e os filhos de Samai: Nadabe e Abisur.",
+      "fra": "Les fils d’Onam furent : Schammaï et Jada. Fils de Schammaï : Nadab et Abischur.",
+      "deu": "Die Söhne Onams waren: Schammai und Jada; und die Söhne Schammais: Nadab und Abischur.",
+      "kor": "오남의 아들들은 삼매와 야다요 삼매의 아들은 나답과 아비술이며",
+      "ita": "I figli di Onam furono: Shammai e Iada. Figli di Shammai: Nadab e Abishur."
     },
     "29": {
-      "eng": "<span class=\"verse-number\">29 </span>And the name of the wife of Abishur <span class=\"clarity-word\">was</span> Abihail, and she bare him Ahban, and Molid.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙØ§Ø³ÙÙÙ Ø²ÙÙÙØ¬ÙØ©Ù Ø£ÙØ¨ÙÙØ´ÙÙØ±Ù Ø£ÙØ¨ÙÙØ¬ÙØ§ÙÙÙÙØ ÙÙÙÙØ¯Ù Ø£ÙÙÙØ¬ÙØ¨ÙØªÙ ÙÙÙÙ Ø£ÙØ­ÙØ¨ÙØ§ÙÙ ÙÙÙÙÙÙÙÙØ¯Ù.",
-      "jpn": "<span class=\"verse-number\">29 </span>ã¢ãã·ã¥ã«ã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã¯ã¢ããã¤ã«ã¨ãã£ã¦ãã¢ãã³ã¨ã¢ãªãã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">29 </span>Y el nombre de la esposa de Abisur era Abihail, la cual dio a luz a AhbÃ¡n y a Molid.",
-      "por": "<span class=\"verse-number\">29 </span>E o nome da mulher de Abisur <span class=\"clarity-word\">era</span> Abiail, que lhe deu AbÃ£ e Molide.",
-      "fra": "<span class=\"verse-number\">29 </span>Le nom de la femme dâAbischur Ã©tait AbichaÃ¯l et elle lui enfanta Achban et Molid.",
-      "deu": "<span class=\"verse-number\">29Â </span>Die Frau Abischurs aber hieÃ Abihajil; die gebar ihm Achban und Molid.",
-      "kor": "<span class=\"verse-number\">29 </span>ìë¹ì ì ìë´ì ì´ë¦ì ìë¹íì¼ì´ë¼ <span class=\"clarity-word\">ìë¹íì¼ì´</span>ìë°ê³¼ ëª°ë¦¿ì ê·¸ìê² ë³ì ì£¼ìì¼ë©°",
-      "ita": "<span class=\"verse-number\">29</span> La moglie di Abishur si chiamava Abiail, che gli partorÃ¬ Aban e Molid."
+      "eng": "And the name of the wife of Abishur <span class=\"clarity-word\">was</span> Abihail, and she bare him Ahban, and Molid.",
+      "ara": "وَاسْمُ زَوْجَةِ أَبِيشُورَ أَبِيجَايِلُ، وَقَدْ أَنْجَبَتْ لَهُ أَحْبَانَ وَمُولِيدَ.",
+      "jpn": "アビシュルの<ruby>妻<rt>つま</rt></ruby>の<ruby>名<rt>な</rt></ruby>はアビハイルといって、アバンとモリデを<ruby>産<rt>う</rt></ruby>んだ。",
+      "spa": "Y el nombre de la esposa de Abisur era Abihail, la cual dio a luz a Ahbán y a Molid.",
+      "por": "E o nome da mulher de Abisur <span class=\"clarity-word\">era</span> Abiail, que lhe deu Abã e Molide.",
+      "fra": "Le nom de la femme d’Abischur était Abichaïl et elle lui enfanta Achban et Molid.",
+      "deu": "Die Frau Abischurs aber hieß Abihajil; die gebar ihm Achban und Molid.",
+      "kor": "아비술의 아내의 이름은 아비하일이라 <span class=\"clarity-word\">아비하일이</span>아반과 몰릿을 그에게 낳아 주었으며",
+      "ita": "La moglie di Abishur si chiamava Abiail, che gli partorì Aban e Molid."
     },
     "30": {
-      "eng": "<span class=\"verse-number\">30 </span>And the sons of Nadab; Seled, and Appaim: but Seled died without children.",
-      "ara": "<span class=\"verse-number\">Ù£Ù  </span>Ø£ÙÙÙÙØ§ Ø§Ø¨ÙÙÙØ§ ÙÙØ§Ø¯ÙØ§Ø¨Ù ÙÙÙÙÙÙØ§: Ø³ÙÙÙØ¯Ù ÙÙØ£ÙÙÙÙØ§ÙÙÙÙ. ÙÙÙÙØ§ØªÙ Ø³ÙÙÙØ¯Ù ÙÙÙÙ ØºÙÙÙØ±Ù Ø¹ÙÙÙØ¨Ù.",
-      "jpn": "<span class=\"verse-number\">30 </span>ãããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã»ã¬ãã¨ã¢ããã¤ã ã§ãããã»ã¬ãã¯<ruby><rb>å­</rb><rt>ã</rt></ruby>ããããã«<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">30 </span>Y los hijos de Nadab: Seled y Apaim. Pero Seled muriÃ³ sin hijos.",
-      "por": "<span class=\"verse-number\">30 </span>E os filhos de Nadabe <span class=\"clarity-word\">foram</span> Selede e Apaim; e Selede morreu sem filhos.",
-      "fra": "<span class=\"verse-number\">30 </span>Fils de NadabÂ : SÃ©led et AppaÃ¯m. SÃ©led mourut sans fils.",
-      "deu": "<span class=\"verse-number\">30Â </span>Und die SÃ¶hne Nadabs waren: Seled und Appajim; Seled aber starb kinderlos.",
-      "kor": "<span class=\"verse-number\">30 </span>ëëµì ìë¤ë¤ì ìë ê³¼ ìë°ìì´ë¼ ìë ì ìë¤ì´ ìì´ ì£½ìê³",
-      "ita": "<span class=\"verse-number\">30</span> Figli di Nadab: Seled e Appaim. Seled morÃ¬ senza figli."
+      "eng": "And the sons of Nadab; Seled, and Appaim: but Seled died without children.",
+      "ara": "أَمَّا ابْنَا نَادَابَ فَهُمَا: سَلَدُ وَأَفَّايِمُ. وَمَاتَ سَلَدُ مِنْ غَيْرِ عَقِبٍ.",
+      "jpn": "ナダブの<ruby>子<rt>こ</rt></ruby>らはセレデとアッパイムである。セレデは<ruby>子<rt>こ</rt></ruby>をもたずに<ruby>死<rt>し</rt></ruby>んだ。",
+      "spa": "Y los hijos de Nadab: Seled y Apaim. Pero Seled murió sin hijos.",
+      "por": "E os filhos de Nadabe <span class=\"clarity-word\">foram</span> Selede e Apaim; e Selede morreu sem filhos.",
+      "fra": "Fils de Nadab : Séled et Appaïm. Séled mourut sans fils.",
+      "deu": "Und die Söhne Nadabs waren: Seled und Appajim; Seled aber starb kinderlos.",
+      "kor": "ëëµì ìë¤ë¤ì ìë ê³¼ ìë°ìì´ë¼ ìë ì ìë¤ì´ ìì´ ì£½ìê³",
+      "ita": "Figli di Nadab: Seled e Appaim. Seled morì senza figli."
     },
     "31": {
-      "eng": "<span class=\"verse-number\">31 </span>And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai.",
-      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø£ÙÙÙÙØ§ÙÙÙÙ ÙÙØ´ÙØ¹ÙÙ. ÙÙÙÙØ´ÙØ¹ÙÙ ÙÙÙÙØ¯Ù Ø´ÙÙØ´ÙØ§ÙÙ Ø§ÙÙÙØ°ÙÙ Ø£ÙÙÙØ¬ÙØ¨Ù Ø£ÙØ­ÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">31 </span>ã¢ããã¤ã ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¤ã·ãã¤ã·ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã»ã·ã£ã³ãã»ã·ã£ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ãã©ã¤ã§ããã",
-      "spa": "<span class=\"verse-number\">31 </span>E Isi fue hijo de Apaim, y SesÃ¡n fue hijo de Isi, y el hijo de SesÃ¡n fue Ahlai.",
-      "por": "<span class=\"verse-number\">31 </span>E o filho de Apaim <span class=\"clarity-word\">foi</span> Isi; e o filho de Isi, SesÃ£. E o filho de SesÃ£, Alai.",
-      "fra": "<span class=\"verse-number\">31 </span>Fils dâAppaÃ¯mÂ : JischeÃ¯. Fils de JischeÃ¯Â : SchÃ©schan. Fils de SchÃ©schanÂ : AchlaÃ¯.",
-      "deu": "<span class=\"verse-number\">31Â </span>Und die SÃ¶hne Appajims waren: Jischi; und die SÃ¶hne Jischis: Scheschan; und die SÃ¶hne Scheschans: Achlai.",
-      "kor": "<span class=\"verse-number\">31 </span>ìë°ìì ìë¤ì ì´ìì ì´ìì ìë¤ì ì¸ì°ì´ì ì¸ì°ì ìë¤ì ìëì",
-      "ita": "<span class=\"verse-number\">31</span> Figli di Appaim: Iscei. Figli di Iscei: Sceshan. Figli di Sceshan: Alai."
+      "eng": "And the sons of Appaim; Ishi. And the sons of Ishi; Sheshan. And the children of Sheshan; Ahlai.",
+      "ara": "وَأَنْجَبَ أَفَّايِمُ يَشْعِي. وَيَشْعِي وَلَدَ شِيشَانَ الَّذِي أَنْجَبَ أَحْلايَ.",
+      "jpn": "アッパイムの<ruby>子<rt>こ</rt></ruby>はイシ、イシの<ruby>子<rt>こ</rt></ruby>はセシャン、セシャンの<ruby>子<rt>こ</rt></ruby>はアヘライである。",
+      "spa": "E Isi fue hijo de Apaim, y Sesán fue hijo de Isi, y el hijo de Sesán fue Ahlai.",
+      "por": "E o filho de Apaim <span class=\"clarity-word\">foi</span> Isi; e o filho de Isi, Sesã. E o filho de Sesã, Alai.",
+      "fra": "Fils d’Appaïm : Jischeï. Fils de Jischeï : Schéschan. Fils de Schéschan : Achlaï.",
+      "deu": "Und die Söhne Appajims waren: Jischi; und die Söhne Jischis: Scheschan; und die Söhne Scheschans: Achlai.",
+      "kor": "압바임의 아들은 이시요 이시의 아들은 세산이요 세산의 아들은 알래요",
+      "ita": "Figli di Appaim: Iscei. Figli di Iscei: Sceshan. Figli di Sceshan: Alai."
     },
     "32": {
-      "eng": "<span class=\"verse-number\">32 </span>And the sons of Jada the brother of Shammai; Jether, and Jonathan: and Jether died without children.",
-      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙØ§Ø¯ÙØ§Ø¹Ù Ø£ÙØ®ÙÙ Ø´ÙÙÙÙØ§ÙÙ: ÙÙØ«ÙØ±Ù ÙÙÙÙÙÙÙØ§Ø«ÙØ§ÙÙ. ÙÙÙÙØ§ØªÙ ÙÙØ«ÙØ±Ù ÙÙÙÙ ØºÙÙÙØ±Ù Ø¹ÙÙÙØ¨Ù.",
-      "jpn": "<span class=\"verse-number\">32 </span>ã·ã£ã³ãã¤ã®<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã¤ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã¨ãã«ã¨ã¨ãã¿ã³ã§ãããã¨ãã«ã¯<ruby><rb>å­</rb><rt>ã</rt></ruby>ããããã«<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">32 </span>Y los hijos de Jada, hermano de Samai: Jeter y JonatÃ¡n. Y muriÃ³ Jeter sin hijos.",
-      "por": "<span class=\"verse-number\">32 </span>E os filhos de Jada, irmÃ£o de Samai, <span class=\"clarity-word\">foram:</span> Jeter e JÃ´natas; e Jeter morreu sem filhos.",
-      "fra": "<span class=\"verse-number\">32 </span>Fils de Jada, frÃ¨re de SchammaÃ¯Â : JÃ©ther et Jonathan. JÃ©ther mourut sans fils.",
-      "deu": "<span class=\"verse-number\">32Â </span>Die SÃ¶hne Jadas, des Bruders Schammais, waren: Jeter und Jonatan; Jeter aber starb kinderlos.",
-      "kor": "<span class=\"verse-number\">32 </span>ì¼ë§¤ì ìì° ì¼ë¤ì ìë¤ë¤ì ìë¸ê³¼ ìëë¨ì´ë¼ ìë¸ì ìë¤ì´ ìì´ ì£½ìê³",
-      "ita": "<span class=\"verse-number\">32</span> Figli di Iada, fratello di Shammai: Ieter e Gionatan. Ieter morÃ¬ senza figli."
+      "eng": "And the sons of Jada the brother of Shammai; Jether, and Jonathan: and Jether died without children.",
+      "ara": "وَأَنْجَبَ يَادَاعُ أَخُو شَمَّايَ: يَثَرَ وَيُونَاثَانَ. وَمَاتَ يَثَرُ مِنْ غَيْرِ عَقِبٍ.",
+      "jpn": "シャンマイの<ruby>兄弟<rt>きょうだい</rt></ruby>ヤダの<ruby>子<rt>こ</rt></ruby>らはエテルとヨナタンである。エテルは<ruby>子<rt>こ</rt></ruby>をもたずに<ruby>死<rt>し</rt></ruby>んだ。",
+      "spa": "Y los hijos de Jada, hermano de Samai: Jeter y Jonatán. Y murió Jeter sin hijos.",
+      "por": "E os filhos de Jada, irmão de Samai, <span class=\"clarity-word\">foram:</span> Jeter e Jônatas; e Jeter morreu sem filhos.",
+      "fra": "Fils de Jada, frère de Schammaï : Jéther et Jonathan. Jéther mourut sans fils.",
+      "deu": "Die Söhne Jadas, des Bruders Schammais, waren: Jeter und Jonatan; Jeter aber starb kinderlos.",
+      "kor": "ì¼ë§¤ì ìì° ì¼ë¤ì ìë¤ë¤ì ìë¸ê³¼ ìëë¨ì´ë¼ ìë¸ì ìë¤ì´ ìì´ ì£½ìê³",
+      "ita": "Figli di Iada, fratello di Shammai: Ieter e Gionatan. Ieter morì senza figli."
     },
     "33": {
-      "eng": "<span class=\"verse-number\">33 </span>And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel.",
-      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙÙÙÙØ§Ø«ÙØ§ÙÙ Ø§Ø¨ÙÙÙÙÙÙÙ ÙÙÙÙØ§: ÙÙØ§ÙÙØªÙ ÙÙØ²ÙØ§Ø²ÙØ§. ÙÙØ¬ÙÙÙÙØ¹Ù ÙÙØ¤ÙÙØ§Ø¡Ù ÙÙÙÙ Ø°ÙØ±ÙÙÙÙÙØ©Ù ÙÙØ±ÙØ­ÙÙÙØ¦ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">33 </span>ã¨ãã¿ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ãã¬ãã¨ã¶ã¶ã§ããã<ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã¯ã¨ã©ã¡ã«ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã§ããã",
-      "spa": "<span class=\"verse-number\">33 </span>Y los hijos de JonatÃ¡n: Pelet y Zaza. Estos fueron los hijos de Jerameel.",
-      "por": "<span class=\"verse-number\">33 </span>E os filhos de JÃ´natas <span class=\"clarity-word\">foram</span> Pelete e Zaza; estes foram os filhos de Jerameel.",
-      "fra": "<span class=\"verse-number\">33 </span>Fils de JonathanÂ : PÃ©leth et Zara. Ce sont lÃ  les fils de Jerachmeel.",
-      "deu": "<span class=\"verse-number\">33Â </span>Die SÃ¶hne Jonatans waren: Pelet und Sasa. Dies waren die SÃ¶hne Jerachmeels.",
-      "kor": "<span class=\"verse-number\">33 </span>ìëë¨ì ìë¤ë¤ì ë²¨ë ê³¼ ì¬ì¬ë¼ ì¬ë¼ë¯ìì ììì ì´ë¬íë©°",
-      "ita": "<span class=\"verse-number\">33</span> Figli di Gionatan: Pelet e Zaza. Questi sono i figli di Ierameel."
+      "eng": "And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel.",
+      "ara": "وَأَنْجَبَ يُونَاثَانُ ابْنَيْنِ هُمَا: فَالَتُ وَزَازَا. وَجَمِيعُ هَؤُلاءِ مِنْ ذُرِّيِّةِ يِرْحَمْئِيلَ.",
+      "jpn": "ヨナタンの<ruby>子<rt>こ</rt></ruby>らはペレテとザザである。<ruby>以上<rt>いじょう</rt></ruby>はエラメルの<ruby>子孫<rt>しそん</rt></ruby>である。",
+      "spa": "Y los hijos de Jonatán: Pelet y Zaza. Estos fueron los hijos de Jerameel.",
+      "por": "E os filhos de Jônatas <span class=\"clarity-word\">foram</span> Pelete e Zaza; estes foram os filhos de Jerameel.",
+      "fra": "Fils de Jonathan : Péleth et Zara. Ce sont là les fils de Jerachmeel.",
+      "deu": "Die Söhne Jonatans waren: Pelet und Sasa. Dies waren die Söhne Jerachmeels.",
+      "kor": "요나단의 아들들은 벨렛과 사사라 여라므엘의 자손은 이러하며",
+      "ita": "Figli di Gionatan: Pelet e Zaza. Questi sono i figli di Ierameel."
     },
     "34": {
-      "eng": "<span class=\"verse-number\">34 </span><span class=\"para-mark\">Â¶ </span>Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name <span class=\"clarity-word\">was</span> Jarha.",
-      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>ÙÙÙÙÙÙ ÙÙØ¹ÙÙÙØ¨Ù Ø´ÙÙØ´ÙØ§ÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø¨ÙÙÙ Ø¨ÙÙÙØ§ØªÙØ ÙÙÙÙØ§ÙÙ ÙÙØ´ÙÙØ´ÙØ§ÙÙ Ø®ÙØ§Ø¯ÙÙÙ ÙÙØµÙØ±ÙÙÙÙ Ø§Ø³ÙÙÙÙÙ ÙÙØ±ÙØ­ÙØ¹Ù.",
-      "jpn": "<span class=\"verse-number\">34 </span>ã»ã·ã£ã³ã«ã¯<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ãªãããã <ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã®ã¿ã§ãã£ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ã¤ã«ãã¨<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã¶ã¨ã¸ããã³ã¨ã®<ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ããã£ã¦ããã®ã§ã",
-      "spa": "<span class=\"verse-number\">34 </span>Y SesÃ¡n no tuvo hijos, sino hijas. Y tuvo SesÃ¡n un siervo egipcio llamado Jarha;",
-      "por": "<span class=\"verse-number\">34 </span>E SesÃ£ nÃ£o teve filhos, mas filhas; e tinha SesÃ£ um servo egÃ­pcio, cujo nome <span class=\"clarity-word\">era</span> JarÃ¡.",
-      "fra": "<span class=\"verse-number\">34 </span>SchÃ©schan nâeut pas de fils mais il eut des filles. SchÃ©schan avait un esclave Ã©gyptien nommÃ© Jarcha.",
-      "deu": "<span class=\"verse-number\">34Â </span>Scheschan hatte keine SÃ¶hne, sondern nur TÃ¶chter; er hatte aber einen Ã¤gyptischen Knecht namens Jarha.",
-      "kor": "<span class=\"verse-number\">34 </span>ì¸ì°ì ìë¤ì´ ìê³  ë¸ë¿ì´ë¼ ê·¸ìê² ì¼ë¥´íë¼ íë ì êµ½ ì¢ì´ ìì¼ë¯ë¡",
-      "ita": "<span class=\"verse-number\">34</span> Sceshan non ebbe figli, ma delle figlie sÃ¬. Sceshan aveva uno schiavo egiziano di nome Iara."
+      "eng": "<span class=\"para-mark\">¶ </span>Now Sheshan had no sons, but daughters. And Sheshan had a servant, an Egyptian, whose name <span class=\"clarity-word\">was</span> Jarha.",
+      "ara": "وَلَمْ يُعْقِبْ شِيشَانُ أَبْنَاءً بَلْ بَنَاتٍ، وَكَانَ لِشِيشَانَ خَادِمٌ مِصْرِيٌّ اسْمُهُ يَرْحَعُ.",
+      "jpn": "セシャンには<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>はなく、ただ<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>のみであったが、<ruby>彼<rt>かれ</rt></ruby>はヤルハと<ruby>呼<rt>よ</rt></ruby>ぶエジプトびとの<ruby>奴隷<rt>どれい</rt></ruby>をもっていたので、",
+      "spa": "Y Sesán no tuvo hijos, sino hijas. Y tuvo Sesán un siervo egipcio llamado Jarha;",
+      "por": "E Sesã não teve filhos, mas filhas; e tinha Sesã um servo egípcio, cujo nome <span class=\"clarity-word\">era</span> Jará.",
+      "fra": "Schéschan n’eut pas de fils mais il eut des filles. Schéschan avait un esclave égyptien nommé Jarcha.",
+      "deu": "Scheschan hatte keine Söhne, sondern nur Töchter; er hatte aber einen ägyptischen Knecht namens Jarha.",
+      "kor": "세산은 아들이 없고 딸뿐이라 그에게 야르하라 하는 애굽 종이 있으므로",
+      "ita": "Sceshan non ebbe figli, ma delle figlie sì. Sceshan aveva uno schiavo egiziano di nome Iara."
     },
     "35": {
-      "eng": "<span class=\"verse-number\">35 </span>And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.",
-      "ara": "<span class=\"verse-number\">Ù£Ù¥ </span>ÙÙØ²ÙÙÙÙØ¬Ù Ø´ÙÙØ´ÙØ§ÙÙ Ø§Ø¨ÙÙÙØªÙÙÙ ÙÙÙÙØ±ÙØ­ÙØ¹ÙØ ÙÙØ£ÙÙÙØ¬ÙØ¨ÙØªÙ ÙÙÙÙ Ø¹ÙØªÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">35 </span>ã»ã·ã£ã³ã¯<ruby><rb>å¨</rb><rt>ããã</rt></ruby>ã<ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã¤ã«ãã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãã¦ãã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã¨ãããã<ruby><rb>å½¼å¥³</rb><rt>ãã®ãã</rt></ruby>ã¯ã¤ã«ãã«ãã£ã¦ã¢ãã¿ã¤ã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">35 </span>y SesÃ¡n dio su hija por esposa a Jarha, su siervo, y ella le dio a luz a Atai.",
-      "por": "<span class=\"verse-number\">35 </span>Deu, pois, SesÃ£ sua filha por mulher a JarÃ¡, seu servo; e ela lhe deu Atai.",
-      "fra": "<span class=\"verse-number\">35 </span>Et SchÃ©schan donna sa fille pour femme Ã  Jarcha, son esclave, Ã  qui elle enfanta AttaÃ¯.",
-      "deu": "<span class=\"verse-number\">35Â </span>Diesem gab Scheschan seine Tochter zur Frau; die gebar ihm Attai.",
-      "kor": "<span class=\"verse-number\">35 </span>ì¸ì°ì´ ë¸ì ê·¸ ì¢ ì¼ë¥´íìê² ì£¼ì´ ìë´ë¥¼ ì¼ê² íìëë ê·¸ê° ê·¸ë¡ ë§ë¯¸ìì ìëë¥¼ ë³ê³",
-      "ita": "<span class=\"verse-number\">35</span> E Sceshan diede sua figlia in moglie a Iara, suo schiavo; ed essa gli partorÃ¬ Attai."
+      "eng": "And Sheshan gave his daughter to Jarha his servant to wife; and she bare him Attai.",
+      "ara": "فَزَوَّجَ شِيشَانُ ابْنَتَهُ لِيَرْحَعَ، فَأَنْجَبَتْ لَهُ عَتَّايَ.",
+      "jpn": "セシャンは<ruby>娘<rt>むすめ</rt></ruby>を<ruby>奴隷<rt>どれい</rt></ruby>ヤルハに<ruby>与<rt>あた</rt></ruby>えてその<ruby>妻<rt>つま</rt></ruby>とさせた。<ruby>彼女<rt>かのじょ</rt></ruby>はヤルハによってアッタイを<ruby>産<rt>う</rt></ruby>んだ。",
+      "spa": "y Sesán dio su hija por esposa a Jarha, su siervo, y ella le dio a luz a Atai.",
+      "por": "Deu, pois, Sesã sua filha por mulher a Jará, seu servo; e ela lhe deu Atai.",
+      "fra": "Et Schéschan donna sa fille pour femme à Jarcha, son esclave, à qui elle enfanta Attaï.",
+      "deu": "Diesem gab Scheschan seine Tochter zur Frau; die gebar ihm Attai.",
+      "kor": "ì¸ì°ì´ ë¸ì ê·¸ ì¢ ì¼ë¥´íìê² ì£¼ì´ ìë´ë¥¼ ì¼ê² íìëë ê·¸ê° ê·¸ë¡ ë§ë¯¸ìì ìëë¥¼ ë³ê³",
+      "ita": "E Sceshan diede sua figlia in moglie a Iara, suo schiavo; ed essa gli partorì Attai."
     },
     "36": {
-      "eng": "<span class=\"verse-number\">36 </span>And Attai begat Nathan, and Nathan begat Zabad,",
-      "ara": "<span class=\"verse-number\">Ù£Ù¦ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø¹ÙØªÙÙØ§ÙÙ ÙÙØ§Ø«ÙØ§ÙÙØ ÙÙÙÙØ§Ø«ÙØ§ÙÙ ÙÙÙÙØ¯Ù Ø²ÙØ§Ø¨ÙØ§Ø¯Ù.",
-      "jpn": "<span class=\"verse-number\">36 </span>ã¢ãã¿ã¤ã¯ãã¿ã³ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ããã¿ã³ã¯ã¶ããã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
-      "spa": "<span class=\"verse-number\">36 </span>Y Atai engendrÃ³ a NatÃ¡n, y NatÃ¡n engendrÃ³ a Zabad;",
-      "por": "<span class=\"verse-number\">36 </span>E Atai gerou NatÃ£, e NatÃ£ gerou Zabade.",
-      "fra": "<span class=\"verse-number\">36 </span>AttaÃ¯ engendra NathanÂ ; Nathan engendra ZabadÂ ;",
-      "deu": "<span class=\"verse-number\">36Â </span>Attai zeugte dann Natan, und Natan zeugte Sabad;",
-      "kor": "<span class=\"verse-number\">36 </span>ìëë ëë¨ì ë³ê³  ëë¨ì ì¬ë°§ì ë³ê³",
-      "ita": "<span class=\"verse-number\">36</span> Attai generÃ² Natan; Natan generÃ² Zabad;"
+      "eng": "And Attai begat Nathan, and Nathan begat Zabad,",
+      "ara": "وَأَنْجَبَ عَتَّايُ نَاثَانَ، وَنَاثَانُ وَلَدَ زَابَادَ.",
+      "jpn": "アッタイはナタンを<ruby>生<rt>う</rt></ruby>み、ナタンはザバデを<ruby>生<rt>う</rt></ruby>み、",
+      "spa": "Y Atai engendró a Natán, y Natán engendró a Zabad;",
+      "por": "E Atai gerou Natã, e Natã gerou Zabade.",
+      "fra": "Attaï engendra Nathan ; Nathan engendra Zabad ;",
+      "deu": "Attai zeugte dann Natan, und Natan zeugte Sabad;",
+      "kor": "ìëë ëë¨ì ë³ê³  ëë¨ì ì¬ë°§ì ë³ê³",
+      "ita": "Attai generò Natan; Natan generò Zabad;"
     },
     "37": {
-      "eng": "<span class=\"verse-number\">37 </span>And Zabad begat Ephlal, and Ephlal begat Obed,",
-      "ara": "<span class=\"verse-number\">Ù£Ù§ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø²ÙØ§Ø¨ÙØ§Ø¯Ù Ø£ÙÙÙÙØ§ÙÙØ ÙÙØ£ÙÙÙÙØ§ÙÙ ÙÙÙÙØ¯Ù Ø¹ÙÙØ¨ÙÙØ¯Ù.",
-      "jpn": "<span class=\"verse-number\">37 </span>ã¶ããã¯ã¨ãã©ã«ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã¨ãã©ã«ã¯ãªããã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
-      "spa": "<span class=\"verse-number\">37 </span>y Zabad engendrÃ³ a Eflal, y Eflal engendrÃ³ a Obed;",
-      "por": "<span class=\"verse-number\">37 </span>E Zabade gerou Eflal, e Eflal gerou Obede.",
-      "fra": "<span class=\"verse-number\">37 </span>Zabad engendra EphlalÂ ; Ephlal engendra ObedÂ ;",
-      "deu": "<span class=\"verse-number\">37Â </span>Sabad zeugte Eflal, Eflal zeugte Obed,",
-      "kor": "<span class=\"verse-number\">37 </span>ì¬ë°§ì ìë¸ëì ë³ê³  ìë¸ëì ì¤ë²³ì ë³ê³",
-      "ita": "<span class=\"verse-number\">37</span> Zabad generÃ² Eflal; Eflal generÃ² Obed;"
+      "eng": "And Zabad begat Ephlal, and Ephlal begat Obed,",
+      "ara": "وَأَنْجَبَ زَابَادُ أَفْلالَ، وَأَفْلالُ وَلَدَ عُوبِيدَ.",
+      "jpn": "ザバデはエフラルを<ruby>生<rt>う</rt></ruby>み、エフラルはオベデを<ruby>生<rt>う</rt></ruby>み、",
+      "spa": "y Zabad engendró a Eflal, y Eflal engendró a Obed;",
+      "por": "E Zabade gerou Eflal, e Eflal gerou Obede.",
+      "fra": "Zabad engendra Ephlal ; Ephlal engendra Obed ;",
+      "deu": "Sabad zeugte Eflal, Eflal zeugte Obed,",
+      "kor": "ì¬ë°§ì ìë¸ëì ë³ê³  ìë¸ëì ì¤ë²³ì ë³ê³",
+      "ita": "Zabad generò Eflal; Eflal generò Obed;"
     },
     "38": {
-      "eng": "<span class=\"verse-number\">38 </span>And Obed begat Jehu, and Jehu begat Azariah,",
-      "ara": "<span class=\"verse-number\">Ù£Ù¨ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø¹ÙÙØ¨ÙÙØ¯Ù ÙÙØ§ÙÙÙÙ Ø§ÙÙÙØ°ÙÙ ÙÙÙÙØ¯Ù Ø¹ÙØ²ÙØ±ÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">38 </span>ãªããã¯ã¨ãã¦ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã¨ãã¦ã¯ã¢ã¶ãªã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
-      "spa": "<span class=\"verse-number\">38 </span>y Obed engendrÃ³ a JehÃº, y JehÃº engendrÃ³ a AzarÃ­as;",
-      "por": "<span class=\"verse-number\">38 </span>E Obede gerou JeÃº, e JeÃº gerou Azarias.",
-      "fra": "<span class=\"verse-number\">38 </span>Obed engendra JÃ©huÂ ; JÃ©hu engendra AzariaÂ ;",
-      "deu": "<span class=\"verse-number\">38Â </span>Obed zeugte Jehu, Jehu zeugte Asarja,",
-      "kor": "<span class=\"verse-number\">38 </span>ì¤ë²³ì ìíë¥¼ ë³ê³  ìíë ìì¬ë´ë¥¼ ë³ê³",
-      "ita": "<span class=\"verse-number\">38</span> Obed generÃ² Ieu; Ieu generÃ² Azaria;"
+      "eng": "And Obed begat Jehu, and Jehu begat Azariah,",
+      "ara": "وَأَنْجَبَ عُوبِيدُ يَاهُوَ الَّذِي وَلَدَ عَزَرْيَا.",
+      "jpn": "オベデはエヒウを<ruby>生<rt>う</rt></ruby>み、エヒウはアザリヤを<ruby>生<rt>う</rt></ruby>み、",
+      "spa": "y Obed engendró a Jehú, y Jehú engendró a Azarías;",
+      "por": "E Obede gerou Jeú, e Jeú gerou Azarias.",
+      "fra": "Obed engendra Jéhu ; Jéhu engendra Azaria ;",
+      "deu": "Obed zeugte Jehu, Jehu zeugte Asarja,",
+      "kor": "ì¤ë²³ì ìíë¥¼ ë³ê³  ìíë ìì¬ë´ë¥¼ ë³ê³",
+      "ita": "Obed generò Ieu; Ieu generò Azaria;"
     },
     "39": {
-      "eng": "<span class=\"verse-number\">39 </span>And Azariah begat Helez, and Helez begat Eleasah,",
-      "ara": "<span class=\"verse-number\">Ù£Ù© </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø¹ÙØ²ÙØ±ÙÙÙØ§ Ø­ÙØ§ÙÙØµÙØ ÙÙØ­ÙØ§ÙÙØµÙ Ø¥ÙÙÙØ¹ÙØ§Ø³ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">39 </span>ã¢ã¶ãªã¤ã¯ãã¬ãã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ããã¬ãã¯ã¨ã¬ã¢ãµã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
-      "spa": "<span class=\"verse-number\">39 </span>y AzarÃ­as engendrÃ³ a Heles, y Heles engendrÃ³ a Elasa;",
-      "por": "<span class=\"verse-number\">39 </span>E Azarias gerou Helez, e Helez gerou EleasÃ¡.",
-      "fra": "<span class=\"verse-number\">39 </span>Azaria engendra HaletsÂ ; Halets engendra ÃlasaÂ ;",
-      "deu": "<span class=\"verse-number\">39Â </span>Asarja zeugte Helez, Helez zeugte Elasa,",
-      "kor": "<span class=\"verse-number\">39 </span>ìì¬ë´ë í¬ë ì¤ë¥¼ ë³ê³  í¬ë ì¤ë ìë¥´ìì¬ë¥¼ ë³ê³",
-      "ita": "<span class=\"verse-number\">39</span> Azaria generÃ² Elez; Elez generÃ² Elasa;"
+      "eng": "And Azariah begat Helez, and Helez begat Eleasah,",
+      "ara": "وَأَنْجَبَ عَزَرْيَا حَالَصَ، وَحَالَصُ إِلْعَاسَةَ.",
+      "jpn": "アザリヤはヘレヅを<ruby>生<rt>う</rt></ruby>み、ヘレヅはエレアサを<ruby>生<rt>う</rt></ruby>み、",
+      "spa": "y Azarías engendró a Heles, y Heles engendró a Elasa;",
+      "por": "E Azarias gerou Helez, e Helez gerou Eleasá.",
+      "fra": "Azaria engendra Halets ; Halets engendra Élasa ;",
+      "deu": "Asarja zeugte Helez, Helez zeugte Elasa,",
+      "kor": "ìì¬ë´ë í¬ë ì¤ë¥¼ ë³ê³  í¬ë ì¤ë ìë¥´ìì¬ë¥¼ ë³ê³",
+      "ita": "Azaria generò Elez; Elez generò Elasa;"
     },
     "40": {
-      "eng": "<span class=\"verse-number\">40 </span>And Eleasah begat Sisamai, and Sisamai begat Shallum,",
-      "ara": "<span class=\"verse-number\">Ù¤Ù  </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø¥ÙÙÙØ¹ÙØ§Ø³ÙØ©Ù Ø³ÙØ³ÙÙÙØ§ÙÙ ÙÙØ³ÙØ³ÙÙÙØ§ÙÙ Ø´ÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">40 </span>ã¨ã¬ã¢ãµã¯ã·ã¹ãã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã·ã¹ãã¤ã¯ã·ã£ã«ã ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
-      "spa": "<span class=\"verse-number\">40 </span>y Elasa engendrÃ³ a Sismai, y Sismai engendrÃ³ a Salum;",
-      "por": "<span class=\"verse-number\">40 </span>E EleasÃ¡ gerou Sismai, e Sismai gerou Salum.",
-      "fra": "<span class=\"verse-number\">40 </span>Ãlasa engendra SismaÃ¯Â ; SismaÃ¯ engendra SchallumÂ ;",
-      "deu": "<span class=\"verse-number\">40Â </span>Elasa zeugte Sismai, Sismai zeugte Schallum,",
-      "kor": "<span class=\"verse-number\">40 </span>ìë¥´ìì¬ë ìì¤ë§¤ë¥¼ ë³ê³  ìì¤ë§¤ë ì´ë£¸ì ë³ê³",
-      "ita": "<span class=\"verse-number\">40</span> Elasa generÃ² Sismai; Sismai generÃ² Shallum;"
+      "eng": "And Eleasah begat Sisamai, and Sisamai begat Shallum,",
+      "ara": "وَأَنْجَبَ إِلْعَاسَةُ سِسَمَايَ وَسِسَمَايُ شَلُّومَ.",
+      "jpn": "エレアサはシスマイを<ruby>生<rt>う</rt></ruby>み、シスマイはシャルムを<ruby>生<rt>う</rt></ruby>み、",
+      "spa": "y Elasa engendró a Sismai, y Sismai engendró a Salum;",
+      "por": "E Eleasá gerou Sismai, e Sismai gerou Salum.",
+      "fra": "Élasa engendra Sismaï ; Sismaï engendra Schallum ;",
+      "deu": "Elasa zeugte Sismai, Sismai zeugte Schallum,",
+      "kor": "ìë¥´ìì¬ë ìì¤ë§¤ë¥¼ ë³ê³  ìì¤ë§¤ë ì´ë£¸ì ë³ê³",
+      "ita": "Elasa generò Sismai; Sismai generò Shallum;"
     },
     "41": {
-      "eng": "<span class=\"verse-number\">41 </span>And Shallum begat Jekamiah, and Jekamiah begat Elishama.",
-      "ara": "<span class=\"verse-number\">Ù¤Ù¡ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø´ÙÙÙÙÙÙÙ ÙÙÙÙÙÙÙÙØ©ÙØ ÙÙÙÙÙÙÙÙÙÙØ©Ù Ø£ÙÙÙÙØ´ÙÙÙØ¹Ù.",
-      "jpn": "<span class=\"verse-number\">41 </span>ã·ã£ã«ã ã¯ã¨ã«ãã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã¨ã«ãã¤ã¯ã¨ãªã·ã£ãã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">41 </span>y Salum engendrÃ³ a JecamÃ­as, y JecamÃ­as engendrÃ³ a Elisama.",
-      "por": "<span class=\"verse-number\">41 </span>E Salum gerou Jecamias, e Jecamias gerou Elisama.",
-      "fra": "<span class=\"verse-number\">41 </span>Schallum engendra JekamjaÂ ; Jekamja engendra Ãlischama.",
-      "deu": "<span class=\"verse-number\">41Â </span>Schallum zeugte Jekamja, Jekamja zeugte Elischama.",
-      "kor": "<span class=\"verse-number\">41 </span>ì´ë£¸ì ì¬ê°ë¨ë¥¼ ë³ê³  ì¬ê°ë¨ë ìë¦¬ì¬ë§ë¥¼ ë³ìëë¼",
-      "ita": "<span class=\"verse-number\">41</span> Shallum generÃ² Iecamia e Iecamia generÃ² Elishama."
+      "eng": "And Shallum begat Jekamiah, and Jekamiah begat Elishama.",
+      "ara": "وَأَنْجَبَ شَلُّومُ يَقَمْيَةَ، وَيَقَمْيَةُ أَلِيشَمَعَ.",
+      "jpn": "シャルムはエカミヤを<ruby>生<rt>う</rt></ruby>み、エカミヤはエリシャマを<ruby>生<rt>う</rt></ruby>んだ。",
+      "spa": "y Salum engendró a Jecamías, y Jecamías engendró a Elisama.",
+      "por": "E Salum gerou Jecamias, e Jecamias gerou Elisama.",
+      "fra": "Schallum engendra Jekamja ; Jekamja engendra Élischama.",
+      "deu": "Schallum zeugte Jekamja, Jekamja zeugte Elischama.",
+      "kor": "살룸은 여가먀를 낳고 여가먀는 엘리사마를 낳았더라",
+      "ita": "Shallum generò Iecamia e Iecamia generò Elishama."
     },
     "42": {
-      "eng": "<span class=\"verse-number\">42 </span><span class=\"para-mark\">Â¶ </span>Now the sons of Caleb the brother of Jerahmeel <span class=\"clarity-word\">were,</span> Mesha his firstborn, which <span class=\"clarity-word\">was</span> the father of Ziph; and the sons of Mareshah the father of Hebron.",
-      "ara": "<span class=\"verse-number\">Ù¤Ù¢ </span>Ø£ÙÙÙÙØ§ Ø¨ÙÙÙØ±Ù ÙÙØ§ÙÙØ¨Ù Ø£ÙØ®ÙÙ ÙÙØ±ÙØ­ÙÙÙØ¦ÙÙÙÙ ÙÙÙÙÙ ÙÙÙØ´ÙØ§Ø¹Ù Ø£ÙØ¨ÙÙ Ø²ÙÙÙÙ Ø§ÙÙÙØ°ÙÙ Ø£ÙÙÙØ¬ÙØ¨Ù ÙÙØ±ÙÙØ´ÙØ©Ù ÙÙØ§ÙÙØ¯Ù Ø­ÙØ¨ÙØ±ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">42 </span>ã¨ã©ã¡ã«ã®<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã§ããã«ã¬ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯<ruby><rb>é·å­</rb><rt>ã¡ããã</rt></ruby>ããã¬ã·ã£ã¨ãã£ã¦ã¸ãã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã§ããããã¬ã·ã£ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ããã­ã³ã",
-      "spa": "<span class=\"verse-number\">42 </span>Y los hijos de Caleb, hermano de Jerameel, fueron: Mesa, su primogÃ©nito, que fue el padre de Zif, y los hijos de Maresa, padre de HebrÃ³n.",
-      "por": "<span class=\"verse-number\">42 </span>E <span class=\"clarity-word\">foram</span> os filhos de Calebe, irmÃ£o de Jerameel: Messa, seu primogÃªnito (este <span class=\"clarity-word\">foi</span> o pai de Zife), e os filhos de Maressa, pai de Hebrom.",
-      "fra": "<span class=\"verse-number\">42 </span>Fils de Caleb, frÃ¨re de JerachmeelÂ : MÃ©scha, son premier-nÃ©, qui fut pÃ¨re de Ziph, et les fils de MarÃ©scha, pÃ¨re dâHÃ©bron.",
-      "deu": "<span class=\"verse-number\">42Â </span>Die SÃ¶hne Kalebs, des Bruders Jerachmeels, waren: sein Erstgeborener Mescha (der ist der Vater Sifs), und die SÃ¶hne Mareschas, des Vaters von Hebron.",
-      "kor": "<span class=\"verse-number\">42 </span>ì¬ë¼ë¯ìì ìì° ê°ë ì ìë¤ ê³§ ë§ìë¤ì ë©ì¬ì´ë ì­ì ìë²ì§ì ê·¸ ìë¤ì ë§ë ì¬ë í¤ë¸ë¡ ì ìë²ì§ì´ë©°",
-      "ita": "<span class=\"verse-number\">42</span> Figli di Caleb, fratello di Ierameel: Mesha, suo primogenito, che fu padre di Zif, e i figli di Maresha, che fu padre di Hebron."
+      "eng": "<span class=\"para-mark\">¶ </span>Now the sons of Caleb the brother of Jerahmeel <span class=\"clarity-word\">were,</span> Mesha his firstborn, which <span class=\"clarity-word\">was</span> the father of Ziph; and the sons of Mareshah the father of Hebron.",
+      "ara": "أَمَّا بِكْرُ كَالَبَ أَخِي يَرْحَمْئِيلَ فَهُو مِيشَاعُ أَبُو زِيفَ الَّذِي أَنْجَبَ مَرِيشَةَ وَالِدَ حَبْرُونَ.",
+      "jpn": "エラメルの<ruby>兄弟<rt>きょうだい</rt></ruby>であるカレブの<ruby>子<rt>こ</rt></ruby>らは<ruby>長子<rt>ちょうし</rt></ruby>をマレシャといってジフの<ruby>父<rt>ちち</rt></ruby>である。マレシャの<ruby>子<rt>こ</rt></ruby>はヘブロン。",
+      "spa": "Y los hijos de Caleb, hermano de Jerameel, fueron: Mesa, su primogénito, que fue el padre de Zif, y los hijos de Maresa, padre de Hebrón.",
+      "por": "E <span class=\"clarity-word\">foram</span> os filhos de Calebe, irmão de Jerameel: Messa, seu primogênito (este <span class=\"clarity-word\">foi</span> o pai de Zife), e os filhos de Maressa, pai de Hebrom.",
+      "fra": "Fils de Caleb, frère de Jerachmeel : Méscha, son premier-né, qui fut père de Ziph, et les fils de Maréscha, père d’Hébron.",
+      "deu": "Die Söhne Kalebs, des Bruders Jerachmeels, waren: sein Erstgeborener Mescha (der ist der Vater Sifs), und die Söhne Mareschas, des Vaters von Hebron.",
+      "kor": "여라므엘의 아우 갈렙의 아들 곧 맏아들은 메사이니 십의 아버지요 그 아들은 마레사니 헤브론의 아버지이며",
+      "ita": "Figli di Caleb, fratello di Ierameel: Mesha, suo primogenito, che fu padre di Zif, e i figli di Maresha, che fu padre di Hebron."
     },
     "43": {
-      "eng": "<span class=\"verse-number\">43 </span>And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.",
-      "ara": "<span class=\"verse-number\">Ù¤Ù£ </span>Ø£ÙÙÙÙØ§ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø­ÙØ¨ÙØ±ÙÙÙÙ ÙÙÙÙÙÙ: ÙÙÙØ±ÙØ­Ù ÙÙØªÙÙÙÙÙØ­Ù ÙÙØ±ÙØ§ÙÙÙÙ ÙÙØ´ÙØ§ÙÙØ¹Ù.",
-      "jpn": "<span class=\"verse-number\">43 </span>ããã­ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã³ã©ãã¿ããã¢ãã¬ã±ã ãã·ãã§ããã",
-      "spa": "<span class=\"verse-number\">43 </span>Y los hijos de HebrÃ³n: CorÃ©, y TapÃºa, y Requem y Sema.",
-      "por": "<span class=\"verse-number\">43 </span>E <span class=\"clarity-word\">foram</span> os filhos de Hebrom: CorÃ©, e Tapua, e RequÃ©m, e Sema.",
-      "fra": "<span class=\"verse-number\">43 </span>Fils dâHÃ©bronÂ : KorÃ©, Thappuach, RÃ©kem et SchÃ©ma.",
-      "deu": "<span class=\"verse-number\">43Â </span>Die SÃ¶hne Hebrons waren: Korach, Tappuach, Rekem und Schema.",
-      "kor": "<span class=\"verse-number\">43 </span>í¤ë¸ë¡ ì ìë¤ë¤ì ê³ ë¼ì ëµë¶ìì ë ê²ê³¼ ì¸ë§ë¼",
-      "ita": "<span class=\"verse-number\">43</span> Figli di Hebron: Cora, Tappua, Rechem e Shema."
+      "eng": "And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.",
+      "ara": "أَمَّا أَبْنَاءُ حَبْرُونَ فَهُمْ: قُورَحُ وَتَفُّوحُ وَرَاقَمُ وَشَامَعُ.",
+      "jpn": "ヘブロンの<ruby>子<rt>こ</rt></ruby>らはコラ、タップア、レケム、シマである。",
+      "spa": "Y los hijos de Hebrón: Coré, y Tapúa, y Requem y Sema.",
+      "por": "E <span class=\"clarity-word\">foram</span> os filhos de Hebrom: Coré, e Tapua, e Requém, e Sema.",
+      "fra": "Fils d’Hébron : Koré, Thappuach, Rékem et Schéma.",
+      "deu": "Die Söhne Hebrons waren: Korach, Tappuach, Rekem und Schema.",
+      "kor": "헤브론의 아들들은 고라와 답부아와 레겜과 세마라",
+      "ita": "Figli di Hebron: Cora, Tappua, Rechem e Shema."
     },
     "44": {
-      "eng": "<span class=\"verse-number\">44 </span>And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai.",
-      "ara": "<span class=\"verse-number\">Ù¤Ù¤ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø´ÙØ§ÙÙØ¹Ù Ø±ÙØ§ÙÙÙÙ Ø£ÙØ¨ÙØ§ ÙÙØ±ÙÙÙØ¹ÙØ§ÙÙ. ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø±ÙØ§ÙÙÙÙ Ø´ÙÙÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">44 </span>ã·ãã¯ã©ãã ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã ãã©ãã ã¯ã¨ã«ã«ã ã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã§ãããã¾ãã¬ã±ã ã¯ã·ã£ã³ãã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">44 </span>Y Sema engendrÃ³ a Raham, padre de Jorcoam, y Requem engendrÃ³ a Samai.",
-      "por": "<span class=\"verse-number\">44 </span>E Sema gerou RaÃ£o, pai de JorqueÃ£o; e RequÃ©m gerou Samai.",
-      "fra": "<span class=\"verse-number\">44 </span>SchÃ©ma engendra Racham, pÃ¨re de Jorkeam. RÃ©kem engendra SchammaÃ¯.",
-      "deu": "<span class=\"verse-number\">44Â </span>Schema aber zeugte Raham, den Vater Jorkoams; und Rekem zeugte Schammai.",
-      "kor": "<span class=\"verse-number\">44 </span>ì¸ë§ë ë¼í¨ì ë³ìì¼ë ë¼í¨ì ìë¥´ê·¸ìì ìë²ì§ì´ë©° ë ê²ì ì¼ë§¤ë¥¼ ë³ìê³",
-      "ita": "<span class=\"verse-number\">44</span> Shema generÃ² Raham, padre di Iorcheam, Rechem generÃ² Shammai."
+      "eng": "And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai.",
+      "ara": "وَأَنْجَبَ شَامَعُ رَاقَمَ أَبَا يَرُقْعَامَ. وَأَنْجَبَ رَاقَمُ شَمَّايَ.",
+      "jpn": "シマはラハムを<ruby>生<rt>う</rt></ruby>んだ。ラハムはヨルカムの<ruby>父<rt>ちち</rt></ruby>である。またレケムはシャンマイを<ruby>生<rt>う</rt></ruby>んだ。",
+      "spa": "Y Sema engendró a Raham, padre de Jorcoam, y Requem engendró a Samai.",
+      "por": "E Sema gerou Raão, pai de Jorqueão; e Requém gerou Samai.",
+      "fra": "Schéma engendra Racham, père de Jorkeam. Rékem engendra Schammaï.",
+      "deu": "Schema aber zeugte Raham, den Vater Jorkoams; und Rekem zeugte Schammai.",
+      "kor": "ì¸ë§ë ë¼í¨ì ë³ìì¼ë ë¼í¨ì ìë¥´ê·¸ìì ìë²ì§ì´ë©° ë ê²ì ì¼ë§¤ë¥¼ ë³ìê³",
+      "ita": "Shema generò Raham, padre di Iorcheam, Rechem generò Shammai."
     },
     "45": {
-      "eng": "<span class=\"verse-number\">45 </span>And the son of Shammai <span class=\"clarity-word\">was</span> Maon: and Maon <span class=\"clarity-word\">was</span> the father of Beth-zur.",
-      "ara": "<span class=\"verse-number\">Ù¤Ù¥ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø´ÙÙÙÙØ§ÙÙ ÙÙØ¹ÙÙÙÙ Ø§ÙÙÙØ°ÙÙ Ø¨ÙÙÙÙ Ø¨ÙÙÙØªÙ ØµÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">45 </span>ã·ã£ã³ãã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ããªã³ãããªã³ã¯ãããã«ã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã§ããã",
-      "spa": "<span class=\"verse-number\">45 </span>Y MaÃ³n fue hijo de Samai, y MaÃ³n fue padre de Bet-sur.",
-      "por": "<span class=\"verse-number\">45 </span>E o filho de Samai <span class=\"clarity-word\">foi</span> Maom; e Maom <span class=\"clarity-word\">foi</span> pai de Bete-Zur.",
-      "fra": "<span class=\"verse-number\">45 </span>Fils de SchammaÃ¯Â : MaonÂ ; et Maon, pÃ¨re de Beth-Tsur.",
-      "deu": "<span class=\"verse-number\">45Â </span>Der Sohn Schammais war Maon, und Maon war der Vater Bet-Zurs.",
-      "kor": "<span class=\"verse-number\">45 </span>ì¼ë§¤ì ìë¤ì ë§ì¨ì´ë¼ ë§ì¨ì ë²§ì ì ìë²ì§ì´ë©°",
-      "ita": "<span class=\"verse-number\">45</span> Il figlio di Shammai fu Maon; e Maon fu il padre di Bet-Zur."
+      "eng": "And the son of Shammai <span class=\"clarity-word\">was</span> Maon: and Maon <span class=\"clarity-word\">was</span> the father of Beth-zur.",
+      "ara": "وَأَنْجَبَ شَمَّايُ مَعُونَ الَّذِي بَنَى بَيْتَ صُورَ.",
+      "jpn": "シャンマイの<ruby>子<rt>こ</rt></ruby>はマオン。マオンはベテヅルの<ruby>父<rt>ちち</rt></ruby>である。",
+      "spa": "Y Maón fue hijo de Samai, y Maón fue padre de Bet-sur.",
+      "por": "E o filho de Samai <span class=\"clarity-word\">foi</span> Maom; e Maom <span class=\"clarity-word\">foi</span> pai de Bete-Zur.",
+      "fra": "Fils de Schammaï : Maon ; et Maon, père de Beth-Tsur.",
+      "deu": "Der Sohn Schammais war Maon, und Maon war der Vater Bet-Zurs.",
+      "kor": "삼매의 아들은 마온이라 마온은 벧술의 아버지이며",
+      "ita": "Il figlio di Shammai fu Maon; e Maon fu il padre di Bet-Zur."
     },
     "46": {
-      "eng": "<span class=\"verse-number\">46 </span>And Ephah, Calebâs concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez.",
-      "ara": "<span class=\"verse-number\">Ù¤Ù¦ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨ÙØªÙ Ø¹ÙÙÙÙØ©Ù ÙÙØ­ÙØ¸ÙÙÙÙØ©Ù ÙÙØ§ÙÙØ¨Ù Ø­ÙØ§Ø±ÙØ§ÙÙ ÙÙÙÙÙØµÙØ§ ÙÙØ¬ÙØ§Ø²ÙÙØ²Ù. ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø­ÙØ§Ø±ÙØ§ÙÙ Ø§Ø¨ÙÙØ§Ù Ø³ÙÙÙÙØ§ÙÙ Ø¬ÙØ§Ø²ÙÙØ²Ù.",
-      "jpn": "<span class=\"verse-number\">46 </span>ã«ã¬ãã®ãã°ãã¨ãã¯ãã©ã³ãã¢ã¶ãã¬ã¼ãºã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã ããã©ã³ã¯ã¬ã¼ãºã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã ã",
-      "spa": "<span class=\"verse-number\">46 </span>Y Efa, concubina de Caleb, le dio a luz a HarÃ¡n, y a Mosa y a Gazez. Y HarÃ¡n engendrÃ³ a Gazez.",
-      "por": "<span class=\"verse-number\">46 </span>E EfÃ¡, a concubina de Calebe, deu Ã  luz HarÃ£, e Mosa, e Gazez; e HarÃ£ gerou Gazez.",
-      "fra": "<span class=\"verse-number\">46 </span>Ãpha, concubine de Caleb, enfanta Haran, Motsa et Gazez. Haran engendra Gazez.",
-      "deu": "<span class=\"verse-number\">46Â </span>Und Efa, die Nebenfrau Kalebs, gebar Haran, Moza und Gases; Haran aber zeugte Gases.",
-      "kor": "<span class=\"verse-number\">46 </span>ê°ë ì ìì¤ ìë°ë íëê³¼ ëª¨ì¬ì ê°ì¸ì¤ë¥¼ ë³ê³  íëì ê°ì¸ì¤ë¥¼ ë³ìì¼ë©°",
-      "ita": "<span class=\"verse-number\">46</span> Efa, concubina di Caleb, partorÃ¬ Aran, Moza e Gazez. Aran generÃ² Gazez."
+      "eng": "And Ephah, Caleb’s concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez.",
+      "ara": "وَأَنْجَبَتْ عَيفَةُ مَحْظِيَّةُ كَالَبَ حَارَانَ وَمُوصَا وَجَازِيزَ. وَأَنْجَبَ حَارَانُ ابْناً سَمَّاهُ جَازِيزَ.",
+      "jpn": "カレブのそばめエパはハラン、モザ、ガゼズを<ruby>産<rt>う</rt></ruby>んだ。ハランはガゼズを<ruby>生<rt>う</rt></ruby>んだ。",
+      "spa": "Y Efa, concubina de Caleb, le dio a luz a Harán, y a Mosa y a Gazez. Y Harán engendró a Gazez.",
+      "por": "E Efá, a concubina de Calebe, deu à luz Harã, e Mosa, e Gazez; e Harã gerou Gazez.",
+      "fra": "Épha, concubine de Caleb, enfanta Haran, Motsa et Gazez. Haran engendra Gazez.",
+      "deu": "Und Efa, die Nebenfrau Kalebs, gebar Haran, Moza und Gases; Haran aber zeugte Gases.",
+      "kor": "갈렙의 소실 에바는 하란과 모사와 가세스를 낳고 하란은 가세스를 낳았으며",
+      "ita": "Efa, concubina di Caleb, partorì Aran, Moza e Gazez. Aran generò Gazez."
     },
     "47": {
-      "eng": "<span class=\"verse-number\">47 </span>And the sons of Jahdai; Regem, and Jotham, and Geshan, and Pelet, and Ephah, and Shaaph.",
-      "ara": "<span class=\"verse-number\">Ù¤Ù§ </span>ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙÙÙØ¯ÙØ§ÙÙ: Ø±ÙØ¬ÙÙÙ ÙÙÙÙÙØ«ÙØ§ÙÙ ÙÙØ¬ÙÙØ´ÙØ§ÙÙ ÙÙÙÙÙÙØ·Ù ÙÙØ¹ÙÙÙÙØ©Ù ÙÙØ´ÙØ§Ø¹ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">47 </span>ã¨ãã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã¬ã²ã ãã¨ã¿ã ãã²ã·ã£ã³ããã¬ããã¨ããã·ã£ãã§ããã",
-      "spa": "<span class=\"verse-number\">47 </span>Y los hijos de Jahdai: Regem, y Jotam, y Gesam, y Pelet, y Efa y Saaf.",
-      "por": "<span class=\"verse-number\">47 </span>E <span class=\"clarity-word\">foram</span> os filhos de Jadai: RegÃ©m, e JotÃ£o, e GesÃ£, e Pelete, e EfÃ¡, e Saafe.",
-      "fra": "<span class=\"verse-number\">47 </span>Fils de JahdaÃ¯Â : RÃ©guem, Jotham, GuÃ©schan, PÃ©leth, Ãpha et Schaaph.",
-      "deu": "<span class=\"verse-number\">47Â </span>Und die SÃ¶hne Jahdais waren: Regem, Jotam, Geschan, Pelet, Efa und Schaaf.",
-      "kor": "<span class=\"verse-number\">47 </span>ì¼ëì ìë¤ì ë ê²ê³¼ ìë¨ê³¼ ê²ì°ê³¼ ë²¨ë ê³¼ ìë°ì ì¬ìì´ë©°",
-      "ita": "<span class=\"verse-number\">47</span> Figli di Iadai: Reghem, Iotam, Gheshan, Pelet, Efa e Shaaf."
+      "eng": "And the sons of Jahdai; Regem, and Jotham, and Geshan, and Pelet, and Ephah, and Shaaph.",
+      "ara": "وَأَبْنَاءُ يَهْدَايَ: رَجَمُ وَيُوثَامُ وَجِيشَانُ وَفَلَطُ وَعِيفَةُ وَشَاعَفُ.",
+      "jpn": "エダイの<ruby>子<rt>こ</rt></ruby>らはレゲム、ヨタム、ゲシャン、ペレテ、エパ、シャフである。",
+      "spa": "Y los hijos de Jahdai: Regem, y Jotam, y Gesam, y Pelet, y Efa y Saaf.",
+      "por": "E <span class=\"clarity-word\">foram</span> os filhos de Jadai: Regém, e Jotão, e Gesã, e Pelete, e Efá, e Saafe.",
+      "fra": "Fils de Jahdaï : Réguem, Jotham, Guéschan, Péleth, Épha et Schaaph.",
+      "deu": "Und die Söhne Jahdais waren: Regem, Jotam, Geschan, Pelet, Efa und Schaaf.",
+      "kor": "야대의 아들은 레겜과 요단과 게산과 벨렛과 에바와 사압이며",
+      "ita": "Figli di Iadai: Reghem, Iotam, Gheshan, Pelet, Efa e Shaaf."
     },
     "48": {
-      "eng": "<span class=\"verse-number\">48 </span>Maachah, Calebâs concubine, bare Sheber, and Tirhanah.",
-      "ara": "<span class=\"verse-number\">Ù¤Ù¨ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨ÙØªÙ ÙÙØ¹ÙÙÙØ©Ù ÙÙØ­ÙØ¸ÙÙÙÙØ©Ù Ø£ÙØ®ÙØ±ÙÙ ÙÙÙÙØ§ÙÙØ¨ÙØ Ø´ÙØ¨ÙØ±Ù ÙÙØªÙØ±ÙØ­ÙÙÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">48 </span>ã«ã¬ãã®ãã°ããã¢ã«ã¯ã·ãã«ã¨ãã«ããã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ã¿ã",
-      "spa": "<span class=\"verse-number\">48 </span>Maaca, concubina de Caleb, le dio a luz a Seber y a Tirhana.",
-      "por": "<span class=\"verse-number\">48 </span>De Maaca, concubina, Calebe gerou Seber e TiranÃ¡.",
-      "fra": "<span class=\"verse-number\">48 </span>Maaca, concubine de Caleb, enfanta SchÃ©ber et Tirchana.",
-      "deu": "<span class=\"verse-number\">48Â </span>Maacha, die Nebenfrau Kalebs, gebar Scheber und Tirhana;",
-      "kor": "<span class=\"verse-number\">48 </span>ê°ë ì ìì¤ ë§ìê°ë ì¸ë²¨ê³¼ ëë¥´íëë¥¼ ë³ìê³",
-      "ita": "<span class=\"verse-number\">48</span> Maaca, concubina di Caleb, partorÃ¬ Sceber e Tirana."
+      "eng": "Maachah, Caleb’s concubine, bare Sheber, and Tirhanah.",
+      "ara": "وَأَنْجَبَتْ مَعْكَةُ مَحْظِيَّةٌ أُخْرَى لِكَالَبَ، شَبَرَ وَتَرْحَنَةَ.",
+      "jpn": "カレブのそばめマアカはシベルとテルハナを<ruby>産<rt>う</rt></ruby>み、",
+      "spa": "Maaca, concubina de Caleb, le dio a luz a Seber y a Tirhana.",
+      "por": "De Maaca, concubina, Calebe gerou Seber e Tiraná.",
+      "fra": "Maaca, concubine de Caleb, enfanta Schéber et Tirchana.",
+      "deu": "Maacha, die Nebenfrau Kalebs, gebar Scheber und Tirhana;",
+      "kor": "ê°ë ì ìì¤ ë§ìê°ë ì¸ë²¨ê³¼ ëë¥´íëë¥¼ ë³ìê³",
+      "ita": "Maaca, concubina di Caleb, partorì Sceber e Tirana."
     },
     "49": {
-      "eng": "<span class=\"verse-number\">49 </span>She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb <span class=\"clarity-word\">was</span> Achsah.",
-      "ara": "<span class=\"verse-number\">Ù¤Ù© </span>Ø«ÙÙÙÙ Ø£ÙÙÙØ¬ÙØ¨ÙØªÙ Ø´ÙØ§Ø¹ÙÙÙ Ø¨ÙØ§ÙÙÙ ÙÙØ¯ÙÙÙÙØ©Ù ÙÙØ¯ÙÙÙÙÙØ©ÙØ ÙÙØ´ÙÙÙØ§ Ø¨ÙØ§ÙÙÙ ÙÙØ¯ÙÙÙÙØªÙÙÙ ÙÙÙÙØ¨ÙÙÙÙØ§ ÙÙØ¬ÙØ¨ÙØ¹ÙØ§. ÙÙÙÙØ§ÙÙ ÙÙÙÙØ§ÙÙØ¨Ù Ø¨ÙÙÙØªÙ Ø§Ø³ÙÙÙÙÙØ§ Ø¹ÙÙÙØ³ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">49 </span>ã¾ããããã³ãã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã·ã£ãããã³ãã¯ããã¨ã®ãã¢ã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã·ã¯ã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã ãã«ã¬ãã®<ruby><rb>å¨</rb><rt>ããã</rt></ruby>ã¯ã¢ã¯ãµã§ããã",
-      "spa": "<span class=\"verse-number\">49 </span>Y tambiÃ©n dio a luz a Saaf, padre de Madmana, y a Seva, padre de Macbena y padre de Gibea. Y Acsa fue hija de Caleb.",
-      "por": "<span class=\"verse-number\">49 </span>E a mulher de Saafe, pai de Madmana, deu Ã  luz Seva, pai de Macbena e pai de GibeÃ¡; e a filha de Calebe <span class=\"clarity-word\">foi</span> Acsa.",
-      "fra": "<span class=\"verse-number\">49 </span>Elle enfanta encore Schaaph, pÃ¨re de Madmanna, et Scheva, pÃ¨re de MacbÃ©na et pÃ¨re de Guibea. La fille de Caleb Ã©tait Acsa.",
-      "deu": "<span class=\"verse-number\">49Â </span>sie gebar auch Schaaf, den Vater Madmannas, und Schewa, den Vater Machbenas und den Vater Gibeas; und die Tochter Kalebs war Achsa.",
-      "kor": "<span class=\"verse-number\">49 </span>ë ë§ë§ëì ìë²ì§ ì¬ìì ë³ìê³  ë ë§ë² ëì ê¸°ë¸ìì ìë²ì§ ì¤ìë¥¼ ë³ìì¼ë©° ê°ë ì ë¸ì ìì¬ëë¼",
-      "ita": "<span class=\"verse-number\">49</span> PartorÃ¬ anche Shaaf, padre di Madmanna, Sceva, padre di Macbena e padre di Ghibea. La figlia di Caleb era Acsa."
+      "eng": "She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb <span class=\"clarity-word\">was</span> Achsah.",
+      "ara": "ثُمَّ أَنْجَبَتْ شَاعَفَ بَانِي مَدِينَةِ مَدْمَنَةَ، وَشَوَا بَانِي مَدِينَتَيْ مَكْبِينَا وَجَبَعَا. وَكَانَ لِكَالَبَ بِنْتٌ اسْمُهَا عَكْسَةُ.",
+      "jpn": "またマデマンナの<ruby>父<rt>ちち</rt></ruby>シャフおよびマクベナとギベアの<ruby>父<rt>ちち</rt></ruby>シワを<ruby>産<rt>う</rt></ruby>んだ。カレブの<ruby>娘<rt>むすめ</rt></ruby>はアクサである。",
+      "spa": "Y también dio a luz a Saaf, padre de Madmana, y a Seva, padre de Macbena y padre de Gibea. Y Acsa fue hija de Caleb.",
+      "por": "E a mulher de Saafe, pai de Madmana, deu à luz Seva, pai de Macbena e pai de Gibeá; e a filha de Calebe <span class=\"clarity-word\">foi</span> Acsa.",
+      "fra": "Elle enfanta encore Schaaph, père de Madmanna, et Scheva, père de Macbéna et père de Guibea. La fille de Caleb était Acsa.",
+      "deu": "sie gebar auch Schaaf, den Vater Madmannas, und Schewa, den Vater Machbenas und den Vater Gibeas; und die Tochter Kalebs war Achsa.",
+      "kor": "또 맛만나의 아버지 사압을 낳았고 또 막베나와 기브아의 아버지 스와를 낳았으며 갈렙의 딸은 악사더라",
+      "ita": "Partorì anche Shaaf, padre di Madmanna, Sceva, padre di Macbena e padre di Ghibea. La figlia di Caleb era Acsa."
     },
     "50": {
-      "eng": "<span class=\"verse-number\">50 </span><span class=\"para-mark\">Â¶ </span>These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjath-jearim,",
-      "ara": "<span class=\"verse-number\">Ù¥Ù  </span>ÙÙÙÙØ¤ÙÙØ§Ø¡Ù Ø¨ÙØ¹ÙØ¶Ù Ø°ÙØ±ÙÙÙÙÙØ©Ù ÙÙØ§ÙÙØ¨Ù: Ø­ÙÙØ±Ù Ø¨ÙÙÙØ±ÙÙÙ ÙÙÙÙ Ø²ÙÙÙØ¬ÙØªÙÙÙ Ø£ÙÙÙØ±ÙØ§ØªÙ ÙÙÙÙØ¯Ù Ø£ÙÙÙØ¬ÙØ¨ÙØªÙ Ø´ÙÙØ¨ÙØ§ÙÙ ÙÙØ¤ÙØ³ÙÙØ³Ù ÙÙØ±ÙÙÙØ©Ù ÙÙØ¹ÙØ§Ø±ÙÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">50 </span>ãããã¯ã«ã¬ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã§ãã£ããã¨ãã©ã¿ã®<ruby><rb>é·å­</rb><rt>ã¡ããã</rt></ruby>ãã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã­ãªã¢ãã»ã¤ãªã ã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã·ã§ãã«ã",
-      "spa": "<span class=\"verse-number\">50 </span>Estos fueron los descendientes de Caleb. Los hijos de Hur, primogÃ©nito de Efrata: Sobal, padre de Quiriat-jearim;",
-      "por": "<span class=\"verse-number\">50 </span>Estes foram os filhos de Calebe, filho de Hur, o primogÃªnito de Efrata: Sobal, pai de Quiriate-Jearim,",
-      "fra": "<span class=\"verse-number\">50 </span>Ceux-ci furent fils de CalebÂ : Schobal, fils de Hur, premier-nÃ© dâÃphrata et pÃ¨re de Kirjath-JearimÂ ;",
-      "deu": "<span class=\"verse-number\">50Â </span>Dies waren die SÃ¶hne Kalebs. Die SÃ¶hne Hurs, des Erstgeborenen von der Efrata, waren: Schobal, der Stammvater von Kirjat-Jearim,",
-      "kor": "<span class=\"verse-number\">50 </span>ê°ë ì ìì ê³§ ìë¸ë¼ë¤ì ë§ìë¤ íì ìë¤ì ì´ë¬íë ê¸°ëì¬ìë¦¼ì ìë²ì§ ìë°ê³¼",
-      "ita": "<span class=\"verse-number\">50</span> Questi furono i figli di Caleb: Ben-Ur, primogenito di Efrata, Shobal, padre di Chiriat-Iearim;"
+      "eng": "<span class=\"para-mark\">¶ </span>These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjath-jearim,",
+      "ara": "وَهَؤُلاءِ بَعْضُ ذُرِّيَّةِ كَالَبَ: حُورُ بِكْرُهُ مِنْ زَوْجَتِهِ أَفْرَاتَ وَقَدْ أَنْجَبَتْ شُوبَالَ مُؤَسِّسَ قَرْيَةِ يَعَارِيمَ،",
+      "jpn": "これらはカレブの<ruby>子孫<rt>しそん</rt></ruby>であった。エフラタの<ruby>長子<rt>ちょうし</rt></ruby>ホルの<ruby>子<rt>こ</rt></ruby>らはキリアテ・ヤリムの<ruby>父<rt>ちち</rt></ruby>ショバル、",
+      "spa": "Estos fueron los descendientes de Caleb. Los hijos de Hur, primogénito de Efrata: Sobal, padre de Quiriat-jearim;",
+      "por": "Estes foram os filhos de Calebe, filho de Hur, o primogênito de Efrata: Sobal, pai de Quiriate-Jearim,",
+      "fra": "Ceux-ci furent fils de Caleb : Schobal, fils de Hur, premier-né d’Éphrata et père de Kirjath-Jearim ;",
+      "deu": "Dies waren die Söhne Kalebs. Die Söhne Hurs, des Erstgeborenen von der Efrata, waren: Schobal, der Stammvater von Kirjat-Jearim,",
+      "kor": "갈렙의 자손 곧 에브라다의 맏아들 훌의 아들은 이러하니 기럇여아림의 아버지 소발과",
+      "ita": "Questi furono i figli di Caleb: Ben-Ur, primogenito di Efrata, Shobal, padre di Chiriat-Iearim;"
     },
     "51": {
-      "eng": "<span class=\"verse-number\">51 </span>Salma the father of Beth-lehem, Hareph the father of Beth-gader.",
-      "ara": "<span class=\"verse-number\">Ù¥Ù¡ </span>ÙÙØ³ÙÙÙÙÙØ§ ÙÙØ¤ÙØ³ÙÙØ³Ù Ø¨ÙÙÙØªÙ ÙÙØ­ÙÙÙØ ÙÙØ­ÙØ§Ø±ÙÙÙÙ ÙÙØ¤ÙØ³ÙÙØ³Ù Ø¨ÙÙÙØªÙ Ø¬ÙØ§Ø¯ÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">51 </span>ããã¬ãã ã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ãµã«ãããã³ããã¬ãã«ã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ãã¬ãã§ããã",
-      "spa": "<span class=\"verse-number\">51 </span>Salma, padre de BelÃ©n; Haref, padre de Bet-gader.",
-      "por": "<span class=\"verse-number\">51 </span>Salma, pai dos belemitas, Harefe, pai de Bete-Gader.",
-      "fra": "<span class=\"verse-number\">51 </span>Salma, pÃ¨re de BethlÃ©hemÂ ; Hareph, pÃ¨re de Beth-Gader.",
-      "deu": "<span class=\"verse-number\">51Â </span>Salmon, der Stammvater von Betlehem, Haref, der Stammvater von Bet-Gader.",
-      "kor": "<span class=\"verse-number\">51 </span>ë² ë¤ë í´ì ìë²ì§ ì´ë§ì ë²§ê°ë¸ì ìë²ì§ íë ì´ë¼",
-      "ita": "<span class=\"verse-number\">51</span> Salma, padre di Betlemme; Aref, padre di Bet-Gader."
+      "eng": "Salma the father of Beth-lehem, Hareph the father of Beth-gader.",
+      "ara": "وَسَلْمَا مُؤَسِّسَ بَيْتِ لَحْمٍ، وَحَارِيفَ مُؤَسِّسَ بَيْتِ جَادِيرَ.",
+      "jpn": "ベツレヘムの<ruby>父<rt>ちち</rt></ruby>サルマおよびベテガデルの<ruby>父<rt>ちち</rt></ruby>ハレフである。",
+      "spa": "Salma, padre de Belén; Haref, padre de Bet-gader.",
+      "por": "Salma, pai dos belemitas, Harefe, pai de Bete-Gader.",
+      "fra": "Salma, père de Bethléhem ; Hareph, père de Beth-Gader.",
+      "deu": "Salmon, der Stammvater von Betlehem, Haref, der Stammvater von Bet-Gader.",
+      "kor": "베들레헴의 아버지 살마와 벧가델의 아버지 하렙이라",
+      "ita": "Salma, padre di Betlemme; Aref, padre di Bet-Gader."
     },
     "52": {
-      "eng": "<span class=\"verse-number\">52 </span>And Shobal the father of Kirjath-jearim had sons; Haroeh, <span class=\"clarity-word\">and</span> half of the Manahethites.",
-      "ara": "<span class=\"verse-number\">Ù¥Ù¢ </span>Ø£ÙÙÙÙØ§ Ø°ÙØ±ÙÙÙÙÙØ©Ù Ø´ÙÙØ¨ÙØ§ÙÙ ÙÙØ¤ÙØ³ÙÙØ³Ù ÙÙØ±ÙÙÙØ©Ù ÙÙØ¹ÙØ§Ø±ÙÙÙÙ ÙÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØ©Ù ÙÙØ±ÙÙÙØ§ÙÙ ÙÙÙÙØµÙÙÙ ÙÙØ¨ÙÙÙÙØ©Ù ÙÙÙÙÙÙÙÙØ­ÙÙØªÙ.",
-      "jpn": "<span class=\"verse-number\">52 </span>ã­ãªã¢ãã»ã¤ãªã ã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã·ã§ãã«<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ãã­ã¨ã¨ã¡ãã³ãã³ã¨ã®<ruby><rb>å</rb><rt>ãªã</rt></ruby>ã°ã§ããã",
-      "spa": "<span class=\"verse-number\">52 </span>Y los hijos de Sobal, padre de Quiriat-jearim, fueron Haroe, la mitad de los manahetitas.",
-      "por": "<span class=\"verse-number\">52 </span>E foram os filhos de Sobal, pai de Quiriate-Jearim: HaroÃ© <span class=\"clarity-word\">e</span> metade dos menuÃ­tas.",
-      "fra": "<span class=\"verse-number\">52 </span>Les fils de Schobal, pÃ¨re de Kirjath-Jearim, furentÂ : HaroÃ©, Hatsi-Hammenuhoth.",
-      "deu": "<span class=\"verse-number\">52Â </span>Und Schobal, der Stammvater von Kirjat-Jearim, hatte als SÃ¶hne: Haroe, die HÃ¤lfte der Manahatiter;",
-      "kor": "<span class=\"verse-number\">52 </span>ê¸°ëì¬ìë¦¼ì ìë²ì§ ìë°ì ììì íë¡ìì ë¯ëí ì¬ëì ì ë°ì´ë",
-      "ita": "<span class=\"verse-number\">52</span> Shobal, padre di Chiriat-Iearim, ebbe per discendenti: Aroe, e la metÃ  dei Menuotei."
+      "eng": "And Shobal the father of Kirjath-jearim had sons; Haroeh, <span class=\"clarity-word\">and</span> half of the Manahethites.",
+      "ara": "أَمَّا ذُرِّيَّةُ شُوبَالَ مُؤَسِّسِ قَرْيَةِ يَعَارِيمَ فَهُمْ قَبِيلَةُ هَرُوَاهُ وَنِصْفُ قَبِيلَةِ هَمَّنُوحُوتَ.",
+      "jpn": "キリアテ・ヤリムの<ruby>父<rt>ちち</rt></ruby>ショバル<ruby>子<rt>こ</rt></ruby>らはハロエとメヌコテびとの<ruby>半<rt>なか</rt></ruby>ばである。",
+      "spa": "Y los hijos de Sobal, padre de Quiriat-jearim, fueron Haroe, la mitad de los manahetitas.",
+      "por": "E foram os filhos de Sobal, pai de Quiriate-Jearim: Haroé <span class=\"clarity-word\">e</span> metade dos menuítas.",
+      "fra": "Les fils de Schobal, père de Kirjath-Jearim, furent : Haroé, Hatsi-Hammenuhoth.",
+      "deu": "Und Schobal, der Stammvater von Kirjat-Jearim, hatte als Söhne: Haroe, die Hälfte der Manahatiter;",
+      "kor": "기럇여아림의 아버지 소발의 자손은 하로에와 므누홋 사람의 절반이니",
+      "ita": "Shobal, padre di Chiriat-Iearim, ebbe per discendenti: Aroe, e la metà dei Menuotei."
     },
     "53": {
-      "eng": "<span class=\"verse-number\">53 </span>And the families of Kirjath-jearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites.",
-      "ara": "<span class=\"verse-number\">Ù¥Ù£ </span>ÙÙØ¹ÙØ´ÙØ§Ø¦ÙØ±Ù ÙÙØ±ÙÙÙØ©Ù ÙÙØ¹ÙØ§Ø±ÙÙÙÙ ÙÙÙÙ: Ø§ÙÙÙÙØ«ÙØ±ÙÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙÙØªÙÙÙÙÙÙÙ ÙÙØ§ÙØ´ÙÙÙÙØ§ØªÙÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙØ´ÙØ±ÙØ§Ø¹ÙÙÙÙÙÙÙ. ÙÙØªÙÙÙØ±ÙÙØ¹Ù ÙÙÙÙ ÙÙØ¤ÙÙØ§Ø¡Ù Ø§ÙØµÙÙØ±ÙØ¹ÙÙÙÙÙÙÙ ÙÙØ§ÙØ£ÙØ´ÙØªÙØ£ÙÙÙÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">53 </span>ã­ãªã¢ãã»ã¤ãªã ã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã¯ã¤ãã«ã³ã¨ãããã³ã¨ãã·ã¥ãã³ã¨ããã·ã©ã³ã¨ã§ãã£ã¦ããããããã¶ã¬ã¢ã³ã¨ããã³ã¨ã·ã¿ãªã«ã³ã¨ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ãã",
-      "spa": "<span class=\"verse-number\">53 </span>Y las familias de Quiriat-jearim fueron los itritas, y los futitas, y los sumatitas y los misraÃ­tas, de quienes salieron los zoratitas y los estaolitas.",
-      "por": "<span class=\"verse-number\">53 </span>E as famÃ­lias de Quiriate-Jearim <span class=\"clarity-word\">foram</span> os jitreus, e os puteus, e os sumateus, e os misraeus; destes saÃ­ram os zorateus, e os estaoleus.",
-      "fra": "<span class=\"verse-number\">53 </span>Les familles de Kirjath-Jearim furentÂ : les JÃ©thriens, les Puthiens, les Schumathiens et les MischraÃ¯ensÂ ; de ces familles sont sortis les Tsoreathiens et les Eschthaoliens.",
-      "deu": "<span class=\"verse-number\">53Â </span>und die Sippen von Kirjat-Jearim waren: die Jeteriter, die Putiter, die Schumatiter und die MischraÃ¯ter; von diesen sind die ZoraÃ¯ter und die Eschtaoliter ausgegangen.",
-      "kor": "<span class=\"verse-number\">53 </span>ê¸°ëì¬ìë¦¼ ì¡±ìë¤ì ì´ë¸<span class=\"clarity-word\">ì¢ì¡±</span>ê³¼ ë¶<span class=\"clarity-word\">ì¢ì¡±</span>ê³¼ ìë§<span class=\"clarity-word\">ì¢ì¡±</span>ê³¼ ë¯¸ì¤ë¼<span class=\"clarity-word\">ì¢ì¡±</span>ì´ë¼ ì´ë¡ ë§ë¯¸ìì ìë¼ì ìì¤ë¤ì¬ ë <span class=\"clarity-word\">ì¢ì¡±</span>ì´ ëìì¼ë©°",
-      "ita": "<span class=\"verse-number\">53</span> Le famiglie di Chiriat-Iearim furono: gli Itrei, i Putei, gli Shumatei e i Mishraei; dalle quali famiglie derivarono gli Zoratiti e gli Eshtaoliti."
+      "eng": "And the families of Kirjath-jearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites.",
+      "ara": "وَعَشَائِرُ قَرْيَةِ يَعَارِيمَ هُمْ: الْيَثْرِيُّونَ وَالْفُوتِيُّونَ وَالشَّمَاتِيُّونَ وَالْمَشْرَاعِيُّونَ. وَتَفَرَّعَ مِنْ هَؤُلاءِ الصَّرْعِيُّونَ وَالأَشْتَأُولِيُّونَ.",
+      "jpn": "キリアテ・ヤリムの<ruby>氏族<rt>しぞく</rt></ruby>はイテルびと、プテびと、シュマびと、ミシラびとであって、これらからザレアびとおよびエシタオルびとが<ruby>出<rt>で</rt></ruby>た。",
+      "spa": "Y las familias de Quiriat-jearim fueron los itritas, y los futitas, y los sumatitas y los misraítas, de quienes salieron los zoratitas y los estaolitas.",
+      "por": "E as famílias de Quiriate-Jearim <span class=\"clarity-word\">foram</span> os jitreus, e os puteus, e os sumateus, e os misraeus; destes saíram os zorateus, e os estaoleus.",
+      "fra": "Les familles de Kirjath-Jearim furent : les Jéthriens, les Puthiens, les Schumathiens et les Mischraïens ; de ces familles sont sortis les Tsoreathiens et les Eschthaoliens.",
+      "deu": "und die Sippen von Kirjat-Jearim waren: die Jeteriter, die Putiter, die Schumatiter und die Mischraïter; von diesen sind die Zoraïter und die Eschtaoliter ausgegangen.",
+      "kor": "기럇여아림 족속들은 이델<span class=\"clarity-word\">종족</span>과 붓<span class=\"clarity-word\">종족</span>과 수맛<span class=\"clarity-word\">종족</span>과 미스라<span class=\"clarity-word\">종족</span>이라 이로 말미암아 소라와 에스다올 두 <span class=\"clarity-word\">종족</span>이 나왔으며",
+      "ita": "Le famiglie di Chiriat-Iearim furono: gli Itrei, i Putei, gli Shumatei e i Mishraei; dalle quali famiglie derivarono gli Zoratiti e gli Eshtaoliti."
     },
     "54": {
-      "eng": "<span class=\"verse-number\">54 </span>The sons of Salma; Beth-lehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites.",
-      "ara": "<span class=\"verse-number\">Ù¥Ù¤ </span>ÙÙÙÙØ§ÙÙ Ø³ÙÙÙÙÙØ§ ÙÙØ¤ÙØ³ÙÙØ³Ù Ø¨ÙÙÙØªÙ ÙÙØ­ÙÙÙ Ø£ÙØ¨Ø§Ù ÙÙÙÙØ¨ÙØ§Ø¦ÙÙÙ Ø§ÙÙÙÙØ·ÙÙÙÙØ§ØªÙÙÙÙÙÙÙ ÙÙØ¹ÙØ·ÙØ±ÙÙØªÙ Ø¨ÙÙÙØªÙ ÙÙÙØ¢Ø¨ÙØ ÙÙÙÙØµÙÙÙ Ø§ÙÙÙÙÙÙÙØ­ÙÙØªÙØ ÙÙØ§ÙØµÙÙØ±ÙØ¹ÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">54 </span>ãµã«ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ããã¬ãã ããããã³ã¨ãã¢ã¿ã­ãã»ããã»ã¨ã¢ããããããã³ã¨ã®<ruby><rb>å</rb><rt>ãªã</rt></ruby>ã°ããã³ã¾ãªã³ã¨ã§ããã",
-      "spa": "<span class=\"verse-number\">54 </span>Los hijos de Salma: BelÃ©n y los netofatitas, Atrot-bet-joab y la mitad de los manahetitas, los zoraÃ­tas.",
-      "por": "<span class=\"verse-number\">54 </span>Os filhos de Salma <span class=\"clarity-word\">foram</span> BelÃ©m e os netofatitas, Atarote-Bete-Joabe, e metade dos manaatitas, <span class=\"clarity-word\">e</span> os zoritas.",
-      "fra": "<span class=\"verse-number\">54 </span>Fils de SalmaÂ : BethlÃ©hem et les Nethophatiens, Athroth-Beth-Joab, Hatsi-Hammanachthi, les TsoreÃ¯nsÂ ;",
-      "deu": "<span class=\"verse-number\">54Â </span>Die SÃ¶hne Salmons waren: Betlehem und die Netofatiter, Atrot-Bet-Joab und die HÃ¤lfte der Manahatiter, die ZoraÃ¯ter;",
-      "kor": "<span class=\"verse-number\">54 </span>ì´ë§ì ììë¤ì ë² ë¤ë í´ê³¼ ëëë°<span class=\"clarity-word\">ì¢ì¡±</span>ê³¼ ìë¤ë¡¯ë²³ììê³¼ ë§ëí«<span class=\"clarity-word\">ì¢ì¡±</span>ì ì ë°ê³¼ ìë¼<span class=\"clarity-word\">ì¢ì¡±</span>ê³¼",
-      "ita": "<span class=\"verse-number\">54</span> Figli di Salma: Betlemme e i Netofatei, Atrot-Bet-Ioab, la metÃ  dei Manahatei, gli Zoriti."
+      "eng": "The sons of Salma; Beth-lehem, and the Netophathites, Ataroth, the house of Joab, and half of the Manahethites, the Zorites.",
+      "ara": "وَكَانَ سَلْمَا مُؤَسِّسُ بَيْتِ لَحْمٍ أَباً لِقَبَائِلِ النَّطُوفَاتِيِّينَ وَعَطْرُوتَ بَيْتِ يُوآبَ، وَنِصْفِ الْمَنُوحُوتِ، وَالصَّرْعِيِّينَ.",
+      "jpn": "サルマの<ruby>子<rt>こ</rt></ruby>らはベツレヘム、ネトパびと、アタロテ・ベテ・ヨアブ、マナハテびとの<ruby>半<rt>なか</rt></ruby>ばおよびゾリびとである。",
+      "spa": "Los hijos de Salma: Belén y los netofatitas, Atrot-bet-joab y la mitad de los manahetitas, los zoraítas.",
+      "por": "Os filhos de Salma <span class=\"clarity-word\">foram</span> Belém e os netofatitas, Atarote-Bete-Joabe, e metade dos manaatitas, <span class=\"clarity-word\">e</span> os zoritas.",
+      "fra": "Fils de Salma : Bethléhem et les Nethophatiens, Athroth-Beth-Joab, Hatsi-Hammanachthi, les Tsoreïns ;",
+      "deu": "Die Söhne Salmons waren: Betlehem und die Netofatiter, Atrot-Bet-Joab und die Hälfte der Manahatiter, die Zoraïter;",
+      "kor": "살마의 자손들은 베들레헴과 느도바<span class=\"clarity-word\">종족</span>과 아다롯벳요압과 마나핫<span class=\"clarity-word\">종족</span>의 절반과 소라<span class=\"clarity-word\">종족</span>과",
+      "ita": "Figli di Salma: Betlemme e i Netofatei, Atrot-Bet-Ioab, la metà dei Manahatei, gli Zoriti."
     },
     "55": {
-      "eng": "<span class=\"verse-number\">55 </span>And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, <span class=\"clarity-word\">and</span> Suchathites. These <span class=\"clarity-word\">are</span> the Kenites that came of Hemath, the father of the house of Rechab.",
-      "ara": "<span class=\"verse-number\">Ù¥Ù¥ </span>Ø£ÙÙÙÙØ§ Ø¹ÙØ´ÙØ§Ø¦ÙØ±Ù Ø§ÙÙÙÙØªÙØ¨ÙØ©Ù Ø£ÙÙÙÙÙ ÙÙØ¹ÙØ¨ÙÙØµÙ ÙÙÙÙÙÙ: ØªÙØ±ÙØ¹ÙØ§ØªÙÙÙÙ ÙÙØ´ÙÙÙØ¹ÙØ§ØªÙÙÙÙ ÙÙØ³ÙÙÙÙØ§ØªÙÙÙÙ ÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙØ­ÙØ¯ÙØ±ÙÙÙÙ ÙÙÙÙ Ø­ÙÙÙÙØ©Ù ÙÙØ¤ÙØ³ÙÙØ³Ù Ø¹ÙØ§Ø¦ÙÙÙØ©Ù Ø±ÙÙÙØ§Ø¨Ù.",
-      "jpn": "<span class=\"verse-number\">55 </span>ã¾ãã¤ããã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ãã§ãã<ruby><rb>æ¸è¨</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ãã©ãã³ã¨ãã·ã¡ã¢ãã³ã¨ãã¹ã«ãã³ã¨ã§ããããããã¯ã±ãã³ã¨ã§ãã£ã¦ã¬ã«ãã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã®<ruby><rb>åç¥</rb><rt>ããã</rt></ruby>ããããã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã§ããã",
-      "spa": "<span class=\"verse-number\">55 </span>Y las familias de los escribas que moraban en Jabes fueron: los tirateos, los simeateos y los sucateos, los cuales son los ceneos que vinieron de Hamat, padre de la casa de Recab.",
-      "por": "<span class=\"verse-number\">55 </span>E as famÃ­lias dos escribas que habitavam em Jabez <span class=\"clarity-word\">foram</span> os tiratitas, os simeatitas, <span class=\"clarity-word\">e</span> os sucatitas; estes <span class=\"clarity-word\">sÃ£o</span> os queneus, que vieram de Hamate, pai da casa de Recabe.",
-      "fra": "<span class=\"verse-number\">55 </span>et les familles des scribes demeurant Ã  Jaebets, les Thireathiens, les Schimeathiens et les Sucathiens. Ce sont les KÃ©niens, issus de Hamath, pÃ¨re de la maison de RÃ©cab.",
-      "deu": "<span class=\"verse-number\">55Â </span>und die Sippen der Schriftgelehrten, die in Jabez wohnten: die Tiratiter, die Schimatiter und die Suchatiter. Das sind die Keniter, die von Hammat, dem Stammvater des Hauses Bet-Rechab, abstammen.",
-      "kor": "<span class=\"verse-number\">55 </span>ì¼ë² ì¤ì ì´ë ìê¸°ê´ <span class=\"clarity-word\">ì¢ì¡±</span> ê³§ ëë<span class=\"clarity-word\">ì¢ì¡±</span>ê³¼ ìë¯ì<span class=\"clarity-word\">ì¢ì¡±</span>ê³¼ ìê°<span class=\"clarity-word\">ì¢ì¡±</span>ì´ë ì´ë ë¤ ë ê° ê°ë¬¸ì ì¡°ì í¨ë§ìê²ì ëì¨ ê²<span class=\"clarity-word\">ì¢ì¡±</span>ì´ëë¼",
-      "ita": "<span class=\"verse-number\">55</span> E le famiglie di scribi che abitavano a Iabez: i Tiratei, gli Scimeatei, i Sucatei. Questi sono i Chenei discesi da Cammat, padre della casa di Recab."
+      "eng": "And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, <span class=\"clarity-word\">and</span> Suchathites. These <span class=\"clarity-word\">are</span> the Kenites that came of Hemath, the father of the house of Rechab.",
+      "ara": "أَمَّا عَشَائِرُ الْكَتَبَةِ أَهْلِ يَعْبِيصَ فَهُمْ: تَرْعَاتِيمُ وَشَمْعَاتِيمُ وَسُوكَاتِيمُ وَهُمُ الْقَيْنِيُّونَ الْمُنْحَدِرُونَ مِنْ حَمَّةَ مُؤَسِّسِ عَائِلَةِ رَكَابَ.",
+      "jpn": "またヤベヅに<ruby>住<rt>す</rt></ruby>んでいた<ruby>書記<rt>しょき</rt></ruby>の<ruby>氏族<rt>しぞく</rt></ruby>テラテびと、シメアテびと、スカテびとである。これらはケニびとであってレカブの<ruby>家<rt>いえ</rt></ruby>の<ruby>先祖<rt>せんぞ</rt></ruby>ハマテから<ruby>出<rt>で</rt></ruby>た<ruby>者<rt>もの</rt></ruby>である。",
+      "spa": "Y las familias de los escribas que moraban en Jabes fueron: los tirateos, los simeateos y los sucateos, los cuales son los ceneos que vinieron de Hamat, padre de la casa de Recab.",
+      "por": "E as famílias dos escribas que habitavam em Jabez <span class=\"clarity-word\">foram</span> os tiratitas, os simeatitas, <span class=\"clarity-word\">e</span> os sucatitas; estes <span class=\"clarity-word\">são</span> os queneus, que vieram de Hamate, pai da casa de Recabe.",
+      "fra": "et les familles des scribes demeurant à Jaebets, les Thireathiens, les Schimeathiens et les Sucathiens. Ce sont les Kéniens, issus de Hamath, père de la maison de Récab.",
+      "deu": "und die Sippen der Schriftgelehrten, die in Jabez wohnten: die Tiratiter, die Schimatiter und die Suchatiter. Das sind die Keniter, die von Hammat, dem Stammvater des Hauses Bet-Rechab, abstammen.",
+      "kor": "야베스에 살던 서기관 <span class=\"clarity-word\">종족</span> 곧 디랏<span class=\"clarity-word\">종족</span>과 시므앗<span class=\"clarity-word\">종족</span>과 수갓<span class=\"clarity-word\">종족</span>이니 이는 다 레갑 가문의 조상 함맛에게서 나온 겐<span class=\"clarity-word\">종족</span>이더라",
+      "ita": "E le famiglie di scribi che abitavano a Iabez: i Tiratei, gli Scimeatei, i Sucatei. Questi sono i Chenei discesi da Cammat, padre della casa di Recab."
     }
   }
 }

@@ -5,14 +5,14 @@
     "chapter": 82,
     "headings": {
       "eng": "Thus says the Lord, Ye are gods and children of the Most High.",
-      "spa": "AsÃ­ dice Dios: Vosotros sois dioses e hijos del AltÃ­simo.",
-      "por": "Assim diz o Senhor: VÃ³s sois deuses e filhos do AltÃ­ssimo.",
-      "fra": "Ainsi dit lâÃternelÂ : Â«Â Vous Ãªtes des dieux et des enfants du TrÃ¨s-Haut.Â Â»",
-      "ita": "CosÃ¬ dice il Signore: âVoi siete dÃ¨i, siete tutti figli dellâAltissimoâ."
+      "spa": "Así dice Dios: Vosotros sois dioses e hijos del Altísimo.",
+      "por": "Assim diz o Senhor: Vós sois deuses e filhos do Altíssimo.",
+      "fra": "Ainsi dit l’Éternel : « Vous êtes des dieux et des enfants du Très-Haut. »",
+      "ita": "Così dice il Signore: “Voi siete dèi, siete tutti figli dell’Altissimo”."
     },
     "intros": {
       "eng": "A Psalm of Asaph.",
-      "jpn": "ã¢ãµãã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
+      "jpn": "アサフの<ruby>歌<rt>うた</rt></ruby>",
       "spa": "Salmo de Asaf.",
       "por": "Salmo de Asafe.",
       "ita": "Salmo di Asaf."
@@ -20,92 +20,92 @@
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>God standeth in the congregation of the mighty; he judgeth among the gods.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø§ÙÙÙÙ°ÙÙ ÙÙØªÙØ±ÙØ£ÙÙØ³Ù Ø³ÙØ§Ø­ÙØ©Ù ÙÙØ¶ÙØ§Ø¦ÙÙÙØ ÙÙØ¹ÙÙÙÙ Ø§ÙÙÙØ¶ÙØ§Ø©Ù ÙÙØµÙØ¯ÙØ±Ù Ø­ÙÙÙÙØ§Ù.",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>ä¼è­°</rb><rt>ããã</rt></ruby>ã®ãªãã«<ruby><rb>ç«</rb><rt>ã</rt></ruby>ãããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã¯<ruby><rb>ç¥ã</rb><rt>ãã¿ãã¿</rt></ruby>ã®ãªãã§ããã°ãã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãããã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">Dios estÃ¡ en la reuniÃ³n de los dioses;</span><span class=\"line\">en medio de los dioses juzga.</span>",
-      "por": "<span class=\"verse-number\">1</span> Deus estÃ¡ na congregaÃ§Ã£o dos poderosos; julga no meio dos deuses.",
-      "fra": "<span class=\"verse-number\">1</span> Psaume dâAsaph. Dieu se tient dans lâassemblÃ©e de DieuÂ ; Il juge au milieu des dieux.",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Ein Psalm Asaphs (vgl. 50,1).</span><span class=\"line\">Gott steht da in der Gottesversammlung,</span><span class=\"line\">hÃ¤lt inmitten der GÃ¶tter Gericht:</span>",
-      "kor": "<span class=\"verse-number\">1</span> íëëì ì ë¤ì ëª¨ì ê°ì´ë°ì ììë©° íëëì ê·¸ë¤ ê°ì´ë°ìì ì¬ííìëëë¼",
-      "ita": "<span class=\"verse-number\">1</span> Dio sta nellâassemblea divina; egli giudica in mezzo agli dÃ¨i."
+      "eng": "God standeth in the congregation of the mighty; he judgeth among the gods.",
+      "ara": "اللّٰهُ يَتَرَأَّسُ سَاحَةَ قَضَائِهِ، وَعَلَى القُضَاةِ يُصْدِرُ حُكْماً.",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>は<ruby>神<rt>かみ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>のなかに<ruby>立<rt>た</rt></ruby>たれる。<ruby>神<rt>かみ</rt></ruby>は<ruby>神々<rt>かみがみ</rt></ruby>のなかで、さばきを<ruby>行<rt>おこな</rt></ruby>われる。",
+      "spa": "<span class=\"line\">Dios está en la reunión de los dioses;</span><span class=\"line\">en medio de los dioses juzga.</span>",
+      "por": "Deus está na congregação dos poderosos; julga no meio dos deuses.",
+      "fra": "Psaume d’Asaph. Dieu se tient dans l’assemblée de Dieu ; Il juge au milieu des dieux.",
+      "deu": "<span class=\"line\">Ein Psalm Asaphs (vgl. 50,1).</span><span class=\"line\">Gott steht da in der Gottesversammlung,</span><span class=\"line\">hält inmitten der Götter Gericht:</span>",
+      "kor": "하나님은 신들의 모임 가운데에 서시며 하나님은 그들 가운데에서 재판하시느니라",
+      "ita": "Dio sta nell’assemblea divina; egli giudica in mezzo agli dèi."
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>How long will ye judge unjustly, and accept the persons of the wicked? <span class=\"selah\">Selah</span>.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø­ÙØªÙÙÙ ÙÙØªÙÙ ØªÙÙÙØ¶ÙÙÙÙ Ø¨ÙØ§ÙØ¸ÙÙÙÙÙÙ ÙÙØªÙÙÙØ­ÙØ§Ø²ÙÙÙÙ Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±ÙØ",
-      "jpn": "<span class=\"verse-number\">2</span> ãããªãããã¯ãã¤ã¾ã§<ruby><rb>ä¸æ­£</rb><rt>ãµãã</rt></ruby>ãªãã°ãããªãã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«<ruby><rb>å¥½æ</rb><rt>ããã</rt></ruby>ã<ruby><rb>ç¤º</rb><rt>ãã</rt></ruby>ãã®ãã<span class=\"selah\">ãã»ã©</span>",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Â¿Hasta cuÃ¡ndo juzgarÃ©is injustamente</span><span class=\"line\">y favorecerÃ©is a los malvados? <span class=\"selah\">Selah</span></span>",
-      "por": "<span class=\"verse-number\">2</span> AtÃ© quando julgareis injustamente, e aceitareis as pessoas dos Ã­mpios? <span class=\"selah\">(SelÃ¡.)</span>",
-      "fra": "<span class=\"verse-number\">2</span> JusquâÃ  quand jugerez-vous avec iniquitÃ©, Et aurez-vous des Ã©gards pour la personne des mÃ©chantsÂ ?Â â SÃ©lah.",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">âWie lange noch wollt ihr ungerecht richten</span><span class=\"line\">âund Partei fÃ¼r die Gottlosen nehmen? Sela.</span>",
-      "kor": "<span class=\"verse-number\">2</span> ëí¬ê° ë¶ê³µíí íë¨ì íë©° ìì¸ì ë¯ ë³´ê¸°ë¥¼ ì¸ì ê¹ì§ íë ¤ëë (ìë¼)",
-      "ita": "<span class=\"verse-number\">2</span> âFino a quando giudicherete ingiustamente, e sarete parziali verso gli empi? <span class=\"clarity-word\">Sela.</span>"
+      "eng": "How long will ye judge unjustly, and accept the persons of the wicked? <span class=\"selah\">Selah</span>.",
+      "ara": "حَتَّى مَتَى تَقْضُونَ بِالظُّلْمِ وَتَنْحَازُونَ إِلَى الأَشْرَارِ؟",
+      "jpn": "「あなたがたはいつまで<ruby>不正<rt>ふせい</rt></ruby>なさばきをなし、<ruby>悪<rt>あ</rt></ruby>しき<ruby>者<rt>もの</rt></ruby>に<ruby>好意<rt>こうい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すのか。<span class=\"selah\">〔セラ</span>",
+      "spa": "<span class=\"line\">¿Hasta cuándo juzgaréis injustamente</span><span class=\"line\">y favoreceréis a los malvados? <span class=\"selah\">Selah</span></span>",
+      "por": "Até quando julgareis injustamente, e aceitareis as pessoas dos ímpios? <span class=\"selah\">(Selá.)</span>",
+      "fra": "Jusqu’à quand jugerez-vous avec iniquité, Et aurez-vous des égards pour la personne des méchants ? — Sélah.",
+      "deu": "<span class=\"line\">„Wie lange noch wollt ihr ungerecht richten</span><span class=\"line\">„und Partei für die Gottlosen nehmen? Sela.</span>",
+      "kor": "너희가 불공평한 판단을 하며 악인의 낯 보기를 언제까지 하려느냐 (셀라)",
+      "ita": "“Fino a quando giudicherete ingiustamente, e sarete parziali verso gli empi? <span class=\"clarity-word\">Sela.</span>"
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>Defend the poor and fatherless: do justice to the afflicted and needy.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>Ø§Ø­ÙÙÙÙÙÙØ§ ÙÙÙØ°ÙÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙØªÙÙÙÙ. ÙÙØ£ÙÙÙØµÙÙÙÙØ§ Ø§ÙÙÙÙØ³ÙÙÙÙÙÙ ÙÙØ§ÙÙØ¨ÙØ§Ø¦ÙØ³Ù.",
-      "jpn": "<span class=\"verse-number\">3</span> <ruby><rb>å¼±</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¨ãã¿ãªããã¨ã<ruby><rb>å¬å¹³</rb><rt>ããã¸ã</rt></ruby>ã«<ruby><rb>æ±</rb><rt>ãã¤ã</rt></ruby>ãã<ruby><rb>è¦</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¨<ruby><rb>ä¹</rb><rt>ã¨ã¼</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æ¨©å©</rb><rt>ããã</rt></ruby>ã<ruby><rb>æè­·</rb><rt>ããã</rt></ruby>ããã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Defended al pobre y al huÃ©rfano;</span><span class=\"line\">haced justicia al afligido y al menesteroso.</span>",
-      "por": "<span class=\"verse-number\">3</span> Fazei justiÃ§a ao pobre e ao Ã³rfÃ£o; justificai o aflito e necessitado.",
-      "fra": "<span class=\"verse-number\">3</span> Rendez justice au faible et Ã  lâorphelin, Faites droit au malheureux et au pauvre,",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">âSchafft Recht dem Geringen und Verwaisten,</span><span class=\"line\">âdem BedrÃ¼ckten und DÃ¼rftigen verhelft zum Recht!</span>",
-      "kor": "<span class=\"verse-number\">3</span> ê°ëí ìì ê³ ìë¥¼ ìíì¬ íë¨íë©° ê³¤ëí ìì ë¹ê¶í ììê² ê³µìë¥¼ ë² íì§ë©°",
-      "ita": "<span class=\"verse-number\">3</span> Fate giustizia al debole e allâorfano, rendete giustizia allâafflitto e al povero."
+      "eng": "Defend the poor and fatherless: do justice to the afflicted and needy.",
+      "ara": "احْكُمُوا لِلذَّلِيلِ وَالْيَتِيمِ. وَأَنْصِفُوا الْمِسْكِينَ وَالْبَائِسَ.",
+      "jpn": "<ruby>弱<rt>よわ</rt></ruby>い<ruby>者<rt>もの</rt></ruby>と、みなしごとを<ruby>公平<rt>こうへい</rt></ruby>に<ruby>扱<rt>あつか</rt></ruby>い、<ruby>苦<rt>くる</rt></ruby>しむ<ruby>者<rt>もの</rt></ruby>と<ruby>乏<rt>とぼ</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>の<ruby>権利<rt>けんり</rt></ruby>を<ruby>擁護<rt>ようご</rt></ruby>せよ。",
+      "spa": "<span class=\"line\">Defended al pobre y al huérfano;</span><span class=\"line\">haced justicia al afligido y al menesteroso.</span>",
+      "por": "Fazei justiça ao pobre e ao órfão; justificai o aflito e necessitado.",
+      "fra": "Rendez justice au faible et à l’orphelin, Faites droit au malheureux et au pauvre,",
+      "deu": "<span class=\"line\">„Schafft Recht dem Geringen und Verwaisten,</span><span class=\"line\">„dem Bedrückten und Dürftigen verhelft zum Recht!</span>",
+      "kor": "가난한 자와 고아를 위하여 판단하며 곤란한 자와 빈궁한 자에게 공의를 베풀지며",
+      "ita": "Fate giustizia al debole e all’orfano, rendete giustizia all’afflitto e al povero."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>Deliver the poor and needy: rid <span class=\"clarity-word\">them</span> out of the hand of the wicked.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø£ÙÙÙÙÙØ°ÙÙØ§ Ø§ÙÙÙÙØ³ÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙÙÙÙØ±ÙØ Ø£ÙÙÙÙÙØ°ÙÙÙÙÙÙØ§ ÙÙÙÙ ÙÙØ¨ÙØ¶ÙØ©Ù Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù.",
-      "jpn": "<span class=\"verse-number\">4</span> <ruby><rb>å¼±</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¨<ruby><rb>è²§</rb><rt>ã¾ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ãã<ruby><rb>å©</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ããã",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Librad al pobre y al necesitado;</span><span class=\"line\">libradlo de manos de los malvados.</span>",
-      "por": "<span class=\"verse-number\">4</span> Livrai o pobre e o necessitado; tirai-os das mÃ£os dos Ã­mpios.",
-      "fra": "<span class=\"verse-number\">4</span> Sauvez le faible/lâaffligÃ© et lâindigent, DÃ©livrez-les de la main des mÃ©chants.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">ârettet den Geringen und Armen,</span><span class=\"line\">âentreiÃt ihn der Hand der Gottlosen!â</span>",
-      "kor": "<span class=\"verse-number\">4</span> ê°ëí ìì ê¶íí ìë¥¼ êµ¬ìíì¬ ìì¸ë¤ì ììì ê±´ì§ì§ëë¼ íìëëë¤",
-      "ita": "<span class=\"verse-number\">4</span> Liberate il debole e il bisognoso, salvatelo dalla mano degli empi."
+      "eng": "Deliver the poor and needy: rid <span class=\"clarity-word\">them</span> out of the hand of the wicked.",
+      "ara": "أَنْقِذُوا الْمِسْكِينَ وَالْفَقِيرَ؛ أَنْقِذُوهُمَا مِنْ قَبْضَةِ الأَشْرَارِ.",
+      "jpn": "<ruby>弱<rt>よわ</rt></ruby>い<ruby>者<rt>もの</rt></ruby>と<ruby>貧<rt>まず</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>を<ruby>救<rt>すく</rt></ruby>い、<ruby>彼<rt>かれ</rt></ruby>らを<ruby>悪<rt>あ</rt></ruby>しき<ruby>者<rt>もの</rt></ruby>の<ruby>手<rt>て</rt></ruby>から<ruby>助<rt>たす</rt></ruby>け<ruby>出<rt>だ</rt></ruby>せ」。",
+      "spa": "<span class=\"line\">Librad al pobre y al necesitado;</span><span class=\"line\">libradlo de manos de los malvados.</span>",
+      "por": "Livrai o pobre e o necessitado; tirai-os das mãos dos ímpios.",
+      "fra": "Sauvez le faible/l’affligé et l’indigent, Délivrez-les de la main des méchants.",
+      "deu": "<span class=\"line\">„rettet den Geringen und Armen,</span><span class=\"line\">„entreißt ihn der Hand der Gottlosen!”</span>",
+      "kor": "가난한 자와 궁핍한 자를 구원하여 악인들의 손에서 건질지니라 하시는도다",
+      "ita": "Liberate il debole e il bisognoso, salvatelo dalla mano degli empi."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙ ÙÙÙÙ ØºÙÙÙØ±Ù ÙÙØ¹ÙØ±ÙÙÙØ©Ù ÙÙÙÙÙÙÙÙØ ÙÙØªÙÙÙØ´ÙÙÙÙÙÙ ÙÙÙ Ø§ÙØ¸ÙÙÙÙÙÙØ©Ù ÙÙØªÙØªÙØ²ÙØ¹ÙØ²ÙØ¹Ù Ø£ÙØ³ÙØ³Ù Ø§ÙØ£ÙØ±ÙØ¶Ù ÙÙÙÙ ÙÙØ«ÙØ±ÙØ©Ù Ø§ÙÙØ¬ÙÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ããã¨ãªãã<ruby><rb>æ</rb><rt>ãã¨</rt></ruby>ããã¨ããªãã¦ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ããã¾ããã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®ããããã®<ruby><rb>åº</rb><rt>ãã¨ã</rt></ruby>ã¯ãã<ruby><rb>å</rb><rt>ãã</rt></ruby>ããã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">No saben ni entienden;</span><span class=\"line\">andan en tinieblas.</span><span class=\"line\">Tiemblan todos los cimientos de la tierra.</span>",
-      "por": "<span class=\"verse-number\">5</span> Eles nÃ£o conhecem, nem entendem; andam em trevas; todos os fundamentos da terra vacilam.",
-      "fra": "<span class=\"verse-number\">5</span> Ils nâont ni savoir ni intelligence, Ils marchent dans les tÃ©nÃ¨bresÂ ; Tous les fondements de la terre sont Ã©branlÃ©s.",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">âDoch sie sind ohne Einsicht und ohne Erkenntnis;</span><span class=\"line\">âin Finsternis gehn sie einher,</span><span class=\"line\">âmÃ¶gen der Erde (oder: des Landes) Pfeiler auch alle wanken.</span>",
-      "kor": "<span class=\"verse-number\">5</span> ê·¸ë¤ì ìì§ë ëª»íê³  ê¹¨ë«ì§ë ëª»íì¬ íì ì¤ì ìëíë ëì ëª¨ë  í°ê° íë¤ë¦¬ëë¤",
-      "ita": "<span class=\"verse-number\">5</span> Essi non conoscono nÃ© intendono nulla; camminano nelle tenebre; tutte le fondamenta della terra sono smosse."
+      "eng": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.",
+      "ara": "هُمْ مِنْ غَيْرِ مَعْرِفَةٍ وَفَهْمٍ، يَتَمَشَّوْنَ فِي الظُّلْمَةِ وَتَتَزَعْزَعُ أُسُسُ الأَرْضِ مِنْ كَثْرَةِ الْجَوْرِ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らは<ruby>知<rt>し</rt></ruby>ることなく、<ruby>悟<rt>さと</rt></ruby>ることもなくて、<ruby>暗<rt>くら</rt></ruby>き<ruby>中<rt>なか</rt></ruby>をさまよう。<ruby>地<rt>ち</rt></ruby>のもろもろの<ruby>基<rt>もとい</rt></ruby>はゆり<ruby>動<rt>うご</rt></ruby>いた。",
+      "spa": "<span class=\"line\">No saben ni entienden;</span><span class=\"line\">andan en tinieblas.</span><span class=\"line\">Tiemblan todos los cimientos de la tierra.</span>",
+      "por": "Eles não conhecem, nem entendem; andam em trevas; todos os fundamentos da terra vacilam.",
+      "fra": "Ils n’ont ni savoir ni intelligence, Ils marchent dans les ténèbres ; Tous les fondements de la terre sont ébranlés.",
+      "deu": "<span class=\"line\">„Doch sie sind ohne Einsicht und ohne Erkenntnis;</span><span class=\"line\">„in Finsternis gehn sie einher,</span><span class=\"line\">„mögen der Erde (oder: des Landes) Pfeiler auch alle wanken.</span>",
+      "kor": "그들은 알지도 못하고 깨닫지도 못하여 흑암 중에 왕래하니 땅의 모든 터가 흔들리도다",
+      "ita": "Essi non conoscono né intendono nulla; camminano nelle tenebre; tutte le fondamenta della terra sono smosse."
     },
     "6": {
-      "eng": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p6\" title=\"Associated Content\"><button aria-label=\"Associated Content\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">6 </span>I have said, Ye <span class=\"clarity-word\">are</span> gods; and all of you <span class=\"clarity-word\">are</span> children of the most High.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø£ÙÙÙØ§ ÙÙÙÙØªÙ: âØ¥ÙÙÙÙÙÙÙÙ Ø¢ÙÙÙÙØ©ÙØ ÙÙØ¬ÙÙÙÙØ¹ÙÙÙÙÙ Ø¨ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p6\" title=\"é¢é£ã³ã³ãã³ã\"><button aria-label=\"é¢é£ã³ã³ãã³ã\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">6</span> ãããã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããããªãããã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã ãããªãããã¯<ruby><rb>ç</rb><rt>ã¿ãª</rt></ruby>ãã¨<ruby><rb>é«</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã ã",
-      "spa": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p6\" title=\"Contenido relacionado\"><button aria-label=\"Contenido relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">6 </span><span class=\"line\">Yo dije: Vosotros sois dioses,</span><span class=\"line\">y todos vosotros hijos del AltÃ­simo.</span>",
-      "por": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p6\" title=\"ConteÃºdo relacionado\"><button aria-label=\"ConteÃºdo relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">6</span> Eu disse: VÃ³s <span class=\"clarity-word\">sois</span> deuses, e todos vÃ³s <span class=\"clarity-word\">sois</span> filhos do AltÃ­ssimo.",
-      "fra": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p6\" title=\"Contenu associÃ©\"><button aria-label=\"Contenu associÃ©\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">6</span> Jâavais ditÂ : Vous Ãªtes des dieux, Vous Ãªtes tous des enfants du TrÃ¨s-Haut.",
-      "deu": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p6\" title=\"DazugehÃ¶riger Inhalt\"><button aria-label=\"DazugehÃ¶riger Inhalt\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">6Â </span><span class=\"line\">âWohl habâ ich selber gesagt, daÃ ihr GÃ¶tter (vgl. V. 1) seid</span><span class=\"line\">âund SÃ¶hne des HÃ¶chsten allesamt;</span>",
-      "kor": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p6\" title=\"ê´ë ¨ ì½íì¸ \"><button aria-label=\"ê´ë ¨ ì½íì¸ \" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">6</span> ë´ê° ë§íê¸°ë¥¼ ëí¬ë ì ë¤ì´ë©° ë¤ ì§ì¡´ìì ìë¤ë¤ì´ë¼ íìì¼ë",
-      "ita": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p6\" title=\"Contenuti collegati\"><button aria-label=\"Contenuti collegati\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">6</span> Io ho detto: âVoi siete dÃ¨i, siete tutti figli dellâAltissimoâ."
+      "eng": "I have said, Ye <span class=\"clarity-word\">are</span> gods; and all of you <span class=\"clarity-word\">are</span> children of the most High.",
+      "ara": "أَنَا قُلْتُ: ”إِنَّكُمْ آلِهَةٌ، وَجَمِيعَكُمْ بَنُو الْعَلِيِّ.",
+      "jpn": "わたしは<ruby>言<rt>い</rt></ruby>う、「あなたがたは<ruby>神<rt>かみ</rt></ruby>だ、あなたがたは<ruby>皆<rt>みな</rt></ruby>いと<ruby>高<rt>たか</rt></ruby>き<ruby>者<rt>もの</rt></ruby>の<ruby>子<rt>こ</rt></ruby>だ。",
+      "spa": "<span class=\"line\">Yo dije: Vosotros sois dioses,</span><span class=\"line\">y todos vosotros hijos del Altísimo.</span>",
+      "por": "Eu disse: Vós <span class=\"clarity-word\">sois</span> deuses, e todos vós <span class=\"clarity-word\">sois</span> filhos do Altíssimo.",
+      "fra": "J’avais dit : Vous êtes des dieux, Vous êtes tous des enfants du Très-Haut.",
+      "deu": "<span class=\"line\">„Wohl hab’ ich selber gesagt, daß ihr Götter (vgl. V. 1) seid</span><span class=\"line\">„und Söhne des Höchsten allesamt;</span>",
+      "kor": "내가 말하기를 너희는 신들이며 다 지존자의 아들들이라 하였으나",
+      "ita": "Io ho detto: ‘Voi siete dèi, siete tutti figli dell’Altissimo’."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>But ye shall die like men, and fall like one of the princes.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙÙÙÙÙÙÙÙ Ø³ÙØªÙÙÙÙØªÙÙÙÙ ÙÙØ§ÙÙØ¨ÙØ´ÙØ±ÙØ ÙÙØªÙÙÙØªÙÙÙÙ Ø­ÙÙÙØ§ØªÙÙÙÙÙ ÙÙØ«ÙÙÙ ÙÙÙÙÙ Ø§ÙØ±ÙÙØ¤ÙØ³ÙØ§Ø¡Ùâ.",
-      "jpn": "<span class=\"verse-number\">7</span> ããããããªãããã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®ããã«<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ã«ãããããã®<ruby><rb>å</rb><rt>ãã¿</rt></ruby>ã®ã²ã¨ãã®ããã«<ruby><rb>å</rb><rt>ãã</rt></ruby>ããã§ããããã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Pero como hombres morirÃ©is,</span><span class=\"line\">y caerÃ©is como cualquiera de los prÃ­ncipes.</span>",
-      "por": "<span class=\"verse-number\">7</span> Todavia morrereis como homens, e caireis como qualquer dos prÃ­ncipes.",
-      "fra": "<span class=\"verse-number\">7</span> Cependant vous mourrez comme des hommes, Vous tomberez comme un prince quelconque.",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">âdennoch wie (gewÃ¶hnliche) Menschen sollt ihr sterben</span><span class=\"line\">âund fallen wie irgend einer der FÃ¼rstenâ.</span>",
-      "kor": "<span class=\"verse-number\">7</span> ê·¸ë¬ë ëí¬ë ì¬ëì²ë¼ ì£½ì¼ë©° ê³ ê´ì íë ê°ì´ ëì´ì§ë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">7</span> Nondimeno morirete come gli altri uomini, e cadrete come qualunque altro dei capiâ."
+      "eng": "But ye shall die like men, and fall like one of the princes.",
+      "ara": "لَكِنَّكُمْ سَتَمُوتُونَ كَالْبَشَرِ، وَتَنْتَهِي حَيَاتُكُمْ مِثْلَ كُلِّ الرُّؤَسَاءِ“.",
+      "jpn": "しかし、あなたがたは<ruby>人<rt>ひと</rt></ruby>のように<ruby>死<rt>し</rt></ruby>に、もろもろの<ruby>君<rt>きみ</rt></ruby>のひとりのように<ruby>倒<rt>たお</rt></ruby>れるであろう」。",
+      "spa": "<span class=\"line\">Pero como hombres moriréis,</span><span class=\"line\">y caeréis como cualquiera de los príncipes.</span>",
+      "por": "Todavia morrereis como homens, e caireis como qualquer dos príncipes.",
+      "fra": "Cependant vous mourrez comme des hommes, Vous tomberez comme un prince quelconque.",
+      "deu": "<span class=\"line\">„dennoch wie (gewöhnliche) Menschen sollt ihr sterben</span><span class=\"line\">„und fallen wie irgend einer der Fürsten”.</span>",
+      "kor": "그러나 너희는 사람처럼 죽으며 고관의 하나 같이 넘어지리로다",
+      "ita": "Nondimeno morirete come gli altri uomini, e cadrete come qualunque altro dei capi”."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>Arise, O God, judge the earth: for thou shalt inherit all nations.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙÙÙ ÙÙØ§ Ø§ÙÙÙÙ°ÙÙ ÙÙÙÙ. Ø¯ÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶ÙØ ÙØ£ÙÙÙÙÙÙ Ø£ÙÙÙØªÙ ØªÙÙÙØªÙÙÙÙÙ Ø§ÙØ£ÙÙÙÙÙ Ø¨ÙØ£ÙØ³ÙØ±ÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">8</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãã<ruby><rb>èµ·</rb><rt>ã</rt></ruby>ãã¦ã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ããã°ãã¦ãã ããããã¹ã¦ã®<ruby><rb>å½æ°</rb><rt>ãã«ãã¿</rt></ruby>ã¯ããªãã®ãã®ã ããã§ãã",
-      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">LevÃ¡ntate, oh Dios; juzga la tierra,</span><span class=\"line\">porque tÃº heredarÃ¡s todas las naciones.</span>",
-      "por": "<span class=\"verse-number\">8</span> Levanta-te, Ã³ Deus, julga a terra, pois tu possuis todas as naÃ§Ãµes.",
-      "fra": "<span class=\"verse-number\">8</span> LÃ¨ve-toi, Ã´ Dieu, juge la terreÂ ! Car toutes les nations tâappartiennent.",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">Erhebe dich, Gott, richte die Erde!</span><span class=\"line\">denn du bist der Erbherr Ã¼ber alle VÃ¶lker.</span>",
-      "kor": "<span class=\"verse-number\">8</span> íëëì´ì¬ ì¼ì´ëì¬ ì¸ìì ì¬ííìì ëª¨ë  ëë¼ê° ì£¼ì ìì ì´ê¸° ëë¬¸ì´ëì´ë¤",
-      "ita": "<span class=\"verse-number\">8</span> Ergiti, o Dio, giudica la terra, poichÃ© tutte le nazioni saranno la tua ereditÃ ."
+      "eng": "Arise, O God, judge the earth: for thou shalt inherit all nations.",
+      "ara": "قُمْ يَا اللّٰهُ قُمْ. دِنِ الأَرْضَ، لأَنَّكَ أَنْتَ تَمْتَلِكُ الأُمَمَ بِأَسْرِهَا.",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>よ、<ruby>起<rt>お</rt></ruby>きて、<ruby>地<rt>ち</rt></ruby>をさばいてください。すべての<ruby>国民<rt>くにたみ</rt></ruby>はあなたのものだからです。",
+      "spa": "<span class=\"line\">Levántate, oh Dios; juzga la tierra,</span><span class=\"line\">porque tú heredarás todas las naciones.</span>",
+      "por": "Levanta-te, ó Deus, julga a terra, pois tu possuis todas as nações.",
+      "fra": "Lève-toi, ô Dieu, juge la terre ! Car toutes les nations t’appartiennent.",
+      "deu": "<span class=\"line\">Erhebe dich, Gott, richte die Erde!</span><span class=\"line\">denn du bist der Erbherr über alle Völker.</span>",
+      "kor": "하나님이여 일어나사 세상을 심판하소서 모든 나라가 주의 소유이기 때문이니이다",
+      "ita": "Ergiti, o Dio, giudica la terra, poiché tutte le nazioni saranno la tua eredità."
     }
   }
 }

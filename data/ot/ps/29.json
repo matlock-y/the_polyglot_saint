@@ -4,15 +4,15 @@
     "book": "ps",
     "chapter": 29,
     "headings": {
-      "eng": "David counsels, Worship the Lord in the beauty of holinessâDavid sets forth the wonder and power of the voice of the Lord.",
-      "spa": "David aconseja: Adorad a JehovÃ¡ en la hermosura de la santidadÂ â David describe la majestuosidad y el poder de la voz de JehovÃ¡.",
-      "por": "Davi aconselha: Adorai ao Senhor na beleza da santidadeÂ â Davi descreve a majestade e o poder da voz do Senhor.",
-      "fra": "David conseilleÂ : Â«Â Prosternez-vous devant lâÃternel avec de saints ornements.Â Â» Il dÃ©crit la merveille et la puissance de la voix de lâÃternel.",
-      "ita": "Davide consiglia: âAdorate lâEterno con santa magnificenzaâÂ â Davide descrive la meraviglia e il potere della voce del Signore."
+      "eng": "David counsels, Worship the Lord in the beauty of holiness—David sets forth the wonder and power of the voice of the Lord.",
+      "spa": "David aconseja: Adorad a Jehová en la hermosura de la santidad — David describe la majestuosidad y el poder de la voz de Jehová.",
+      "por": "Davi aconselha: Adorai ao Senhor na beleza da santidade — Davi descreve a majestade e o poder da voz do Senhor.",
+      "fra": "David conseille : « Prosternez-vous devant l’Éternel avec de saints ornements. » Il décrit la merveille et la puissance de la voix de l’Éternel.",
+      "ita": "Davide consiglia: “Adorate l’Eterno con santa magnificenza” — Davide descrive la meraviglia e il potere della voce del Signore."
     },
     "intros": {
       "eng": "A Psalm of David.",
-      "jpn": "ãããã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
+      "jpn": "ダビデの<ruby>歌<rt>うた</rt></ruby>",
       "spa": "Salmo de David.",
       "por": "Salmo de Davi.",
       "ita": "Salmo di Davide."
@@ -20,125 +20,125 @@
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>Give unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, O ye mighty, give unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> glory and strength.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ¯ÙÙÙÙÙØ§ ÙÙÙØ±ÙÙØ¨ÙÙ ÙÙØ§ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø§ÙÙÙÙ°ÙÙØ ÙÙØ¯ÙÙÙÙÙØ§ ÙÙÙØ±ÙÙØ¨ÙÙ ÙÙØ¬ÙØ¯Ø§Ù ÙÙØ¹ÙØ²ÙØ§Ù.",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¸°</rb><rt>ã</rt></ruby>ããã<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã¨<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã¨ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¸°</rb><rt>ã</rt></ruby>ããã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">Dad a JehovÃ¡, oh hijos de los fuertes;</span><span class=\"line\">dad a JehovÃ¡ la gloria y el poder.</span>",
-      "por": "<span class=\"verse-number\">1</span> Dai ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, Ã³ filhos dos poderosos, dai ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> glÃ³ria e forÃ§a.",
-      "fra": "<span class=\"verse-number\">1</span> Psaume de David. Fils de Dieu, rendez Ã  lâÃternel, Rendez Ã  lâÃternel gloire et honneurÂ !",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Ein Psalm von David.</span><span class=\"line\">Bringt dar dem HErrn, ihr GottessÃ¶hne (d. h. Engel), bringt dar dem HErrn Ehre und Preis!</span>",
-      "kor": "<span class=\"verse-number\">1</span> ëí¬ ê¶ë¥ ìë ìë¤ì ìê´ê³¼ ë¥ë ¥ì ì¬í¸ìê» ëë¦¬ê³  ëë¦´ì§ì´ë¤",
-      "ita": "<span class=\"verse-number\">1</span> Date allâEterno, o figli dei potenti, date allâEterno gloria e forza!"
+      "eng": "Give unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, O ye mighty, give unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> glory and strength.",
+      "ara": "قَدِّمُوا لِلرَّبِّ يَا أَبْنَاءَ اللّٰهِ، قَدِّمُوا لِلرَّبِّ مَجْداً وَعِزّاً.",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>らよ、<ruby>主<rt>しゅ</rt></ruby>に<ruby>帰<rt>き</rt></ruby>せよ、<ruby>栄光<rt>えいこう</rt></ruby>と<ruby>力<rt>ちから</rt></ruby>とを<ruby>主<rt>しゅ</rt></ruby>に<ruby>帰<rt>き</rt></ruby>せよ。",
+      "spa": "<span class=\"line\">Dad a Jehová, oh hijos de los fuertes;</span><span class=\"line\">dad a Jehová la gloria y el poder.</span>",
+      "por": "Dai ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, ó filhos dos poderosos, dai ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> glória e força.",
+      "fra": "Psaume de David. Fils de Dieu, rendez à l’Éternel, Rendez à l’Éternel gloire et honneur !",
+      "deu": "<span class=\"line\">Ein Psalm von David.</span><span class=\"line\">Bringt dar dem HErrn, ihr Gottessöhne (d. h. Engel), bringt dar dem HErrn Ehre und Preis!</span>",
+      "kor": "너희 권능 있는 자들아 영광과 능력을 여호와께 돌리고 돌릴지어다",
+      "ita": "Date all’Eterno, o figli dei potenti, date all’Eterno gloria e forza!"
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>Give unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> the glory due unto his name; worship the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> in the beauty of holiness.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØ¯ÙÙÙÙÙØ§ ÙÙÙØ±ÙÙØ¨ÙÙ ÙÙØ¬ÙØ¯Ø§Ù ÙØ§ÙØ³ÙÙÙÙÙ. Ø§Ø³ÙØ¬ÙØ¯ÙÙØ§ ÙÙÙØ±ÙÙØ¨ÙÙ Ø¨ÙØ«ÙÙÙØ¨Ù Ø§ÙØ¥ÙØ¬ÙÙØ§ÙÙ ÙÙØ§ÙÙÙÙØ¯ÙØ§Ø³ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">2</span> ã¿<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¸°</rb><rt>ã</rt></ruby>ããã<ruby><rb>è</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>è£</rb><rt>ããã</rt></ruby>ãããã£ã¦<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Dad a JehovÃ¡ la debida gloria a su nombre;</span><span class=\"line\">adorad a JehovÃ¡ en la hermosura de la santidad.</span>",
-      "por": "<span class=\"verse-number\">2</span> Dai ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> a glÃ³ria <span class=\"clarity-word\">devida ao</span> seu nome; adorai ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> na beleza da santidade.",
-      "fra": "<span class=\"verse-number\">2</span> Rendez Ã  lâÃternel gloire pour son nomÂ ! Prosternez-vous devant lâÃternel avec de saints ornementsÂ !",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Bringt dar dem HErrn die Ehre seines Namens,</span><span class=\"line\">werft vor dem HErrn euch nieder in heiligem Schmuck!</span>",
-      "kor": "<span class=\"verse-number\">2</span> ì¬í¸ìê» ê·¸ì ì´ë¦ì <span class=\"clarity-word\">í©ë¹í</span> ìê´ì ëë¦¬ë©° ê±°ë£©í ì·ì ìê³  ì¬í¸ìê» ìë°°í ì§ì´ë¤",
-      "ita": "<span class=\"verse-number\">2</span> Date allâEterno la gloria dovuta al suo nome; adorate lâEterno con santa magnificenza."
+      "eng": "Give unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> the glory due unto his name; worship the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> in the beauty of holiness.",
+      "ara": "قَدِّمُوا لِلرَّبِّ مَجْداً لاِسْمِهِ. اسْجُدُوا لِلرَّبِّ بِثَوْبِ الإِجْلالِ وَالْقَدَاسَةِ.",
+      "jpn": "み<ruby>名<rt>な</rt></ruby>の<ruby>栄光<rt>えいこう</rt></ruby>を<ruby>主<rt>しゅ</rt></ruby>に<ruby>帰<rt>き</rt></ruby>せよ、<ruby>聖<rt>せい</rt></ruby>なる<ruby>装<rt>よそお</rt></ruby>いをもって<ruby>主<rt>しゅ</rt></ruby>を<ruby>拝<rt>おが</rt></ruby>め。",
+      "spa": "<span class=\"line\">Dad a Jehová la debida gloria a su nombre;</span><span class=\"line\">adorad a Jehová en la hermosura de la santidad.</span>",
+      "por": "Dai ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> a glória <span class=\"clarity-word\">devida ao</span> seu nome; adorai ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> na beleza da santidade.",
+      "fra": "Rendez à l’Éternel gloire pour son nom ! Prosternez-vous devant l’Éternel avec de saints ornements !",
+      "deu": "<span class=\"line\">Bringt dar dem HErrn die Ehre seines Namens,</span><span class=\"line\">werft vor dem HErrn euch nieder in heiligem Schmuck!</span>",
+      "kor": "여호와께 그의 이름에 <span class=\"clarity-word\">합당한</span> 영광을 돌리며 거룩한 옷을 입고 여호와께 예배할지어다",
+      "ita": "Date all’Eterno la gloria dovuta al suo nome; adorate l’Eterno con santa magnificenza."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> upon the waters: the God of glory thundereth: the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> upon many waters.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙÙØ°ÙØ§ ØµÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¯ÙÙÙÙÙ ÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙØ§ÙÙ. Ø¥ÙÙÙÙÙ Ø§ÙÙÙÙØ¬ÙØ¯Ù Ø£ÙØ±ÙØ¹ÙØ¯Ù. ÙÙØ¬ÙØ¯Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙØ§ÙÙ Ø§ÙÙØºÙØ²ÙÙØ±ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">3</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ã¿<ruby><rb>å£°</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ããã<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã¯<ruby><rb>é·</rb><rt>ãã¿ãªã</rt></ruby>ãã¨ã©ãããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å¤§</rb><rt>ã ã</rt></ruby><ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ããããã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Voz de JehovÃ¡ sobre las aguas.</span><span class=\"line\">Truena el Dios de gloria,</span><span class=\"line\">JehovÃ¡, sobre las muchas aguas.</span>",
-      "por": "<span class=\"verse-number\">3</span> A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">se ouve</span> sobre as <span class=\"clarity-word\">suas</span> Ã¡guas; o Deus da glÃ³ria troveja; o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">estÃ¡</span> sobre as muitas Ã¡guas.",
-      "fra": "<span class=\"verse-number\">3</span> La voix de lâÃternel retentit sur les eaux, Le Dieu de gloire fait gronder le tonnerreÂ ; LâÃternel est sur les grandes eaux.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Der Donner des HErrn rollt Ã¼ber dem Meer;</span><span class=\"line\">der Gott der Herrlichkeit donnert,</span><span class=\"line\">der HErr Ã¼ber weiter Meeresflut!</span>",
-      "kor": "<span class=\"verse-number\">3</span> ì¬í¸ìì ìë¦¬ê° ë¬¼ ìì ìëë¤ ìê´ì íëëì´ ì°ë ìë¦¬ë¥¼ ë´ìë ì¬í¸ìë ë§ì ë¬¼ ìì ê³ìëë¤",
-      "ita": "<span class=\"verse-number\">3</span> La voce dellâEterno Ã¨ sulle acque; il Dio di gloria tuona; lâEterno Ã¨ sulle grandi acque."
+      "eng": "The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> upon the waters: the God of glory thundereth: the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> upon many waters.",
+      "ara": "هُوَذَا صَوْتُ الرَّبِّ يُدَوِّي فَوْقَ الْمِيَاهِ. إِلَهُ الْمَجْدِ أَرْعَدَ. مَجْدُ الرَّبِّ فَوْقَ الْمِيَاهِ الْغَزِيرَةِ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>のみ<ruby>声<rt>こえ</rt></ruby>は<ruby>水<rt>みず</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にあり、<ruby>栄光<rt>えいこう</rt></ruby>の<ruby>神<rt>かみ</rt></ruby>は<ruby>雷<rt>かみなり</rt></ruby>をとどろかせ、<ruby>主<rt>しゅ</rt></ruby>は<ruby>大<rt>だい</rt></ruby><ruby>水<rt>みず</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>におられる。",
+      "spa": "<span class=\"line\">Voz de Jehová sobre las aguas.</span><span class=\"line\">Truena el Dios de gloria,</span><span class=\"line\">Jehová, sobre las muchas aguas.</span>",
+      "por": "A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">se ouve</span> sobre as <span class=\"clarity-word\">suas</span> águas; o Deus da glória troveja; o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">está</span> sobre as muitas águas.",
+      "fra": "La voix de l’Éternel retentit sur les eaux, Le Dieu de gloire fait gronder le tonnerre ; L’Éternel est sur les grandes eaux.",
+      "deu": "<span class=\"line\">Der Donner des HErrn rollt über dem Meer;</span><span class=\"line\">der Gott der Herrlichkeit donnert,</span><span class=\"line\">der HErr über weiter Meeresflut!</span>",
+      "kor": "여호와의 소리가 물 위에 있도다 영광의 하나님이 우렛소리를 내시니 여호와는 많은 물 위에 계시도다",
+      "ita": "La voce dell’Eterno è sulle acque; il Dio di gloria tuona; l’Eterno è sulle grandi acque."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> powerful; the voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> full of majesty.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>ØµÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙÙÙ Ø¬ÙØ¯ÙØ§Ù. ØµÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙØ¶Ù Ø¨ÙØ§ÙÙØ¬ÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">4</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ã¿<ruby><rb>å£°</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ãããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ã¿<ruby><rb>å£°</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å¨å³</rb><rt>ããã</rt></ruby>ãããã",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Voz de JehovÃ¡ con poder;</span><span class=\"line\">voz de JehovÃ¡ con majestuosidad.</span>",
-      "por": "<span class=\"verse-number\">4</span> A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">Ã©</span> poderosa; a voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">Ã©</span> cheia de majestade.",
-      "fra": "<span class=\"verse-number\">4</span> La voix de lâÃternel est puissante, La voix de lâÃternel est majestueuse.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Der Donner des HErrn erschallt mit Macht,</span><span class=\"line\">der Donner des HErrn in seiner Pracht!</span>",
-      "kor": "<span class=\"verse-number\">4</span> ì¬í¸ìì ìë¦¬ê° í ììì´ì¬ ì¬í¸ìì ìë¦¬ê° ììì°¨ëë¤",
-      "ita": "<span class=\"verse-number\">4</span> La voce dellâEterno Ã¨ potente, la voce dellâEterno Ã¨ piena di maestÃ ."
+      "eng": "The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> powerful; the voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> full of majesty.",
+      "ara": "صَوْتُ الرَّبِّ قَوِيٌّ جِدّاً. صَوْتُ الرَّبِّ يَفِيضُ بِالْجَلالِ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>のみ<ruby>声<rt>こえ</rt></ruby>は<ruby>力<rt>ちから</rt></ruby>があり、<ruby>主<rt>しゅ</rt></ruby>のみ<ruby>声<rt>こえ</rt></ruby>は<ruby>威厳<rt>いげん</rt></ruby>がある。",
+      "spa": "<span class=\"line\">Voz de Jehová con poder;</span><span class=\"line\">voz de Jehová con majestuosidad.</span>",
+      "por": "A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">é</span> poderosa; a voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">é</span> cheia de majestade.",
+      "fra": "La voix de l’Éternel est puissante, La voix de l’Éternel est majestueuse.",
+      "deu": "<span class=\"line\">Der Donner des HErrn erschallt mit Macht,</span><span class=\"line\">der Donner des HErrn in seiner Pracht!</span>",
+      "kor": "여호와의 소리가 힘 있음이여 여호와의 소리가 위엄차도다",
+      "ita": "La voce dell’Eterno è potente, la voce dell’Eterno è piena di maestà."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> breaketh the cedars; yea, the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> breaketh the cedars of Lebanon.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ØµÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙØ³ÙÙØ±Ù Ø´ÙØ¬ÙØ±Ù Ø§ÙØ£ÙØ±ÙØ²Ù. ÙÙØ¹ÙÙÙØ Ø¥ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙØ³ÙÙØ±Ù Ø£ÙØ±ÙØ²Ù ÙÙØ¨ÙÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ã¿<ruby><rb>å£°</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>é¦æ</rb><rt>ããã¯ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>ç </rb><rt>ãã </rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã¬ããã³ã®<ruby><rb>é¦æ</rb><rt>ããã¯ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>ç </rb><rt>ãã </rt></ruby>ãããã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">Voz de JehovÃ¡ que quebranta los cedros;</span><span class=\"line\">sÃ­, JehovÃ¡ quebrantarÃ¡ los cedros del LÃ­bano.</span>",
-      "por": "<span class=\"verse-number\">5</span> A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> quebra os cedros; sim, o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> quebra os cedros do LÃ­bano.",
-      "fra": "<span class=\"verse-number\">5</span> La voix de lâÃternel brise les cÃ¨dresÂ ; LâÃternel brise les cÃ¨dres du Liban,",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Der Donner des HErrn zerschmettert die Zedern,</span><span class=\"line\">ja der HErr zersplittert die Zedern des Libanons</span>",
-      "kor": "<span class=\"verse-number\">5</span> ì¬í¸ìì ìë¦¬ê° ë°±í¥ëª©ì êº¾ì¼ì¬ì´ì¬ ì¬í¸ìê»ì ë ë°ë¼ ë°±í¥ëª©ì êº¾ì´ ë¶ììëë¤",
-      "ita": "<span class=\"verse-number\">5</span> La voce dellâEterno rompe i cedri; lâEterno spezza i cedri del Libano."
+      "eng": "The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> breaketh the cedars; yea, the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> breaketh the cedars of Lebanon.",
+      "ara": "صَوْتُ الرَّبِّ يُكَسِّرُ شَجَرَ الأَرْزِ. نَعَمْ، إِنَّ الرَّبَّ يُكَسِّرُ أَرْزَ لُبْنَانَ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>のみ<ruby>声<rt>こえ</rt></ruby>は<ruby>香柏<rt>こうはく</rt></ruby>を<ruby>折<rt>お</rt></ruby>り<ruby>砕<rt>くだ</rt></ruby>き、<ruby>主<rt>しゅ</rt></ruby>はレバノンの<ruby>香柏<rt>こうはく</rt></ruby>を<ruby>折<rt>お</rt></ruby>り<ruby>砕<rt>くだ</rt></ruby>かれる。",
+      "spa": "<span class=\"line\">Voz de Jehová que quebranta los cedros;</span><span class=\"line\">sí, Jehová quebrantará los cedros del Líbano.</span>",
+      "por": "A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> quebra os cedros; sim, o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> quebra os cedros do Líbano.",
+      "fra": "La voix de l’Éternel brise les cèdres ; L’Éternel brise les cèdres du Liban,",
+      "deu": "<span class=\"line\">Der Donner des HErrn zerschmettert die Zedern,</span><span class=\"line\">ja der HErr zersplittert die Zedern des Libanons</span>",
+      "kor": "여호와의 소리가 백향목을 꺾으심이여 여호와께서 레바논 백향목을 꺾어 부수시도다",
+      "ita": "La voce dell’Eterno rompe i cedri; l’Eterno spezza i cedri del Libano."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>He maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙÙÙØ¬ÙØ¹ÙÙÙ ÙÙØ¨ÙÙÙØ§ÙÙ ÙÙÙÙØ±ÙÙ ÙÙØ§ÙÙØ¹ÙØ¬ÙÙÙØ ÙÙØ¬ÙØ¨ÙÙÙ Ø­ÙØ±ÙÙÙÙÙÙ ÙÙÙÙÙÙØ²Ù ÙÙØ§ÙØ«ÙÙÙÙØ±Ù Ø§ÙÙÙÙØ­ÙØ´ÙÙÙÙ Ø§ÙÙÙÙØªÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã¬ããã³ã<ruby><rb>å­</rb><rt>ã</rt></ruby><ruby><rb>ç</rb><rt>ãã</rt></ruby>ã®ããã«<ruby><rb>è¸</rb><rt>ãã©</rt></ruby>ãããã·ãªãªã³ã<ruby><rb>è¥</rb><rt>ãã</rt></ruby>ã<ruby><rb>éç</rb><rt>ã®ãã</rt></ruby>ã®ããã«<ruby><rb>è¸</rb><rt>ãã©</rt></ruby>ããããã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Y los hace saltar como becerro;</span><span class=\"line\">al LÃ­bano y al SiriÃ³n, como crÃ­a de toros salvajes.</span>",
-      "por": "<span class=\"verse-number\">6</span> Ele os faz saltar como um bezerro; o LÃ­bano e o Siriom, como filhotes de touros selvagens.",
-      "fra": "<span class=\"verse-number\">6</span> Il les fait bondir comme des veaux, Et le Liban et le Sirion comme de jeunes buffles.",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">und lÃ¤Ãt sie hÃ¼pfen wie KÃ¤lbchen,</span><span class=\"line\">den Libanon und Sirjon (5. Mos. 3,9) wie junge BÃ¼ffel.</span>",
-      "kor": "<span class=\"verse-number\">6</span> ê·¸ ëë¬´ë¥¼ ì¡ìì§ ê°ì´ ë°ê² íì¬ì´ì¬ ë ë°ë¼ê³¼ ìë£ì¼ë¡ ë¤ì¡ìì§ ê°ì´ <span class=\"clarity-word\">ë°ê²</span> íìëë¤",
-      "ita": "<span class=\"verse-number\">6</span> Fa saltellare i monti come vitelli, il Libano e il Sirion come giovani bufali."
+      "eng": "He maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn.",
+      "ara": "فَيَجْعَلُ لُبْنَانَ يَفِرُّ كَالْعِجْلِ، وَجَبَلَ حَرْمُونَ يَقْفِزُ كَالثَّوْرِ الْوَحْشِيِّ الْفَتِيِّ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>はレバノンを<ruby>子<rt>こ</rt></ruby><ruby>牛<rt>うし</rt></ruby>のように<ruby>踊<rt>おど</rt></ruby>らせ、シリオンを<ruby>若<rt>わか</rt></ruby>い<ruby>野牛<rt>のうし</rt></ruby>のように<ruby>踊<rt>おど</rt></ruby>らされる。",
+      "spa": "<span class=\"line\">Y los hace saltar como becerro;</span><span class=\"line\">al Líbano y al Sirión, como cría de toros salvajes.</span>",
+      "por": "Ele os faz saltar como um bezerro; o Líbano e o Siriom, como filhotes de touros selvagens.",
+      "fra": "Il les fait bondir comme des veaux, Et le Liban et le Sirion comme de jeunes buffles.",
+      "deu": "<span class=\"line\">und läßt sie hüpfen wie Kälbchen,</span><span class=\"line\">den Libanon und Sirjon (5. Mos. 3,9) wie junge Büffel.</span>",
+      "kor": "그 나무를 송아지 같이 뛰게 하심이여 레바논과 시룐으로 들송아지 같이 <span class=\"clarity-word\">뛰게</span> 하시도다",
+      "ita": "Fa saltellare i monti come vitelli, il Libano e il Sirion come giovani bufali."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> divideth the flames of fire.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>ØµÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙØ¯ÙØ­Ù ÙÙÙÙÙØ¶Ù Ø¨ÙØ±ÙÙÙØ",
-      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ã¿<ruby><rb>å£°</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç</rb><rt>ã»ã®ã</rt></ruby>ãã²ããããã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Voz de JehovÃ¡ que lanza llamas de fuego.</span>",
-      "por": "<span class=\"verse-number\">7</span> A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> separa as labaredas do fogo.",
-      "fra": "<span class=\"verse-number\">7</span> La voix de lâÃternel fait jaillir des flammes de feu.",
-      "deu": "<span class=\"verse-number\">7Â </span>Der Donner des HErrn lÃ¤Ãt Feuerflammen sprÃ¼hn;",
-      "kor": "<span class=\"verse-number\">7</span> ì¬í¸ìì ìë¦¬ê° íì¼ì ê°ë¥´ìëë¤",
-      "ita": "<span class=\"verse-number\">7</span> La voce dellâEterno fa guizzare fiamme di fuoco."
+      "eng": "The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> divideth the flames of fire.",
+      "ara": "صَوْتُ الرَّبِّ يَقْدَحُ وَمِيضَ بَرْقٍ،",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>のみ<ruby>声<rt>こえ</rt></ruby>は<ruby>炎<rt>ほのお</rt></ruby>をひらめかす。",
+      "spa": "<span class=\"line\">Voz de Jehová que lanza llamas de fuego.</span>",
+      "por": "A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> separa as labaredas do fogo.",
+      "fra": "La voix de l’Éternel fait jaillir des flammes de feu.",
+      "deu": "Der Donner des HErrn läßt Feuerflammen sprühn;",
+      "kor": "여호와의 소리가 화염을 가르시도다",
+      "ita": "La voce dell’Eterno fa guizzare fiamme di fuoco."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> shaketh the wilderness; the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> shaketh the wilderness of Kadesh.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>ØµÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ²ÙÙÙØ²ÙÙÙ Ø§ÙÙØ¨ÙØ±ÙÙÙÙÙØ©ÙØ ÙÙÙÙØ²ÙÙÙØ²ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¨ÙØ±ÙÙÙÙÙØ©Ù ÙÙØ§Ø¯ÙØ´ÙØ",
-      "jpn": "<span class=\"verse-number\">8</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ã¿<ruby><rb>å£°</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>èé</rb><rt>ããã®</rt></ruby>ã<ruby><rb>é</rb><rt>ãµã</rt></ruby>ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã«ãã·ã®<ruby><rb>èé</rb><rt>ããã®</rt></ruby>ã<ruby><rb>é</rb><rt>ãµã</rt></ruby>ããããã",
-      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">Voz de JehovÃ¡ que hace temblar el desierto;</span><span class=\"line\">hace temblar JehovÃ¡ el desierto de Cades.</span>",
-      "por": "<span class=\"verse-number\">8</span> A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> faz tremer o deserto; o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> faz tremer o deserto de Cades.",
-      "fra": "<span class=\"verse-number\">8</span> La voix de lâÃternel fait trembler le dÃ©sertÂ ; LâÃternel fait trembler le dÃ©sert de KadÃ¨s.",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">der Donner des HErrn macht die WÃ¼ste erbeben,</span><span class=\"line\">der HErr macht erbeben die WÃ¼ste Kades (5. Mos. 1,19).</span>",
-      "kor": "<span class=\"verse-number\">8</span> ì¬í¸ìì ìë¦¬ê° ê´ì¼ë¥¼ ì§ëíì¬ì´ì¬ ì¬í¸ìê»ì ê°ë°ì¤ ê´ì¼ë¥¼ ì§ëìí¤ìëë¤",
-      "ita": "<span class=\"verse-number\">8</span> La voce dellâEterno fa tremare il deserto; lâEterno fa tremare il deserto di Cades."
+      "eng": "The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> shaketh the wilderness; the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> shaketh the wilderness of Kadesh.",
+      "ara": "صَوْتُ الرَّبِّ يُزَلْزِلُ الْبَرِّيَّةَ، وَيُزَلْزِلُ الرَّبُّ بَرِّيَّةَ قَادِشَ،",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>のみ<ruby>声<rt>こえ</rt></ruby>は<ruby>荒野<rt>あらの</rt></ruby>を<ruby>震<rt>ふる</rt></ruby>わせ、<ruby>主<rt>しゅ</rt></ruby>はカデシの<ruby>荒野<rt>あらの</rt></ruby>を<ruby>震<rt>ふる</rt></ruby>わされる。",
+      "spa": "<span class=\"line\">Voz de Jehová que hace temblar el desierto;</span><span class=\"line\">hace temblar Jehová el desierto de Cades.</span>",
+      "por": "A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> faz tremer o deserto; o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> faz tremer o deserto de Cades.",
+      "fra": "La voix de l’Éternel fait trembler le désert ; L’Éternel fait trembler le désert de Kadès.",
+      "deu": "<span class=\"line\">der Donner des HErrn macht die Wüste erbeben,</span><span class=\"line\">der HErr macht erbeben die Wüste Kades (5. Mos. 1,19).</span>",
+      "kor": "여호와의 소리가 광야를 진동하심이여 여호와께서 가데스 광야를 진동시키시도다",
+      "ita": "La voce dell’Eterno fa tremare il deserto; l’Eterno fa tremare il deserto di Cades."
     },
     "9": {
-      "eng": "<span class=\"verse-number\">9 </span>The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of <span class=\"clarity-word\">his</span> glory.",
-      "ara": "<span class=\"verse-number\">Ù© </span>ØµÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¬ÙØ¹ÙÙÙ Ø§ÙÙÙÙØ¹ÙÙÙÙ ØªÙÙÙØ¯Ù ÙÙØ¨ÙÙÙ Ø§ÙØ£ÙÙÙØ§ÙÙØ ÙÙÙÙØ­ÙÙÙÙÙÙ Ø§ÙÙØºÙØ§Ø¨ÙØ§ØªÙ Ø¥ÙÙÙÙ Ø¹ÙØ±ÙØ§Ø¡ÙØ ÙÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙ ÙÙÙÙØªÙÙÙ: ÙÙØ¬ÙØ¯Ø§Ù.",
-      "jpn": "<span class=\"verse-number\">9</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ã¿<ruby><rb>å£°</rb><rt>ãã</rt></ruby>ã¯ããã®<ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã<ruby><rb>å·»</rb><rt>ã¾</rt></ruby>ããããã¾ã<ruby><rb>æ</rb><rt>ã¯ãã</rt></ruby>ã<ruby><rb>è£¸</rb><rt>ã¯ã ã</rt></ruby>ã«ããããã®<ruby><rb>å®®</rb><rt>ã¿ã</rt></ruby>ã§ããã¹ã¦ã®ãã®ã¯<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã°ãã£ã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ããã<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ãã¨ã",
-      "spa": "<span class=\"verse-number\">9 </span><span class=\"line\">Voz de JehovÃ¡ que hace parir a las ciervas</span><span class=\"line\">y deja desnudos los bosques;</span><span class=\"line\">y en su templo todos proclaman su gloria.</span>",
-      "por": "<span class=\"verse-number\">9</span> A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> faz parir as <span class=\"page-break\" data-page=\"892\"></span>corÃ§as, e desnuda os bosques; e no seu templo tudo exclama: GlÃ³ria!",
-      "fra": "<span class=\"verse-number\">9</span> La voix de lâÃternel fait enfanter les biches, Elle dÃ©pouille les forÃªts. Dans son palais tout sâÃ©crieÂ : GloireÂ !",
-      "deu": "<span class=\"verse-number\">9Â </span><span class=\"line\">Der Donner des HErrn macht HirschkÃ¼he kreiÃen,</span><span class=\"line\">entÃ¤stet die WÃ¤lder,</span><span class=\"line\">und alles ruft in seinem Palast: âEhre!â</span>",
-      "kor": "<span class=\"verse-number\">9</span> ì¬í¸ìì ìë¦¬ê° ìì¬ì´ì ëííê² íìê³  ì¼ë¦¼ì ë§ê°ê² ë²ê¸°ìë ê·¸ì ì±ì ìì ê·¸ì ëª¨ë  ê²ë¤ì´ ë§íê¸°ë¥¼ ìê´ì´ë¼ íëë¤",
-      "ita": "<span class=\"verse-number\">9</span> La voce dellâEterno fa partorire le cerve e sfronda le selve. E nel suo tempio tutto esclama: âGloria!â."
+      "eng": "The voice of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of <span class=\"clarity-word\">his</span> glory.",
+      "ara": "صَوْتُ الرَّبِّ يَجْعَلُ الْوُعُولَ تَلِدُ قَبْلَ الأَوَانِ، وَيُحَوِّلُ الْغَابَاتِ إِلَى عَرَاءٍ، وَفِي هَيْكَلِهِ الْكُلُّ يَهْتِفُ: مَجْداً.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>のみ<ruby>声<rt>こえ</rt></ruby>はかしの<ruby>木<rt>き</rt></ruby>を<ruby>巻<rt>ま</rt></ruby>きあげ、また<ruby>林<rt>はやし</rt></ruby>を<ruby>裸<rt>はだか</rt></ruby>にする。その<ruby>宮<rt>みや</rt></ruby>で、すべてのものは<ruby>呼<rt>よ</rt></ruby>ばわって<ruby>言<rt>い</rt></ruby>う、「<ruby>栄光<rt>えいこう</rt></ruby>」と。",
+      "spa": "<span class=\"line\">Voz de Jehová que hace parir a las ciervas</span><span class=\"line\">y deja desnudos los bosques;</span><span class=\"line\">y en su templo todos proclaman su gloria.</span>",
+      "por": "A voz do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> faz parir as corças, e desnuda os bosques; e no seu templo tudo exclama: Glória!",
+      "fra": "La voix de l’Éternel fait enfanter les biches, Elle dépouille les forêts. Dans son palais tout s’écrie : Gloire !",
+      "deu": "<span class=\"line\">Der Donner des HErrn macht Hirschkühe kreißen,</span><span class=\"line\">entästet die Wälder,</span><span class=\"line\">und alles ruft in seinem Palast: „Ehre!”</span>",
+      "kor": "여호와의 소리가 암사슴을 낙태하게 하시고 삼림을 말갛게 벗기시니 그의 성전에서 그의 모든 것들이 말하기를 영광이라 하도다",
+      "ita": "La voce dell’Eterno fa partorire le cerve e sfronda le selve. E nel suo tempio tutto esclama: “Gloria!”."
     },
     "10": {
-      "eng": "<span class=\"verse-number\">10 </span>The <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> sitteth upon the flood; yea, the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> sitteth King for ever.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>Ø¬ÙÙÙØ³Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙØ§Ù ÙÙÙÙÙÙ Ø§ÙØ·ÙÙÙÙÙØ§ÙÙØ ÙÙÙÙØªÙØ±ÙØ¨ÙÙØ¹Ù Ø¹ÙÙÙÙ Ø¹ÙØ±ÙØ´ÙÙÙ Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯Ù.",
-      "jpn": "<span class=\"verse-number\">10</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯æ´ª<ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>åº§</rb><rt>ã</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã¿ããã«<ruby><rb>åº§</rb><rt>ã</rt></ruby>ãã¦ãã¨ãããã«<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã§ããããããã",
-      "spa": "<span class=\"verse-number\">10 </span><span class=\"line\">JehovÃ¡ reina en el diluvio,</span><span class=\"line\">y se sienta JehovÃ¡ como rey para siempre.</span>",
-      "por": "<span class=\"verse-number\">10</span> O <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> se assentou sobre o dilÃºvio; o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> se assenta como Rei, perpetuamente.",
-      "fra": "<span class=\"verse-number\">10</span> LâÃternel Ã©tait sur son trÃ´ne lors du dÃ©lugeÂ ; LâÃternel sur son trÃ´ne rÃ¨gne Ã©ternellement.",
-      "deu": "<span class=\"verse-number\">10Â </span><span class=\"line\">Der HErr hat Ã¼ber der Sintflut (einst) gethront,</span><span class=\"line\">und als KÃ¶nig thront der HErr in Ewigkeit.</span>",
-      "kor": "<span class=\"verse-number\">10</span> ì¬í¸ìê»ì íì ëì ì¢ì íì¨ìì´ì¬ ì¬í¸ìê»ì ììíëë¡ ìì¼ë¡ ì¢ì íìëë¤",
-      "ita": "<span class=\"verse-number\">10</span> LâEterno sedeva sovrano sul diluvio, anzi lâEterno siede re in perpetuo."
+      "eng": "The <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> sitteth upon the flood; yea, the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> sitteth King for ever.",
+      "ara": "جَلَسَ الرَّبُّ مَلِكاً فَوْقَ الطُّوفَانِ، وَيَتَرَبَّعُ عَلَى عَرْشِهِ إِلَى الأَبَدِ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>は洪<ruby>水<rt>みず</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>座<rt>ざ</rt></ruby>し、<ruby>主<rt>しゅ</rt></ruby>はみくらに<ruby>座<rt>ざ</rt></ruby>して、とこしえに<ruby>王<rt>おう</rt></ruby>であらせられる。",
+      "spa": "<span class=\"line\">Jehová reina en el diluvio,</span><span class=\"line\">y se sienta Jehová como rey para siempre.</span>",
+      "por": "O <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> se assentou sobre o dilúvio; o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> se assenta como Rei, perpetuamente.",
+      "fra": "L’Éternel était sur son trône lors du déluge ; L’Éternel sur son trône règne éternellement.",
+      "deu": "<span class=\"line\">Der HErr hat über der Sintflut (einst) gethront,</span><span class=\"line\">und als König thront der HErr in Ewigkeit.</span>",
+      "kor": "여호와께서 홍수 때에 좌정하셨음이여 여호와께서 영원하도록 왕으로 좌정하시도다",
+      "ita": "L’Eterno sedeva sovrano sul diluvio, anzi l’Eterno siede re in perpetuo."
     },
     "11": {
-      "eng": "<span class=\"verse-number\">11 </span>The <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> will give strength unto his people; the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> will bless his people with peace.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¹ÙØ·ÙÙ Ø´ÙØ¹ÙØ¨ÙÙÙ Ø¹ÙØ²ÙØ§Ù. Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¨ÙØ§Ø±ÙÙÙ Ø´ÙØ¹ÙØ¨ÙÙÙ Ø¨ÙØ§ÙØ³ÙÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">11</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ãã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å¹³å®</rb><rt>ã¸ããã</rt></ruby>ããã£ã¦ãã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ãããã§ãããã",
-      "spa": "<span class=\"verse-number\">11 </span><span class=\"line\">JehovÃ¡ darÃ¡ fortaleza a su pueblo;</span><span class=\"line\">JehovÃ¡ bendecirÃ¡ a su pueblo con paz.</span>",
-      "por": "<span class=\"verse-number\">11</span> O <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> darÃ¡ forÃ§a ao seu povo; o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> abenÃ§oarÃ¡ o seu povo com paz.",
-      "fra": "<span class=\"verse-number\">11</span> LâÃternel donne la force Ã  son peupleÂ ; LâÃternel bÃ©nit son peuple et le rend heureux.",
-      "deu": "<span class=\"verse-number\">11Â </span><span class=\"line\">Der HErr verleihe Kraft seinem Volk,</span><span class=\"line\">der HErr wolle segnen sein Volk mit Frieden (oder: Heil)!</span>",
-      "kor": "<span class=\"verse-number\">11</span> ì¬í¸ìê»ì ìê¸° ë°±ì±ìê² íì ì£¼ì¬ì´ì¬ ì¬í¸ìê»ì ìê¸° ë°±ì±ìê² íê°ì ë³µì ì£¼ìë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">11</span> LâEterno darÃ  forza al suo popolo; lâEterno benedirÃ  il suo popolo dandogli pace."
+      "eng": "The <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> will give strength unto his people; the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> will bless his people with peace.",
+      "ara": "الرَّبُّ يُعْطِي شَعْبَهُ عِزّاً. الرَّبُّ يُبَارِكُ شَعْبَهُ بِالسَّلامِ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>はその<ruby>民<rt>たみ</rt></ruby>に<ruby>力<rt>ちから</rt></ruby>を<ruby>与<rt>あた</rt></ruby>え、<ruby>平安<rt>へいあん</rt></ruby>をもってその<ruby>民<rt>たみ</rt></ruby>を<ruby>祝福<rt>しゅくふく</rt></ruby>されるであろう。",
+      "spa": "<span class=\"line\">Jehová dará fortaleza a su pueblo;</span><span class=\"line\">Jehová bendecirá a su pueblo con paz.</span>",
+      "por": "O <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> dará força ao seu povo; o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> abençoará o seu povo com paz.",
+      "fra": "L’Éternel donne la force à son peuple ; L’Éternel bénit son peuple et le rend heureux.",
+      "deu": "<span class=\"line\">Der HErr verleihe Kraft seinem Volk,</span><span class=\"line\">der HErr wolle segnen sein Volk mit Frieden (oder: Heil)!</span>",
+      "kor": "여호와께서 자기 백성에게 힘을 주심이여 여호와께서 자기 백성에게 평강의 복을 주시리로다",
+      "ita": "L’Eterno darà forza al suo popolo; l’Eterno benedirà il suo popolo dandogli pace."
     }
   }
 }

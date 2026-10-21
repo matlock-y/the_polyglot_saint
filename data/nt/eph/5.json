@@ -4,445 +4,445 @@
     "book": "eph",
     "chapter": 5,
     "headings": {
-      "eng": "The Saints are exhorted to avoid uncleanness and walk uprightlyâHusbands and wives should love each other.",
-      "zhs": "<u>ä¿ç½</u>ååå£å¾è¦é¿åä¸æ´å¹¶è¡äºæ­£ç´ââå¤«å¦»åºå½¼æ­¤ç¸ç±ã",
-      "zht": "<u>ä¿ç¾</u>å¸åèå¾è¦é¿åä¸æ½ä¸¦è¡äºæ­£ç´ââå¤«å¦»æå½¼æ­¤ç¸æã",
-      "spa": "Se exhorta a los santos a evitar el pecado y a andar rectamenteÂ â Marido y mujer deben amarse el uno al otro.",
-      "por": "Os santos sÃ£o exortados a evitar a impureza e a andar retamenteÂ â Marido e mulher devem amar um ao outro.",
-      "fra": "Les Saints sont invitÃ©s Ã  Ã©viter lâimpuretÃ© et Ã  marcher dans la droiture. Mari et femme doivent sâaimer lâun lâautre.",
-      "ita": "I santi sono esortati a evitare lâimpuritÃ  e a camminare rettamente â Mariti e mogli devono amarsi."
+      "eng": "The Saints are exhorted to avoid uncleanness and walk uprightly—Husbands and wives should love each other.",
+      "zhs": "<u><ruby>保<rt>bǎo</rt></ruby><ruby>罗<rt>luó</rt></ruby></u><ruby>劝<rt>quàn</rt></ruby><ruby>勉<rt>miǎn</rt></ruby><ruby>圣<rt>shèng</rt></ruby><ruby>徒<rt>tú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>避<rt>bì</rt></ruby><ruby>免<rt>miǎn</rt></ruby><ruby>不<rt>bù</rt></ruby><ruby>洁<rt>jié</rt></ruby><ruby>并<rt>bìng</rt></ruby><ruby>行<rt>xíng</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>正<rt>zhèng</rt></ruby><ruby>直<rt>zhí</rt></ruby>——<ruby>夫<rt>fū</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>应<rt>yīng</rt></ruby><ruby>彼<rt>bǐ</rt></ruby><ruby>此<rt>cǐ</rt></ruby><ruby>相<rt>xiāng</rt></ruby><ruby>爱<rt>ài</rt></ruby>。",
+      "zht": "<u><ruby>保<rt>bǎo</rt></ruby><ruby>羅<rt>luó</rt></ruby></u><ruby>勸<rt>quàn</rt></ruby><ruby>勉<rt>miǎn</rt></ruby><ruby>聖<rt>shèng</rt></ruby><ruby>徒<rt>tú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>避<rt>bì</rt></ruby><ruby>免<rt>miǎn</rt></ruby><ruby>不<rt>bù</rt></ruby><ruby>潔<rt>jié</rt></ruby><ruby>並<rt>bìng</rt></ruby><ruby>行<rt>xíng</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>正<rt>zhèng</rt></ruby><ruby>直<rt>zhí</rt></ruby>——<ruby>夫<rt>fū</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>應<rt>yīng</rt></ruby><ruby>彼<rt>bǐ</rt></ruby><ruby>此<rt>cǐ</rt></ruby><ruby>相<rt>xiāng</rt></ruby><ruby>愛<rt>ài</rt></ruby>。",
+      "spa": "Se exhorta a los santos a evitar el pecado y a andar rectamente — Marido y mujer deben amarse el uno al otro.",
+      "por": "Os santos são exortados a evitar a impureza e a andar retamente — Marido e mulher devem amar um ao outro.",
+      "fra": "Les Saints sont invités à éviter l’impureté et à marcher dans la droiture. Mari et femme doivent s’aimer l’un l’autre.",
+      "ita": "I santi sono esortati a evitare l’impurità e a camminare rettamente — Mariti e mogli devono amarsi."
     },
     "intros": {}
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>Be ye therefore followers of God, as dear children;",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ§ÙÙØªÙØ¯ÙÙØ§ Ø¥ÙØ°ÙÙÙ Ø¨ÙØ§ÙÙÙÙ°ÙÙ ÙÙØ£ÙÙÙÙØ§Ø¯Ù Ø£ÙØ­ÙØ¨ÙÙØ§Ø¡ÙØ",
-      "jpn": "<span class=\"verse-number\">1</span> ãããã¦ãããªãããã¯ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããã¦ãã<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ã¨ãã¦ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«ãªãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ãªããªããã",
-      "zhs": "<span class=\"verse-number\">1ã</span>æä»¥ï¼ä½ ä»¬è¯¥ææ³ç¥ï¼å¥½åèæç±çå¿å¥³ä¸æ ·ã",
-      "zht": "<span class=\"verse-number\">1ã</span>æä»¥ï¼ä½ åè©²ææ³ç¥ï¼å¥½åèææçåå¥³ä¸æ¨£ã",
-      "spa": "<span class=\"verse-number\">1</span> Sed, pues, imitadores de Dios como hijos amados.",
-      "por": "<span class=\"verse-number\">1</span> Sede, pois, imitadores de Deus, como filhos amados;",
-      "fra": "<span class=\"verse-number\">1 </span>Devenez donc les imitateurs de Dieu, comme des enfants bien-aimÃ©sÂ ;",
-      "deu": "<span class=\"verse-number\">1</span> Folgt also dem Vorbild Gottes nach als (von ihm) geliebte Kinder",
-      "kor": "<span class=\"verse-number\">1</span> ê·¸ë¬ë¯ë¡ ì¬ëì ë°ë ìë ê°ì´ ëí¬ë íëëì ë³¸ë°ë ìê° ëê³",
-      "ita": "<span class=\"verse-number\">1</span> Siate dunque imitatori di Dio, come suoi figli diletti;"
+      "eng": "Be ye therefore followers of God, as dear children;",
+      "ara": "فَاقْتَدُوا إِذَنْ بِاللّٰهِ كَأَوْلادٍ أَحِبَّاءَ،",
+      "jpn": "こうして、あなたがたは、<ruby>神<rt>かみ</rt></ruby>に<ruby>愛<rt>あい</rt></ruby>されている<ruby>子供<rt>こども</rt></ruby>として、<ruby>神<rt>かみ</rt></ruby>にならう<ruby>者<rt>もの</rt></ruby>になりなさい。",
+      "zhs": "<ruby>所<rt>suǒ</rt></ruby><ruby>以<rt>yǐ</rt></ruby>，<ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>该<rt>gāi</rt></ruby><ruby>效<rt>xiào</rt></ruby><ruby>法<rt>fǎ</rt></ruby><ruby>神<rt>shén</rt></ruby>，<ruby>好<rt>hǎo</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>蒙<rt>méng</rt></ruby><ruby>慈<rt>cí</rt></ruby><ruby>爱<rt>ài</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>儿<rt>ér</rt></ruby><ruby>女<rt>nǚ</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>样<rt>yàng</rt></ruby>。",
+      "zht": "<ruby>所<rt>suǒ</rt></ruby><ruby>以<rt>yǐ</rt></ruby>，<ruby>你<rt>nǐ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>該<rt>gāi</rt></ruby><ruby>效<rt>xiào</rt></ruby><ruby>法<rt>fǎ</rt></ruby><ruby>神<rt>shén</rt></ruby>，<ruby>好<rt>hǎo</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>蒙<rt>méng</rt></ruby><ruby>慈<rt>cí</rt></ruby><ruby>愛<rt>ài</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>兒<rt>ér</rt></ruby><ruby>女<rt>nǚ</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>樣<rt>yàng</rt></ruby>。",
+      "spa": "Sed, pues, imitadores de Dios como hijos amados.",
+      "por": "Sede, pois, imitadores de Deus, como filhos amados;",
+      "fra": "Devenez donc les imitateurs de Dieu, comme des enfants bien-aimés ;",
+      "deu": "Folgt also dem Vorbild Gottes nach als (von ihm) geliebte Kinder",
+      "kor": "ê·¸ë¬ë¯ë¡ ì¬ëì ë°ë ìë ê°ì´ ëí¬ë íëëì ë³¸ë°ë ìê° ëê³",
+      "ita": "Siate dunque imitatori di Dio, come suoi figli diletti;"
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØ§Ø³ÙÙÙÙÙÙØ§ ÙÙÙ Ø§ÙÙÙÙØ­ÙØ¨ÙÙØ©Ù Ø¹ÙÙÙÙ ÙÙØ«ÙØ§ÙÙ Ø§ÙÙÙÙØ³ÙÙØ­Ù Ø§ÙÙÙØ°ÙÙ Ø£ÙØ­ÙØ¨ÙÙÙÙØ§ ÙÙØ¨ÙØ°ÙÙÙ ÙÙÙÙØ³ÙÙÙ ÙØ£ÙØ¬ÙÙÙÙÙØ§ ØªÙÙÙØ¯ÙÙÙØ©Ù ÙÙØ°ÙØ¨ÙÙØ­ÙØ©Ù ÙÙÙÙÙ Ø·ÙÙÙÙØ¨ÙØ©Ù Ø§ÙØ±ÙÙØ§Ø¦ÙØ­ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">2</span> ã¾ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã®ãã¡ã<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ããªãããã­ãªã¹ããããªãããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>ä¸</rb><rt>ãã </rt></ruby>ãã£ã¦ãããããã¡ã®ããã«ãã<ruby><rb>èªèº«</rb><rt>ããã</rt></ruby>ãã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã¸ã®ããã°ãããããã®ããã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ãã¾ããããã«ãã¨ãã¦ããããããã®ã§ããã",
-      "zhs": "<span class=\"verse-number\">2ã</span>ä¹è¦å­ç±å¿è¡äºï¼æ­£å¦åºç£ç±æä»¬ï¼ä¸ºæä»¬èäºèªå·±ï¼å½ä½é¦¨é¦çä¾ç©åç¥­ç©ç®ä¸ç¥ã",
-      "zht": "<span class=\"verse-number\">2ã</span>ä¹è¦ææå¿è¡äºï¼æ­£å¦åºç£ææåï¼çºæåæ¨äºèªå·±ï¼ç¶ä½é¦¨é¦çä¾ç©åç¥­ç©ç»èç¥ã",
-      "spa": "<span class=\"verse-number\">2</span> Y andad en amor, como tambiÃ©n Cristo nos amÃ³, y se entregÃ³ a sÃ­ mismo por nosotros, ofrenda y sacrificio a Dios en olor grato.",
-      "por": "<span class=\"verse-number\">2</span> E andai em amor, como tambÃ©m Cristo nos amou, e se entregou a si mesmo por nÃ³s, em oferta e sacrifÃ­cio a Deus, em cheiro suave.",
-      "fra": "<span class=\"verse-number\">2 </span>et marchez dans la charitÃ©, Ã  lâexemple de Christ, qui nous a aimÃ©s et qui sâest livrÃ© lui-mÃªme Ã  Dieu pour nous comme une offrande et un sacrifice dâune odeur agrÃ©able.",
-      "deu": "<span class=\"verse-number\">2</span> und wandelt in der Liebe, wie auch Christus euch geliebt und sich selbst fÃ¼r uns als Weihegabe und Opfer dargebracht hat, Gott zu einem lieblichen Wohlgeruch.",
-      "kor": "<span class=\"verse-number\">2</span> ê·¸ë¦¬ì¤ëê»ì ëí¬ë¥¼ ì¬ëíì  ê² ê°ì´ ëí¬ë ì¬ë ê°ì´ë°ì ííë¼ ê·¸ë ì°ë¦¬ë¥¼ ìíì¬ ìì ì ë²ë¦¬ì¬ í¥ê¸°ë¡ì´ ì ë¬¼ê³¼ í¬ìì ë¬¼ë¡ íëëê» ëë¦¬ì¨ëëë¼",
-      "ita": "<span class=\"verse-number\">2</span> camminate nellâamore come anche Cristo vi ha amato e ha dato se stesso per noi in offerta e sacrificio a Dio, quale profumo di odore soave."
+      "eng": "And walk in love, as Christ also hath loved us, and hath given himself for us an offering and a sacrifice to God for a sweetsmelling savour.",
+      "ara": "وَاسْلُكُوا فِي الْمَحَبَّةِ عَلَى مِثَالِ الْمَسِيحِ الَّذِي أَحَبَّنَا وَبَذَلَ نَفْسَهُ لأَجْلِنَا تَقْدِمَةً وَذَبِيحَةً لِلهِ طَيِّبَةَ الرَّائِحَةِ.",
+      "jpn": "また<ruby>愛<rt>あい</rt></ruby>のうちを<ruby>歩<rt>ある</rt></ruby>きなさい。キリストもあなたがたを<ruby>愛<rt>あい</rt></ruby>して<ruby>下<rt>くだ</rt></ruby>さって、わたしたちのために、ご<ruby>自身<rt>じしん</rt></ruby>を、<ruby>神<rt>かみ</rt></ruby>へのかんばしいかおりのささげ<ruby>物<rt>もの</rt></ruby>、また、いけにえとしてささげられたのである。",
+      "zhs": "<ruby>也<rt>yě</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>凭<rt>píng</rt></ruby><ruby>爱<rt>ài</rt></ruby><ruby>心<rt>xīn</rt></ruby><ruby>行<rt>xíng</rt></ruby><ruby>事<rt>shì</rt></ruby>，<ruby>正<rt>zhèng</rt></ruby><ruby>如<rt>rú</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>爱<rt>ài</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>们<rt>men</rt></ruby>，<ruby>为<rt>wèi</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>舍<rt>shě</rt></ruby><ruby>了<rt>le</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby>，<ruby>当<rt>dàng</rt></ruby><ruby>作<rt>zuò</rt></ruby><ruby>馨<rt>xīn</rt></ruby><ruby>香<rt>xiāng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>供<rt>gōng</rt></ruby><ruby>物<rt>wù</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>祭<rt>jì</rt></ruby><ruby>物<rt>wù</rt></ruby><ruby>献<rt>xiàn</rt></ruby><ruby>与<rt>yǔ</rt></ruby><ruby>神<rt>shén</rt></ruby>。",
+      "zht": "<ruby>也<rt>yě</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>憑<rt>píng</rt></ruby><ruby>愛<rt>ài</rt></ruby><ruby>心<rt>xīn</rt></ruby><ruby>行<rt>xíng</rt></ruby><ruby>事<rt>shì</rt></ruby>，<ruby>正<rt>zhèng</rt></ruby><ruby>如<rt>rú</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>愛<rt>ài</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>們<rt>men</rt></ruby>，<ruby>為<rt>wèi</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>捨<rt>shě</rt></ruby><ruby>了<rt>le</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby>，<ruby>當<rt>dāng</rt></ruby><ruby>作<rt>zuò</rt></ruby><ruby>馨<rt>xīn</rt></ruby><ruby>香<rt>xiāng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>供<rt>gōng</rt></ruby><ruby>物<rt>wù</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>祭<rt>jì</rt></ruby><ruby>物<rt>wù</rt></ruby><ruby>獻<rt>xiàn</rt></ruby><ruby>與<rt>yǔ</rt></ruby><ruby>神<rt>shén</rt></ruby>。",
+      "spa": "Y andad en amor, como también Cristo nos amó, y se entregó a sí mismo por nosotros, ofrenda y sacrificio a Dios en olor grato.",
+      "por": "E andai em amor, como também Cristo nos amou, e se entregou a si mesmo por nós, em oferta e sacrifício a Deus, em cheiro suave.",
+      "fra": "et marchez dans la charité, à l’exemple de Christ, qui nous a aimés et qui s’est livré lui-même à Dieu pour nous comme une offrande et un sacrifice d’une odeur agréable.",
+      "deu": "und wandelt in der Liebe, wie auch Christus euch geliebt und sich selbst für uns als Weihegabe und Opfer dargebracht hat, Gott zu einem lieblichen Wohlgeruch.",
+      "kor": "그리스도께서 너희를 사랑하신 것 같이 너희도 사랑 가운데서 행하라 그는 우리를 위하여 자신을 버리사 향기로운 제물과 희생제물로 하나님께 드리셨느니라",
+      "ita": "camminate nell’amore come anche Cristo vi ha amato e ha dato se stesso per noi in offerta e sacrificio a Dio, quale profumo di odore soave."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;",
-      "ara": "<span class=\"verse-number\">Ù£ </span>Ø£ÙÙÙÙØ§ Ø§ÙØ²ÙÙÙÙÙØ ÙÙÙÙÙÙÙ ÙÙØ¬ÙØ§Ø³ÙØ©Ù Ø£ÙÙÙ Ø´ÙÙÙÙÙØ©Ù ÙÙÙÙÙÙØ©ÙØ ÙÙÙØ§ ÙÙØ°ÙÙÙØ±Ù Ø¨ÙÙÙÙÙÙÙÙÙ Ø­ÙØªÙÙÙ Ø§Ø³ÙÙÙÙÙØ§Ø ÙÙÙÙØ§ ÙÙÙÙÙÙÙ Ø¨ÙØ§ÙÙÙÙØ¯ÙÙÙØ³ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">3</span> ã¾ãã<ruby><rb>ä¸åè¡</rb><rt>ãµã²ããã</rt></ruby>ã¨ãããããª<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è²ªæ¬²</rb><rt>ã©ããã</rt></ruby>ãªã©ãã<ruby><rb>èå¾</rb><rt>ããã¨</rt></ruby>ã«ãµãããããããªãããã®<ruby><rb>é</rb><rt>ããã </rt></ruby>ã§ã¯ã<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã«ãããã¨ãããã¦ã¯ãªããªãã",
-      "zhs": "<span class=\"verse-number\">3ã</span>è³äºæ·«ä¹±å¹¶ä¸åæ±¡ç§½ï¼ææ¯è´ªå©ªï¼å¨ä½ ä»¬ä¸­é´è¿æé½ä¸å¯ï¼æ¹åå£å¾çä½ç»ã",
-      "zht": "<span class=\"verse-number\">3ã</span>è³æ¼æ·«äºä¸¦ä¸åæ±¡ç©¢ï¼ææ¯è²ªå©ªï¼å¨ä½ åä¸­éé£æé½ä¸å¯ï¼æ¹åèå¾çé«çµ±ã",
-      "spa": "<span class=\"verse-number\">3</span> Pero fornicaciÃ³n y toda impureza, o avaricia, ni aun se nombre entre vosotros, como conviene a los santos;",
-      "por": "<span class=\"verse-number\">3</span> Mas a fornicaÃ§Ã£o, e toda a imundÃ­cie ou avareza, nem sequer se mencione entre vÃ³s, como convÃ©m a santos;",
-      "fra": "<span class=\"verse-number\">3 </span>Que lâimmoralitÃ© sexuelle, quâaucune espÃ¨ce dâimpuretÃ©, et que la cupiditÃ© ne soient pas mÃªme nommÃ©es parmi vous, ainsi quâil convient Ã  des saints.",
-      "deu": "<span class=\"verse-number\">3</span> <span class=\"para-mark\">Â¶</span> Unzucht aber und Unsittlichkeit jeder Art oder Geldgier dÃ¼rfen bei euch nicht einmal mit Namen erwÃ¤hnt (oder: zum Gegenstand eurer GesprÃ¤che gemacht) werden, wie es sich fÃ¼r Heilige geziemt,",
-      "kor": "<span class=\"verse-number\">3</span> ìíê³¼ ì¨ê° ëë¬ì´ ê²ê³¼ íìì ëí¬ ì¤ìì ê·¸ ì´ë¦ì¡°ì°¨ë ë¶ë¥´ì§ ë§ë¼ ì´ë ì±ëìê² ë§ëí ë°ëë¼",
-      "ita": "<span class=\"verse-number\">3</span> Ma come si conviene a dei santi, nÃ© fornicazione, nÃ© alcuna impuritÃ , nÃ© avarizia sia neppure nominata fra voi;"
+      "eng": "But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;",
+      "ara": "أَمَّا الزِّنَى، وَكُلُّ نَجَاسَةٍ أَوْ شَهْوَةٍ نَهِمَةٍ، فَلا يُذْكَرْ بَيْنَكُمْ حَتَّى اسْمُهَا، كَمَا يَلِيقُ بِالْقِدِّيسِينَ.",
+      "jpn": "また、<ruby>不品行<rt>ふひんこう</rt></ruby>といろいろな<ruby>汚<rt>けが</rt></ruby>れや<ruby>貪欲<rt>どんよく</rt></ruby>などを、<ruby>聖徒<rt>せいと</rt></ruby>にふさわしく、あなたがたの<ruby>間<rt>あいだ</rt></ruby>では、<ruby>口<rt>くち</rt></ruby>にすることさえしてはならない。",
+      "zhs": "<ruby>至<rt>zhì</rt></ruby><ruby>于<rt>yú</rt></ruby><ruby>淫<rt>yín</rt></ruby><ruby>乱<rt>luàn</rt></ruby><ruby>并<rt>bìng</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>切<rt>qiè</rt></ruby><ruby>污<rt>wū</rt></ruby><ruby>秽<rt>huì</rt></ruby>，<ruby>或<rt>huò</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>贪<rt>tān</rt></ruby><ruby>婪<rt>lán</rt></ruby>，<ruby>在<rt>zài</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>中<rt>zhōng</rt></ruby><ruby>间<rt>jiān</rt></ruby><ruby>连<rt>lián</rt></ruby><ruby>提<rt>tí</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>不<rt>bù</rt></ruby><ruby>可<rt>kě</rt></ruby>，<ruby>方<rt>fāng</rt></ruby><ruby>合<rt>hé</rt></ruby><ruby>圣<rt>shèng</rt></ruby><ruby>徒<rt>tú</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>体<rt>tǐ</rt></ruby><ruby>统<rt>tǒng</rt></ruby>。",
+      "zht": "<ruby>至<rt>zhì</rt></ruby><ruby>於<rt>yú</rt></ruby><ruby>淫<rt>yín</rt></ruby><ruby>亂<rt>luàn</rt></ruby><ruby>並<rt>bìng</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>切<rt>qiè</rt></ruby><ruby>污<rt>wū</rt></ruby><ruby>穢<rt>huì</rt></ruby>，<ruby>或<rt>huò</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>貪<rt>tān</rt></ruby><ruby>婪<rt>lán</rt></ruby>，<ruby>在<rt>zài</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>中<rt>zhōng</rt></ruby><ruby>間<rt>jiān</rt></ruby><ruby>連<rt>lián</rt></ruby><ruby>提<rt>tí</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>不<rt>bù</rt></ruby><ruby>可<rt>kě</rt></ruby>，<ruby>方<rt>fāng</rt></ruby><ruby>合<rt>hé</rt></ruby><ruby>聖<rt>shèng</rt></ruby><ruby>徒<rt>tú</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>體<rt>tǐ</rt></ruby><ruby>統<rt>tǒng</rt></ruby>。",
+      "spa": "Pero fornicación y toda impureza, o avaricia, ni aun se nombre entre vosotros, como conviene a los santos;",
+      "por": "Mas a fornicação, e toda a imundície ou avareza, nem sequer se mencione entre vós, como convém a santos;",
+      "fra": "Que l’immoralité sexuelle, qu’aucune espèce d’impureté, et que la cupidité ne soient pas même nommées parmi vous, ainsi qu’il convient à des saints.",
+      "deu": "<span class=\"para-mark\">¶</span> Unzucht aber und Unsittlichkeit jeder Art oder Geldgier dürfen bei euch nicht einmal mit Namen erwähnt (oder: zum Gegenstand eurer Gespräche gemacht) werden, wie es sich für Heilige geziemt,",
+      "kor": "음행과 온갖 더러운 것과 탐욕은 너희 중에서 그 이름조차도 부르지 말라 이는 성도에게 마땅한 바니라",
+      "ita": "Ma come si conviene a dei santi, né fornicazione, né alcuna impurità, né avarizia sia neppure nominata fra voi;"
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙÙØ°ÙÙÙÙÙ Ø§ÙÙØ¨ÙØ°ÙØ§Ø¡ÙØ©Ù ÙÙØ§ÙÙÙÙÙØ§ÙÙ Ø§ÙØ³ÙÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙØ²ÙÙÙØ ÙÙÙÙÙÙ ØºÙÙÙØ±Ù ÙØ§Ø¦ÙÙÙØ©Ù. ÙÙØ¥ÙÙÙÙÙÙØ§ Ø£ÙØ­ÙØ±ÙÙ Ø¨ÙÙÙÙÙ Ø£ÙÙÙ ØªÙÙÙÙÙØ¬ÙÙØ§ Ø¨ÙØ§ÙØ´ÙÙÙÙØ±Ù ÙÙÙÙÙ!",
-      "jpn": "<span class=\"verse-number\">4</span> ã¾ãã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è¨è</rb><rt>ãã¨ã°</rt></ruby>ã¨<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããª<ruby><rb>è©±</rb><rt>ã¯ãªã</rt></ruby>ãã¿ã ããª<ruby><rb>åè«</rb><rt>ãããã ã</rt></ruby>ã<ruby><rb>é¿</rb><rt>ã</rt></ruby>ããªããããããã¯ããããããªã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã§ãããããããã¯ãããã<ruby><rb>æè¬</rb><rt>ãããã</rt></ruby>ãããããªããã",
-      "zhs": "<span class=\"verse-number\">4ã</span>æ·«è¯ãå¦è¯­åæç¬çè¯é½ä¸ç¸å®ï¼æ»è¦è¯´æè°¢çè¯ã",
-      "zht": "<span class=\"verse-number\">4ã</span>æ·«è©ãå¦èªåæ²ç¬çè©±é½ä¸ç¸å®ï¼ç¸½è¦èªªæè¬çè©±ã",
-      "spa": "<span class=\"verse-number\">4</span> ni palabras indecentes, ni necedades, ni relatos groseros, que no convienen; sino antes bien acciones de gracias.",
-      "por": "<span class=\"verse-number\">4</span> Nem torpezas, nem conversas tolas, nem gracejos indecentes, que nÃ£o convÃªm; mas antes, aÃ§Ãµes de graÃ§as.",
-      "fra": "<span class=\"verse-number\">4 </span>Quâon nâentende ni paroles obcÃ¨nes, ni propos insensÃ©s, ni plaisanteries douteuses, choses qui sont contraires Ã  la biensÃ©anceÂ ; quâon entende plutÃ´t des actions de grÃ¢ces.",
-      "deu": "<span class=\"verse-number\">4</span> ebensowenig unanstÃ¤ndiges Wesen und fades GeschwÃ¤tz oder leichtfertige Witze, die sich fÃ¼r euch nicht schicken wÃ¼rden, statt dessen vielmehr Danksagung.",
-      "kor": "<span class=\"verse-number\">4</span> ëì¶í¨ê³¼ ì´ë¦¬ìì ë§ì´ë í¬ë¡±ì ë§ì´ ë§ëì¹ ìëíë ì¤íë ¤ ê°ì¬íë <span class=\"clarity-word\">ë§ì íë¼</span>",
-      "ita": "<span class=\"verse-number\">4</span> nÃ© oscenitÃ , nÃ© buffonerie, nÃ© scurrilitÃ , che sono cose sconvenienti, ma piuttosto rendimento di grazie."
+      "eng": "Neither filthiness, nor foolish talking, nor jesting, which are not convenient: but rather giving of thanks.",
+      "ara": "وَكَذَلِكَ الْبَذَاءَةُ وَالْكَلامُ السَّفِيهُ وَالْهَزْلُ، فَهِيَ غَيْرُ لائِقَةٍ. وَإِنَّمَا أَحْرَى بِكُمْ أَنْ تَلْهَجُوا بِالشُّكْرِ لِلهِ!",
+      "jpn": "また、<ruby>卑<rt>いや</rt></ruby>しい<ruby>言葉<rt>ことば</rt></ruby>と<ruby>愚<rt>おろ</rt></ruby>かな<ruby>話<rt>はなし</rt></ruby>やみだらな<ruby>冗談<rt>じょうだん</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けなさい。これらは、よろしくない<ruby>事<rt>こと</rt></ruby>である。それよりは、むしろ<ruby>感謝<rt>かんしゃ</rt></ruby>をささげなさい。",
+      "zhs": "<ruby>淫<rt>yín</rt></ruby><ruby>词<rt>cí</rt></ruby>、<ruby>妄<rt>wàng</rt></ruby><ruby>语<rt>yǔ</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>戏<rt>xì</rt></ruby><ruby>笑<rt>xiào</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>话<rt>huà</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>不<rt>bù</rt></ruby><ruby>相<rt>xiāng</rt></ruby><ruby>宜<rt>yí</rt></ruby>；<ruby>总<rt>zǒng</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>说<rt>shuō</rt></ruby><ruby>感<rt>gǎn</rt></ruby><ruby>谢<rt>xiè</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>话<rt>huà</rt></ruby>。",
+      "zht": "<ruby>淫<rt>yín</rt></ruby><ruby>詞<rt>cí</rt></ruby>、<ruby>妄<rt>wàng</rt></ruby><ruby>語<rt>yǔ</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>戲<rt>xì</rt></ruby><ruby>笑<rt>xiào</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>話<rt>huà</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>不<rt>bù</rt></ruby><ruby>相<rt>xiāng</rt></ruby><ruby>宜<rt>yí</rt></ruby>；<ruby>總<rt>zǒng</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>說<rt>shuō</rt></ruby><ruby>感<rt>gǎn</rt></ruby><ruby>謝<rt>xiè</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>話<rt>huà</rt></ruby>。",
+      "spa": "ni palabras indecentes, ni necedades, ni relatos groseros, que no convienen; sino antes bien acciones de gracias.",
+      "por": "Nem torpezas, nem conversas tolas, nem gracejos indecentes, que não convêm; mas antes, ações de graças.",
+      "fra": "Qu’on n’entende ni paroles obcènes, ni propos insensés, ni plaisanteries douteuses, choses qui sont contraires à la bienséance ; qu’on entende plutôt des actions de grâces.",
+      "deu": "ebensowenig unanständiges Wesen und fades Geschwätz oder leichtfertige Witze, die sich für euch nicht schicken würden, statt dessen vielmehr Danksagung.",
+      "kor": "누추함과 어리석은 말이나 희롱의 말이 마땅치 아니하니 오히려 감사하는 <span class=\"clarity-word\">말을 하라</span>",
+      "ita": "né oscenità, né buffonerie, né scurrilità, che sono cose sconvenienti, ma piuttosto rendimento di grazie."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ¥ÙÙÙÙÙÙÙÙ ØªÙØ¹ÙÙÙÙÙÙÙÙ ÙÙØ°ÙØ§ Ø¬ÙÙÙÙØ¯Ø§Ù: Ø£ÙÙÙÙ ÙÙÙÙÙ Ø²ÙØ§ÙÙ Ø£ÙÙÙ ÙÙØ¬ÙØ³Ù Ø£ÙÙÙ ØµÙØ§Ø­ÙØ¨Ù Ø´ÙÙÙÙÙØ©Ù ÙÙÙÙÙÙØ©ÙØ ÙÙØ§ ÙÙÙÙ Ø¥ÙÙÙØ§ Ø¹ÙØ§Ø¨ÙØ¯Ù Ø£ÙØµÙÙÙØ§ÙÙ ÙÙÙÙØ³Ù ÙÙÙÙ ÙÙÙØ±ÙØ§Ø«Ù ÙÙÙ ÙÙÙÙÙÙÙØªÙ Ø§ÙÙÙÙØ³ÙÙØ­Ù ÙÙØ§ÙÙÙÙ°ÙÙ.",
-      "jpn": "<span class=\"verse-number\">5</span> ããªãããã¯ããã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã£ã¦ããã­ã°ãªããªãããã¹ã¦<ruby><rb>ä¸åè¡</rb><rt>ãµã²ããã</rt></ruby>ãª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãããã¨ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>è²ªæ¬²</rb><rt>ã©ããã</rt></ruby>ãª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããªãã¡ã<ruby><rb>å¶å</rb><rt>ãããã</rt></ruby>ã<ruby><rb>ç¤¼æ</rb><rt>ããã¯ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ãã­ãªã¹ãã¨<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã¨ã®<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ãã¤ããã¨ãã§ããªãã",
-      "zhs": "<span class=\"verse-number\">5ã</span>å ä¸ºä½ ä»¬ç¡®å®å°ç¥éï¼æ è®ºæ¯æ·«ä¹±çï¼æ¯æ±¡ç§½çï¼æ¯æè´ªå¿çï¼å¨åºç£åç¥çå½éé½æ¯æ åçãæè´ªå¿çï¼å°±ä¸æå¶åçä¸æ ·ã",
-      "zht": "<span class=\"verse-number\">5ã</span>å çºä½ åç¢ºå¯¦å°ç¥éï¼ç¡è«æ¯æ·«äºçï¼æ¯æ±¡ç©¢çï¼æ¯æè²ªå¿çï¼å¨åºç£åç¥çåè£¡é½æ¯ç¡åçãæè²ªå¿çï¼å°±èæå¶åçä¸æ¨£ã",
-      "spa": "<span class=\"verse-number\">5</span> Porque sabÃ©is esto, que ningÃºn fornicario, o impuro, o avaro, que es idÃ³latra, tiene herencia en el reino de Cristo y de Dios.",
-      "por": "<span class=\"verse-number\">5</span> Porque bem sabeis isto: que nenhum fornicador, ou imundo, ou avarento, que Ã© idÃ³latra, tem heranÃ§a no reino de Cristo e de Deus.",
-      "fra": "<span class=\"verse-number\">5 </span>Car, sachez-le bien, aucune personne immorale, ou impure, ou cupide, câest-Ã -dire idolÃ¢tre, nâa dâhÃ©ritage dans le royaume de Christ et de Dieu.",
-      "deu": "<span class=\"verse-number\">5</span> Denn das wiÃt und erkennt ihr wohl, daÃ kein UnzÃ¼chtiger und Unsittlicher, kein Geldgieriger â das ist gleichbedeutend mit GÃ¶tzendiener â ein Erbteil (oder: Erbrecht) im Reiche Christi und Gottes hat.",
-      "kor": "<span class=\"verse-number\">5</span> ëí¬ë ì ë ì´ê²ì ìê±°ëì ìííë ìë ëë¬ì´ ìë ííë ì ê³§ ì°ì ì­ë°°ìë ë¤ ê·¸ë¦¬ì¤ëì íëëì ëë¼ìì ê¸°ìì ì»ì§ ëª»íë¦¬ë",
-      "ita": "<span class=\"verse-number\">5</span> PoichÃ© voi sapete molto bene che nessun fornicatore o impuro, o avaro (che Ã¨ un idolatra), ha ereditÃ  nel regno di Cristo e di Dio."
+      "eng": "For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.",
+      "ara": "فَإِنَّكُمْ تَعْلَمُونَ هَذَا جَيِّداً: أَنَّ كُلَّ زَانٍ أَوْ نَجِسٍ أَوْ صَاحِبِ شَهْوَةٍ نَهِمَةٍ، مَا هُوَ إِلّا عَابِدُ أَصْنَامٍ لَيْسَ لَهُ مِيرَاثٌ فِي مَلَكُوتِ الْمَسِيحِ وَاللّٰهِ.",
+      "jpn": "あなたがたは、よく<ruby>知<rt>し</rt></ruby>っておかねばならない。すべて<ruby>不品行<rt>ふひんこう</rt></ruby>な<ruby>者<rt>もの</rt></ruby>、<ruby>汚<rt>けが</rt></ruby>れたことをする<ruby>者<rt>もの</rt></ruby>、<ruby>貪欲<rt>どんよく</rt></ruby>な<ruby>者<rt>もの</rt></ruby>、すなわち、<ruby>偶像<rt>ぐうぞう</rt></ruby>を<ruby>礼拝<rt>れいはい</rt></ruby>する<ruby>者<rt>もの</rt></ruby>は、キリストと<ruby>神<rt>かみ</rt></ruby>との<ruby>国<rt>くに</rt></ruby>をつぐことができない。",
+      "zhs": "<ruby>因<rt>yīn</rt></ruby><ruby>为<rt>wèi</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>确<rt>què</rt></ruby><ruby>实<rt>shí</rt></ruby><ruby>地<rt>dì</rt></ruby><ruby>知<rt>zhī</rt></ruby><ruby>道<rt>dào</rt></ruby>，<ruby>无<rt>wú</rt></ruby><ruby>论<rt>lùn</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>淫<rt>yín</rt></ruby><ruby>乱<rt>luàn</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>是<rt>shì</rt></ruby><ruby>污<rt>wū</rt></ruby><ruby>秽<rt>huì</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>是<rt>shì</rt></ruby><ruby>有<rt>yǒu</rt></ruby><ruby>贪<rt>tān</rt></ruby><ruby>心<rt>xīn</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>在<rt>zài</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>神<rt>shén</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>国<rt>guó</rt></ruby><ruby>里<rt>lǐ</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>无<rt>wú</rt></ruby><ruby>分<rt>fēn</rt></ruby><ruby>的<rt>de</rt></ruby>。<ruby>有<rt>yǒu</rt></ruby><ruby>贪<rt>tān</rt></ruby><ruby>心<rt>xīn</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>就<rt>jiù</rt></ruby><ruby>与<rt>yǔ</rt></ruby><ruby>拜<rt>bài</rt></ruby><ruby>偶<rt>ǒu</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>样<rt>yàng</rt></ruby>。",
+      "zht": "<ruby>因<rt>yīn</rt></ruby><ruby>為<rt>wèi</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>確<rt>què</rt></ruby><ruby>實<rt>shí</rt></ruby><ruby>地<rt>dì</rt></ruby><ruby>知<rt>zhī</rt></ruby><ruby>道<rt>dào</rt></ruby>，<ruby>無<rt>wú</rt></ruby><ruby>論<rt>lùn</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>淫<rt>yín</rt></ruby><ruby>亂<rt>luàn</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>是<rt>shì</rt></ruby><ruby>污<rt>wū</rt></ruby><ruby>穢<rt>huì</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>是<rt>shì</rt></ruby><ruby>有<rt>yǒu</rt></ruby><ruby>貪<rt>tān</rt></ruby><ruby>心<rt>xīn</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>在<rt>zài</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>神<rt>shén</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>國<rt>guó</rt></ruby><ruby>裡<rt>lǐ</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>無<rt>wú</rt></ruby><ruby>分<rt>fēn</rt></ruby><ruby>的<rt>de</rt></ruby>。<ruby>有<rt>yǒu</rt></ruby><ruby>貪<rt>tān</rt></ruby><ruby>心<rt>xīn</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>就<rt>jiù</rt></ruby><ruby>與<rt>yǔ</rt></ruby><ruby>拜<rt>bài</rt></ruby><ruby>偶<rt>ǒu</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>樣<rt>yàng</rt></ruby>。",
+      "spa": "Porque sabéis esto, que ningún fornicario, o impuro, o avaro, que es idólatra, tiene herencia en el reino de Cristo y de Dios.",
+      "por": "Porque bem sabeis isto: que nenhum fornicador, ou imundo, ou avarento, que é idólatra, tem herança no reino de Cristo e de Deus.",
+      "fra": "Car, sachez-le bien, aucune personne immorale, ou impure, ou cupide, c’est-à-dire idolâtre, n’a d’héritage dans le royaume de Christ et de Dieu.",
+      "deu": "Denn das wißt und erkennt ihr wohl, daß kein Unzüchtiger und Unsittlicher, kein Geldgieriger — das ist gleichbedeutend mit Götzendiener — ein Erbteil (oder: Erbrecht) im Reiche Christi und Gottes hat.",
+      "kor": "너희도 정녕 이것을 알거니와 음행하는 자나 더러운 자나 탐하는 자 곧 우상 숭배자는 다 그리스도와 하나님의 나라에서 기업을 얻지 못하리니",
+      "ita": "Poiché voi sapete molto bene che nessun fornicatore o impuro, o avaro (che è un idolatra), ha eredità nel regno di Cristo e di Dio."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ§ ÙÙØ®ÙØ¯ÙØ¹ÙÙÙÙÙ Ø£ÙØ­ÙØ¯Ù Ø¨ÙÙÙÙØ§ÙÙ Ø¨ÙØ§Ø·ÙÙÙ! ÙÙØ¨ÙØ³ÙØ¨ÙØ¨Ù ÙÙØ°ÙÙÙ Ø§ÙØ£ÙÙÙÙØ±Ù ÙÙØ­ÙÙÙÙ ØºÙØ¶ÙØ¨Ù Ø§ÙÙÙÙ°ÙÙ Ø¹ÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø§ÙÙØ¹ÙØµÙÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">6</span> ããªãããã¯ãã ãã«ã<ruby><rb>ä¸èª å®</rb><rt>ãµãããã¤</rt></ruby>ãª<ruby><rb>è¨è</rb><rt>ãã¨ã°</rt></ruby>ã§ã ã¾ããã¦ã¯ãããªãããããã®ãã¨ããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>ä¸</rb><rt>ãµ</rt></ruby><ruby><rb>å¾é </rb><rt>ãããããã</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã«<ruby><rb>ä¸</rb><rt>ãã </rt></ruby>ãã®ã§ããã",
-      "zhs": "<span class=\"verse-number\">6ã</span>ä¸è¦è¢«äººèæµ®çè¯æ¬ºåï¼å è¿äºäºï¼ç¥çå¿¿æå¿ä¸´å°é£æéä¹å­ã",
-      "zht": "<span class=\"verse-number\">6ã</span>ä¸è¦è¢«äººèæµ®çè©±æ¬ºåï¼å éäºäºï¼ç¥çå¿¿æå¿è¨å°é£æéä¹å­ã",
-      "spa": "<span class=\"verse-number\">6</span> Nadie os engaÃ±e con palabras vanas, porque por estas cosas <span class=\"page-break\" data-page=\"1868\"></span>viene la ira de Dios sobre los hijos de la desobediencia.",
-      "por": "<span class=\"verse-number\">6</span> NinguÃ©m vos engane com palavras vÃ£s, porque por essas <span class=\"clarity-word\">coisas</span> vem a ira de Deus sobre os filhos da desobediÃªncia.",
-      "fra": "<span class=\"verse-number\">6 </span>Que personne ne vous sÃ©duise par de vains discoursÂ ; car câest Ã  cause de ces choses que la colÃ¨re de Dieu vient sur les fils de la rÃ©bellion.",
-      "deu": "<span class=\"verse-number\">6</span> <span class=\"para-mark\">Â¶</span> LaÃt euch von niemand durch leere Worte betrÃ¼gen; denn um solcher Dinge (= SÃ¼nden) willen kommt Gottes Zorn (oder: Strafgericht) Ã¼ber die Ungehorsamen.",
-      "kor": "<span class=\"verse-number\">6</span> ëêµ¬ë ì§ íë ë§ë¡ ëí¬ë¥¼ ìì´ì§ ëª»íê² íë¼ ì´ë¡ ë§ë¯¸ìì íëëì ì§ë¸ê° ë¶ìì¢ì ìë¤ë¤ìê² ìíëë",
-      "ita": "<span class=\"verse-number\">6</span> Nessuno vi seduca con vani ragionamenti, poichÃ© Ã¨ per queste cose che lâira di Dio viene sugli uomini ribelli."
+      "eng": "Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience.",
+      "ara": "لَا يَخْدَعْكُمْ أَحَدٌ بِكَلامٍ بَاطِلٍ! فَبِسَبَبِ هَذِهِ الأُمُورِ يَحِلُّ غَضَبُ اللّٰهِ عَلَى أَبْنَاءِ الْعِصْيَانِ.",
+      "jpn": "あなたがたは、だれにも<ruby>不誠実<rt>ふせいじつ</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>でだまされてはいけない。これらのことから、<ruby>神<rt>かみ</rt></ruby>の<ruby>怒<rt>いか</rt></ruby>りは<ruby>不<rt>ふ</rt></ruby><ruby>従順<rt>じゅうじゅん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>らに<ruby>下<rt>くだ</rt></ruby>るのである。",
+      "zhs": "<ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>被<rt>bèi</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>虚<rt>xū</rt></ruby><ruby>浮<rt>fú</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>话<rt>huà</rt></ruby><ruby>欺<rt>qī</rt></ruby><ruby>哄<rt>hǒng</rt></ruby>；<ruby>因<rt>yīn</rt></ruby><ruby>这<rt>zhè</rt></ruby><ruby>些<rt>xiē</rt></ruby><ruby>事<rt>shì</rt></ruby>，<ruby>神<rt>shén</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>忿<rt>fèn</rt></ruby><ruby>怒<rt>nù</rt></ruby><ruby>必<rt>bì</rt></ruby><ruby>临<rt>lín</rt></ruby><ruby>到<rt>dào</rt></ruby><ruby>那<rt>nà</rt></ruby><ruby>悖<rt>bèi</rt></ruby><ruby>逆<rt>nì</rt></ruby><ruby>之<rt>zhī</rt></ruby><ruby>子<rt>zi</rt></ruby>。",
+      "zht": "<ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>被<rt>bèi</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>虛<rt>xū</rt></ruby><ruby>浮<rt>fú</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>話<rt>huà</rt></ruby><ruby>欺<rt>qī</rt></ruby><ruby>哄<rt>hǒng</rt></ruby>；<ruby>因<rt>yīn</rt></ruby><ruby>這<rt>zhè</rt></ruby><ruby>些<rt>xiē</rt></ruby><ruby>事<rt>shì</rt></ruby>，<ruby>神<rt>shén</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>忿<rt>fèn</rt></ruby><ruby>怒<rt>nù</rt></ruby><ruby>必<rt>bì</rt></ruby><ruby>臨<rt>lín</rt></ruby><ruby>到<rt>dào</rt></ruby><ruby>那<rt>nà</rt></ruby><ruby>悖<rt>bèi</rt></ruby><ruby>逆<rt>nì</rt></ruby><ruby>之<rt>zhī</rt></ruby><ruby>子<rt>zi</rt></ruby>。",
+      "spa": "Nadie os engañe con palabras vanas, porque por estas cosas viene la ira de Dios sobre los hijos de la desobediencia.",
+      "por": "Ninguém vos engane com palavras vãs, porque por essas <span class=\"clarity-word\">coisas</span> vem a ira de Deus sobre os filhos da desobediência.",
+      "fra": "Que personne ne vous séduise par de vains discours ; car c’est à cause de ces choses que la colère de Dieu vient sur les fils de la rébellion.",
+      "deu": "<span class=\"para-mark\">¶</span> Laßt euch von niemand durch leere Worte betrügen; denn um solcher Dinge (= Sünden) willen kommt Gottes Zorn (oder: Strafgericht) über die Ungehorsamen.",
+      "kor": "누구든지 헛된 말로 너희를 속이지 못하게 하라 이로 말미암아 하나님의 진노가 불순종의 아들들에게 임하나니",
+      "ita": "Nessuno vi seduca con vani ragionamenti, poiché è per queste cose che l’ira di Dio viene sugli uomini ribelli."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>Be not ye therefore partakers with them.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>Ø¥ÙØ°ÙÙÙØ ÙÙØ§ ØªÙÙÙÙÙÙÙØ§ Ø´ÙØ±ÙÙÙØ§Ø¡Ù ÙÙÙÙÙÙ:",
-      "jpn": "<span class=\"verse-number\">7</span> ã ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>ä»²é</rb><rt>ãªãã¾</rt></ruby>ã«ãªã£ã¦ã¯ãããªãã",
-      "zhs": "<span class=\"verse-number\">7ã</span>æä»¥ï¼ä½ ä»¬ä¸è¦ä¸ä»ä»¬åä¼ã",
-      "zht": "<span class=\"verse-number\">7ã</span>æä»¥ï¼ä½ åä¸è¦èä»ååå¤¥ã",
-      "spa": "<span class=\"verse-number\">7</span> No seÃ¡is, pues, partÃ­cipes con ellos,",
-      "por": "<span class=\"verse-number\">7</span> Portanto, nÃ£o sejais participantes com eles.",
-      "fra": "<span class=\"verse-number\">7 </span>Nâayez donc aucune part avec eux.",
-      "deu": "<span class=\"verse-number\">7</span> Macht euch daher nicht zu ihren Mitgenossen;",
-      "kor": "<span class=\"verse-number\">7</span> ê·¸ë¬ë¯ë¡ ê·¸ë¤ê³¼ í¨ê» íë ìê° ëì§ ë§ë¼",
-      "ita": "<span class=\"verse-number\">7</span> Non siate dunque loro compagni;"
+      "eng": "Be not ye therefore partakers with them.",
+      "ara": "إِذَنْ، لَا تَكُونُوا شُرَكَاءَ لَهُمْ:",
+      "jpn": "だから、<ruby>彼<rt>かれ</rt></ruby>らの<ruby>仲間<rt>なかま</rt></ruby>になってはいけない。",
+      "zhs": "<ruby>所<rt>suǒ</rt></ruby><ruby>以<rt>yǐ</rt></ruby>，<ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>与<rt>yǔ</rt></ruby><ruby>他<rt>tā</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>同<rt>tóng</rt></ruby><ruby>伙<rt>huǒ</rt></ruby>。",
+      "zht": "<ruby>所<rt>suǒ</rt></ruby><ruby>以<rt>yǐ</rt></ruby>，<ruby>你<rt>nǐ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>與<rt>yǔ</rt></ruby><ruby>他<rt>tā</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>同<rt>tóng</rt></ruby><ruby>夥<rt>huǒ</rt></ruby>。",
+      "spa": "No seáis, pues, partícipes con ellos,",
+      "por": "Portanto, não sejais participantes com eles.",
+      "fra": "N’ayez donc aucune part avec eux.",
+      "deu": "Macht euch daher nicht zu ihren Mitgenossen;",
+      "kor": "그러므로 그들과 함께 하는 자가 되지 말라",
+      "ita": "Non siate dunque loro compagni;"
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>For ye were sometimes darkness, but now <span class=\"clarity-word\">are ye</span> light in the Lord: walk as children of light:",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙÙÙØ¯Ù ÙÙÙÙØªÙÙÙ ÙÙÙ Ø§ÙÙÙÙØ§Ø¶ÙÙ Ø¸ÙÙØ§ÙØ§ÙØ ÙÙÙÙÙÙÙÙÙÙÙÙÙ Ø§ÙØ¢ÙÙ ÙÙÙØ±Ù ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ. ÙÙØ§Ø³ÙÙÙÙÙÙØ§ Ø³ÙÙÙÙÙÙ Ø£ÙÙÙÙØ§Ø¯Ù Ø§ÙÙÙÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">8</span> ããªãããã¯ã<ruby><rb>ä»¥å</rb><rt>ããã</rt></ruby>ã¯ãã¿ã§ãã£ããã<ruby><rb>ä»</rb><rt>ãã¾</rt></ruby>ã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã¨ãªã£ã¦ããã<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããã<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ããªããââ",
-      "zhs": "<span class=\"verse-number\">8ã</span>ä»åä½ ä»¬æ¯ææ§çï¼ä½å¦ä»å¨ä¸»éé¢æ¯åæçï¼è¡äºä¸ºäººå°±å½ååæçå­å¥³ã",
-      "zht": "<span class=\"verse-number\">8ã</span>å¾åä½ åæ¯ææ§çï¼ä½å¦ä»å¨ä¸»è£¡é¢æ¯åæçï¼è¡äºçºäººå°±ç¶ååæçå­å¥³ã",
-      "spa": "<span class=\"verse-number\">8</span> porque en otro tiempo erais tinieblas; pero ahora sois luz en el SeÃ±or; andad como hijos de luz",
-      "por": "<span class=\"verse-number\">8</span> Porque dantes Ã©reis trevas, mas agora <span class=\"clarity-word\">sois</span> luz no Senhor; andai como filhos da luz",
-      "fra": "<span class=\"verse-number\">8 </span>Autrefois vous Ã©tiez tÃ©nÃ¨bres, et maintenant vous Ãªtes lumiÃ¨re dans le Seigneur. Marchez comme des enfants de lumiÃ¨reÂ !",
-      "deu": "<span class=\"verse-number\">8</span> denn frÃ¼her seid ihr zwar Finsternis gewesen, jetzt aber seid ihr Licht im Herrn: fÃ¼hrt euren Wandel als Kinder des Lichts, â",
-      "kor": "<span class=\"verse-number\">8</span> ëí¬ê° ì ìë ì´ë ì´ëë ì´ì ë ì£¼ ììì ë¹ì´ë¼ ë¹ì ìëë¤ì²ë¼ ííë¼",
-      "ita": "<span class=\"verse-number\">8</span> perchÃ© giÃ  eravate tenebre, ma ora siete luce nel Signore. Conducetevi come figli di luce"
+      "eng": "For ye were sometimes darkness, but now <span class=\"clarity-word\">are ye</span> light in the Lord: walk as children of light:",
+      "ara": "فَقَدْ كُنْتُمْ فِي الْمَاضِي ظَلاماً، وَلَكِنَّكُمُ الآنَ نُورٌ فِي الرَّبِّ. فَاسْلُكُوا سُلُوكَ أَوْلادِ النُّورِ.",
+      "jpn": "あなたがたは、<ruby>以前<rt>いぜん</rt></ruby>はやみであったが、<ruby>今<rt>いま</rt></ruby>は<ruby>主<rt>しゅ</rt></ruby>にあって<ruby>光<rt>ひかり</rt></ruby>となっている。<ruby>光<rt>ひかり</rt></ruby>の<ruby>子<rt>こ</rt></ruby>らしく<ruby>歩<rt>ある</rt></ruby>きなさい——",
+      "zhs": "<ruby>从<rt>cóng</rt></ruby><ruby>前<rt>qián</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>暗<rt>àn</rt></ruby><ruby>昧<rt>mèi</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>但<rt>dàn</rt></ruby><ruby>如<rt>rú</rt></ruby><ruby>今<rt>jīn</rt></ruby><ruby>在<rt>zài</rt></ruby><ruby>主<rt>zhǔ</rt></ruby><ruby>里<rt>lǐ</rt></ruby><ruby>面<rt>miàn</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>光<rt>guāng</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>行<rt>xíng</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>为<rt>wéi</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>就<rt>jiù</rt></ruby><ruby>当<rt>dāng</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>光<rt>guāng</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>女<rt>nǚ</rt></ruby>。",
+      "zht": "<ruby>從<rt>cóng</rt></ruby><ruby>前<rt>qián</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>暗<rt>àn</rt></ruby><ruby>昧<rt>mèi</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>但<rt>dàn</rt></ruby><ruby>如<rt>rú</rt></ruby><ruby>今<rt>jīn</rt></ruby><ruby>在<rt>zài</rt></ruby><ruby>主<rt>zhǔ</rt></ruby><ruby>裡<rt>lǐ</rt></ruby><ruby>面<rt>miàn</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>光<rt>guāng</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>行<rt>xíng</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>為<rt>wèi</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>就<rt>jiù</rt></ruby><ruby>當<rt>dāng</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>光<rt>guāng</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>女<rt>nǚ</rt></ruby>。",
+      "spa": "porque en otro tiempo erais tinieblas; pero ahora sois luz en el Señor; andad como hijos de luz",
+      "por": "Porque dantes éreis trevas, mas agora <span class=\"clarity-word\">sois</span> luz no Senhor; andai como filhos da luz",
+      "fra": "Autrefois vous étiez ténèbres, et maintenant vous êtes lumière dans le Seigneur. Marchez comme des enfants de lumière !",
+      "deu": "denn früher seid ihr zwar Finsternis gewesen, jetzt aber seid ihr Licht im Herrn: führt euren Wandel als Kinder des Lichts, —",
+      "kor": "너희가 전에는 어둠이더니 이제는 주 안에서 빛이라 빛의 자녀들처럼 행하라",
+      "ita": "perché già eravate tenebre, ma ora siete luce nel Signore. Conducetevi come figli di luce"
     },
     "9": {
-      "eng": "<span class=\"verse-number\">9 </span>(For the fruit of the Spirit <span class=\"clarity-word\">is</span> in all goodness and righteousness and truth;)",
-      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ¥ÙÙÙÙ Ø«ÙÙÙØ±Ù Ø§ÙÙÙÙÙØ±Ù ÙÙÙÙÙÙÙ ÙÙÙ ÙÙÙÙÙ ØµÙÙØ§Ø­Ù ÙÙØ§Ø³ÙØªÙÙÙØ§ÙÙØ©Ù ÙÙØ­ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">9</span> <ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã¯ãããã<ruby><rb>åæ</rb><rt>ããã</rt></ruby>ã¨<ruby><rb>æ­£ç¾©</rb><rt>ããã</rt></ruby>ã¨<ruby><rb>çå®</rb><rt>ãããã¤</rt></ruby>ã¨ã®<ruby><rb>å®</rb><rt>ã¿</rt></ruby>ã<ruby><rb>çµ</rb><rt>ãã</rt></ruby>ã°ãããã®ã§ããââ",
-      "zhs": "<span class=\"verse-number\">9ã</span>åææç»çæå­å°±æ¯ä¸åè¯åãå¬ä¹ãè¯å®ã",
-      "zht": "<span class=\"verse-number\">9ã</span>åææçµçæå­å°±æ¯ä¸åè¯åãå¬ç¾©ãèª å¯¦ã",
-      "spa": "<span class=\"verse-number\">9</span> (porque el fruto del EspÃ­ritu es en toda bondad, y justicia y verdad),",
-      "por": "<span class=\"verse-number\">9</span> (Porque o fruto do EspÃ­rito <span class=\"clarity-word\">consiste</span> em toda a bondade, e justiÃ§a, e verdade);",
-      "fra": "<span class=\"verse-number\">9 </span>Car le fruit de la lumiÃ¨re consiste en toute sorte de bontÃ©, de justice et de vÃ©ritÃ©.",
-      "deu": "<span class=\"verse-number\">9</span> die Frucht des Lichts erweist sich nÃ¤mlich in lauter GÃ¼tigkeit, Gerechtigkeit und Wahrheit, â",
-      "kor": "<span class=\"verse-number\">9</span> ë¹ì ì´ë§¤ë ëª¨ë  ì°©í¨ê³¼ ìë¡ìê³¼ ì§ì¤í¨ì ìëëë¼",
-      "ita": "<span class=\"verse-number\">9</span> (poichÃ© il frutto della luce consiste in tutto ciÃ² che Ã¨ bontÃ  e rettitudine e veritÃ ),"
+      "eng": "(For the fruit of the Spirit <span class=\"clarity-word\">is</span> in all goodness and righteousness and truth;)",
+      "ara": "فَإِنَّ ثَمَرَ النُّورِ يَكُونُ فِي كُلِّ صَلاحٍ وَاسْتِقَامَةٍ وَحَقٍّ.",
+      "jpn": "<ruby>光<rt>ひかり</rt></ruby>はあらゆる<ruby>善意<rt>ぜんい</rt></ruby>と<ruby>正義<rt>せいぎ</rt></ruby>と<ruby>真実<rt>しんじつ</rt></ruby>との<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>ばせるものである——",
+      "zhs": "<ruby>光<rt>guāng</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>所<rt>suǒ</rt></ruby><ruby>结<rt>jié</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>果<rt>guǒ</rt></ruby><ruby>子<rt>zi</rt></ruby><ruby>就<rt>jiù</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>切<rt>qiè</rt></ruby><ruby>良<rt>liáng</rt></ruby><ruby>善<rt>shàn</rt></ruby>、<ruby>公<rt>gōng</rt></ruby><ruby>义<rt>yì</rt></ruby>、<ruby>诚<rt>chéng</rt></ruby><ruby>实<rt>shí</rt></ruby>。",
+      "zht": "<ruby>光<rt>guāng</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>所<rt>suǒ</rt></ruby><ruby>結<rt>jié</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>果<rt>guǒ</rt></ruby><ruby>子<rt>zi</rt></ruby><ruby>就<rt>jiù</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>切<rt>qiè</rt></ruby><ruby>良<rt>liáng</rt></ruby><ruby>善<rt>shàn</rt></ruby>、<ruby>公<rt>gōng</rt></ruby><ruby>義<rt>yì</rt></ruby>、<ruby>誠<rt>chéng</rt></ruby><ruby>實<rt>shí</rt></ruby>。",
+      "spa": "(porque el fruto del Espíritu es en toda bondad, y justicia y verdad),",
+      "por": "(Porque o fruto do Espírito <span class=\"clarity-word\">consiste</span> em toda a bondade, e justiça, e verdade);",
+      "fra": "Car le fruit de la lumière consiste en toute sorte de bonté, de justice et de vérité.",
+      "deu": "die Frucht des Lichts erweist sich nämlich in lauter Gütigkeit, Gerechtigkeit und Wahrheit, —",
+      "kor": "빛의 열매는 모든 착함과 의로움과 진실함에 있느니라",
+      "ita": "(poiché il frutto della luce consiste in tutto ciò che è bontà e rettitudine e verità),"
     },
     "10": {
-      "eng": "<span class=\"verse-number\">10 </span>Proving what is acceptable unto the Lord.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙÙÙØ°ÙØ§ ØªÙØ®ÙØªÙØ¨ÙØ±ÙÙÙÙ Ø§ÙØ£ÙÙÙÙØ±Ù Ø§ÙÙÙØªÙÙ ØªÙØ±ÙØ¶ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ.",
-      "jpn": "<span class=\"verse-number\">10</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å</rb><rt>ããã</rt></ruby>ã°ãããã®ããªãã§ãããããããã¾ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ããªããã",
-      "zhs": "<span class=\"verse-number\">10ã</span>æ»è¦å¯éªä½ä¸ºä¸»æåæ¦çäºã",
-      "zht": "<span class=\"verse-number\">10ã</span>ç¸½è¦å¯é©ä½çºä¸»æåæçäºã",
-      "spa": "<span class=\"verse-number\">10</span> comprobando lo que es agradable al SeÃ±or.",
-      "por": "<span class=\"verse-number\">10</span> Aprovando o que Ã© agradÃ¡vel ao Senhor.",
-      "fra": "<span class=\"verse-number\">10 </span>Examinez ce qui est agrÃ©able au SeigneurÂ ;",
-      "deu": "<span class=\"verse-number\">10</span> und prÃ¼fet dabei was dem Herrn wohlgefÃ¤llig ist.",
-      "kor": "<span class=\"verse-number\">10</span> ì£¼ë¥¼ ê¸°ììê² í  ê²ì´ ë¬´ìì¸ê° ìííì¬ ë³´ë¼",
-      "ita": "<span class=\"verse-number\">10</span> esaminando ciÃ² che Ã¨ accetto al Signore."
+      "eng": "Proving what is acceptable unto the Lord.",
+      "ara": "هَكَذَا تَخْتَبِرُونَ الأُمُورَ الَّتِي تُرْضِي الرَّبَّ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>に<ruby>喜<rt>よろこ</rt></ruby>ばれるものがなんであるかを、わきまえ<ruby>知<rt>し</rt></ruby>りなさい。",
+      "zhs": "<ruby>总<rt>zǒng</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>察<rt>chá</rt></ruby><ruby>验<rt>yàn</rt></ruby><ruby>何<rt>hé</rt></ruby><ruby>为<rt>wéi</rt></ruby><ruby>主<rt>zhǔ</rt></ruby><ruby>所<rt>suǒ</rt></ruby><ruby>喜<rt>xǐ</rt></ruby><ruby>悦<rt>yuè</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>事<rt>shì</rt></ruby>。",
+      "zht": "<ruby>總<rt>zǒng</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>察<rt>chá</rt></ruby><ruby>驗<rt>yàn</rt></ruby><ruby>何<rt>hé</rt></ruby><ruby>為<rt>wèi</rt></ruby><ruby>主<rt>zhǔ</rt></ruby><ruby>所<rt>suǒ</rt></ruby><ruby>喜<rt>xǐ</rt></ruby><ruby>悅<rt>yuè</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>事<rt>shì</rt></ruby>。",
+      "spa": "comprobando lo que es agradable al Señor.",
+      "por": "Aprovando o que é agradável ao Senhor.",
+      "fra": "Examinez ce qui est agréable au Seigneur ;",
+      "deu": "und prüfet dabei was dem Herrn wohlgefällig ist.",
+      "kor": "주를 기쁘시게 할 것이 무엇인가 시험하여 보라",
+      "ita": "esaminando ciò che è accetto al Signore."
     },
     "11": {
-      "eng": "<span class=\"verse-number\">11 </span>And have no fellowship with the unfruitful works of darkness, but rather reprove <span class=\"clarity-word\">them.</span>",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙØ¹ÙÙÙÙÙÙÙÙÙ Ø£ÙÙÙØ§ ØªÙÙÙØªÙÙÙÙØ§ Ø¨ÙØ¹ÙØ¯ÙÙÙ Ø§ÙØ§Ø´ÙØªÙØ±ÙØ§ÙÙ ÙÙÙ Ø£ÙØ¹ÙÙÙØ§ÙÙ Ø§ÙØ¸ÙÙÙØ§ÙÙ Ø§ÙÙØ¹ÙÙÙÙÙÙØ©ÙØ Ø¨ÙÙÙ Ø¨ÙØ§ÙØ£ÙØ­ÙØ±ÙÙ Ø£ÙÙÙ ØªÙÙÙØ¶ÙØ­ÙÙÙÙØ§ Ø£ÙÙÙØ¶Ø§Ù.",
-      "jpn": "<span class=\"verse-number\">11</span> <ruby><rb>å®</rb><rt>ã¿</rt></ruby>ã<ruby><rb>çµ</rb><rt>ãã</rt></ruby>ã°ãªããã¿ã®ããã«<ruby><rb>å </rb><rt>ãã</rt></ruby>ãããªãã§ãããããããã<ruby><rb>ææ</rb><rt>ãã¦ã</rt></ruby>ãã¦ãããªããã",
-      "zhs": "<span class=\"verse-number\">11ã</span>é£ææ§æ ççäºï¼ä¸è¦ä¸äººåè¡ï¼åè¦è´£å¤<span class=\"clarity-word\">è¡è¿äºçäºº</span>ï¼",
-      "zht": "<span class=\"verse-number\">11ã</span>é£ææ§ç¡ççäºï¼ä¸è¦èäººåè¡ï¼åè¦è²¬å<span class=\"clarity-word\">è¡éäºçäºº</span>ï¼",
-      "spa": "<span class=\"verse-number\">11</span> Y no participÃ©is en las obras infructuosas de las tinieblas, sino antes bien denunciadlas.",
-      "por": "<span class=\"verse-number\">11</span> E nÃ£o vos associeis Ã s obras infrutÃ­feras das trevas; mas antes, condenai-as.",
-      "fra": "<span class=\"verse-number\">11 </span>et ne prenez pas part aux Åuvres infructueuses des tÃ©nÃ¨bres, mais plutÃ´t condamnez-les.",
-      "deu": "<span class=\"verse-number\">11</span> Habt auch nichts zu tun mit den unfruchtbaren Werken der Finsternis , legt vielmehr miÃbilligend Zeugnis gegen sie ab;",
-      "kor": "<span class=\"verse-number\">11</span> ëí¬ë ì´ë§¤ ìë ì´ë ì ì¼ì ì°¸ì¬íì§ ë§ê³  ëë¦¬ì´ ì±ë§íë¼",
-      "ita": "<span class=\"verse-number\">11</span> E non partecipate alle opere infruttuose delle tenebre, ma piuttosto palesatele,"
+      "eng": "And have no fellowship with the unfruitful works of darkness, but rather reprove <span class=\"clarity-word\">them.</span>",
+      "ara": "وَعَلَيْكُمْ أَلّا تَكْتَفُوا بِعَدَمِ الاشْتِرَاكِ فِي أَعْمَالِ الظَّلامِ الْعَقِيمَةِ، بَلْ بِالأَحْرَى أَنْ تَفْضَحُوهَا أَيْضاً.",
+      "jpn": "<ruby>実<rt>み</rt></ruby>を<ruby>結<rt>むす</rt></ruby>ばないやみのわざに<ruby>加<rt>くわ</rt></ruby>わらないで、むしろ、それを<ruby>指摘<rt>してき</rt></ruby>してやりなさい。",
+      "zhs": "<ruby>那<rt>nà</rt></ruby><ruby>暗<rt>àn</rt></ruby><ruby>昧<rt>mèi</rt></ruby><ruby>无<rt>wú</rt></ruby><ruby>益<rt>yì</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>事<rt>shì</rt></ruby>，<ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>与<rt>yǔ</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>同<rt>tóng</rt></ruby><ruby>行<rt>háng</rt></ruby>，<ruby>倒<rt>dào</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>责<rt>zé</rt></ruby><ruby>备<rt>bèi</rt></ruby><span class=\"clarity-word\"><ruby>行<rt>xíng</rt></ruby><ruby>这<rt>zhè</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>人<rt>rén</rt></ruby></span>；",
+      "zht": "<ruby>那<rt>nà</rt></ruby><ruby>暗<rt>àn</rt></ruby><ruby>昧<rt>mèi</rt></ruby><ruby>無<rt>wú</rt></ruby><ruby>益<rt>yì</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>事<rt>shì</rt></ruby>，<ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>與<rt>yǔ</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>同<rt>tóng</rt></ruby><ruby>行<rt>háng</rt></ruby>，<ruby>倒<rt>dào</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>責<rt>zé</rt></ruby><ruby>備<rt>bèi</rt></ruby><span class=\"clarity-word\"><ruby>行<rt>xíng</rt></ruby><ruby>這<rt>zhè</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>人<rt>rén</rt></ruby></span>；",
+      "spa": "Y no participéis en las obras infructuosas de las tinieblas, sino antes bien denunciadlas.",
+      "por": "E não vos associeis às obras infrutíferas das trevas; mas antes, condenai-as.",
+      "fra": "et ne prenez pas part aux œuvres infructueuses des ténèbres, mais plutôt condamnez-les.",
+      "deu": "Habt auch nichts zu tun mit den unfruchtbaren Werken der Finsternis , legt vielmehr mißbilligend Zeugnis gegen sie ab;",
+      "kor": "너희는 열매 없는 어둠의 일에 참여하지 말고 도리어 책망하라",
+      "ita": "E non partecipate alle opere infruttuose delle tenebre, ma piuttosto palesatele,"
     },
     "12": {
-      "eng": "<span class=\"verse-number\">12 </span>For it is a shame even to speak of those things which are done of them in secret.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ§ÙØ£ÙÙÙÙØ±Ù Ø§ÙÙÙØªÙÙ ÙÙÙÙØ¹ÙÙÙÙÙÙÙÙØ§ Ø³ÙØ±ÙØ§ÙØ ÙÙØ¨ÙÙØ­Ù Ø­ÙØªÙÙÙ Ø°ÙÙÙØ±ÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">12</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>é </rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã£ã¦ãããã¨ã¯ã<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã«ããã ãã§ã<ruby><rb>æ¥</rb><rt>ã¯</rt></ruby>ãããã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã§ããã",
-      "zhs": "<span class=\"verse-number\">12ã</span>å ä¸ºä»ä»¬æä¸­æè¡çï¼å°±æ¯æèµ·æ¥ä¹æ¯å¯è»çã",
-      "zht": "<span class=\"verse-number\">12ã</span>å çºä»åæä¸­æè¡çï¼å°±æ¯æèµ·ä¾ä¹æ¯å¯æ¥çã",
-      "spa": "<span class=\"verse-number\">12</span> Porque es vergonzoso aun hablar de lo que ellos hacen en secreto.",
-      "por": "<span class=\"verse-number\">12</span> Porque o que eles fazem em oculto, atÃ© dizÃª-lo Ã© coisa torpe.",
-      "fra": "<span class=\"verse-number\">12 </span>Car il est honteux de dire ce quâils font en secretÂ ;",
-      "deu": "<span class=\"verse-number\">12</span> denn was im Verborgenen von ihnen getrieben wird, davon auch nur zu reden ist schandbar.",
-      "kor": "<span class=\"verse-number\">12</span> ê·¸ë¤ì´ ìë°í ííë ê²ë¤ì ë§íê¸°ë ë¶ëë¬ì´ ê²ë¤ì´ë¼",
-      "ita": "<span class=\"verse-number\">12</span> poichÃ© Ã¨ vergognoso perfino dire le cose che vengono fatte da costoro in segreto."
+      "eng": "For it is a shame even to speak of those things which are done of them in secret.",
+      "ara": "فَالأُمُورُ الَّتِي يَفْعَلُونَهَا سِرّاً، قَبِيحٌ حَتَّى ذِكْرُهَا.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らが<ruby>隠<rt>かく</rt></ruby>れて<ruby>行<rt>おこな</rt></ruby>っていることは、<ruby>口<rt>くち</rt></ruby>にするだけでも<ruby>恥<rt>は</rt></ruby>ずかしい<ruby>事<rt>こと</rt></ruby>である。",
+      "zhs": "<ruby>因<rt>yīn</rt></ruby><ruby>为<rt>wèi</rt></ruby><ruby>他<rt>tā</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>暗<rt>àn</rt></ruby><ruby>中<rt>zhōng</rt></ruby><ruby>所<rt>suǒ</rt></ruby><ruby>行<rt>xíng</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>就<rt>jiù</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>提<rt>tí</rt></ruby><ruby>起<rt>qǐ</rt></ruby><ruby>来<rt>lái</rt></ruby><ruby>也<rt>yě</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>可<rt>kě</rt></ruby><ruby>耻<rt>chǐ</rt></ruby><ruby>的<rt>de</rt></ruby>。",
+      "zht": "<ruby>因<rt>yīn</rt></ruby><ruby>為<rt>wèi</rt></ruby><ruby>他<rt>tā</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>暗<rt>àn</rt></ruby><ruby>中<rt>zhōng</rt></ruby><ruby>所<rt>suǒ</rt></ruby><ruby>行<rt>xíng</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>就<rt>jiù</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>提<rt>tí</rt></ruby><ruby>起<rt>qǐ</rt></ruby><ruby>來<rt>lái</rt></ruby><ruby>也<rt>yě</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>可<rt>kě</rt></ruby><ruby>恥<rt>chǐ</rt></ruby><ruby>的<rt>de</rt></ruby>。",
+      "spa": "Porque es vergonzoso aun hablar de lo que ellos hacen en secreto.",
+      "por": "Porque o que eles fazem em oculto, até dizê-lo é coisa torpe.",
+      "fra": "Car il est honteux de dire ce qu’ils font en secret ;",
+      "deu": "denn was im Verborgenen von ihnen getrieben wird, davon auch nur zu reden ist schandbar.",
+      "kor": "그들이 은밀히 행하는 것들은 말하기도 부끄러운 것들이라",
+      "ita": "poiché è vergognoso perfino dire le cose che vengono fatte da costoro in segreto."
     },
     "13": {
-      "eng": "<span class=\"verse-number\">13 </span>But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>Ø¥ÙÙÙØ§ Ø£ÙÙÙÙ ÙÙÙÙÙ Ø´ÙÙÙØ¡ÙØ Ø¥ÙØ°ÙØ§ ÙÙØ§ ÙÙØ¶ÙØ­Ù Ø§ÙÙÙÙÙØ±Ù Ø£ÙÙÙØ±ÙÙÙØ ÙÙØµÙÙØ±Ù ÙÙÙÙØ´ÙÙÙØ§Ù:",
-      "jpn": "<span class=\"verse-number\">13</span> ãããã<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã«ããããã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ããã¹ã¦ã®ãã®ã¯ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããã«ãªãã",
-      "zhs": "<span class=\"verse-number\">13ã</span>å¡äºåäºè´£å¤ï¼å°±è¢«åæ¾æåºæ¥ï¼å ä¸ºä¸åè½æ¾æçå°±æ¯åã",
-      "zht": "<span class=\"verse-number\">13ã</span>å¡äºåäºè²¬åï¼å°±è¢«åé¡¯æåºä¾ï¼å çºä¸åè½é¡¯æçå°±æ¯åã",
-      "spa": "<span class=\"verse-number\">13</span> Mas todas las cosas son visibles cuando son expuestas a la luz; porque lo que lo manifiesta todo es la luz.",
-      "por": "<span class=\"verse-number\">13</span> Mas todas as <span class=\"clarity-word\">coisas</span> expostas pela luz se tornam visÃ­veis, porque tudo o que ilumina Ã© luz.",
-      "fra": "<span class=\"verse-number\">13 </span>mais tout ce qui est condamnable est manifestÃ© par la lumiÃ¨re, car tout ce qui est manifestÃ© est lumiÃ¨re.",
-      "deu": "<span class=\"verse-number\">13</span> Das alles wird aber, wenn es aufgedeckt wird, vom Licht getroffen und offenbar gemacht; denn alles, was offenbar gemacht wird, ist Licht.",
-      "kor": "<span class=\"verse-number\">13</span> ê·¸ë¬ë ì±ë§ì ë°ë ëª¨ë  ê²ì ë¹ì¼ë¡ ë§ë¯¸ìì ëë¬ëëë ëë¬ëë ê²ë§ë¤ ë¹ì´ëë¼",
-      "ita": "<span class=\"verse-number\">13</span> Ma tutte le cose, quando sono palesate dalla luce, diventano manifeste, poichÃ© tutto ciÃ² che Ã¨ manifesto Ã¨ luce."
+      "eng": "But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.",
+      "ara": "إِلّا أَنَّ كُلَّ شَيْءٍ، إِذَا مَا فَضَحَ النُّورُ أَمْرَهُ، يَصِيرُ مَكْشُوفاً:",
+      "jpn": "しかし、<ruby>光<rt>ひかり</rt></ruby>にさらされる<ruby>時<rt>とき</rt></ruby>、すべてのものは、<ruby>明<rt>あき</rt></ruby>らかになる。",
+      "zhs": "<ruby>凡<rt>fán</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>受<rt>shòu</rt></ruby><ruby>了<rt>le</rt></ruby><ruby>责<rt>zé</rt></ruby><ruby>备<rt>bèi</rt></ruby>，<ruby>就<rt>jiù</rt></ruby><ruby>被<rt>bèi</rt></ruby><ruby>光<rt>guāng</rt></ruby><ruby>显<rt>xiǎn</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>出<rt>chū</rt></ruby><ruby>来<rt>lái</rt></ruby>，<ruby>因<rt>yīn</rt></ruby><ruby>为<rt>wèi</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>切<rt>qiè</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>显<rt>xiǎn</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>就<rt>jiù</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>光<rt>guāng</rt></ruby>。",
+      "zht": "<ruby>凡<rt>fán</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>受<rt>shòu</rt></ruby><ruby>了<rt>le</rt></ruby><ruby>責<rt>zé</rt></ruby><ruby>備<rt>bèi</rt></ruby>，<ruby>就<rt>jiù</rt></ruby><ruby>被<rt>bèi</rt></ruby><ruby>光<rt>guāng</rt></ruby><ruby>顯<rt>xiǎn</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>出<rt>chū</rt></ruby><ruby>來<rt>lái</rt></ruby>，<ruby>因<rt>yīn</rt></ruby><ruby>為<rt>wèi</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>切<rt>qiè</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>顯<rt>xiǎn</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>就<rt>jiù</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>光<rt>guāng</rt></ruby>。",
+      "spa": "Mas todas las cosas son visibles cuando son expuestas a la luz; porque lo que lo manifiesta todo es la luz.",
+      "por": "Mas todas as <span class=\"clarity-word\">coisas</span> expostas pela luz se tornam visíveis, porque tudo o que ilumina é luz.",
+      "fra": "mais tout ce qui est condamnable est manifesté par la lumière, car tout ce qui est manifesté est lumière.",
+      "deu": "Das alles wird aber, wenn es aufgedeckt wird, vom Licht getroffen und offenbar gemacht; denn alles, was offenbar gemacht wird, ist Licht.",
+      "kor": "그러나 책망을 받는 모든 것은 빛으로 말미암아 드러나나니 드러나는 것마다 빛이니라",
+      "ita": "Ma tutte le cose, quando sono palesate dalla luce, diventano manifeste, poiché tutto ciò che è manifesto è luce."
     },
     "14": {
-      "eng": "<span class=\"verse-number\">14 </span>Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙØ£ÙÙÙÙ Ø§ÙÙÙØ°ÙÙ ÙÙÙÙØ´ÙÙÙ ÙÙÙÙÙ Ø´ÙÙÙØ¡Ù ÙÙÙÙ Ø§ÙÙÙÙÙØ±Ù. ÙÙØ°ÙÙÙÙÙ ÙÙÙÙØ§ÙÙ: âØ§Ø³ÙØªÙÙÙÙÙØ¸Ù Ø£ÙÙÙÙÙÙØ§ Ø§ÙÙÙÙØ§Ø¦ÙÙÙØ ÙÙÙÙÙÙ ÙÙÙÙ Ø¨ÙÙÙÙÙ Ø§ÙØ£ÙÙÙÙÙØ§ØªÙØ ÙÙÙÙØ´ÙØ±ÙÙÙ Ø¹ÙÙÙÙÙÙÙ ÙÙÙØ±Ù Ø§ÙÙÙÙØ³ÙÙØ­Ù!â",
-      "jpn": "<span class=\"verse-number\">14</span> <ruby><rb>æ</rb><rt>ãã</rt></ruby>ããã«ããããã®ã¯<ruby><rb>ç</rb><rt>ã¿ãª</rt></ruby>ã<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã¨ãªãã®ã§ãããã ããããã<ruby><rb>æ¸</rb><rt>ã</rt></ruby>ãã¦ãããã<ruby><rb>ç </rb><rt>ã­ã</rt></ruby>ã£ã¦ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãã<ruby><rb>èµ·</rb><rt>ã</rt></ruby>ããªããã<ruby><rb>æ­»äºº</rb><rt>ãã«ã</rt></ruby>ã®ãªãããã<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¡<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ãããªãããããããã°ãã­ãªã¹ããããªãã<ruby><rb>ç§</rb><rt>ã¦ã</rt></ruby>ãã§ããããã",
-      "zhs": "<span class=\"verse-number\">14ã</span>æä»¥<span class=\"clarity-word\">ä¸»</span>è¯´ï¼ä½ è¿ç¡ççäººå½éè¿æ¥ï¼ä»æ­»éå¤æ´»ï¼åºç£å°±è¦åç§ä½ äºã",
-      "zht": "<span class=\"verse-number\">14ã</span>æä»¥<span class=\"clarity-word\">ä¸»</span>èªªï¼ä½ éç¡èçäººç¶ééä¾ï¼å¾æ­»è£¡å¾©æ´»ï¼åºç£å°±è¦åç§ä½ äºã",
-      "spa": "<span class=\"verse-number\">14</span> Por lo cual dice:<span class=\"line\">DespiÃ©rtate, tÃº que duermes,</span><span class=\"line\">y levÃ¡ntate de entre los muertos,</span><span class=\"line\">y te alumbrarÃ¡ Cristo.</span>",
-      "por": "<span class=\"verse-number\">14</span> Pelo que diz: Desperta, tu que dormes, e levanta-te dentre os mortos, e Cristo te iluminarÃ¡.",
-      "fra": "<span class=\"verse-number\">14 </span>Câest pour cela quâil est ditÂ : RÃ©veille-toi, toi qui dors, RelÃ¨ve-toi dâentre les morts, Et Christ tâÃ©clairera.",
-      "deu": "<span class=\"verse-number\">14</span> Daher heiÃt es auch: âWache auf, du SchlÃ¤fer, und stehe auf von den Toten! dann wird Christus dir aufleuchten (= dich erleuchten).",
-      "kor": "<span class=\"verse-number\">14</span> ê·¸ë¬ë¯ë¡ ì´ë¥´ìê¸°ë¥¼ ì ìë ìì¬ ê¹¨ì´ì ì£½ì ìë¤ ê°ì´ë°ì ì¼ì´ëë¼ ê·¸ë¦¬ì¤ëê»ì ëìê² ë¹ì¶ì´ìë¦¬ë¼ íì¨ëëë¼",
-      "ita": "<span class=\"verse-number\">14</span> PerciÃ² dice: âRisvegliati, o tu che dormi, e risorgi dai morti, e Cristo ti inonderÃ  di luceâ."
+      "eng": "Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.",
+      "ara": "لأَنَّ الَّذِي يَكْشِفُ كُلَّ شَيْءٍ هُوَ النُّورُ. لِذَلِكَ يُقَالُ: ”اسْتَيْقِظْ أَيُّهَا النَّائِمُ، وَقُمْ مِنْ بَيْنِ الأَمْوَاتِ، فَيُشْرِقَ عَلَيْكَ نُورُ الْمَسِيحِ!“",
+      "jpn": "<ruby>明<rt>あき</rt></ruby>らかにされたものは<ruby>皆<rt>みな</rt></ruby>、<ruby>光<rt>ひかり</rt></ruby>となるのである。だから、こう<ruby>書<rt>か</rt></ruby>いてある、「<ruby>眠<rt>ねむ</rt></ruby>っている<ruby>者<rt>もの</rt></ruby>よ、<ruby>起<rt>お</rt></ruby>きなさい。<ruby>死人<rt>しにん</rt></ruby>のなかから、<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がりなさい。そうすれば、キリストがあなたを<ruby>照<rt>てら</rt></ruby>すであろう」。",
+      "zhs": "<ruby>所<rt>suǒ</rt></ruby><ruby>以<rt>yǐ</rt></ruby><span class=\"clarity-word\"><ruby>主<rt>zhǔ</rt></ruby></span><ruby>说<rt>shuō</rt></ruby>：<ruby>你<rt>nǐ</rt></ruby><ruby>这<rt>zhè</rt></ruby><ruby>睡<rt>shuì</rt></ruby><ruby>着<rt>zháo</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>当<rt>dāng</rt></ruby><ruby>醒<rt>xǐng</rt></ruby><ruby>过<rt>guò</rt></ruby><ruby>来<rt>lái</rt></ruby>，<ruby>从<rt>cóng</rt></ruby><ruby>死<rt>sǐ</rt></ruby><ruby>里<rt>lǐ</rt></ruby><ruby>复<rt>fù</rt></ruby><ruby>活<rt>huó</rt></ruby>，<ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>就<rt>jiù</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>光<rt>guāng</rt></ruby><ruby>照<rt>zhào</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>了<rt>le</rt></ruby>。",
+      "zht": "<ruby>所<rt>suǒ</rt></ruby><ruby>以<rt>yǐ</rt></ruby><span class=\"clarity-word\"><ruby>主<rt>zhǔ</rt></ruby></span><ruby>說<rt>shuō</rt></ruby>：<ruby>你<rt>nǐ</rt></ruby><ruby>這<rt>zhè</rt></ruby><ruby>睡<rt>shuì</rt></ruby><ruby>著<rt>zhù</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>當<rt>dāng</rt></ruby><ruby>醒<rt>xǐng</rt></ruby><ruby>過<rt>guò</rt></ruby><ruby>來<rt>lái</rt></ruby>，<ruby>從<rt>cóng</rt></ruby><ruby>死<rt>sǐ</rt></ruby><ruby>裡<rt>lǐ</rt></ruby><ruby>復<rt>fù</rt></ruby><ruby>活<rt>huó</rt></ruby>，<ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>就<rt>jiù</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>光<rt>guāng</rt></ruby><ruby>照<rt>zhào</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>了<rt>le</rt></ruby>。",
+      "spa": "Por lo cual dice:<span class=\"line\">Despiértate, tú que duermes,</span><span class=\"line\">y levántate de entre los muertos,</span><span class=\"line\">y te alumbrará Cristo.</span>",
+      "por": "Pelo que diz: Desperta, tu que dormes, e levanta-te dentre os mortos, e Cristo te iluminará.",
+      "fra": "C’est pour cela qu’il est dit : Réveille-toi, toi qui dors, Relève-toi d’entre les morts, Et Christ t’éclairera.",
+      "deu": "Daher heißt es auch: „Wache auf, du Schläfer, und stehe auf von den Toten! dann wird Christus dir aufleuchten (= dich erleuchten).",
+      "kor": "그러므로 이르시기를 잠자는 자여 깨어서 죽은 자들 가운데서 일어나라 그리스도께서 너에게 비추이시리라 하셨느니라",
+      "ita": "Perciò dice: “Risvegliati, o tu che dormi, e risorgi dai morti, e Cristo ti inonderà di luce”."
     },
     "15": {
-      "eng": "<span class=\"verse-number\">15 </span>See then that ye walk circumspectly, not as fools, but as wise,",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙØ§ÙÙØªÙØ¨ÙÙÙÙØ§ ØªÙÙÙØ§ÙØ§Ù Ø¥ÙØ°ÙÙÙ ÙÙÙÙÙÙ ØªÙØ³ÙÙÙÙÙÙÙÙ Ø¨ÙØªÙØ¯ÙÙÙÙÙÙØ ÙÙØ§ Ø³ÙÙÙÙÙÙ Ø§ÙÙØ¬ÙÙÙÙØ§Ø¡Ù Ø¨ÙÙÙ Ø³ÙÙÙÙÙÙ Ø§ÙÙØ¹ÙÙÙÙØ§Ø¡ÙØ",
-      "jpn": "<span class=\"verse-number\">15</span> ããã§ãããªãããã®<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ãããã«ãã<ruby><rb>æ³¨æ</rb><rt>ã¡ããã</rt></ruby>ãã¦ã<ruby><rb>è³¢</rb><rt>ããã</rt></ruby>ããªã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ããã«ã§ã¯ãªãã<ruby><rb>è³¢</rb><rt>ããã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ããã«<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ãã",
-      "zhs": "<span class=\"verse-number\">15ã</span>ä½ ä»¬è¦è°¨æè¡äºï¼ä¸è¦åææ§äººï¼å½åæºæ§äººã",
-      "zht": "<span class=\"verse-number\">15ã</span>ä½ åè¦è¬¹æè¡äºï¼ä¸è¦åææ§äººï¼ç¶åæºæ§äººã",
-      "spa": "<span class=\"verse-number\">15</span> Mirad, pues, con cuidado cÃ³mo andÃ©is, no como necios, sino como sabios,",
-      "por": "<span class=\"verse-number\">15</span> Portanto, vede prudentemente como andais, nÃ£o como nÃ©scios, mas como sÃ¡bios,",
-      "fra": "<span class=\"verse-number\">15 </span>Prenez donc garde de vous conduire avec circonspection, non comme des insensÃ©s, mais comme des sagesÂ ;",
-      "deu": "<span class=\"verse-number\">15</span> <span class=\"para-mark\">Â¶</span> Achtet also genau darauf, wie ihr wandelt, nicht als Unweise, sondern als Weise,",
-      "kor": "<span class=\"verse-number\">15</span> ê·¸ë°ì¦ ëí¬ê° ì´ë»ê² íí ì§ë¥¼ ìì¸í ì£¼ìíì¬ ì§í ìë ì ê°ì´ íì§ ë§ê³  ì¤ì§ ì§í ìë ì ê°ì´ <span class=\"clarity-word\">íì¬</span>",
-      "ita": "<span class=\"verse-number\">15</span> Guardate dunque con diligenza come vi conducete; non da stolti, ma da saggi,"
+      "eng": "See then that ye walk circumspectly, not as fools, but as wise,",
+      "ara": "فَانْتَبِهُوا تَمَاماً إِذَنْ كَيْفَ تَسْلُكُونَ بِتَدْقِيقٍ، لَا سُلُوكَ الْجُهَلاءِ بَلْ سُلُوكَ الْعُقَلاءِ،",
+      "jpn": "そこで、あなたがたの<ruby>歩<rt>ある</rt></ruby>きかたによく<ruby>注意<rt>ちゅうい</rt></ruby>して、<ruby>賢<rt>かしこ</rt></ruby>くない<ruby>者<rt>もの</rt></ruby>のようにではなく、<ruby>賢<rt>かしこ</rt></ruby>い<ruby>者<rt>もの</rt></ruby>のように<ruby>歩<rt>ある</rt></ruby>き、",
+      "zhs": "<ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>谨<rt>jǐn</rt></ruby><ruby>慎<rt>shèn</rt></ruby><ruby>行<rt>xíng</rt></ruby><ruby>事<rt>shì</rt></ruby>，<ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>愚<rt>yú</rt></ruby><ruby>昧<rt>mèi</rt></ruby><ruby>人<rt>rén</rt></ruby>，<ruby>当<rt>dāng</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>智<rt>zhì</rt></ruby><ruby>慧<rt>huì</rt></ruby><ruby>人<rt>rén</rt></ruby>。",
+      "zht": "<ruby>你<rt>nǐ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>謹<rt>jǐn</rt></ruby><ruby>慎<rt>shèn</rt></ruby><ruby>行<rt>xíng</rt></ruby><ruby>事<rt>shì</rt></ruby>，<ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>愚<rt>yú</rt></ruby><ruby>昧<rt>mèi</rt></ruby><ruby>人<rt>rén</rt></ruby>，<ruby>當<rt>dāng</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>智<rt>zhì</rt></ruby><ruby>慧<rt>huì</rt></ruby><ruby>人<rt>rén</rt></ruby>。",
+      "spa": "Mirad, pues, con cuidado cómo andéis, no como necios, sino como sabios,",
+      "por": "Portanto, vede prudentemente como andais, não como néscios, mas como sábios,",
+      "fra": "Prenez donc garde de vous conduire avec circonspection, non comme des insensés, mais comme des sages ;",
+      "deu": "<span class=\"para-mark\">¶</span> Achtet also genau darauf, wie ihr wandelt, nicht als Unweise, sondern als Weise,",
+      "kor": "그런즉 너희가 어떻게 행할지를 자세히 주의하여 지혜 없는 자 같이 하지 말고 오직 지혜 있는 자 같이 <span class=\"clarity-word\">하여</span>",
+      "ita": "Guardate dunque con diligenza come vi conducete; non da stolti, ma da saggi,"
     },
     "16": {
-      "eng": "<span class=\"verse-number\">16 </span>Redeeming the time, because the days are evil.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙØ³ÙØªÙØºÙÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙØªÙ Ø£ÙØ­ÙØ³ÙÙÙ Ø§Ø³ÙØªÙØºÙÙØ§ÙÙØ ÙØ£ÙÙÙÙ Ø§ÙØ£ÙÙÙÙØ§ÙÙ Ø´ÙØ±ÙÙÙØ±ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">16</span> <ruby><rb>ä»</rb><rt>ãã¾</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ããã¦<ruby><rb>ç¨</rb><rt>ãã¡</rt></ruby>ããªããã<ruby><rb>ä»</rb><rt>ãã¾</rt></ruby>ã¯<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>æä»£</rb><rt>ãã ã</rt></ruby>ãªã®ã§ããã",
-      "zhs": "<span class=\"verse-number\">16ã</span>è¦ç±æåé´ï¼å ä¸ºç°ä»çä¸ä»£éªæ¶ã",
-      "zht": "<span class=\"verse-number\">16ã</span>è¦ææåé°ï¼å çºç¾ä»çä¸ä»£éªæ¡ã",
-      "spa": "<span class=\"verse-number\">16</span> aprovechando bien el tiempo, porque los dÃ­as son malos.",
-      "por": "<span class=\"verse-number\">16</span> Remindo o tempo, porquanto os dias sÃ£o maus.",
-      "fra": "<span class=\"verse-number\">16 </span>mettez Ã  profit le temps, car les jours sont mauvais.",
-      "deu": "<span class=\"verse-number\">16</span> indem ihr die Zeit auskauft, denn die Tage (= Zeiten) sind bÃ¶se.",
-      "kor": "<span class=\"verse-number\">16</span> ì¸ìì ìë¼ë¼ ëê° ìíëë¼",
-      "ita": "<span class=\"verse-number\">16</span> approfittando delle occasioni, perchÃ© i giorni sono malvagi."
+      "eng": "Redeeming the time, because the days are evil.",
+      "ara": "مُسْتَغِلِّينَ الْوَقْتَ أَحْسَنَ اسْتِغْلالٍ، لأَنَّ الأَيَّامَ شِرِّيرَةٌ.",
+      "jpn": "<ruby>今<rt>いま</rt></ruby>の<ruby>時<rt>とき</rt></ruby>を<ruby>生<rt>い</rt></ruby>かして<ruby>用<rt>もち</rt></ruby>いなさい。<ruby>今<rt>いま</rt></ruby>は<ruby>悪<rt>わる</rt></ruby>い<ruby>時代<rt>じだい</rt></ruby>なのである。",
+      "zhs": "<ruby>要<rt>yào</rt></ruby><ruby>爱<rt>ài</rt></ruby><ruby>惜<rt>xī</rt></ruby><ruby>光<rt>guāng</rt></ruby><ruby>阴<rt>yīn</rt></ruby>，<ruby>因<rt>yīn</rt></ruby><ruby>为<rt>wèi</rt></ruby><ruby>现<rt>xiàn</rt></ruby><ruby>今<rt>jīn</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>世<rt>shì</rt></ruby><ruby>代<rt>dài</rt></ruby><ruby>邪<rt>xié</rt></ruby><ruby>恶<rt>è</rt></ruby>。",
+      "zht": "<ruby>要<rt>yào</rt></ruby><ruby>愛<rt>ài</rt></ruby><ruby>惜<rt>xī</rt></ruby><ruby>光<rt>guāng</rt></ruby><ruby>陰<rt>yīn</rt></ruby>，<ruby>因<rt>yīn</rt></ruby><ruby>為<rt>wèi</rt></ruby><ruby>現<rt>xiàn</rt></ruby><ruby>今<rt>jīn</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>世<rt>shì</rt></ruby><ruby>代<rt>dài</rt></ruby><ruby>邪<rt>xié</rt></ruby><ruby>惡<rt>è</rt></ruby>。",
+      "spa": "aprovechando bien el tiempo, porque los días son malos.",
+      "por": "Remindo o tempo, porquanto os dias são maus.",
+      "fra": "mettez à profit le temps, car les jours sont mauvais.",
+      "deu": "indem ihr die Zeit auskauft, denn die Tage (= Zeiten) sind böse.",
+      "kor": "세월을 아끼라 때가 악하니라",
+      "ita": "approfittando delle occasioni, perché i giorni sono malvagi."
     },
     "17": {
-      "eng": "<span class=\"verse-number\">17 </span>Wherefore be ye not unwise, but understanding what the will of the Lord <span class=\"clarity-word\">is.</span>",
-      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØ°ÙÙÙÙÙ ÙÙØ§ ØªÙÙÙÙÙÙÙØ§ Ø£ÙØºÙØ¨ÙÙÙØ§Ø¡ÙØ Ø¨ÙÙÙ Ø§ÙÙÙÙÙÙÙØ§ ÙÙØ§ ÙÙÙÙ ÙÙØ´ÙÙØ¦ÙØ©Ù Ø§ÙØ±ÙÙØ¨ÙÙ.",
-      "jpn": "<span class=\"verse-number\">17</span> ã ããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ãªããªãã§ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å¾¡æ¨</rb><rt>ã¿ãã­</rt></ruby>ããªãã§ãããã<ruby><rb>æ</rb><rt>ãã¨</rt></ruby>ããªããã",
-      "zhs": "<span class=\"verse-number\">17ã</span>ä¸è¦ä½ç³æ¶äººï¼è¦æç½ä¸»çæ¨æå¦ä½ã",
-      "zht": "<span class=\"verse-number\">17ã</span>ä¸è¦ä½ç³å¡äººï¼è¦æç½ä¸»çæ¨æå¦ä½ã",
-      "spa": "<span class=\"verse-number\">17</span> Por tanto, no seÃ¡is insensatos, sino entendidos de cuÃ¡l es la voluntad del SeÃ±or.",
-      "por": "<span class=\"verse-number\">17</span> Pelo que nÃ£o sejais insensatos, mas entendei qual Ã© a vontade do Senhor.",
-      "fra": "<span class=\"verse-number\">17 </span>Câest pourquoi ne soyez pas inconsidÃ©rÃ©s, mais comprenez quelle est la volontÃ© du Seigneur.",
-      "deu": "<span class=\"verse-number\">17</span> Darum zeigt euch nicht unverstÃ¤ndig, sondern sucht zu verstehen, welches der Wille des Herrn ist.",
-      "kor": "<span class=\"verse-number\">17</span> ê·¸ë¬ë¯ë¡ ì´ë¦¬ìì ìê° ëì§ ë§ê³  ì¤ì§ ì£¼ì ë»ì´ ë¬´ìì¸ê° ì´í´íë¼",
-      "ita": "<span class=\"verse-number\">17</span> PerciÃ² non siate sconsiderati, ma intendete bene quale sia la volontÃ  del Signore."
+      "eng": "Wherefore be ye not unwise, but understanding what the will of the Lord <span class=\"clarity-word\">is.</span>",
+      "ara": "لِذَلِكَ لَا تَكُونُوا أَغْبِيَاءَ، بَلِ افْهَمُوا مَا هِيَ مَشِيئَةُ الرَّبِّ.",
+      "jpn": "だから、<ruby>愚<rt>おろ</rt></ruby>かな<ruby>者<rt>もの</rt></ruby>にならないで、<ruby>主<rt>しゅ</rt></ruby>の<ruby>御旨<rt>みむね</rt></ruby>がなんであるかを<ruby>悟<rt>さと</rt></ruby>りなさい。",
+      "zhs": "<ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>作<rt>zuò</rt></ruby><ruby>糊<rt>hú</rt></ruby><ruby>涂<rt>tú</rt></ruby><ruby>人<rt>rén</rt></ruby>，<ruby>要<rt>yào</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>白<rt>bái</rt></ruby><ruby>主<rt>zhǔ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>旨<rt>zhǐ</rt></ruby><ruby>意<rt>yì</rt></ruby><ruby>如<rt>rú</rt></ruby><ruby>何<rt>hé</rt></ruby>。",
+      "zht": "<ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>作<rt>zuò</rt></ruby><ruby>糊<rt>hú</rt></ruby><ruby>塗<rt>tú</rt></ruby><ruby>人<rt>rén</rt></ruby>，<ruby>要<rt>yào</rt></ruby><ruby>明<rt>míng</rt></ruby><ruby>白<rt>bái</rt></ruby><ruby>主<rt>zhǔ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>旨<rt>zhǐ</rt></ruby><ruby>意<rt>yì</rt></ruby><ruby>如<rt>rú</rt></ruby><ruby>何<rt>hé</rt></ruby>。",
+      "spa": "Por tanto, no seáis insensatos, sino entendidos de cuál es la voluntad del Señor.",
+      "por": "Pelo que não sejais insensatos, mas entendei qual é a vontade do Senhor.",
+      "fra": "C’est pourquoi ne soyez pas inconsidérés, mais comprenez quelle est la volonté du Seigneur.",
+      "deu": "Darum zeigt euch nicht unverständig, sondern sucht zu verstehen, welches der Wille des Herrn ist.",
+      "kor": "그러므로 어리석은 자가 되지 말고 오직 주의 뜻이 무엇인가 이해하라",
+      "ita": "Perciò non siate sconsiderati, ma intendete bene quale sia la volontà del Signore."
     },
     "18": {
-      "eng": "<span class=\"verse-number\">18 </span>And be not drunk with wine, wherein is excess; but be filled with the Spirit;",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙØ§ ØªÙØ³ÙÙÙØ±ÙÙØ§ Ø¨ÙØ§ÙÙØ®ÙÙÙØ±ÙØ ÙÙÙÙÙÙÙØ§ Ø§ÙÙØ®ÙÙØ§Ø¹ÙØ©ÙØ ÙÙØ¥ÙÙÙÙÙÙØ§ Ø§ÙÙØªÙÙÙØ¦ÙÙØ§ Ø¨ÙØ§ÙØ±ÙÙÙØ­ÙØ",
-      "jpn": "<span class=\"verse-number\">18</span> <ruby><rb>é</rb><rt>ãã</rt></ruby>ã«<ruby><rb>é</rb><rt>ã</rt></ruby>ã£ã¦ã¯ãããªããããã¯<ruby><rb>ä¹±è¡</rb><rt>ããããã</rt></ruby>ã®ãã¨ã§ãããããã<ruby><rb>å¾¡é</rb><rt>ã¿ãã¾</rt></ruby>ã«<ruby><rb>æº</rb><rt>ã¿</rt></ruby>ãããã¦ã",
-      "zhs": "<span class=\"verse-number\">18ã</span>ä¸è¦ééï¼éè½ä½¿äººæ¾è¡ï¼ä¹è¦è¢«<span class=\"clarity-word\">å£</span>çµåæ»¡ã",
-      "zht": "<span class=\"verse-number\">18ã</span>ä¸è¦ééï¼éè½ä½¿äººæ¾è©ï¼ä¹è¦è¢«<span class=\"clarity-word\">è</span>éåæ»¿ã",
-      "spa": "<span class=\"verse-number\">18</span> Y no os embriaguÃ©is con vino, en lo cual hay desenfreno; antes bien, sed llenos del EspÃ­ritu,",
-      "por": "<span class=\"verse-number\">18</span> E nÃ£o vos embriagueis com vinho, em que hÃ¡ dissoluÃ§Ã£o, mas enchei-vos do EspÃ­rito;",
-      "fra": "<span class=\"verse-number\">18 </span>Ne vous enivrez pas de vinÂ : câest de la dÃ©bauche. Soyez, au contraire, remplis de lâEspritÂ ;",
-      "deu": "<span class=\"verse-number\">18</span> Berauscht euch auch nicht an Wein, was zur Liederlichkeit fÃ¼hrt, sondern werdet voll Geistes,",
-      "kor": "<span class=\"verse-number\">18</span> ì  ì·¨íì§ ë§ë¼ ì´ë ë°©íí ê²ì´ë ì¤ì§ ì±ë ¹ì¼ë¡ ì¶©ë§í¨ì ë°ì¼ë¼",
-      "ita": "<span class=\"verse-number\">18</span> E non vi inebriate di vino; esso porta alla dissolutezza; ma siate ripieni dello Spirito,"
+      "eng": "And be not drunk with wine, wherein is excess; but be filled with the Spirit;",
+      "ara": "لَا تَسْكَرُوا بِالْخَمْرِ، فَفِيهَا الْخَلاعَةُ، وَإِنَّمَا امْتَلِئُوا بِالرُّوحِ،",
+      "jpn": "<ruby>酒<rt>さけ</rt></ruby>に<ruby>酔<rt>よ</rt></ruby>ってはいけない。それは<ruby>乱行<rt>らんぎょう</rt></ruby>のもとである。むしろ<ruby>御霊<rt>みたま</rt></ruby>に<ruby>満<rt>み</rt></ruby>たされて、",
+      "zhs": "<ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>醉<rt>zuì</rt></ruby><ruby>酒<rt>jiǔ</rt></ruby>，<ruby>酒<rt>jiǔ</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>使<rt>shǐ</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>放<rt>fàng</rt></ruby><ruby>荡<rt>dàng</rt></ruby>；<ruby>乃<rt>nǎi</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>被<rt>bèi</rt></ruby><span class=\"clarity-word\"><ruby>圣<rt>shèng</rt></ruby></span><ruby>灵<rt>líng</rt></ruby><ruby>充<rt>chōng</rt></ruby><ruby>满<rt>mǎn</rt></ruby>。",
+      "zht": "<ruby>不<rt>bú</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>醉<rt>zuì</rt></ruby><ruby>酒<rt>jiǔ</rt></ruby>，<ruby>酒<rt>jiǔ</rt></ruby><ruby>能<rt>néng</rt></ruby><ruby>使<rt>shǐ</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>放<rt>fàng</rt></ruby><ruby>蕩<rt>dàng</rt></ruby>；<ruby>乃<rt>nǎi</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>被<rt>bèi</rt></ruby><span class=\"clarity-word\"><ruby>聖<rt>shèng</rt></ruby></span><ruby>靈<rt>líng</rt></ruby><ruby>充<rt>chōng</rt></ruby><ruby>滿<rt>mǎn</rt></ruby>。",
+      "spa": "Y no os embriaguéis con vino, en lo cual hay desenfreno; antes bien, sed llenos del Espíritu,",
+      "por": "E não vos embriagueis com vinho, em que há dissolução, mas enchei-vos do Espírito;",
+      "fra": "Ne vous enivrez pas de vin : c’est de la débauche. Soyez, au contraire, remplis de l’Esprit ;",
+      "deu": "Berauscht euch auch nicht an Wein, was zur Liederlichkeit führt, sondern werdet voll Geistes,",
+      "kor": "술 취하지 말라 이는 방탕한 것이니 오직 성령으로 충만함을 받으라",
+      "ita": "E non vi inebriate di vino; esso porta alla dissolutezza; ma siate ripieni dello Spirito,"
     },
     "19": {
-      "eng": "<span class=\"verse-number\">19 </span>Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;",
-      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØ­ÙØ¯ÙÙØ«ÙÙÙÙ Ø¨ÙØ¹ÙØ¶ÙÙÙÙÙ Ø¨ÙØ¹ÙØ¶Ø§Ù Ø¨ÙÙÙØ²ÙØ§ÙÙÙØ±Ù ÙÙØªÙØ³ÙØ§Ø¨ÙÙØ­Ù ÙÙØ£ÙÙÙØ§Ø´ÙÙØ¯Ù Ø±ÙÙØ­ÙÙÙÙØ©ÙØ ÙÙØ±ÙÙÙÙÙÙÙÙÙ ÙÙÙÙØ±ÙØªÙÙÙÙÙÙÙ Ø¨ÙÙÙÙÙÙØ¨ÙÙÙÙÙ ÙÙÙØ±ÙÙØ¨ÙÙØ",
-      "jpn": "<span class=\"verse-number\">19</span> <ruby><rb>è©©</rb><rt>ã</rt></ruby>ã¨ããã³ã¨<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>ã¨ããã£ã¦<ruby><rb>èª</rb><rt>ãã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«ããã£ã¦<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ããããã³ã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>ãããããªããã",
-      "zhs": "<span class=\"verse-number\">19ã</span>å½ç¨è¯ç« ãé¢è¯ãçµæ­å½¼æ­¤å¯¹è¯´ï¼å£å±å¿åå°èµç¾ä¸»ã",
-      "zht": "<span class=\"verse-number\">19ã</span>ç¶ç¨è©©ç« ãé è©ãéæ­å½¼æ­¤å°èªªï¼å£å±å¿åå°è®ç¾ä¸»ã",
-      "spa": "<span class=\"verse-number\">19</span> hablando entre vosotros con salmos, y con himnos, y cÃ¡nticos espirituales, cantando y alabando al SeÃ±or en vuestros corazones;",
-      "por": "<span class=\"verse-number\">19</span> Falando entre vÃ³s em salmos, e hinos, e cÃ¢nticos espirituais, cantando e salmodiando ao Senhor no vosso coraÃ§Ã£o;",
-      "fra": "<span class=\"verse-number\">19 </span>entretenez-vous par des psaumes, par des hymnes et par des cantiques spirituels, chantant et cÃ©lÃ©brant de tout votre cÅur les louanges du SeigneurÂ ;",
-      "deu": "<span class=\"verse-number\">19</span> so daÃ ihr zueinander mit Psalmen, LobgesÃ¤ngen und geistlichen (= geisterfÃ¼llten, oder: geistesstarken) Liedern redet und dem Herrn in eurem Herzen singt und spielt;",
-      "kor": "<span class=\"verse-number\">19</span> ìì ì°¬ì¡ê³¼ ì ë ¹í ë¸ëë¤ë¡ ìë¡ íëµíë©° ëí¬ì ë§ìì¼ë¡ ì£¼ê» ë¸ëíë©° ì°¬ì¡íë©°",
-      "ita": "<span class=\"verse-number\">19</span> parlandovi con salmi e inni e canti spirituali, cantando e salmeggiando con il vostro cuore al Signore,"
+      "eng": "Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;",
+      "ara": "مُحَدِّثِينَ بَعْضُكُمْ بَعْضاً بِمَزَامِيرَ وَتَسَابِيحَ وَأَنَاشِيدَ رُوحِيَّةٍ، مُرَنِّمِينَ وَمُرَتِّلِينَ بِقُلُوبِكُمْ لِلرَّبِّ؛",
+      "jpn": "<ruby>詩<rt>し</rt></ruby>とさんびと<ruby>霊<rt>れい</rt></ruby>の<ruby>歌<rt>うた</rt></ruby>とをもって<ruby>語<rt>かた</rt></ruby>り<ruby>合<rt>あ</rt></ruby>い、<ruby>主<rt>しゅ</rt></ruby>にむかって<ruby>心<rt>こころ</rt></ruby>からさんびの<ruby>歌<rt>うた</rt></ruby>をうたいなさい。",
+      "zhs": "<ruby>当<rt>dāng</rt></ruby><ruby>用<rt>yòng</rt></ruby><ruby>诗<rt>shī</rt></ruby><ruby>章<rt>zhāng</rt></ruby>、<ruby>颂<rt>sòng</rt></ruby><ruby>词<rt>cí</rt></ruby>、<ruby>灵<rt>líng</rt></ruby><ruby>歌<rt>gē</rt></ruby><ruby>彼<rt>bǐ</rt></ruby><ruby>此<rt>cǐ</rt></ruby><ruby>对<rt>duì</rt></ruby><ruby>说<rt>shuō</rt></ruby>，<ruby>口<rt>kǒu</rt></ruby><ruby>唱<rt>chàng</rt></ruby><ruby>心<rt>xīn</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>地<rt>dì</rt></ruby><ruby>赞<rt>zàn</rt></ruby><ruby>美<rt>měi</rt></ruby><ruby>主<rt>zhǔ</rt></ruby>。",
+      "zht": "<ruby>當<rt>dāng</rt></ruby><ruby>用<rt>yòng</rt></ruby><ruby>詩<rt>shī</rt></ruby><ruby>章<rt>zhāng</rt></ruby>、<ruby>頌<rt>sòng</rt></ruby><ruby>詞<rt>cí</rt></ruby>、<ruby>靈<rt>líng</rt></ruby><ruby>歌<rt>gē</rt></ruby><ruby>彼<rt>bǐ</rt></ruby><ruby>此<rt>cǐ</rt></ruby><ruby>對<rt>duì</rt></ruby><ruby>說<rt>shuō</rt></ruby>，<ruby>口<rt>kǒu</rt></ruby><ruby>唱<rt>chàng</rt></ruby><ruby>心<rt>xīn</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>地<rt>dì</rt></ruby><ruby>讚<rt>zàn</rt></ruby><ruby>美<rt>měi</rt></ruby><ruby>主<rt>zhǔ</rt></ruby>。",
+      "spa": "hablando entre vosotros con salmos, y con himnos, y cánticos espirituales, cantando y alabando al Señor en vuestros corazones;",
+      "por": "Falando entre vós em salmos, e hinos, e cânticos espirituais, cantando e salmodiando ao Senhor no vosso coração;",
+      "fra": "entretenez-vous par des psaumes, par des hymnes et par des cantiques spirituels, chantant et célébrant de tout votre cœur les louanges du Seigneur ;",
+      "deu": "so daß ihr zueinander mit Psalmen, Lobgesängen und geistlichen (= geisterfüllten, oder: geistesstarken) Liedern redet und dem Herrn in eurem Herzen singt und spielt;",
+      "kor": "시와 찬송과 신령한 노래들로 서로 화답하며 너희의 마음으로 주께 노래하며 찬송하며",
+      "ita": "parlandovi con salmi e inni e canti spirituali, cantando e salmeggiando con il vostro cuore al Signore,"
     },
     "20": {
-      "eng": "<span class=\"verse-number\">20 </span>Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;",
-      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>Ø±ÙØ§ÙÙØ¹ÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ±Ù ÙÙÙÙÙ Ø­ÙÙÙÙ ÙÙØ¹ÙÙÙÙ ÙÙÙÙÙ Ø´ÙÙÙØ¡Ù ÙÙÙÙÙ ÙÙØ§ÙØ¢Ø¨ÙØ Ø¨ÙØ§Ø³ÙÙÙ Ø±ÙØ¨ÙÙÙÙØ§ ÙÙØ³ÙÙØ¹Ù Ø§ÙÙÙÙØ³ÙÙØ­ÙØ",
-      "jpn": "<span class=\"verse-number\">20</span> ããã¦ãã¹ã¦ã®ãã¨ã«ã¤ãããã¤ããããããã¡ã®<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¤ã¨ã¹ã»ã­ãªã¹ãã®<ruby><rb>å¾¡å</rb><rt>ã¿ãª</rt></ruby>ã«ãã£ã¦ã<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ãªã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>æè¬</rb><rt>ãããã</rt></ruby>ãã",
-      "zhs": "<span class=\"verse-number\">20ã</span>å¡äºè¦å¥æä»¬ä¸»è¶ç¨£åºç£çåå¸¸å¸¸æè°¢ç¶ç¥ã",
-      "zht": "<span class=\"verse-number\">20ã</span>å¡äºè¦å¥æåä¸»è¶ç©åºç£çåå¸¸å¸¸æè¬ç¶ç¥ã",
-      "spa": "<span class=\"verse-number\">20</span> dando gracias siempre por todo al Dios y Padre, en el nombre de nuestro SeÃ±or Jesucristo.",
-      "por": "<span class=\"verse-number\">20</span> Dando sempre graÃ§as por todas <span class=\"clarity-word\">as coisas</span> a nosso Deus e Pai, em nome de nosso Senhor Jesus Cristo;",
-      "fra": "<span class=\"verse-number\">20 </span>rendez continuellement grÃ¢ces pour toutes choses Ã  Dieu le PÃ¨re, au nom de notre Seigneur JÃ©sus-Christ,",
-      "deu": "<span class=\"verse-number\">20</span> und sagt Gott dem Vater allezeit Dank fÃ¼r alles im Namen unsers Herrn Jesus Christus.",
-      "kor": "<span class=\"verse-number\">20</span> ë²ì¬ì ì°ë¦¬ ì£¼ ìì ê·¸ë¦¬ì¤ëì ì´ë¦ì¼ë¡ í­ì ìë²ì§ íëëê» ê°ì¬íë©°",
-      "ita": "<span class=\"verse-number\">20</span> rendendo continuamente grazie di ogni cosa a Dio Padre nel nome del nostro Signore GesÃ¹ Cristo,"
+      "eng": "Giving thanks always for all things unto God and the Father in the name of our Lord Jesus Christ;",
+      "ara": "رَافِعِينَ الشُّكْرَ كُلَّ حِينٍ وَعَلَى كُلِّ شَيْءٍ لِلهِ وَالآبِ، بِاسْمِ رَبِّنَا يَسُوعَ الْمَسِيحِ؛",
+      "jpn": "そしてすべてのことにつき、いつも、わたしたちの<ruby>主<rt>しゅ</rt></ruby>イエス・キリストの<ruby>御名<rt>みな</rt></ruby>によって、<ruby>父<rt>ちち</rt></ruby>なる<ruby>神<rt>かみ</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>し、",
+      "zhs": "<ruby>凡<rt>fán</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>奉<rt>fèng</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>主<rt>zhǔ</rt></ruby><ruby>耶<rt>yē</rt></ruby><ruby>稣<rt>sū</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>名<rt>míng</rt></ruby><ruby>常<rt>cháng</rt></ruby><ruby>常<rt>cháng</rt></ruby><ruby>感<rt>gǎn</rt></ruby><ruby>谢<rt>xiè</rt></ruby><ruby>父<rt>fù</rt></ruby><ruby>神<rt>shén</rt></ruby>。",
+      "zht": "<ruby>凡<rt>fán</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>奉<rt>fèng</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>主<rt>zhǔ</rt></ruby><ruby>耶<rt>yé</rt></ruby><ruby>穌<rt>sū</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>名<rt>míng</rt></ruby><ruby>常<rt>cháng</rt></ruby><ruby>常<rt>cháng</rt></ruby><ruby>感<rt>gǎn</rt></ruby><ruby>謝<rt>xiè</rt></ruby><ruby>父<rt>fù</rt></ruby><ruby>神<rt>shén</rt></ruby>。",
+      "spa": "dando gracias siempre por todo al Dios y Padre, en el nombre de nuestro Señor Jesucristo.",
+      "por": "Dando sempre graças por todas <span class=\"clarity-word\">as coisas</span> a nosso Deus e Pai, em nome de nosso Senhor Jesus Cristo;",
+      "fra": "rendez continuellement grâces pour toutes choses à Dieu le Père, au nom de notre Seigneur Jésus-Christ,",
+      "deu": "und sagt Gott dem Vater allezeit Dank für alles im Namen unsers Herrn Jesus Christus.",
+      "kor": "범사에 우리 주 예수 그리스도의 이름으로 항상 아버지 하나님께 감사하며",
+      "ita": "rendendo continuamente grazie di ogni cosa a Dio Padre nel nome del nostro Signore Gesù Cristo,"
     },
     "21": {
-      "eng": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p21\" title=\"Associated Content\"><button aria-label=\"Associated Content\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">21 </span>Submitting yourselves one to another in the fear of God.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>Ø®ÙØ§Ø¶ÙØ¹ÙÙÙÙ Ø¨ÙØ¹ÙØ¶ÙÙÙÙÙ ÙÙØ¨ÙØ¹ÙØ¶Ù ÙÙÙ ÙÙØ®ÙØ§ÙÙØ©Ù Ø§ÙÙÙÙØ³ÙÙØ­Ù.",
-      "jpn": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p21\" title=\"é¢é£ã³ã³ãã³ã\"><button aria-label=\"é¢é£ã³ã³ãã³ã\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">21</span> ã­ãªã¹ãã«<ruby><rb>å¯¾</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ããã£ã¦ã<ruby><rb>äº</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã¹ãã§ããã",
-      "zhs": "<span class=\"verse-number\">21ã</span>åå½å­æ¬çåºç£çå¿ï¼å½¼æ­¤é¡ºæã",
-      "zht": "<span class=\"verse-number\">21ã</span>åç¶å­æ¬çåºç£çå¿ï¼å½¼æ­¤é æã",
-      "spa": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p21\" title=\"Contenido relacionado\"><button aria-label=\"Contenido relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">21</span> Someteos los unos a los otros en el temor de Dios.",
-      "por": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p21\" title=\"ConteÃºdo relacionado\"><button aria-label=\"ConteÃºdo relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">21</span> Sujeitando-vos uns aos outros no temor de Deus.",
-      "fra": "<span class=\"verse-number\">21 </span>vous soumettant les uns aux autres dans la crainte de Christ.",
-      "deu": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p21\" title=\"DazugehÃ¶riger Inhalt\"><button aria-label=\"DazugehÃ¶riger Inhalt\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">21</span> <span class=\"para-mark\">Â¶</span> Ordnet euch einander unter, wie es die Furcht (= Ehrfurcht) vor Christus verlangt:",
-      "kor": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p21\" title=\"ê´ë ¨ ì½íì¸ \"><button aria-label=\"ê´ë ¨ ì½íì¸ \" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">21</span> ê·¸ë¦¬ì¤ëë¥¼ ê²½ì¸í¨ì¼ë¡ í¼ì°¨ ë³µì¢íë¼",
-      "ita": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p21\" title=\"Contenuti collegati\"><button aria-label=\"Contenuti collegati\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">21</span> sottoponendovi gli uni agli altri nel timore di Cristo."
+      "eng": "Submitting yourselves one to another in the fear of God.",
+      "ara": "خَاضِعِينَ بَعْضُكُمْ لِبَعْضٍ فِي مَخَافَةِ الْمَسِيحِ.",
+      "jpn": "キリストに<ruby>対<rt>たい</rt></ruby>する<ruby>恐<rt>おそ</rt></ruby>れの<ruby>心<rt>こころ</rt></ruby>をもって、<ruby>互<rt>たがい</rt></ruby>に<ruby>仕<rt>つか</rt></ruby>え<ruby>合<rt>あ</rt></ruby>うべきである。",
+      "zhs": "<ruby>又<rt>yòu</rt></ruby><ruby>当<rt>dāng</rt></ruby><ruby>存<rt>cún</rt></ruby><ruby>敬<rt>jìng</rt></ruby><ruby>畏<rt>wèi</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>心<rt>xīn</rt></ruby>，<ruby>彼<rt>bǐ</rt></ruby><ruby>此<rt>cǐ</rt></ruby><ruby>顺<rt>shùn</rt></ruby><ruby>服<rt>fú</rt></ruby>。",
+      "zht": "<ruby>又<rt>yòu</rt></ruby><ruby>當<rt>dāng</rt></ruby><ruby>存<rt>cún</rt></ruby><ruby>敬<rt>jìng</rt></ruby><ruby>畏<rt>wèi</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>心<rt>xīn</rt></ruby>，<ruby>彼<rt>bǐ</rt></ruby><ruby>此<rt>cǐ</rt></ruby><ruby>順<rt>shùn</rt></ruby><ruby>服<rt>fú</rt></ruby>。",
+      "spa": "Someteos los unos a los otros en el temor de Dios.",
+      "por": "Sujeitando-vos uns aos outros no temor de Deus.",
+      "fra": "vous soumettant les uns aux autres dans la crainte de Christ.",
+      "deu": "<span class=\"para-mark\">¶</span> Ordnet euch einander unter, wie es die Furcht (= Ehrfurcht) vor Christus verlangt:",
+      "kor": "그리스도를 경외함으로 피차 복종하라",
+      "ita": "sottoponendovi gli uni agli altri nel timore di Cristo."
     },
     "22": {
-      "eng": "<span class=\"verse-number\">22 </span>Wives, submit yourselves unto your own husbands, as unto the Lord.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>Ø£ÙÙÙÙØªÙÙÙØ§ Ø§ÙØ²ÙÙÙÙØ¬ÙØ§ØªÙØ Ø§Ø®ÙØ¶ÙØ¹ÙÙÙ ÙØ£ÙØ²ÙÙÙØ§Ø¬ÙÙÙÙÙÙØ ÙÙÙÙØ§ ÙÙÙØ±ÙÙØ¨ÙÙ.",
-      "jpn": "<span class=\"verse-number\">22</span> <ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ããããã«<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>å¤«</rb><rt>ãã£ã¨</rt></ruby>ã«<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ããªããã",
-      "zhs": "<span class=\"verse-number\">22ã</span>ä½ ä»¬ä½å¦»å­çï¼<span class=\"clarity-word\">å½</span>é¡ºæèªå·±çä¸å¤«ï¼å¦å<span class=\"clarity-word\">é¡ºæ</span>ä¸»ã",
-      "zht": "<span class=\"verse-number\">22ã</span>ä½ åä½å¦»å­çï¼<span class=\"clarity-word\">ç¶</span>é æèªå·±çä¸å¤«ï¼å¦å<span class=\"clarity-word\">é æ</span>ä¸»ã",
-      "spa": "<span class=\"verse-number\">22</span> Las casadas estÃ©n sujetas a sus propios maridos, como al SeÃ±or.",
-      "por": "<span class=\"verse-number\">22</span> VÃ³s, mulheres, sujeitai-vos a vosso prÃ³prio marido, como ao Senhor;",
-      "fra": "<span class=\"verse-number\">22 </span>Femmes, soyez soumises Ã  vos maris, comme au SeigneurÂ ;",
-      "deu": "<span class=\"verse-number\">22</span> Die Frauen seien ihren EhemÃ¤nnern untertan, als gÃ¤lte es dem Herrn;",
-      "kor": "<span class=\"verse-number\">22</span> ìë´ë¤ì´ì¬ ìê¸° ë¨í¸ìê² ë³µì¢íê¸°ë¥¼ ì£¼ê» íë¯ íë¼",
-      "ita": "<span class=\"verse-number\">22</span> Mogli, siate soggette ai vostri mariti come al Signore,"
+      "eng": "Wives, submit yourselves unto your own husbands, as unto the Lord.",
+      "ara": "أَيَّتُهَا الزَّوْجَاتُ، اخْضَعْنَ لأَزْوَاجِكُنَّ، كَمَا لِلرَّبِّ.",
+      "jpn": "<ruby>妻<rt>つま</rt></ruby>たる<ruby>者<rt>もの</rt></ruby>よ。<ruby>主<rt>しゅ</rt></ruby>に<ruby>仕<rt>つか</rt></ruby>えるように<ruby>自分<rt>じぶん</rt></ruby>の<ruby>夫<rt>おっと</rt></ruby>に<ruby>仕<rt>つか</rt></ruby>えなさい。",
+      "zhs": "<ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>作<rt>zuò</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>的<rt>de</rt></ruby>，<span class=\"clarity-word\"><ruby>当<rt>dāng</rt></ruby></span><ruby>顺<rt>shùn</rt></ruby><ruby>服<rt>fú</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby>，<ruby>如<rt>rú</rt></ruby><ruby>同<rt>tóng</rt></ruby><span class=\"clarity-word\"><ruby>顺<rt>shùn</rt></ruby><ruby>服<rt>fú</rt></ruby></span><ruby>主<rt>zhǔ</rt></ruby>。",
+      "zht": "<ruby>你<rt>nǐ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>作<rt>zuò</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>的<rt>de</rt></ruby>，<span class=\"clarity-word\"><ruby>當<rt>dāng</rt></ruby></span><ruby>順<rt>shùn</rt></ruby><ruby>服<rt>fú</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby>，<ruby>如<rt>rú</rt></ruby><ruby>同<rt>tóng</rt></ruby><span class=\"clarity-word\"><ruby>順<rt>shùn</rt></ruby><ruby>服<rt>fú</rt></ruby></span><ruby>主<rt>zhǔ</rt></ruby>。",
+      "spa": "Las casadas estén sujetas a sus propios maridos, como al Señor.",
+      "por": "Vós, mulheres, sujeitai-vos a vosso próprio marido, como ao Senhor;",
+      "fra": "Femmes, soyez soumises à vos maris, comme au Seigneur ;",
+      "deu": "Die Frauen seien ihren Ehemännern untertan, als gälte es dem Herrn;",
+      "kor": "아내들이여 자기 남편에게 복종하기를 주께 하듯 하라",
+      "ita": "Mogli, siate soggette ai vostri mariti come al Signore,"
     },
     "23": {
-      "eng": "<span class=\"verse-number\">23 </span>For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙØ¥ÙÙÙÙ Ø§ÙØ²ÙÙÙÙØ¬Ù ÙÙÙÙ Ø±ÙØ£ÙØ³Ù Ø§ÙØ²ÙÙÙÙØ¬ÙØ©Ù ÙÙÙÙØ§ Ø£ÙÙÙÙ Ø§ÙÙÙÙØ³ÙÙØ­Ù Ø£ÙÙÙØ¶Ø§Ù ÙÙÙÙ Ø±ÙØ£ÙØ³Ù Ø§ÙÙÙÙÙÙÙØ³ÙØ©Ù (Ø¬ÙØ³ÙØ¯ÙÙÙ)Ø ÙÙÙÙÙÙ ÙÙÙÙØ³ÙÙÙ ÙÙØ®ÙÙÙÙØµÙ Ø§ÙÙØ¬ÙØ³ÙØ¯Ù.",
-      "jpn": "<span class=\"verse-number\">23</span> ã­ãªã¹ãã<ruby><rb>æä¼</rb><rt>ããããã</rt></ruby>ã®ãããã§ãã£ã¦ã<ruby><rb>èª</rb><rt>ã¿ãã</rt></ruby>ãã¯ãããã ãªã<ruby><rb>æä¼</rb><rt>ããããã</rt></ruby>ã®<ruby><rb>æä¸»</rb><rt>ãããã¬ã</rt></ruby>ã§ããããããã«ã<ruby><rb>å¤«</rb><rt>ãã£ã¨</rt></ruby>ã¯<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã®ãããã§ããã",
-      "zhs": "<span class=\"verse-number\">23ã</span>å ä¸ºä¸å¤«æ¯å¦»å­çå¤´ï¼å¦ååºç£æ¯æä¼çå¤´ï¼ä»åæ¯<span class=\"clarity-word\">æä¼</span>å¨ä½çæä¸»ã",
-      "zht": "<span class=\"verse-number\">23ã</span>å çºä¸å¤«æ¯å¦»å­çé ­ï¼å¦ååºç£æ¯ææçé ­ï¼ä»åæ¯<span class=\"clarity-word\">ææ</span>å¨é«çæä¸»ã",
-      "spa": "<span class=\"verse-number\">23</span> Porque el marido es cabeza de la mujer, asÃ­ como Cristo es cabeza de la iglesia; y Ã©l es el salvador del cuerpo.",
-      "por": "<span class=\"verse-number\">23</span> Porque o marido Ã© a cabeÃ§a da mulher, como tambÃ©m Cristo, a cabeÃ§a da igreja; e ele Ã© o salvador do corpo.",
-      "fra": "<span class=\"verse-number\">23 </span>car le mari est le chef de la femme, comme Christ est le chef de lâÃglise, qui est son corps et dont il est le Sauveur.",
-      "deu": "<span class=\"verse-number\">23</span> denn der Mann ist das Haupt (= Oberhaupt) der Frau, ebenso wie Christus das Haupt der Gemeinde ist, er freilich ist (zugleich) der Retter seines Leibes (d. h. der Gemeinde);",
-      "kor": "<span class=\"verse-number\">23</span> ì´ë ë¨í¸ì´ ìë´ì ë¨¸ë¦¬ ë¨ì´ ê·¸ë¦¬ì¤ëê»ì êµíì ë¨¸ë¦¬ ë¨ê³¼ ê°ìì´ë ê·¸ê° ë°ë¡ ëª¸ì êµ¬ì£¼ìëë¼",
-      "ita": "<span class=\"verse-number\">23</span> poichÃ© il marito Ã¨ capo della moglie, come anche Cristo Ã¨ capo della Chiesa, egli, che Ã¨ il Salvatore del corpo."
+      "eng": "For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.",
+      "ara": "فَإِنَّ الزَّوْجَ هُوَ رَأْسُ الزَّوْجَةِ كَمَا أَنَّ الْمَسِيحَ أَيْضاً هُوَ رَأْسُ الْكَنِيسَةِ (جَسَدِهِ)، وَهُوَ نَفْسُهُ مُخَلِّصُ الْجَسَدِ.",
+      "jpn": "キリストが<ruby>教会<rt>きょうかい</rt></ruby>のかしらであって、<ruby>自<rt>みずか</rt></ruby>らは、からだなる<ruby>教会<rt>きょうかい</rt></ruby>の<ruby>救主<rt>すくいぬし</rt></ruby>であられるように、<ruby>夫<rt>おっと</rt></ruby>は<ruby>妻<rt>つま</rt></ruby>のかしらである。",
+      "zhs": "<ruby>因<rt>yīn</rt></ruby><ruby>为<rt>wèi</rt></ruby><ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>头<rt>tóu</rt></ruby>，<ruby>如<rt>rú</rt></ruby><ruby>同<rt>tóng</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>会<rt>huì</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>头<rt>tóu</rt></ruby>；<ruby>他<rt>tā</rt></ruby><ruby>又<rt>yòu</rt></ruby><ruby>是<rt>shì</rt></ruby><span class=\"clarity-word\"><ruby>教<rt>jiào</rt></ruby><ruby>会<rt>huì</rt></ruby></span><ruby>全<rt>quán</rt></ruby><ruby>体<rt>tǐ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>救<rt>jiù</rt></ruby><ruby>主<rt>zhǔ</rt></ruby>。",
+      "zht": "<ruby>因<rt>yīn</rt></ruby><ruby>為<rt>wèi</rt></ruby><ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>頭<rt>tóu</rt></ruby>，<ruby>如<rt>rú</rt></ruby><ruby>同<rt>tóng</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>會<rt>huì</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>頭<rt>tóu</rt></ruby>；<ruby>他<rt>tā</rt></ruby><ruby>又<rt>yòu</rt></ruby><ruby>是<rt>shì</rt></ruby><span class=\"clarity-word\"><ruby>教<rt>jiào</rt></ruby><ruby>會<rt>huì</rt></ruby></span><ruby>全<rt>quán</rt></ruby><ruby>體<rt>tǐ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>救<rt>jiù</rt></ruby><ruby>主<rt>zhǔ</rt></ruby>。",
+      "spa": "Porque el marido es cabeza de la mujer, así como Cristo es cabeza de la iglesia; y él es el salvador del cuerpo.",
+      "por": "Porque o marido é a cabeça da mulher, como também Cristo, a cabeça da igreja; e ele é o salvador do corpo.",
+      "fra": "car le mari est le chef de la femme, comme Christ est le chef de l’Église, qui est son corps et dont il est le Sauveur.",
+      "deu": "denn der Mann ist das Haupt (= Oberhaupt) der Frau, ebenso wie Christus das Haupt der Gemeinde ist, er freilich ist (zugleich) der Retter seines Leibes (d. h. der Gemeinde);",
+      "kor": "이는 남편이 아내의 머리 됨이 그리스도께서 교회의 머리 됨과 같음이니 그가 바로 몸의 구주시니라",
+      "ita": "poiché il marito è capo della moglie, come anche Cristo è capo della Chiesa, egli, che è il Salvatore del corpo."
     },
     "24": {
-      "eng": "<span class=\"verse-number\">24 </span>Therefore as the church is subject unto Christ, so <span class=\"clarity-word\">let</span> the wives <span class=\"clarity-word\">be</span> to their own husbands in every thing.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙÙÙÙÙØ§ Ø£ÙÙÙÙ Ø§ÙÙÙÙÙÙÙØ³ÙØ©Ù ÙÙØ¯Ù Ø£ÙØ®ÙØ¶ÙØ¹ÙØªÙ ÙÙÙÙÙÙØ³ÙÙØ­ÙØ ÙÙÙÙØ°ÙÙÙÙ Ø§ÙØ²ÙÙÙÙØ¬ÙØ§ØªÙ Ø£ÙÙÙØ¶Ø§Ù ÙØ£ÙØ²ÙÙÙØ§Ø¬ÙÙÙÙÙÙØ ÙÙÙ ÙÙÙÙÙ Ø´ÙÙÙØ¡Ù.",
-      "jpn": "<span class=\"verse-number\">24</span> ããã¦<ruby><rb>æä¼</rb><rt>ããããã</rt></ruby>ãã­ãªã¹ãã«<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ããããã«ã<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ããã¹ã¦ã®ãã¨ã«ããã¦ã<ruby><rb>å¤«</rb><rt>ãã£ã¨</rt></ruby>ã«<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ããã¹ãã§ããã",
-      "zhs": "<span class=\"verse-number\">24ã</span>æä¼ææ ·é¡ºæåºç£ï¼å¦»å­ä¹è¦ææ ·å¡äºé¡ºæä¸å¤«ã",
-      "zht": "<span class=\"verse-number\">24ã</span>ææææ¨£é æåºç£ï¼å¦»å­ä¹è¦ææ¨£å¡äºé æä¸å¤«ã",
-      "spa": "<span class=\"verse-number\">24</span> AsÃ­ que, como la iglesia estÃ¡ sujeta a Cristo, asÃ­ tambiÃ©n las casadas <span class=\"clarity-word\">lo estÃ©n</span> a sus maridos en todo.",
-      "por": "<span class=\"verse-number\">24</span> De sorte que, assim como a igreja estÃ¡ sujeita a Cristo, assim tambÃ©m as mulheres <span class=\"clarity-word\">estejam</span> em tudo sujeitas a seu prÃ³prio marido.",
-      "fra": "<span class=\"verse-number\">24 </span>Or, de mÃªme que lâÃglise est soumise Ã  Christ, les femmes aussi doivent lâÃªtre Ã  leurs maris en toutes choses.",
-      "deu": "<span class=\"verse-number\">24</span> dennoch, wie die Gemeinde (dem Herrn) Christus Untertan ist, so sollen es auch die Frauen ihren MÃ¤nnern in jeder Beziehung sein.",
-      "kor": "<span class=\"verse-number\">24</span> ê·¸ë¬ë¯ë¡ êµíê° ê·¸ë¦¬ì¤ëìê² íë¯ ìë´ë¤ë ë²ì¬ì ìê¸° ë¨í¸ìê² ë³µì¢í ì§ëë¼",
-      "ita": "<span class=\"verse-number\">24</span> Ma come la Chiesa Ã¨ soggetta a Cristo, cosÃ¬ anche le mogli devono essere soggette ai loro mariti in ogni cosa."
+      "eng": "Therefore as the church is subject unto Christ, so <span class=\"clarity-word\">let</span> the wives <span class=\"clarity-word\">be</span> to their own husbands in every thing.",
+      "ara": "فَكَمَا أَنَّ الْكَنِيسَةَ قَدْ أُخْضِعَتْ لِلْمَسِيحِ، فَكَذلِكَ الزَّوْجَاتُ أَيْضاً لأَزْوَاجِهِنَّ، فِي كُلِّ شَيْءٍ.",
+      "jpn": "そして<ruby>教会<rt>きょうかい</rt></ruby>がキリストに<ruby>仕<rt>つか</rt></ruby>えるように、<ruby>妻<rt>つま</rt></ruby>もすべてのことにおいて、<ruby>夫<rt>おっと</rt></ruby>に<ruby>仕<rt>つか</rt></ruby>えるべきである。",
+      "zhs": "<ruby>教<rt>jiào</rt></ruby><ruby>会<rt>huì</rt></ruby><ruby>怎<rt>zěn</rt></ruby><ruby>样<rt>yàng</rt></ruby><ruby>顺<rt>shùn</rt></ruby><ruby>服<rt>fú</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby>，<ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>也<rt>yě</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>怎<rt>zěn</rt></ruby><ruby>样<rt>yàng</rt></ruby><ruby>凡<rt>fán</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>顺<rt>shùn</rt></ruby><ruby>服<rt>fú</rt></ruby><ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby>。",
+      "zht": "<ruby>教<rt>jiào</rt></ruby><ruby>會<rt>huì</rt></ruby><ruby>怎<rt>zěn</rt></ruby><ruby>樣<rt>yàng</rt></ruby><ruby>順<rt>shùn</rt></ruby><ruby>服<rt>fú</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby>，<ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>也<rt>yě</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>怎<rt>zěn</rt></ruby><ruby>樣<rt>yàng</rt></ruby><ruby>凡<rt>fán</rt></ruby><ruby>事<rt>shì</rt></ruby><ruby>順<rt>shùn</rt></ruby><ruby>服<rt>fú</rt></ruby><ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby>。",
+      "spa": "Así que, como la iglesia está sujeta a Cristo, así también las casadas <span class=\"clarity-word\">lo estén</span> a sus maridos en todo.",
+      "por": "De sorte que, assim como a igreja está sujeita a Cristo, assim também as mulheres <span class=\"clarity-word\">estejam</span> em tudo sujeitas a seu próprio marido.",
+      "fra": "Or, de même que l’Église est soumise à Christ, les femmes aussi doivent l’être à leurs maris en toutes choses.",
+      "deu": "dennoch, wie die Gemeinde (dem Herrn) Christus Untertan ist, so sollen es auch die Frauen ihren Männern in jeder Beziehung sein.",
+      "kor": "그러므로 교회가 그리스도에게 하듯 아내들도 범사에 자기 남편에게 복종할지니라",
+      "ita": "Ma come la Chiesa è soggetta a Cristo, così anche le mogli devono essere soggette ai loro mariti in ogni cosa."
     },
     "25": {
-      "eng": "<span class=\"verse-number\">25 </span>Husbands, love your wives, even as Christ also loved the church, and gave himself for it;",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>Ø£ÙÙÙÙÙÙØ§ Ø§ÙØ£ÙØ²ÙÙÙØ§Ø¬ÙØ Ø£ÙØ­ÙØ¨ÙÙÙØ§ Ø²ÙÙÙØ¬ÙØ§ØªÙÙÙÙÙ ÙÙØ«ÙÙÙÙÙØ§ Ø£ÙØ­ÙØ¨ÙÙ Ø§ÙÙÙÙØ³ÙÙØ­Ù Ø§ÙÙÙÙÙÙÙØ³ÙØ©Ù ÙÙØ¨ÙØ°ÙÙÙ ÙÙÙÙØ³ÙÙÙ ÙØ£ÙØ¬ÙÙÙÙÙØ§Ø",
-      "jpn": "<span class=\"verse-number\">25</span> <ruby><rb>å¤«</rb><rt>ãã£ã¨</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããã­ãªã¹ãã<ruby><rb>æä¼</rb><rt>ããããã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¦ãã®ããã«ã<ruby><rb>èªèº«</rb><rt>ããã</rt></ruby>ãããããããããã«ã<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããªããã",
-      "zhs": "<span class=\"verse-number\">25ã</span>ä½ ä»¬ä½ä¸å¤«çï¼è¦ç±ä½ ä»¬çå¦»å­ï¼æ­£å¦åºç£ç±æä¼ï¼ä¸ºæä¼èå·±ã",
-      "zht": "<span class=\"verse-number\">25ã</span>ä½ åä½ä¸å¤«çï¼è¦æä½ åçå¦»å­ï¼æ­£å¦åºç£æææï¼çºæææ¨å·±ã",
-      "spa": "<span class=\"verse-number\">25</span> Maridos, amad a vuestras esposas, asÃ­ como Cristo amÃ³ a la iglesia, y se entregÃ³ a sÃ­ mismo por ella,",
-      "por": "<span class=\"verse-number\">25</span> VÃ³s, maridos, amai a vossa prÃ³pria mulher, como tambÃ©m Cristo amou a igreja, e a si mesmo se entregou por ela,",
-      "fra": "<span class=\"verse-number\">25 </span>Maris, aimez vos femmes, comme Christ a aimÃ© lâÃglise et sâest livrÃ© lui-mÃªme pour elle,",
-      "deu": "<span class=\"verse-number\">25</span> <span class=\"para-mark\">Â¶</span> Ihr MÃ¤nner, liebet eure Frauen, wie auch Christus die Gemeinde geliebt und sich fÃ¼r sie dahingegeben hat,",
-      "kor": "<span class=\"verse-number\">25</span> ë¨í¸ë¤ì ìë´ ì¬ëíê¸°ë¥¼ ê·¸ë¦¬ì¤ëê»ì êµíë¥¼ ì¬ëíìê³  ê·¸ êµíë¥¼ ìíì¬ ìì ì ì£¼ì¬ ê°ì´ íë¼",
-      "ita": "<span class=\"verse-number\">25</span> Mariti, amate le vostre mogli, come anche Cristo ha amato la Chiesa e ha dato se stesso per lei,"
+      "eng": "Husbands, love your wives, even as Christ also loved the church, and gave himself for it;",
+      "ara": "أَيُّهَا الأَزْوَاجُ، أَحِبُّوا زَوْجَاتِكُمْ مِثْلَمَا أَحَبَّ الْمَسِيحُ الْكَنِيسَةَ وَبَذَلَ نَفْسَهُ لأَجْلِهَا،",
+      "jpn": "<ruby>夫<rt>おっと</rt></ruby>たる<ruby>者<rt>もの</rt></ruby>よ。キリストが<ruby>教会<rt>きょうかい</rt></ruby>を<ruby>愛<rt>あい</rt></ruby>してそのためにご<ruby>自身<rt>じしん</rt></ruby>をささげられたように、<ruby>妻<rt>つま</rt></ruby>を<ruby>愛<rt>あい</rt></ruby>しなさい。",
+      "zhs": "<ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>作<rt>zuò</rt></ruby><ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>要<rt>yào</rt></ruby><ruby>爱<rt>ài</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby>，<ruby>正<rt>zhèng</rt></ruby><ruby>如<rt>rú</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>爱<rt>ài</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>会<rt>huì</rt></ruby>，<ruby>为<rt>wèi</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>会<rt>huì</rt></ruby><ruby>舍<rt>shě</rt></ruby><ruby>己<rt>jǐ</rt></ruby>。",
+      "zht": "<ruby>你<rt>nǐ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>作<rt>zuò</rt></ruby><ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby><ruby>的<rt>de</rt></ruby>，<ruby>要<rt>yào</rt></ruby><ruby>愛<rt>ài</rt></ruby><ruby>你<rt>nǐ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby>，<ruby>正<rt>zhèng</rt></ruby><ruby>如<rt>rú</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>愛<rt>ài</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>會<rt>huì</rt></ruby>，<ruby>為<rt>wèi</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>會<rt>huì</rt></ruby><ruby>捨<rt>shě</rt></ruby><ruby>己<rt>jǐ</rt></ruby>。",
+      "spa": "Maridos, amad a vuestras esposas, así como Cristo amó a la iglesia, y se entregó a sí mismo por ella,",
+      "por": "Vós, maridos, amai a vossa própria mulher, como também Cristo amou a igreja, e a si mesmo se entregou por ela,",
+      "fra": "Maris, aimez vos femmes, comme Christ a aimé l’Église et s’est livré lui-même pour elle,",
+      "deu": "<span class=\"para-mark\">¶</span> Ihr Männer, liebet eure Frauen, wie auch Christus die Gemeinde geliebt und sich für sie dahingegeben hat,",
+      "kor": "남편들아 아내 사랑하기를 그리스도께서 교회를 사랑하시고 그 교회를 위하여 자신을 주심 같이 하라",
+      "ita": "Mariti, amate le vostre mogli, come anche Cristo ha amato la Chiesa e ha dato se stesso per lei,"
     },
     "26": {
-      "eng": "<span class=\"verse-number\">26 </span>That he might sanctify and cleanse it with the washing of water by the word,",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙÙÙÙÙ ÙÙÙÙØ¯ÙÙØ³ÙÙÙØ§ ÙÙØ·ÙÙÙÙØ±Ø§Ù Ø¥ÙÙÙÙØ§ÙÙØ§ Ø¨ÙØºÙØ³ÙÙÙ Ø§ÙÙÙÙØ§Ø¡ÙØ Ø¨ÙØ§ÙÙÙÙÙÙÙÙØ©ÙØ",
-      "jpn": "<span class=\"verse-number\">26</span> ã­ãªã¹ãããããªãã£ãã®ã¯ã<ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã§<ruby><rb>æ´</rb><rt>ãã</rt></ruby>ããã¨ã«ããã<ruby><rb>è¨è</rb><rt>ãã¨ã°</rt></ruby>ã«ãã£ã¦ã<ruby><rb>æä¼</rb><rt>ããããã</rt></ruby>ããããã¦<ruby><rb>è</rb><rt>ãã</rt></ruby>ãªããã®ã¨ããããã§ããã",
-      "zhs": "<span class=\"verse-number\">26ã</span>è¦ç¨æ°´åçéææä¼æ´åï¼æä¸ºå£æ´ï¼",
-      "zht": "<span class=\"verse-number\">26ã</span>è¦ç¨æ°´èèéææææ´æ·¨ï¼æçºèæ½ï¼",
-      "spa": "<span class=\"verse-number\">26</span> para santificarla, habiÃ©ndola purificado en el lavamiento del agua por la palabra,",
-      "por": "<span class=\"verse-number\">26</span> Para a santificar, purificando-a com a lavagem da Ã¡gua, pela palavra,",
-      "fra": "<span class=\"verse-number\">26 </span>afin de la sanctifier par la parole, aprÃ¨s lâavoir purifiÃ©e par le baptÃªme dâeau,",
-      "deu": "<span class=\"verse-number\">26</span> um sie zu heiligen (= Gott zu weihen), nachdem er sie durch das Wasserbad im Wort (oder: vermittels eines Wortes, d. h. einer Zusage, oder: eines Lehrworts) gereinigt hat,",
-      "kor": "<span class=\"verse-number\">26</span> ì´ë ê³§ ë¬¼ë¡ ì»ì´ ë§ìì¼ë¡ ê¹¨ëíê² íì¬ ê±°ë£©íê² íìê³",
-      "ita": "<span class=\"verse-number\">26</span> al fine di santificarla, dopo averla purificata con il lavaggio dellâacqua mediante la Parola,"
+      "eng": "That he might sanctify and cleanse it with the washing of water by the word,",
+      "ara": "لِكَيْ يُقَدِّسَهَا مُطَهِّراً إِيَّاهَا بِغَسْلِ الْمَاءِ، بِالْكَلِمَةِ،",
+      "jpn": "キリストがそうなさったのは、<ruby>水<rt>みず</rt></ruby>で<ruby>洗<rt>あら</rt></ruby>うことにより、<ruby>言葉<rt>ことば</rt></ruby>によって、<ruby>教会<rt>きょうかい</rt></ruby>をきよめて<ruby>聖<rt>せい</rt></ruby>なるものとするためであり、",
+      "zhs": "<ruby>要<rt>yào</rt></ruby><ruby>用<rt>yòng</rt></ruby><ruby>水<rt>shuǐ</rt></ruby><ruby>借<rt>jiè</rt></ruby><ruby>着<rt>zhe</rt></ruby><ruby>道<rt>dào</rt></ruby><ruby>把<rt>bǎ</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>会<rt>huì</rt></ruby><ruby>洗<rt>xǐ</rt></ruby><ruby>净<rt>jìng</rt></ruby>，<ruby>成<rt>chéng</rt></ruby><ruby>为<rt>wéi</rt></ruby><ruby>圣<rt>shèng</rt></ruby><ruby>洁<rt>jié</rt></ruby>，",
+      "zht": "<ruby>要<rt>yào</rt></ruby><ruby>用<rt>yòng</rt></ruby><ruby>水<rt>shuǐ</rt></ruby><ruby>藉<rt>jí</rt></ruby><ruby>著<rt>zhù</rt></ruby><ruby>道<rt>dào</rt></ruby><ruby>把<rt>bǎ</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>會<rt>huì</rt></ruby><ruby>洗<rt>xǐ</rt></ruby><ruby>淨<rt>jìng</rt></ruby>，<ruby>成<rt>chéng</rt></ruby><ruby>為<rt>wèi</rt></ruby><ruby>聖<rt>shèng</rt></ruby><ruby>潔<rt>jié</rt></ruby>，",
+      "spa": "para santificarla, habiéndola purificado en el lavamiento del agua por la palabra,",
+      "por": "Para a santificar, purificando-a com a lavagem da água, pela palavra,",
+      "fra": "afin de la sanctifier par la parole, après l’avoir purifiée par le baptême d’eau,",
+      "deu": "um sie zu heiligen (= Gott zu weihen), nachdem er sie durch das Wasserbad im Wort (oder: vermittels eines Wortes, d. h. einer Zusage, oder: eines Lehrworts) gereinigt hat,",
+      "kor": "ì´ë ê³§ ë¬¼ë¡ ì»ì´ ë§ìì¼ë¡ ê¹¨ëíê² íì¬ ê±°ë£©íê² íìê³",
+      "ita": "al fine di santificarla, dopo averla purificata con il lavaggio dell’acqua mediante la Parola,"
     },
     "27": {
-      "eng": "<span class=\"verse-number\">27 </span>That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>Ø­ÙØªÙÙÙ ÙÙØ²ÙÙÙÙÙÙØ§ Ø¥ÙÙÙÙ ÙÙÙÙØ³ÙÙÙ ÙÙÙÙÙØ³ÙØ©Ù Ø¨ÙÙÙÙÙÙØ©Ù ÙÙØ§ ÙÙØ´ÙÙØ¨ÙÙÙØ§ Ø¹ÙÙÙØ¨Ù Ø£ÙÙÙ ØªÙØ¬ÙØ¹ÙÙØ¯Ù Ø£ÙÙÙ Ø£ÙÙÙÙØ©Ù ÙÙÙÙÙØµÙØ©Ù ÙÙØ´ÙØ§Ø¨ÙÙÙØ©Ù Ø¨ÙÙÙ ØªÙÙÙÙÙÙ ÙÙÙÙØ¯ÙÙØ³ÙØ©Ù Ø®ÙØ§ÙÙÙÙØ©Ù ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙÙØ¨Ù.",
-      "jpn": "<span class=\"verse-number\">27</span> ã¾ãããã¿ãããããããã®ãããã®ãã®ããã£ãããªãã<ruby><rb>æ¸</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>å·</rb><rt>ãã</rt></ruby>ã®ãªã<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>å§¿</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æä¼</rb><rt>ããããã</rt></ruby>ããã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã«<ruby><rb>è¿</rb><rt>ãã</rt></ruby>ããããã§ããã",
-      "zhs": "<span class=\"verse-number\">27ã</span>å¯ä»¥ç®ç»èªå·±ï¼ä½ä¸ªè£èçæä¼ï¼æ¯«æ ç·æ±¡ãç±çº¹ç­ç±»ççï¼ä¹æ¯å£æ´æ²¡æççµçã",
-      "zht": "<span class=\"verse-number\">27ã</span>å¯ä»¥ç»çµ¦èªå·±ï¼ä½åæ¦®èçææï¼æ¯«ç¡ç·æ±¡ãçºç´ç­é¡ççï¼ä¹æ¯èæ½æ²æççµçã",
-      "spa": "<span class=\"verse-number\">27</span> a fin de presentÃ¡rsela a sÃ­ mismo, una iglesia gloriosa que no tuviese mancha ni arruga, ni cosa semejante, sino que fuese santa y sin mancha.",
-      "por": "<span class=\"verse-number\">27</span> Para a apresentar a si mesmo igreja gloriosa, que nÃ£o tivesse mÃ¡cula, nem ruga, nem <span class=\"clarity-word\">coisa</span> semelhante, mas que fosse santa e irrepreensÃ­vel.",
-      "fra": "<span class=\"verse-number\">27 </span>afin de faire paraÃ®tre devant lui cette Ãglise glorieuse, sans tache, ni ride, ni rien de semblable, mais sainte et irrÃ©prÃ©hensible.",
-      "deu": "<span class=\"verse-number\">27</span> um so die Gemeinde fÃ¼r (oder: vor) sich selbst in herrlicher SchÃ¶nheit hinzustellen, ohne Flecken und Runzeln oder irgend einen derartigen Fehler, vielmehr so, daÃ sie heilig und ohne Tadel sei.",
-      "kor": "<span class=\"verse-number\">27</span> ìê¸° ìì ìê´ì¤ë¬ì´ êµíë¡ ì¸ì°ì¬ í°ë ì£¼ë¦ ì¡í ê²ì´ë ì´ë° ê²ë¤ì´ ìì´ ê±°ë£©íê³  í ì´ ìê² íë ¤ íì¬ì´ë¼",
-      "ita": "<span class=\"verse-number\">27</span> al fine di far egli stesso comparire dinanzi a sÃ© questa Chiesa, gloriosa, senza macchia, senza ruga o alcuna cosa simile, ma santa e irreprensibile."
+      "eng": "That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.",
+      "ara": "حَتَّى يَزُفَّهَا إِلَى نَفْسِهِ كَنِيسَةً بَهِيَّةً لَا يَشُوبُهَا عَيْبٌ أَوْ تَجَعُّدٌ أَوْ أَيَّةُ نَقِيصَةٍ مُشَابِهَةٍ بَلْ تَكُونُ مُقَدَّسَةً خَالِيَةً مِنَ الْعُيُوبِ.",
+      "jpn": "また、しみも、しわも、そのたぐいのものがいっさいなく、<ruby>清<rt>きよ</rt></ruby>くて<ruby>傷<rt>きず</rt></ruby>のない<ruby>栄光<rt>えいこう</rt></ruby>の<ruby>姿<rt>すがた</rt></ruby>の<ruby>教会<rt>きょうかい</rt></ruby>を、ご<ruby>自分<rt>じぶん</rt></ruby>に<ruby>迎<rt>むか</rt></ruby>えるためである。",
+      "zhs": "<ruby>可<rt>kě</rt></ruby><ruby>以<rt>yǐ</rt></ruby><ruby>献<rt>xiàn</rt></ruby><ruby>给<rt>gěi</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby>，<ruby>作<rt>zuò</rt></ruby><ruby>个<rt>gè</rt></ruby><ruby>荣<rt>róng</rt></ruby><ruby>耀<rt>yào</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>会<rt>huì</rt></ruby>，<ruby>毫<rt>háo</rt></ruby><ruby>无<rt>wú</rt></ruby><ruby>玷<rt>diàn</rt></ruby><ruby>污<rt>wū</rt></ruby>、<ruby>皱<rt>zhòu</rt></ruby><ruby>纹<rt>wén</rt></ruby><ruby>等<rt>děng</rt></ruby><ruby>类<rt>lèi</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>病<rt>bìng</rt></ruby>，<ruby>乃<rt>nǎi</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>圣<rt>shèng</rt></ruby><ruby>洁<rt>jié</rt></ruby><ruby>没<rt>méi</rt></ruby><ruby>有<rt>yǒu</rt></ruby><ruby>瑕<rt>xiá</rt></ruby><ruby>疵<rt>cī</rt></ruby><ruby>的<rt>de</rt></ruby>。",
+      "zht": "<ruby>可<rt>kě</rt></ruby><ruby>以<rt>yǐ</rt></ruby><ruby>獻<rt>xiàn</rt></ruby><ruby>給<rt>gěi</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby>，<ruby>作<rt>zuò</rt></ruby><ruby>個<rt>gè</rt></ruby><ruby>榮<rt>róng</rt></ruby><ruby>耀<rt>yào</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>會<rt>huì</rt></ruby>，<ruby>毫<rt>háo</rt></ruby><ruby>無<rt>wú</rt></ruby><ruby>玷<rt>diàn</rt></ruby><ruby>污<rt>wū</rt></ruby>、<ruby>皺<rt>zhòu</rt></ruby><ruby>紋<rt>wén</rt></ruby><ruby>等<rt>děng</rt></ruby><ruby>類<rt>lèi</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>病<rt>bìng</rt></ruby>，<ruby>乃<rt>nǎi</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>聖<rt>shèng</rt></ruby><ruby>潔<rt>jié</rt></ruby><ruby>沒<rt>méi</rt></ruby><ruby>有<rt>yǒu</rt></ruby><ruby>瑕<rt>xiá</rt></ruby><ruby>疵<rt>cī</rt></ruby><ruby>的<rt>de</rt></ruby>。",
+      "spa": "a fin de presentársela a sí mismo, una iglesia gloriosa que no tuviese mancha ni arruga, ni cosa semejante, sino que fuese santa y sin mancha.",
+      "por": "Para a apresentar a si mesmo igreja gloriosa, que não tivesse mácula, nem ruga, nem <span class=\"clarity-word\">coisa</span> semelhante, mas que fosse santa e irrepreensível.",
+      "fra": "afin de faire paraître devant lui cette Église glorieuse, sans tache, ni ride, ni rien de semblable, mais sainte et irrépréhensible.",
+      "deu": "um so die Gemeinde für (oder: vor) sich selbst in herrlicher Schönheit hinzustellen, ohne Flecken und Runzeln oder irgend einen derartigen Fehler, vielmehr so, daß sie heilig und ohne Tadel sei.",
+      "kor": "자기 앞에 영광스러운 교회로 세우사 티나 주름 잡힌 것이나 이런 것들이 없이 거룩하고 흠이 없게 하려 하심이라",
+      "ita": "al fine di far egli stesso comparire dinanzi a sé questa Chiesa, gloriosa, senza macchia, senza ruga o alcuna cosa simile, ma santa e irreprensibile."
     },
     "28": {
-      "eng": "<span class=\"verse-number\">28 </span>So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>Ø¹ÙÙÙÙ ÙÙØ°ÙØ§ Ø§ÙÙÙÙØ«ÙØ§ÙÙ ÙÙØ¬ÙØ¨Ù Ø¹ÙÙÙÙ Ø§ÙØ£ÙØ²ÙÙÙØ§Ø¬Ù Ø£ÙÙÙ ÙÙØ­ÙØ¨ÙÙÙØ§ Ø²ÙÙÙØ¬ÙØ§ØªÙÙÙÙÙ ÙÙØ£ÙØ¬ÙØ³ÙØ§Ø¯ÙÙÙÙÙ. Ø¥ÙÙÙÙ ÙÙÙÙ ÙÙØ­ÙØ¨ÙÙ Ø²ÙÙÙØ¬ÙØªÙÙÙØ ÙÙØ­ÙØ¨ÙÙ ÙÙÙÙØ³ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">28</span> ããã¨<ruby><rb>å</rb><rt>ããª</rt></ruby>ããã<ruby><rb>å¤«</rb><rt>ãã£ã¨</rt></ruby>ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ãã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®ããã ã®ããã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã­ã°ãªããªãã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby><ruby><rb>èªèº«</rb><rt>ããã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããã®ã§ããã",
-      "zhs": "<span class=\"verse-number\">28ã</span>ä¸å¤«ä¹å½ç§æ ·ç±å¦»å­ï¼å¦åç±èªå·±çèº«å­ï¼ç±å¦»å­ä¾¿æ¯ç±èªå·±äºã",
-      "zht": "<span class=\"verse-number\">28ã</span>ä¸å¤«ä¹ç¶ç§æ¨£æå¦»å­ï¼å¦åæèªå·±çèº«å­ï¼æå¦»å­ä¾¿æ¯æèªå·±äºã",
-      "spa": "<span class=\"verse-number\">28</span> AsÃ­ tambiÃ©n los maridos deben amar a sus esposas como a sus mismos cuerpos. El que ama a su esposa, a sÃ­ mismo se ama.",
-      "por": "<span class=\"verse-number\">28</span> Assim devem os maridos amar a sua prÃ³pria mulher, como a seu prÃ³prio corpo. Quem ama a sua prÃ³pria mulher, ama-se a si mesmo.",
-      "fra": "<span class=\"verse-number\">28 </span>Câest ainsi que les maris doivent aimer leurs femmes comme leur propre corps. Celui qui aime sa femme sâaime lui-mÃªme.",
-      "deu": "<span class=\"verse-number\">28</span> Ebenso sind auch die MÃ¤nner verpflichtet, ihre Frauen wie (oder: als) ihre eigenen Leiber zu lieben. Wer seine Frau liebt, liebt sich selbst;",
-      "kor": "<span class=\"verse-number\">28</span> ì´ì ê°ì´ ë¨í¸ë¤ë ìê¸° ìë´ ì¬ëíê¸°ë¥¼ ìê¸° ìì ê³¼ ê°ì´ í ì§ë ìê¸° ìë´ë¥¼ ì¬ëíë ìë ìê¸°ë¥¼ ì¬ëíë ê²ì´ë¼",
-      "ita": "<span class=\"verse-number\">28</span> Allo stesso modo anche i mariti devono amare le loro mogli come i loro propri corpi. Chi ama sua moglie ama se stesso."
+      "eng": "So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.",
+      "ara": "عَلَى هَذَا الْمِثَالِ يَجِبُ عَلَى الأَزْوَاجِ أَنْ يُحِبُّوا زَوْجَاتِهِمْ كَأَجْسَادِهِمْ. إِنَّ مَنْ يُحِبُّ زَوْجَتَهُ، يُحِبُّ نَفْسَهُ.",
+      "jpn": "それと<ruby>同<rt>おな</rt></ruby>じく、<ruby>夫<rt>おっと</rt></ruby>も<ruby>自分<rt>じぶん</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>を、<ruby>自分<rt>じぶん</rt></ruby>のからだのように<ruby>愛<rt>あい</rt></ruby>さねばならない。<ruby>自分<rt>じぶん</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>を<ruby>愛<rt>あい</rt></ruby>する<ruby>者<rt>もの</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby><ruby>自身<rt>じしん</rt></ruby>を<ruby>愛<rt>あい</rt></ruby>するのである。",
+      "zhs": "<ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby><ruby>也<rt>yě</rt></ruby><ruby>当<rt>dāng</rt></ruby><ruby>照<rt>zhào</rt></ruby><ruby>样<rt>yàng</rt></ruby><ruby>爱<rt>ài</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby>，<ruby>如<rt>rú</rt></ruby><ruby>同<rt>tóng</rt></ruby><ruby>爱<rt>ài</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>身<rt>shēn</rt></ruby><ruby>子<rt>zi</rt></ruby>；<ruby>爱<rt>ài</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>便<rt>biàn</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>爱<rt>ài</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby><ruby>了<rt>le</rt></ruby>。",
+      "zht": "<ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby><ruby>也<rt>yě</rt></ruby><ruby>當<rt>dāng</rt></ruby><ruby>照<rt>zhào</rt></ruby><ruby>樣<rt>yàng</rt></ruby><ruby>愛<rt>ài</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby>，<ruby>如<rt>rú</rt></ruby><ruby>同<rt>tóng</rt></ruby><ruby>愛<rt>ài</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>身<rt>shēn</rt></ruby><ruby>子<rt>zi</rt></ruby>；<ruby>愛<rt>ài</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>便<rt>biàn</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>愛<rt>ài</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby><ruby>了<rt>le</rt></ruby>。",
+      "spa": "Así también los maridos deben amar a sus esposas como a sus mismos cuerpos. El que ama a su esposa, a sí mismo se ama.",
+      "por": "Assim devem os maridos amar a sua própria mulher, como a seu próprio corpo. Quem ama a sua própria mulher, ama-se a si mesmo.",
+      "fra": "C’est ainsi que les maris doivent aimer leurs femmes comme leur propre corps. Celui qui aime sa femme s’aime lui-même.",
+      "deu": "Ebenso sind auch die Männer verpflichtet, ihre Frauen wie (oder: als) ihre eigenen Leiber zu lieben. Wer seine Frau liebt, liebt sich selbst;",
+      "kor": "이와 같이 남편들도 자기 아내 사랑하기를 자기 자신과 같이 할지니 자기 아내를 사랑하는 자는 자기를 사랑하는 것이라",
+      "ita": "Allo stesso modo anche i mariti devono amare le loro mogli come i loro propri corpi. Chi ama sua moglie ama se stesso."
     },
     "29": {
-      "eng": "<span class=\"verse-number\">29 </span>For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:",
-      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙÙØ§ Ø£ÙØ­ÙØ¯Ù ÙÙØ¨ÙØºÙØ¶Ù Ø¬ÙØ³ÙØ¯ÙÙÙ Ø§ÙÙØ¨ÙØªÙÙØ©ÙØ Ø¨ÙÙÙ ÙÙØºÙØ°ÙÙÙÙÙ ÙÙÙÙØ¹ÙØªÙÙÙÙ Ø¨ÙÙÙØ ÙÙÙÙØ§ ÙÙØ¹ÙØ§ÙÙÙÙ Ø§ÙÙÙÙØ³ÙÙØ­Ù Ø£ÙÙÙØ¶Ø§Ù Ø§ÙÙÙÙÙÙÙØ³ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">29</span> <ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby><ruby><rb>èªèº«</rb><rt>ããã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ãã <ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ããã¾ã ãã¤ã¦ãã²ã¨ããããªããããã£ã¦ãã­ãªã¹ãã<ruby><rb>æä¼</rb><rt>ããããã</rt></ruby>ã«ãªãã£ãããã«ãã¦ããã®ãã<ruby><rb>è²</rb><rt>ãã </rt></ruby>ã¦<ruby><rb>é¤</rb><rt>ãããª</rt></ruby>ãã®ã<ruby><rb>å¸¸</rb><rt>ã¤ã­</rt></ruby>ã§ããã",
-      "zhs": "<span class=\"verse-number\">29ã</span>ä»æ¥æ²¡æäººæ¨æ¶èªå·±çèº«å­ï¼æ»æ¯ä¿å»é¡¾æï¼æ­£ååºç£å¾æä¼ä¸æ ·ï¼",
-      "zht": "<span class=\"verse-number\">29ã</span>å¾ä¾æ²æäººæ¨æ¡èªå·±çèº«å­ï¼ç¸½æ¯ä¿é¤é¡§æï¼æ­£ååºç£å¾ææä¸æ¨£ï¼",
-      "spa": "<span class=\"verse-number\">29</span> Porque ninguno aborreciÃ³ jamÃ¡s a su propio cuerpo, sino que lo sustenta y lo cuida, como tambiÃ©n Cristo a la iglesia;",
-      "por": "<span class=\"verse-number\">29</span> Porque nunca ninguÃ©m odiou a sua prÃ³pria carne; antes, a alimenta e sustenta, como tambÃ©m o Senhor, Ã  igreja;",
-      "fra": "<span class=\"verse-number\">29 </span>Car jamais personne nâa haÃ¯ sa propre chairÂ ; mais il la nourrit et en prend soin, comme Christ le fait pour lâÃglise,",
-      "deu": "<span class=\"verse-number\">29</span> es hat ja doch noch nie ein Mensch sein eigenes Fleisch gehaÃt, sondern jeder hegt und pflegt es, ebenso wie Christus es mit der Gemeinde tut,",
-      "kor": "<span class=\"verse-number\">29</span> ëêµ¬ë ì§ ì¸ì ë ìê¸° ì¡ì²´ë¥¼ ë¯¸ìíì§ ìê³  ì¤ì§ ìì¡íì¬ ë³´í¸íê¸°ë¥¼ ê·¸ë¦¬ì¤ëê»ì êµíìê² í¨ê³¼ ê°ì´ íëë",
-      "ita": "<span class=\"verse-number\">29</span> Infatti nessuno ebbe mai in odio la sua carne; anzi la nutre e la cura teneramente, come anche Cristo fa per la Chiesa,"
+      "eng": "For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:",
+      "ara": "فَلا أَحَدَ يُبْغِضُ جَسَدَهُ الْبَتَّةَ، بَلْ يُغَذِّيهِ وَيَعْتَنِي بِهِ، كَمَا يُعَامِلُ الْمَسِيحُ أَيْضاً الْكَنِيسَةَ.",
+      "jpn": "<ruby>自分<rt>じぶん</rt></ruby><ruby>自身<rt>じしん</rt></ruby>を<ruby>憎<rt>にく</rt></ruby>んだ<ruby>者<rt>もの</rt></ruby>は、いまだかつて、ひとりもいない。かえって、キリストが<ruby>教会<rt>きょうかい</rt></ruby>になさったようにして、おのれを<ruby>育<rt>そだ</rt></ruby>て<ruby>養<rt>やしな</rt></ruby>うのが<ruby>常<rt>つね</rt></ruby>である。",
+      "zhs": "<ruby>从<rt>cóng</rt></ruby><ruby>来<rt>lái</rt></ruby><ruby>没<rt>méi</rt></ruby><ruby>有<rt>yǒu</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>恨<rt>hèn</rt></ruby><ruby>恶<rt>è</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>身<rt>shēn</rt></ruby><ruby>子<rt>zi</rt></ruby>，<ruby>总<rt>zǒng</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>保<rt>bǎo</rt></ruby><ruby>养<rt>yǎng</rt></ruby><ruby>顾<rt>gù</rt></ruby><ruby>惜<rt>xī</rt></ruby>，<ruby>正<rt>zhèng</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>待<rt>dài</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>会<rt>huì</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>样<rt>yàng</rt></ruby>，",
+      "zht": "<ruby>從<rt>cóng</rt></ruby><ruby>來<rt>lái</rt></ruby><ruby>沒<rt>méi</rt></ruby><ruby>有<rt>yǒu</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>恨<rt>hèn</rt></ruby><ruby>惡<rt>è</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>身<rt>shēn</rt></ruby><ruby>子<rt>zi</rt></ruby>，<ruby>總<rt>zǒng</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>保<rt>bǎo</rt></ruby><ruby>養<rt>yǎng</rt></ruby><ruby>顧<rt>gù</rt></ruby><ruby>惜<rt>xī</rt></ruby>，<ruby>正<rt>zhèng</rt></ruby><ruby>像<rt>xiàng</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>待<rt>dài</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>會<rt>huì</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>樣<rt>yàng</rt></ruby>，",
+      "spa": "Porque ninguno aborreció jamás a su propio cuerpo, sino que lo sustenta y lo cuida, como también Cristo a la iglesia;",
+      "por": "Porque nunca ninguém odiou a sua própria carne; antes, a alimenta e sustenta, como também o Senhor, à igreja;",
+      "fra": "Car jamais personne n’a haï sa propre chair ; mais il la nourrit et en prend soin, comme Christ le fait pour l’Église,",
+      "deu": "es hat ja doch noch nie ein Mensch sein eigenes Fleisch gehaßt, sondern jeder hegt und pflegt es, ebenso wie Christus es mit der Gemeinde tut,",
+      "kor": "누구든지 언제나 자기 육체를 미워하지 않고 오직 양육하여 보호하기를 그리스도께서 교회에게 함과 같이 하나니",
+      "ita": "Infatti nessuno ebbe mai in odio la sua carne; anzi la nutre e la cura teneramente, come anche Cristo fa per la Chiesa,"
     },
     "30": {
-      "eng": "<span class=\"verse-number\">30 </span>For we are members of his body, of his flesh, and of his bones.",
-      "ara": "<span class=\"verse-number\">Ù£Ù  </span>ÙÙØ¥ÙÙÙÙÙÙØ§ ÙÙØ­ÙÙÙ Ø£ÙØ¹ÙØ¶ÙØ§Ø¡Ù Ø¬ÙØ³ÙØ¯ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">30</span> ããããã¡ã¯ãã­ãªã¹ãã®ããã ã®<ruby><rb>è¢ä½</rb><rt>ããã</rt></ruby>ãªã®ã§ããã",
-      "zhs": "<span class=\"verse-number\">30ã</span>å æä»¬æ¯ä»èº«ä¸çè¢ä½ã",
-      "zht": "<span class=\"verse-number\">30ã</span>å æåæ¯ä»èº«ä¸çè¢é«ã",
-      "spa": "<span class=\"verse-number\">30</span> porque somos miembros de su cuerpo, de su carne y de sus huesos.",
-      "por": "<span class=\"verse-number\">30</span> Porque somos membros do seu corpo, da sua carne, e dos seus ossos.",
-      "fra": "<span class=\"verse-number\">30 </span>parce que nous sommes membres de son corps.",
-      "deu": "<span class=\"verse-number\">30</span> denn wir sind Glieder seines Leibes, Fleisch von seinem Fleisch und Bein von seinem Bein (1. Mos. 2,23).",
-      "kor": "<span class=\"verse-number\">30</span> ì°ë¦¬ë ê·¸ ëª¸ì ì§ì²´ìì´ë¼",
-      "ita": "<span class=\"verse-number\">30</span> poichÃ© noi siamo membra del suo corpo."
+      "eng": "For we are members of his body, of his flesh, and of his bones.",
+      "ara": "فَإِنَّنَا نَحْنُ أَعْضَاءُ جَسَدِهِ.",
+      "jpn": "わたしたちは、キリストのからだの<ruby>肢体<rt>したい</rt></ruby>なのである。",
+      "zhs": "<ruby>因<rt>yīn</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>他<rt>tā</rt></ruby><ruby>身<rt>shēn</rt></ruby><ruby>上<rt>shàng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>肢<rt>zhī</rt></ruby><ruby>体<rt>tǐ</rt></ruby>。",
+      "zht": "<ruby>因<rt>yīn</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>他<rt>tā</rt></ruby><ruby>身<rt>shēn</rt></ruby><ruby>上<rt>shàng</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>肢<rt>zhī</rt></ruby><ruby>體<rt>tǐ</rt></ruby>。",
+      "spa": "porque somos miembros de su cuerpo, de su carne y de sus huesos.",
+      "por": "Porque somos membros do seu corpo, da sua carne, e dos seus ossos.",
+      "fra": "parce que nous sommes membres de son corps.",
+      "deu": "denn wir sind Glieder seines Leibes, Fleisch von seinem Fleisch und Bein von seinem Bein (1. Mos. 2,23).",
+      "kor": "우리는 그 몸의 지체임이라",
+      "ita": "poiché noi siamo membra del suo corpo."
     },
     "31": {
-      "eng": "<span class=\"verse-number\">31 </span>For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.",
-      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙØ°ÙÙÙÙÙ ÙÙØ³ÙØªÙÙÙÙÙÙ Ø§ÙØ²ÙÙÙÙØ¬Ù Ø¹ÙÙÙ Ø£ÙØ¨ÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙØ ÙÙÙÙØªÙÙØ­ÙØ¯Ù Ø¨ÙØ²ÙÙÙØ¬ÙØªÙÙÙØ ÙÙÙÙØµÙÙØ±Ù Ø§ÙØ§Ø«ÙÙÙØ§ÙÙ Ø¬ÙØ³ÙØ¯Ø§Ù ÙÙØ§Ø­ÙØ¯Ø§Ù.",
-      "jpn": "<span class=\"verse-number\">31</span> ãããããã«ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯<ruby><rb>ç¶æ¯</rb><rt>ãµã¼</rt></ruby>ã<ruby><rb>é¢</rb><rt>ã¯ãª</rt></ruby>ãã¦ãã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã¨<ruby><rb>çµ</rb><rt>ãã</rt></ruby>ã°ãããµããã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>ä¸ä½</rb><rt>ãã£ãã</rt></ruby>ã¨ãªãã¹ãã§ãããã",
-      "zhs": "<span class=\"verse-number\">31ã</span>ä¸ºè¿ä¸ªç¼æï¼äººè¦ç¦»å¼ç¶æ¯ï¼ä¸å¦»å­è¿åï¼äºäººæä¸ºä¸ä½ã",
-      "zht": "<span class=\"verse-number\">31ã</span>çºéåç·£æï¼äººè¦é¢éç¶æ¯ï¼èå¦»å­é£åï¼äºäººæçºä¸é«ã",
-      "spa": "<span class=\"verse-number\">31</span> Por esto dejarÃ¡ el hombre a su padre y a su madre, y se allegarÃ¡ a su esposa, y los dos serÃ¡n una sola carne.",
-      "por": "<span class=\"verse-number\">31</span> Por isso deixarÃ¡ o homem seu pai e sua mÃ£e, e se unirÃ¡ Ã  sua mulher; e serÃ£o os dois uma sÃ³ carne.",
-      "fra": "<span class=\"verse-number\">31 </span>Câest pourquoi lâhomme quittera son pÃ¨re et sa mÃ¨re, sâattachera Ã  sa femme et les deux deviendront une seule chair.",
-      "deu": "<span class=\"verse-number\">31</span> âDeshalb wird ein Mann Vater und Mutter verlassen und seinem Weibe anhangen, und die beiden werden ein Fleisch seinâ (1. Mos. 2,24).",
-      "kor": "<span class=\"verse-number\">31</span> ê·¸ë¬ë¯ë¡ ì¬ëì´ ë¶ëª¨ë¥¼ ë ë ê·¸ì ìë´ì í©íì¬ ê·¸ ëì´ í ì¡ì²´ê° ë ì§ë",
-      "ita": "<span class=\"verse-number\">31</span> PerciÃ² lâuomo lascerÃ  suo padre e sua madre e si unirÃ  a sua moglie, e i due diverranno una sola carne."
+      "eng": "For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.",
+      "ara": "لِذَلِكَ يَسْتَقِلُّ الزَّوْجُ عَنْ أَبِيهِ وَأُمِّهِ، وَيَتَّحِدُ بِزَوْجَتِهِ، فَيَصِيرُ الاثْنَانِ جَسَداً وَاحِداً.",
+      "jpn": "「それゆえに、<ruby>人<rt>ひと</rt></ruby>は<ruby>父母<rt>ふぼ</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れてその<ruby>妻<rt>つま</rt></ruby>と<ruby>結<rt>むす</rt></ruby>ばれ、ふたりの<ruby>者<rt>もの</rt></ruby>は<ruby>一体<rt>いったい</rt></ruby>となるべきである」。",
+      "zhs": "<ruby>为<rt>wèi</rt></ruby><ruby>这<rt>zhè</rt></ruby><ruby>个<rt>ge</rt></ruby><ruby>缘<rt>yuán</rt></ruby><ruby>故<rt>gù</rt></ruby>，<ruby>人<rt>rén</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>离<rt>lí</rt></ruby><ruby>开<rt>kāi</rt></ruby><ruby>父<rt>fù</rt></ruby><ruby>母<rt>mǔ</rt></ruby>，<ruby>与<rt>yǔ</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>连<rt>lián</rt></ruby><ruby>合<rt>hé</rt></ruby>，<ruby>二<rt>èr</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>成<rt>chéng</rt></ruby><ruby>为<rt>wéi</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>体<rt>tǐ</rt></ruby>。",
+      "zht": "<ruby>為<rt>wèi</rt></ruby><ruby>這<rt>zhè</rt></ruby><ruby>個<rt>gè</rt></ruby><ruby>緣<rt>yuán</rt></ruby><ruby>故<rt>gù</rt></ruby>，<ruby>人<rt>rén</rt></ruby><ruby>要<rt>yào</rt></ruby><ruby>離<rt>lí</rt></ruby><ruby>開<rt>kāi</rt></ruby><ruby>父<rt>fù</rt></ruby><ruby>母<rt>mǔ</rt></ruby>，<ruby>與<rt>yǔ</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>連<rt>lián</rt></ruby><ruby>合<rt>hé</rt></ruby>，<ruby>二<rt>èr</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>成<rt>chéng</rt></ruby><ruby>為<rt>wèi</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>體<rt>tǐ</rt></ruby>。",
+      "spa": "Por esto dejará el hombre a su padre y a su madre, y se allegará a su esposa, y los dos serán una sola carne.",
+      "por": "Por isso deixará o homem seu pai e sua mãe, e se unirá à sua mulher; e serão os dois uma só carne.",
+      "fra": "C’est pourquoi l’homme quittera son père et sa mère, s’attachera à sa femme et les deux deviendront une seule chair.",
+      "deu": "„Deshalb wird ein Mann Vater und Mutter verlassen und seinem Weibe anhangen, und die beiden werden ein Fleisch sein” (1. Mos. 2,24).",
+      "kor": "그러므로 사람이 부모를 떠나 그의 아내와 합하여 그 둘이 한 육체가 될지니",
+      "ita": "Perciò l’uomo lascerà suo padre e sua madre e si unirà a sua moglie, e i due diverranno una sola carne."
     },
     "32": {
-      "eng": "<span class=\"verse-number\">32 </span>This is a great mystery: but I speak concerning Christ and the church.",
-      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØ°ÙØ§ Ø§ÙØ³ÙÙØ±ÙÙ Ø¹ÙØ¸ÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙÙÙ Ø£ÙØ´ÙÙØ±Ù Ø¨ÙÙÙ Ø¥ÙÙÙÙ Ø§ÙÙÙÙØ³ÙÙØ­Ù ÙÙØ§ÙÙÙÙÙÙÙØ³ÙØ©Ù!",
-      "jpn": "<span class=\"verse-number\">32</span> ãã®<ruby><rb>å¥¥ç¾©</rb><rt>ããã</rt></ruby>ã¯<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ãããããã¯ãã­ãªã¹ãã¨<ruby><rb>æä¼</rb><rt>ããããã</rt></ruby>ã¨ãããã¦ããã",
-      "zhs": "<span class=\"verse-number\">32ã</span>è¿æ¯æå¤§çå¥¥ç§ï¼ä½ææ¯æçåºç£åæä¼è¯´çã",
-      "zht": "<span class=\"verse-number\">32ã</span>éæ¯æ¥µå¤§çå¥§ç¥ï¼ä½ææ¯æèåºç£åææèªªçã",
-      "spa": "<span class=\"verse-number\">32</span> Grande es este misterio, pero yo digo <span class=\"clarity-word\">esto</span> con respecto a Cristo y a la iglesia.",
-      "por": "<span class=\"verse-number\">32</span> Grande Ã© esse mistÃ©rio; digo-o, porÃ©m, a respeito de Cristo e da igreja.",
-      "fra": "<span class=\"verse-number\">32 </span>Ce mystÃ¨re est grandÂ ; je dis cela par rapport Ã  Christ et Ã  lâÃglise.",
-      "deu": "<span class=\"verse-number\">32</span> Hier liegt ein groÃes Geheimnis vor; ich deute (oder: beziehe) es auf Christus und die Gemeinde.",
-      "kor": "<span class=\"verse-number\">32</span> ì´ ë¹ë°ì´ í¬ëë¤ ëë ê·¸ë¦¬ì¤ëì êµíì ëíì¬ ë§íë¸ë¼",
-      "ita": "<span class=\"verse-number\">32</span> Questo mistero Ã¨ grande; dico questo riguardo a Cristo e alla Chiesa."
+      "eng": "This is a great mystery: but I speak concerning Christ and the church.",
+      "ara": "هَذَا السِّرُّ عَظِيمٌ وَلَكِنَّنِي أُشِيرُ بِهِ إِلَى الْمَسِيحِ وَالْكَنِيسَةِ!",
+      "jpn": "この<ruby>奥義<rt>おくぎ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きい。それは、キリストと<ruby>教会<rt>きょうかい</rt></ruby>とをさしている。",
+      "zhs": "<ruby>这<rt>zhè</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>极<rt>jí</rt></ruby><ruby>大<rt>dà</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>奥<rt>ào</rt></ruby><ruby>秘<rt>mì</rt></ruby>，<ruby>但<rt>dàn</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>指<rt>zhǐ</rt></ruby><ruby>着<rt>zhe</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>会<rt>huì</rt></ruby><ruby>说<rt>shuō</rt></ruby><ruby>的<rt>de</rt></ruby>。",
+      "zht": "<ruby>這<rt>zhè</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>極<rt>jí</rt></ruby><ruby>大<rt>dà</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>奧<rt>ào</rt></ruby><ruby>祕<rt>mì</rt></ruby>，<ruby>但<rt>dàn</rt></ruby><ruby>我<rt>wǒ</rt></ruby><ruby>是<rt>shì</rt></ruby><ruby>指<rt>zhǐ</rt></ruby><ruby>著<rt>zhù</rt></ruby><ruby>基<rt>jī</rt></ruby><ruby>督<rt>dū</rt></ruby><ruby>和<rt>hé</rt></ruby><ruby>教<rt>jiào</rt></ruby><ruby>會<rt>huì</rt></ruby><ruby>說<rt>shuō</rt></ruby><ruby>的<rt>de</rt></ruby>。",
+      "spa": "Grande es este misterio, pero yo digo <span class=\"clarity-word\">esto</span> con respecto a Cristo y a la iglesia.",
+      "por": "Grande é esse mistério; digo-o, porém, a respeito de Cristo e da igreja.",
+      "fra": "Ce mystère est grand ; je dis cela par rapport à Christ et à l’Église.",
+      "deu": "Hier liegt ein großes Geheimnis vor; ich deute (oder: beziehe) es auf Christus und die Gemeinde.",
+      "kor": "이 비밀이 크도다 나는 그리스도와 교회에 대하여 말하노라",
+      "ita": "Questo mistero è grande; dico questo riguardo a Cristo e alla Chiesa."
     },
     "33": {
-      "eng": "<span class=\"verse-number\">33 </span>Nevertheless let every one of you in particular so love his wife even as himself; and the wife <span class=\"clarity-word\">see</span> that she reverence <span class=\"clarity-word\">her</span> husband.",
-      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>Ø¥ÙÙÙÙÙÙØ§ Ø£ÙÙÙØªÙÙÙ Ø£ÙÙÙØ¶Ø§ÙØ ÙÙÙÙÙ Ø¨ÙÙÙÙÙØ±ÙØ¯ÙÙÙØ ÙÙÙÙØ­ÙØ¨Ù ÙÙÙÙÙ ÙÙØ§Ø­ÙØ¯Ù ÙÙÙÙÙÙÙÙ Ø²ÙÙÙØ¬ÙØªÙÙÙ ÙÙÙÙÙÙØ³ÙÙÙ. ÙÙØ£ÙÙÙÙØ§ Ø§ÙØ²ÙÙÙÙØ¬ÙØ©ÙØ ÙÙØ¹ÙÙÙÙÙÙÙØ§ Ø£ÙÙÙ ØªÙÙÙØ§Ø¨Ù Ø²ÙÙÙØ¬ÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">33</span> ãããã«ãã¦ããããªãããã¯ãããããã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby><ruby><rb>èªèº«</rb><rt>ããã</rt></ruby>ã®ããã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããªããã<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ãã¾ã<ruby><rb>å¤«</rb><rt>ãã£ã¨</rt></ruby>ã<ruby><rb>æ¬</rb><rt>ããã¾</rt></ruby>ããªããã",
-      "zhs": "<span class=\"verse-number\">33ã</span>ç¶èï¼ä½ ä»¬åäººé½å½ç±å¦»å­ï¼å¦åç±èªå·±ä¸æ ·ï¼å¦»å­ä¹å½æ¬éå¥¹çä¸å¤«ã",
-      "zht": "<span class=\"verse-number\">33ã</span>ç¶èï¼ä½ ååäººé½ç¶æå¦»å­ï¼å¦åæèªå·±ä¸æ¨£ï¼å¦»å­ä¹ç¶æ¬éå¥¹çä¸å¤«ã",
-      "spa": "<span class=\"verse-number\">33</span> Por tanto, cada uno de vosotros ame tambiÃ©n a su esposa como a sÃ­ mismo; y la esposa respete a su marido.",
-      "por": "<span class=\"verse-number\">33</span> Assim tambÃ©m vÃ³s, cada um em particular, ame a sua prÃ³pria mulher como a si mesmo, e a mulher reverencie o marido.",
-      "fra": "<span class=\"verse-number\">33 </span>Du reste, que chacun de vous aime sa femme comme lui-mÃªme et que la femme respecte son mari.",
-      "deu": "<span class=\"verse-number\">33</span> Doch wie dem auch sei: auch bei euch soll ein jeder seine Frau so lieben wie sich selbst; die Frau aber soll ihrem Manne mit Furcht (= Ehrfurcht) begegnen.",
-      "kor": "<span class=\"verse-number\">33</span> ê·¸ë¬ë ëí¬ë ê°ê° ìê¸°ì ìë´ ì¬ëíê¸°ë¥¼ ìì  ê°ì´ íê³  ìë´ë ìê¸° ë¨í¸ì ì¡´ê²½íë¼",
-      "ita": "<span class=\"verse-number\">33</span> Ma dâaltronde, anche fra voi, ciascuno individualmente cosÃ¬ ami sua moglie, come ama se stesso, e altresÃ¬ la moglie rispetti il marito."
+      "eng": "Nevertheless let every one of you in particular so love his wife even as himself; and the wife <span class=\"clarity-word\">see</span> that she reverence <span class=\"clarity-word\">her</span> husband.",
+      "ara": "إِنَّمَا أَنْتُمْ أَيْضاً، كُلٌّ بِمُفْرَدِهِ، لِيُحِبْ كُلُّ وَاحِدٍ مِنْكُمْ زَوْجَتَهُ كَنَفْسِهِ. وَأَمَّا الزَّوْجَةُ، فَعَلَيْهَا أَنْ تَهَابَ زَوْجَهَا.",
+      "jpn": "いずれにしても、あなたがたは、それぞれ、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>妻<rt>つま</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby><ruby>自身<rt>じしん</rt></ruby>のように<ruby>愛<rt>あい</rt></ruby>しなさい。<ruby>妻<rt>つま</rt></ruby>もまた<ruby>夫<rt>おっと</rt></ruby>を<ruby>敬<rt>うやま</rt></ruby>いなさい。",
+      "zhs": "<ruby>然<rt>rán</rt></ruby><ruby>而<rt>ér</rt></ruby>，<ruby>你<rt>nǐ</rt></ruby><ruby>们<rt>men</rt></ruby><ruby>各<rt>gè</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>当<rt>dāng</rt></ruby><ruby>爱<rt>ài</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby>，<ruby>如<rt>rú</rt></ruby><ruby>同<rt>tóng</rt></ruby><ruby>爱<rt>ài</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>样<rt>yàng</rt></ruby>；<ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>也<rt>yě</rt></ruby><ruby>当<rt>dāng</rt></ruby><ruby>敬<rt>jìng</rt></ruby><ruby>重<rt>zhòng</rt></ruby><ruby>她<rt>tā</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby>。",
+      "zht": "<ruby>然<rt>rán</rt></ruby><ruby>而<rt>ér</rt></ruby>，<ruby>你<rt>nǐ</rt></ruby><ruby>們<rt>men</rt></ruby><ruby>各<rt>gè</rt></ruby><ruby>人<rt>rén</rt></ruby><ruby>都<rt>dōu</rt></ruby><ruby>當<rt>dāng</rt></ruby><ruby>愛<rt>ài</rt></ruby><ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby>，<ruby>如<rt>rú</rt></ruby><ruby>同<rt>tóng</rt></ruby><ruby>愛<rt>ài</rt></ruby><ruby>自<rt>zì</rt></ruby><ruby>己<rt>jǐ</rt></ruby><ruby>一<rt>yī</rt></ruby><ruby>樣<rt>yàng</rt></ruby>；<ruby>妻<rt>qī</rt></ruby><ruby>子<rt>zǐ</rt></ruby><ruby>也<rt>yě</rt></ruby><ruby>當<rt>dāng</rt></ruby><ruby>敬<rt>jìng</rt></ruby><ruby>重<rt>zhòng</rt></ruby><ruby>她<rt>tā</rt></ruby><ruby>的<rt>de</rt></ruby><ruby>丈<rt>zhàng</rt></ruby><ruby>夫<rt>fū</rt></ruby>。",
+      "spa": "Por tanto, cada uno de vosotros ame también a su esposa como a sí mismo; y la esposa respete a su marido.",
+      "por": "Assim também vós, cada um em particular, ame a sua própria mulher como a si mesmo, e a mulher reverencie o marido.",
+      "fra": "Du reste, que chacun de vous aime sa femme comme lui-même et que la femme respecte son mari.",
+      "deu": "Doch wie dem auch sei: auch bei euch soll ein jeder seine Frau so lieben wie sich selbst; die Frau aber soll ihrem Manne mit Furcht (= Ehrfurcht) begegnen.",
+      "kor": "그러나 너희도 각각 자기의 아내 사랑하기를 자신 같이 하고 아내도 자기 남편을 존경하라",
+      "ita": "Ma d’altronde, anche fra voi, ciascuno individualmente così ami sua moglie, come ama se stesso, e altresì la moglie rispetti il marito."
     }
   }
 }

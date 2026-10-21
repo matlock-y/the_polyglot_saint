@@ -4,101 +4,101 @@
     "book": "ps",
     "chapter": 67,
     "headings": {
-      "eng": "A messianic psalmâThe Lord will cause His face to shine upon menâHe will judge and govern in righteousness.",
-      "spa": "Salmo mesiÃ¡nicoÂ â Dios harÃ¡ resplandecer Su rostro sobre los hombresÂ â JuzgarÃ¡ y gobernarÃ¡ en justicia.",
-      "por": "Salmo messiÃ¢nicoÂ â O Senhor farÃ¡ resplandecer o Seu rosto sobre os homensÂ â Ele julgarÃ¡ e governarÃ¡ em retidÃ£o.",
-      "fra": "Psaume messianique. LâÃternel fera luire sa face sur les hommes. Il jugera et conduira avec droiture.",
-      "ita": "Un salmo messianicoÂ â Il Signore farÃ  risplendere il Suo volto sugli uominiÂ â Egli giudicherÃ  e governerÃ  in rettitudine."
+      "eng": "A messianic psalm—The Lord will cause His face to shine upon men—He will judge and govern in righteousness.",
+      "spa": "Salmo mesiánico — Dios hará resplandecer Su rostro sobre los hombres — Juzgará y gobernará en justicia.",
+      "por": "Salmo messiânico — O Senhor fará resplandecer o Seu rosto sobre os homens — Ele julgará e governará em retidão.",
+      "fra": "Psaume messianique. L’Éternel fera luire sa face sur les hommes. Il jugera et conduira avec droiture.",
+      "ita": "Un salmo messianico — Il Signore farà risplendere il Suo volto sugli uomini — Egli giudicherà e governerà in rettitudine."
     },
     "intros": {
       "eng": "To the chief Musician on Neginoth, A Psalm <span class=\"clarity-word\">or</span> Song.",
-      "jpn": "<ruby><rb>èæ­</rb><rt>ããã</rt></ruby><ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ææ®è</rb><rt>ãããã</rt></ruby>ã«ãã£ã¦<ruby><rb>ç´</rb><rt>ãã¨</rt></ruby>ã«ãããã¦ããããã<ruby><rb>æ­</rb><rt>ãã</rt></ruby>ãããã³",
-      "spa": "Al mÃºsico principal: con Neginot. Salmo. CÃ¡ntico.",
-      "por": "Salmo e cÃ¢ntico para o mÃºsico-mor sobre Neginote.",
+      "jpn": "<ruby>聖歌<rt>せいか</rt></ruby><ruby>隊<rt>たい</rt></ruby>の<ruby>指揮者<rt>しきしゃ</rt></ruby>によって<ruby>琴<rt>こと</rt></ruby>にあわせてうたわせた<ruby>歌<rt>うた</rt></ruby>、さんび",
+      "spa": "Al músico principal: con Neginot. Salmo. Cántico.",
+      "por": "Salmo e cântico para o músico-mor sobre Neginote.",
       "ita": "Per il capo dei musici. Per strumenti a corda. Salmo. Canto."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>God be merciful unto us, and bless us; <span class=\"clarity-word\">and</span> cause his face to shine upon us; <span class=\"selah\">Selah</span>.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙÙÙØªÙØ±ÙØ£ÙÙÙÙ Ø§ÙÙÙÙ°ÙÙ Ø¹ÙÙÙÙÙÙÙØ§ ÙÙÙÙÙÙØ¨ÙØ§Ø±ÙÙÙÙÙØ§Ø ÙÙÙÙÙÙØ¶ÙØ¦Ù Ø¨ÙÙÙØ¬ÙÙÙÙÙ Ø¹ÙÙÙÙÙÙÙØ§",
-      "jpn": "<span class=\"verse-number\">1</span> ã©ããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ããããããããã¿ããããã<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ãããã®ã¿<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ããããã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ç§</rb><rt>ã¦ã</rt></ruby>ãããããã«ã<span class=\"selah\">ãã»ã©</span>",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">Dios tenga misericordia de nosotros y nos bendiga;</span><span class=\"line\">haga resplandecer su rostro sobre nosotros. <span class=\"selah\">Selah</span></span>",
-      "por": "<span class=\"verse-number\">1</span> Deus tenha misericÃ³rdia de nÃ³s, e nos abenÃ§oe, <span class=\"clarity-word\">e</span> faÃ§a resplandecer o seu rosto sobre nÃ³s. <span class=\"selah\">(SelÃ¡.)</span>",
-      "fra": "<span class=\"verse-number\">1</span> Au chef des chantres. Avec instruments Ã  cordes. Psaume. Cantique.",
-      "deu": "<span class=\"verse-number\">1Â </span>Dem Musikmeister, mit Saitenspiel; ein Psalm, ein Lied.",
-      "kor": "<span class=\"verse-number\">1</span> íëëì ì°ë¦¬ìê² ìíë¥¼ ë² í¸ì¬ ë³µì ì£¼ìê³  ê·¸ì ì¼êµ´ <span class=\"clarity-word\">ë¹ì</span> ì°ë¦¬ìê² ë¹ì¶ì¬ (ìë¼)",
-      "ita": "<span class=\"verse-number\">1</span> Dio abbia misericordia di noi e ci benedica, Dio faccia risplendere il suo volto su di noi, <span class=\"clarity-word\">Sela.</span>"
+      "eng": "God be merciful unto us, and bless us; <span class=\"clarity-word\">and</span> cause his face to shine upon us; <span class=\"selah\">Selah</span>.",
+      "ara": "لِيَتَرَأَّفِ اللّٰهُ عَلَيْنَا وَلْيُبَارِكْنَا، وَلْيُضِئْ بِوَجْهِهِ عَلَيْنَا",
+      "jpn": "どうか、<ruby>神<rt>かみ</rt></ruby>がわれらをあわれみ、われらを<ruby>祝福<rt>しゅくふく</rt></ruby>し、そのみ<ruby>顔<rt>かお</rt></ruby>をわれらの<ruby>上<rt>うえ</rt></ruby>に<ruby>照<rt>てら</rt></ruby>されるように。<span class=\"selah\">〔セラ</span>",
+      "spa": "<span class=\"line\">Dios tenga misericordia de nosotros y nos bendiga;</span><span class=\"line\">haga resplandecer su rostro sobre nosotros. <span class=\"selah\">Selah</span></span>",
+      "por": "Deus tenha misericórdia de nós, e nos abençoe, <span class=\"clarity-word\">e</span> faça resplandecer o seu rosto sobre nós. <span class=\"selah\">(Selá.)</span>",
+      "fra": "Au chef des chantres. Avec instruments à cordes. Psaume. Cantique.",
+      "deu": "Dem Musikmeister, mit Saitenspiel; ein Psalm, ein Lied.",
+      "kor": "하나님은 우리에게 은혜를 베푸사 복을 주시고 그의 얼굴 <span class=\"clarity-word\">빛을</span> 우리에게 비추사 (셀라)",
+      "ita": "Dio abbia misericordia di noi e ci benedica, Dio faccia risplendere il suo volto su di noi, <span class=\"clarity-word\">Sela.</span>"
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>That thy way may be known upon earth, thy saving health among all nations.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙÙÙ ÙÙØ¹ÙØ±ÙÙÙ ÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø·ÙØ±ÙÙÙÙÙÙØ ÙÙØ¨ÙÙÙÙÙ Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ£ÙÙÙÙÙ Ø®ÙÙØ§ØµÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">2</span> ããã¯ããªãã®<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ããã¾ã­ã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã«<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããããªãã®<ruby><rb>æ</rb><rt>ããã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ãããããã®<ruby><rb>å½æ°</rb><rt>ãã«ãã¿</rt></ruby>ã®ãã¡ã«<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããããã§ãã",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Para que sea conocido en la tierra tu camino,</span><span class=\"line\">en todas las naciones, tu salvaciÃ³n.</span>",
-      "por": "<span class=\"verse-number\">2</span> Para que se conheÃ§a na terra o teu caminho, <span class=\"clarity-word\">e</span> entre todas as naÃ§Ãµes a tua salvaÃ§Ã£o.",
-      "fra": "<span class=\"verse-number\">2</span> Que Dieu ait pitiÃ© de nous et quâil nous bÃ©nisse, Quâil fasse luire sur nous sa face,Â â SÃ©lah.",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Gott sei uns gnÃ¤dig und segne uns!</span><span class=\"line\">er lasse sein Angesicht bei uns leuchten, Sela,</span>",
-      "kor": "<span class=\"verse-number\">2</span> ì£¼ì ëë¥¼ ë ìì, ì£¼ì êµ¬ìì ëª¨ë  ëë¼ìê² ìë¦¬ìì",
-      "ita": "<span class=\"verse-number\">2</span> affinchÃ© la tua via sia conosciuta sulla terra, e la tua salvezza fra tutte le genti."
+      "eng": "That thy way may be known upon earth, thy saving health among all nations.",
+      "ara": "لِكَيْ يُعْرَفَ فِي الأَرْضِ طَرِيقُكَ، وَبَيْنَ جَمِيعِ الأُمَمِ خَلاصُكَ.",
+      "jpn": "これはあなたの<ruby>道<rt>みち</rt></ruby>があまねく<ruby>地<rt>ち</rt></ruby>に<ruby>知<rt>し</rt></ruby>られ、あなたの<ruby>救<rt>すくい</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>がもろもろの<ruby>国民<rt>くにたみ</rt></ruby>のうちに<ruby>知<rt>し</rt></ruby>られるためです。",
+      "spa": "<span class=\"line\">Para que sea conocido en la tierra tu camino,</span><span class=\"line\">en todas las naciones, tu salvación.</span>",
+      "por": "Para que se conheça na terra o teu caminho, <span class=\"clarity-word\">e</span> entre todas as nações a tua salvação.",
+      "fra": "Que Dieu ait pitié de nous et qu’il nous bénisse, Qu’il fasse luire sur nous sa face, — Sélah.",
+      "deu": "<span class=\"line\">Gott sei uns gnädig und segne uns!</span><span class=\"line\">er lasse sein Angesicht bei uns leuchten, Sela,</span>",
+      "kor": "주의 도를 땅 위에, 주의 구원을 모든 나라에게 알리소서",
+      "ita": "affinché la tua via sia conosciuta sulla terra, e la tua salvezza fra tutte le genti."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>Let the people praise thee, O God; let all the people praise thee.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>ØªÙØ­ÙÙÙØ¯ÙÙÙ Ø§ÙØ´ÙÙØ¹ÙÙØ¨Ù ÙÙØ§ Ø§ÙÙÙÙ°ÙÙØ ØªÙØ­ÙÙÙØ¯ÙÙÙ Ø§ÙØ´ÙÙØ¹ÙÙØ¨Ù ÙÙÙÙÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">3</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãã<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ãã«ããªããã»ãããããããããããã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã«ããªããã»ããããããã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Los pueblos te alaben, oh Dios;</span><span class=\"line\">todos los pueblos te alaben.</span>",
-      "por": "<span class=\"verse-number\">3</span> Louvem-te <span class=\"clarity-word\">a ti,</span> Ã³ Deus, os povos; louvem-te os povos todos.",
-      "fra": "<span class=\"verse-number\">3</span> Afin que lâon connaisse sur la terre ta voie, Et parmi toutes les nations ton salutÂ !",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">daÃ man auf Erden dein Walten erkenne,</span><span class=\"line\">unter allen HeidenvÃ¶lkern dein Heil!</span>",
-      "kor": "<span class=\"verse-number\">3</span> íëëì´ì¬ ë¯¼ì¡±ë¤ì´ ì£¼ë¥¼ ì°¬ì¡íê² íìë©° ëª¨ë  ë¯¼ì¡±ë¤ì´ ì£¼ë¥¼ ì°¬ì¡íê² íìì",
-      "ita": "<span class=\"verse-number\">3</span> Ti celebrino i popoli, o Dio, tutti quanti i popoli ti celebrino!"
+      "eng": "Let the people praise thee, O God; let all the people praise thee.",
+      "ara": "تَحْمَدُكَ الشُّعُوبُ يَا اللّٰهُ، تَحْمَدُكَ الشُّعُوبُ كُلُّهَا.",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>よ、<ruby>民<rt>たみ</rt></ruby>らにあなたをほめたたえさせ、もろもろの<ruby>民<rt>たみ</rt></ruby>にあなたをほめたたえさせてください。",
+      "spa": "<span class=\"line\">Los pueblos te alaben, oh Dios;</span><span class=\"line\">todos los pueblos te alaben.</span>",
+      "por": "Louvem-te <span class=\"clarity-word\">a ti,</span> ó Deus, os povos; louvem-te os povos todos.",
+      "fra": "Afin que l’on connaisse sur la terre ta voie, Et parmi toutes les nations ton salut !",
+      "deu": "<span class=\"line\">daß man auf Erden dein Walten erkenne,</span><span class=\"line\">unter allen Heidenvölkern dein Heil!</span>",
+      "kor": "하나님이여 민족들이 주를 찬송하게 하시며 모든 민족들이 주를 찬송하게 하소서",
+      "ita": "Ti celebrino i popoli, o Dio, tutti quanti i popoli ti celebrino!"
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. <span class=\"selah\">Selah</span>.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>ØªÙÙÙØ±ÙØ­Ù ÙÙØªÙØ¨ÙØªÙÙÙØ¬Ù Ø§ÙØ£ÙÙÙÙÙ ÙØ£ÙÙÙÙÙÙ ØªÙØ¯ÙÙÙÙ Ø§ÙØ´ÙÙØ¹ÙÙØ¨Ù Ø¨ÙØ§ÙØ§Ø³ÙØªÙÙÙØ§ÙÙØ©ÙØ ÙÙØªÙÙÙØ¯ÙÙ Ø£ÙÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù.",
-      "jpn": "<span class=\"verse-number\">4</span> ããããã®<ruby><rb>å½æ°</rb><rt>ãã«ãã¿</rt></ruby>ã<ruby><rb>æ¥½</rb><rt>ãã®</rt></ruby>ãã¾ããã¾ã<ruby><rb>å</rb><rt>ããã</rt></ruby>ã³<ruby><rb>æ­</rb><rt>ãã</rt></ruby>ããã¦ãã ãããããªãã¯<ruby><rb>å¬å¹³</rb><rt>ããã¸ã</rt></ruby>ããã£ã¦ããããã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ããã°ãã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãªãããããã®<ruby><rb>å½æ°</rb><rt>ãã«ãã¿</rt></ruby>ã<ruby><rb>å°</rb><rt>ã¿ã¡ã³</rt></ruby>ãããããã§ãã<span class=\"selah\">ãã»ã©</span>",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">AlÃ©grense y canten con jÃºbilo las naciones,</span><span class=\"line\">porque juzgarÃ¡s los pueblos con equidad,</span><span class=\"line\">y pastorearÃ¡s las naciones en la tierra. <span class=\"selah\">Selah</span></span>",
-      "por": "<span class=\"verse-number\">4</span> Alegrem-se e regozijem-se as naÃ§Ãµes, pois julgarÃ¡s os povos <span class=\"clarity-word\">com</span> equidade, e governarÃ¡s as naÃ§Ãµes sobre a terra. <span class=\"selah\">(SelÃ¡.)</span>",
-      "fra": "<span class=\"verse-number\">4</span> Les peuples te louent, Ã´ DieuÂ ! Tous les peuples te louent.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Preisen mÃ¼ssen dich, Gott, die VÃ¶lker,</span><span class=\"line\">preisen die VÃ¶lker allesamt;</span>",
-      "kor": "<span class=\"verse-number\">4</span> ì¨ ë°±ì±ì ê¸°ìê³  ì¦ê²ê² ë¸ëí ì§ë ì£¼ë ë¯¼ì¡±ë¤ì ê³µíí ì¬ííìë©° ë ìì ëë¼ë¤ì ë¤ì¤ë¦¬ì¤ ê²ìì´ëì´ë¤ (ìë¼)",
-      "ita": "<span class=\"verse-number\">4</span> Le nazioni si rallegrino e giubilino, perchÃ© tu giudichi i popoli con equitÃ , e sei la guida delle nazioni sulla terra. <span class=\"clarity-word\">Sela.</span>"
+      "eng": "O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. <span class=\"selah\">Selah</span>.",
+      "ara": "تَفْرَحُ وَتَبْتَهِجُ الأُمَمُ لأَنَّكَ تَدِينُ الشُّعُوبَ بِالاسْتِقَامَةِ، وَتَهْدِي أُمَمَ الأَرْضِ.",
+      "jpn": "もろもろの<ruby>国民<rt>くにたみ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しませ、また<ruby>喜<rt>よろこ</rt></ruby>び<ruby>歌<rt>うた</rt></ruby>わせてください。あなたは<ruby>公平<rt>こうへい</rt></ruby>をもってもろもろの<ruby>民<rt>たみ</rt></ruby>をさばき、<ruby>地<rt>ち</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>なるもろもろの<ruby>国民<rt>くにたみ</rt></ruby>を<ruby>導<rt>みちび</rt></ruby>かれるからです。<span class=\"selah\">〔セラ</span>",
+      "spa": "<span class=\"line\">Alégrense y canten con júbilo las naciones,</span><span class=\"line\">porque juzgarás los pueblos con equidad,</span><span class=\"line\">y pastorearás las naciones en la tierra. <span class=\"selah\">Selah</span></span>",
+      "por": "Alegrem-se e regozijem-se as nações, pois julgarás os povos <span class=\"clarity-word\">com</span> equidade, e governarás as nações sobre a terra. <span class=\"selah\">(Selá.)</span>",
+      "fra": "Les peuples te louent, ô Dieu ! Tous les peuples te louent.",
+      "deu": "<span class=\"line\">Preisen müssen dich, Gott, die Völker,</span><span class=\"line\">preisen die Völker allesamt;</span>",
+      "kor": "온 백성은 기쁘고 즐겁게 노래할지니 주는 민족들을 공평히 심판하시며 땅 위의 나라들을 다스리실 것임이니이다 (셀라)",
+      "ita": "Le nazioni si rallegrino e giubilino, perché tu giudichi i popoli con equità, e sei la guida delle nazioni sulla terra. <span class=\"clarity-word\">Sela.</span>"
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>Let the people praise thee, O God; let all the people praise thee.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ØªÙØ­ÙÙÙØ¯ÙÙÙ Ø§ÙØ´ÙÙØ¹ÙÙØ¨Ù ÙÙØ§ Ø§ÙÙÙÙ°ÙÙØ ØªÙØ­ÙÙÙØ¯ÙÙÙ Ø§ÙØ´ÙÙØ¹ÙÙØ¨Ù ÙÙÙÙÙÙÙØ§.",
-      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãã<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ãã«ããªããã»ãããããããããããã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã«ããªããã»ããããããã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">Los pueblos te alaben, oh Dios;</span><span class=\"line\">todos los pueblos te alaben.</span>",
-      "por": "<span class=\"verse-number\">5</span> Louvem-te <span class=\"clarity-word\">a ti,</span> Ã³ Deus, os povos; louvem-te os povos todos.",
-      "fra": "<span class=\"verse-number\">5</span> Les nations se rÃ©jouissent et sont dans lâallÃ©gresseÂ ; Car tu juges les peuples avec droiture, Et tu conduis les nations sur la terre.Â â SÃ©lah.",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">sich freuen mÃ¼ssen die VÃ¶lkerschaften und jubeln,</span><span class=\"line\">weil du die VÃ¶lker gerecht richtest (oder: regierst)</span><span class=\"line\">und leitest die VÃ¶lkerschaften auf Erden. Sela.</span>",
-      "kor": "<span class=\"verse-number\">5</span> íëëì´ì¬ ë¯¼ì¡±ë¤ì´ ì£¼ë¥¼ ì°¬ì¡íê² íìë©° ëª¨ë  ë¯¼ì¡±ì¼ë¡ ì£¼ë¥¼ ì°¬ì¡íê² íìì",
-      "ita": "<span class=\"verse-number\">5</span> Ti celebrino i popoli, o Dio, tutti quanti i popoli ti celebrino!"
+      "eng": "Let the people praise thee, O God; let all the people praise thee.",
+      "ara": "تَحْمَدُكَ الشُّعُوبُ يَا اللّٰهُ، تَحْمَدُكَ الشُّعُوبُ كُلُّهَا.",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>よ、<ruby>民<rt>たみ</rt></ruby>らにあなたをほめたたえさせ、もろもろの<ruby>民<rt>たみ</rt></ruby>にあなたをほめたたえさせてください。",
+      "spa": "<span class=\"line\">Los pueblos te alaben, oh Dios;</span><span class=\"line\">todos los pueblos te alaben.</span>",
+      "por": "Louvem-te <span class=\"clarity-word\">a ti,</span> ó Deus, os povos; louvem-te os povos todos.",
+      "fra": "Les nations se réjouissent et sont dans l’allégresse ; Car tu juges les peuples avec droiture, Et tu conduis les nations sur la terre. — Sélah.",
+      "deu": "<span class=\"line\">sich freuen müssen die Völkerschaften und jubeln,</span><span class=\"line\">weil du die Völker gerecht richtest (oder: regierst)</span><span class=\"line\">und leitest die Völkerschaften auf Erden. Sela.</span>",
+      "kor": "하나님이여 민족들이 주를 찬송하게 하시며 모든 민족으로 주를 찬송하게 하소서",
+      "ita": "Ti celebrino i popoli, o Dio, tutti quanti i popoli ti celebrino!"
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span><span class=\"clarity-word\">Then</span> shall the earth yield her increase; <span class=\"clarity-word\">and</span> God, <span class=\"clarity-word\">even</span> our own God, shall bless us.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø£ÙØ¹ÙØ·ÙØªÙ Ø§ÙØ£ÙØ±ÙØ¶Ù ØºÙÙÙÙØªÙÙÙØ§ Ø§ÙÙÙÙÙÙÙØ±ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã¯ãã®<ruby><rb>ç£ç©</rb><rt>ããã¶ã¤</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¾ããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ããããã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã¯ãããã<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ããã¾ããã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">La tierra darÃ¡ su fruto;</span><span class=\"line\">nos bendecirÃ¡ Dios, el Dios nuestro.</span>",
-      "por": "<span class=\"verse-number\">6</span> <span class=\"clarity-word\">EntÃ£o</span> a terra darÃ¡ o seu fruto, e Deus, o nosso Deus, nos abenÃ§oarÃ¡.",
-      "fra": "<span class=\"verse-number\">6</span> Les peuples te louent, Ã´ DieuÂ ! Tous les peuples te louent.",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">Preisen mÃ¼ssen dich, Gott, die VÃ¶lker,</span><span class=\"line\">preisen die VÃ¶lker allesamt!</span>",
-      "kor": "<span class=\"verse-number\">6</span> ëì´ ê·¸ì ìì°ì ë´ì´ ì£¼ìì¼ë íëë ê³§ ì°ë¦¬ íëëì´ ì°ë¦¬ìê² ë³µì ì£¼ìë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">6</span> La terra ha prodotto il suo frutto; Dio, il nostro Dio, ci benedirÃ ."
+      "eng": "<span class=\"clarity-word\">Then</span> shall the earth yield her increase; <span class=\"clarity-word\">and</span> God, <span class=\"clarity-word\">even</span> our own God, shall bless us.",
+      "ara": "أَعْطَتِ الأَرْضُ غَلَّتَهَا الْوَفِيرَةَ.",
+      "jpn": "<ruby>地<rt>ち</rt></ruby>はその<ruby>産物<rt>さんぶつ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>しました。<ruby>神<rt>かみ</rt></ruby>、われらの<ruby>神<rt>かみ</rt></ruby>はわれらを<ruby>祝福<rt>しゅくふく</rt></ruby>されました。",
+      "spa": "<span class=\"line\">La tierra dará su fruto;</span><span class=\"line\">nos bendecirá Dios, el Dios nuestro.</span>",
+      "por": "<span class=\"clarity-word\">Então</span> a terra dará o seu fruto, e Deus, o nosso Deus, nos abençoará.",
+      "fra": "Les peuples te louent, ô Dieu ! Tous les peuples te louent.",
+      "deu": "<span class=\"line\">Preisen müssen dich, Gott, die Völker,</span><span class=\"line\">preisen die Völker allesamt!</span>",
+      "kor": "땅이 그의 소산을 내어 주었으니 하나님 곧 우리 하나님이 우리에게 복을 주시리로다",
+      "ita": "La terra ha prodotto il suo frutto; Dio, il nostro Dio, ci benedirà."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>God shall bless us; and all the ends of the earth shall fear him.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙØ¨ÙØ§Ø±ÙÙÙÙÙØ§ Ø§ÙÙÙÙ°ÙÙ Ø¥ÙÙÙÙÙÙÙØ§Ø ÙÙØªÙØ®ÙØ§ÙÙÙÙ ÙÙÙÙÙ Ø£ÙÙÙØ§ØµÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù.",
-      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã¯ãããã<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ããã¾ããã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®ããããã®ã¯ã¦ã«ãã¨ãã¨ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Dios nos bendiga,</span><span class=\"line\">y tÃ©manle todos los confines de la tierra.</span>",
-      "por": "<span class=\"verse-number\">7</span> Deus nos abenÃ§oarÃ¡, e todas as extremidades da terra o temerÃ£o.",
-      "fra": "<span class=\"verse-number\">7</span> La terre donne ses produitsÂ ; Dieu, notre Dieu, nous bÃ©nit.",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">Das Land hat seinen Ertrag gespendet:</span><span class=\"line\">gesegnet hat uns Gott, unser Gott.</span>",
-      "kor": "<span class=\"verse-number\">7</span> íëëì´ ì°ë¦¬ìê² ë³µì ì£¼ìë¦¬ë ëì ëª¨ë  ëì´ íëëì ê²½ì¸íë¦¬ë¡ë¤",
-      "ita": "<span class=\"verse-number\">7</span> Dio ci benedirÃ , e tutte le estremitÃ  della terra lo temeranno."
+      "eng": "God shall bless us; and all the ends of the earth shall fear him.",
+      "ara": "يُبَارِكُنَا اللّٰهُ إِلَهُنَا، فَتَخَافُهُ كُلُّ أَقَاصِي الأَرْضِ.",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>はわれらを<ruby>祝福<rt>しゅくふく</rt></ruby>されました。<ruby>地<rt>ち</rt></ruby>のもろもろのはてにことごとく<ruby>神<rt>かみ</rt></ruby>を<ruby>恐<rt>おそ</rt></ruby>れさせてください。",
+      "spa": "<span class=\"line\">Dios nos bendiga,</span><span class=\"line\">y témanle todos los confines de la tierra.</span>",
+      "por": "Deus nos abençoará, e todas as extremidades da terra o temerão.",
+      "fra": "La terre donne ses produits ; Dieu, notre Dieu, nous bénit.",
+      "deu": "<span class=\"line\">Das Land hat seinen Ertrag gespendet:</span><span class=\"line\">gesegnet hat uns Gott, unser Gott.</span>",
+      "kor": "하나님이 우리에게 복을 주시리니 땅의 모든 끝이 하나님을 경외하리로다",
+      "ita": "Dio ci benedirà, e tutte le estremità della terra lo temeranno."
     },
     "8": {
-      "fra": "<span class=\"verse-number\">8</span> Dieu, nous bÃ©nit, Et toutes les extrÃ©mitÃ©s de la terre le craignent.",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">Es segne uns Gott!</span><span class=\"line\">und fÃ¼rchten mÃ¼ssen ihn alle Enden der Erde!</span>"
+      "fra": "Dieu, nous bénit, Et toutes les extrémités de la terre le craignent.",
+      "deu": "<span class=\"line\">Es segne uns Gott!</span><span class=\"line\">und fürchten müssen ihn alle Enden der Erde!</span>"
     }
   }
 }

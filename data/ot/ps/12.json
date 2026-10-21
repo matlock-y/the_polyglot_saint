@@ -4,112 +4,112 @@
     "book": "ps",
     "chapter": 12,
     "headings": {
-      "eng": "David decries flattering lips and proud tonguesâHe says, The words of the Lord are pure words.",
-      "spa": "David censura los labios lisonjeros y la lengua jactanciosaÂ â Ãl dice: Las palabras de JehovÃ¡ son puras.",
-      "por": "Davi censura os lÃ¡bios lisonjeiros e a lÃ­ngua que fala com soberbaÂ â Ele diz: As palavras do Senhor sÃ£o palavras puras.",
-      "fra": "David condamne les lÃ¨vres flatteuses et la langue arrogante. Il ditÂ : Â«Â Les paroles de lâÃternel sont des paroles pures.Â Â»",
-      "ita": "Davide condanna le labbra lusinghiere e le lingue altereÂ â Dice: âLe parole dellâEterno sono parole pureâ."
+      "eng": "David decries flattering lips and proud tongues—He says, The words of the Lord are pure words.",
+      "spa": "David censura los labios lisonjeros y la lengua jactanciosa — Él dice: Las palabras de Jehová son puras.",
+      "por": "Davi censura os lábios lisonjeiros e a língua que fala com soberba — Ele diz: As palavras do Senhor são palavras puras.",
+      "fra": "David condamne les lèvres flatteuses et la langue arrogante. Il dit : « Les paroles de l’Éternel sont des paroles pures. »",
+      "ita": "Davide condanna le labbra lusinghiere e le lingue altere — Dice: “Le parole dell’Eterno sono parole pure”."
     },
     "intros": {
       "eng": "To the chief Musician upon Sheminith, A Psalm of David.",
-      "jpn": "<ruby><rb>èæ­</rb><rt>ããã</rt></ruby><ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ææ®è</rb><rt>ãããã</rt></ruby>ã«ãã£ã¦ã·ã§ãããã«ãããã¦ããããããããã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
-      "spa": "Al mÃºsico principal: con Seminit. Salmo de David.",
-      "por": "Salmo de Davi para o mÃºsico-mor, sobre Seminite.",
+      "jpn": "<ruby>聖歌<rt>せいか</rt></ruby><ruby>隊<rt>たい</rt></ruby>の<ruby>指揮者<rt>しきしゃ</rt></ruby>によってシェミニテにあわせてうたわせたダビデの<ruby>歌<rt>うた</rt></ruby>",
+      "spa": "Al músico principal: con Seminit. Salmo de David.",
+      "por": "Salmo de Davi para o músico-mor, sobre Seminite.",
       "ita": "Al capo dei musici. Su Sheminit. Salmo di Davide."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>Help, <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; for the godly man ceaseth; for the faithful fail from among the children of men.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø£ÙØºÙØ«Ù ÙÙØ§ Ø±ÙØ¨ÙÙ ÙØ£ÙÙÙÙÙÙ ÙÙØ¯Ù Ø§ÙÙÙÙØ±ÙØ¶Ù Ø§ÙØªÙÙÙÙÙÙÙØ ÙÙØ§Ø®ÙØªÙÙÙÙ Ø§ÙØ£ÙÙÙÙÙØ§Ø¡Ù ÙÙÙÙ Ø¨ÙÙÙÙÙ Ø¨ÙÙÙÙ Ø§ÙÙØ¨ÙØ´ÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããã<ruby><rb>å©</rb><rt>ãã</rt></ruby>ããã ããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>æ¬</rb><rt>ããã¾</rt></ruby>ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯<ruby><rb>çµ¶</rb><rt>ã</rt></ruby>ãã<ruby><rb>å¿ ä¿¡</rb><rt>ã¡ãããã</rt></ruby>ãª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãªããã<ruby><rb>æ¶</rb><rt>ã</rt></ruby>ãããã¾ããã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">Salva, oh JehovÃ¡, porque se han acabado los piadosos,</span><span class=\"line\">porque han desaparecido los fieles de entre los hijos de los hombres.</span>",
-      "por": "<span class=\"verse-number\">1</span> Salva-nos, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, porque faltam os homens bons; porque sÃ£o poucos os fiÃ©is entre os filhos dos homens.",
-      "fra": "<span class=\"verse-number\">1</span> Au chef des chantres. Sur la harpe Ã  huit cordes. Psaume de David.",
-      "deu": "<span class=\"verse-number\">1Â </span>Dem Musikmeister, im BaÃton; ein Psalm von David.",
-      "kor": "<span class=\"verse-number\">1</span> ì¬í¸ìì¬ ëì°ìì ê²½ê±´í ìê° ëì´ì§ë©° ì¶©ì¤í ìë¤ì´ ì¸ì ì¤ì ìì´ì§ëì´ë¤",
-      "ita": "<span class=\"verse-number\">1</span> Salva, o Eterno, poichÃ© lâuomo pio viene meno, e i fedeli vengono a mancare tra i figli degli uomini."
+      "eng": "Help, <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; for the godly man ceaseth; for the faithful fail from among the children of men.",
+      "ara": "أَغِثْ يَا رَبُّ لأَنَّهُ قَدِ انْقَرَضَ التَّقِيُّ، وَاخْتَفَى الأُمَنَاءُ مِنْ بَيْنِ بَنِي الْبَشَرِ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、お<ruby>助<rt>たす</rt></ruby>けください。<ruby>神<rt>かみ</rt></ruby>を<ruby>敬<rt>うやま</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>は<ruby>絶<rt>た</rt></ruby>え、<ruby>忠信<rt>ちゅうしん</rt></ruby>な<ruby>者<rt>もの</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>の<ruby>子<rt>こ</rt></ruby>らのなかから<ruby>消<rt>き</rt></ruby>えうせました。",
+      "spa": "<span class=\"line\">Salva, oh Jehová, porque se han acabado los piadosos,</span><span class=\"line\">porque han desaparecido los fieles de entre los hijos de los hombres.</span>",
+      "por": "Salva-nos, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, porque faltam os homens bons; porque são poucos os fiéis entre os filhos dos homens.",
+      "fra": "Au chef des chantres. Sur la harpe à huit cordes. Psaume de David.",
+      "deu": "Dem Musikmeister, im Baßton; ein Psalm von David.",
+      "kor": "여호와여 도우소서 경건한 자가 끊어지며 충실한 자들이 인생 중에 없어지나이다",
+      "ita": "Salva, o Eterno, poiché l’uomo pio viene meno, e i fedeli vengono a mancare tra i figli degli uomini."
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>They speak vanity every one with his neighbour: <span class=\"clarity-word\">with</span> flattering lips <span class=\"clarity-word\">and</span> with a double heart do they speak.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙÙ Ø¥ÙÙÙØ³ÙØ§ÙÙ ÙÙØ®ÙØ§Ø·ÙØ¨Ù ØµÙØ§Ø­ÙØ¨ÙÙÙ Ø¨ÙØ§ÙÙØ¨ÙØ§Ø·ÙÙÙ: Ø¨ÙØ´ÙÙÙØ§ÙÙ ÙÙÙÙÙÙØ©Ù ÙÙÙÙÙÙÙØ¨Ù ÙÙÙÙØ§ÙÙÙÙØ©Ù ÙÙØªÙØ­ÙØ§Ø¯ÙØ«ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯ã¿ãªãã®<ruby><rb>é£</rb><rt>ã¨ãª</rt></ruby>ã<ruby><rb>äºº</rb><rt>ã³ã¨</rt></ruby>ã«<ruby><rb>å½</rb><rt>ãã¤ã</rt></ruby>ãã<ruby><rb>èª</rb><rt>ãã</rt></ruby>ããã¸ã¤ããã®ãã¡ã³ãã¨ããµããããã¨ããã£ã¦<ruby><rb>èª</rb><rt>ãã</rt></ruby>ãã",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Falsedad habla cada uno con su prÃ³jimo;</span><span class=\"line\">hablan con labios lisonjeros y con doblez de corazÃ³n.</span>",
-      "por": "<span class=\"verse-number\">2</span> Cada um fala a falsidade ao seu prÃ³ximo; falam <span class=\"clarity-word\">com</span> lÃ¡bios lisonjeiros e coraÃ§Ã£o dobre.",
-      "fra": "<span class=\"verse-number\">2</span> Sauve, ÃternelÂ ! car les hommes pieux sâen vont, Les fidÃ¨les disparaissent parmi les enfants des hommes.",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Hilf doch, o HErr! denn dahin sind die Frommen (d. h. Gesetzestreuen)</span><span class=\"line\">und die Treuen ausgestorben inmitten der Menschenwelt!</span>",
-      "kor": "<span class=\"verse-number\">2</span> ê·¸ë¤ì´ ì´ììê² ê°ê¸° ê±°ì§ì ë§í¨ì´ì¬ ìì²¨íë ìì ê³¼ ë ë§ìì¼ë¡ ë§íëëë¤",
-      "ita": "<span class=\"verse-number\">2</span> Ciascuno mente parlando con il prossimo; parlano con labbro lusinghiero e con cuore doppio."
+      "eng": "They speak vanity every one with his neighbour: <span class=\"clarity-word\">with</span> flattering lips <span class=\"clarity-word\">and</span> with a double heart do they speak.",
+      "ara": "كُلُّ إِنْسَانٍ يُخَاطِبُ صَاحِبَهُ بِالْبَاطِلِ: بِشِفَاهٍ مَلِقَةٍ وَقُلُوبٍ مُنَافِقَةٍ يَتَحَادَثُونَ.",
+      "jpn": "<ruby>人<rt>ひと</rt></ruby>はみなその<ruby>隣<rt>とな</rt></ruby>り<ruby>人<rt>びと</rt></ruby>に<ruby>偽<rt>いつわ</rt></ruby>りを<ruby>語<rt>かた</rt></ruby>り、へつらいのくちびると、ふたごころとをもって<ruby>語<rt>かた</rt></ruby>る。",
+      "spa": "<span class=\"line\">Falsedad habla cada uno con su prójimo;</span><span class=\"line\">hablan con labios lisonjeros y con doblez de corazón.</span>",
+      "por": "Cada um fala a falsidade ao seu próximo; falam <span class=\"clarity-word\">com</span> lábios lisonjeiros e coração dobre.",
+      "fra": "Sauve, Éternel ! car les hommes pieux s’en vont, Les fidèles disparaissent parmi les enfants des hommes.",
+      "deu": "<span class=\"line\">Hilf doch, o HErr! denn dahin sind die Frommen (d. h. Gesetzestreuen)</span><span class=\"line\">und die Treuen ausgestorben inmitten der Menschenwelt!</span>",
+      "kor": "그들이 이웃에게 각기 거짓을 말함이여 아첨하는 입술과 두 마음으로 말하는도다",
+      "ita": "Ciascuno mente parlando con il prossimo; parlano con labbro lusinghiero e con cuore doppio."
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>The <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> shall cut off all flattering lips, <span class=\"clarity-word\">and</span> the tongue that speaketh proud things:",
-      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙÙØ·ÙØ¹Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ§ÙÙ Ø§ÙÙÙÙÙÙÙÙØ©ÙØ ÙÙÙÙÙÙÙ ÙÙØ³ÙØ§ÙÙ ÙÙØªÙØ¨ÙØ¬ÙÙØ­Ù.",
-      "jpn": "<span class=\"verse-number\">3</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ãã¹ã¦ã®ã¸ã¤ããã®ãã¡ã³ãã¨ã<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããª<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>èª</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã</rt></ruby>ã¨ã<ruby><rb>æ­</rb><rt>ã</rt></ruby>ãããããã«ã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">DestruirÃ¡ JehovÃ¡ todos los labios lisonjeros,</span><span class=\"line\">y la lengua que habla con jactancia,</span>",
-      "por": "<span class=\"verse-number\">3</span> O <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> cortarÃ¡ todos os lÃ¡bios lisonjeiros <span class=\"clarity-word\">e</span> a lÃ­ngua que fala soberbamente.",
-      "fra": "<span class=\"verse-number\">3</span> On se dit des faussetÃ©s les uns aux autres, On a sur les lÃ¨vres des paroles flatteuses, On parle avec un cÅur double.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Falschheit reden sie jeder mit dem andern,</span><span class=\"line\">mit glatten Lippen, mit doppeltem Herzen reden sie. â</span>",
-      "kor": "<span class=\"verse-number\">3</span> ì¬í¸ìê»ì ëª¨ë  ìì²¨íë ìì <span class=\"clarity-word\">ê³¼</span> ìëíë íë¥¼ ëì¼ìë¦¬ë",
-      "ita": "<span class=\"verse-number\">3</span> LâEterno recida tutte le labbra lusinghiere, la lingua che parla alteramente,"
+      "eng": "The <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> shall cut off all flattering lips, <span class=\"clarity-word\">and</span> the tongue that speaketh proud things:",
+      "ara": "يَقْطَعُ الرَّبُّ كُلَّ الشِّفَاهِ الْمَلِقَةِ، وَكُلَّ لِسَانٍ مُتَبَجِّحٍ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>はすべてのへつらいのくちびると、<ruby>大<rt>おお</rt></ruby>きな<ruby>事<rt>こと</rt></ruby>を<ruby>語<rt>かた</rt></ruby>る<ruby>舌<rt>した</rt></ruby>とを<ruby>断<rt>た</rt></ruby>たれるように。",
+      "spa": "<span class=\"line\">Destruirá Jehová todos los labios lisonjeros,</span><span class=\"line\">y la lengua que habla con jactancia,</span>",
+      "por": "O <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> cortará todos os lábios lisonjeiros <span class=\"clarity-word\">e</span> a língua que fala soberbamente.",
+      "fra": "On se dit des faussetés les uns aux autres, On a sur les lèvres des paroles flatteuses, On parle avec un cœur double.",
+      "deu": "<span class=\"line\">Falschheit reden sie jeder mit dem andern,</span><span class=\"line\">mit glatten Lippen, mit doppeltem Herzen reden sie. —</span>",
+      "kor": "여호와께서 모든 아첨하는 입술<span class=\"clarity-word\">과</span> 자랑하는 혀를 끊으시리니",
+      "ita": "L’Eterno recida tutte le labbra lusinghiere, la lingua che parla alteramente,"
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>Who have said, With our tongue will we prevail; our lips <span class=\"clarity-word\">are</span> our own: who <span class=\"clarity-word\">is</span> lord over us?",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ§ÙÙÙØ§: Ø£ÙÙÙØ³ÙÙÙØªÙÙÙØ§ ÙÙÙÙØ§ ÙÙØ¨ÙÙÙØ§ ÙÙØ³ÙÙØ¯Ù. ÙÙÙÙÙÙ ÙÙØªÙØ­ÙÙÙÙÙÙ ÙÙÙÙÙØ§Ø",
-      "jpn": "<span class=\"verse-number\">4</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããããããã¡ã¯<ruby><rb>è</rb><rt>ãã</rt></ruby>ããã£ã¦<ruby><rb>å</rb><rt>ãã¡</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ãããããããã¡ã®ãã¡ã³ãã¯ããããã¡ã®ãã®ã ãã ããããããã¡ã®<ruby><rb>ä¸»äºº</rb><rt>ãããã</rt></ruby>ã§ããããã¨ã",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">los que han dicho: Por nuestra lengua prevaleceremos;</span><span class=\"line\">nuestros labios son nuestros; Â¿quiÃ©n es seÃ±or sobre nosotros?</span>",
-      "por": "<span class=\"verse-number\">4</span> Pois dizem: Com a nossa lÃ­ngua prevaleceremos; <span class=\"clarity-word\">sÃ£o</span> nossos os lÃ¡bios; quem <span class=\"clarity-word\">Ã©</span> senhor sobre nÃ³s?",
-      "fra": "<span class=\"verse-number\">4</span> Que lâÃternel extermine toutes les lÃ¨vres flatteuses, La langue qui discourt avec arrogance,",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">O daÃ doch der HErr vertilgte alle glatten Lippen,</span><span class=\"line\">die Zunge, die vermessen redet,</span>",
-      "kor": "<span class=\"verse-number\">4</span> ê·¸ë¤ì´ ë§íê¸°ë¥¼ ì°ë¦¬ì íê° ì´ê¸°ë¦¬ë¼ ì°ë¦¬ ìì ì ì°ë¦¬ ê²ì´ë ì°ë¦¬ë¥¼ ì£¼ê´í  ì ëêµ¬ë¦¬ì í¨ì´ë¡ë¤",
-      "ita": "<span class=\"verse-number\">4</span> quelli che dicono: âCon le nostre lingue prevarremo; le nostre labbra sono per noi; chi sarÃ  signore su di noi?â."
+      "eng": "Who have said, With our tongue will we prevail; our lips <span class=\"clarity-word\">are</span> our own: who <span class=\"clarity-word\">is</span> lord over us?",
+      "ara": "الَّذِينَ قَالُوا: أَلْسِنَتُنَا لَنَا وَبِهَا نَسُودُ. فَمَنْ يَتَحَكَّمُ فِينَا؟",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らは<ruby>言<rt>い</rt></ruby>う、「わたしたちは<ruby>舌<rt>した</rt></ruby>をもって<ruby>勝<rt>かち</rt></ruby>を<ruby>得<rt>え</rt></ruby>よう、わたしたちのくちびるはわたしたちのものだ、だれがわたしたちの<ruby>主人<rt>しゅじん</rt></ruby>であるか」と。",
+      "spa": "<span class=\"line\">los que han dicho: Por nuestra lengua prevaleceremos;</span><span class=\"line\">nuestros labios son nuestros; ¿quién es señor sobre nosotros?</span>",
+      "por": "Pois dizem: Com a nossa língua prevaleceremos; <span class=\"clarity-word\">são</span> nossos os lábios; quem <span class=\"clarity-word\">é</span> senhor sobre nós?",
+      "fra": "Que l’Éternel extermine toutes les lèvres flatteuses, La langue qui discourt avec arrogance,",
+      "deu": "<span class=\"line\">O daß doch der HErr vertilgte alle glatten Lippen,</span><span class=\"line\">die Zunge, die vermessen redet,</span>",
+      "kor": "그들이 말하기를 우리의 혀가 이기리라 우리 입술은 우리 것이니 우리를 주관할 자 누구리요 함이로다",
+      "ita": "quelli che dicono: “Con le nostre lingue prevarremo; le nostre labbra sono per noi; chi sarà signore su di noi?”."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>For the oppression of the poor, for the sighing of the needy, now will I arise, saith the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; I will set <span class=\"clarity-word\">him</span> in safety <span class=\"clarity-word\">from him that</span> puffeth at him.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙÙÙ: Ø¥ÙÙÙÙÙØ§Ø°Ø§Ù ÙÙÙÙÙÙØ³ÙØ§ÙÙÙÙÙØ ÙÙØ§Ø³ÙØªÙØ¬ÙØ§Ø¨ÙØ©Ù ÙÙØªÙÙÙÙÙÙØ¯ÙØ§ØªÙ Ø§ÙÙÙÙØ¸ÙÙÙÙÙÙÙÙÙØ Ø£ÙÙÙØ¨ÙÙ Ø§ÙØ¢ÙÙ ÙØ£ÙÙÙØ±ÙÙØ¬Ù ÙÙØ±ÙØ¨ÙØ©Ù Ø§ÙÙÙÙØªÙØ¶ÙØ§ÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ããããã<ruby><rb>è²§</rb><rt>ã¾ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããããããã<ruby><rb>ä¹</rb><rt>ã¨ã¼</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å</rb><rt>ãªã</rt></ruby>ãããã«ããããã¯ãã¾<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¡ããã£ã¦ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãããã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ãã<ruby><rb>å®å¨</rb><rt>ãããã</rt></ruby>ãª<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã«<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ãããã¨ã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">Por la opresiÃ³n de los pobres, por el gemido de los menesterosos,</span><span class=\"line\">ahora me levantarÃ©, dice JehovÃ¡.</span><span class=\"line\">PondrÃ© a salvo al que anhela <span class=\"clarity-word\">la seguridad.</span></span>",
-      "por": "<span class=\"verse-number\">5</span> Pela opressÃ£o dos pobres, pelo gemido dos necessitados me levantarei agora, diz o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; porei a salvo quem por isso suspira.",
-      "fra": "<span class=\"verse-number\">5</span> Ceux qui disentÂ : Nous sommes puissants par notre langue, Nous avons nos lÃ¨vres avec nousÂ ; Qui serait notre maÃ®treÂ ?",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">(die Leute), die da sagen: âDurch unsre Zunge sind wir starke Helden,</span><span class=\"line\">âunser Mund steht uns zur VerfÃ¼gung:</span><span class=\"line\">âwer will uns meistern?</span>",
-      "kor": "<span class=\"verse-number\">5</span> ì¬í¸ìì ë§ìì ê°ë ¨í ìë¤ì ëë¦¼ê³¼ ê¶íí ìë¤ì íìì¼ë¡ ë§ë¯¸ìì ë´ê° ì´ì  ì¼ì´ë ê·¸ë¥¼ ê·¸ê° ìíë ìì í ì§ëì ëë¦¬ë¼ íìëë¤",
-      "ita": "<span class=\"verse-number\">5</span> âPer lâoppressione dei miseri, per il grido dâangoscia dei bisognosi, ora mi leverÃ²â, dice lâEterno, âdarÃ² loro la salvezza alla quale anelanoâ."
+      "eng": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; I will set <span class=\"clarity-word\">him</span> in safety <span class=\"clarity-word\">from him that</span> puffeth at him.",
+      "ara": "وَلَكِنَّ الرَّبَّ يَقُولُ: إِنْقَاذاً لِلْمَسَاكِينِ، وَاسْتِجَابَةً لِتَنَهُّدَاتِ الْمَظْلُومِينَ، أَهُبُّ الآنَ لأُفَرِّجَ كُرْبَةَ الْمُتَضَايِقِينَ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>は<ruby>言<rt>い</rt></ruby>われる、「<ruby>貧<rt>まず</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>がかすめられ、<ruby>乏<rt>とぼ</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>が<ruby>嘆<rt>なげ</rt></ruby>くゆえに、わたしはいま<ruby>立<rt>た</rt></ruby>ちあがって、<ruby>彼<rt>かれ</rt></ruby>らをその<ruby>慕<rt>した</rt></ruby>い<ruby>求<rt>もと</rt></ruby>める<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>所<rt>ところ</rt></ruby>に<ruby>置<rt>お</rt></ruby>こう」と。",
+      "spa": "<span class=\"line\">Por la opresión de los pobres, por el gemido de los menesterosos,</span><span class=\"line\">ahora me levantaré, dice Jehová.</span><span class=\"line\">Pondré a salvo al que anhela <span class=\"clarity-word\">la seguridad.</span></span>",
+      "por": "Pela opressão dos pobres, pelo gemido dos necessitados me levantarei agora, diz o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; porei a salvo quem por isso suspira.",
+      "fra": "Ceux qui disent : Nous sommes puissants par notre langue, Nous avons nos lèvres avec nous ; Qui serait notre maître ?",
+      "deu": "<span class=\"line\">(die Leute), die da sagen: „Durch unsre Zunge sind wir starke Helden,</span><span class=\"line\">„unser Mund steht uns zur Verfügung:</span><span class=\"line\">„wer will uns meistern?</span>",
+      "kor": "여호와의 말씀에 가련한 자들의 눌림과 궁핍한 자들의 탄식으로 말미암아 내가 이제 일어나 그를 그가 원하는 안전한 지대에 두리라 하시도다",
+      "ita": "“Per l’oppressione dei miseri, per il grido d’angoscia dei bisognosi, ora mi leverò”, dice l’Eterno, “darò loro la salvezza alla quale anelano”."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>The words of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">are</span> pure words: <span class=\"clarity-word\">as</span> silver tried in a furnace of earth, purified seven times.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø£ÙÙÙÙÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø®ÙØ§ÙÙØµÙØ©Ù ÙÙØ§ Ø´ÙØ§Ø¦ÙØ¨ÙØ©Ù ÙÙÙÙÙØ§Ø ÙØ§ÙÙÙÙØ¶ÙÙØ©Ù Ø§ÙÙÙÙÙÙÙÙÙØ§Ø©Ù Ø§ÙÙÙÙØµÙÙÙÙØ§Ø©Ù Ø³ÙØ¨ÙØ¹Ù ÙÙØ±ÙÙØ§ØªÙ ÙÙÙ Ø¨ÙÙØªÙÙÙØ©Ù ÙÙØ­ÙÙÙÙØ§Ø©Ù.",
-      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ãã¨ã°ã¯<ruby><rb>æ¸</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¨è</rb><rt>ãã¨ã°</rt></ruby>ã§ããã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã«<ruby><rb>è¨­</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã§<ruby><rb>ç·´</rb><rt>ã­</rt></ruby>ããä¸ãã³ãããã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®ããã§ããã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Las palabras de JehovÃ¡ <span class=\"clarity-word\">son</span> palabras puras,</span><span class=\"line\">como plata refinada en horno de tierra,</span><span class=\"line\">purificada siete veces.</span>",
-      "por": "<span class=\"verse-number\">6</span> As palavras do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">sÃ£o</span> palavras puras, <span class=\"clarity-word\">como</span> prata refinada em fornalha de barro, purificada sete vezes.",
-      "fra": "<span class=\"verse-number\">6</span> Parce que les malheureux sont opprimÃ©s et que les pauvres gÃ©missent, Maintenant, dit lâÃternel, je me lÃ¨ve, Jâapporte le salut Ã  ceux qui y aspirent.",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">âOb der Knechtung der Niedrigen, ob dem Seufzen der Armen</span><span class=\"line\">âwill jetzt ich mich erhebenâ, spricht der HErr,</span><span class=\"line\">âwill Rettung schaffen dem, der danach verlangt!â â</span>",
-      "kor": "<span class=\"verse-number\">6</span> ì¬í¸ìì ë§ìì ìê²°í¨ì´ì¬ í ëê°ëì ì¼ê³± ë² ë¨ë ¨í ì ê°ëë¤",
-      "ita": "<span class=\"verse-number\">6</span> Le parole dellâEterno sono parole pure, sono argento affinato in un crogiolo di terra, purificato sette volte."
+      "eng": "The words of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">are</span> pure words: <span class=\"clarity-word\">as</span> silver tried in a furnace of earth, purified seven times.",
+      "ara": "أَقْوَالُ الرَّبِّ خَالِصَةٌ لَا شَائِبَةَ فِيهَا، كالْفِضَّةِ الْمُنَقَّاةِ الْمُصَفَّاةِ سَبْعَ مَرَّاتٍ فِي بَوتَقَةٍ مُحَمَّاةٍ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>のことばは<ruby>清<rt>きよ</rt></ruby>き<ruby>言葉<rt>ことば</rt></ruby>である。<ruby>地<rt>ち</rt></ruby>に<ruby>設<rt>もう</rt></ruby>けた<ruby>炉<rt>ろ</rt></ruby>で<ruby>練<rt>ね</rt></ruby>り、七たびきよめた<ruby>銀<rt>ぎん</rt></ruby>のようである。",
+      "spa": "<span class=\"line\">Las palabras de Jehová <span class=\"clarity-word\">son</span> palabras puras,</span><span class=\"line\">como plata refinada en horno de tierra,</span><span class=\"line\">purificada siete veces.</span>",
+      "por": "As palavras do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">são</span> palavras puras, <span class=\"clarity-word\">como</span> prata refinada em fornalha de barro, purificada sete vezes.",
+      "fra": "Parce que les malheureux sont opprimés et que les pauvres gémissent, Maintenant, dit l’Éternel, je me lève, J’apporte le salut à ceux qui y aspirent.",
+      "deu": "<span class=\"line\">„Ob der Knechtung der Niedrigen, ob dem Seufzen der Armen</span><span class=\"line\">„will jetzt ich mich erheben”, spricht der HErr,</span><span class=\"line\">„will Rettung schaffen dem, der danach verlangt!” —</span>",
+      "kor": "여호와의 말씀은 순결함이여 흙 도가니에 일곱 번 단련한 은 같도다",
+      "ita": "Le parole dell’Eterno sono parole pure, sono argento affinato in un crogiolo di terra, purificato sette volte."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>Thou shalt keep them, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, thou shalt preserve them from this generation for ever.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>Ø£ÙÙÙØªÙ ÙÙØ§ Ø±ÙØ¨ÙÙ ØªÙØ­ÙÙÙØ¸Ù Ø§ÙØ£ÙØ¨ÙØ±ÙØ§Ø±ÙØ ÙÙØªÙÙÙÙÙÙÙÙ Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯Ù ÙÙÙÙ Ø¬ÙÙÙÙ Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù.",
-      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããããã<ruby><rb>ä¿</rb><rt>ãã</rt></ruby>ã¡ãã¨ãããã«ãã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ãã<ruby><rb>å</rb><rt>ã¾ã¬ã</rt></ruby>ãããã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">TÃº, oh JehovÃ¡, los guardarÃ¡s;</span><span class=\"line\">los protegerÃ¡s para siempre de esta generaciÃ³n.</span>",
-      "por": "<span class=\"verse-number\">7</span> Tu os guardarÃ¡s, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; desta geraÃ§Ã£o os livrarÃ¡s para sempre.",
-      "fra": "<span class=\"verse-number\">7</span> Les paroles de lâÃternel sont des paroles pures, Un argent Ã©prouvÃ© sur terre au creuset, Et sept fois Ã©purÃ©.",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">Die Worte des HErrn sind lautere Worte,</span><span class=\"line\">sind Silber, im Schmelzofen siebenfÃ¤ltig gelÃ¤utert.</span>",
-      "kor": "<span class=\"verse-number\">7</span> ì¬í¸ìì¬ ê·¸ë¤ì ì§í¤ì¬ ì´ ì¸ëë¡ë¶í° ììê¹ì§ ë³´ì¡´íìë¦¬ì´ë¤",
-      "ita": "<span class=\"verse-number\">7</span> Tu, o Eterno, li proteggerai, li preserverai da questa generazione in perpetuo."
+      "eng": "Thou shalt keep them, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, thou shalt preserve them from this generation for ever.",
+      "ara": "أَنْتَ يَا رَبُّ تَحْفَظُ الأَبْرَارَ، وَتَقِيهِمْ إِلَى الأَبَدِ مِنْ جِيلِ الأَشْرَارِ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、われらを<ruby>保<rt>たも</rt></ruby>ち、とこしえにこの<ruby>人々<rt>ひとびと</rt></ruby>から<ruby>免<rt>まぬか</rt></ruby>れさせてください。",
+      "spa": "<span class=\"line\">Tú, oh Jehová, los guardarás;</span><span class=\"line\">los protegerás para siempre de esta generación.</span>",
+      "por": "Tu os guardarás, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; desta geração os livrarás para sempre.",
+      "fra": "Les paroles de l’Éternel sont des paroles pures, Un argent éprouvé sur terre au creuset, Et sept fois épuré.",
+      "deu": "<span class=\"line\">Die Worte des HErrn sind lautere Worte,</span><span class=\"line\">sind Silber, im Schmelzofen siebenfältig geläutert.</span>",
+      "kor": "여호와여 그들을 지키사 이 세대로부터 영원까지 보존하시리이다",
+      "ita": "Tu, o Eterno, li proteggerai, li preserverai da questa generazione in perpetuo."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>The wicked walk on every side, when the vilest men are exalted.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØªÙØ¬ÙÙÙÙÙÙ Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù Ø£ÙØ­ÙØ±ÙØ§Ø±Ø§Ù ÙÙÙ ÙÙÙÙÙ ÙÙØ§Ø­ÙÙÙØ©ÙØ Ø¹ÙÙÙØ¯ÙÙÙØ§ ÙÙØªÙØ¨ÙÙÙÙØ£Ù Ø£ÙØ±ÙØ§Ø°ÙÙÙ Ø§ÙÙÙÙØ§Ø³Ù Ø§ÙÙÙÙÙÙØ§ÙÙØ§ØªÙ Ø§ÙØ±ÙÙÙÙÙØ¹ÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">8</span> <ruby><rb>å</rb><rt>ãã</rt></ruby>ãã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã®ãªãã«ãããããã¦ãã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ããã<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã§ã»ããã¾ã¾ã«<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ãã¦ãã¾ãã",
-      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">Los malos andan por todas partes</span><span class=\"line\">cuando la vileza es exaltada entre los hijos de los hombres.</span>",
-      "por": "<span class=\"verse-number\">8</span> Os Ã­mpios andam por toda parte, enquanto os mais vis dos filhos dos homens sÃ£o exaltados.",
-      "fra": "<span class=\"verse-number\">8</span> Toi, ÃternelÂ ! tu les garderas, Tu les prÃ©serveras de cette gÃ©nÃ©ration Ã  jamais.",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">Du, HErr, wirst treulich sie halten, wirst uns schirmen</span><span class=\"line\">vor diesem Geschlecht (= Gelichter) zu jeder Zeit,</span>",
-      "kor": "<span class=\"verse-number\">8</span> ë¹ì´í¨ì´ ì¸ì ì¤ì ëìì ë°ë ëì ìì¸ë¤ì´ ê³³ê³³ìì ë ë°ëëë¤",
-      "ita": "<span class=\"verse-number\">8</span> Gli empi vanno attorno da tutte le parti quando la bassezza siede in alto tra i figli degli uomini."
+      "eng": "The wicked walk on every side, when the vilest men are exalted.",
+      "ara": "يَتَجَوَّلُ الأَشْرَارُ أَحْرَاراً فِي كُلِّ نَاحِيَةٍ، عِنْدَمَا يَتَبَوَّأُ أَرَاذِلُ النَّاسِ الْمَقَامَاتِ الرَّفِيعَةَ.",
+      "jpn": "<ruby>卑<rt>いや</rt></ruby>しい<ruby>事<rt>こと</rt></ruby>が<ruby>人<rt>ひと</rt></ruby>の<ruby>子<rt>こ</rt></ruby>のなかにあがめられている<ruby>時<rt>とき</rt></ruby>、<ruby>悪<rt>あ</rt></ruby>しき<ruby>者<rt>もの</rt></ruby>はいたる<ruby>所<rt>ところ</rt></ruby>でほしいままに<ruby>歩<rt>ある</rt></ruby>いています。",
+      "spa": "<span class=\"line\">Los malos andan por todas partes</span><span class=\"line\">cuando la vileza es exaltada entre los hijos de los hombres.</span>",
+      "por": "Os ímpios andam por toda parte, enquanto os mais vis dos filhos dos homens são exaltados.",
+      "fra": "Toi, Éternel ! tu les garderas, Tu les préserveras de cette génération à jamais.",
+      "deu": "<span class=\"line\">Du, HErr, wirst treulich sie halten, wirst uns schirmen</span><span class=\"line\">vor diesem Geschlecht (= Gelichter) zu jeder Zeit,</span>",
+      "kor": "비열함이 인생 중에 높임을 받는 때에 악인들이 곳곳에서 날뛰는도다",
+      "ita": "Gli empi vanno attorno da tutte le parti quando la bassezza siede in alto tra i figli degli uomini."
     },
     "9": {
-      "fra": "<span class=\"verse-number\">9</span> Les mÃ©chants se promÃ¨nent de toutes parts, Quand la bassesse rÃ¨gne parmi les fils de lâhomme.",
-      "deu": "<span class=\"verse-number\">9Â </span><span class=\"line\">vor den Gottlosen, die ringsum stolzieren,</span><span class=\"line\">weil Gemeinheit sich blÃ¤ht inmitten der Menschheit.</span>"
+      "fra": "Les méchants se promènent de toutes parts, Quand la bassesse règne parmi les fils de l’homme.",
+      "deu": "<span class=\"line\">vor den Gottlosen, die ringsum stolzieren,</span><span class=\"line\">weil Gemeinheit sich bläht inmitten der Menschheit.</span>"
     }
   }
 }

@@ -4,15 +4,15 @@
     "book": "ps",
     "chapter": 15,
     "headings": {
-      "eng": "David asks, Who will dwell in the Lordâs holy hill?âHe answers, The righteous, the upright, and those with integrity.",
-      "spa": "David pregunta: Â¿QuiÃ©n morarÃ¡ en el monte santo de JehovÃ¡?Â â Ãl responde: Los justos, los rectos y los que tienen integridad.",
-      "por": "Davi pergunta: Quem morarÃ¡ no santo monte do Senhor?Â â Ele <span class=\"page-break\" data-page=\"880\"></span>responde: Os justos, os retos, os Ã­ntegros.",
-      "fra": "David demandeÂ : Â«Â Qui demeurera sur ta montagne sainteÂ ?Â Â» Il rÃ©pondÂ : Â«Â Celui qui marche dans lâintÃ©gritÃ©, qui pratique la justice et qui dit la vÃ©ritÃ©.Â Â»",
-      "ita": "Davide chiede: âChi abiterÃ  sul monte santo del Signore?âÂ â Risponde: âI retti, i giusti e coloro che sono integriâ."
+      "eng": "David asks, Who will dwell in the Lord’s holy hill?—He answers, The righteous, the upright, and those with integrity.",
+      "spa": "David pregunta: ¿Quién morará en el monte santo de Jehová? — Él responde: Los justos, los rectos y los que tienen integridad.",
+      "por": "Davi pergunta: Quem morará no santo monte do Senhor? — Ele responde: Os justos, os retos, os íntegros.",
+      "fra": "David demande : « Qui demeurera sur ta montagne sainte ? » Il répond : « Celui qui marche dans l’intégrité, qui pratique la justice et qui dit la vérité. »",
+      "ita": "Davide chiede: “Chi abiterà sul monte santo del Signore?” — Risponde: “I retti, i giusti e coloro che sono integri”."
     },
     "intros": {
       "eng": "A Psalm of David.",
-      "jpn": "ãããã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
+      "jpn": "ダビデの<ruby>歌<rt>うた</rt></ruby>",
       "spa": "Salmo de David.",
       "por": "Salmo de Davi.",
       "ita": "Salmo di Davide."
@@ -20,59 +20,59 @@
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span><span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ§ Ø±ÙØ¨ÙÙ ÙÙÙÙ ÙÙÙÙÙÙÙ ÙÙÙ ÙÙØ³ÙÙÙÙÙÙÙØ ÙÙÙÙÙÙ ÙÙØ£ÙÙÙÙ Ø¥ÙÙÙÙ Ø¬ÙØ¨ÙÙÙÙÙ Ø§ÙÙÙÙÙÙØ¯ÙÙØ³ÙØ",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããªãã®<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã«ãã©ãã¹ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã ãã§ãããããªãã®<ruby><rb>è</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ãã¹ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã ãã§ããã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">JehovÃ¡, Â¿quiÃ©n habitarÃ¡ en tu tabernÃ¡culo?</span><span class=\"line\">Â¿QuiÃ©n residirÃ¡ en tu santo monte?</span>",
-      "por": "<span class=\"verse-number\">1</span> <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, quem habitarÃ¡ no teu tabernÃ¡culo? Quem morarÃ¡ no teu santo monte?",
-      "fra": "<span class=\"verse-number\">1</span> Psaume de David. Ã ÃternelÂ ! qui sÃ©journera dans ta tenteÂ ? Qui demeurera sur ta montagne sainteÂ ?",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Ein Psalm von David.</span><span class=\"line\">HErr, wer darf Gast sein in deinem Zelte,</span><span class=\"line\">wer wohnen auf deinem heiligen Berge?</span>",
-      "kor": "<span class=\"verse-number\">1</span> ì¬í¸ìì¬ ì£¼ì ì¥ë§ì ë¨¸ë¬´ë¥¼ ì ëêµ¬ì¤ë©° ì£¼ì ì±ì°ì ì¬ë ì ëêµ¬ì¤ëì´ê¹",
-      "ita": "<span class=\"verse-number\">1</span> O Eterno, chi dimorerÃ  nella tua tenda? Chi abiterÃ  sul tuo monte santo?"
+      "eng": "<span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, who shall abide in thy tabernacle? who shall dwell in thy holy hill?",
+      "ara": "يَا رَبُّ مَنْ يُقِيمُ فِي مَسْكَنِكَ؟ وَمَنْ يَأْوِي إِلَى جَبَلِكَ الْمُقَدَّسِ؟",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、あなたの<ruby>幕屋<rt>まくや</rt></ruby>にやどるべき<ruby>者<rt>もの</rt></ruby>はだれですか、あなたの<ruby>聖<rt>せい</rt></ruby>なる<ruby>山<rt>やま</rt></ruby>に<ruby>住<rt>す</rt></ruby>むべき<ruby>者<rt>もの</rt></ruby>はだれですか。",
+      "spa": "<span class=\"line\">Jehová, ¿quién habitará en tu tabernáculo?</span><span class=\"line\">¿Quién residirá en tu santo monte?</span>",
+      "por": "<span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, quem habitará no teu tabernáculo? Quem morará no teu santo monte?",
+      "fra": "Psaume de David. Ô Éternel ! qui séjournera dans ta tente ? Qui demeurera sur ta montagne sainte ?",
+      "deu": "<span class=\"line\">Ein Psalm von David.</span><span class=\"line\">HErr, wer darf Gast sein in deinem Zelte,</span><span class=\"line\">wer wohnen auf deinem heiligen Berge?</span>",
+      "kor": "여호와여 주의 장막에 머무를 자 누구오며 주의 성산에 사는 자 누구오니이까",
+      "ita": "O Eterno, chi dimorerà nella tua tenda? Chi abiterà sul tuo monte santo?"
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø§ÙØ³ÙÙØ§ÙÙÙÙ Ø¨ÙØ§ÙØ§Ø³ÙØªÙÙÙØ§ÙÙØ©ÙØ Ø§ÙØµÙÙØ§ÙÙØ¹Ù Ø§ÙÙØ¨ÙØ±ÙÙØ ÙØ§ÙØµÙÙØ§Ø¯ÙÙÙ Ø§ÙÙÙÙÙÙØ¨Ù.",
-      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>ç´</rb><rt>ãªã</rt></ruby>ã<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ã¿ã<ruby><rb>ç¾©</rb><rt>ã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãã<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ãã<ruby><rb>çå®</rb><rt>ãããã¤</rt></ruby>ã<ruby><rb>èª</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">El que anda en integridad, y hace justicia</span><span class=\"line\">y habla verdad en su corazÃ³n.</span>",
-      "por": "<span class=\"verse-number\">2</span> Aquele que anda com integridade, e pratica a justiÃ§a, e fala a verdade no seu coraÃ§Ã£o.",
-      "fra": "<span class=\"verse-number\">2</span> Celui qui marche dans lâintÃ©gritÃ©, qui pratique la justice Et qui dit la vÃ©ritÃ© selon son cÅur.",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Wer unstrÃ¤flich wandelt und Gerechtigkeit Ã¼bt</span><span class=\"line\">und die Wahrheit redet, wieâs ihm ums Herz ist;</span>",
-      "kor": "<span class=\"verse-number\">2</span> ì ì§íê² ííë©° ê³µìë¥¼ ì¤ì²íë©° ê·¸ì ë§ìì ì§ì¤ì ë§íë©°",
-      "ita": "<span class=\"verse-number\">2</span> Colui che cammina in integritÃ  e agisce in rettitudine e dice la veritÃ  come lâha nel cuore;"
+      "eng": "He that walketh uprightly, and worketh righteousness, and speaketh the truth in his heart.",
+      "ara": "السَّالِكُ بِالاسْتِقَامَةِ، الصَّانِعُ الْبِرَّ، والصَّادِقُ الْقَلْبِ.",
+      "jpn": "<ruby>直<rt>なお</rt></ruby>く<ruby>歩<rt>あゆ</rt></ruby>み、<ruby>義<rt>ぎ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>い、<ruby>心<rt>こころ</rt></ruby>から<ruby>真実<rt>しんじつ</rt></ruby>を<ruby>語<rt>かた</rt></ruby>る<ruby>者<rt>もの</rt></ruby>、",
+      "spa": "<span class=\"line\">El que anda en integridad, y hace justicia</span><span class=\"line\">y habla verdad en su corazón.</span>",
+      "por": "Aquele que anda com integridade, e pratica a justiça, e fala a verdade no seu coração.",
+      "fra": "Celui qui marche dans l’intégrité, qui pratique la justice Et qui dit la vérité selon son cœur.",
+      "deu": "<span class=\"line\">Wer unsträflich wandelt und Gerechtigkeit übt</span><span class=\"line\">und die Wahrheit redet, wie’s ihm ums Herz ist;</span>",
+      "kor": "정직하게 행하며 공의를 실천하며 그의 마음에 진실을 말하며",
+      "ita": "Colui che cammina in integrità e agisce in rettitudine e dice la verità come l’ha nel cuore;"
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span><span class=\"clarity-word\">He that</span> backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>Ø§ÙÙÙØ°ÙÙ ÙÙØ§ ÙÙØ´ÙÙÙÙÙÙ Ø³ÙÙÙØ¹ÙØ©Ù Ø§ÙØ¢Ø®ÙØ±ÙÙÙÙØ ÙÙÙÙØ§ ÙÙØ³ÙÙØ¡Ù Ø¥ÙÙÙÙ ØµÙØ§Ø­ÙØ¨ÙÙÙØ ÙÙÙÙØ§ ÙÙÙÙØ­ÙÙÙ Ø¨ÙÙÙØ±ÙÙØ¨ÙÙÙ Ø¹ÙØ§Ø±Ø§Ù.",
-      "jpn": "<span class=\"verse-number\">3</span> ãã®<ruby><rb>è</rb><rt>ãã</rt></ruby>ããã£ã¦ããããããã®<ruby><rb>å</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>æª</rb><rt>ãã</rt></ruby>ããªããã<ruby><rb>é£</rb><rt>ã¨ãª</rt></ruby>ã<ruby><rb>äºº</rb><rt>ã³ã¨</rt></ruby>ã«<ruby><rb>å¯¾</rb><rt>ãã</rt></ruby>ãããããã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ããããã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">El que no calumnia con su lengua,</span><span class=\"line\">ni hace mal a su prÃ³jimo</span><span class=\"line\">ni contra su prÃ³jimo admite reproche.</span>",
-      "por": "<span class=\"verse-number\">3</span> <span class=\"clarity-word\">Aquele que</span> nÃ£o murmura com a sua lÃ­ngua, nem faz mal ao seu prÃ³ximo, nem aceita nenhum oprÃ³brio contra o seu prÃ³ximo,",
-      "fra": "<span class=\"verse-number\">3</span> Il ne calomnie pas avec sa langue, Il ne fait pas de mal Ã  son semblable, Et il ne jette pas le dÃ©shonneur sur son prochain.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">wer keine Verleumdung mit seiner Zunge umhertrÃ¤gt,</span><span class=\"line\">seinem NÃ¤chsten kein Unrecht zufÃ¼gt</span><span class=\"line\">und keine SchmÃ¤hung ausspricht gegen Verwandte;</span>",
-      "kor": "<span class=\"verse-number\">3</span> ê·¸ì íë¡ ë¨ì íë¬¼íì§ ìëíê³  ê·¸ì ì´ììê² ìì ííì§ ìëíë©° ê·¸ì ì´ìì ë¹ë°©íì§ ìëíë©°",
-      "ita": "<span class=\"verse-number\">3</span> che non calunnia con la sua lingua, nÃ© fa alcun male al suo compagno, nÃ© lancia insulti contro il suo prossimo."
+      "eng": "<span class=\"clarity-word\">He that</span> backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
+      "ara": "الَّذِي لَا يُشَوِّهُ سُمْعَةَ الآخَرِينَ، وَلَا يُسِيءُ إِلَى صَاحِبِهِ، وَلَا يُلْحِقُ بِقَرِيبِهِ عَاراً.",
+      "jpn": "その<ruby>舌<rt>した</rt></ruby>をもってそしらず、その<ruby>友<rt>とも</rt></ruby>に<ruby>悪<rt>あく</rt></ruby>をなさず、<ruby>隣<rt>とな</rt></ruby>り<ruby>人<rt>びと</rt></ruby>に<ruby>対<rt>たい</rt></ruby>するそしりを<ruby>取<rt>と</rt></ruby>りあげず、",
+      "spa": "<span class=\"line\">El que no calumnia con su lengua,</span><span class=\"line\">ni hace mal a su prójimo</span><span class=\"line\">ni contra su prójimo admite reproche.</span>",
+      "por": "<span class=\"clarity-word\">Aquele que</span> não murmura com a sua língua, nem faz mal ao seu próximo, nem aceita nenhum opróbrio contra o seu próximo,",
+      "fra": "Il ne calomnie pas avec sa langue, Il ne fait pas de mal à son semblable, Et il ne jette pas le déshonneur sur son prochain.",
+      "deu": "<span class=\"line\">wer keine Verleumdung mit seiner Zunge umherträgt,</span><span class=\"line\">seinem Nächsten kein Unrecht zufügt</span><span class=\"line\">und keine Schmähung ausspricht gegen Verwandte;</span>",
+      "kor": "그의 혀로 남을 허물하지 아니하고 그의 이웃에게 악을 행하지 아니하며 그의 이웃을 비방하지 아니하며",
+      "ita": "che non calunnia con la sua lingua, né fa alcun male al suo compagno, né lancia insulti contro il suo prossimo."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>In whose eyes a vile person is contemned; but he honoureth them that fear the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>. <span class=\"clarity-word\">He that</span> sweareth to <span class=\"clarity-word\">his own</span> hurt, and changeth not.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ­ÙØªÙÙÙØ±Ù Ø§ÙØ£ÙØ±ÙØ§Ø°ÙÙÙ ÙÙÙÙÙÙØ±ÙÙÙ Ø®ÙØ§Ø¦ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ. ÙÙØ§ ÙÙÙÙÙÙØ¶Ù Ø­ÙÙÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙÙ Ø£ÙØ°ÙÙ ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">4</span> ãã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã¦ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å°</rb><rt>ãã£ã¨</rt></ruby>ã³ã<ruby><rb>èª</rb><rt>ã¡ã</rt></ruby>ã£ã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã¯<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>æå®³</rb><rt>ãããã</rt></ruby>ã«ãªã£ã¦ã<ruby><rb>å¤</rb><rt>ã</rt></ruby>ãããã¨ãªãã",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Aquel ante cuyos ojos es menospreciado el vil,</span><span class=\"line\">pero honra a los que temen a JehovÃ¡;</span><span class=\"line\">el que, aun jurando en perjuicio propio, no por eso cambia;</span>",
-      "por": "<span class=\"verse-number\">4</span> Em cujos olhos o rÃ©probo Ã© desprezado, mas honra os que temem ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>. <span class=\"clarity-word\">Aquele que</span> jura com dano <span class=\"clarity-word\">seu,</span> e contudo nÃ£o muda.",
-      "fra": "<span class=\"verse-number\">4</span> Il regarde avec dÃ©dain celui qui est mÃ©prisable, Mais il honore ceux qui craignent lâÃternelÂ ; Il ne se rÃ©tracte pas sâil fait un serment Ã  son dÃ©triment.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">wer Verworfne als wirklich verÃ¤chtlich ansieht,</span><span class=\"line\">aber GottesfÃ¼rchtigen Ehre erweist;</span><span class=\"line\">wer sich selbst zum Schaden schwÃ¶rt und den Eid doch hÃ¤lt;</span>",
-      "kor": "<span class=\"verse-number\">4</span> ê·¸ì ëì ë§ë ¹ë ìë¥¼ ë©¸ìíë©° ì¬í¸ìë¥¼ ëë ¤ìíë ìë¤ì ì¡´ëíë©° ê·¸ì ë§ìì ììí ê²ì í´ë¡ì¸ì§ë¼ë ë³íì§ ìëíë©°",
-      "ita": "<span class=\"verse-number\">4</span> Ai suoi occhi Ã¨ disprezzato chi Ã¨ spregevole, ma onora quelli che temono lâEterno. Se ha giurato, fosse anche a suo danno, non muta;"
+      "eng": "In whose eyes a vile person is contemned; but he honoureth them that fear the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>. <span class=\"clarity-word\">He that</span> sweareth to <span class=\"clarity-word\">his own</span> hurt, and changeth not.",
+      "ara": "يَحْتَقِرُ الأَرَاذِلَ وَيُكْرِمُ خَائِفِي الرَّبِّ. لَا يَنْقُضُ حَلْفَهُ وَلَوْ فِيهِ أَذىً لَهُ.",
+      "jpn": "その<ruby>目<rt>め</rt></ruby>は<ruby>神<rt>かみ</rt></ruby>に<ruby>捨<rt>す</rt></ruby>てられた<ruby>者<rt>もの</rt></ruby>を<ruby>卑<rt>いや</rt></ruby>しめ、<ruby>主<rt>しゅ</rt></ruby>を<ruby>恐<rt>おそ</rt></ruby>れる<ruby>者<rt>もの</rt></ruby>を<ruby>尊<rt>たっと</rt></ruby>び、<ruby>誓<rt>ちか</rt></ruby>った<ruby>事<rt>こと</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>損害<rt>そんがい</rt></ruby>になっても<ruby>変<rt>か</rt></ruby>えることなく、",
+      "spa": "<span class=\"line\">Aquel ante cuyos ojos es menospreciado el vil,</span><span class=\"line\">pero honra a los que temen a Jehová;</span><span class=\"line\">el que, aun jurando en perjuicio propio, no por eso cambia;</span>",
+      "por": "Em cujos olhos o réprobo é desprezado, mas honra os que temem ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>. <span class=\"clarity-word\">Aquele que</span> jura com dano <span class=\"clarity-word\">seu,</span> e contudo não muda.",
+      "fra": "Il regarde avec dédain celui qui est méprisable, Mais il honore ceux qui craignent l’Éternel ; Il ne se rétracte pas s’il fait un serment à son détriment.",
+      "deu": "<span class=\"line\">wer Verworfne als wirklich verächtlich ansieht,</span><span class=\"line\">aber Gottesfürchtigen Ehre erweist;</span><span class=\"line\">wer sich selbst zum Schaden schwört und den Eid doch hält;</span>",
+      "kor": "그의 눈은 망령된 자를 멸시하며 여호와를 두려워하는 자들을 존대하며 그의 마음에 서원한 것은 해로울지라도 변하지 아니하며",
+      "ita": "Ai suoi occhi è disprezzato chi è spregevole, ma onora quelli che temono l’Eterno. Se ha giurato, fosse anche a suo danno, non muta;"
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span><span class=\"clarity-word\">He that</span> putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these <span class=\"clarity-word\">things</span> shall never be moved.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ§ ÙÙØ³ÙØªÙØ«ÙÙÙØ±Ù ÙÙØ§ÙÙÙÙ Ø¨ÙØ§ÙØ±ÙÙØ¨ÙØ§Ø ÙÙÙÙØ§ ÙÙÙÙØ¨ÙØ¶Ù Ø±ÙØ´ÙÙÙØ©Ù ÙÙÙØ¥ÙÙÙÙØ§Ø¹Ù Ø¨ÙØ§ÙÙØ¨ÙØ±ÙÙØ¡Ù. Ø§ÙÙÙØ°ÙÙ ÙÙØµÙÙÙØ¹Ù ÙÙØ°ÙØ§ ÙÙØ§ ÙÙØªÙØ²ÙØ¹ÙØ²ÙØ¹Ù Ø£ÙØ¨ÙØ¯Ø§Ù.",
-      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>å©æ¯</rb><rt>ããã</rt></ruby>ãã¨ã£ã¦<ruby><rb>éé­</rb><rt>ãããã</rt></ruby>ã<ruby><rb>è²¸</rb><rt>ã</rt></ruby>ããã¨ãªããã¾ããªãã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã£ã¦<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã®ãªã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>ä¸å©</rb><rt>ãµã</rt></ruby>ãã¯ãããã¨ãããªã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã§ããããããã®<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã¨ãããã«<ruby><rb>å</rb><rt>ãã</rt></ruby>ãããããã¨ã¯ãªãã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">el que no da su dinero con usura</span><span class=\"line\">ni acepta soborno contra el inocente.</span><span class=\"line\">El que hace estas cosas no resbalarÃ¡ jamÃ¡s.</span>",
-      "por": "<span class=\"verse-number\">5</span> <span class=\"clarity-word\">Aquele que</span> nÃ£o dÃ¡ o seu dinheiro Ã  usura, nem recebe suborno contra o inocente. Quem faz isso nunca serÃ¡ abalado.",
-      "fra": "<span class=\"verse-number\">5</span> Il nâexige pas dâintÃ©rÃªt de son argent, Et il nâaccepte pas de prÃ©sent contre lâinnocent. Celui qui se conduit ainsi ne chancelle jamais.",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">wer sein Geld nicht ausleiht gegen Zins (oder: auf Wucher)</span><span class=\"line\">und Bestechung nicht annimmt gegen Schuldlose:</span><span class=\"line\">wer solches tut, wird ewiglich nicht wanken.</span>",
-      "kor": "<span class=\"verse-number\">5</span> ì´ìë¥¼ ë°ì¼ë ¤ê³  ëì ê¾¸ì´ ì£¼ì§ ìëíë©° ëë¬¼ì ë°ê³  ë¬´ì£í ìë¥¼ í´íì§ ìëíë ìì´ë ì´ë° ì¼ì ííë ìë ììí íë¤ë¦¬ì§ ìëíë¦¬ì´ë¤",
-      "ita": "<span class=\"verse-number\">5</span> non dÃ  il suo denaro ad usura, nÃ© accetta doni a danno dellâinnocente. Chi fa queste cose non sarÃ  mai smosso."
+      "eng": "<span class=\"clarity-word\">He that</span> putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these <span class=\"clarity-word\">things</span> shall never be moved.",
+      "ara": "لَا يَسْتَثْمِرُ مَالَهُ بِالرِّبَا، وَلَا يَقْبِضُ رِشْوَةً لِلإِيقَاعِ بِالْبَرِيءِ. الَّذِي يَصْنَعُ هَذَا لَا يَتَزَعْزَعُ أَبَداً.",
+      "jpn": "<ruby>利息<rt>りそく</rt></ruby>をとって<ruby>金銭<rt>きんせん</rt></ruby>を<ruby>貸<rt>か</rt></ruby>すことなく、まいないを<ruby>取<rt>と</rt></ruby>って<ruby>罪<rt>つみ</rt></ruby>のない<ruby>者<rt>もの</rt></ruby>の<ruby>不利<rt>ふり</rt></ruby>をはかることをしない<ruby>人<rt>ひと</rt></ruby>である。これらの<ruby>事<rt>こと</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>者<rt>もの</rt></ruby>はとこしえに<ruby>動<rt>うご</rt></ruby>かされることはない。",
+      "spa": "<span class=\"line\">el que no da su dinero con usura</span><span class=\"line\">ni acepta soborno contra el inocente.</span><span class=\"line\">El que hace estas cosas no resbalará jamás.</span>",
+      "por": "<span class=\"clarity-word\">Aquele que</span> não dá o seu dinheiro à usura, nem recebe suborno contra o inocente. Quem faz isso nunca será abalado.",
+      "fra": "Il n’exige pas d’intérêt de son argent, Et il n’accepte pas de présent contre l’innocent. Celui qui se conduit ainsi ne chancelle jamais.",
+      "deu": "<span class=\"line\">wer sein Geld nicht ausleiht gegen Zins (oder: auf Wucher)</span><span class=\"line\">und Bestechung nicht annimmt gegen Schuldlose:</span><span class=\"line\">wer solches tut, wird ewiglich nicht wanken.</span>",
+      "kor": "이자를 받으려고 돈을 꾸어 주지 아니하며 뇌물을 받고 무죄한 자를 해하지 아니하는 자이니 이런 일을 행하는 자는 영원히 흔들리지 아니하리이다",
+      "ita": "non dà il suo denaro ad usura, né accetta doni a danno dell’innocente. Chi fa queste cose non sarà mai smosso."
     }
   }
 }

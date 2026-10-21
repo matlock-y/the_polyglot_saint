@@ -4,112 +4,112 @@
     "book": "ps",
     "chapter": 3,
     "headings": {
-      "eng": "David cries unto the Lord and is heardâSalvation is of the Lord.",
-      "spa": "David clama a JehovÃ¡ y es escuchadoÂ â De JehovÃ¡ es la salvaciÃ³n.",
-      "por": "Davi clama ao Senhor e Ã© ouvidoÂ â A salvaÃ§Ã£o vem do Senhor.",
-      "fra": "David crie Ã  lâÃternel et est entendu. Le salut est auprÃ¨s de lâÃternel.",
-      "ita": "Davide grida al Signore e viene ascoltatoÂ â La salvezza viene dal Signore."
+      "eng": "David cries unto the Lord and is heard—Salvation is of the Lord.",
+      "spa": "David clama a Jehová y es escuchado — De Jehová es la salvación.",
+      "por": "Davi clama ao Senhor e é ouvido — A salvação vem do Senhor.",
+      "fra": "David crie à l’Éternel et est entendu. Le salut est auprès de l’Éternel.",
+      "ita": "Davide grida al Signore e viene ascoltato — La salvezza viene dal Signore."
     },
     "intros": {
       "eng": "A Psalm of David, when he fled from Absalom his son.",
-      "jpn": "ãããããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¢ããµã­ã ã<ruby><rb>é¿</rb><rt>ã</rt></ruby>ãã¦ã®ãããã¨ãã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
-      "spa": "Salmo de David, cuando huÃ­a de la presencia de su hijo AbsalÃ³n.",
-      "por": "Salmo de Davi, quando fugiu de diante da face de AbsalÃ£o, seu filho.",
-      "ita": "Salmo di Davide composto quando egli fuggÃ¬ dinanzi ad Absalom suo figlio."
+      "jpn": "ダビデがその<ruby>子<rt>こ</rt></ruby>アブサロムを<ruby>避<rt>さ</rt></ruby>けてのがれたときの<ruby>歌<rt>うた</rt></ruby>",
+      "spa": "Salmo de David, cuando huía de la presencia de su hijo Absalón.",
+      "por": "Salmo de Davi, quando fugiu de diante da face de Absalão, seu filho.",
+      "ita": "Salmo di Davide composto quando egli fuggì dinanzi ad Absalom suo figlio."
     }
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span><span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, how are they increased that trouble me! many <span class=\"clarity-word\">are</span> they that rise up against me.",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø±ÙØ¨ÙÙ ÙÙØ§ Ø£ÙÙÙØ«ÙØ±Ù Ø®ÙØµÙÙÙÙÙ! ÙÙØ«ÙÙØ±ÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙ Ø¹ÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããããã«<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ããã«<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ããã¨ã§ãããããããã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ãã£ã¦<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¤<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">Â¡Oh JehovÃ¡, cuÃ¡nto se han multiplicado mis enemigos!</span><span class=\"line\">Muchos son los que se levantan contra mÃ­.</span>",
-      "por": "<span class=\"verse-number\">1</span> <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, como se tÃªm multiplicado os meus adversÃ¡rios! <span class=\"clarity-word\">SÃ£o</span> muitos os que se levantam contra mim.",
-      "fra": "<span class=\"verse-number\">1</span> Psaume de David. Ã lâoccasion de sa fuite devant Absalom, son fils.",
-      "deu": "<span class=\"verse-number\">1Â </span>Ein Psalm Davids, als er vor seinem Sohne Absalom floh.",
-      "kor": "<span class=\"verse-number\">1</span> ì¬í¸ìì¬ ëì ëì ì´ ì´ì° ê·¸ë¦¬ ë§ìì§ì ì¼ì´ë ëë¥¼ ì¹ë ìê° ë§ì¼ëì´ë¤",
-      "ita": "<span class=\"verse-number\">1</span> O Eterno, quanto numerosi sono i miei nemici! Molti sono quelli che si levano contro di me,"
+      "eng": "<span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, how are they increased that trouble me! many <span class=\"clarity-word\">are</span> they that rise up against me.",
+      "ara": "رَبُّ مَا أَكْثَرَ خُصُومِي! كَثِيرُونَ يَقُومُونَ عَلَيَّ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、わたしに<ruby>敵<rt>てき</rt></ruby>する<ruby>者<rt>もの</rt></ruby>のいかに<ruby>多<rt>おお</rt></ruby>いことでしょう。わたしに<ruby>逆<rt>さか</rt></ruby>らって<ruby>立<rt>た</rt></ruby>つ<ruby>者<rt>もの</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く、",
+      "spa": "<span class=\"line\">¡Oh Jehová, cuánto se han multiplicado mis enemigos!</span><span class=\"line\">Muchos son los que se levantan contra mí.</span>",
+      "por": "<span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, como se têm multiplicado os meus adversários! <span class=\"clarity-word\">São</span> muitos os que se levantam contra mim.",
+      "fra": "Psaume de David. À l’occasion de sa fuite devant Absalom, son fils.",
+      "deu": "Ein Psalm Davids, als er vor seinem Sohne Absalom floh.",
+      "kor": "여호와여 나의 대적이 어찌 그리 많은지요 일어나 나를 치는 자가 많으니이다",
+      "ita": "O Eterno, quanto numerosi sono i miei nemici! Molti sono quelli che si levano contro di me,"
     },
     "2": {
-      "eng": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p2\" title=\"Associated Content\"><button aria-label=\"Associated Content\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">2 </span>Many <span class=\"clarity-word\">there be</span> which say of my soul, <span class=\"clarity-word\">There is</span> no help for him in God. <span class=\"selah\">Selah</span>.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØ«ÙÙØ±ÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙ Ø¹ÙÙÙÙÙ: ÙÙØ§ Ø®ÙÙØ§ØµÙ ÙÙÙÙ Ø¨ÙØ¥ÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p2\" title=\"é¢é£ã³ã³ãã³ã\"><button aria-label=\"é¢é£ã³ã³ãã³ã\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">2</span> ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã«ã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å©</rb><rt>ãã</rt></ruby>ãããªããã¨ããããã«ã¤ãã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãã®ã§ãã<span class=\"selah\">ãã»ã©</span>",
-      "spa": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p2\" title=\"Contenido relacionado\"><button aria-label=\"Contenido relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">2 </span><span class=\"line\">Muchos son los que dicen de mi alma:</span><span class=\"line\">No hay para Ã©l salvaciÃ³n en Dios. <span class=\"selah\">Selah</span></span>",
-      "por": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p2\" title=\"ConteÃºdo relacionado\"><button aria-label=\"ConteÃºdo relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">2</span> Muitos dizem da minha alma: NÃ£o hÃ¡ salvaÃ§Ã£o para ele em Deus. <span class=\"selah\">(SelÃ¡.)</span>",
-      "fra": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p2\" title=\"Contenu associÃ©\"><button aria-label=\"Contenu associÃ©\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">2</span> Ã Ãternel, que mes ennemis sont nombreuxÂ ! Quelle multitude se lÃ¨ve contre moiÂ !",
-      "deu": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p2\" title=\"DazugehÃ¶riger Inhalt\"><button aria-label=\"DazugehÃ¶riger Inhalt\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">2Â </span><span class=\"line\">Ach HErr, wie sind doch meine BedrÃ¤nger so zahlreich,</span><span class=\"line\">wie viele erheben sich gegen mich!</span>",
-      "kor": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p2\" title=\"ê´ë ¨ ì½íì¸ \"><button aria-label=\"ê´ë ¨ ì½íì¸ \" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">2</span> ë§ì ì¬ëì´ ëë¥¼ ëì íì¬ ë§íê¸°ë¥¼ ê·¸ë íëëê» êµ¬ìì ë°ì§ ëª»íë¤ íëì´ë¤ (ìë¼)",
-      "ita": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p2\" title=\"Contenuti collegati\"><button aria-label=\"Contenuti collegati\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">2</span> molti quelli che dicono dellâanima mia: âNon câÃ¨ salvezza per lui presso Dioâ. <span class=\"clarity-word\">Sela.</span>"
+      "eng": "Many <span class=\"clarity-word\">there be</span> which say of my soul, <span class=\"clarity-word\">There is</span> no help for him in God. <span class=\"selah\">Selah</span>.",
+      "ara": "كَثِيرُونَ يَقُولُونَ عَنِّي: لَا خَلاصَ لَهُ بِإِلَهِهِ.",
+      "jpn": "「<ruby>彼<rt>かれ</rt></ruby>には<ruby>神<rt>かみ</rt></ruby>の<ruby>助<rt>たす</rt></ruby>けがない」と、わたしについて<ruby>言<rt>い</rt></ruby>う<ruby>者<rt>もの</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いのです。<span class=\"selah\">〔セラ</span>",
+      "spa": "<span class=\"line\">Muchos son los que dicen de mi alma:</span><span class=\"line\">No hay para él salvación en Dios. <span class=\"selah\">Selah</span></span>",
+      "por": "Muitos dizem da minha alma: Não há salvação para ele em Deus. <span class=\"selah\">(Selá.)</span>",
+      "fra": "Ô Éternel, que mes ennemis sont nombreux ! Quelle multitude se lève contre moi !",
+      "deu": "<span class=\"line\">Ach HErr, wie sind doch meine Bedränger so zahlreich,</span><span class=\"line\">wie viele erheben sich gegen mich!</span>",
+      "kor": "많은 사람이 나를 대적하여 말하기를 그는 하나님께 구원을 받지 못한다 하나이다 (셀라)",
+      "ita": "molti quelli che dicono dell’anima mia: “Non c’è salvezza per lui presso Dio”. <span class=\"clarity-word\">Sela.</span>"
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>But thou, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, <span class=\"clarity-word\">art</span> a shield for me; my glory, and the lifter up of mine head.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙÙÙÙÙÙÙÙÙ Ø£ÙÙÙØªÙ ÙÙØ§ Ø±ÙØ¨ÙÙ ØªÙØ±ÙØ³ÙÙ. Ø¥ÙÙÙÙÙÙ ÙÙØ¬ÙØ¯ÙÙ ÙÙØ±ÙØ§ÙÙØ¹Ù Ø±ÙØ£ÙØ³ÙÙ.",
-      "jpn": "<span class=\"verse-number\">3</span> ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããªãã¯ãããã<ruby><rb>å²</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¾</rb><rt>ãã¦</rt></ruby>ããã<ruby><rb>æ </rb><rt>ãã</rt></ruby>ãããããã®<ruby><rb>é ­</rb><rt>ããã¾</rt></ruby>ãããããã¦ãã ããããã§ãã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Pero tÃº, oh JehovÃ¡, eres escudo alrededor de mÃ­,</span><span class=\"line\">mi gloria y el que levanta mi cabeza.</span>",
-      "por": "<span class=\"verse-number\">3</span> PorÃ©m tu, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, <span class=\"clarity-word\">Ã©s</span> um escudo para mim, a minha glÃ³ria, e o que exalta a minha cabeÃ§a.",
-      "fra": "<span class=\"verse-number\">3</span> Combien disent Ã  mon sujetÂ : Plus de salut pour lui auprÃ¨s de DieuÂ !Â â SÃ©lah.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Gar viele sagen von mir:</span><span class=\"line\">âEs gibt keine Rettung (oder: Hilfe) fÃ¼r ihn bei Gott!â Sela.</span>",
-      "kor": "<span class=\"verse-number\">3</span> ì¬í¸ìì¬ ì£¼ë ëì ë°©í¨ìì ëì ìê´ì´ìì ëì ë¨¸ë¦¬ë¥¼ ëìë ìì´ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">3</span> Ma tu, o Eterno, sei uno scudo attorno a me, sei la mia gloria, colui che mi rialza il capo."
+      "eng": "But thou, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, <span class=\"clarity-word\">art</span> a shield for me; my glory, and the lifter up of mine head.",
+      "ara": "وَلَكِنَّكَ أَنْتَ يَا رَبُّ تُرْسِي. إِنَّكَ مَجْدِي وَرَافِعُ رَأْسِي.",
+      "jpn": "しかし<ruby>主<rt>しゅ</rt></ruby>よ、あなたはわたしを<ruby>囲<rt>かこ</rt></ruby>む<ruby>盾<rt>たて</rt></ruby>、わが<ruby>栄<rt>さか</rt></ruby>え、わたしの<ruby>頭<rt>あたま</rt></ruby>を、もたげてくださるかたです。",
+      "spa": "<span class=\"line\">Pero tú, oh Jehová, eres escudo alrededor de mí,</span><span class=\"line\">mi gloria y el que levanta mi cabeza.</span>",
+      "por": "Porém tu, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, <span class=\"clarity-word\">és</span> um escudo para mim, a minha glória, e o que exalta a minha cabeça.",
+      "fra": "Combien disent à mon sujet : Plus de salut pour lui auprès de Dieu ! — Sélah.",
+      "deu": "<span class=\"line\">Gar viele sagen von mir:</span><span class=\"line\">„Es gibt keine Rettung (oder: Hilfe) für ihn bei Gott!” Sela.</span>",
+      "kor": "여호와여 주는 나의 방패시요 나의 영광이시요 나의 머리를 드시는 자이시니이다",
+      "ita": "Ma tu, o Eterno, sei uno scudo attorno a me, sei la mia gloria, colui che mi rialza il capo."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>I cried unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> with my voice, and he heard me out of his holy hill. <span class=\"selah\">Selah</span>.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø¨ÙÙÙÙÙØ¡Ù ØµÙÙÙØªÙÙ Ø£ÙØ¯ÙØ¹ÙÙ Ø¥ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙØ¬ÙÙØ¨ÙÙÙÙ ÙÙÙÙ Ø¬ÙØ¨ÙÙÙÙÙ Ø§ÙÙÙÙÙÙØ¯ÙÙØ³Ù.",
-      "jpn": "<span class=\"verse-number\">4</span> ãããã<ruby><rb>å£°</rb><rt>ãã</rt></ruby>ãããã¦<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã°ããã¨ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>è</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ãããããã«<ruby><rb>ç­</rb><rt>ãã</rt></ruby>ããããã<span class=\"selah\">ãã»ã©</span>",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Con mi voz clamÃ© a JehovÃ¡,</span><span class=\"line\">y Ã©l me respondiÃ³ desde su santo monte. <span class=\"selah\">Selah</span></span>",
-      "por": "<span class=\"verse-number\">4</span> Com a minha voz clamei ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, e ouviu-me desde o seu santo monte. <span class=\"selah\">(SelÃ¡.)</span>",
-      "fra": "<span class=\"verse-number\">4</span> Mais toi, Ã´ ÃternelÂ ! tu es mon bouclier, Tu es ma gloire et tu relÃ¨ves ma tÃªte.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Doch du, o HErr, bist ein Schild um mich her,</span><span class=\"line\">meine Ehre und der mir das Haupt erhebt.</span>",
-      "kor": "<span class=\"verse-number\">4</span> ë´ê° ëì ëª©ìë¦¬ë¡ ì¬í¸ìê» ë¶ë¥´ì§ì¼ë ê·¸ì ì±ì°ìì ìëµíìëëë¤ (ìë¼)",
-      "ita": "<span class=\"verse-number\">4</span> Con la mia voce io grido allâEterno, ed egli mi risponde dal monte della sua santitÃ . <span class=\"clarity-word\">Sela.</span>"
+      "eng": "I cried unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> with my voice, and he heard me out of his holy hill. <span class=\"selah\">Selah</span>.",
+      "ara": "بِمِلْءِ صَوْتِي أَدْعُو إِلَى الرَّبِّ فَيُجِيبُنِي مِنْ جَبَلِهِ الْمُقَدَّسِ.",
+      "jpn": "わたしが<ruby>声<rt>こえ</rt></ruby>をあげて<ruby>主<rt>しゅ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>ばわると、<ruby>主<rt>しゅ</rt></ruby>は<ruby>聖<rt>せい</rt></ruby>なる<ruby>山<rt>やま</rt></ruby>からわたしに<ruby>答<rt>こた</rt></ruby>えられる。<span class=\"selah\">〔セラ</span>",
+      "spa": "<span class=\"line\">Con mi voz clamé a Jehová,</span><span class=\"line\">y él me respondió desde su santo monte. <span class=\"selah\">Selah</span></span>",
+      "por": "Com a minha voz clamei ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, e ouviu-me desde o seu santo monte. <span class=\"selah\">(Selá.)</span>",
+      "fra": "Mais toi, ô Éternel ! tu es mon bouclier, Tu es ma gloire et tu relèves ma tête.",
+      "deu": "<span class=\"line\">Doch du, o HErr, bist ein Schild um mich her,</span><span class=\"line\">meine Ehre und der mir das Haupt erhebt.</span>",
+      "kor": "내가 나의 목소리로 여호와께 부르짖으니 그의 성산에서 응답하시는도다 (셀라)",
+      "ita": "Con la mia voce io grido all’Eterno, ed egli mi risponde dal monte della sua santità. <span class=\"clarity-word\">Sela.</span>"
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span>I laid me down and slept; I awaked; for the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> sustained me.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>Ø±ÙÙÙØ¯ÙØªÙ ÙÙÙÙÙÙØªÙØ Ø«ÙÙÙÙ Ø§Ø³ÙØªÙÙÙÙÙØ¸ÙØªÙ ÙÙÙÙ ØºÙÙÙØ±Ù Ø£ÙÙÙ ÙÙØµÙÙØ¨ÙÙÙÙ Ø´ÙØ±ÙÙØ ÙØ£ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ³ÙÙÙØ¯ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">5</span> ãããã¯ãµãã¦<ruby><rb>ç </rb><rt>ã­ã</rt></ruby>ããã¾ã<ruby><rb>ç®</rb><rt>ã</rt></ruby>ããã¾ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããããããããããããã ã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">Yo me acostÃ© y dormÃ­;</span><span class=\"line\">y despertÃ©, porque JehovÃ¡ me sustentaba.</span>",
-      "por": "<span class=\"verse-number\">5</span> Eu me deitei e dormi; acordei, porque o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> me sustentou.",
-      "fra": "<span class=\"verse-number\">5</span> De ma voix je crie Ã  lâÃternel, Et il me rÃ©pond de sa montagne sainte.Â â SÃ©lah.",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Laut rufâ ich zum HErrn,</span><span class=\"line\">und er erhÃ¶rt mich von seinem heiligen Berge. Sela.</span>",
-      "kor": "<span class=\"verse-number\">5</span> ë´ê° ëì ìê³  ê¹¨ìì¼ë ì¬í¸ìê»ì ëë¥¼ ë¶ëì¬ì´ë¡ë¤",
-      "ita": "<span class=\"verse-number\">5</span> Io mi sono coricato e ho dormito, poi mi sono risvegliato, perchÃ© lâEterno mi sostiene."
+      "eng": "I laid me down and slept; I awaked; for the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> sustained me.",
+      "ara": "رَقَدْتُ فَنِمْتُ، ثُمَّ اسْتَيْقَظْتُ مِنْ غَيْرِ أَنْ يُصِيبَنِي شَرٌّ، لأَنَّ الرَّبَّ يَسْنِدُنِي.",
+      "jpn": "わたしはふして<ruby>眠<rt>ねむ</rt></ruby>り、また<ruby>目<rt>め</rt></ruby>をさます。<ruby>主<rt>しゅ</rt></ruby>がわたしをささえられるからだ。",
+      "spa": "<span class=\"line\">Yo me acosté y dormí;</span><span class=\"line\">y desperté, porque Jehová me sustentaba.</span>",
+      "por": "Eu me deitei e dormi; acordei, porque o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> me sustentou.",
+      "fra": "De ma voix je crie à l’Éternel, Et il me répond de sa montagne sainte. — Sélah.",
+      "deu": "<span class=\"line\">Laut ruf’ ich zum HErrn,</span><span class=\"line\">und er erhört mich von seinem heiligen Berge. Sela.</span>",
+      "kor": "내가 누워 자고 깨었으니 여호와께서 나를 붙드심이로다",
+      "ita": "Io mi sono coricato e ho dormito, poi mi sono risvegliato, perché l’Eterno mi sostiene."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>I will not be afraid of ten thousands of people, that have set <span class=\"clarity-word\">themselves</span> against me round about.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙÙÙ Ø£ÙØ®ÙØ´ÙÙ Ø¹ÙØ´ÙØ±ÙØ§ØªÙ Ø§ÙØ£ÙÙÙÙÙÙ ÙÙÙÙ Ø§ÙØ¨ÙØ´ÙØ±Ù Ø§ÙÙÙÙÙÙØªÙÙÙÙÙÙÙ Ø­ÙÙÙÙÙÙØ Ø§ÙÙÙÙØ­ÙØªÙØ´ÙØ¯ÙÙÙÙ ÙÙÙÙØ­ÙØ§Ø±ÙØ¨ÙØªÙÙ.",
-      "jpn": "<span class=\"verse-number\">6</span> ãããã<ruby><rb>å²</rb><rt>ãã</rt></ruby>ãã§<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¡<ruby><rb>æ§</rb><rt>ãã¾</rt></ruby>ããã¡ãããã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ãããããã¯<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããªãã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">No temerÃ© ni a diez millares de gentes</span><span class=\"line\">que hayan puesto sitio contra mÃ­.</span>",
-      "por": "<span class=\"verse-number\">6</span> NÃ£o temerei os milhares do povo que <span class=\"clarity-word\">se</span> puseram contra mim e me cercam.",
-      "fra": "<span class=\"verse-number\">6</span> Je me couche et je mâendorsÂ ; Je me rÃ©veille car lâÃternel est mon soutien.",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">Ich legte mich nieder, schlief ruhig ein:</span><span class=\"line\">erwacht bin ich wieder, denn der HErr stÃ¼tzt mich (= hÃ¤lt mich aufrecht).</span>",
-      "kor": "<span class=\"verse-number\">6</span> ì²ë§ì¸ì´ ëë¥¼ ììì¸ ì§ ì¹ë¤ íì¬ë ëë ëë ¤ìíì§ ìëíë¦¬ì´ë¤",
-      "ita": "<span class=\"verse-number\">6</span> Io non temo le miriadi di persone che si sono accampate contro di me tuttâintorno."
+      "eng": "I will not be afraid of ten thousands of people, that have set <span class=\"clarity-word\">themselves</span> against me round about.",
+      "ara": "لَنْ أَخْشَى عَشَرَاتِ الأُلُوفِ مِنَ البَشَرِ الْمُلْتَفِّينَ حَوْلِي، الْمُحْتَشِدِينَ لِمُحَارَبَتِي.",
+      "jpn": "わたしを<ruby>囲<rt>かこ</rt></ruby>んで<ruby>立<rt>た</rt></ruby>ち<ruby>構<rt>かま</rt></ruby>えるちよろずの<ruby>民<rt>たみ</rt></ruby>をもわたしは<ruby>恐<rt>おそ</rt></ruby>れない。",
+      "spa": "<span class=\"line\">No temeré ni a diez millares de gentes</span><span class=\"line\">que hayan puesto sitio contra mí.</span>",
+      "por": "Não temerei os milhares do povo que <span class=\"clarity-word\">se</span> puseram contra mim e me cercam.",
+      "fra": "Je me couche et je m’endors ; Je me réveille car l’Éternel est mon soutien.",
+      "deu": "<span class=\"line\">Ich legte mich nieder, schlief ruhig ein:</span><span class=\"line\">erwacht bin ich wieder, denn der HErr stützt mich (= hält mich aufrecht).</span>",
+      "kor": "천만인이 나를 에워싸 진 친다 하여도 나는 두려워하지 아니하리이다",
+      "ita": "Io non temo le miriadi di persone che si sono accampate contro di me tutt’intorno."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>Arise, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; save me, O my God: for thou hast smitten all mine enemies <span class=\"clarity-word\">upon</span> the cheek bone; thou hast broken the teeth of the ungodly.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙ ÙÙØ§ Ø±ÙØ¨ÙÙ. Ø®ÙÙÙÙØµÙÙÙÙ ÙÙØ§ Ø¥ÙÙÙÙÙÙ! ÙÙØ¥ÙÙÙÙÙÙ ÙÙØ¯Ù Ø¶ÙØ±ÙØ¨ÙØªÙ Ø¬ÙÙÙÙØ¹Ù Ø£ÙØ¹ÙØ¯ÙØ§Ø¦ÙÙ Ø¹ÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙÙØ ÙÙÙÙØ´ÙÙÙÙØªÙ Ø£ÙØ³ÙÙÙØ§ÙÙ Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù.",
-      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããã<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¡ãã ããããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ããããããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããã ãããããªãã¯ãããã®ãã¹ã¦ã®<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ã®ã»ãã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡ã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æ­¯</rb><rt>ã¯</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ãããã®ã§ãã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Â¡LevÃ¡ntate, oh JehovÃ¡! Â¡SÃ¡lvame, Dios mÃ­o!</span><span class=\"line\">Porque tÃº heriste a todos mis enemigos en la mejilla;</span><span class=\"line\">los dientes de los malos quebrantaste.</span>",
-      "por": "<span class=\"verse-number\">7</span> Levanta-te, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; salva-me, Deus meu; pois feriste todos os meus inimigos no queixo; quebraste os dentes dos Ã­mpios.",
-      "fra": "<span class=\"verse-number\">7</span> Je ne crains pas les myriades de peuples Qui mâassiÃ¨gent de toutes parts.",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">Ich fÃ¼rchte mich nicht vor vielen Tausenden Kriegsvolks,</span><span class=\"line\">die rings um mich her sich gelagert haben (oder: Aufstellung nehmen).</span>",
-      "kor": "<span class=\"verse-number\">7</span> ì¬í¸ìì¬ ì¼ì´ëìì ëì íëëì´ì¬ ëë¥¼ êµ¬ìíìì ì£¼ê»ì ëì ëª¨ë  ììì ëº¨ì ì¹ìë©° ìì¸ì ì´ë¥¼ êº¾ì¼ì¨ëì´ë¤",
-      "ita": "<span class=\"verse-number\">7</span> Alzati, o Eterno, salvami, Dio mio, poichÃ© tu hai percosso tutti i miei nemici sulla guancia, hai rotto i denti degli empi."
+      "eng": "Arise, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; save me, O my God: for thou hast smitten all mine enemies <span class=\"clarity-word\">upon</span> the cheek bone; thou hast broken the teeth of the ungodly.",
+      "ara": "قُمْ يَا رَبُّ. خَلِّصْنِي يَا إِلَهِي! فَإِنَّكَ قَدْ ضَرَبْتَ جَمِيعَ أَعْدَائِي عَلَى فُكُوكِهِمْ، فَهَشَّمْتَ أَسْنَانَ الأَشْرَارِ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、お<ruby>立<rt>た</rt></ruby>ちください。わが<ruby>神<rt>かみ</rt></ruby>よ、わたしをお<ruby>救<rt>すく</rt></ruby>いください。あなたはわたしのすべての<ruby>敵<rt>てき</rt></ruby>のほおを<ruby>打<rt>う</rt></ruby>ち、<ruby>悪<rt>あ</rt></ruby>しき<ruby>者<rt>もの</rt></ruby>の<ruby>歯<rt>は</rt></ruby>を<ruby>折<rt>お</rt></ruby>られるのです。",
+      "spa": "<span class=\"line\">¡Levántate, oh Jehová! ¡Sálvame, Dios mío!</span><span class=\"line\">Porque tú heriste a todos mis enemigos en la mejilla;</span><span class=\"line\">los dientes de los malos quebrantaste.</span>",
+      "por": "Levanta-te, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; salva-me, Deus meu; pois feriste todos os meus inimigos no queixo; quebraste os dentes dos ímpios.",
+      "fra": "Je ne crains pas les myriades de peuples Qui m’assiègent de toutes parts.",
+      "deu": "<span class=\"line\">Ich fürchte mich nicht vor vielen Tausenden Kriegsvolks,</span><span class=\"line\">die rings um mich her sich gelagert haben (oder: Aufstellung nehmen).</span>",
+      "kor": "여호와여 일어나소서 나의 하나님이여 나를 구원하소서 주께서 나의 모든 원수의 뺨을 치시며 악인의 이를 꺾으셨나이다",
+      "ita": "Alzati, o Eterno, salvami, Dio mio, poiché tu hai percosso tutti i miei nemici sulla guancia, hai rotto i denti degli empi."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>Salvation <span class=\"clarity-word\">belongeth</span> unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>: thy blessing <span class=\"clarity-word\">is</span> upon thy people. <span class=\"selah\">Selah</span>.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø£ÙÙÙØªÙ ÙÙØ­ÙØ¯ÙÙÙ Ø§ÙÙÙÙØ®ÙÙÙÙØµÙ ÙÙØ§ Ø±ÙØ¨ÙÙ. ÙÙÙÙØªÙÙÙØ¶Ù Ø¨ÙØ±ÙÙÙØªÙÙÙ Ø¹ÙÙÙÙ Ø´ÙØ¹ÙØ¨ÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">8</span> <ruby><rb>æ</rb><rt>ããã</rt></ruby>ã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ãã®ã§ããã©ããããªãã®<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ãããªãã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ããã¾ãããã«ã<span class=\"selah\">ãã»ã©</span>",
-      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">De JehovÃ¡ es la salvaciÃ³n;</span><span class=\"line\">sobre tu pueblo sea tu bendiciÃ³n. <span class=\"selah\">Selah</span></span>",
-      "por": "<span class=\"verse-number\">8</span> A salvaÃ§Ã£o <span class=\"clarity-word\">vem</span> do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; sobre o teu povo <span class=\"clarity-word\">seja</span> a tua bÃªnÃ§Ã£o. <span class=\"selah\">(SelÃ¡.)</span>",
-      "fra": "<span class=\"verse-number\">8</span> LÃ¨ve-toi, ÃternelÂ ! sauve-moi, mon DieuÂ ! Car tu gifles tous mes ennemis, Tu brises les dents des mÃ©chants.",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">Steh auf, o HErr! hilf mir, mein Gott!</span><span class=\"line\">du hast ja all meinen Feinden Backenstreiche versetzt,</span><span class=\"line\">den Gottlosen die ZÃ¤hne zerschmettert.</span>",
-      "kor": "<span class=\"verse-number\">8</span> êµ¬ìì ì¬í¸ìê» ìì¬ì¤ë ì£¼ì ë³µì ì£¼ì ë°±ì±ìê² <span class=\"clarity-word\">ë´ë¦¬</span>ìì (ìë¼)",
-      "ita": "<span class=\"verse-number\">8</span> AllâEterno appartiene la salvezza; la tua benedizione riposi sul tuo popolo. <span class=\"clarity-word\">Sela.</span>"
+      "eng": "Salvation <span class=\"clarity-word\">belongeth</span> unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>: thy blessing <span class=\"clarity-word\">is</span> upon thy people. <span class=\"selah\">Selah</span>.",
+      "ara": "أَنْتَ وَحْدَكَ الْمُخَلِّصُ يَا رَبُّ. فَلْتَفِضْ بَرَكَتُكَ عَلَى شَعْبِكَ.",
+      "jpn": "<ruby>救<rt>すくい</rt></ruby>は<ruby>主<rt>しゅ</rt></ruby>のものです。どうかあなたの<ruby>祝福<rt>しゅくふく</rt></ruby>があなたの<ruby>民<rt>たみ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にありますように。<span class=\"selah\">〔セラ</span>",
+      "spa": "<span class=\"line\">De Jehová es la salvación;</span><span class=\"line\">sobre tu pueblo sea tu bendición. <span class=\"selah\">Selah</span></span>",
+      "por": "A salvação <span class=\"clarity-word\">vem</span> do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; sobre o teu povo <span class=\"clarity-word\">seja</span> a tua bênção. <span class=\"selah\">(Selá.)</span>",
+      "fra": "Lève-toi, Éternel ! sauve-moi, mon Dieu ! Car tu gifles tous mes ennemis, Tu brises les dents des méchants.",
+      "deu": "<span class=\"line\">Steh auf, o HErr! hilf mir, mein Gott!</span><span class=\"line\">du hast ja all meinen Feinden Backenstreiche versetzt,</span><span class=\"line\">den Gottlosen die Zähne zerschmettert.</span>",
+      "kor": "구원은 여호와께 있사오니 주의 복을 주의 백성에게 <span class=\"clarity-word\">내리</span>소서 (셀라)",
+      "ita": "All’Eterno appartiene la salvezza; la tua benedizione riposi sul tuo popolo. <span class=\"clarity-word\">Sela.</span>"
     },
     "9": {
-      "fra": "<span class=\"verse-number\">9</span> Le salut est auprÃ¨s de lâÃternelÂ : Que ta bÃ©nÃ©diction soit sur ton peupleÂ !Â â SÃ©lah.",
-      "deu": "<span class=\"verse-number\">9Â </span><span class=\"line\">Beim HErrn steht die Hilfe (oder: Rettung):</span><span class=\"line\">Ã¼ber deinem Volke walte dein Segen! Sela.</span>"
+      "fra": "Le salut est auprès de l’Éternel : Que ta bénédiction soit sur ton peuple ! — Sélah.",
+      "deu": "<span class=\"line\">Beim HErrn steht die Hilfe (oder: Rettung):</span><span class=\"line\">über deinem Volke walte dein Segen! Sela.</span>"
     }
   }
 }

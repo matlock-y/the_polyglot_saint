@@ -4,15 +4,15 @@
     "book": "ps",
     "chapter": 74,
     "headings": {
-      "eng": "O God, remember Thy chosen congregationâThe wicked destroy the sanctuary and burn the synagoguesâO God, remember them for their deeds, and save Thy people.",
-      "spa": "Oh Dios, acuÃ©rdate de Tu congregaciÃ³n escogidaÂ â Los inicuos destruyen el santuario y queman las sinagogasÂ â Oh Dios, acuÃ©rdate de ellos por sus obras y salva a Tu pueblo.",
-      "por": "Ã Deus, lembra-Te da tua congregaÃ§Ã£o escolhidaÂ â Os inÃ­quos destroem o santuÃ¡rio e queimam sinagogasÂ â Ã Deus, lembra-Te deles por suas obras e salva Teu povo.",
-      "fra": "Ã DieuÂ ! Souviens-toi de ton peuple choisi. Les mÃ©chants dÃ©truisent le sanctuaire et brÃ»lent les synagogues. Ã DieuÂ ! Souviens-toi de leurs actions et sauve ton peuple.",
-      "ita": "O Dio, ricordati del popolo elettoÂ â I malvagi distruggono il santuario e danno fuoco ai luoghi per lâadorazione di DioÂ â O Dio, ricordati le loro azioni e salva il Tuo popolo."
+      "eng": "O God, remember Thy chosen congregation—The wicked destroy the sanctuary and burn the synagogues—O God, remember them for their deeds, and save Thy people.",
+      "spa": "Oh Dios, acuérdate de Tu congregación escogida — Los inicuos destruyen el santuario y queman las sinagogas — Oh Dios, acuérdate de ellos por sus obras y salva a Tu pueblo.",
+      "por": "Ó Deus, lembra-Te da tua congregação escolhida — Os iníquos destroem o santuário e queimam sinagogas — Ó Deus, lembra-Te deles por suas obras e salva Teu povo.",
+      "fra": "Ô Dieu ! Souviens-toi de ton peuple choisi. Les méchants détruisent le sanctuaire et brûlent les synagogues. Ô Dieu ! Souviens-toi de leurs actions et sauve ton peuple.",
+      "ita": "O Dio, ricordati del popolo eletto — I malvagi distruggono il santuario e danno fuoco ai luoghi per l’adorazione di Dio — O Dio, ricordati le loro azioni e salva il Tuo popolo."
     },
     "intros": {
       "eng": "Maschil of Asaph.",
-      "jpn": "ã¢ãµãã®ãã¹ã­ã¼ã«ã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
+      "jpn": "アサフのマスキールの<ruby>歌<rt>うた</rt></ruby>",
       "spa": "Masquil de Asaf.",
       "por": "Masquil de Asafe.",
       "ita": "Cantico di Asaf."
@@ -20,257 +20,257 @@
   },
   "verses": {
     "1": {
-      "eng": "<span class=\"verse-number\">1 </span>O God, why hast thou cast <span class=\"clarity-word\">us</span> off for ever? <span class=\"clarity-word\">why</span> doth thine anger smoke against the sheep of thy pasture?",
-      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ§ Ø§ÙÙÙÙ°ÙÙ ÙÙÙÙØ§Ø°ÙØ§ ÙÙØ¨ÙØ°ÙØªÙÙÙØ§ Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯ÙØ ÙÙÙÙØ§Ø°ÙØ§ Ø«ÙØ§Ø±Ù ØºÙØ¶ÙØ¨ÙÙÙ Ø§ÙØ´ÙÙØ¯ÙÙØ¯Ù Ø¹ÙÙÙÙ ØºÙÙÙÙÙ ÙÙØ±ÙØ¹ÙØ§ÙÙØ",
-      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãããªããããããã¨ãããã«<ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã¦ãããã®ã§ããããªããããªãã®<ruby><rb>ç§</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ç</rb><rt>ã</rt></ruby>ããããã®ã§ããã",
-      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">Â¿Por quÃ©, oh Dios, <span class=\"clarity-word\">nos</span> has desechado para siempre?</span><span class=\"line\">Â¿Por quÃ© se ha encendido tu furor contra las ovejas de tu prado?</span>",
-      "por": "<span class=\"verse-number\">1</span> Ã Deus, por que <span class=\"clarity-word\">nos</span> rejeitaste para sempre? <span class=\"clarity-word\">Por que</span> se acende a tua ira contra as ovelhas do teu pasto?",
-      "fra": "<span class=\"verse-number\">1</span> Cantique dâAsaph. Pourquoi, Ã´ DieuÂ ! nous rejettes-tu sans cesseÂ ? Pourquoi tâirrites-tu contre le troupeau de ton pÃ¢turageÂ ?",
-      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Ein Lehrgedicht (vgl. 32,1) von Asaph (vgl. Ps. 50).</span><span class=\"line\">Warum hast du uns, o Gott, fÃ¼r immer verworfen,</span><span class=\"line\">warum raucht dein Zorn gegen die Herde, die du weidest?</span>",
-      "kor": "<span class=\"verse-number\">1</span> íëëì´ì¬ ì£¼ê»ì ì´ì°íì¬ <span class=\"clarity-word\">ì°ë¦¬ë¥¼</span> ììí ë²ë¦¬ìëì´ê¹ ì´ì°íì¬ ì£¼ê»ì ê¸°ë¥´ìë ìì í¥íì¬ ì§ë¸ì ì°ê¸°ë¥¼ ë¿ì¼ìëì´ê¹",
-      "ita": "<span class=\"verse-number\">1</span> O Dio, perchÃ© ci hai rigettato per sempre? PerchÃ© arde la tua ira contro il gregge del tuo pascolo?"
+      "eng": "O God, why hast thou cast <span class=\"clarity-word\">us</span> off for ever? <span class=\"clarity-word\">why</span> doth thine anger smoke against the sheep of thy pasture?",
+      "ara": "يَا اللّٰهُ لِمَاذَا نَبَذْتَنَا إِلَى الأَبَدِ؟ لِمَاذَا ثَارَ غَضَبُكَ الشَّدِيدُ عَلَى غَنَمِ مَرْعَاكَ؟",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>よ、なぜ、われらをとこしえに<ruby>捨<rt>す</rt></ruby>てられるのですか。なぜ、あなたの<ruby>牧<rt>まき</rt></ruby>の<ruby>羊<rt>ひつじ</rt></ruby>に<ruby>怒<rt>いか</rt></ruby>りを<ruby>燃<rt>も</rt></ruby>やされるのですか。",
+      "spa": "<span class=\"line\">¿Por qué, oh Dios, <span class=\"clarity-word\">nos</span> has desechado para siempre?</span><span class=\"line\">¿Por qué se ha encendido tu furor contra las ovejas de tu prado?</span>",
+      "por": "Ó Deus, por que <span class=\"clarity-word\">nos</span> rejeitaste para sempre? <span class=\"clarity-word\">Por que</span> se acende a tua ira contra as ovelhas do teu pasto?",
+      "fra": "Cantique d’Asaph. Pourquoi, ô Dieu ! nous rejettes-tu sans cesse ? Pourquoi t’irrites-tu contre le troupeau de ton pâturage ?",
+      "deu": "<span class=\"line\">Ein Lehrgedicht (vgl. 32,1) von Asaph (vgl. Ps. 50).</span><span class=\"line\">Warum hast du uns, o Gott, für immer verworfen,</span><span class=\"line\">warum raucht dein Zorn gegen die Herde, die du weidest?</span>",
+      "kor": "하나님이여 주께서 어찌하여 <span class=\"clarity-word\">우리를</span> 영원히 버리시나이까 어찌하여 주께서 기르시는 양을 향하여 진노의 연기를 뿜으시나이까",
+      "ita": "O Dio, perché ci hai rigettato per sempre? Perché arde la tua ira contro il gregge del tuo pascolo?"
     },
     "2": {
-      "eng": "<span class=\"verse-number\">2 </span>Remember thy congregation, <span class=\"clarity-word\">which</span> thou hast purchased of old; the rod of thine inheritance, <span class=\"clarity-word\">which</span> thou hast redeemed; this mount Zion, wherein thou hast dwelt.",
-      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø§Ø°ÙÙÙØ±Ù Ø¬ÙÙÙØ§Ø¹ÙØªÙÙÙ Ø§ÙÙÙØªÙÙ Ø§ÙÙØªÙÙÙÙÙØªÙÙÙØ§ ÙÙÙÙØ°Ù Ø§ÙÙÙÙØ¯ÙÙÙØ ÙÙØ§ÙÙÙØªÙÙ Ø§ÙÙØªÙØ¯ÙÙÙØªÙÙÙØ§ ÙÙØªÙØ¬ÙØ¹ÙÙÙÙÙØ§ Ø³ÙØ¨ÙØ·Ù ÙÙÙØ±ÙØ§Ø«ÙÙÙ. Ø§Ø°ÙÙÙØ±Ù Ø¬ÙØ¨ÙÙÙ ØµÙÙÙÙÙÙÙÙÙ Ø§ÙÙÙØ°ÙÙ Ø£ÙÙÙÙÙØªÙ ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>æ</rb><rt>ããã</rt></ruby>ããªãã<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã«<ruby><rb>å¥</rb><rt>ã</rt></ruby>ããããããªãã®<ruby><rb>å¬ä¼</rb><rt>ãããã</rt></ruby>ãããªãã¡ãããªãã®<ruby><rb>å£</rb><rt>ã</rt></ruby><ruby><rb>æ¥­</rb><rt>ããã</rt></ruby>ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã¨ãªãããã«ãããªããããã®ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦ãã ãããããªãã<ruby><rb>ä½</rb><rt>ã</rt></ruby>ã¾ãããã·ãªã³ã®<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">AcuÃ©rdate de tu congregaciÃ³n, que adquiriste desde tiempos antiguos,</span><span class=\"line\">la tribu de tu heredad que redimiste;</span><span class=\"line\"><span class=\"page-break\" data-page=\"959\"></span>este monte Sion, donde has habitado.</span>",
-      "por": "<span class=\"verse-number\">2</span> Lembra-te da tua congregaÃ§Ã£o, <span class=\"clarity-word\">que</span> compraste desde a antiguidade, da vara da tua heranÃ§a, <span class=\"clarity-word\">que</span> remiste, este monte SiÃ£o, em que habitaste.",
-      "fra": "<span class=\"verse-number\">2</span> Souviens-toi de ton peuple que tu as acquis autrefois, Que tu as rachetÃ© comme la tribu de ton hÃ©ritageÂ ! Souviens-toi de la montagne de Sion oÃ¹ tu faisais ta rÃ©sidenceÂ ;",
-      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Gedenke deiner Gemeinde, die vor alters du erworben,</span><span class=\"line\">die zum Eigentumsvolk du dir erlÃ¶st hast!</span><span class=\"line\">(gedenke) des Berges Zion, auf dem du Wohnung genommen!</span>",
-      "kor": "<span class=\"verse-number\">2</span> ìì <span class=\"clarity-word\">ë¶í°</span> ì»ì¼ìê³  ìëíì¬ ì£¼ì ê¸°ìì ì§íë¡ ì¼ì¼ì  ì£¼ì íì¤ì ê¸°ìµíìë©° ì£¼ê»ì ê³ìë ìì¨ ì°ë <span class=\"clarity-word\">ìê°</span>íìì",
-      "ita": "<span class=\"verse-number\">2</span> Ricordati del tuo popolo che acquistasti anticamente, che redimesti per essere la tribÃ¹ della tua ereditÃ ; ricordati del monte di Sion, di cui hai fatto la tua dimora!"
+      "eng": "Remember thy congregation, <span class=\"clarity-word\">which</span> thou hast purchased of old; the rod of thine inheritance, <span class=\"clarity-word\">which</span> thou hast redeemed; this mount Zion, wherein thou hast dwelt.",
+      "ara": "اذْكُرْ جَمَاعَتَكَ الَّتِي اقْتَنَيْتَهَا مُنْذُ الْقِدَمِ، وَالَّتِي افْتَدَيْتَهَا لِتَجْعَلَهَا سِبْطَ مِيرَاثِكَ. اذْكُرْ جَبَلَ صِهْيَوْنَ الَّذِي أَقَمْتَ فِيهِ.",
+      "jpn": "<ruby>昔<rt>むかし</rt></ruby>あなたが<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れられたあなたの<ruby>公会<rt>こうかい</rt></ruby>、すなわち、あなたの<ruby>嗣<rt>し</rt></ruby><ruby>業<rt>ぎょう</rt></ruby>の<ruby>部族<rt>ぶぞく</rt></ruby>となすためにあがなわれたものを<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>してください。あなたが<ruby>住<rt>す</rt></ruby>まわれたシオンの<ruby>山<rt>やま</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>してください。",
+      "spa": "<span class=\"line\">Acuérdate de tu congregación, que adquiriste desde tiempos antiguos,</span><span class=\"line\">la tribu de tu heredad que redimiste;</span><span class=\"line\">este monte Sion, donde has habitado.</span>",
+      "por": "Lembra-te da tua congregação, <span class=\"clarity-word\">que</span> compraste desde a antiguidade, da vara da tua herança, <span class=\"clarity-word\">que</span> remiste, este monte Sião, em que habitaste.",
+      "fra": "Souviens-toi de ton peuple que tu as acquis autrefois, Que tu as racheté comme la tribu de ton héritage ! Souviens-toi de la montagne de Sion où tu faisais ta résidence ;",
+      "deu": "<span class=\"line\">Gedenke deiner Gemeinde, die vor alters du erworben,</span><span class=\"line\">die zum Eigentumsvolk du dir erlöst hast!</span><span class=\"line\">(gedenke) des Berges Zion, auf dem du Wohnung genommen!</span>",
+      "kor": "옛적<span class=\"clarity-word\">부터</span> 얻으시고 속량하사 주의 기업의 지파로 삼으신 주의 회중을 기억하시며 주께서 계시던 시온 산도 <span class=\"clarity-word\">생각</span>하소서",
+      "ita": "Ricordati del tuo popolo che acquistasti anticamente, che redimesti per essere la tribù della tua eredità; ricordati del monte di Sion, di cui hai fatto la tua dimora!"
     },
     "3": {
-      "eng": "<span class=\"verse-number\">3 </span>Lift up thy feet unto the perpetual desolations; <span class=\"clarity-word\">even</span> all <span class=\"clarity-word\">that</span> the enemy hath done wickedly in the sanctuary.",
-      "ara": "<span class=\"verse-number\">Ù£ </span>Ø³ÙØ±Ù ÙÙØ§ Ø±ÙØ¨ÙÙ ÙÙØ³ÙØ±ÙØ¹Ø§Ù ÙÙØ³ÙØ·Ù ÙÙØ°ÙÙÙ Ø§ÙÙØ®ÙØ±ÙØ§Ø¦ÙØ¨Ù Ø§ÙØ¯ÙÙØ§Ø¦ÙÙÙØ©ÙØ ÙÙØ¥ÙÙÙÙ Ø§ÙÙØ¹ÙØ¯ÙÙÙÙ ÙÙØ¯Ù Ø¯ÙÙÙÙØ±Ù ÙÙÙÙÙ Ø´ÙÙÙØ¡Ù ÙÙÙ Ø¨ÙÙÙØªÙÙÙ Ø§ÙÙÙÙÙÙØ¯ÙÙØ³Ù.",
-      "jpn": "<span class=\"verse-number\">3</span> ã¨ãããã®<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã³ã®<ruby><rb>è·¡</rb><rt>ãã¨</rt></ruby>ã«ãããªãã®<ruby><rb>è¶³</rb><rt>ãã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã¦ãã ããã<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ã¯<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ã§ããã¹ã¦ã®<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>ç ´å£</rb><rt>ã¯ãã</rt></ruby>ãã¾ããã",
-      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Dirige tus pasos a los asolamientos eternos,</span><span class=\"line\">a todo el mal que el enemigo ha hecho en el santuario.</span>",
-      "por": "<span class=\"verse-number\">3</span> Levanta os teus pÃ©s para as perpÃ©tuas assolaÃ§Ãµes, para tudo <span class=\"clarity-word\">o</span> que o inimigo tem feito <span class=\"clarity-word\">de</span> mal no santuÃ¡rio.",
-      "fra": "<span class=\"verse-number\">3</span> Porte tes pas vers ces lieux constamment dÃ©vastÃ©sÂ ! Lâennemi a tout ravagÃ© dans le sanctuaire.",
-      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Lenk deine Schritte hinauf zu den ewigen TrÃ¼mmern:</span><span class=\"line\">ach, alles hat der Feind im Heiligtum zerstÃ¶rt!</span>",
-      "kor": "<span class=\"verse-number\">3</span> ìêµ¬í íë©¸ë <span class=\"clarity-word\">ê³³ì í¥íì¬</span> ì£¼ì ë°ì ì®ê²¨ ëì¼ìì ììê° ì±ììì ëª¨ë  ìì ííìëì´ë¤",
-      "ita": "<span class=\"verse-number\">3</span> Dirigi i tuoi passi verso le rovine perpetue; il nemico ha devastato tutto nel tuo santuario."
+      "eng": "Lift up thy feet unto the perpetual desolations; <span class=\"clarity-word\">even</span> all <span class=\"clarity-word\">that</span> the enemy hath done wickedly in the sanctuary.",
+      "ara": "سِرْ يَا رَبُّ مُسْرِعاً وَسَطَ هَذِهِ الْخَرَائِبِ الدَّائِمَةِ، فَإِنَّ الْعَدُوَّ قَدْ دَمَّرَ كُلَّ شَيْءٍ فِي بَيْتِكَ الْمُقَدَّسِ.",
+      "jpn": "とこしえの<ruby>滅<rt>ほろ</rt></ruby>びの<ruby>跡<rt>あと</rt></ruby>に、あなたの<ruby>足<rt>あし</rt></ruby>を<ruby>向<rt>む</rt></ruby>けてください。<ruby>敵<rt>てき</rt></ruby>は<ruby>聖所<rt>せいじょ</rt></ruby>で、すべての<ruby>物<rt>もの</rt></ruby>を<ruby>破壊<rt>はかい</rt></ruby>しました。",
+      "spa": "<span class=\"line\">Dirige tus pasos a los asolamientos eternos,</span><span class=\"line\">a todo el mal que el enemigo ha hecho en el santuario.</span>",
+      "por": "Levanta os teus pés para as perpétuas assolações, para tudo <span class=\"clarity-word\">o</span> que o inimigo tem feito <span class=\"clarity-word\">de</span> mal no santuário.",
+      "fra": "Porte tes pas vers ces lieux constamment dévastés ! L’ennemi a tout ravagé dans le sanctuaire.",
+      "deu": "<span class=\"line\">Lenk deine Schritte hinauf zu den ewigen Trümmern:</span><span class=\"line\">ach, alles hat der Feind im Heiligtum zerstört!</span>",
+      "kor": "영구히 파멸된 <span class=\"clarity-word\">곳을 향하여</span> 주의 발을 옮겨 놓으소서 원수가 성소에서 모든 악을 행하였나이다",
+      "ita": "Dirigi i tuoi passi verso le rovine perpetue; il nemico ha devastato tutto nel tuo santuario."
     },
     "4": {
-      "eng": "<span class=\"verse-number\">4 </span>Thine enemies roar in the midst of thy congregations; they set up their ensigns <span class=\"clarity-word\">for</span> signs.",
-      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø¥ÙÙÙÙ Ø®ÙØµÙÙÙÙÙÙ ÙÙØ²ÙÙÙØ¬ÙØ±ÙÙÙÙ ÙÙÙ ÙÙØ³ÙØ·Ù ÙÙØ­ÙÙÙÙÙÙÙØ ÙÙÙÙÙÙØµÙØ¨ÙÙÙÙ Ø£ÙØµÙÙÙØ§ÙÙÙÙÙÙ Ø´ÙØ§Ø±ÙØ§ØªÙ ÙÙÙÙÙÙØµÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">4</span> ããªãã®ãã ã¯<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã§ã»ãããã³ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®ãããã<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¦ã¦ããããã¨ãã¾ããã",
-      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Tus enemigos han rugido en medio de tus sinagogas;</span><span class=\"line\">han puesto sus estandartes por seÃ±ales.</span>",
-      "por": "<span class=\"verse-number\">4</span> Os teus inimigos bramam no meio das tuas sinagogas; pÃµem <span class=\"clarity-word\">nelas</span> as suas insÃ­gnias <span class=\"clarity-word\">por</span> sinais.",
-      "fra": "<span class=\"verse-number\">4</span> Tes adversaires ont rugi au milieu de ton templeÂ ; Ils ont Ã©tabli pour signes leurs banniÃ¨res.",
-      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Wild brÃ¼llen deine Feinde im Innern deiner VersammlungsstÃ¤tte;</span><span class=\"line\">haben dort ihre Fahnen als Siegeszeichen aufgestellt.</span>",
-      "kor": "<span class=\"verse-number\">4</span> ì£¼ì ëì ì´ ì£¼ì íì¤ ê°ì´ë°ìì ë ë¤ë©° ìê¸°ë¤ì ê¹ë°ì ì¸ì íì ì¼ë¡ ì¼ìì¼ë",
-      "ita": "<span class=\"verse-number\">4</span> I tuoi avversari hanno ruggito dentro al luogo delle tue assemblee; vi hanno posto le loro insegne per emblemi."
+      "eng": "Thine enemies roar in the midst of thy congregations; they set up their ensigns <span class=\"clarity-word\">for</span> signs.",
+      "ara": "إِنَّ خُصُومَكَ يُزَمْجِرُونَ فِي وَسَطِ مَحْفَلِكَ، وَيَنْصِبُونَ أَصْنَامَهُمْ شَارَاتٍ لِلنَّصْرِ.",
+      "jpn": "あなたのあだは<ruby>聖所<rt>せいじょ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でほえさけび、<ruby>彼<rt>かれ</rt></ruby>らのしるしを<ruby>立<rt>た</rt></ruby>てて、しるしとしました。",
+      "spa": "<span class=\"line\">Tus enemigos han rugido en medio de tus sinagogas;</span><span class=\"line\">han puesto sus estandartes por señales.</span>",
+      "por": "Os teus inimigos bramam no meio das tuas sinagogas; põem <span class=\"clarity-word\">nelas</span> as suas insígnias <span class=\"clarity-word\">por</span> sinais.",
+      "fra": "Tes adversaires ont rugi au milieu de ton temple ; Ils ont établi pour signes leurs bannières.",
+      "deu": "<span class=\"line\">Wild brüllen deine Feinde im Innern deiner Versammlungsstätte;</span><span class=\"line\">haben dort ihre Fahnen als Siegeszeichen aufgestellt.</span>",
+      "kor": "주의 대적이 주의 회중 가운데에서 떠들며 자기들의 깃발을 세워 표적으로 삼았으니",
+      "ita": "I tuoi avversari hanno ruggito dentro al luogo delle tue assemblee; vi hanno posto le loro insegne per emblemi."
     },
     "5": {
-      "eng": "<span class=\"verse-number\">5 </span><span class=\"clarity-word\">A man</span> was famous according as he had lifted up axes upon the thick trees.",
-      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ¸ÙÙÙØ±Ù Ø§ÙÙØ¹ÙØ¯ÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙ ÙÙÙÙÙÙÙ Ø¨ÙØ§ÙÙÙÙØ¤ÙÙØ³Ù Ø¹ÙÙÙÙ Ø§ÙØ£ÙØ´ÙØ¬ÙØ§Ø±Ù Ø§ÙÙÙÙØ«ÙÙÙÙØ©Ù.",
-      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å¥å£</rb><rt>ãããã¡</rt></ruby>ã§ã¯ããã®ããã£ã¦<ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã®<ruby><rb>æ ¼å­</rb><rt>ããã</rt></ruby><ruby><rb>å£</rb><rt>ãã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã¾ããã",
-      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\"><span class=\"clarity-word\">Cualquiera</span> se hacÃ­a famoso segÃºn levantaba</span><span class=\"line\">el hacha en medio de tupido bosque.</span>",
-      "por": "<span class=\"verse-number\">5</span> <span class=\"clarity-word\">Cada qual</span> se fez afamado, conforme levantara o machado contra o espesso arvoredo.",
-      "fra": "<span class=\"verse-number\">5</span> On les a vus, pareils Ã  celui qui lÃ¨ve La cognÃ©e dans une Ã©paisse forÃªtÂ ;",
-      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Es sieht sich an, als ob man die Ãxte hoch</span><span class=\"line\">geschwungen hÃ¤tte im Dickicht des Waldes.</span>",
-      "kor": "<span class=\"verse-number\">5</span> ê·¸ë¤ì ë§ì¹ ëë¼ë¥¼ ë¤ì´ ì¼ë¦¼ì <span class=\"clarity-word\">ë² ë</span> ì¬ë ê°ì¼ëì´ë¤",
-      "ita": "<span class=\"verse-number\">5</span> Parevano uomini levanti in alto le scuri nel folto di un bosco."
+      "eng": "<span class=\"clarity-word\">A man</span> was famous according as he had lifted up axes upon the thick trees.",
+      "ara": "يَظْهَرُ الْعَدُوُّ كَأَنَّهُ يَهْوِي بِالْفُؤُوسِ عَلَى الأَشْجَارِ الْكَثِيفَةِ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らは<ruby>上<rt>うえ</rt></ruby>の<ruby>入口<rt>いりぐち</rt></ruby>では、おのをもって<ruby>木<rt>き</rt></ruby>の<ruby>格子<rt>こうし</rt></ruby><ruby>垣<rt>かき</rt></ruby>を<ruby>切<rt>き</rt></ruby>り<ruby>倒<rt>たお</rt></ruby>しました。",
+      "spa": "<span class=\"line\"><span class=\"clarity-word\">Cualquiera</span> se hacía famoso según levantaba</span><span class=\"line\">el hacha en medio de tupido bosque.</span>",
+      "por": "<span class=\"clarity-word\">Cada qual</span> se fez afamado, conforme levantara o machado contra o espesso arvoredo.",
+      "fra": "On les a vus, pareils à celui qui lève La cognée dans une épaisse forêt ;",
+      "deu": "<span class=\"line\">Es sieht sich an, als ob man die Äxte hoch</span><span class=\"line\">geschwungen hätte im Dickicht des Waldes.</span>",
+      "kor": "그들은 마치 도끼를 들어 삼림을 <span class=\"clarity-word\">베는</span> 사람 같으니이다",
+      "ita": "Parevano uomini levanti in alto le scuri nel folto di un bosco."
     },
     "6": {
-      "eng": "<span class=\"verse-number\">6 </span>But now they break down the carved work thereof at once with axes and hammers.",
-      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ¯ÙÙÙÙØ§ ÙÙÙÙÙÙÙØ´ÙØ§ØªÙÙÙ ÙÙÙÙÙÙÙØ§ Ø¨ÙØ§ÙÙÙÙØ·ÙØ§Ø±ÙÙÙ ÙÙØ§ÙÙÙÙØ¹ÙØ§ÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">6</span> ã¾ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ãã®ã¨<ruby><rb>é</rb><rt>ã¤ã¡</rt></ruby>ã¨ããã£ã¦<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>å½«</rb><rt>ã»</rt></ruby>ã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ããã¨ãã¨ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>è½</rb><rt>ãã¨</rt></ruby>ãã¾ããã",
-      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Y ahora con hachas y martillos</span><span class=\"line\">han quebrado todas sus entalladuras.</span>",
-      "por": "<span class=\"verse-number\">6</span> Mas agora toda obra entalhada quebram de uma vez com machados e martelos.",
-      "fra": "<span class=\"verse-number\">6</span> Et bientÃ´t ils ont brisÃ© toutes les sculptures, Ã coups de haches et de marteaux.",
-      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">Und jetzt zerschlagen sie auch sein Schnitzwerk</span><span class=\"line\">allzumal mit Beilen und HÃ¤mmern.</span>",
-      "kor": "<span class=\"verse-number\">6</span> ì´ì  ê·¸ë¤ì´ ëë¼ì ì² í´ë¡ ì±ìì ëª¨ë  ì¡°ê°íì ì³ì ë¶ìê³",
-      "ita": "<span class=\"verse-number\">6</span> E invero con lâascia e con il martello hanno spezzato tutte le sculture della tua casa."
+      "eng": "But now they break down the carved work thereof at once with axes and hammers.",
+      "ara": "هَدَمُوا مَنْقُوشَاتِهِ كُلَّهَا بِالْمَطَارِقِ وَالْمَعَاوِلِ.",
+      "jpn": "また<ruby>彼<rt>かれ</rt></ruby>らは<ruby>手<rt>て</rt></ruby>おのと<ruby>鎚<rt>つち</rt></ruby>とをもって<ruby>聖所<rt>せいじょ</rt></ruby>の<ruby>彫<rt>ほ</rt></ruby>り<ruby>物<rt>もの</rt></ruby>をことごとく<ruby>打<rt>う</rt></ruby>ち<ruby>落<rt>おと</rt></ruby>しました。",
+      "spa": "<span class=\"line\">Y ahora con hachas y martillos</span><span class=\"line\">han quebrado todas sus entalladuras.</span>",
+      "por": "Mas agora toda obra entalhada quebram de uma vez com machados e martelos.",
+      "fra": "Et bientôt ils ont brisé toutes les sculptures, À coups de haches et de marteaux.",
+      "deu": "<span class=\"line\">Und jetzt zerschlagen sie auch sein Schnitzwerk</span><span class=\"line\">allzumal mit Beilen und Hämmern.</span>",
+      "kor": "ì´ì  ê·¸ë¤ì´ ëë¼ì ì² í´ë¡ ì±ìì ëª¨ë  ì¡°ê°íì ì³ì ë¶ìê³",
+      "ita": "E invero con l’ascia e con il martello hanno spezzato tutte le sculture della tua casa."
     },
     "7": {
-      "eng": "<span class=\"verse-number\">7 </span>They have cast fire into thy sanctuary, they have defiled <span class=\"clarity-word\">by casting down</span> the dwelling place of thy name to the ground.",
-      "ara": "<span class=\"verse-number\">Ù§ </span>Ø£ÙØ¶ÙØ±ÙÙÙÙØ§ Ø§ÙÙÙÙØ§Ø±Ù ÙÙÙ ÙÙÙÙØ¯ÙØ³ÙÙÙØ ÙÙØ¯ÙÙÙÙØ³ÙÙÙÙ Ø¥ÙØ°Ù ÙÙÙÙÙØ¶ÙÙØ§ ÙÙÙÙØ±ÙÙ Ø§Ø³ÙÙÙÙÙ Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù.",
-      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ããªãã®<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>ç«</rb><rt>ã²</rt></ruby>ããããã¿<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®ãã¿ãããããã¦ã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã«<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã¾ããã",
-      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Han prendido fuego a tu santuario;</span><span class=\"line\">han profanado el tabernÃ¡culo de tu nombre <span class=\"clarity-word\">echÃ¡ndolo</span> a tierra.</span>",
-      "por": "<span class=\"verse-number\">7</span> LanÃ§aram fogo no teu santuÃ¡rio; profanaram a morada do teu nome, derrubando-a atÃ© o chÃ£o.",
-      "fra": "<span class=\"verse-number\">7</span> Ils ont mis le feu Ã  ton sanctuaireÂ ; Ils ont abattu, profanÃ© la demeure de ton nom.",
-      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">Sie haben dein Heiligtum in Brand gesteckt,</span><span class=\"line\">bis zum Boden entweiht die Wohnung deines Namens.</span>",
-      "kor": "<span class=\"verse-number\">7</span> ì£¼ì ì±ìë¥¼ ë¶ì¬ë¥´ë©° ì£¼ì ì´ë¦ì´ ê³ì  ê³³ì ëë½í ëì <span class=\"clarity-word\">ììëì´ë¤</span>",
-      "ita": "<span class=\"verse-number\">7</span> Hanno appiccato il fuoco al tuo santuario, hanno profanato, gettandola a terra, la dimora del tuo nome."
+      "eng": "They have cast fire into thy sanctuary, they have defiled <span class=\"clarity-word\">by casting down</span> the dwelling place of thy name to the ground.",
+      "ara": "أَضْرَمُوا النَّارَ فِي مَقْدِسِكَ، وَدَنَّسُوهُ إِذْ قَوَّضُوا مَقَرَّ اسْمِكَ إِلَى الأَرْضِ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らはあなたの<ruby>聖所<rt>せいじょ</rt></ruby>に<ruby>火<rt>ひ</rt></ruby>をかけ、み<ruby>名<rt>な</rt></ruby>のすみかをけがして、<ruby>地<rt>ち</rt></ruby>に<ruby>倒<rt>たお</rt></ruby>しました。",
+      "spa": "<span class=\"line\">Han prendido fuego a tu santuario;</span><span class=\"line\">han profanado el tabernáculo de tu nombre <span class=\"clarity-word\">echándolo</span> a tierra.</span>",
+      "por": "Lançaram fogo no teu santuário; profanaram a morada do teu nome, derrubando-a até o chão.",
+      "fra": "Ils ont mis le feu à ton sanctuaire ; Ils ont abattu, profané la demeure de ton nom.",
+      "deu": "<span class=\"line\">Sie haben dein Heiligtum in Brand gesteckt,</span><span class=\"line\">bis zum Boden entweiht die Wohnung deines Namens.</span>",
+      "kor": "주의 성소를 불사르며 주의 이름이 계신 곳을 더럽혀 땅에 <span class=\"clarity-word\">엎었나이다</span>",
+      "ita": "Hanno appiccato il fuoco al tuo santuario, hanno profanato, gettandola a terra, la dimora del tuo nome."
     },
     "8": {
-      "eng": "<span class=\"verse-number\">8 </span>They said in their hearts, Let us destroy them together: they have burned up all the synagogues of God in the land.",
-      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØ§ÙÙÙØ§ ÙÙÙ Ø£ÙÙÙÙÙØ³ÙÙÙÙÙ: ÙÙÙÙØ¨ÙØ¯ÙÙÙÙÙ Ø¬ÙÙÙÙØ¹Ø§Ù. ÙÙØ£ÙØ­ÙØ±ÙÙÙÙØ§ ÙÙÙÙÙ ÙÙØ­ÙØ§ÙÙÙÙ Ø§ÙÙÙÙ°ÙÙ ÙÙÙ Ø§ÙÙØ¨ÙÙØ§Ø¯Ù.",
-      "jpn": "<span class=\"verse-number\">8</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã®ãã¡ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãã¾ãããããããã¯ãã¨ãã¨ãããã<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã¼ãããã¨ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ã®ãã¡ã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>ä¼å </rb><rt>ããã©ã</rt></ruby>ããã¨ãã¨ã<ruby><rb>ç¼</rb><rt>ã</rt></ruby>ãã¾ããã",
-      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">Dijeron en su corazÃ³n: DestruyÃ¡moslos de una vez;</span><span class=\"line\">han quemado todas las sinagogas de Dios en la tierra.</span>",
-      "por": "<span class=\"verse-number\">8</span> Disseram no seu coraÃ§Ã£o: Despojemo-los de uma vez. Queimaram todas as sinagogas de Deus na terra.",
-      "fra": "<span class=\"verse-number\">8</span> Ils disaient en leur cÅurÂ : Traitons-les tous avec violenceÂ ! Ils ont brÃ»lÃ© dans le pays tous les lieux saints.",
-      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">Sie haben sich vorgenommen: âWir rotten sie allesamt aus!â</span><span class=\"line\">und haben alle GottesstÃ¤tten (d. h. Synagogen) im Lande verbrannt.</span>",
-      "kor": "<span class=\"verse-number\">8</span> ê·¸ë¤ì´ ë§ììì¼ë¡ ì´ë¥´ê¸°ë¥¼ ì°ë¦¬ê° ê·¸ë¤ì ì§ë©¸íì íê³  ì´ ëì ìë íëëì ëª¨ë  íë¹ì ë¶ì´ëëì´ë¤",
-      "ita": "<span class=\"verse-number\">8</span> Hanno detto in cuor loro: âDistruggiamo tutto!â. Hanno arso tutti i luoghi per lâadorazione di Dio nel paese."
+      "eng": "They said in their hearts, Let us destroy them together: they have burned up all the synagogues of God in the land.",
+      "ara": "قَالُوا فِي أَنْفُسِهِمْ: لِنُبِدْهُمْ جَمِيعاً. وَأَحْرَقُوا كُلَّ مَحَافِلِ اللّٰهِ فِي الْبِلادِ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らは<ruby>心<rt>こころ</rt></ruby>のうちに<ruby>言<rt>い</rt></ruby>いました、「われらはことごとくこれを<ruby>滅<rt>ほろ</rt></ruby>ぼそう」と。<ruby>彼<rt>かれ</rt></ruby>らは<ruby>国<rt>くに</rt></ruby>のうちの<ruby>神<rt>かみ</rt></ruby>の<ruby>会堂<rt>かいどう</rt></ruby>をことごとく<ruby>焼<rt>や</rt></ruby>きました。",
+      "spa": "<span class=\"line\">Dijeron en su corazón: Destruyámoslos de una vez;</span><span class=\"line\">han quemado todas las sinagogas de Dios en la tierra.</span>",
+      "por": "Disseram no seu coração: Despojemo-los de uma vez. Queimaram todas as sinagogas de Deus na terra.",
+      "fra": "Ils disaient en leur cœur : Traitons-les tous avec violence ! Ils ont brûlé dans le pays tous les lieux saints.",
+      "deu": "<span class=\"line\">Sie haben sich vorgenommen: „Wir rotten sie allesamt aus!”</span><span class=\"line\">und haben alle Gottesstätten (d. h. Synagogen) im Lande verbrannt.</span>",
+      "kor": "그들이 마음속으로 이르기를 우리가 그들을 진멸하자 하고 이 땅에 있는 하나님의 모든 회당을 불살랐나이다",
+      "ita": "Hanno detto in cuor loro: “Distruggiamo tutto!”. Hanno arso tutti i luoghi per l’adorazione di Dio nel paese."
     },
     "9": {
-      "eng": "<span class=\"verse-number\">9 </span>We see not our signs: <span class=\"clarity-word\">there is</span> no more any prophet: neither <span class=\"clarity-word\">is there</span> among us any that knoweth how long.",
-      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙÙÙ ÙÙØ¹ÙØ¯Ù ÙÙØ´ÙÙÙØ¯Ù Ø±ÙÙÙÙØ²Ù Ø¹ÙØ¨ÙØ§Ø¯ÙØªÙÙÙØ§Ø ÙÙÙÙÙÙ ÙÙØ¨ÙÙÙ ÙÙØ¨ÙÙÙÙ Ø¨ÙØ¹ÙØ¯ÙØ ÙÙÙÙÙÙØ³Ù Ø¨ÙÙÙÙÙÙÙØ§ ÙÙÙÙ ÙÙØ¹ÙØ±ÙÙÙ ÙÙØªÙÙ ØªÙÙÙÙÙÙ Ø®ÙØ§ØªÙÙÙØ©Ù Ø§ÙØ£ÙÙÙØ±Ù.",
-      "jpn": "<span class=\"verse-number\">9</span> ãããã¯<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ãã¡ã®ãããã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ã¾ããã<ruby><rb>é è¨è</rb><rt>ããããã</rt></ruby>ã<ruby><rb>ä»</rb><rt>ãã¾</rt></ruby>ã¯ãã¾ãããããã¦ãã¤ã¾ã§<ruby><rb>ç¶</rb><rt>ã¤ã¥</rt></ruby>ãã®ãããããã®ãã¡ã«ã¯ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããã¾ããã",
-      "spa": "<span class=\"verse-number\">9 </span><span class=\"line\">No vemos ya nuestras seÃ±ales;</span><span class=\"line\">ya no hay profeta,</span><span class=\"line\">ni entre nosotros hay quien sepa hasta cuÃ¡ndo.</span>",
-      "por": "<span class=\"verse-number\">9</span> JÃ¡ nÃ£o vemos os nossos sinais, <span class=\"page-break\" data-page=\"930\"></span>jÃ¡ nÃ£o hÃ¡ profeta, nem <span class=\"clarity-word\">hÃ¡</span> entre nÃ³s alguÃ©m que saiba atÃ© quando <span class=\"clarity-word\">isto durarÃ¡.</span>",
-      "fra": "<span class=\"verse-number\">9</span> Nous ne voyons plus nos signesÂ ; Il nây a plus de prophÃ¨te, Et personne parmi nous qui sache jusquâÃ  quandÂ â¦",
-      "deu": "<span class=\"verse-number\">9Â </span><span class=\"line\">Unsre (heiligen) Zeichen sehn wir nicht mehr, kein Prophet ist mehr da,</span><span class=\"line\">und niemand weiÃ bei uns, wie lange das dauern soll.</span>",
-      "kor": "<span class=\"verse-number\">9</span> ì°ë¦¬ì íì ì ë³´ì´ì§ ìëíë©° ì ì§ìë ë ì´ì ìì¼ë©° <span class=\"clarity-word\">ì´ë° ì¼ì´</span> ì¼ë§ë ì¤ë ëì§ ì°ë¦¬ ì¤ì ìë ìë ìëì´ë¤",
-      "ita": "<span class=\"verse-number\">9</span> Noi non vediamo piÃ¹ i nostri emblemi; non câÃ¨ piÃ¹ profeta, nÃ© câÃ¨ fra noi alcuno che sappia fino a quando."
+      "eng": "We see not our signs: <span class=\"clarity-word\">there is</span> no more any prophet: neither <span class=\"clarity-word\">is there</span> among us any that knoweth how long.",
+      "ara": "لَمْ نَعُدْ نَشْهَدُ رُمُوزَ عِبَادَتِنَا، وَلَمْ يَبْقَ نَبِيٌّ بَعْدُ، وَلَيْسَ بَيْنَنَا مَنْ يَعْرِفُ مَتَى تَكُونُ خَاتِمَةُ الأَمْرِ.",
+      "jpn": "われらは<ruby>自分<rt>じぶん</rt></ruby>たちのしるしを<ruby>見<rt>み</rt></ruby>ません。<ruby>預言者<rt>よげんしゃ</rt></ruby>も<ruby>今<rt>いま</rt></ruby>はいません。そしていつまで<ruby>続<rt>つづ</rt></ruby>くのか、われらのうちには、<ruby>知<rt>し</rt></ruby>る<ruby>者<rt>もの</rt></ruby>がありません。",
+      "spa": "<span class=\"line\">No vemos ya nuestras señales;</span><span class=\"line\">ya no hay profeta,</span><span class=\"line\">ni entre nosotros hay quien sepa hasta cuándo.</span>",
+      "por": "Já não vemos os nossos sinais, já não há profeta, nem <span class=\"clarity-word\">há</span> entre nós alguém que saiba até quando <span class=\"clarity-word\">isto durará.</span>",
+      "fra": "Nous ne voyons plus nos signes ; Il n’y a plus de prophète, Et personne parmi nous qui sache jusqu’à quand …",
+      "deu": "<span class=\"line\">Unsre (heiligen) Zeichen sehn wir nicht mehr, kein Prophet ist mehr da,</span><span class=\"line\">und niemand weiß bei uns, wie lange das dauern soll.</span>",
+      "kor": "우리의 표적은 보이지 아니하며 선지자도 더 이상 없으며 <span class=\"clarity-word\">이런 일이</span> 얼마나 오랠는지 우리 중에 아는 자도 없나이다",
+      "ita": "Noi non vediamo più i nostri emblemi; non c’è più profeta, né c’è fra noi alcuno che sappia fino a quando."
     },
     "10": {
-      "eng": "<span class=\"verse-number\">10 </span>O God, how long shall the adversary reproach? shall the enemy blaspheme thy name for ever?",
-      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØ§ Ø§ÙÙÙÙ°ÙÙ: Ø¥ÙÙÙÙ ÙÙØªÙÙ ÙÙØ¹ÙÙÙÙØ±ÙÙÙØ§ Ø§ÙÙØ®ÙØµÙÙÙØ Ø£ÙÙÙØ¸ÙÙÙÙ Ø§ÙÙØ¹ÙØ¯ÙÙÙÙ ÙÙØ³ÙØªÙÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙ Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯ÙØ",
-      "jpn": "<span class=\"verse-number\">10</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãããã ã¯ãã¤ã¾ã§ããããã§ããããã<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ã¯ã¨ãããã«ããªãã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ãã®ã®ããã§ããããã",
-      "spa": "<span class=\"verse-number\">10 </span><span class=\"line\">Â¿Hasta cuÃ¡ndo, oh Dios, <span class=\"clarity-word\">nos</span> afrentarÃ¡ el adversario?</span><span class=\"line\">Â¿Ha de blasfemar el enemigo perpetuamente tu nombre?</span>",
-      "por": "<span class=\"verse-number\">10</span> AtÃ© quando, Ã³ Deus, <span class=\"clarity-word\">nos</span> afrontarÃ¡ o adversÃ¡rio? BlasfemarÃ¡ o inimigo o teu nome para sempre?",
-      "fra": "<span class=\"verse-number\">10</span> JusquâÃ  quand, Ã´ DieuÂ ! lâoppresseur outragera-t-il, Lâennemi mÃ©prisera-t-il sans cesse ton nomÂ ?",
-      "deu": "<span class=\"verse-number\">10Â </span><span class=\"line\">Wie lange, o Gott, soll der Widersacher noch schmÃ¤hen,</span><span class=\"line\">der Feind deinen Namen immerfort lÃ¤stern?</span>",
-      "kor": "<span class=\"verse-number\">10</span> íëëì´ì¬ ëì ì´ ì¸ì ê¹ì§ ë¹ë°©íê² ì¼ë©° ììê° ì£¼ì ì´ë¦ì ììí ë¥ìíë¦¬ì´ê¹",
-      "ita": "<span class=\"verse-number\">10</span> Fino a quando, o Dio, oltraggerÃ  lâavversario? Il nemico disprezzerÃ  il tuo nome in perpetuo?"
+      "eng": "O God, how long shall the adversary reproach? shall the enemy blaspheme thy name for ever?",
+      "ara": "يَا اللّٰهُ: إِلَى مَتَى يُعَيِّرُنَا الْخَصْمُ؟ أَيَظَلُّ الْعَدُوُّ يَسْتَهِينُ بِاسْمِكَ إِلَى الأَبَدِ؟",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>よ、あだはいつまであざけるでしょうか。<ruby>敵<rt>てき</rt></ruby>はとこしえにあなたの<ruby>名<rt>な</rt></ruby>をののしるでしょうか。",
+      "spa": "<span class=\"line\">¿Hasta cuándo, oh Dios, <span class=\"clarity-word\">nos</span> afrentará el adversario?</span><span class=\"line\">¿Ha de blasfemar el enemigo perpetuamente tu nombre?</span>",
+      "por": "Até quando, ó Deus, <span class=\"clarity-word\">nos</span> afrontará o adversário? Blasfemará o inimigo o teu nome para sempre?",
+      "fra": "Jusqu’à quand, ô Dieu ! l’oppresseur outragera-t-il, L’ennemi méprisera-t-il sans cesse ton nom ?",
+      "deu": "<span class=\"line\">Wie lange, o Gott, soll der Widersacher noch schmähen,</span><span class=\"line\">der Feind deinen Namen immerfort lästern?</span>",
+      "kor": "하나님이여 대적이 언제까지 비방하겠으며 원수가 주의 이름을 영원히 능욕하리이까",
+      "ita": "Fino a quando, o Dio, oltraggerà l’avversario? Il nemico disprezzerà il tuo nome in perpetuo?"
     },
     "11": {
-      "eng": "<span class=\"verse-number\">11 </span>Why withdrawest thou thy hand, even thy right hand? pluck <span class=\"clarity-word\">it</span> out of thy bosom.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙØ§Ø°ÙØ§ ØªÙØ±ÙÙÙØ¶Ù Ø£ÙÙÙ ØªÙÙÙØ¯ÙÙ ÙÙØ¯Ù Ø§ÙÙØ¹ÙÙÙÙÙØ ÙÙÙÙØ§Ø°ÙØ§ ØªÙØ¨ÙÙÙÙ ÙÙÙÙÙÙÙÙÙ Ø®ÙÙÙÙÙÙÙØ Ø£ÙØ®ÙØ±ÙØ¬ÙÙÙØ§ ÙÙØ£ÙÙÙÙÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">11</span> ãªãããªãã¯<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã<ruby><rb>å¼</rb><rt>ã²</rt></ruby>ãããã®ã§ããããªãããªãã¯<ruby><rb>å³</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ããµã¨ããã«<ruby><rb>å¥</rb><rt>ã</rt></ruby>ãã¦ããããã®ã§ããã",
-      "spa": "<span class=\"verse-number\">11 </span><span class=\"line\">Â¿Por quÃ© retraes tu mano, tu diestra?</span><span class=\"line\">Â¡SÃ¡cala de dentro de tu seno!</span>",
-      "por": "<span class=\"verse-number\">11</span> Por que retiras a tua mÃ£o, a saber, a tua destra? Tira-<span class=\"clarity-word\">a</span> de dentro do teu seio, e consome-os.",
-      "fra": "<span class=\"verse-number\">11</span> Pourquoi retires-tu ta main, oui ta main droiteÂ ? Sors-laÂ ! DÃ©truis-leÂ !",
-      "deu": "<span class=\"verse-number\">11Â </span><span class=\"line\">Warum doch ziehst du deine Hand zurÃ¼ck?</span><span class=\"line\">O zieh deine Rechte hervor aus dem Busen, mach ein Ende!</span>",
-      "kor": "<span class=\"verse-number\">11</span> ì£¼ê»ì ì´ì°íì¬ ì£¼ì ì ê³§ ì£¼ì ì¤ë¥¸ìì ê±°ëìëì´ê¹ ì£¼ì íìì <span class=\"clarity-word\">ìì ë¹¼ë´ìì´</span><span class=\"clarity-word\">ê·¸ë¤ì</span> ë©¸íìì",
-      "ita": "<span class=\"verse-number\">11</span> PerchÃ© ritiri la tua mano, la tua destra? Tirala fuori dal tuo seno, e distruggili!"
+      "eng": "Why withdrawest thou thy hand, even thy right hand? pluck <span class=\"clarity-word\">it</span> out of thy bosom.",
+      "ara": "لِمَاذَا تَرْفُضُ أَنْ تَمُدَّ يَدَ الْعَوْنِ؟ لِمَاذَا تُبْقِي يَمِينَكَ خَلْفَكَ؟ أَخْرِجْهَا وَأَفْنِهِمْ.",
+      "jpn": "なぜあなたは<ruby>手<rt>て</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>かれるのですか。なぜあなたは<ruby>右<rt>みぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>をふところに<ruby>入<rt>い</rt></ruby>れておかれるのですか。",
+      "spa": "<span class=\"line\">¿Por qué retraes tu mano, tu diestra?</span><span class=\"line\">¡Sácala de dentro de tu seno!</span>",
+      "por": "Por que retiras a tua mão, a saber, a tua destra? Tira-<span class=\"clarity-word\">a</span> de dentro do teu seio, e consome-os.",
+      "fra": "Pourquoi retires-tu ta main, oui ta main droite ? Sors-la ! Détruis-le !",
+      "deu": "<span class=\"line\">Warum doch ziehst du deine Hand zurück?</span><span class=\"line\">O zieh deine Rechte hervor aus dem Busen, mach ein Ende!</span>",
+      "kor": "주께서 어찌하여 주의 손 곧 주의 오른손을 거두시나이까 주의 품에서 <span class=\"clarity-word\">손을 빼내시어</span><span class=\"clarity-word\">그들을</span> 멸하소서",
+      "ita": "Perché ritiri la tua mano, la tua destra? Tirala fuori dal tuo seno, e distruggili!"
     },
     "12": {
-      "eng": "<span class=\"verse-number\">12 </span>For God <span class=\"clarity-word\">is</span> my King of old, working salvation in the midst of the earth.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>Ø¥ÙÙÙÙÙÙØ§ Ø§ÙÙÙÙ°ÙÙ ÙÙÙÙÙÙÙ ÙÙÙÙØ°Ù Ø§ÙÙÙÙØ¯ÙÙÙÙØ ØµÙØ§ÙÙØ¹Ù Ø§ÙÙØ®ÙÙØ§ØµÙ ÙÙÙ ÙÙØ³ÙØ·Ù Ø§ÙØ£ÙØ±ÙØ¶Ù.",
-      "jpn": "<span class=\"verse-number\">12</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã¯ãã«ãããããããã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã§ãã£ã¦ã<ruby><rb>æ</rb><rt>ããã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã«<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãããã",
-      "spa": "<span class=\"verse-number\">12 </span><span class=\"line\">Mas Dios es mi rey desde la antigÃ¼edad;</span><span class=\"line\">Ã©l es quien trae salvaciÃ³n en medio de la tierra.</span>",
-      "por": "<span class=\"verse-number\">12</span> Todavia Deus <span class=\"clarity-word\">Ã©</span> o meu Rei desde a antiguidade, operando a salvaÃ§Ã£o no meio da terra.",
-      "fra": "<span class=\"verse-number\">12</span> Dieu est mon Roi dÃ¨s les temps anciens, Lui qui opÃ¨re des dÃ©livrances au milieu de la terre.",
-      "deu": "<span class=\"verse-number\">12Â </span><span class=\"line\">Gott ist ja doch mein KÃ¶nig von alters her,</span><span class=\"line\">Rettungstaten vollfÃ¼hrt er inmitten des Landes (oder: auf der ganzen Erde).</span>",
-      "kor": "<span class=\"verse-number\">12</span> íëëì ìë¡ë¶í° ëì ìì´ìë¼ ì¬ëìê² êµ¬ìì ë² í¸ì¨ëì´ë¤",
-      "ita": "<span class=\"verse-number\">12</span> Ma Dio Ã¨ il mio Re sin dai tempi antichi, colui che opera la salvezza in mezzo alla terra."
+      "eng": "For God <span class=\"clarity-word\">is</span> my King of old, working salvation in the midst of the earth.",
+      "ara": "إِنَّمَا اللّٰهُ مَلِكِي مُنْذُ الْقَدِيمِ، صَانِعُ الْخَلاصِ فِي وَسَطِ الأَرْضِ.",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>はいにしえからわたしの<ruby>王<rt>おう</rt></ruby>であって、<ruby>救<rt>すくい</rt></ruby>を<ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>われた。",
+      "spa": "<span class=\"line\">Mas Dios es mi rey desde la antigüedad;</span><span class=\"line\">él es quien trae salvación en medio de la tierra.</span>",
+      "por": "Todavia Deus <span class=\"clarity-word\">é</span> o meu Rei desde a antiguidade, operando a salvação no meio da terra.",
+      "fra": "Dieu est mon Roi dès les temps anciens, Lui qui opère des délivrances au milieu de la terre.",
+      "deu": "<span class=\"line\">Gott ist ja doch mein König von alters her,</span><span class=\"line\">Rettungstaten vollführt er inmitten des Landes (oder: auf der ganzen Erde).</span>",
+      "kor": "하나님은 예로부터 나의 왕이시라 사람에게 구원을 베푸셨나이다",
+      "ita": "Ma Dio è il mio Re sin dai tempi antichi, colui che opera la salvezza in mezzo alla terra."
     },
     "13": {
-      "eng": "<span class=\"verse-number\">13 </span>Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>Ø£ÙÙÙØªÙ ÙÙÙÙÙÙØªÙ Ø§ÙÙØ¨ÙØ­ÙØ±Ù Ø¨ÙÙÙÙÙÙØªÙÙÙ ÙÙØ­ÙØ·ÙÙÙÙØªÙ Ø±ÙØ¤ÙÙØ³Ù Ø§ÙØªÙÙÙÙØ§ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">13</span> ããªãã¯ã¿<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ããã£ã¦<ruby><rb>æµ·</rb><rt>ãã¿</rt></ruby>ãããã¡ã<ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é¾</rb><rt>ããã</rt></ruby>ã®<ruby><rb>é ­</rb><rt>ããã¾</rt></ruby>ã<ruby><rb>ç </rb><rt>ãã </rt></ruby>ãããã",
-      "spa": "<span class=\"verse-number\">13 </span><span class=\"line\">TÃº dividiste el mar con tu poder;</span><span class=\"line\">quebrantaste cabezas de monstruos en las aguas.</span>",
-      "por": "<span class=\"verse-number\">13</span> Tu dividiste o mar pela tua forÃ§a; esmagaste a cabeÃ§a dos monstros marinhos.",
-      "fra": "<span class=\"verse-number\">13</span> Tu as fendu la mer par ta puissance, Tu as brisÃ© les tÃªtes des monstres sur les eauxÂ ;",
-      "deu": "<span class=\"verse-number\">13Â </span><span class=\"line\">Du hast das Meer durch deine Kraft gespalten,</span><span class=\"line\">die HÃ¤upter der Drachen auf den Fluten zerschellt.</span>",
-      "kor": "<span class=\"verse-number\">13</span> ì£¼ê»ì ì£¼ì ë¥ë ¥ì¼ë¡ ë°ë¤ë¥¼ ëëìê³  ë¬¼ ê°ì´ë° ì©ë¤ì ë¨¸ë¦¬ë¥¼ ê¹¨ë¨ë¦¬ì¨ì¼ë©°",
-      "ita": "<span class=\"verse-number\">13</span> Tu, con la tua forza, spartisti il mare, tu spezzasti il capo ai mostri marini sulle acque,"
+      "eng": "Thou didst divide the sea by thy strength: thou brakest the heads of the dragons in the waters.",
+      "ara": "أَنْتَ فَلَقْتَ الْبَحْرَ بِقُوَّتِكَ وَحَطَّمْتَ رُؤُوسَ التَّنَانِينِ.",
+      "jpn": "あなたはみ<ruby>力<rt>ちから</rt></ruby>をもって<ruby>海<rt>うみ</rt></ruby>をわかち、<ruby>水<rt>みず</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>の<ruby>龍<rt>りゅう</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>を<ruby>砕<rt>くだ</rt></ruby>かれた。",
+      "spa": "<span class=\"line\">Tú dividiste el mar con tu poder;</span><span class=\"line\">quebrantaste cabezas de monstruos en las aguas.</span>",
+      "por": "Tu dividiste o mar pela tua força; esmagaste a cabeça dos monstros marinhos.",
+      "fra": "Tu as fendu la mer par ta puissance, Tu as brisé les têtes des monstres sur les eaux ;",
+      "deu": "<span class=\"line\">Du hast das Meer durch deine Kraft gespalten,</span><span class=\"line\">die Häupter der Drachen auf den Fluten zerschellt.</span>",
+      "kor": "주께서 주의 능력으로 바다를 나누시고 물 가운데 용들의 머리를 깨뜨리셨으며",
+      "ita": "Tu, con la tua forza, spartisti il mare, tu spezzasti il capo ai mostri marini sulle acque,"
     },
     "14": {
-      "eng": "<span class=\"verse-number\">14 </span>Thou brakest the heads of leviathan in pieces, <span class=\"clarity-word\">and</span> gavest him <span class=\"clarity-word\">to be</span> meat to the people inhabiting the wilderness.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>Ø£ÙÙÙØªÙ ÙÙØ²ÙÙÙÙØªÙ Ø±ÙØ¤ÙÙØ³Ù ÙÙØ±ÙØ¹ÙÙÙÙÙ ÙÙØ¬ÙÙÙØ´ÙÙÙØ ÙÙØ¬ÙØ¹ÙÙÙØªÙÙÙ ÙÙÙØªØ§Ù ÙÙÙÙØ­ÙÙÙÙÙØ§ÙÙØ§ØªÙ Ø§ÙÙÙÙØªÙÙÙØ­ÙÙØ´ÙØ©Ù",
-      "jpn": "<span class=\"verse-number\">14</span> ããªãã¯ã¬ãã¤ã¿ã³ã®<ruby><rb>é ­</rb><rt>ããã¾</rt></ruby>ããã ããããã<ruby><rb>é</rb><rt>ã®</rt></ruby>ã®<ruby><rb>ç£</rb><rt>ããã®</rt></ruby>ã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãã¦ãããã¨ãããã",
-      "spa": "<span class=\"verse-number\">14 </span><span class=\"line\">TÃº aplastaste las cabezas del LeviatÃ¡n;</span><span class=\"line\">lo diste por comida a los habitantes del desierto.</span>",
-      "por": "<span class=\"verse-number\">14</span> Fizeste em pedaÃ§os as cabeÃ§as do leviatÃ£, <span class=\"clarity-word\">e</span> o deste por mantimento aos habitantes do deserto.",
-      "fra": "<span class=\"verse-number\">14</span> Tu as Ã©crasÃ© les tÃªtes du lÃ©viathan, Tu lâas donnÃ© en pÃ¢ture au peuple du dÃ©sert.",
-      "deu": "<span class=\"verse-number\">14Â </span><span class=\"line\">Du hast Leviathans KÃ¶pfe zermalmt,</span><span class=\"line\">zum FraÃ ihn hingegeben dem Volke der WÃ¼stentiere.</span>",
-      "kor": "<span class=\"verse-number\">14</span> ë¦¬ìì¼ë¨ì ë¨¸ë¦¬ë¥¼ ë¶ììê³  ê·¸ê²ì ì¬ë§ì ì¬ë ììê² ììë¬¼ë¡ ì£¼ì¨ì¼ë©°",
-      "ita": "<span class=\"verse-number\">14</span> tu spezzasti il capo del leviatano, tu lo desti in pasto al popolo del deserto."
+      "eng": "Thou brakest the heads of leviathan in pieces, <span class=\"clarity-word\">and</span> gavest him <span class=\"clarity-word\">to be</span> meat to the people inhabiting the wilderness.",
+      "ara": "أَنْتَ مَزَّقْتَ رُؤُوسَ فِرْعَوْنَ وَجَيْشِهِ، وَجَعَلْتَهُ قُوتاً لِلْحَيَوَانَاتِ الْمُتَوَحِّشَةِ",
+      "jpn": "あなたはレビヤタンの<ruby>頭<rt>あたま</rt></ruby>をくだき、これを<ruby>野<rt>の</rt></ruby>の<ruby>獣<rt>けもの</rt></ruby>に<ruby>与<rt>あた</rt></ruby>えてえじきとされた。",
+      "spa": "<span class=\"line\">Tú aplastaste las cabezas del Leviatán;</span><span class=\"line\">lo diste por comida a los habitantes del desierto.</span>",
+      "por": "Fizeste em pedaços as cabeças do leviatã, <span class=\"clarity-word\">e</span> o deste por mantimento aos habitantes do deserto.",
+      "fra": "Tu as écrasé les têtes du léviathan, Tu l’as donné en pâture au peuple du désert.",
+      "deu": "<span class=\"line\">Du hast Leviathans Köpfe zermalmt,</span><span class=\"line\">zum Fraß ihn hingegeben dem Volke der Wüstentiere.</span>",
+      "kor": "리워야단의 머리를 부수시고 그것을 사막에 사는 자에게 음식물로 주셨으며",
+      "ita": "tu spezzasti il capo del leviatano, tu lo desti in pasto al popolo del deserto."
     },
     "15": {
-      "eng": "<span class=\"verse-number\">15 </span>Thou didst cleave the fountain and the flood: thou driedst up mighty rivers.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙØ¬ÙÙØ±ÙØªÙ ÙÙØ¨ÙØ¹Ø§Ù ÙÙØ¬ÙØ¯ÙÙÙÙØ§ÙØ ÙÙØ¬ÙÙÙÙÙÙØªÙ Ø£ÙÙÙÙÙØ§Ø±Ø§Ù Ø¯ÙØ§Ø¦ÙÙÙØ©Ù Ø§ÙÙØ¬ÙØ±ÙÙÙØ§ÙÙ.",
-      "jpn": "<span class=\"verse-number\">15</span> ããªãã¯<ruby><rb>æ³</rb><rt>ããã¿</rt></ruby>ã¨<ruby><rb>æµ</rb><rt>ãªã</rt></ruby>ãã¨ã<ruby><rb>é</rb><rt>ã²ã</rt></ruby>ãã<ruby><rb>çµ¶</rb><rt>ã</rt></ruby>ãã<ruby><rb>æµ</rb><rt>ãªã</rt></ruby>ããããããã®<ruby><rb>å·</rb><rt>ãã</rt></ruby>ããããããã",
-      "spa": "<span class=\"verse-number\">15 </span><span class=\"line\">TÃº abriste la fuente y el rÃ­o;</span><span class=\"line\">tÃº secaste rÃ­os inagotables.</span>",
-      "por": "<span class=\"verse-number\">15</span> Fendeste a fonte e o ribeiro; secaste os rios impetuosos.",
-      "fra": "<span class=\"verse-number\">15</span> Tu as fait jaillir des sources et des torrents. Tu as mis Ã  sec des fleuves qui ne tarissent pas.",
-      "deu": "<span class=\"verse-number\">15Â </span><span class=\"line\">Du hast Quellen und BÃ¤che hervorbrechen lassen,</span><span class=\"line\">du hast nieversiegende StrÃ¶me trocken gelegt.</span>",
-      "kor": "<span class=\"verse-number\">15</span> ì£¼ê»ì <span class=\"clarity-word\">ë°ìë¥¼</span> ìª¼ê°ì´ í° ë¬¼ì <span class=\"clarity-word\">ë´</span>ìë©° ì£¼ê»ì ë íë¥´ë ê°ë¤ì ë§ë¥´ê² íì¨ëì´ë¤",
-      "ita": "<span class=\"verse-number\">15</span> Tu facesti sgorgare fonti e torrenti, tu asciugasti fiumi perenni."
+      "eng": "Thou didst cleave the fountain and the flood: thou driedst up mighty rivers.",
+      "ara": "فَجَّرْتَ نَبْعاً وَجَدْوَلاً، وَجَفَّفْتَ أَنْهَاراً دَائِمَةَ الْجَرَيَانِ.",
+      "jpn": "あなたは<ruby>泉<rt>いずみ</rt></ruby>と<ruby>流<rt>なが</rt></ruby>れとを<ruby>開<rt>ひら</rt></ruby>き、<ruby>絶<rt>た</rt></ruby>えず<ruby>流<rt>なが</rt></ruby>れるもろもろの<ruby>川<rt>かわ</rt></ruby>をからされた。",
+      "spa": "<span class=\"line\">Tú abriste la fuente y el río;</span><span class=\"line\">tú secaste ríos inagotables.</span>",
+      "por": "Fendeste a fonte e o ribeiro; secaste os rios impetuosos.",
+      "fra": "Tu as fait jaillir des sources et des torrents. Tu as mis à sec des fleuves qui ne tarissent pas.",
+      "deu": "<span class=\"line\">Du hast Quellen und Bäche hervorbrechen lassen,</span><span class=\"line\">du hast nieversiegende Ströme trocken gelegt.</span>",
+      "kor": "주께서 <span class=\"clarity-word\">바위를</span> 쪼개어 큰 물을 <span class=\"clarity-word\">내</span>시며 주께서 늘 흐르는 강들을 마르게 하셨나이다",
+      "ita": "Tu facesti sgorgare fonti e torrenti, tu asciugasti fiumi perenni."
     },
     "16": {
-      "eng": "<span class=\"verse-number\">16 </span>The day <span class=\"clarity-word\">is</span> thine, the night also <span class=\"clarity-word\">is</span> thine: thou hast prepared the light and the sun.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙÙ Ø§ÙÙÙÙÙÙØ§Ø±Ù ÙÙØ§ÙÙÙÙÙÙÙÙ Ø£ÙÙÙØ¶Ø§Ù. Ø£ÙÙÙØªÙ ÙÙÙÙÙÙÙØªÙ Ø§ÙÙÙÙÙÙØ§ÙÙØ¨Ù Ø§ÙÙÙÙÙÙÙØ±ÙØ©Ù ÙÙØ§ÙØ´ÙÙÙÙØ³Ù.",
-      "jpn": "<span class=\"verse-number\">16</span> <ruby><rb>æ¼</rb><rt>ã²ã</rt></ruby>ã¯ããªãã®ãã®ã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãã¾ãããªãã®ãã®ãããªãã¯<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã¨<ruby><rb>å¤ªé½</rb><rt>ãããã</rt></ruby>ã¨ã<ruby><rb>è¨­</rb><rt>ãã</rt></ruby>ããããã",
-      "spa": "<span class=\"verse-number\">16 </span><span class=\"line\">Tuyo es el dÃ­a, tuya tambiÃ©n es la noche;</span><span class=\"line\">tÃº estableciste la luz y el sol.</span>",
-      "por": "<span class=\"verse-number\">16</span> Teu <span class=\"clarity-word\">Ã©</span> o dia e tua <span class=\"clarity-word\">Ã©</span> a noite; preparaste a luz e o sol.",
-      "fra": "<span class=\"verse-number\">16</span> Ã toi est le jour, Ã  toi est la nuitÂ ; Tu as Ã©tabli la lumiÃ¨re et le soleil.",
-      "deu": "<span class=\"verse-number\">16Â </span><span class=\"line\">Dein ist der Tag, dein auch die Nacht,</span><span class=\"line\">du hast den Mond und die Sonne hingestellt.</span>",
-      "kor": "<span class=\"verse-number\">16</span> ë®ë ì£¼ì ê²ì´ì ë°¤ë ì£¼ì ê²ì´ë¼ ì£¼ê»ì ë¹ê³¼ í´ë¥¼ ë§ë ¨íì¨ì¼ë©°",
-      "ita": "<span class=\"verse-number\">16</span> Tuo Ã¨ il giorno, la notte pure Ã¨ tua; tu hai stabilito la luna e il sole."
+      "eng": "The day <span class=\"clarity-word\">is</span> thine, the night also <span class=\"clarity-word\">is</span> thine: thou hast prepared the light and the sun.",
+      "ara": "لَكَ النَّهَارُ وَاللَّيْلُ أَيْضاً. أَنْتَ كَوَّنْتَ الْكَوَاكِبَ الْمُنِيرَةَ وَالشَّمْسَ.",
+      "jpn": "<ruby>昼<rt>ひる</rt></ruby>はあなたのもの、<ruby>夜<rt>よる</rt></ruby>もまたあなたのもの。あなたは<ruby>光<rt>ひかり</rt></ruby>と<ruby>太陽<rt>たいよう</rt></ruby>とを<ruby>設<rt>もう</rt></ruby>けられた。",
+      "spa": "<span class=\"line\">Tuyo es el día, tuya también es la noche;</span><span class=\"line\">tú estableciste la luz y el sol.</span>",
+      "por": "Teu <span class=\"clarity-word\">é</span> o dia e tua <span class=\"clarity-word\">é</span> a noite; preparaste a luz e o sol.",
+      "fra": "À toi est le jour, à toi est la nuit ; Tu as établi la lumière et le soleil.",
+      "deu": "<span class=\"line\">Dein ist der Tag, dein auch die Nacht,</span><span class=\"line\">du hast den Mond und die Sonne hingestellt.</span>",
+      "kor": "낮도 주의 것이요 밤도 주의 것이라 주께서 빛과 해를 마련하셨으며",
+      "ita": "Tuo è il giorno, la notte pure è tua; tu hai stabilito la luna e il sole."
     },
     "17": {
-      "eng": "<span class=\"verse-number\">17 </span>Thou hast set all the borders of the earth: thou hast made summer and winter.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØµÙØ¨ÙØªÙ Ø­ÙØ¯ÙÙØ¯Ù Ø§ÙØ£ÙØ±ÙØ¶ÙØ ÙÙØ®ÙÙÙÙÙØªÙ Ø§ÙØµÙÙÙÙÙÙ ÙÙØ§ÙØ´ÙÙØªÙØ§Ø¡Ù.",
-      "jpn": "<span class=\"verse-number\">17</span> ããªãã¯<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®ããããã®<ruby><rb>å¢</rb><rt>ããã</rt></ruby>ã<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãã<ruby><rb>å¤</rb><rt>ãªã¤</rt></ruby>ã¨<ruby><rb>å¬</rb><rt>ãµã</rt></ruby>ã¨ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãããã",
-      "spa": "<span class=\"verse-number\">17 </span><span class=\"line\">TÃº fijaste todos los lÃ­mites de la tierra;</span><span class=\"line\">el verano y el invierno tÃº los creaste.</span>",
-      "por": "<span class=\"verse-number\">17</span> Estabeleceste todos os limites da terra; verÃ£o e inverno, tu os formaste.",
-      "fra": "<span class=\"verse-number\">17</span> Tu as fixÃ© toutes les limites de la terre, Tu as faÃ§onnÃ© lâÃ©tÃ© et lâhiver.",
-      "deu": "<span class=\"verse-number\">17Â </span><span class=\"line\">Du hast der Erde rings die Grenzen festgesetzt,</span><span class=\"line\">Sommer und Winter, â du hast sie gebildet.</span>",
-      "kor": "<span class=\"verse-number\">17</span> ì£¼ê»ì ëì ê²½ê³ë¥¼ ì íìë©° ì£¼ê»ì ì¬ë¦ê³¼ ê²¨ì¸ì ë§ëì¨ëì´ë¤",
-      "ita": "<span class=\"verse-number\">17</span> Tu hai fissato tutti i confini della terra, tu hai fatto lâestate e lâinverno."
+      "eng": "Thou hast set all the borders of the earth: thou hast made summer and winter.",
+      "ara": "نَصَبْتَ حُدُودَ الأَرْضِ، وَخَلَقْتَ الصَّيْفَ وَالشِّتَاءَ.",
+      "jpn": "あなたは<ruby>地<rt>ち</rt></ruby>のもろもろの<ruby>境<rt>さかい</rt></ruby>を<ruby>定<rt>さだ</rt></ruby>め、<ruby>夏<rt>なつ</rt></ruby>と<ruby>冬<rt>ふゆ</rt></ruby>とを<ruby>造<rt>つく</rt></ruby>られた。",
+      "spa": "<span class=\"line\">Tú fijaste todos los límites de la tierra;</span><span class=\"line\">el verano y el invierno tú los creaste.</span>",
+      "por": "Estabeleceste todos os limites da terra; verão e inverno, tu os formaste.",
+      "fra": "Tu as fixé toutes les limites de la terre, Tu as façonné l’été et l’hiver.",
+      "deu": "<span class=\"line\">Du hast der Erde rings die Grenzen festgesetzt,</span><span class=\"line\">Sommer und Winter, — du hast sie gebildet.</span>",
+      "kor": "주께서 땅의 경계를 정하시며 주께서 여름과 겨울을 만드셨나이다",
+      "ita": "Tu hai fissato tutti i confini della terra, tu hai fatto l’estate e l’inverno."
     },
     "18": {
-      "eng": "<span class=\"verse-number\">18 </span>Remember this, <span class=\"clarity-word\">that</span> the enemy hath reproached, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, and <span class=\"clarity-word\">that</span> the foolish people have blasphemed thy name.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>Ø¥ÙÙÙÙÙÙØ§ Ø§Ø°ÙÙÙØ±Ù Ø£ÙÙÙÙ Ø¹ÙØ¯ÙÙÙØ§Ù ÙÙØ¯Ù Ø¹ÙÙÙÙØ±Ù Ø§ÙØ±ÙÙØ¨ÙÙØ ÙÙØ´ÙØ¹ÙØ¨Ø§Ù Ø¬ÙØ§ÙÙÙØ§Ù ÙÙØ¯Ù Ø§Ø³ÙØªÙÙÙØ§ÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙ.",
-      "jpn": "<span class=\"verse-number\">18</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ã¯ããªããããããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããª<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã¯ããªãã®ã¿<ruby><rb>å</rb><rt>ãª</rt></ruby>ãã®ã®ããã¾ãããã®<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">18 </span><span class=\"line\">AcuÃ©rdate de esto: que el enemigo ha afrentado a JehovÃ¡,</span><span class=\"line\">y que un pueblo insensato ha blasfemado tu nombre.</span>",
-      "por": "<span class=\"verse-number\">18</span> Lembra-te disto: <span class=\"clarity-word\">que</span> o inimigo afrontou ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, e <span class=\"clarity-word\">que</span> um povo tolo blasfemou o teu nome.",
-      "fra": "<span class=\"verse-number\">18</span> Souviens-toi que lâennemi outrage lâÃternel, Et quâun peuple insensÃ© mÃ©prise ton nomÂ !",
-      "deu": "<span class=\"verse-number\">18Â </span><span class=\"line\">Denke daran: der Feind hat dich, o HErr, gehÃ¶hnt,</span><span class=\"line\">und ein gottloses Volk deinen Namen gelÃ¤stert!</span>",
-      "kor": "<span class=\"verse-number\">18</span> ì¬í¸ìì¬ ì´ê²ì ê¸°ìµíìì ììê° ì£¼ë¥¼ ë¹ë°©íë©° ì°ë§¤í ë°±ì±ì´ ì£¼ì ì´ë¦ì ë¥ìíìëì´ë¤",
-      "ita": "<span class=\"verse-number\">18</span> Ricordati questo: che il nemico ha oltraggiato lâEterno, e che un popolo stolto ha disprezzato il tuo nome."
+      "eng": "Remember this, <span class=\"clarity-word\">that</span> the enemy hath reproached, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, and <span class=\"clarity-word\">that</span> the foolish people have blasphemed thy name.",
+      "ara": "إِنَّمَا اذْكُرْ أَنَّ عَدُوّاً قَدْ عَيَّرَ الرَّبَّ، وَشَعْباً جَاهِلاً قَدِ اسْتَهَانَ بِاسْمِكَ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>よ、<ruby>敵<rt>てき</rt></ruby>はあなたをあざけり、<ruby>愚<rt>おろ</rt></ruby>かな<ruby>民<rt>たみ</rt></ruby>はあなたのみ<ruby>名<rt>な</rt></ruby>をののしります。この<ruby>事<rt>こと</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>してください。",
+      "spa": "<span class=\"line\">Acuérdate de esto: que el enemigo ha afrentado a Jehová,</span><span class=\"line\">y que un pueblo insensato ha blasfemado tu nombre.</span>",
+      "por": "Lembra-te disto: <span class=\"clarity-word\">que</span> o inimigo afrontou ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, e <span class=\"clarity-word\">que</span> um povo tolo blasfemou o teu nome.",
+      "fra": "Souviens-toi que l’ennemi outrage l’Éternel, Et qu’un peuple insensé méprise ton nom !",
+      "deu": "<span class=\"line\">Denke daran: der Feind hat dich, o HErr, gehöhnt,</span><span class=\"line\">und ein gottloses Volk deinen Namen gelästert!</span>",
+      "kor": "여호와여 이것을 기억하소서 원수가 주를 비방하며 우매한 백성이 주의 이름을 능욕하였나이다",
+      "ita": "Ricordati questo: che il nemico ha oltraggiato l’Eterno, e che un popolo stolto ha disprezzato il tuo nome."
     },
     "19": {
-      "eng": "<span class=\"verse-number\">19 </span>O deliver not the soul of thy turtledove unto the multitude <span class=\"clarity-word\">of the wicked:</span> forget not the congregation of thy poor for ever.",
-      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØ§ ØªÙØ³ÙÙÙÙÙÙ ÙÙÙÙÙÙØ­ÙØ´Ù ÙÙÙÙØ³Ù Ø´ÙØ¹ÙØ¨ÙÙÙ Ø§ÙØ¶ÙÙØ¹ÙÙÙÙØ ÙÙÙÙØ§ ØªÙÙÙØ³Ù Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯Ù Ø­ÙÙÙØ§Ø©Ù Ø¬ÙÙÙÙÙÙØ±ÙÙÙ Ø§ÙÙÙÙØ¶ÙØ·ÙÙÙØ¯Ù.",
-      "jpn": "<span class=\"verse-number\">19</span> ã©ããããªãã®ã¯ã¨ã®<ruby><rb>é­</rb><rt>ãã¾ãã</rt></ruby>ã<ruby><rb>é</rb><rt>ã®</rt></ruby>ã®<ruby><rb>ç£</rb><rt>ããã®</rt></ruby>ã«ããããªãã§ãã ããã<ruby><rb>è²§</rb><rt>ã¾ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ãã®ã¡ãã¨ãããã«<ruby><rb>å¿</rb><rt>ãã</rt></ruby>ããªãã§ãã ããã",
-      "spa": "<span class=\"verse-number\">19 </span><span class=\"line\">No entregues a las fieras el alma de tu tÃ³rtola,</span><span class=\"line\">y no olvides para siempre la congregaciÃ³n de tus afligidos.</span>",
-      "por": "<span class=\"verse-number\">19</span> NÃ£o entregues Ã s feras a alma da tua pombinha; nÃ£o te esqueÃ§as para sempre da vida dos teus aflitos.",
-      "fra": "<span class=\"verse-number\">19</span> Ne livre pas aux bÃªtes lâÃ¢me de ta tourterelle, Nâoublie pas pour toujours la vie de tes malheureuxÂ !",
-      "deu": "<span class=\"verse-number\">19Â </span><span class=\"line\">Gib nicht den Raubtieren preis die Seele deiner Taube,</span><span class=\"line\">vergiÃ nicht fÃ¼r immer das Leben deiner Dulder!</span>",
-      "kor": "<span class=\"verse-number\">19</span> ì£¼ì ë©§ë¹ëê¸°ì ìëªì ë¤ì§ì¹ìê² ì£¼ì§ ë§ìë©° ì£¼ì ê°ëí ìì ëª©ì¨ì ììí ìì§ ë§ìì",
-      "ita": "<span class=\"verse-number\">19</span> Non dare alle belve la vita della tua tortora, non dimenticare per sempre il gregge dei tuoi poveri afflitti!"
+      "eng": "O deliver not the soul of thy turtledove unto the multitude <span class=\"clarity-word\">of the wicked:</span> forget not the congregation of thy poor for ever.",
+      "ara": "لَا تُسَلِّمْ لِلْوَحْشِ نَفْسَ شَعْبِكَ الضَّعِيفِ، وَلَا تَنْسَ إِلَى الأَبَدِ حَيَاةَ جُمْهُورِكَ الْمُضْطَهَدِ.",
+      "jpn": "どうかあなたのはとの<ruby>魂<rt>たましい</rt></ruby>を<ruby>野<rt>の</rt></ruby>の<ruby>獣<rt>けもの</rt></ruby>にわたさないでください。<ruby>貧<rt>まず</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>のいのちをとこしえに<ruby>忘<rt>わす</rt></ruby>れないでください。",
+      "spa": "<span class=\"line\">No entregues a las fieras el alma de tu tórtola,</span><span class=\"line\">y no olvides para siempre la congregación de tus afligidos.</span>",
+      "por": "Não entregues às feras a alma da tua pombinha; não te esqueças para sempre da vida dos teus aflitos.",
+      "fra": "Ne livre pas aux bêtes l’âme de ta tourterelle, N’oublie pas pour toujours la vie de tes malheureux !",
+      "deu": "<span class=\"line\">Gib nicht den Raubtieren preis die Seele deiner Taube,</span><span class=\"line\">vergiß nicht für immer das Leben deiner Dulder!</span>",
+      "kor": "주의 멧비둘기의 생명을 들짐승에게 주지 마시며 주의 가난한 자의 목숨을 영원히 잊지 마소서",
+      "ita": "Non dare alle belve la vita della tua tortora, non dimenticare per sempre il gregge dei tuoi poveri afflitti!"
     },
     "20": {
-      "eng": "<span class=\"verse-number\">20 </span>Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>Ø§Ø°ÙÙÙØ±Ù Ø§ÙÙØ¹ÙÙÙØ¯Ù Ø§ÙÙÙØ°ÙÙ ÙÙØ·ÙØ¹ÙØªÙÙÙ ÙÙÙÙØ§Ø ÙÙØ¥ÙÙÙÙ Ø§ÙØ¸ÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙ ÙÙÙ ÙÙÙÙÙ Ø±ÙÙÙÙÙ ÙÙØ¸ÙÙÙÙÙ ÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù.",
-      "jpn": "<span class=\"verse-number\">20</span> ããªãã®<ruby><rb>å¥ç´</rb><rt>ãããã</rt></ruby>ããããã¿ã¦ãã ããã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã¯<ruby><rb>æ´å</rb><rt>ã¼ãããã</rt></ruby>ã®ãã¾ãã§<ruby><rb>æº</rb><rt>ã¿</rt></ruby>ã¡ã¦ãã¾ãã",
-      "spa": "<span class=\"verse-number\">20 </span><span class=\"line\">Considera el convenio,</span><span class=\"line\"><span class=\"page-break\" data-page=\"960\"></span>porque los lugares tenebrosos de la tierra estÃ¡n llenos de habitaciones de violencia.</span>",
-      "por": "<span class=\"verse-number\">20</span> Atenta ao <span class=\"clarity-word\">teu</span> convÃªnio, pois os lugares tenebrosos da terra estÃ£o cheios de moradas de crueldade.",
-      "fra": "<span class=\"verse-number\">20</span> PrÃªte attention Ã lâallianceÂ ! Car les lieux sombres du pays sont pleins de repaires de brigands.",
-      "deu": "<span class=\"verse-number\">20Â </span><span class=\"line\">Blick hin auf den Bund! denn angefÃ¼llt sind</span><span class=\"line\">die Verstecke des Landes mit StÃ¤tten der Gewalttat.</span>",
-      "kor": "<span class=\"verse-number\">20</span> ê·¸ ì¸ì½ì ëì¬ê²¨ ë³´ìì ë¬´ë¦ ëì ì´ëì´ ê³³ì í¬ìí ìì ì²ìê° ê°ëíëì´ë¤",
-      "ita": "<span class=\"verse-number\">20</span> Abbi riguardo allâalleanza, poichÃ© i luoghi tenebrosi della terra sono pieni di ricettacoli di violenza."
+      "eng": "Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty.",
+      "ara": "اذْكُرِ الْعَهْدَ الَّذِي قَطَعْتَهُ لَنَا، فَإِنَّ الظُّلْمَ كَامِنٌ فِي كُلِّ رُكْنٍ مُظْلِمٍ مِنَ الأَرْضِ.",
+      "jpn": "あなたの<ruby>契約<rt>けいやく</rt></ruby>をかえりみてください。<ruby>地<rt>ち</rt></ruby>の<ruby>暗<rt>くら</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>は<ruby>暴力<rt>ぼうりょく</rt></ruby>のすまいで<ruby>満<rt>み</rt></ruby>ちています。",
+      "spa": "<span class=\"line\">Considera el convenio,</span><span class=\"line\">porque los lugares tenebrosos de la tierra están llenos de habitaciones de violencia.</span>",
+      "por": "Atenta ao <span class=\"clarity-word\">teu</span> convênio, pois os lugares tenebrosos da terra estão cheios de moradas de crueldade.",
+      "fra": "Prête attention àl’alliance ! Car les lieux sombres du pays sont pleins de repaires de brigands.",
+      "deu": "<span class=\"line\">Blick hin auf den Bund! denn angefüllt sind</span><span class=\"line\">die Verstecke des Landes mit Stätten der Gewalttat.</span>",
+      "kor": "그 언약을 눈여겨 보소서 무릇 땅의 어두운 곳에 포악한 자의 처소가 가득하나이다",
+      "ita": "Abbi riguardo all’alleanza, poiché i luoghi tenebrosi della terra sono pieni di ricettacoli di violenza."
     },
     "21": {
-      "eng": "<span class=\"verse-number\">21 </span>O let not the oppressed return ashamed: let the poor and needy praise thy name.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØ§ ØªÙØ¯ÙØ¹Ù Ø§ÙÙÙÙÙÙØ³ÙØ­ÙÙÙ ÙÙØ±ÙØ¬ÙØ¹Ù Ø¨ÙØ§ÙÙØ®ÙØ²ÙÙÙØ Ø¨ÙÙÙ ÙÙÙÙØ³ÙØ¨ÙÙØ­Ù Ø§Ø³ÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙØ±Ù ÙÙØ§ÙÙØ¨ÙØ§Ø¦ÙØ³Ù.",
-      "jpn": "<span class=\"verse-number\">21</span> ããããããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>æ¥</rb><rt>ã¯</rt></ruby>ããããªãã§ãã ããã<ruby><rb>è²§</rb><rt>ã¾ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¨<ruby><rb>ä¹</rb><rt>ã¨ã¼</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¨ã«ã¿<ruby><rb>å</rb><rt>ãª</rt></ruby>ãã»ããããããã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">21 </span><span class=\"line\">No vuelva avergonzado el abatido;</span><span class=\"line\">alaben el afligido y el menesteroso tu nombre.</span>",
-      "por": "<span class=\"verse-number\">21</span> Oh, nÃ£o volte envergonhado o oprimido; louvem o teu nome o aflito e o necessitado.",
-      "fra": "<span class=\"verse-number\">21</span> Que lâopprimÃ© ne retourne pas dans lâhumiliationÂ ! Que le malheureux et le pauvre cÃ©lÃ¨brent ton nomÂ !",
-      "deu": "<span class=\"verse-number\">21Â </span><span class=\"line\">LaÃ den BedrÃ¤ngten nicht enttÃ¤uscht davongehn,</span><span class=\"line\">der Arme und BedrÃ¼ckte mÃ¼sse deinen Namen rÃ¼hmen!</span>",
-      "kor": "<span class=\"verse-number\">21</span> íë ë°ì ìê° ë¶ëë¬ì´ ëìê°ê² íì§ ë§ìê³  ê°ëí ìì ê¶íí ìê° ì£¼ì ì´ë¦ì ì°¬ì¡íê² íìì",
-      "ita": "<span class=\"verse-number\">21</span> Lâoppresso non se ne torni svergognato; faâ che il misero e il bisognoso lodino il tuo nome."
+      "eng": "O let not the oppressed return ashamed: let the poor and needy praise thy name.",
+      "ara": "لَا تَدَعِ الْمُنْسَحِقَ يَرْجِعُ بِالْخِزْيِ، بَلْ لِيُسَبِّحِ اسْمَكَ الْفَقِيرُ وَالْبَائِسُ.",
+      "jpn": "しえたげられる<ruby>者<rt>もの</rt></ruby>を<ruby>恥<rt>は</rt></ruby>じさせないでください。<ruby>貧<rt>まず</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>と<ruby>乏<rt>とぼ</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>とにみ<ruby>名<rt>な</rt></ruby>をほめたたえさせてください。",
+      "spa": "<span class=\"line\">No vuelva avergonzado el abatido;</span><span class=\"line\">alaben el afligido y el menesteroso tu nombre.</span>",
+      "por": "Oh, não volte envergonhado o oprimido; louvem o teu nome o aflito e o necessitado.",
+      "fra": "Que l’opprimé ne retourne pas dans l’humiliation ! Que le malheureux et le pauvre célèbrent ton nom !",
+      "deu": "<span class=\"line\">Laß den Bedrängten nicht enttäuscht davongehn,</span><span class=\"line\">der Arme und Bedrückte müsse deinen Namen rühmen!</span>",
+      "kor": "학대 받은 자가 부끄러이 돌아가게 하지 마시고 가난한 자와 궁핍한 자가 주의 이름을 찬송하게 하소서",
+      "ita": "L’oppresso non se ne torni svergognato; fa’ che il misero e il bisognoso lodino il tuo nome."
     },
     "22": {
-      "eng": "<span class=\"verse-number\">22 </span>Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙÙÙ ÙÙØ§ Ø§ÙÙÙÙ°ÙÙ ÙÙØ¯ÙØ§ÙÙØ¹Ù Ø¹ÙÙÙ Ø¯ÙØ¹ÙÙÙØ§ÙÙ. Ø§Ø°ÙÙÙØ±Ù ÙÙÙÙÙÙ ÙÙØ¹ÙÙÙÙØ±ÙÙÙ Ø§ÙÙØ¬ÙØ§ÙÙÙÙ Ø·ÙÙÙÙ Ø§ÙÙÙÙÙÙØ§Ø±Ù.",
-      "jpn": "<span class=\"verse-number\">22</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãã<ruby><rb>èµ·</rb><rt>ã</rt></ruby>ãã¦ããªãã®<ruby><rb>è¨´</rb><rt>ãã£ã</rt></ruby>ããããã¤ããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ã²ã­ããããªããããããã®ãã¿ãããã«ã¨ãã¦ãã ããã",
-      "spa": "<span class=\"verse-number\">22 </span><span class=\"line\">LevÃ¡ntate, oh Dios; aboga tu causa;</span><span class=\"line\">acuÃ©rdate de cÃ³mo el insensato te injuria todo el dÃ­a.</span>",
-      "por": "<span class=\"verse-number\">22</span> Levanta-te, Ã³ Deus, pleiteia a tua prÃ³pria causa; lembra-te da afronta que o louco te faz cada dia.",
-      "fra": "<span class=\"verse-number\">22</span> LÃ¨ve-toi, Ã´ DieuÂ ! dÃ©fends ta causeÂ ! Souviens-toi des outrages que te fait chaque jour lâinsensÃ©Â !",
-      "deu": "<span class=\"verse-number\">22Â </span><span class=\"line\">Steh auf, Gott, verficht deine Sache!</span><span class=\"line\">gedenke der Schmach, die dich trifft von den Ruchlosen Tag fÃ¼r Tag!</span>",
-      "kor": "<span class=\"verse-number\">22</span> íëëì´ì¬ ì¼ì´ë ì£¼ì ìíµí¨ì í¸ìê³  ì°ë§¤í ìê° ì¢ì¼ ì£¼ë¥¼ ë¹ë°©íë ê²ì ê¸°ìµíìì",
-      "ita": "<span class=\"verse-number\">22</span> Alzati, o Dio, perora la tua causa! Ricordati dellâoltraggio che ti Ã¨ fatto continuamente dallo stolto."
+      "eng": "Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily.",
+      "ara": "قُمْ يَا اللّٰهُ وَدَافِعْ عَنْ دَعْوَاكَ. اذْكُرْ كَيْفَ يُعَيِّرُكَ الْجَاهِلُ طُولَ النَّهَارِ.",
+      "jpn": "<ruby>神<rt>かみ</rt></ruby>よ、<ruby>起<rt>お</rt></ruby>きてあなたの<ruby>訴<rt>うった</rt></ruby>えをあげつらい、<ruby>愚<rt>おろ</rt></ruby>かな<ruby>者<rt>もの</rt></ruby>のひねもすあなたをあざけるのをみこころにとめてください。",
+      "spa": "<span class=\"line\">Levántate, oh Dios; aboga tu causa;</span><span class=\"line\">acuérdate de cómo el insensato te injuria todo el día.</span>",
+      "por": "Levanta-te, ó Deus, pleiteia a tua própria causa; lembra-te da afronta que o louco te faz cada dia.",
+      "fra": "Lève-toi, ô Dieu ! défends ta cause ! Souviens-toi des outrages que te fait chaque jour l’insensé !",
+      "deu": "<span class=\"line\">Steh auf, Gott, verficht deine Sache!</span><span class=\"line\">gedenke der Schmach, die dich trifft von den Ruchlosen Tag für Tag!</span>",
+      "kor": "하나님이여 일어나 주의 원통함을 푸시고 우매한 자가 종일 주를 비방하는 것을 기억하소서",
+      "ita": "Alzati, o Dio, perora la tua causa! Ricordati dell’oltraggio che ti è fatto continuamente dallo stolto."
     },
     "23": {
-      "eng": "<span class=\"verse-number\">23 </span>Forget not the voice of thine enemies: the tumult of those that rise up against thee increaseth continually.",
-      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙØ§ ØªÙÙÙØ³Ù Ø£ÙØµÙÙÙØ§ØªÙ Ø®ÙØµÙÙÙÙÙÙØ ÙÙØ¥ÙÙÙÙ Ø¶ÙØ¬ÙÙØ¬Ù Ø§ÙØ«ÙÙØ§Ø¦ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙÙÙÙ ÙÙØªÙØµÙØ§Ø¹ÙØ¯Ù Ø¯ÙØ§Ø¦ÙÙØ§Ù.",
-      "jpn": "<span class=\"verse-number\">23</span> ããªãã®ãã ã®<ruby><rb>å«</rb><rt>ãã</rt></ruby>ã³ã<ruby><rb>å¿</rb><rt>ãã</rt></ruby>ããªãã§ãã ãããããªãã®<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ã®<ruby><rb>çµ¶</rb><rt>ã</rt></ruby>ããããã<ruby><rb>é¨</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å¿</rb><rt>ãã</rt></ruby>ããªãã§ãã ããã",
-      "spa": "<span class=\"verse-number\">23 </span><span class=\"line\">No olvides las voces de tus enemigos;</span><span class=\"line\">el alboroto de los que se levantan contra ti sube continuamente.</span>",
-      "por": "<span class=\"verse-number\">23</span> NÃ£o te esqueÃ§as dos gritos dos teus inimigos; o tumulto daqueles que se levantam contra ti aumenta continuamente.",
-      "fra": "<span class=\"verse-number\">23</span> Nâoublie pas les clameurs de tes adversaires, Le tumulte sans cesse croissant de ceux qui sâÃ©lÃ¨vent contre toiÂ !",
-      "deu": "<span class=\"verse-number\">23Â </span><span class=\"line\">VergiÃ nicht das Geschrei (oder: laute SchmÃ¤hen) deiner Feinde,</span><span class=\"line\">das Toben deiner Gegner, das allzeit aufsteigt!</span>",
-      "kor": "<span class=\"verse-number\">23</span> ì£¼ì ëì ë¤ì ìë¦¬ë¥¼ ìì§ ë§ìì ì¼ì´ë ì£¼ê» í­ê±°íë ìì ë ëë ìë¦¬ê° í­ì ì£¼ê» ìë¬ëëì´ë¤",
-      "ita": "<span class=\"verse-number\">23</span> Non dimenticare il grido dei tuoi nemici, lo strepito incessante di quelli che si levano contro di te."
+      "eng": "Forget not the voice of thine enemies: the tumult of those that rise up against thee increaseth continually.",
+      "ara": "لَا تَنْسَ أَصْوَاتَ خُصُومِكَ، فَإِنَّ ضَجِيجَ الثَّائِرِينَ عَلَيْكَ يَتَصَاعَدُ دَائِماً.",
+      "jpn": "あなたのあだの<ruby>叫<rt>さけ</rt></ruby>びを<ruby>忘<rt>わす</rt></ruby>れないでください。あなたの<ruby>敵<rt>てき</rt></ruby>の<ruby>絶<rt>た</rt></ruby>えずあげる<ruby>騒<rt>さわ</rt></ruby>ぎを<ruby>忘<rt>わす</rt></ruby>れないでください。",
+      "spa": "<span class=\"line\">No olvides las voces de tus enemigos;</span><span class=\"line\">el alboroto de los que se levantan contra ti sube continuamente.</span>",
+      "por": "Não te esqueças dos gritos dos teus inimigos; o tumulto daqueles que se levantam contra ti aumenta continuamente.",
+      "fra": "N’oublie pas les clameurs de tes adversaires, Le tumulte sans cesse croissant de ceux qui s’élèvent contre toi !",
+      "deu": "<span class=\"line\">Vergiß nicht das Geschrei (oder: laute Schmähen) deiner Feinde,</span><span class=\"line\">das Toben deiner Gegner, das allzeit aufsteigt!</span>",
+      "kor": "주의 대적들의 소리를 잊지 마소서 일어나 주께 항거하는 자의 떠드는 소리가 항상 주께 상달되나이다",
+      "ita": "Non dimenticare il grido dei tuoi nemici, lo strepito incessante di quelli che si levano contro di te."
     }
   }
 }
