@@ -1402,18 +1402,17 @@
 
   async function fetchVerseText(lang, vol, book, ch, verse) {
     const normalizedVol = (vol === 'bofm') ? 'bom' : vol;
-    const cacheKey = ${normalizedVol}//;
+    const cacheKey = `${normalizedVol}/${book}/${ch}`;
 
     let chapterData = chapterCache.get(cacheKey);
     if (!chapterData) {
       try {
-        let res = await fetch(data///.json);
+        let res = await fetch(`data/${normalizedVol}/${book}/${ch}.json`);
         if (!res.ok) {
-          res = await fetch(
-aw_cache////.json);
+          res = await fetch(`raw_cache/${lang}/${normalizedVol}/${book}/${ch}.json`);
         }
         if (!res.ok) {
-          res = await fetch(data/scriptures///.json);
+          res = await fetch(`data/scriptures/${normalizedVol}/${book}/${ch}.json`);
         }
         if (res.ok) {
           chapterData = await res.json();
@@ -1899,7 +1898,7 @@ aw_cache////.json);
 
     const sourceRef = stage.querySelector('.flashcard-source-ref');
     const counter = stage.querySelector('.flashcard-counter');
-    const layout = stage.querySelector('.flashcard-body-layout');
+    layout = stage.querySelector('.flashcard-body-layout');
     const promptWord = stage.querySelector('.flashcard-prompt-word');
     const subprompt = stage.querySelector('.flashcard-subprompt');
     const rightCol = stage.querySelector('.flashcard-right-col');
