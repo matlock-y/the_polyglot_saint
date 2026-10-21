@@ -857,7 +857,7 @@
 
   function initAuth() {
     const authBtn = document.querySelector('.btn-google-auth');
-    if (!authBtn || typeof supabase === 'undefined') return;
+    if (!authBtn) return;
 
     const btnText = authBtn.querySelector('.auth-btn-text') || authBtn.querySelector('span');
 
@@ -877,6 +877,15 @@
         renderUnauthenticatedFlashcardsState();
       }
     };
+
+    if (typeof supabase === 'undefined') {
+      console.warn('Supabase client not loaded. Running in unauthenticated mode.');
+      updateUI(null);
+      authBtn.addEventListener('click', () => {
+        alert('Supabase authentication client is loading or blocked by an ad-blocker. Please check your connection.');
+      });
+      return;
+    }
 
     // Check initial session
     supabase.auth.getSession().then(({ data: { session } }) => {
@@ -1447,10 +1456,7 @@
 
     if (isDueTodaySelected()) {
       const now = new Date();
-      if (isUserSet) {
-        return baseCards.filter(card => !card.next_review_date || new Date(card.next_review_date) <= now);
-      }
-      return [...baseCards];
+      return baseCards.filter(card => !card.next_review_date || new Date(card.next_review_date) <= now);
     }
 
     return baseCards.filter(card => {
@@ -1784,12 +1790,8 @@
     const now = new Date();
     let filtered;
     if (isDueTodaySelected()) {
-      // Due Today mode: ONLY cards currently due (for user cards)
-      if (isUserSet) {
-        filtered = baseCards.filter(card => !card.next_review_date || new Date(card.next_review_date) <= now);
-      } else {
-        filtered = [...baseCards];
-      }
+      // Due Today mode: ONLY cards currently due
+      filtered = baseCards.filter(card => !card.next_review_date || new Date(card.next_review_date) <= now);
     } else {
       // Running specific chapter deck(s)
       filtered = baseCards.filter(card => {
@@ -3031,12 +3033,35 @@
   };
 
   document.addEventListener('DOMContentLoaded', () => {
-    renderHeaderLanguages();
-    initLanguagePicker();
-    initFlashcards();
-    initAuth();
-    initSearch();
-    fetchCorpusData();
+    // 1. Header language display & dropdown picker
+    try {
+      renderHeaderLanguages();
+      initLanguagePicker();
+    } catch (e) {
+      console.error('Error initializing languages:', e);
+    }
+
+    // 2. Core Library Data (Scriptures & General Conference) & Search
+    try {
+      fetchCorpusData();
+      initSearch();
+    } catch (e) {
+      console.error('Error initializing corpus data:', e);
+    }
+
+    // 3. Supabase Authentication
+    try {
+      initAuth();
+    } catch (e) {
+      console.error('Error initializing auth:', e);
+    }
+
+    // 4. Flashcards Workspace & Review
+    try {
+      initFlashcards();
+    } catch (e) {
+      console.error('Error initializing flashcards:', e);
+    }
   });
 
 })();

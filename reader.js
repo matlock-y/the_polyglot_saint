@@ -763,9 +763,18 @@
 
   function initAuth() {
     const authBtn = document.querySelector('.btn-google-auth');
-    if (!authBtn || typeof supabase === 'undefined') return;
+    if (!authBtn) return;
 
     const btnText = authBtn.querySelector('.auth-btn-text') || authBtn.querySelector('span');
+
+    if (typeof supabase === 'undefined') {
+      currentAuthSession = null;
+      updateCardsBadgeCount();
+      authBtn.addEventListener('click', () => {
+        alert('Supabase authentication client is loading or blocked. Please check your connection.');
+      });
+      return;
+    }
 
     const updateUI = (session) => {
       currentAuthSession = session;
