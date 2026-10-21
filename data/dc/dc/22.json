@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "volume": "dc",
+    "book": "dc",
+    "chapter": 22,
+    "headings": {
+      "eng": "1, Baptism is a new and everlasting covenant; 2â4, Authoritative baptism is required.",
+      "jpn": "1ãããã¹ãã¯ãä¸ã¤ã®<ruby><rb>æ°</rb><rt>ããã</rt></ruby>ãããã¤<ruby><rb>æ°¸</rb><rt>ãã</rt></ruby><ruby><rb>é </rb><rt>ãã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã</rt></ruby><ruby><rb>ç´</rb><rt>ãã</rt></ruby>ã§ããã2ï¼4<ruby><rb>æ¨©</rb><rt>ãã</rt></ruby><ruby><rb>è½</rb><rt>ã®ã</rt></ruby>ã«ãã£ã¦<ruby><rb>å·</rb><rt>ãã£</rt></ruby><ruby><rb>è¡</rb><rt>ãã</rt></ruby>ããããããã¹ãã<ruby><rb>å¿</rb><rt>ã²ã¤</rt></ruby><ruby><rb>è¦</rb><rt>ãã</rt></ruby>ã¨ãããã",
+      "zhs": "1ï¼æ´ç¤¼æ¯ä¸æ¡æ°æ°¸çº¦ï¼2-4ï¼ææçæ´ç¤¼æ¯å¿è¦çã",
+      "zht": "1ï¼æ´ç¦®æ¯ä¸æ¢æ°æ°¸ç´ï¼2-4ï¼ææ¬çæ´ç¦®æ¯å¿è¦çã",
+      "spa": "1, El bautismo es un convenio nuevo y sempiterno; 2â4, Se requiere el bautismo autorizado.",
+      "por": "1, O batismo Ã© um novo e eterno convÃªnio; 2â4, Requer-se o batismo feito com autoridade.",
+      "fra": "1, Le baptÃªme est une nouvelle alliance Ã©ternelle. 2-4, Le baptÃªme doit Ãªtre fait par quelquâun ayant lâautoritÃ©.",
+      "deu": "1 Die Taufe ist ein neuer und immerwÃ¤hrender Bund; 2-4 Eine bevollmÃ¤chtigte Taufe ist erforderlich.",
+      "kor": "1, ì¹¨ë¡ë ìë¡­ê³ ë ììí ì±ì½ì. 2~4, ê¶ì¸ ìë ìì ì¹¨ë¡ê° ìêµ¬ë¨.",
+      "ita": "1: il battesimo Ã¨ una nuova ed eterna alleanza; 2â4: il battesimo deve essere fatto con lâautoritÃ ."
+    },
+    "intros": {
+      "eng": "Revelation given through Joseph Smith the Prophet, at Manchester, New York, April 16, 1830. This revelation was given to the Church in consequence of some who had previously been baptized desiring to unite with the Church without rebaptism.",
+      "jpn": "åå«ç¾ä¸å<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby>å<ruby><rb>æ</rb><rt>ãã¤</rt></ruby>åå­<ruby><rb>æ¥</rb><rt>ã«ã¡</rt></ruby>ããã¥ã¼ã¨ã¼ã¯<ruby><rb>å·</rb><rt>ããã</rt></ruby>ãã³ãã§ã¹ã¿ã¼ã«ããã¦ã<ruby><rb>é </rb><rt>ã</rt></ruby><ruby><rb>è¨</rb><rt>ãã</rt></ruby><ruby><rb>è</rb><rt>ãã</rt></ruby>ã¸ã§ã»ãã»ã¹ãã¹ã<ruby><rb>é</rb><rt>ã¨ã</rt></ruby>ãã¦<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>å</rb><rt>ãã</rt></ruby><ruby><rb>ç¤º</rb><rt>ã</rt></ruby>ããã®<ruby><rb>å</rb><rt>ãã</rt></ruby><ruby><rb>ç¤º</rb><rt>ã</rt></ruby>ã¯ã<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ãããã¹ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ãããã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã<ruby><rb>å</rb><rt>ãµãã</rt></ruby>ã³ãããã¹ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ãããã¨ãªãã«<ruby><rb>æ</rb><rt>ããã</rt></ruby><ruby><rb>ä¼</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å </rb><rt>ã</rt></ruby><ruby><rb>å¥</rb><rt>ã«ãã</rt></ruby>ãããã¨<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ãã ãã¨ããã<ruby><rb>æ</rb><rt>ããã</rt></ruby><ruby><rb>ä¼</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããããã®ã§ããã",
+      "zhs": "1830å¹´4æ16æ¥ï¼å¨<u>çº½çº¦</u>ï¼<u>æ¼å½»æ¯ç¹</u>ï¼éè¿åç¥<u>çº¦çÂ·æ¯å¯</u>ç»äºçå¯ç¤ºãç»äºæä¼è¿å¯ç¤ºï¼æ¯ç±äºå ä½ä»¥åæ¾åæ´çäººï¼æ³ä¸ååæ´èå å¥æä¼ã",
+      "zht": "1830å¹´4æ16æ¥ï¼å¨<u>ç´ç´</u>ï¼<u>æ¼å¾¹æ¯ç¹</u>ï¼ééåç¥<u>ç´çÂ·æ¯å¯</u>çµ¦äºçåç¤ºãçµ¦äºææéåç¤ºï¼æ¯ç±æ¼å¹¾ä½ä»¥åæ¾åæ´çäººï¼æ³ä¸ååæ´èå å¥ææã",
+      "spa": "RevelaciÃ³n dada por medio de JosÃ© Smith el Profeta en Manchester, Nueva York, el 16 de abril de 1830. Se dio esta revelaciÃ³n a la Iglesia debido a que algunos que previamente se habÃ­an bautizado deseaban unirse a la Iglesia sin bautizarse de nuevo.",
+      "por": "RevelaÃ§Ã£o dada por intermÃ©dio de Joseph Smith, o Profeta, em Manchester, Nova York, em 16 de abril de 1830. Esta revelaÃ§Ã£o foi dada Ã  Igreja por causa de alguns que jÃ¡ haviam sido batizados e desejavam unir-se Ã  Igreja sem novo batismo.",
+      "fra": "RÃ©vÃ©lation donnÃ©e le 16Â avril 1830, par lâintermÃ©diaire de Joseph Smith, le prophÃ¨te, Ã  Manchester (New York). Cette rÃ©vÃ©lation fut donnÃ©e Ã  lâÃglise Ã  la suite du dÃ©sir manifestÃ© par quelques-uns qui avaient Ã©tÃ© baptisÃ©s prÃ©cÃ©demment de sâunir Ã  lâÃglise sans rebaptÃªme.",
+      "deu": "Offenbarung, gegeben durch Joseph Smith, den Propheten, am 16.Â April 1830 zu Manchester, New York. Diese Offenbarung wurde der Kirche gegeben, weil einige, die frÃ¼her schon getauft worden waren, sich ohne abermalige Taufe mit der Kirche zu vereinigen wÃ¼nschten.",
+      "kor": "1830ë 4ì ë´ì ì£¼ ë§¨ì²´ì¤í°ìì ì ì§ì ì¡°ì ì¤ë¯¸ì¤ë¥¼ íµíì¬ ì£¼ì  ê³ì(<em>êµíì¬</em> 1:79~80). ì´ ê³ìê° êµíì ì£¼ì´ì§ ê²ì ì´ì ì ì´ë¯¸ ì¹¨ë¡ ë°ì ì¬ëë¤ì´ ì¬ì¹¨ë¡ ìì´ êµíì ê°ìíê¸° ìí ë° ë°ë¥¸ ê²ì´ë¤.",
+      "ita": "Rivelazione data tramite Joseph Smith, il Profeta, a Manchester, New York, il 16Â aprile 1830. Questa rivelazione fu data alla Chiesa in conseguenza del fatto che alcuni, che erano stati battezzati in precedenza, desideravano unirsi alla Chiesa senza essere ribattezzati."
+    }
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Behold, I say unto you that all old covenants have I caused to be done away in this thing; and this is a new and an everlasting covenant, even that which was from the beginning.",
+      "jpn": "<span class=\"verse-number\">1</span><ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããããã¯ããªãããã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããããã¯ãã®ãã¨ã«ãã£ã¦ããã¹ã¦ã®å¤ã<ruby><rb>è</rb><rt>ãã</rt></ruby><ruby><rb>ç´</rb><rt>ãã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã¯ã</rt></ruby>ãããããã«ãããããã¯ä¸ã¤ã®æ°ãããã¤<ruby><rb>æ°¸</rb><rt>ãã</rt></ruby><ruby><rb>é </rb><rt>ãã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã</rt></ruby><ruby><rb>ç´</rb><rt>ãã</rt></ruby>ãããªãã¡<ruby><rb>å</rb><rt>ã¯ã</rt></ruby>ããããã£ããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">1ã</span>çåï¼æåè¯ä½ ä»¬ï¼åçè¿ä»¶äºï¼ä¸åæ§çå£çº¦æé½åºé¤äºï¼è¿æ¯ä¸æ¡æ°èæ°¸ä¹çå£çº¦ï¼ä»å¤ªåå°±æçã",
+      "zht": "<span class=\"verse-number\">1ã</span>çåï¼æåè¨´ä½ åï¼èèéä»¶äºï¼ä¸åèçèç´æé½å»¢é¤äºï¼éæ¯ä¸æ¢æ°èæ°¸ä¹çèç´ï¼å¾å¤ªåå°±æçã",
+      "spa": "<span class=\"verse-number\">1 </span>He aquÃ­, os digo que he hecho abrogar todos los convenios antiguos con respecto a esto; y este es un convenio nuevo y sempiterno, el mismo que fue desde el principio.",
+      "por": "<span class=\"verse-number\">1 </span>Eis que vos digo que todos os convÃªnios antigos fiz eu com que neste fossem invalidados; e este Ã© um novo e eterno convÃªnio, que era desde o princÃ­pio.",
+      "fra": "<span class=\"verse-number\">1Â </span>Voici, je vous dis que jâai fait abolir toutes les anciennes alliances dans ce domaineÂ ; et ceci est une nouvelle alliance Ã©ternelle, celle-lÃ  mÃªme qui fut dÃ¨s le commencement.",
+      "deu": "<span class=\"verse-number\">1Â </span>Siehe, ich sage euch: Ich habe alle alten BÃ¼ndnisse in dieser Hinsicht vergehen lassen; und dies ist ein neuer und ein immerwÃ¤hrender Bund, nÃ¤mlich jener, der von Anfang an war.",
+      "kor": "<span class=\"verse-number\">1 </span>ë³´ë¼, ë´ê° ëí¬ìê² ì´ë¥´ë¸ë, ì´ ì¼ì ìì´ì ëª¨ë  ì ì±ì½ì ë´ê° ííê² íìëëë¼. ê·¸ë¦¬ê³  ì´ê²ì ìë¡­ê³ ë ììí ì±ì½ì´ë, ê³§ íì´ë¶í° ìë ê²ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">1 </span>Ecco, io vi dico che ho fatto sÃ¬ che tutte le antiche alleanze siano abolite in questa; e questa Ã¨ una nuova ed eterna alleanza, sÃ¬, quella che esisteva fin dal principio."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>Wherefore, although a man should be baptized an hundred times it availeth him nothing, for you cannot enter in at the strait gate by the law of Moses, neither by your dead works.",
+      "jpn": "<span class=\"verse-number\">2</span>ããããããã¨ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãç¾<ruby><rb>åº¦</rb><rt>ã©</rt></ruby>ãããã¹ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¨ãã¦ããããã¯ãã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã«ã¨ã£ã¦<ruby><rb>ä½</rb><rt>ãªã</rt></ruby>ã®<ruby><rb>å½¹</rb><rt>ãã</rt></ruby>ã«ã<ruby><rb>ç«</rb><rt>ã</rt></ruby>ããªããããªãããã¯ã¢ã¼ã»ã®å¾æ³ã«ãã£ã¦ããããªãããã®æ­»ãã è¡ãã«ãã£ã¦ãã<ruby><rb>ç­</rb><rt>ãã¾</rt></ruby>ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å¥</rb><rt>ã¯ã</rt></ruby>ããã¨ã¯ã§ããªãããã§ããã",
+      "zhs": "<span class=\"verse-number\">2ã</span>å æ­¤ï¼å³ä½¿ä¸ä¸ªäººåæ´ä¸ç¾æ¬¡ï¼å¯¹ä»ä¹æ¯«æ ç¨å¤ï¼å ä¸ºä½ ä»¬æ¢ä¸è½é æ©è¥¿å¾æ³ä¹ä¸è½é æ­»çè¡ä¸ºè¿å¥çªé¨ã",
+      "zht": "<span class=\"verse-number\">2ã</span>å æ­¤ï¼å³ä½¿ä¸åäººåæ´ä¸ç¾æ¬¡ï¼å°ä»ä¹æ¯«ç¡ç¨èï¼å çºä½ åæ¢ä¸è½é æ©è¥¿å¾æ³ä¹ä¸è½é æ­»çè¡çºé²å¥çªéã",
+      "spa": "<span class=\"verse-number\">2 </span>Por consiguiente, aunque un hombre se bautice cien veces, de nada le aprovecha, porque no podÃ©is entrar por la puerta estrecha por la ley de MoisÃ©s, ni tampoco por vuestras obras muertas.",
+      "por": "<span class=\"verse-number\">2 </span>Portanto, embora seja um homem batizado cem vezes, de nada lhe aproveita, pois nÃ£o podeis entrar pela porta estreita por meio da lei de MoisÃ©s nem por vossas obras mortas.",
+      "fra": "<span class=\"verse-number\">2Â </span>Câest pourquoi, un homme fÃ»t-il baptisÃ© cent fois, cela ne lui sert Ã  rien, car vous ne pouvez pas entrer par la porte Ã©troite par la loi de MoÃ¯se ni par vos Åuvres mortes.",
+      "deu": "<span class=\"verse-number\">2Â </span>Darum, wenn jemand auch hundertmal getauft worden sein sollte, so nÃ¼tzt es ihm nichts, denn ihr kÃ¶nnt weder durch das Gesetz des Mose noch durch eure toten Werke durch die enge Pforte eintreten.",
+      "kor": "<span class=\"verse-number\">2 </span>ê·¸ë°ì¦ ì¬ëì´ ì¼ë°± ë² ì¹¨ë¡ ë°ëë¤ í ì§ë¼ë ê·¸ìê² ìë¬´ë° í¨ë ¥ì´ ìëë, ì´ë ëí¬ê° ëª¨ì¸ì ì¨ë²ì¼ë¡ì¨ë ëí¬ ì£½ì íì¤ë¡ì¨ë ì¢ì ë¬¸ì¼ë¡ ë¤ì´ ê° ì ììì´ëë¼.",
+      "ita": "<span class=\"verse-number\">2 </span>Pertanto, anche se un uomo fosse stato battezzato cento volte, ciÃ² non gli serve a nulla, poichÃ© non potete entrare per la porta stretta mediante la legge di MosÃ¨, nÃ© mediante le vostre opere morte."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>For it is because of your dead works that I have caused this last covenant and this church to be built up unto me, even as in days of old.",
+      "jpn": "<span class=\"verse-number\">3</span>ããããã<ruby><rb>æ</rb><rt>ããã</rt></ruby>ã«<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã£ãããã«ãããã®ããã«ãã®<ruby><rb>æ</rb><rt>ãã</rt></ruby><ruby><rb>å¾</rb><rt>ã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã</rt></ruby><ruby><rb>ç´</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¦ããããã®<ruby><rb>æ</rb><rt>ããã</rt></ruby><ruby><rb>ä¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ããããã®ã¯ãããªãããã®<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãã <ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãã®ããã§ããã",
+      "zhs": "<span class=\"verse-number\">3ã</span>å°±æ¯ç±äºä½ ä»¬æ­»çè¡ä¸ºï¼ææä½¿è¿æåçå£çº¦åè¿æä¼åå¤ä»£é£æ ·ä¸ºæå»ºç«èµ·æ¥ã",
+      "zht": "<span class=\"verse-number\">3ã</span>å°±æ¯ç±æ¼ä½ åæ­»çè¡çºï¼ææä½¿éæå¾çèç´åéææåå¤ä»£é£æ¨£çºæå»ºç«èµ·ä¾ã",
+      "spa": "<span class=\"verse-number\">3 </span>Porque es a causa de vuestras obras muertas que yo he hecho que se establezcan para mÃ­ este Ãºltimo convenio y esta iglesia, tal como en la antigÃ¼edad.",
+      "por": "<span class=\"verse-number\">3 </span>Pois foi por causa de vossas obras mortas que fiz com que este Ãºltimo convÃªnio e esta igreja me fossem edificados, como nos dias antigos.",
+      "fra": "<span class=\"verse-number\">3Â </span>Car câest Ã  cause de vos Åuvres mortes que je me suis fait Ã©difier cette derniÃ¨re alliance et lâÃglise, comme dans les temps anciens.",
+      "deu": "<span class=\"verse-number\">3Â </span>Denn wegen eurer toten Werke habe ich diesen letzten Bund und diese Kirche fÃ¼r mich aufrichten lassen, ja, wie in alten Tagen.",
+      "kor": "<span class=\"verse-number\">3 </span>ë¬´ë¦ ë´ê° ì´ ë§ì§ë§ ì±ì½ê³¼ ì´ êµíê° ì¤ë¡ ìë ê³¼ ê°ì´ ëë¥¼ ìíì¬ ì¸ìì§ê² í ê²ì ëí¬ì ì£½ì íì¤ ê¹ë­ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">3 </span>PoichÃ© Ã¨ a causa delle vostre opere morte che ho fatto sÃ¬ che questa ultima alleanza e questa chiesa mi fossero edificate, proprio come nei tempi antichi."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>Wherefore, enter ye in at the gate, as I have commanded, and seek not to counsel your God. Amen.",
+      "jpn": "<span class=\"verse-number\">4</span>ããããããããã<ruby><rb>å½</rb><rt>ãã</rt></ruby>ããããã«éãã<ruby><rb>å¥</rb><rt>ã¯ã</rt></ruby>ããªãããããã¦ãããªãããã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«å¿ åãããã¨ãã¦ã¯ãªããªããã¢ã¼ã¡ã³ã",
+      "zhs": "<span class=\"verse-number\">4ã</span>å æ­¤ï¼ç§æçå½ä»¤è¿å¥é£æé¨ï¼ä¸è¦è¯å¾ååä½ ä»¬çç¥ãé¿ä»¬ã",
+      "zht": "<span class=\"verse-number\">4ã</span>å æ­¤ï¼ç§æçå½ä»¤é²å¥é£æéï¼ä¸è¦è©¦åå¸åä½ åçç¥ãé¿åã",
+      "spa": "<span class=\"verse-number\">4 </span>Por tanto, entrad por la puerta como yo he mandado, y no pretendÃ¡is aconsejar a vuestro Dios. AmÃ©n.",
+      "por": "<span class=\"verse-number\">4 </span>Portanto, entrai pela porta, como ordenei, e nÃ£o procureis aconselhar a vosso Deus. AmÃ©m.",
+      "fra": "<span class=\"verse-number\">4Â </span>Câest pourquoi, entrez par la porte, comme je lâai commandÃ©, et ne cherchez pas Ã  conseiller votre Dieu. Amen.",
+      "deu": "<span class=\"verse-number\">4Â </span>Darum tretet durch die Pforte ein, wie ich geboten habe, und trachtet nicht, eurem Gott Rat zu erteilen. Amen.",
+      "kor": "<span class=\"verse-number\">4 </span>ê·¸ë°ì¦ ëí¬ë ë´ê° ëªí ëë¡ ê·¸ ë¬¸ì¼ë¡ ë¤ì´ê°ê³  ëí¬ íëëì ê¶ê³ íë ¤ íì§ ë§ë¼. ìë©.",
+      "ita": "<span class=\"verse-number\">4 </span>Entrate dunque per la porta come ho comandato, e non cercate di consigliare il vostro Dio. Amen."
+    }
+  }
+}

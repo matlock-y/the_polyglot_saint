@@ -1,0 +1,514 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "ex",
+    "chapter": 36,
+    "headings": {
+      "eng": "Wise-hearted men are chosen to work on the tabernacleâMoses restrains the people from donating any more material.",
+      "zhs": "å¿éææºæ§çäººèæ£éå¶ä½å¸å¹ââ<u>æ©è¥¿</u>å¶æ­¢äººæ°æèµ æ´å¤ç©åã",
+      "zht": "å¿è£¡ææºæ§çäººèæé¸è£½ä½å¸³å¹ââ<u>æ©è¥¿</u>å¶æ­¢äººæ°æè´æ´å¤ç©åã",
+      "spa": "Se escoge a hombres sabios de corazÃ³n para la obra del tabernÃ¡culoÂ â MoisÃ©s pide al pueblo que deje de donar mÃ¡s materiales.",
+      "por": "Escolhem-se homens sÃ¡bios de coraÃ§Ã£o para trabalhar no tabernÃ¡culoÂ â MoisÃ©s pede ao povo que nÃ£o doe mais materiais.",
+      "fra": "Des hommes habiles sont choisis pour travailler sur la tente. MoÃ¯se empÃªche le peuple de donner dâautres objets.",
+      "deu": "FÃ¼r die Arbeit an der WohnstÃ¤tte werden kunstsinnige MÃ¤nner ausgewÃ¤hltÂ â Mose hÃ¤lt das Volk davon ab, noch mehr zu spenden.",
+      "ita": "Vengono scelti uomini abili per lavorare al tabernacoloÂ â MosÃ¨ impedisce che il popolo doni altro materiale."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> had commanded.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙÙÙÙÙØ°ÙØ§ ÙÙÙÙÙÙÙ Ø¨ÙØµÙÙÙØ¦ÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙÙÙØ¢Ø¨Ù ÙÙÙÙÙÙÙ ØµÙØ§ÙÙØ¹Ù Ø­ÙØ§Ø°ÙÙÙ ÙÙÙÙØ¨ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙØ¯ÙØ±ÙØ©Ù ÙÙÙ ØªÙÙÙÙÙÙØ°Ù Ø¨ÙÙÙØ§Ø¡Ù Ø®ÙÙÙÙÙØ©Ù Ø§ÙÙØ§ÙØ¬ÙØªÙÙÙØ§Ø¹ÙØ Ø¨ÙØ¥ÙÙÙØ¬ÙØ§Ø²Ù Ø§ÙÙØ¹ÙÙÙÙÙØ Ø¨ÙØ­ÙØ³ÙØ¨Ù ÙÙÙÙÙ ÙÙØ§ Ø£ÙÙÙØ±Ù Ø¨ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ.",
+      "jpn": "<span class=\"verse-number\">1</span> ãã¶ã¬ã«ã¨ã¢ããªã¢ãããã³ãã¹ã¦<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããªãã¡<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ã¨<ruby><rb>æ</rb><rt>ãã¨</rt></ruby>ãã¨ã<ruby><rb>æ</rb><rt>ãã¥</rt></ruby>ãã¦ã<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>çµç«</rb><rt>ãã¿ã</rt></ruby>ã¦ã®<ruby><rb>è«¸ç¨®</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>å·¥äº</rb><rt>ããã</rt></ruby>ããããã«ãªããã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ããããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ããã¹ã¦<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>å½</rb><rt>ãã</rt></ruby>ããããããã«ããªããã°ãªããªããã",
+      "zhs": "<span class=\"verse-number\">1ã</span><u>æ¯æå</u>å<u>äºä½å©äºä¼¯</u>å¹¶ä¸åå¿éææºæ§çï¼å°±æ¯èè¶ååèµæºæ§èªæï¼å«ä»ç¥éåå£æåæ ·ä½¿ç¨ä¹å·¥çï¼é½è¦ç§è¶ååæå©åçåå·¥ã",
+      "zht": "<span class=\"verse-number\">1ã</span><u>æ¯æå</u>å<u>äºä½å©äºä¼¯</u>ä¸¦ä¸åå¿è£¡ææºæ§çï¼å°±æ¯èè¶åè¯è³æºæ§è°æï¼å«ä»ç¥éåèæåæ¨£ä½¿ç¨ä¹å·¥çï¼é½è¦ç§è¶åè¯æå©åçåå·¥ã",
+      "spa": "<span class=\"verse-number\">1 </span>Hicieron, pues, Bezaleel y Aholiab, y todo hombre sabio de corazÃ³n a quien JehovÃ¡ dio sabidurÃ­a e inteligencia para saber hacer toda la obra del servicio del santuario, todas las cosas que habÃ­a mandado JehovÃ¡.",
+      "por": "<span class=\"verse-number\">1</span> Assim, trabalharam Bezalel e Aoliabe, e todo homem sÃ¡bio de coraÃ§Ã£o, a quem o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> dera sabedoria e inteligÃªncia, para saber como haviam de fazer toda obra para o serviÃ§o do santuÃ¡rio, conforme tudo o que o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> tinha ordenado.",
+      "fra": "<span class=\"verse-number\">1</span> Betsaleel, Oholiab et tous les hommes habiles, en qui lâÃternel avait mis de la sagesse et de lâintelligence pour savoir faire ces travaux, exÃ©cutÃ¨rent les ouvrages destinÃ©s au service du sanctuaire, selon tout ce que lâÃternel avait ordonnÃ©.",
+      "deu": "<span class=\"verse-number\">1Â </span>So werden denn Bezalel und Oholiab und alle kunstverstÃ¤ndigen MÃ¤nner, denen der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> Kunstsinn und Einsicht verliehen hat, sodass sie sich auf die AusfÃ¼hrung aller fÃ¼r das Heiligtum erforderlichen Arbeiten verstehen, alles nach den Anordnungen des <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> ausfÃ¼hren.â",
+      "kor": "<span class=\"verse-number\">1</span> ë¸ì´ë ê³¼ ì¤íë¦¬ìê³¼ ë° ë§ìì´ ì§íë¡ì´ ì¬ë ê³§ ì¬í¸ìê»ì ì§íì ì´ëªì ë¶ì¼ì¬ ì±ìì ì¸ ëª¨ë  ì¼ì í  ì¤ ìê² íì  ìë¤ì ëª¨ë ì¬í¸ìê»ì ëªë ¹íì  ëë¡ í  ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">1</span> E Bezaleel e Oholiab e tutti gli uomini abili, ai quali lâEterno ha dato abilitÃ  e intendimento per saper eseguire tutti i lavori per il servizio del santuario, faranno ogni cosa secondo quanto lâEterno ha ordinatoâ."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>And Moses called Bezaleel and Aholiab, and every wise hearted man, in whose heart the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> had put wisdom, <span class=\"clarity-word\">even</span> every one whose heart stirred him up to come unto the work to do it:",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø«ÙÙÙÙ Ø§Ø³ÙØªÙØ¯ÙØ¹ÙÙ ÙÙÙØ³ÙÙ Ø¨ÙØµÙÙÙØ¦ÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙÙØ¢Ø¨Ù ÙÙÙÙÙÙÙ ØµÙØ§ÙÙØ¹Ù ÙÙØ§ÙÙØ±Ù ÙÙÙÙØ¨ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø­ÙØ°ÙØ§ÙÙØ©ÙØ ÙÙÙÙÙÙÙ ÙÙÙÙ Ø­ÙØ«ÙÙÙÙ ÙÙÙÙØ¨ÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØ³ÙØ§ÙÙÙÙØ©Ù ÙÙÙ Ø¥ÙÙÙØ¬ÙØ§Ø²Ù Ø¹ÙÙÙÙÙ ÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">2</span> ããã§ãã¢ã¼ã»ã¯ãã¶ã¬ã«ã¨ã¢ããªã¢ãããã³ãã¹ã¦<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããªãã¡ããã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã¥</rt></ruby>ãããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãã¾ããã¦ããã®<ruby><rb>å·¥äº</rb><rt>ããã</rt></ruby>ããªããã¨<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã«<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ããã¹ã¦ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å¬</rb><rt>ã</rt></ruby>ã<ruby><rb>å¯</rb><rt>ã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">2ã</span>å¡è¶ååèµä»å¿éææºæ§ï¼èä¸åæåæ¥åè¿å·¥çï¼<u>æ©è¥¿</u>æä»ä»¬å<u>æ¯æå</u>å¹¶<u>äºä½å©äºä¼¯</u>ä¸åå¬æ¥ã",
+      "zht": "<span class=\"verse-number\">2ã</span>å¡è¶åè¯è³ä»å¿è£¡ææºæ§ï¼èä¸åæåä¾åéå·¥çï¼<u>æ©è¥¿</u>æä»åå<u>æ¯æå</u>ä¸¦<u>äºä½å©äºä¼¯</u>ä¸åå¬ä¾ã",
+      "spa": "<span class=\"verse-number\">2 </span>Y MoisÃ©s llamÃ³ a Bezaleel, y a Aholiab y a todo hombre sabio de corazÃ³n, en cuyo corazÃ³n habÃ­a dado JehovÃ¡ sabidurÃ­a, y a todo hombre a quien su corazÃ³n le moviÃ³ a venir a la obra para trabajar en ella;",
+      "por": "<span class=\"verse-number\">2</span> EntÃ£o MoisÃ©s chamou Bezalel e Aoliabe, e todo homem sÃ¡bio de coraÃ§Ã£o, cujo coraÃ§Ã£o o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> dotou de sabedoria; todo aquele a quem o seu coraÃ§Ã£o movera a se chegar Ã  obra, para fazÃª-la.",
+      "fra": "<span class=\"verse-number\">2</span> MoÃ¯se appela Betsaleel, Oholiab et tous les hommes habiles dans lâesprit desquels lâÃternel avait mis de lâintelligence, tous ceux dont le cÅur Ã©tait disposÃ© Ã  sâappliquer Ã  lâÅuvre pour lâexÃ©cuter.",
+      "deu": "<span class=\"verse-number\">2Â </span>Hierauf berief Mose Bezalel und Oholiab und alle kunstverstÃ¤ndigen MÃ¤nner ein, denen der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> Kunstsinn verliehen hatte, alle, die sich dazu getrieben fÃ¼hlten, sich an der AusfÃ¼hrung des Werkes zu beteiligen.",
+      "kor": "<span class=\"verse-number\">2</span> ëª¨ì¸ê° ë¸ì´ë ê³¼ ì¤íë¦¬ìê³¼ ë° ë§ìì´ ì§íë¡ì´ ì¬ë ê³§ ê·¸ ë§ìì ì¬í¸ìê»ë¡ë¶í° ì§íë¥¼ ì»ê³  ìì ê·¸ ì¼ì íë ¤ê³  ë§ìì ìíë ëª¨ë  ìë¥¼ ë¶ë¥´ë§¤",
+      "ita": "<span class=\"verse-number\">2</span> MosÃ¨ chiamÃ² dunque Bezaleel e Oholiab e tutti gli uomini abili ai quali lâEterno aveva dato abilitÃ , tutti quelli che il cuore spingeva ad applicarsi al lavoro per eseguirlo;"
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>And they received of Moses all the offering, which the children of <span class=\"page-break\" data-page=\"138\"></span>Israel had brought for the work of the service of the sanctuary, to make it <span class=\"clarity-word\">withal.</span> And they brought yet unto him free offerings every morning.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØªÙØ³ÙÙÙÙÙÙÙØ§ ÙÙÙÙ ÙÙÙØ³ÙÙ Ø¬ÙÙÙÙØ¹Ù ØªÙÙÙØ¯ÙÙÙØ§ØªÙ Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙØ Ø§ÙÙÙØªÙÙ ØªÙØ¨ÙØ±ÙÙØ¹ÙÙØ§ Ø¨ÙÙØ§ ÙÙØ¨ÙÙØ§Ø¡Ù Ø§ÙÙÙÙÙÙØ¯ÙØ³Ù. ÙÙØ¸ÙÙÙÙ Ø§ÙØ´ÙÙØ¹ÙØ¨Ù ÙÙØ£ÙØªÙÙÙÙ ÙÙÙÙÙ ØµÙØ¨ÙØ§Ø­Ù Ø¨ÙÙÙØ²ÙÙØ¯Ù ÙÙÙÙ Ø§ÙØªÙÙØ¨ÙØ±ÙÙØ¹ÙØ§ØªÙ.",
+      "jpn": "<span class=\"verse-number\">3</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>çµç«</rb><rt>ãã¿ã</rt></ruby>ã¦ã®<ruby><rb>å·¥äº</rb><rt>ããã</rt></ruby>ãããããã«ãã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã<ruby><rb>æº</rb><rt>ããã</rt></ruby>ãã¦ããããããã®ããã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ããã¢ã¼ã»ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã£ããã<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã¯ãªãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¨ã«ã<ruby><rb>èªçº</rb><rt>ãã¯ã¤</rt></ruby>ã®ããã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®ãã¨ã«<ruby><rb>æº</rb><rt>ããã</rt></ruby>ãã¦ããã",
+      "zhs": "<span class=\"verse-number\">3ã</span>è¿äºäººå°±ä»<u>æ©è¥¿</u>æ¶äº<u>ä»¥è²å</u>äººä¸ºåå£æå¹¶å£æä½¿ç¨ä¹å·¥ææ¿æ¥çç¤¼ç©ãç¾å§æ¯æ©æ¨è¿æçå¿ç®çç¤¼ç©æ¿æ¥ã",
+      "zht": "<span class=\"verse-number\">3ã</span>éäºäººå°±å¾<u>æ©è¥¿</u>æ¶äº<u>ä»¥è²å</u>äººçºåèæä¸¦èæä½¿ç¨ä¹å·¥ææ¿ä¾çç¦®ç©ãç¾å§æ¯æ©æ¨éæçå¿ç»çç¦®ç©æ¿ä¾ã",
+      "spa": "<span class=\"verse-number\">3 </span>y recibieron de MoisÃ©s todas las ofrendas que los hijos de Israel habÃ­an traÃ­do para la obra del servicio del santuario, a fin de hacerla. Y ellos seguÃ­an trayendo ofrendas voluntarias cada maÃ±ana.",
+      "por": "<span class=\"verse-number\">3</span> Receberam, pois, de diante de MoisÃ©s toda oferta alÃ§ada, que trouxeram os filhos de Israel para a obra do serviÃ§o do santuÃ¡rio, para fazÃª-la, e ainda eles lhe traziam cada manhÃ£ oferta voluntÃ¡ria.",
+      "fra": "<span class=\"verse-number\">3</span> Ils reÃ§urent de MoÃ¯se toutes les offrandes quâavaient apportÃ©es les enfants dâIsraÃ«l pour faire les ouvrages destinÃ©s au service du sanctuaire. Chaque matin, on apportait encore Ã  MoÃ¯se des offrandes volontaires.",
+      "deu": "<span class=\"verse-number\">3Â </span>Sie empfingen dann von Mose alle die Gaben, welche die Israeliten zur AusfÃ¼hrung der Arbeiten fÃ¼r das Heiligtum beigesteuert hatten; man brachte ihm aber an jedem Morgen immer noch freiwillige Gaben.",
+      "kor": "<span class=\"verse-number\">3</span> ê·¸ë¤ì´ ì´ì¤ë¼ì ììì ì±ìì ëª¨ë  ê²ì ë§ë¤ê¸° ìíì¬ ê°ì ¸ì¨ ìë¬¼ì ëª¨ì¸ìê²ì ë°ì¼ëë¼ ê·¸ë¬ë <span class=\"clarity-word\">ë°±ì±ì´</span> ìì¹¨ë§ë¤ ììíë ìë¬¼ì ì°íì¬ ê°ì ¸ìì¼ë¯ë¡",
+      "ita": "<span class=\"verse-number\">3</span> ed essi presero in presenza di MosÃ¨ tutte le offerte recate dai figli dâIsraele per i lavori destinati al servizio del santuario, al fine di eseguirli. Ma ogni mattina i figli dâIsraele continuavano a portare a MosÃ¨ delle offerte volontarie."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>And all the wise men, that wrought all the work of the sanctuary, came every man from his work which they made;",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ£ÙÙÙØ¨ÙÙÙ Ø§ÙØµÙÙÙÙÙØ§Ø¹Ù Ø§ÙÙÙÙÙÙØ±ÙØ©Ù Ø§ÙÙÙÙØ§Ø¦ÙÙÙÙÙÙ Ø¨ÙØ£ÙØ¹ÙÙÙØ§ÙÙ Ø§ÙÙÙÙÙÙØ¯ÙØ³ÙØ ÙÙÙÙ ÙÙÙÙØ§ÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">4</span> ããã§<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ã®ããããã®<ruby><rb>å·¥äº</rb><rt>ããã</rt></ruby>ããã<ruby><rb>è³¢</rb><rt>ããã</rt></ruby>ã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã¯ã¿ãªããã®ãã®ãã¦ãã<ruby><rb>å·¥äº</rb><rt>ããã</rt></ruby>ãããã¦ã",
+      "zhs": "<span class=\"verse-number\">4ã</span>å¡åå£æä¸åå·¥çæºæ§äººåé½ç¦»å¼ä»æåçå·¥ï¼",
+      "zht": "<span class=\"verse-number\">4ã</span>å¡åèæä¸åå·¥çæºæ§äººåé½é¢éä»æåçå·¥ï¼",
+      "spa": "<span class=\"verse-number\">4 </span>Vinieron, por tanto, todos los maestros que hacÃ­an toda la obra del santuario, cada uno de la obra que hacÃ­a,",
+      "por": "<span class=\"verse-number\">4</span> E vieram todos os homens sÃ¡bios, que faziam toda a obra do santuÃ¡rio, cada um da obra que eles faziam,",
+      "fra": "<span class=\"verse-number\">4</span> Alors tous les hommes habiles, occupÃ©s Ã  tous les travaux du sanctuaire, quittÃ¨rent chacun lâouvrage quâils faisaient,",
+      "deu": "<span class=\"verse-number\">4Â </span>Da kamen alle KÃ¼nstler, welche die ganze Arbeit fÃ¼r das Heiligtum auszufÃ¼hren hatten, Mann fÃ¼r Mann, von der besonderen Arbeit, mit der sie beschÃ¤ftigt waren,",
+      "kor": "<span class=\"verse-number\">4</span> ì±ìì ëª¨ë  ì¼ì íë ì§íë¡ì´ ìë¤ì´ ê°ê¸° íë ì¼ì ì¤ì§íê³  ìì",
+      "ita": "<span class=\"verse-number\">4</span> Allora tutti gli uomini abili che erano occupati a tutti i lavori del santuario, lasciato ognuno il lavoro che faceva, vennero a dire a MosÃ¨:"
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span><span class=\"para-mark\">Â¶ </span>And they spake unto Moses, saying, The people bring much more than enough for the service of the work, which the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> commanded to make.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙØ§ÙÙÙØ§ ÙÙÙÙÙØ³ÙÙ: âØ¥ÙÙÙÙ Ø§ÙØ´ÙÙØ¹ÙØ¨Ù ÙÙØ£ÙØªÙÙ Ø¨ÙÙÙØ§ ÙÙÙÙÙØ¶Ù Ø¹ÙÙÙÙØ§ ÙÙØ­ÙØªÙØ§Ø¬Ù Ø¥ÙÙÙÙÙÙÙ ÙØ¥ÙÙÙØ¬ÙØ§Ø²Ù Ø§ÙÙØ¹ÙÙÙÙÙ Ø§ÙÙÙØ°ÙÙ Ø£ÙÙÙØ±Ù Ø¨ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙâ.",
+      "jpn": "<span class=\"verse-number\">5</span> ã¢ã¼ã»ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãã<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ããã¾ãã«<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ã<ruby><rb>æº</rb><rt>ããã</rt></ruby>ãã¦<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ãã®ã§ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããã¨<ruby><rb>å½</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>çµç«</rb><rt>ãã¿ã</rt></ruby>ã¦ã®<ruby><rb>å·¥äº</rb><rt>ããã</rt></ruby>ã«ã¯<ruby><rb>ä½</rb><rt>ãã¾</rt></ruby>ãã¾ããã",
+      "zhs": "<span class=\"verse-number\">5ã</span>æ¥å¯¹<u>æ©è¥¿</u>è¯´ï¼ç¾å§ä¸ºè¶ååå©åä½¿ç¨ä¹å·¥ææ¿æ¥çï¼å¯å¯æä½ã",
+      "zht": "<span class=\"verse-number\">5ã</span>ä¾å°<u>æ©è¥¿</u>èªªï¼ç¾å§çºè¶åè¯å©åä½¿ç¨ä¹å·¥ææ¿ä¾çï¼å¯å¯æé¤ã",
+      "spa": "<span class=\"verse-number\">5 </span>y hablaron a MoisÃ©s, diciendo: El pueblo trae mucho mÃ¡s de lo que es menester para la obra que JehovÃ¡ ha mandado que se haga.",
+      "por": "<span class=\"verse-number\">5</span> E falaram a MoisÃ©s, dizendo: O povo traz muito mais do que basta para o serviÃ§o da obra que o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> ordenou que se fizesse.",
+      "fra": "<span class=\"verse-number\">5</span> et vinrent dire Ã  MoÃ¯seÂ : Le peuple apporte beaucoup plus quâil ne faut pour exÃ©cuter les ouvrages que lâÃternel a ordonnÃ© de faire.",
+      "deu": "<span class=\"verse-number\">5Â </span>und sagten zu Mose: âDas Volk bringt viel mehr, als zur Verwendung fÃ¼r die Arbeiten, deren AusfÃ¼hrung der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> geboten hat, erforderlich ist.â",
+      "kor": "<span class=\"verse-number\">5</span> ëª¨ì¸ìê² ë§íì¬ ì´ë¥´ë ë°±ì±ì´ ëë¬´ ë§ì´ ê°ì ¸ì¤ë¯ë¡ ì¬í¸ìê»ì ëªë ¹íì  ì¼ì ì°ê¸°ì ë¨ìì´ ìëì´ë¤",
+      "ita": "<span class=\"verse-number\">5</span> âIl popolo porta molto piÃ¹ di quel che bisogna per eseguire i lavori che lâEterno ha comandato di fareâ."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, Let neither man nor woman make any more work for the offering of the sanctuary. So the people were restrained from bringing.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ£ÙÙÙØ±Ù ÙÙÙØ³ÙÙ Ø£ÙÙÙ ÙÙØ°ÙÙØ¹ÙÙØ§ ÙÙÙ Ø§ÙÙÙÙØ®ÙÙÙÙÙÙ Ø¨ÙØ§ÙØ§ÙÙØªÙÙÙØ§Ø¹Ù Ø¹ÙÙÙ ØªÙÙÙØ¯ÙÙÙÙ ØªÙØ¨ÙØ±ÙÙØ¹ÙØ§ØªÙ. ÙÙÙÙÙÙÙ Ø§ÙØ´ÙÙØ¹ÙØ¨Ù Ø¹ÙÙÙ Ø°ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">6</span> ã¢ã¼ã»ã¯<ruby><rb>å½ä»¤</rb><rt>ãããã</rt></ruby>ã<ruby><rb>çº</rb><rt>ã¯ã£</rt></ruby>ãã<ruby><rb>å®¿å¶</rb><rt>ããããã</rt></ruby><ruby><rb>ä¸­</rb><rt>ã¡ãã</rt></ruby>ã«ãµãããã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ããã<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby>ã<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ãããã¯ã<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ã®ããã«ãããã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ãããã«<ruby><rb>å</rb><rt>ãã</rt></ruby>ã°ãªãããããã§<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã¯<ruby><rb>æº</rb><rt>ããã</rt></ruby>ãã¦<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ããã¨ããããã",
+      "zhs": "<span class=\"verse-number\">6ã</span><u>æ©è¥¿</u>ä¼ å½ï¼ä»ä»¬å°±å¨å¨è¥ä¸­å®£åè¯´ï¼æ è®ºç·å¥³ï¼ä¸å¿åä¸ºå£ææ¿ä»ä¹ç¤¼ç©æ¥ãè¿æ ·ææ¦ä½ç¾å§ä¸åæ¿ç¤¼ç©æ¥ã",
+      "zht": "<span class=\"verse-number\">6ã</span><u>æ©è¥¿</u>å³å½ï¼ä»åå°±å¨å¨çä¸­å®£åèªªï¼ç¡è«ç·å¥³ï¼ä¸å¿åçºèææ¿ä»éº¼ç¦®ç©ä¾ãéæ¨£ææä½ç¾å§ä¸åæ¿ç¦®ç©ä¾ã",
+      "spa": "<span class=\"verse-number\">6 </span>Entonces MoisÃ©s mandÃ³ pregonar por el campamento, diciendo: NingÃºn hombre ni mujer haga mÃ¡s trabajo para la ofrenda del santuario. Y asÃ­ el pueblo dejÃ³ de ofrecer mÃ¡s;",
+      "por": "<span class=\"verse-number\">6</span> EntÃ£o mandou MoisÃ©s que fizessem uma proclamaÃ§Ã£o pelo acampamento, dizendo: Nenhum homem nem mulher faÃ§a mais obra alguma para a oferta alÃ§ada do santuÃ¡rio. Assim, o povo foi proibido de trazer <span class=\"clarity-word\">mais,</span>",
+      "fra": "<span class=\"verse-number\">6</span> MoÃ¯se fit publier dans le camp que personne, homme ou femme, ne sâoccupe plus dâoffrandes pour le sanctuaire. On empÃªcha ainsi le peuple dâen apporter.",
+      "deu": "<span class=\"verse-number\">6Â </span>Da lieÃ Mose durch Ausruf im Lager bekannt machen: âNiemand, weder Mann noch Frau, mÃ¶ge fernerhin noch eine Arbeit als Gabe fÃ¼r das Heiligtum anfertigen!â Da musste das Volk aufhÃ¶ren, noch weitere Spenden zu bringen;",
+      "kor": "<span class=\"verse-number\">6</span> ëª¨ì¸ê° ëªë ¹ì ë´ë¦¬ë§¤ ê·¸ë¤ì´ ì§ì¤ì ê³µí¬íì¬ ì´ë¥´ë ë¨ëë¥¼ ë§ë¡ íê³  ì±ìì ëë¦´ ìë¬¼ì ë¤ì ë§ë¤ì§ ë§ë¼ íë§¤ ë°±ì±ì´ ê°ì ¸ì¤ê¸°ë¥¼ ê·¸ì¹ë",
+      "ita": "<span class=\"verse-number\">6</span> Allora MosÃ¨ dette questâordine, che fu bandito per il campo: âNÃ© uomo nÃ© donna faccia piÃ¹ alcun lavoro come offerta per il santuarioâ. CosÃ¬ si impedÃ¬ che il popolo portasse altro."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>For the stuff they had was sufficient for all the work to make it, and too much.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙØ£ÙÙÙÙ ÙÙØ§ ÙÙØ¯ÙÙÙÙÙÙÙØ ÙÙØ§ÙÙ ÙÙØ§ÙÙÙØ§Ù ÙÙØªÙÙÙÙÙÙØ°Ù Ø§ÙÙØ¹ÙÙÙÙÙ ÙÙÙÙÙÙÙØ ÙÙØ£ÙÙÙØ«ÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>ææ</rb><rt>ããããã</rt></ruby>ã¯ãã¹ã¦ã®<ruby><rb>å·¥äº</rb><rt>ããã</rt></ruby>ãããã®ã«ãããã¶ãã§ããã¤<ruby><rb>ä½</rb><rt>ãã¾</rt></ruby>ãããã§ããã",
+      "zhs": "<span class=\"verse-number\">7ã</span>å ä¸ºä»ä»¬ææçææå¤åä¸åå½åçç©ï¼èä¸æä½ã",
+      "zht": "<span class=\"verse-number\">7ã</span>å çºä»åææçææå¤ åä¸åç¶åçç©ï¼èä¸æé¤ã",
+      "spa": "<span class=\"verse-number\">7 </span>pues tenÃ­an material abundante para hacer toda la obra, y sobraba.",
+      "por": "<span class=\"verse-number\">7</span> Porque tinham material bastante para toda a obra que se havia de fazer, e ainda sobejava.",
+      "fra": "<span class=\"verse-number\">7</span> Les objets prÃ©parÃ©s suffisaient amplement pour tous les ouvrages Ã  faire.",
+      "deu": "<span class=\"verse-number\">7Â </span>denn der gelieferte Vorrat reichte fÃ¼r die AusfÃ¼hrung aller Arbeiten aus, ja, es blieb davon noch Ã¼brig.",
+      "kor": "<span class=\"verse-number\">7</span> ìë ì¬ë£ê° ëª¨ë  ì¼ì íê¸°ì ëëíì¬ ë¨ìì´ ììëë¼",
+      "ita": "<span class=\"verse-number\">7</span> PoichÃ© il materiale giÃ  pronto bastava a fare tutto il lavoro, e ve nâera in sovrappiÃ¹."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span><span class=\"para-mark\">Â¶ </span>And every wise hearted man among them that wrought the work of the tabernacle made ten curtains <span class=\"clarity-word\">of</span> fine twined linen, and blue, and purple, and scarlet: <span class=\"clarity-word\">with</span> cherubims of cunning work made he them.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø£ÙÙÙÙØ§ Ø§ÙØµÙÙÙÙÙØ§Ø¹Ù Ø§ÙÙØ­ÙØ§Ø°ÙÙÙÙÙÙ Ø¨ÙÙÙÙÙ Ø§ÙÙØ­ÙØ±ÙÙÙÙÙÙÙÙÙ ÙÙÙÙØ¯Ù ØµÙÙÙØ¹ÙÙØ§ Ø³ÙÙÙÙÙ Ø§ÙÙÙÙØ³ÙÙÙÙÙ ÙÙÙÙ Ø¹ÙØ´ÙØ±Ù ÙÙØ·ÙØ¹Ù ÙÙÙÙ ÙÙØªÙÙØ§ÙÙ ÙÙØ¨ÙØ±ÙÙÙÙØ Ø°ÙØ§ØªÙ Ø£ÙÙÙÙÙØ§ÙÙ Ø²ÙØ±ÙÙÙØ§Ø¡Ù ÙÙØ¨ÙÙÙÙÙØ³ÙØ¬ÙÙÙÙØ©Ù ÙÙØ­ÙÙÙØ±ÙØ§Ø¡ÙØ Ø·ÙØ±ÙÙØ²Ù Ø¹ÙÙÙÙÙÙÙØ§ Ø­ÙØ§Ø¦ÙÙÙ ÙÙØ§ÙÙØ±Ù Ø±ÙØ³ÙÙÙ Ø§ÙÙÙÙØ±ÙÙØ¨ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">8</span> ãã¹ã¦<ruby><rb>å·¥ä½</rb><rt>ãããã</rt></ruby>ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ãã¡ã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ãå<ruby><rb>æ</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã§<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ããããªãã¡<ruby><rb>äºéº»</rb><rt>ãã¾</rt></ruby>ã®<ruby><rb>æç³¸</rb><rt>ã­ãã</rt></ruby>ã<ruby><rb>é</rb><rt>ãã</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>ç´«</rb><rt>ãããã</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>ç·</rb><rt>ã²</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã§<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãã<ruby><rb>å·§</rb><rt>ãã</rt></ruby>ã¿ãªããããã£ã¦ãããã«ã±ã«ãã ã<ruby><rb>ç¹</rb><rt>ã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">8ã</span>ä»ä»¬ä¸­é´å¡å¿éææºæ§åå·¥çï¼ç¨åå¹å¹å­åå¸å¹ãè¿å¹å­æ¯<u>æ¯æå</u>ç¨æ»çç»éº»åèè²ãç´«è²ãæ±çº¢è²<span class=\"clarity-word\">çº¿</span>å¶é çï¼å¹¶ç¨å·§å çæå·¥ç»£ä¸åºè·¯ä¼¯ã",
+      "zht": "<span class=\"verse-number\">8ã</span>ä»åä¸­éå¡å¿è£¡ææºæ§åå·¥çï¼ç¨åå¹å¹å­åå¸³å¹ãéå¹å­æ¯<u>æ¯æå</u>ç¨æçç´°éº»åèè²ãç´«è²ãæ±ç´è²<span class=\"clarity-word\">ç·</span>è£½é çï¼ä¸¦ç¨å·§å çæå·¥ç¹¡ä¸åºè·¯ä¼¯ã",
+      "spa": "<span class=\"verse-number\">8 </span>Y todos los sabios de corazÃ³n de entre los que hacÃ­an la obra hicieron el tabernÃ¡culo de diez cortinas, de fino torcido, y de azul, y de pÃºrpura y de carmesÃ­, las cuales hicieron de obra primorosa, con querubines.",
+      "por": "<span class=\"verse-number\">8</span> Assim, todo sÃ¡bio de coraÃ§Ã£o, entre os que faziam a obra, fez o tabernÃ¡culo de dez cortinas, de linho fino torcido, e de azul, e de pÃºrpura, e de carmesim, <span class=\"clarity-word\">com</span> querubins; da obra mais esmerada as fez.",
+      "fra": "<span class=\"verse-number\">8</span> Tous les hommes habiles, qui travaillÃ¨rent Ã  lâÅuvre, firent le tabernacle avec dix tentures de fin lin retors et de fil bleu, pourpre et cramoisiÂ ; on y reprÃ©senta des chÃ©rubins travaillÃ©s dans les rÃ¨gles de lâart.",
+      "deu": "<span class=\"verse-number\">8Â </span>So stellten denn alle kunstverstÃ¤ndigen MÃ¤nner unter den Werkleuten die WohnstÃ¤tte aus zehn Zeltbahnen her; aus gezwirntem Byssus, blauem und rotem Purpur und Karmesin, mit Kerubbildern in Kunstweberarbeit stellte er sie her.",
+      "kor": "<span class=\"verse-number\">8</span> ì¼íë ì¬ë ì¤ì ë§ìì´ ì§íë¡ì´ ëª¨ë  ì¬ëì´ ì´ í­ íì¥ì¼ë¡ ì±ë§ì ì§ìì¼ë ê³§ ê°ëê² ê¼° ë²  ì¤ê³¼ ì²­ì ìì íì <span class=\"clarity-word\">ì¤</span>ë¡ ê·¸ë£¹ë¤ì ë¬´ë¬ ëì ì§ì ì§ì ê²ì´ë¼",
+      "ita": "<span class=\"verse-number\">8</span> Tutti gli uomini abili, fra quelli che eseguivano il lavoro, fecero dunque il tabernacolo di dieci teli, di lino fino ritorto, e di filo color violaceo, porporino e scarlatto, con dei cherubini artisticamente lavorati."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>The length of one curtain <span class=\"clarity-word\">was</span> twenty and eight cubits, and the breadth of one curtain four cubits: the curtains <span class=\"clarity-word\">were</span> all of one size.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙÙÙØ§ÙÙ Ø·ÙÙÙÙ ÙÙÙÙÙ ÙÙØ·ÙØ¹ÙØ©Ù Ø«ÙÙØ§ÙÙÙ ÙÙØ¹ÙØ´ÙØ±ÙÙÙÙ Ø°ÙØ±ÙØ§Ø¹Ø§Ù (ÙÙØ­ÙÙÙ Ø£ÙØ±ÙØ¨ÙØ¹ÙØ©Ù Ø¹ÙØ´ÙØ±Ù ÙÙØªÙØ±Ø§Ù) ÙÙØ¹ÙØ±ÙØ¶ÙÙÙ Ø£ÙØ±ÙØ¨ÙØ¹Ù Ø£ÙØ°ÙØ±ÙØ¹Ù (ÙÙØ­ÙÙÙ ÙÙØªÙØ±ÙÙÙÙÙ). ÙÙÙÙØ§ÙÙØªÙ Ø¬ÙÙÙÙØ¹ÙÙÙØ§ Ø°ÙØ§ØªÙ ÙÙÙÙØ§Ø³Ù ÙÙØ§Ø­ÙØ¯Ù.",
+      "jpn": "<span class=\"verse-number\">9</span> <ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>é·</rb><rt>ãªã</rt></ruby>ãã¯ããã®ãã®äºåå«ã­ã¥ããã<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>å¹</rb><rt>ã¯ã°</rt></ruby>ã¯ããã®ãã®åã­ã¥ããã§ã<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã¯ã¿ãª<ruby><rb>å</rb><rt>ããª</rt></ruby>ã<ruby><rb>å¯¸æ³</rb><rt>ããã½ã</rt></ruby>ã§ããã",
+      "zhs": "<span class=\"verse-number\">9ã</span>æ¯å¹å¹å­é¿äºåå«èï¼å®½åèï¼é½æ¯ä¸æ ·çå°ºå¯¸ã",
+      "zht": "<span class=\"verse-number\">9ã</span>æ¯å¹å¹å­é·äºåå«èï¼å¯¬åèï¼é½æ¯ä¸æ¨£çå°ºå¯¸ã",
+      "spa": "<span class=\"verse-number\">9 </span>La longitud de una cortina era de veintiocho codos, y la anchura de cuatro codos; todas las cortinas tenÃ­an la misma medida.",
+      "por": "<span class=\"verse-number\">9</span> O comprimento de cada cortina <span class=\"clarity-word\">era</span> de vinte e oito cÃ´vados, e a largura de cada cortina, de quatro cÃ´vados; todas as cortinas <span class=\"clarity-word\">tinham</span> uma mesma medida.",
+      "fra": "<span class=\"verse-number\">9</span> La longueur dâune tenture Ã©tait de vingt-huit coudÃ©es et sa largeur Ã©tait de quatre coudÃ©esÂ ; les dimensions Ã©taient la mÃªme pour toutes les tentures.",
+      "deu": "<span class=\"verse-number\">9Â </span>Die LÃ¤nge jeder einzelnen Zeltbahn betrug achtundzwanzig Ellen und die Breite vier Ellen. Alle Zeltbahnen hatten dieselbe GrÃ¶Ãe.",
+      "kor": "<span class=\"verse-number\">9</span> ë§¤ í­ì ê¸¸ì´ë ì¤ë¬¼ì¬ë ê·ë¹, ëë¹ë ë¤ ê·ë¹ì¼ë¡ ê° í­ì ì¥ë¨ì ê°ê² íì¬",
+      "ita": "<span class=\"verse-number\">9</span> La lunghezza di un telo era di ventotto cubiti; e la larghezza, di quattro cubiti; tutti i teli erano di una stessa misura."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>And he coupled the five curtains one unto another: and <span class=\"clarity-word\">the other</span> five curtains he coupled one unto another.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙÙÙØµÙÙÙÙØ§ Ø®ÙÙÙØ³Ù ÙÙØ·ÙØ¹Ù ÙÙÙÙÙÙØ§ Ø¨ÙØ¹ÙØ¶ÙÙÙØ§ Ø¨ÙØ¨ÙØ¹ÙØ¶ÙØ ÙÙÙÙØ°ÙÙÙÙÙ ÙÙØµÙÙÙØªÙ Ø§ÙÙÙÙØ·ÙØ¹Ù Ø§ÙÙØ®ÙÙÙØ³Ù Ø§ÙØ£ÙØ®ÙØ±ÙÙ",
+      "jpn": "<span class=\"verse-number\">10</span> ãã®<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>äº<ruby><rb>æ</rb><rt>ã¾ã</rt></ruby>ã<ruby><rb>äº</rb><rt>ããã</rt></ruby>ã«<ruby><rb>é£</rb><rt>ã¤ã</rt></ruby>ã­<ruby><rb>å</rb><rt>ã</rt></ruby>ãããã¾ã<ruby><rb>ä»</rb><rt>ã</rt></ruby>ã®äº<ruby><rb>æ</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ãã<ruby><rb>äº</rb><rt>ããã</rt></ruby>ã«<ruby><rb>é£</rb><rt>ã¤ã</rt></ruby>ã­<ruby><rb>å</rb><rt>ã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">10ã</span>ä»ä½¿è¿äºå¹å¹å­å¹å¹ç¸è¿ï¼åä½¿é£äºå¹å¹å­å¹å¹ç¸è¿ï¼",
+      "zht": "<span class=\"verse-number\">10ã</span>ä»ä½¿éäºå¹å¹å­å¹å¹ç¸é£ï¼åä½¿é£äºå¹å¹å­å¹å¹ç¸é£ï¼",
+      "spa": "<span class=\"verse-number\">10 </span>Y uniÃ³ cinco cortinas la una con la otra; asimismo uniÃ³ las otras cinco cortinas la una con la otra.",
+      "por": "<span class=\"verse-number\">10</span> E ele ligou cinco cortinas uma com a outra; e <span class=\"clarity-word\">outras</span> cinco cortinas ligou uma com outra.",
+      "fra": "<span class=\"verse-number\">10</span> Cinq de ces tentures furent jointes ensembleÂ ; les cinq autres furent aussi jointes ensemble.",
+      "deu": "<span class=\"verse-number\">10Â </span>Je fÃ¼nf Zeltbahnen fÃ¼gte er dann zu einem StÃ¼ck zusammen, eine an die andere.",
+      "kor": "<span class=\"verse-number\">10</span> ê·¸ ë¤ì¯ í­ì ìë¡ ì°ê²°íë©° ë ê·¸ ë¤ì¯ í­ì ìë¡ ì°ê²°íê³",
+      "ita": "<span class=\"verse-number\">10</span> Cinque teli furono uniti assieme, e pure gli altri cinque furono uniti assieme."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>And he made loops of blue on the edge of one curtain from the selvedge in the coupling: likewise he made in the uttermost side of <span class=\"clarity-word\">another</span> curtain, in the coupling of the second.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙØµÙÙÙØ¹ÙÙØ§ Ø¹ÙØ±ÙÙ ÙÙÙÙ ÙÙÙÙØ§Ø´Ù Ø¹ÙÙÙÙ Ø­ÙØ§Ø´ÙÙÙØ©Ù Ø§ÙØ·ÙÙØ±ÙÙÙ Ø§ÙÙÙÙØ§Ø­ÙØ¯Ù ÙÙÙÙ Ø§ÙÙÙÙØ·ÙØ¹Ù Ø§ÙÙÙÙÙÙØµÙÙÙÙØ©Ù Ø§ÙØ£ÙÙÙÙÙØ ÙÙÙÙØ°ÙÙÙÙÙ ÙÙØ¹ÙÙÙÙØ§ Ø£ÙÙÙØ¶Ø§Ù ÙÙÙ Ø­ÙØ§Ø´ÙÙÙØ©Ù Ø§ÙØ·ÙÙØ±ÙÙÙ Ø§ÙØ£ÙØ®ÙÙØ±Ù ÙÙÙÙ Ø§ÙÙÙÙØ·ÙØ¹Ù Ø§ÙØ£ÙØ®ÙØ±ÙÙ Ø§ÙÙÙÙÙÙØµÙÙÙÙØ©Ù",
+      "jpn": "<span class=\"verse-number\">11</span> ãã®<ruby><rb>ä¸é£</rb><rt>ãã¡ãã</rt></ruby>ã®<ruby><rb>ç«¯</rb><rt>ã¯ã</rt></ruby>ã«ãã<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>ç¸</rb><rt>ãµã¡</rt></ruby>ã«<ruby><rb>éè²</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>ä¹³</rb><rt>ã¡</rt></ruby>ãã¤ãã<ruby><rb>ä»</rb><rt>ã</rt></ruby>ã®<ruby><rb>ä¸é£</rb><rt>ãã¡ãã</rt></ruby>ã®<ruby><rb>ç«¯</rb><rt>ã¯ã</rt></ruby>ã«ãã<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>ç¸</rb><rt>ãµã¡</rt></ruby>ã«ãããã®ããã«ããã",
+      "zhs": "<span class=\"verse-number\">11ã</span>å¨è¿ç¸è¿çå¹å­æ«å¹è¾¹ä¸åèè²çé®æ£ï¼å¨é£ç¸è¿çå¹å­æ«å¹è¾¹ä¸ä¹ç§æ ·åï¼",
+      "zht": "<span class=\"verse-number\">11ã</span>å¨éç¸é£çå¹å­æ«å¹éä¸åèè²çéæ£ï¼å¨é£ç¸é£çå¹å­æ«å¹éä¸ä¹ç§æ¨£åï¼",
+      "spa": "<span class=\"verse-number\">11 </span>E hizo lazadas de color azul en la orilla de una cortina, en el extremo del primer conjunto; y asÃ­ hizo en la orilla de la otra cortina, al extremo del segundo conjunto.",
+      "por": "<span class=\"verse-number\">11</span> Depois fez laÃ§adas de azul na borda de uma cortina, na extremidade da juntura; assim tambÃ©m fez na borda, na extremidade da juntura da segunda cortina.",
+      "fra": "<span class=\"verse-number\">11</span> On fit des lacets bleus au bord de la tenture terminant le premier assemblageÂ ; on fit de mÃªme au bord de la tenture terminant le deuxiÃ¨me assemblage.",
+      "deu": "<span class=\"verse-number\">11Â </span>Sodann brachte er Schleifen aus blauem Purpur am Saum der Ã¤uÃersten Zeltbahn des einen zusammengesetzten StÃ¼ckes an, und ebenso machte er es am Saum der Ã¤uÃersten Zeltbahn bei dem anderen zusammengesetzten StÃ¼ck.",
+      "kor": "<span class=\"verse-number\">11</span> ì°ê²°í  ëí­ ê°ì ì²­ì ê³ ë¥¼ ë§ë¤ë©° ë¤ë¥¸ ì°ê²°í  ëí­ ê°ìë ê³ ë¥¼ ë§ë¤ë",
+      "ita": "<span class=\"verse-number\">11</span> Si fecero dei nastri di color violaceo allâorlo del telo che era allâestremitÃ  della prima serie di teli; e lo stesso si fece allâorlo del telo che era allâestremitÃ  della seconda serie."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>Fifty loops made he in one curtain, and fifty loops made he in the edge of the curtain which <span class=\"clarity-word\">was</span> in the coupling of the second: the loops held one <span class=\"clarity-word\">curtain</span> to another.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙÙØ§ÙÙ ÙÙÙ Ø§ÙØ·ÙÙØ±ÙÙÙ Ø§ÙØ£ÙØ®ÙÙØ±Ù ÙÙÙÙ Ø§ÙÙÙÙØ¬ÙÙÙÙØ¹ÙØ©Ù Ø§ÙØ£ÙÙÙÙÙ Ø®ÙÙÙØ³ÙÙÙÙ Ø¹ÙØ±ÙÙÙØ©ÙØ ÙÙØ®ÙÙÙØ³ÙÙÙÙ Ø¹ÙØ±ÙÙÙØ©Ù ÙÙÙ Ø·ÙØ±ÙÙÙ Ø§ÙÙÙÙØ¬ÙÙÙÙØ¹ÙØ©Ù Ø§ÙØ«ÙÙØ§ÙÙÙÙØ©ÙØ Ø§ÙÙÙÙØ§Ø­ÙØ¯ÙØ©Ù ÙÙÙÙØ§Ø¨ÙÙÙ Ø§ÙØ£ÙØ®ÙØ±ÙÙ.",
+      "jpn": "<span class=\"verse-number\">12</span> ãã®ä¸<ruby><rb>æ</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>ä¹³</rb><rt>ã¡</rt></ruby>äºåãã¤ãã<ruby><rb>ä»</rb><rt>ã</rt></ruby>ã®<ruby><rb>ä¸é£</rb><rt>ãã¡ãã</rt></ruby>ã®<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>ç«¯</rb><rt>ã¯ã</rt></ruby>ã«ãã<ruby><rb>ä¹³</rb><rt>ã¡</rt></ruby>äºåãã¤ããããã®<ruby><rb>ä¹³</rb><rt>ã¡</rt></ruby>ã<ruby><rb>äº</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ç¸</rb><rt>ãã</rt></ruby><ruby><rb>å</rb><rt>ã</rt></ruby>ããããã",
+      "zhs": "<span class=\"verse-number\">12ã</span>å¨è¿ç¸è¿çå¹å­ä¸åäºåä¸ªé®æ£ï¼å¨é£ç¸è¿çå¹å­ä¸ä¹åäºåä¸ªé®æ£ï¼é½æ¯ä¸¤ä¸¤ç¸å¯¹ï¼",
+      "zht": "<span class=\"verse-number\">12ã</span>å¨éç¸é£çå¹å­ä¸åäºååéæ£ï¼å¨é£ç¸é£çå¹å­ä¸ä¹åäºååéæ£ï¼é½æ¯å©å©ç¸å°ï¼",
+      "spa": "<span class=\"verse-number\">12 </span>Cincuenta lazadas hizo en una cortina, y otras cincuenta en la otra cortina, al extremo del segundo conjunto; las lazadas quedaban unas enfrente de las otras.",
+      "por": "<span class=\"verse-number\">12</span> Cinquenta laÃ§adas fez numa cortina, e cinquenta laÃ§adas fez numa extremidade da cortina, que <span class=\"page-break\" data-page=\"162\"></span>se ligava com a segunda; essas laÃ§adas eram contrapostas uma com a outra.",
+      "fra": "<span class=\"verse-number\">12</span> On mit cinquante lacets Ã  la premiÃ¨re tenture et lâon mit cinquante lacets au bord de la tenture terminant le deuxiÃ¨me assemblageÂ ; ces lacets correspondaient les uns aux autres.",
+      "deu": "<span class=\"verse-number\">12Â </span>FÃ¼nfzig Schleifen brachte er an der einen Zeltbahn an und ebenso fÃ¼nfzig Schleifen am Saum der Zeltbahnen, die zu dem anderen zusammengesetzten StÃ¼ck gehÃ¶rte, sodass die Schleifen einander genau gegenÃ¼berstanden.",
+      "kor": "<span class=\"verse-number\">12</span> ê·¸ ì°ê²°í  í í­ì ê³ ë¦¬ ì° ê°ë¥¼ ë¬ê³  ë¤ë¥¸ ì°ê²°í  í í­ì ê°ìë ê³ ë¦¬ ì° ê°ë¥¼ ë¬ì ê·¸ ê³ ë¤ì´ ìë¡ ëíê² íê³",
+      "ita": "<span class=\"verse-number\">12</span> Si misero cinquanta nastri al primo telo, e parimente cinquanta nastri allâorlo del telo che era allâestremitÃ  della seconda serie: i nastri si corrispondevano lâuno allâaltro."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>And he made fifty taches of gold, and coupled the curtains one unto another with the taches: so it became one tabernacle.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØµÙÙÙØ¹ÙÙØ§ Ø®ÙÙÙØ³ÙÙÙÙ ÙÙØ´ÙØ¨ÙÙØ§Ù ÙÙÙÙ Ø°ÙÙÙØ¨Ù ÙÙØµÙÙÙØªÙ Ø¨ÙÙØ§ Ø¹ÙØ±ÙÙ Ø§ÙÙÙÙØ¬ÙÙÙÙØ¹ÙØªÙÙÙÙÙØ ÙÙØ£ÙØµÙØ¨ÙØ­ÙØªÙØ§ Ø³ÙÙÙÙØ§Ù ÙÙØ§Ø­ÙØ¯Ø§Ù ÙÙÙÙÙÙØ³ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">13</span> ããã¦<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>è¼ª</rb><rt>ã</rt></ruby>äºåã<ruby><rb>ä½</rb><rt>ã¤ã</rt></ruby>ãããã®<ruby><rb>è¼ª</rb><rt>ã</rt></ruby>ã§ã<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã<ruby><rb>äº</rb><rt>ããã</rt></ruby>ã«<ruby><rb>é£</rb><rt>ã¤ã</rt></ruby>ã­<ruby><rb>å</rb><rt>ã</rt></ruby>ãããã®ã§ãä¸ã¤ã®<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã«ãªã£ãã",
+      "zhs": "<span class=\"verse-number\">13ã</span>ååäºåä¸ªéé©ï¼ä½¿å¹å­ç¸è¿ï¼è¿ææäºä¸ä¸ªå¸å¹ã",
+      "zht": "<span class=\"verse-number\">13ã</span>ååäºååéé¤ï¼ä½¿å¹å­ç¸é£ï¼éææäºä¸åå¸³å¹ã",
+      "spa": "<span class=\"verse-number\">13 </span>Hizo tambiÃ©n cincuenta ganchos de oro, con los cuales uniÃ³ las cortinas, la una con la otra; y asÃ­ se hizo el tabernÃ¡culo un todo.",
+      "por": "<span class=\"verse-number\">13</span> TambÃ©m fez cinquenta colchetes de ouro, e com esses colchetes uniu as cortinas uma com a outra; e foi feito assim um tabernÃ¡culo.",
+      "fra": "<span class=\"verse-number\">13</span> On fit cinquante agrafes en or et lâon joignit les tentures lâune Ã  lâautre avec les agrafes. Et le tabernacle forma un tout.",
+      "deu": "<span class=\"verse-number\">13Â </span>Sodann fertigte er fÃ¼nfzig goldene Haken an und verband die Zeltbahnen mittels der Haken miteinander, sodass die WohnstÃ¤tte ein Ganzes bildete.",
+      "kor": "<span class=\"verse-number\">13</span> ê¸ ê°ê³ ë¦¬ ì° ê°ë¥¼ ë§ë¤ì´ ê·¸ ê°ê³ ë¦¬ë¡ ë íì¥ì ì°ê²°íì¬ í ë§ì ì´ë£¨ìëë¼",
+      "ita": "<span class=\"verse-number\">13</span> Si fecero pure cinquanta fermagli dâoro, e si unirono i teli lâuno allâaltro mediante i fermagli; e cosÃ¬ il tabernacolo formÃ² un tutto."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span><span class=\"para-mark\">Â¶ </span>And he made curtains <span class=\"clarity-word\">of</span> goatsâ <span class=\"clarity-word\">hair</span> for the tent over the tabernacle: eleven curtains he made them.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ­ÙØ§ÙÙÙØ§ Ø£ÙÙÙØ¶Ø§Ù Ø³ÙÙÙÙØ§Ù Ø«ÙØ§ÙÙÙØ§Ù ÙÙÙÙÙÙØ³ÙÙÙÙÙ ÙÙÙÙ Ø¥ÙØ­ÙØ¯ÙÙ Ø¹ÙØ´ÙØ±ÙØ©Ù ÙÙØ·ÙØ¹ÙØ©ÙØ ÙÙØµÙÙÙÙØ¹Ø©Ù ÙÙÙÙ ÙÙØ³ÙÙØ¬Ù Ø´ÙØ¹ÙØ±Ù Ø§ÙÙÙÙØ¹ÙØ²ÙÙ.",
+      "jpn": "<span class=\"verse-number\">14</span> ã¾ããããã®<ruby><rb>æ¯ç³¸</rb><rt>ããã¨</rt></ruby>ã§<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã<ruby><rb>ä½</rb><rt>ã¤ã</rt></ruby>ãã<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ãããã<ruby><rb>å¤©å¹</rb><rt>ã¦ãã¾ã</rt></ruby>ã«ãããããªãã¡<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>åä¸<ruby><rb>æ</rb><rt>ã¾ã</rt></ruby>ã<ruby><rb>ä½</rb><rt>ã¤ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">14ã</span>ä»ç¨å±±ç¾<span class=\"clarity-word\">æ¯</span>ç»åä¸å¹å¹å­ï¼ä½ä¸ºå¸å¹ä»¥ä¸çç½©æ£ã",
+      "zht": "<span class=\"verse-number\">14ã</span>ä»ç¨å±±ç¾<span class=\"clarity-word\">æ¯</span>ç¹åä¸å¹å¹å­ï¼ä½çºå¸³å¹ä»¥ä¸çç½©æ£ã",
+      "spa": "<span class=\"verse-number\">14 </span>Hizo asimismo cortinas de <span class=\"clarity-word\">pelo</span> de cabra para la tienda sobre el tabernÃ¡culo; once cortinas hizo.",
+      "por": "<span class=\"verse-number\">14</span> Fez tambÃ©m cortinas de <span class=\"clarity-word\">pelos de</span> cabras para a tenda sobre o tabernÃ¡culo; onze cortinas fez.",
+      "fra": "<span class=\"verse-number\">14</span> On fit des tentures de poil de chÃ¨vre pour servir de tente sur le tabernacleÂ ; on fit onze de ces tentures.",
+      "deu": "<span class=\"verse-number\">14Â </span>Weiter fertigte er Zeltbahnen aus Ziegenhaar zu einer Zeltdecke Ã¼ber der WohnstÃ¤tte an; elf Zeltbahnen fertigte er dazu an.",
+      "kor": "<span class=\"verse-number\">14</span> ê·¸ ì±ë§ì ë®ë ë§ ê³§ íì¥ì ì¼ì í¸ë¡ ë§ë¤ë ì´í í­ì ë§ë¤ìì¼ë",
+      "ita": "<span class=\"verse-number\">14</span> Si fecero inoltre dei teli di pelo di capra, per fungere da tenda per coprire il tabernacolo: di questi teli se ne fecero undici."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>The length of one curtain <span class=\"clarity-word\">was</span> thirty cubits, and four cubits <span class=\"clarity-word\">was</span> the breadth of one curtain: the eleven curtains <span class=\"clarity-word\">were</span> of one size.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>Ø·ÙÙÙÙ Ø§ÙÙÙÙØ·ÙØ¹ÙØ©Ù Ø§ÙÙÙÙØ§Ø­ÙØ¯ÙØ©Ù Ø«ÙÙØ§Ø«ÙÙÙÙ Ø°ÙØ±ÙØ§Ø¹Ø§Ù (ÙÙØ­ÙÙÙ Ø®ÙÙÙØ³ÙØ©Ù Ø¹ÙØ´ÙØ±Ù ÙÙØªÙØ±Ø§Ù) ÙÙØ¹ÙØ±ÙØ¶ÙÙÙØ§ Ø£ÙØ±ÙØ¨ÙØ¹Ù Ø£ÙØ°ÙØ±ÙØ¹Ù (ÙÙØ­ÙÙÙ ÙÙØªÙØ±ÙÙÙÙÙ). ÙÙÙÙØ§ÙÙØªÙ Ø¬ÙÙÙÙØ¹ÙÙÙØ§ Ø°ÙØ§ØªÙ ÙÙÙÙÙÙØ§Ø³Ù ÙÙØ§Ø­ÙØ¯Ù.",
+      "jpn": "<span class=\"verse-number\">15</span> ãã®ãã®ã®<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>é·</rb><rt>ãªã</rt></ruby>ãã¯ä¸åã­ã¥ããããã®ãã®ã®<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>å¹</rb><rt>ã¯ã°</rt></ruby>ã¯åã­ã¥ããã§ããã®åä¸<ruby><rb>æ</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã¯<ruby><rb>å</rb><rt>ããª</rt></ruby>ã<ruby><rb>å¯¸æ³</rb><rt>ããã½ã</rt></ruby>ã§ããã",
+      "zhs": "<span class=\"verse-number\">15ã</span>æ¯å¹å¹å­é¿ä¸åèï¼å®½åèï¼åä¸å¹å¹å­é½æ¯ä¸æ ·çå°ºå¯¸ã",
+      "zht": "<span class=\"verse-number\">15ã</span>æ¯å¹å¹å­é·ä¸åèï¼å¯¬åèï¼åä¸å¹å¹å­é½æ¯ä¸æ¨£çå°ºå¯¸ã",
+      "spa": "<span class=\"verse-number\">15 </span>La longitud de cada cortina era de treinta codos, y la anchura de cuatro codos; las once cortinas tenÃ­an la misma medida.",
+      "por": "<span class=\"verse-number\">15</span> O comprimento de cada cortina era de trinta cÃ´vados, e a largura de cada cortina, de quatro cÃ´vados; essas onze cortinas tinham uma mesma medida.",
+      "fra": "<span class=\"verse-number\">15</span> La longueur dâune tenture Ã©tait de trente coudÃ©es et sa largeur Ã©tait de quatre coudÃ©esÂ ; les dimensions Ã©taient les mÃªmes pour les onze tentures.",
+      "deu": "<span class=\"verse-number\">15Â </span>Die LÃ¤nge jeder Zeltbahn betrug dreiÃig Ellen und die Breite vier Ellen: Alle elf Zeltbahnen hatten dieselbe GrÃ¶Ãe.",
+      "kor": "<span class=\"verse-number\">15</span> ê° í­ì ê¸¸ì´ë ìë¥¸ ê·ë¹, ëë¹ë ë¤ ê·ë¹ì¼ë¡ ì´í í­ì ì¥ë¨ì ê°ê² íì¬",
+      "ita": "<span class=\"verse-number\">15</span> La lunghezza di ogni telo era di trenta cubiti; e la larghezza, di quattro cubiti; gli undici teli avevano la stessa misura."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>And he coupled five curtains by themselves, and six curtains by themselves.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙÙØµÙÙÙÙØ§ Ø®ÙÙÙØ³Ù ÙÙØ·ÙØ¹Ù ÙÙØ¹Ø§Ù ÙÙØªÙÙÙÙÙÙ ÙÙØ·ÙØ¹ÙØ©Ù ÙÙØ§Ø­ÙØ¯ÙØ©ÙØ ÙÙÙÙØ°ÙÙÙÙÙ ÙÙØ¹ÙÙÙÙØ§ Ø¨ÙØ§ÙÙÙÙØ·ÙØ¹Ù Ø§ÙØ³ÙÙØªÙÙ Ø§ÙØ£ÙØ®ÙØ±ÙÙ",
+      "jpn": "<span class=\"verse-number\">16</span> ããã¦ããã®<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>äº<ruby><rb>æ</rb><rt>ã¾ã</rt></ruby>ãä¸ã¤ã«<ruby><rb>é£</rb><rt>ã¤ã</rt></ruby>ã­<ruby><rb>å</rb><rt>ã</rt></ruby>ãããã¾ãããã®<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>å­<ruby><rb>æ</rb><rt>ã¾ã</rt></ruby>ãä¸ã¤ã«<ruby><rb>é£</rb><rt>ã¤ã</rt></ruby>ã­<ruby><rb>å</rb><rt>ã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">16ã</span>ä»æäºå¹å¹å­è¿æä¸å¹ï¼åæå­å¹å¹å­è¿æä¸å¹ï¼",
+      "zht": "<span class=\"verse-number\">16ã</span>ä»æäºå¹å¹å­é£æä¸å¹ï¼åæå­å¹å¹å­é£æä¸å¹ï¼",
+      "spa": "<span class=\"verse-number\">16 </span>Y uniÃ³ las cinco cortinas aparte, y las otras seis cortinas aparte.",
+      "por": "<span class=\"verse-number\">16</span> E ele uniu cinco cortinas Ã  parte, e seis cortinas Ã  parte,",
+      "fra": "<span class=\"verse-number\">16</span> On joignit sÃ©parÃ©ment cinq de ces tentures et les six autres sÃ©parÃ©ment.",
+      "deu": "<span class=\"verse-number\">16Â </span>Dann fÃ¼gte er fÃ¼nf von diesen Zeltbahnen zu einem StÃ¼ck fÃ¼r sich zusammen und ebenso die sechs anderen Zeltbahnen fÃ¼r sich.",
+      "kor": "<span class=\"verse-number\">16</span> ê·¸ íì¥ ë¤ì¯ í­ì ìë¡ ì°ê²°íë©° ë ì¬ì¯ í­ì ìë¡ ì°ê²°íê³",
+      "ita": "<span class=\"verse-number\">16</span> E si unirono insieme, da una parte, cinque teli, e si unirono insieme, dallâaltra parte, gli altri sei."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>And he made fifty loops upon the uttermost edge of the curtain in the coupling, and fifty loops made he upon the edge of the curtain which coupleth the second.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØµÙÙÙØ¹ÙÙØ§ Ø®ÙÙÙØ³ÙÙÙÙ Ø¹ÙØ±ÙÙÙØ©Ù Ø¹ÙÙÙÙ Ø­ÙØ§Ø´ÙÙÙØ©Ù Ø·ÙØ±ÙÙÙ ÙÙØ§Ø­ÙØ¯Ù ÙÙÙÙÙÙØ¬ÙÙÙÙØ¹ÙØ©Ù Ø§ÙØ£ÙÙÙÙÙØ ÙÙØ«ÙØ¨ÙÙØªÙÙØ§ Ø®ÙÙÙØ³ÙÙÙÙ Ø¹ÙØ±ÙÙÙØ©Ù Ø£ÙØ®ÙØ±ÙÙ Ø¹ÙÙÙÙ Ø­ÙØ§Ø´ÙÙÙØ©Ù Ø·ÙØ±ÙÙÙ ÙÙØ§Ø­ÙØ¯Ù ÙÙÙÙ Ø§ÙÙÙÙØ¬ÙÙÙÙØ¹ÙØ©Ù Ø§ÙØ«ÙÙØ§ÙÙÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">17</span> ãã®<ruby><rb>ä¸é£</rb><rt>ãã¡ãã</rt></ruby>ã®<ruby><rb>ç«¯</rb><rt>ã¯ã</rt></ruby>ã«ãã<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>ç¸</rb><rt>ãµã¡</rt></ruby>ã«ã<ruby><rb>ä¹³</rb><rt>ã¡</rt></ruby>äºåãã¤ãã<ruby><rb>ä»</rb><rt>ã</rt></ruby>ã®<ruby><rb>ä¸é£</rb><rt>ãã¡ãã</rt></ruby>ã®<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>ç¸</rb><rt>ãµã¡</rt></ruby>ã«ãã<ruby><rb>ä¹³</rb><rt>ã¡</rt></ruby>äºåãã¤ããã",
+      "zhs": "<span class=\"verse-number\">17ã</span>å¨è¿ç¸è¿çå¹å­æ«å¹è¾¹ä¸åäºåä¸ªé®æ£ï¼å¨é£ç¸è¿çå¹å­<span class=\"clarity-word\">æ«å¹</span>è¾¹ä¸ä¹åäºåä¸ªé®æ£ï¼",
+      "zht": "<span class=\"verse-number\">17ã</span>å¨éç¸é£çå¹å­æ«å¹éä¸åäºååéæ£ï¼å¨é£ç¸é£çå¹å­<span class=\"clarity-word\">æ«å¹</span>éä¸ä¹åäºååéæ£ï¼",
+      "spa": "<span class=\"verse-number\">17 </span>Hizo ademÃ¡s cincuenta lazadas en la orilla de la Ãºltima cortina del primer conjunto, y otras cincuenta lazadas en la orilla de la cortina final del segundo conjunto.",
+      "por": "<span class=\"verse-number\">17</span> E fez cinquenta laÃ§adas na borda da Ãºltima cortina, na juntura; tambÃ©m fez cinquenta laÃ§adas na borda da cortina, na outra juntura.",
+      "fra": "<span class=\"verse-number\">17</span> On mit cinquante lacets au bord de la tenture terminant un assemblage et on mit cinquante lacets au bord de la tenture du deuxiÃ¨me assemblage.",
+      "deu": "<span class=\"verse-number\">17Â </span>Dann brachte er fÃ¼nfzig Schleifen am Saum der Ã¤uÃersten Zeltbahn des einen zusammengesetzten StÃ¼ckes an und ebenso fÃ¼nfzig Schleifen am Saum der Ã¤uÃersten Zeltbahn des anderen zusammengesetzten StÃ¼ckes.",
+      "kor": "<span class=\"verse-number\">17</span> íì¥ì ì°ê²°í  ëí­ ê°ì ê³ ë¦¬ ì° ê°ë¥¼ ë¬ë©° ë¤ë¥¸ ì°ê²°í  ëí­ ê°ìë ê³ ë¦¬ ì° ê°ë¥¼ ë¬ê³",
+      "ita": "<span class=\"verse-number\">17</span> E si misero cinquanta nastri allâorlo del telo che era allâestremitÃ  della prima serie di teli, e cinquanta nastri allâorlo del telo che era allâestremitÃ  della seconda serie."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>And he made fifty taches <span class=\"clarity-word\">of</span> brass to couple the tent together, that it might be one.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙØµÙÙÙØ¹ÙÙØ§ Ø®ÙÙÙØ³ÙÙÙÙ ÙÙØ´ÙØ¨ÙÙØ§Ù ÙÙÙÙ ÙÙØ­ÙØ§Ø³Ù ÙÙØªÙØµÙÙÙ Ø¹ÙØ±ÙÙ Ø§ÙÙÙÙØ¬ÙÙÙÙØ¹ÙØªÙÙÙÙÙ ÙÙØ¹Ø§Ù ÙÙØªÙØµÙØ¨ÙØ­ÙØ§ Ø³ÙÙÙÙØ§Ù Ø«ÙØ§ÙÙÙØ§Ù ÙÙÙÙÙÙØ³ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">18</span> ããã¦ã<ruby><rb>éé</rb><rt>ããã©ã</rt></ruby>ã®<ruby><rb>è¼ª</rb><rt>ã</rt></ruby>äºåã<ruby><rb>ä½</rb><rt>ã¤ã</rt></ruby>ãããã®<ruby><rb>å¤©å¹</rb><rt>ã¦ãã¾ã</rt></ruby>ã<ruby><rb>é£</rb><rt>ã¤ã</rt></ruby>ã­<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¦ä¸ã¤ã«ããã",
+      "zhs": "<span class=\"verse-number\">18ã</span>ååäºåä¸ªéé©ï¼ä½¿ç½©æ£è¿æä¸ä¸ªï¼",
+      "zht": "<span class=\"verse-number\">18ã</span>ååäºååéé¤ï¼ä½¿ç½©æ£é£æä¸åï¼",
+      "spa": "<span class=\"verse-number\">18 </span>Hizo tambiÃ©n cincuenta ganchos de bronce para unir la tienda, de modo que fuese una.",
+      "por": "<span class=\"verse-number\">18</span> Fez tambÃ©m cinquenta colchetes de bronze, para ajuntar a tenda, para que fosse uma.",
+      "fra": "<span class=\"verse-number\">18</span> On fit cinquante agrafes en airain pour assembler la tente afin quâelle forme un tout.",
+      "deu": "<span class=\"verse-number\">18Â </span>Hierauf fertigte er fÃ¼nfzig kupferne Haken an, um die Zeltdecke zusammenzufÃ¼gen, sodass sie ein Ganzes bildete.",
+      "kor": "<span class=\"verse-number\">18</span> ë ê°ê³ ë¦¬ ì° ê°ë¥¼ ë§ë¤ì´ ê·¸ íì¥ì ì°ê²°íì¬ í ë§ì´ ëê² íê³",
+      "ita": "<span class=\"verse-number\">18</span> E si fecero cinquanta fermagli di rame per unire assieme la tenda, in modo che formasse un tutto."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>And he made a covering for the tent <span class=\"clarity-word\">of</span> ramsâ skins dyed red, and a covering <span class=\"clarity-word\">of</span> badgersâ skins above <span class=\"clarity-word\">that.</span>",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØ¹ÙÙÙÙÙÙØ§ ØºÙØ·ÙØ§Ø¡Ù ÙÙÙÙØ®ÙÙÙÙÙØ©Ù ÙÙÙÙ Ø¬ÙÙÙÙØ¯Ù ÙÙØ¨ÙØ§Ø´Ù ÙÙØ¯ÙØ¨ÙÙØºÙØ©Ù Ø¨ÙØ§ÙÙÙÙÙÙÙÙ Ø§ÙØ£ÙØ­ÙÙÙØ±ÙØ ÙÙÙÙØµÙØ¨ÙÙØ§ ÙÙÙÙÙÙÙÙ Ø³ÙÙÙÙØ§Ù Ø¢Ø®ÙØ±Ù ÙÙÙÙ Ø¬ÙÙÙÙØ¯Ù Ø¨ÙÙÙÙÙØ³ÙØ¬ÙÙÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">19</span> ã¾ããããã­<ruby><rb>æ</rb><rt>ã</rt></ruby>ãã®<ruby><rb>éç¾</rb><rt>ãã²ã¤ã</rt></ruby>ã®<ruby><rb>ç®</rb><rt>ãã</rt></ruby>ã§ã<ruby><rb>å¤©å¹</rb><rt>ã¦ãã¾ã</rt></ruby>ã®ãããã¨ãããããã®<ruby><rb>ç®</rb><rt>ãã</rt></ruby>ã§ããã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ããããããã¨ã<ruby><rb>ä½</rb><rt>ã¤ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">19ã</span>å¹¶ç¨æçº¢çå¬ç¾ç®åç½©æ£ççï¼åç¨æµ·çç®åä¸å±ç½©æ£ä¸çé¡¶çã",
+      "zht": "<span class=\"verse-number\">19ã</span>ä¸¦ç¨æç´çå¬ç¾ç®åç½©æ£çèï¼åç¨æµ·çç®åä¸å±¤ç½©æ£ä¸çé èã",
+      "spa": "<span class=\"verse-number\">19 </span>E hizo una cubierta para la tienda de pieles de carnero teÃ±idas de rojo, y encima una cubierta de pieles de tejÃ³n.",
+      "por": "<span class=\"verse-number\">19</span> Fez tambÃ©m para a tenda uma coberta de peles de carneiros, tintas de vermelho; e por cima uma coberta de peles de texugos.",
+      "fra": "<span class=\"verse-number\">19</span> On fit pour la tente une couverture en peaux de bÃ©liers teintes en rouge et une couverture en peaux de dauphins qui devait Ãªtre mise par-dessus.",
+      "deu": "<span class=\"verse-number\">19Â </span>Sodann fertigte er fÃ¼r das Zeltdach eine Schutzdecke aus rotgefÃ¤rbten Widderfellen und darÃ¼ber noch eine andere Schutzdecke aus TahaschhÃ¤uten an.",
+      "kor": "<span class=\"verse-number\">19</span> ë¶ì ë¬¼ ë¤ì¸ ì«ìì ê°ì£½ì¼ë¡ ë§ì ë®ê°ë¥¼ ë§ë¤ê³  í´ë¬ì ê°ì£½ì¼ë¡ ê·¸ ìë®ê°ë¥¼ ë§ë¤ìëë¼",
+      "ita": "<span class=\"verse-number\">19</span> Si fece pure per la tenda una coperta di pelli di montone tinte di rosso, e, sopra questa, unâaltra di pelli di delfino."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span><span class=\"para-mark\">Â¶ </span>And he made boards for the tabernacle <span class=\"clarity-word\">of</span> shittim wood, standing up.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙØµÙÙÙØ¹ÙÙØ§ Ø¬ÙØ¯ÙØ±ÙØ§ÙÙ Ø§ÙÙÙÙØ³ÙÙÙÙÙ ÙÙÙÙ Ø£ÙÙÙÙÙØ§Ø­Ù ÙÙØ§Ø¦ÙÙÙØ©Ù ÙÙÙÙ Ø®ÙØ´ÙØ¨Ù Ø§ÙØ³ÙÙÙÙØ·Ù.",
+      "jpn": "<span class=\"verse-number\">20</span> ã¾ã<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®ããã«ã¢ã«ã·ã¤<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããã£ã¦ã<ruby><rb>ç«</rb><rt>ãã¦</rt></ruby><ruby><rb>æ </rb><rt>ãã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">20ã</span>ä»ç¨çèæ¨åå¸å¹çç«æ¿ï¼",
+      "zht": "<span class=\"verse-number\">20ã</span>ä»ç¨çè¢æ¨åå¸³å¹çè±æ¿ï¼",
+      "spa": "<span class=\"verse-number\">20 </span>AdemÃ¡s hizo de madera de acacia las tablas para el tabernÃ¡culo, para colocarlas verticalmente.",
+      "por": "<span class=\"verse-number\">20</span> TambÃ©m fez tÃ¡buas para o tabernÃ¡culo, de madeira <span class=\"clarity-word\">de</span> acÃ¡cia, que eram colocadas em pÃ©.",
+      "fra": "<span class=\"verse-number\">20</span> On fit les planches pour le tabernacleÂ ; elles Ã©taient en bois dâacacia, placÃ©es debout.",
+      "deu": "<span class=\"verse-number\">20Â </span>Weiter fertigte er die Bretter fÃ¼r die WohnstÃ¤tte aus Akazienholz an, sie standen aufrecht;",
+      "kor": "<span class=\"verse-number\">20</span> ê·¸ê° ë ì¡°ê°ëª©ì¼ë¡ ì±ë§ì ì¸ì¸ ëíë¤ì ë§ë¤ìì¼ë",
+      "ita": "<span class=\"verse-number\">20</span> Poi si fecero per il tabernacolo le assi di legno dâacacia, messe verticali."
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>The length of a board <span class=\"clarity-word\">was</span> ten cubits, and the breadth of a board one cubit and a half.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>Ø·ÙÙÙÙ Ø§ÙÙÙÙÙÙØ­Ù ÙÙÙÙÙÙØ§ Ø¹ÙØ´ÙØ±Ù Ø£ÙØ°ÙØ±ÙØ¹Ù (ÙÙØ­ÙÙÙ Ø®ÙÙÙØ³ÙØ©Ù Ø£ÙÙÙØªÙØ§Ø±Ù) ÙÙØ¹ÙØ±ÙØ¶ÙÙÙ Ø°ÙØ±ÙØ§Ø¹Ù ÙÙÙÙØµÙÙÙ (ÙÙØ­ÙÙÙ Ø®ÙÙÙØ³ÙØ©Ù ÙÙØ³ÙØ¨ÙØ¹ÙÙÙÙ Ø³ÙÙÙØªÙÙÙÙØªÙØ±Ø§Ù).",
+      "jpn": "<span class=\"verse-number\">21</span> <ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®<ruby><rb>é·</rb><rt>ãªã</rt></ruby>ãã¯åã­ã¥ããã<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®<ruby><rb>å¹</rb><rt>ã¯ã°</rt></ruby>ã¯ããã®ãã®ä¸ã­ã¥ãã<ruby><rb>å</rb><rt>ã¯ã</rt></ruby>ã¨ãã",
+      "zhs": "<span class=\"verse-number\">21ã</span>æ¯åé¿åèï¼å®½ä¸èåï¼",
+      "zht": "<span class=\"verse-number\">21ã</span>æ¯å¡é·åèï¼å¯¬ä¸èåï¼",
+      "spa": "<span class=\"verse-number\">21 </span>La longitud de cada tabla era de diez codos, y de codo y medio la anchura.",
+      "por": "<span class=\"verse-number\">21</span> O comprimento de cada tÃ¡bua <span class=\"clarity-word\">era</span> de dez cÃ´vados, e a largura de cada tÃ¡bua <span class=\"clarity-word\">era</span> de um cÃ´vado e meio.",
+      "fra": "<span class=\"verse-number\">21</span> La longueur dâune planche Ã©tait de dix coudÃ©es et sa largeur Ã©tait dâune coudÃ©e et demie.",
+      "deu": "<span class=\"verse-number\">21Â </span>die LÃ¤nge jedes Brettes betrug zehn Ellen und die Breite anderthalb Ellen;",
+      "kor": "<span class=\"verse-number\">21</span> ê° íì ê¸¸ì´ë ì´ ê·ë¹, ëë¹ë í ê·ë¹ ë°ì´ë©°",
+      "ita": "<span class=\"verse-number\">21</span> La lunghezza di unâasse era di dieci cubiti, e la larghezza di unâasse, di un cubito e mezzo."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>One board had two tenons, equally distant one from another: thus did he make for all the boards of the tabernacle.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙÙÙÙÙÙÙÙ ÙÙÙÙØ­Ù Ø±ÙØ¬ÙÙØ§ÙÙ ÙÙØªÙÙÙØ§Ø¨ÙÙÙØªÙØ§ÙÙØ Ø¥ÙØ­ÙØ¯ÙØ§ÙÙÙÙØ§ Ø¨ÙØ¥ÙØ²ÙØ§Ø¡Ù Ø§ÙØ£ÙØ®ÙØ±ÙÙ. ÙÙÙÙØ°ÙØ§ Ø¨ÙÙÙÙÙØ§ Ø¬ÙÙÙÙØ¹Ù Ø£ÙÙÙÙÙØ§Ø­Ù Ø§ÙÙÙÙØ³ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">22</span> <ruby><rb>æ </rb><rt>ãã</rt></ruby>ãã¨ã«äºã¤ã®<ruby><rb>æ</rb><rt>ã»ã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ã¦ãããã¨ããã¨ããã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®ãã¹ã¦ã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã«ãã®ããã«ããã",
+      "zhs": "<span class=\"verse-number\">22ã</span>æ¯åæä¸¤æ¦«ç¸å¯¹ãå¸å¹ä¸åçæ¿é½æ¯è¿æ ·åã",
+      "zht": "<span class=\"verse-number\">22ã</span>æ¯å¡æå©æ¦«ç¸å°ãå¸³å¹ä¸åçæ¿é½æ¯éæ¨£åã",
+      "spa": "<span class=\"verse-number\">22 </span>Cada tabla tenÃ­a dos espigas para unirlas la una con la otra; asÃ­ hizo todas las tablas del tabernÃ¡culo.",
+      "por": "<span class=\"verse-number\">22</span> Cada tÃ¡bua tinha dois encaixes, travados um com o outro; assim fez com todas as tÃ¡buas do tabernÃ¡culo.",
+      "fra": "<span class=\"verse-number\">22</span> Il y avait Ã  chaque planche deux tenons, joints lâun Ã  lâautreÂ ; on fit de mÃªme pour toutes les planches du tabernacle.",
+      "deu": "<span class=\"verse-number\">22Â </span>an jedem Brett saÃen zwei Zapfen, einer dem anderen gegenÃ¼ber eingefÃ¼gt; so machte er es an allen Brettern der WohnstÃ¤tte.",
+      "kor": "<span class=\"verse-number\">22</span> ê° íì ë ì´ì´ ìì´ ìë¡ ì°ê²°íê² íìì¼ë ì±ë§ì ëª¨ë  íì´ ê·¸ë¬íë©°",
+      "ita": "<span class=\"verse-number\">22</span> Ogni asse aveva due incastri paralleli; cosÃ¬ fu fatto per tutte le assi del tabernacolo."
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>And he made boards for the tabernacle; twenty boards for the south side southward:",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙØ¬ÙØ¹ÙÙÙÙØ§ Ø§ÙÙØ¬ÙØ§ÙÙØ¨Ù Ø§ÙÙØ¬ÙÙÙÙØ¨ÙÙÙÙ ÙÙÙÙÙÙØ³ÙÙÙÙÙ ÙÙÙÙÙÙÙÙØ§Ù ÙÙÙÙ Ø¹ÙØ´ÙØ±ÙÙÙÙ ÙÙÙÙØ­Ø§Ù.",
+      "jpn": "<span class=\"verse-number\">23</span> <ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®ããã«<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ããããªãã¡<ruby><rb>åå´</rb><rt>ã¿ãªã¿ãã</rt></ruby>ã®ããã«<ruby><rb>æ </rb><rt>ãã</rt></ruby>äºåã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">23ã</span>å¸å¹çåé¢åæ¿äºååï¼",
+      "zht": "<span class=\"verse-number\">23ã</span>å¸³å¹çåé¢åæ¿äºåå¡ï¼",
+      "spa": "<span class=\"verse-number\">23 </span>Hizo, pues, las tablas para el tabernÃ¡culo; veinte tablas al lado meridional, hacia el sur.",
+      "por": "<span class=\"verse-number\">23</span> Assim, pois, fez as tÃ¡buas para o tabernÃ¡culo; vinte tÃ¡buas para o lado meridional, ao sul;",
+      "fra": "<span class=\"verse-number\">23</span> On fit vingt planches pour le tabernacle, du cÃ´tÃ© du sud.",
+      "deu": "<span class=\"verse-number\">23Â </span>Und zwar stellte er an Brettern fÃ¼r die WohnstÃ¤tte her: zwanzig Bretter fÃ¼r die SÃ¼dseite.",
+      "kor": "<span class=\"verse-number\">23</span> ì±ë§ì ìíì¬ ëíì ë§ë¤ìì¼ë ë¨ì¼ë¡ë ë¨ìª½ì ëíì´ ì¤ë¬´ ê°ë¼",
+      "ita": "<span class=\"verse-number\">23</span> Si fecero dunque le assi per il tabernacolo: venti assi dal lato meridionale, verso il sud;"
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>And forty sockets of silver he made under the twenty boards; two sockets under one board for his two tenons, and two sockets under another board for his two tenons.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙØµÙÙÙØ¹ÙÙØ§ Ø£ÙØ±ÙØ¨ÙØ¹ÙÙÙÙ ÙÙØ§Ø¹ÙØ¯ÙØ©Ù ÙÙÙÙ ÙÙØ¶ÙÙØ©Ù ØªÙØ­ÙØªÙ Ø§ÙÙØ¹ÙØ´ÙØ±ÙÙÙÙ ÙÙÙÙØ­Ø§Ù. ÙÙÙÙØ§ÙÙ ÙÙÙÙÙÙÙ ÙÙÙÙØ­Ù ÙÙÙÙÙÙØ±ÙØ¯Ù ÙÙØ§Ø¹ÙØ¯ÙØªÙØ§ÙÙ ÙÙØ±ÙØ¬ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">24</span> ãã®äºåã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>åº§</rb><rt>ã</rt></ruby>ååã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ã¦ããã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ããã®äºã¤ã®<ruby><rb>æ</rb><rt>ã»ã</rt></ruby>ã®ããã«äºã¤ã®<ruby><rb>åº§</rb><rt>ã</rt></ruby>ã<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ãããã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ãããã®äºã¤ã®<ruby><rb>æ</rb><rt>ã»ã</rt></ruby>ã®ããã«äºã¤ã®<ruby><rb>åº§</rb><rt>ã</rt></ruby>ã<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">24ã</span>å¨è¿äºååæ¿åºä¸ååååä¸ªå¸¦å¯çé¶åº§ï¼ä¸¤å¯æ¥è¿åæ¿ä¸çä¸¤æ¦«ï¼ä¸¤å¯æ¥é£åæ¿ä¸çä¸¤æ¦«ã",
+      "zht": "<span class=\"verse-number\">24ã</span>å¨éäºåå¡æ¿åºä¸åååååå¸¶å¯çéåº§ï¼å©å¯æ¥éå¡æ¿ä¸çå©æ¦«ï¼å©å¯æ¥é£å¡æ¿ä¸çå©æ¦«ã",
+      "spa": "<span class=\"verse-number\">24 </span>Hizo tambiÃ©n cuarenta basas de plata debajo de las veinte tablas: dos basas debajo de una tabla para sus dos espigas, y dos basas debajo de otra tabla para sus dos espigas.",
+      "por": "<span class=\"verse-number\">24</span> E fez quarenta bases de prata debaixo das vinte tÃ¡buas: duas bases debaixo de uma tÃ¡bua para os seus dois encaixes, e duas bases debaixo da outra tÃ¡bua para os seus dois encaixes.",
+      "fra": "<span class=\"verse-number\">24</span> On mit quarante bases en argent sous les vingt planches, deux bases sous chaque planche correspondant Ã  ses deux tenons.",
+      "deu": "<span class=\"verse-number\">24Â </span>Und er brachte unter diesen zwanzig Brettern vierzig silberne FÃ¼Ãe an, je zwei FÃ¼Ãe unter jedem Brett fÃ¼r seine beiden Zapfen.",
+      "kor": "<span class=\"verse-number\">24</span> ê·¸ ì¤ë¬´ ê° ëí ë°ì ì ë°ì¹¨ ë§í ê°ë¥¼ ë§ë¤ìì¼ë ê³§ ì´ ëí ë°ìë ë ë°ì¹¨ì´ ê·¸ ë ì´ì ë°ê² íìê³  ì  ëí ë°ìë ë ë°ì¹¨ì´ ê·¸ ë ì´ì ë°ê² íìì¼ë©°",
+      "ita": "<span class=\"verse-number\">24</span> e si fecero quaranta basi dâargento sotto le venti assi: due basi sotto ciascunâasse per i suoi due incastri."
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>And for the other side of the tabernacle, <span class=\"clarity-word\">which is</span> toward the north corner, he made twenty boards,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>Ø£ÙÙÙÙØ§ Ø¬ÙØ§ÙÙØ¨Ù Ø§ÙÙÙÙØ³ÙÙÙÙÙ Ø§ÙØ«ÙÙØ§ÙÙÙ Ø§ÙØ´ÙÙÙÙØ§ÙÙÙÙÙØ ÙÙÙÙØ§ÙÙ ÙÙÙÙ Ø£ÙÙÙØ¶Ø§Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ ÙÙÙÙØ­Ø§ÙØ",
+      "jpn": "<span class=\"verse-number\">25</span> ã¾ã<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®<ruby><rb>ä»</rb><rt>ã</rt></ruby>ã®<ruby><rb>å´</rb><rt>ãã</rt></ruby>ãããªãã¡<ruby><rb>åå´</rb><rt>ãããã</rt></ruby>ã®ããã«ã<ruby><rb>æ </rb><rt>ãã</rt></ruby>äºåã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">25ã</span>å¸å¹çç¬¬äºé¢ï¼å°±æ¯åé¢ï¼ä¹åæ¿äºååï¼",
+      "zht": "<span class=\"verse-number\">25ã</span>å¸³å¹çç¬¬äºé¢ï¼å°±æ¯åé¢ï¼ä¹åæ¿äºåå¡ï¼",
+      "spa": "<span class=\"verse-number\">25 </span>Y para el otro lado del tabernÃ¡culo, al lado norte, hizo veinte tablas,",
+      "por": "<span class=\"verse-number\">25</span> TambÃ©m fez vinte tÃ¡buas para o outro lado do tabernÃ¡culo, do lado norte,",
+      "fra": "<span class=\"verse-number\">25</span> On fit vingt planches pour le deuxiÃ¨me cÃ´tÃ© du tabernacle, le cÃ´tÃ© du nord,",
+      "deu": "<span class=\"verse-number\">25Â </span>Ebenso fertigte er fÃ¼r die andere Seite der WohnstÃ¤tte, nÃ¤mlich fÃ¼r die Nordseite, zwanzig Bretter an",
+      "kor": "<span class=\"verse-number\">25</span> ì±ë§ ë¤ë¥¸ ìª½ ê³§ ë¶ìª½ì ìíì¬ë ëí ì¤ë¬´ ê°ë¥¼ ë§ë¤ê³",
+      "ita": "<span class=\"verse-number\">25</span> E per il secondo lato del tabernacolo, il lato di nord,"
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span>And their forty sockets of <span class=\"page-break\" data-page=\"139\"></span>silver; two sockets under one board, and two sockets under another board.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙØ£ÙØ±ÙØ¨ÙØ¹ÙÙÙÙ ÙÙØ§Ø¹ÙØ¯ÙØ©Ù ÙÙÙÙ ÙÙØ¶ÙÙØ©ÙØ ÙÙÙÙØ§ÙÙ ÙÙÙÙÙÙÙ ÙÙÙÙØ­Ù ÙÙÙÙÙÙØ±ÙØ¯Ù ÙÙØ§Ø¹ÙØ¯ÙØªÙØ§ÙÙ ÙÙØ±ÙØ¬ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">26</span> ãã®<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>åº§</rb><rt>ã</rt></ruby>ååã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ã¦ããã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ãäºã¤ã®<ruby><rb>åº§</rb><rt>ã</rt></ruby>ã<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ãããã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ãäºã¤ã®<ruby><rb>åº§</rb><rt>ã</rt></ruby>ã<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">26ã</span>åå¸¦å¯çé¶åº§ååä¸ªï¼è¿æ¿åºä¸æä¸¤å¯ï¼é£æ¿åºä¸ä¹æä¸¤å¯ã",
+      "zht": "<span class=\"verse-number\">26ã</span>åå¸¶å¯çéåº§åååï¼éæ¿åºä¸æå©å¯ï¼é£æ¿åºä¸ä¹æå©å¯ã",
+      "spa": "<span class=\"verse-number\">26 </span>con sus cuarenta basas de plata: dos basas debajo de una tabla, y dos basas debajo de otra tabla.",
+      "por": "<span class=\"verse-number\">26</span> Com as suas quarenta bases de prata; duas bases debaixo de uma tÃ¡bua, e duas bases debaixo de outra tÃ¡bua.",
+      "fra": "<span class=\"verse-number\">26</span> et leurs quarante bases en argent, deux bases sous chaque planche.",
+      "deu": "<span class=\"verse-number\">26Â </span>und vierzig silberne FÃ¼Ãe dazu, je zwei FÃ¼Ãe unter jedem Brett.",
+      "kor": "<span class=\"verse-number\">26</span> ë ì ë°ì¹¨ ë§í ê°ë¥¼ ë§ë¤ìì¼ë ê³§ ì´ í ë°ìë ë°ì¹¨ì´ ëì´ì ì  í ë°ìë ë°ì¹¨ì´ ëì´ë©°",
+      "ita": "<span class=\"verse-number\">26</span> si fecero venti assi, con le loro quaranta basi dâargento: due basi sotto ciascunâasse."
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>And for the sides of the tabernacle westward he made six boards.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙØ¨ÙÙÙÙÙØ§ Ø¬ÙØ¯ÙØ§Ø±Ù ÙÙØ¤ÙØ®ÙÙØ±Ù Ø§ÙÙÙÙØ³ÙÙÙÙÙ Ø§ÙÙØºÙØ±ÙØ¨ÙÙÙÙ ÙÙÙÙ Ø³ÙØªÙÙØ©Ù Ø£ÙÙÙÙÙØ§Ø­Ù.",
+      "jpn": "<span class=\"verse-number\">27</span> ã¾ã<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®ãããã<ruby><rb>è¥¿å´</rb><rt>ã«ããã</rt></ruby>ã®ããã«<ruby><rb>æ </rb><rt>ãã</rt></ruby>å­ã¤ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">27ã</span>å¸å¹çåé¢ï¼å°±æ¯è¥¿é¢ï¼åæ¿å­åã",
+      "zht": "<span class=\"verse-number\">27ã</span>å¸³å¹çå¾é¢ï¼å°±æ¯è¥¿é¢ï¼åæ¿å­å¡ã",
+      "spa": "<span class=\"verse-number\">27 </span>Y para el lado occidental del tabernÃ¡culo hizo seis tablas.",
+      "por": "<span class=\"verse-number\">27</span> E no lado do tabernÃ¡culo, para o ocidente, fez seis tÃ¡buas.",
+      "fra": "<span class=\"verse-number\">27</span> On fit six planches pour lâarriÃ¨re du tabernacle, du cÃ´tÃ© de lâoccident.",
+      "deu": "<span class=\"verse-number\">27Â </span>Aber fÃ¼r die Hinterseite der WohnstÃ¤tte, nach Westen zu, fertigte er sechs Bretter an,",
+      "kor": "<span class=\"verse-number\">27</span> ì¥ë§ ë¤ ê³§ ììª½ì ìíì¬ë ëí ì¬ì¯ ê°ë¥¼ ë§ë¤ìê³",
+      "ita": "<span class=\"verse-number\">27</span> E per la parte posteriore del tabernacolo, verso occidente, si fecero sei assi."
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span>And two boards made he for the corners of the tabernacle in the two sides.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙØµÙÙÙØ¹ÙÙØ§ ÙÙÙÙØ­ÙÙÙÙÙ ÙÙØ²ÙØ§ÙÙÙÙØªÙÙÙ Ø§ÙÙÙÙØ³ÙÙÙÙÙ ÙÙÙ Ø§ÙÙÙÙØ¤ÙØ®ÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">28</span> <ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®ãããã®äºã¤ã®ãã¿ã®ããã«<ruby><rb>æ </rb><rt>ãã</rt></ruby>äºã¤ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">28ã</span>å¸å¹åé¢çæè§åæ¿ä¸¤åã",
+      "zht": "<span class=\"verse-number\">28ã</span>å¸³å¹å¾é¢çæè§åæ¿å©å¡ã",
+      "spa": "<span class=\"verse-number\">28 </span>Para las esquinas del tabernÃ¡culo, en los dos lados, hizo dos tablas,",
+      "por": "<span class=\"verse-number\">28</span> Fez tambÃ©m duas tÃ¡buas para os cantos do tabernÃ¡culo nos dois lados,",
+      "fra": "<span class=\"verse-number\">28</span> On fit deux planches pour les angles arriÃ¨res du tabernacleÂ ;",
+      "deu": "<span class=\"verse-number\">28Â </span>auÃerdem noch zwei Bretter fÃ¼r die Ecken der WohnstÃ¤tte an der Hinterseite.",
+      "kor": "<span class=\"verse-number\">28</span> ì¥ë§ ë¤ ë ëª¨íì´ í¸ì ìíì¬ë ëí ë ê°ë¥¼ ë§ë¤ë",
+      "ita": "<span class=\"verse-number\">28</span> Si fecero pure due assi per gli angoli del tabernacolo, dalla parte posteriore."
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>And they were coupled beneath, and coupled together at the head thereof, to one ring: thus he did to both of them in both the corners.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙÙÙØ§ÙÙ ÙÙÙÙÙ ÙÙÙÙÙÙÙÙØ§ ÙÙØ²ÙØ¯ÙÙÙØ¬Ø§Ù ÙÙÙÙ Ø£ÙØ³ÙÙÙÙÙÙÙ Ø¥ÙÙÙÙ Ø£ÙØ¹ÙÙØ§ÙÙØ Ø­ÙÙÙØ«Ù ØªÙØ«ÙØ¨ÙÙØªÙ ÙÙÙ Ø±ÙØ£ÙØ³Ù ÙÙÙÙÙ ÙÙØ²ÙØ¯ÙÙÙØ¬Ù Ø­ÙÙÙÙÙØ©Ù ÙÙØ§Ø­ÙØ¯ÙØ©Ù. ÙÙÙÙØ°ÙØ§ ÙÙÙÙÙÙÙ ÙÙÙÙÙ ÙÙÙÙÙÙÙÙØ§ ÙÙÙØ²ÙÙØ§ÙÙÙÙØªÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">29</span> ãããã¯ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã§<ruby><rb>é</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>å</rb><rt>ããª</rt></ruby>ãããã®<ruby><rb>é </rb><rt>ããã ã</rt></ruby>ã§ã<ruby><rb>ç¬¬</rb><rt>ã ã</rt></ruby>ä¸ã®<ruby><rb>ç°</rb><rt>ãã</rt></ruby>ã¾ã§<ruby><rb>é</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>å</rb><rt>ã</rt></ruby>ãããã«ãããã®äºã¤ã¨ãäºã¤ã®ãã¿ã®ããã«ããã®ããã«<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">29ã</span>æ¿çä¸åæªæ¯åçï¼ä¸åæªæ¯æ´çï¼ç´å°ç¬¬ä¸ä¸ªç¯å­ï¼å¨å¸å¹çä¸¤ä¸ªæè§ä¸é½æ¯è¿æ ·åã",
+      "zht": "<span class=\"verse-number\">29ã</span>æ¿çä¸åæªæ¯éçï¼ä¸åæªæ¯æ´çï¼ç´å°ç¬¬ä¸åç°å­ï¼å¨å¸³å¹çå©åæè§ä¸é½æ¯éæ¨£åã",
+      "spa": "<span class=\"verse-number\">29 </span>las cuales se unÃ­an por abajo, y asimismo por arriba, con un gozne; y asÃ­ hizo a la una y a la otra en las dos esquinas.",
+      "por": "<span class=\"verse-number\">29</span> As quais estavam juntas debaixo, e tambÃ©m se ajuntavam por cima com uma argola; assim fez com ambas nos dois cantos.",
+      "fra": "<span class=\"verse-number\">29</span> elles Ã©taient doubles depuis le bas et bien liÃ©es Ã  leur sommet par un anneauÂ ; on fit de mÃªme pour toutes les deux aux deux angles.",
+      "deu": "<span class=\"verse-number\">29Â </span>Diese waren unten und gleicherweise oben vollstÃ¤ndig bis an den ersten Ring hin; so machte er es bei beiden fÃ¼r die beiden Ecken.",
+      "kor": "<span class=\"verse-number\">29</span> ìëììë¶í° ìê¹ì§ ê°ê¸° ë ê²¹ ëê»ë¡ íì¬ ìê³ ë¦¬ì ì´ë¥´ê² íê³  ë ëª¨íì´ ìª½ì ë¤ ê·¸ë¦¬íë©°",
+      "ita": "<span class=\"verse-number\">29</span> E queste erano doppie dal basso in su, e al tempo stesso formavano un tutto fino in cima, fino al primo anello. CosÃ¬ fu fatto per ambedue le assi, che erano ai due angoli."
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span>And there were eight boards; and their sockets <span class=\"clarity-word\">were</span> sixteen sockets of silver, under every board two sockets.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>ÙÙÙÙØ§ÙÙØªÙ ÙÙÙ ÙÙØ¬ÙÙÙÙØ¹ÙÙÙØ§ Ø«ÙÙÙØ§ÙÙÙÙØ©Ù Ø£ÙÙÙÙÙØ§Ø­Ù ÙÙØ³ÙØªÙÙ Ø¹ÙØ´ÙØ±ÙØ©Ù ÙÙØ§Ø¹ÙØ¯ÙØ©Ù ÙÙÙÙ ÙÙØ¶ÙÙØ©ÙØ ÙÙØ§Ø¹ÙØ¯ÙØªÙÙÙÙÙ ÙÙÙÙÙÙÙ ÙÙÙÙØ­Ù ÙÙÙÙÙÙØ±ÙØ¯Ù.",
+      "jpn": "<span class=\"verse-number\">30</span> ãããã¦ããã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã¯å«ã¤ããã®<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>åº§</rb><rt>ã</rt></ruby>ã¯åå­ããã®ãã®ã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ãäºã¤ãã¤<ruby><rb>åº§</rb><rt>ã</rt></ruby>ããã£ãã",
+      "zhs": "<span class=\"verse-number\">30ã</span>æå«åæ¿ååå­ä¸ªå¸¦å¯çé¶åº§ï¼æ¯åæ¿åºä¸æä¸¤å¯ã",
+      "zht": "<span class=\"verse-number\">30ã</span>æå«å¡æ¿ååå­åå¸¶å¯çéåº§ï¼æ¯å¡æ¿åºä¸æå©å¯ã",
+      "spa": "<span class=\"verse-number\">30 </span>Eran, pues, ocho tablas, y sus basas de plata diecisÃ©is; dos basas debajo de cada tabla.",
+      "por": "<span class=\"verse-number\">30</span> Assim, eram oito tÃ¡buas com as suas bases de prata, <span class=\"clarity-word\">a saber,</span> dezesseis bases, duas bases debaixo de cada tÃ¡bua.",
+      "fra": "<span class=\"verse-number\">30</span> Il y avait ainsi huit planches, avec leurs bases en argent, soit seize bases, deux bases sous chaque planche.",
+      "deu": "<span class=\"verse-number\">30Â </span>Demnach waren es im Ganzen acht Bretter, dazu ihre FÃ¼Ãe aus Silber: sechzehn FÃ¼Ãe, immer zwei FÃ¼Ãe unter jedem Brett.",
+      "kor": "<span class=\"verse-number\">30</span> ê·¸ ëíì ì¬ë ê°ì ê·¸ ë°ì¹¨ì ì ë°ì¹¨ ì´ì¬ì¯ ê°ë¼ ê° ëí ë°ì ë ê°ì©ì´ìëë¼",
+      "ita": "<span class=\"verse-number\">30</span> Vâerano dunque otto assi, con le loro basi dâargento: sedici basi, due basi sotto ciascunâasse."
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span><span class=\"para-mark\">Â¶ </span>And he made bars of shittim wood; five for the boards of the one side of the tabernacle,",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙØµÙÙÙØ¹ÙÙØ§ Ø¹ÙÙÙØ§Ø±ÙØ¶Ù ÙÙÙÙ Ø®ÙØ´ÙØ¨Ù Ø§ÙØ³ÙÙÙÙØ·ÙØ Ø®ÙÙÙØ³Ø§Ù ÙØ£ÙÙÙÙÙØ§Ø­Ù Ø¬ÙØ§ÙÙØ¨Ù Ø§ÙÙÙÙØ³ÙÙÙÙÙ Ø§ÙÙØ¬ÙÙÙÙØ¨ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">31</span> ã¾ãã¢ã«ã·ã¤<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ¨ªæ¨</rb><rt>ããã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ããããªãã¡<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®ãã®<ruby><rb>å´</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®ããã«äºã¤ã",
+      "zhs": "<span class=\"verse-number\">31ã</span>ä»ç¨çèæ¨åé©ï¼ä¸ºå¸å¹è¿é¢çæ¿åäºé©ï¼",
+      "zht": "<span class=\"verse-number\">31ã</span>ä»ç¨çè¢æ¨åéï¼çºå¸³å¹éé¢çæ¿åäºéï¼",
+      "spa": "<span class=\"verse-number\">31 </span>Hizo tambiÃ©n las barras de madera de acacia; cinco para las tablas de un lado del tabernÃ¡culo,",
+      "por": "<span class=\"verse-number\">31</span> Fez tambÃ©m barras de madeira de acÃ¡cia, cinco para as tÃ¡buas de um lado do tabernÃ¡culo.",
+      "fra": "<span class=\"verse-number\">31</span> On fit cinq barres en bois dâacacia pour les planches de lâun des cÃ´tÃ©s du tabernacle,",
+      "deu": "<span class=\"verse-number\">31Â </span>Sodann fertigte er Riegel aus Akazienholz an: fÃ¼nf fÃ¼r die Bretter der einen Seitenwand der WohnstÃ¤tte",
+      "kor": "<span class=\"verse-number\">31</span> ê·¸ê° ë ì¡°ê°ëª©ì¼ë¡ ë ë¥¼ ë§ë¤ìì¼ë ê³§ ì±ë§ ì´ìª½ ëíì ìíì¬ ë¤ì¯ ê°ì",
+      "ita": "<span class=\"verse-number\">31</span> E si fecero delle traverse di legno dâacacia: cinque, per le assi di un lato del tabernacolo;"
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span>And five bars for the boards of the other side of the tabernacle, and five bars for the boards of the tabernacle for the sides westward.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØ®ÙÙÙØ³Ø§Ù ÙØ£ÙÙÙÙÙØ§Ø­Ù Ø¬ÙØ§ÙÙØ¨Ù Ø§ÙÙÙÙØ³ÙÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ§ÙÙÙÙÙØ ÙÙØ®ÙÙÙØ³Ù Ø¹ÙÙÙØ§Ø±ÙØ¶Ù ÙØ£ÙÙÙÙÙØ§Ø­Ù ÙÙØ¤ÙØ®ÙÙØ±Ù Ø§ÙÙÙÙØ³ÙÙÙÙÙ Ø§ÙÙØºÙØ±ÙØ¨ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">32</span> ã¾ã<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®ãã®<ruby><rb>å´</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®ããã«<ruby><rb>æ¨ªæ¨</rb><rt>ããã</rt></ruby>äºã¤ã<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®ãããã®<ruby><rb>è¥¿å´</rb><rt>ã«ããã</rt></ruby>ã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®ããã«<ruby><rb>æ¨ªæ¨</rb><rt>ããã</rt></ruby>äºã¤ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">32ã</span>ä¸ºå¸å¹é£é¢çæ¿åäºé©ï¼åä¸ºå¸å¹åé¢çæ¿åäºé©ï¼",
+      "zht": "<span class=\"verse-number\">32ã</span>çºå¸³å¹é£é¢çæ¿åäºéï¼åçºå¸³å¹å¾é¢çæ¿åäºéï¼",
+      "spa": "<span class=\"verse-number\">32 </span>y cinco barras para las tablas del otro lado del tabernÃ¡culo, y cinco barras para las tablas del lado occidental del tabernÃ¡culo.",
+      "por": "<span class=\"verse-number\">32</span> E cinco barras para as tÃ¡buas do outro lado do tabernÃ¡culo; e <span class=\"clarity-word\">outras</span> cinco barras para as tÃ¡buas do tabernÃ¡culo de ambos os lados do ocidente.",
+      "fra": "<span class=\"verse-number\">32</span> cinq barres pour les planches du deuxiÃ¨me cÃ´tÃ© du tabernacle et cinq barres pour les planches du cÃ´tÃ© du tabernacle formant lâarriÃ¨re, vers lâoccidentÂ ;",
+      "deu": "<span class=\"verse-number\">32Â </span>und fÃ¼nf Riegel fÃ¼r die Bretter der anderen Seitenwand der WohnstÃ¤tte und fÃ¼nf Riegel fÃ¼r die Bretter an der Hinterseite der WohnstÃ¤tte Richtung Westen.",
+      "kor": "<span class=\"verse-number\">32</span> ì±ë§ ì ìª½ ëíì ìíì¬ ë¤ì¯ ê°ì ì±ë§ ë¤ ê³§ ììª½ ëíì ìíì¬ ë¤ì¯ ê°ë©°",
+      "ita": "<span class=\"verse-number\">32</span> cinque traverse per le assi dellâaltro lato del tabernacolo, e cinque traverse per le assi della parte posteriore del tabernacolo, a occidente."
+    },
+    "33": {
+      "eng": "<span class=\"verse-number\">33 </span>And he made the middle bar to shoot through the boards from the one end to the other.",
+      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>ÙÙØ¬ÙØ¹ÙÙÙÙØ§ Ø§ÙÙØ¹ÙØ§Ø±ÙØ¶ÙØ©Ù Ø§ÙÙÙÙØ³ÙØ·ÙÙ ØªÙÙÙÙÙØ°Ù ÙÙÙ ÙÙØ³ÙØ·Ù Ø§ÙØ£ÙÙÙÙÙØ§Ø­Ù ÙÙÙÙ Ø·ÙØ±ÙÙÙ Ø¥ÙÙÙÙ Ø·ÙØ±ÙÙÙ",
+      "jpn": "<span class=\"verse-number\">33</span> <ruby><rb>æ </rb><rt>ãã</rt></ruby>ã®ã¾ã<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã«ãã<ruby><rb>ä¸­å¤®</rb><rt>ã¡ãããã</rt></ruby>ã®<ruby><rb>æ¨ªæ¨</rb><rt>ããã</rt></ruby>ã¯ã<ruby><rb>ç«¯</rb><rt>ã¯ã</rt></ruby>ãã<ruby><rb>ç«¯</rb><rt>ã¯ã</rt></ruby>ã¾ã§<ruby><rb>é</rb><rt>ã¨ã</rt></ruby>ãããã«ããã",
+      "zhs": "<span class=\"verse-number\">33ã</span>ä½¿æ¿è°é´çä¸­é©ä»è¿ä¸å¤´éå°é£ä¸å¤´ã",
+      "zht": "<span class=\"verse-number\">33ã</span>ä½¿æ¿è°éçä¸­éå¾éä¸é ­éå°é£ä¸é ­ã",
+      "spa": "<span class=\"verse-number\">33 </span>E hizo que la barra del centro pasase por en medio de las tablas de un extremo al otro.",
+      "por": "<span class=\"verse-number\">33</span> E fez que a barra do meio passasse pelo meio das tÃ¡buas, de uma extremidade atÃ© a outra.",
+      "fra": "<span class=\"verse-number\">33</span> on fit la barre du milieu pour traverser les planches dâune extrÃ©mitÃ© Ã  lâautre.",
+      "deu": "<span class=\"verse-number\">33Â </span>Den mittleren Riegel aber machte er so, dass er in der Mitte der Bretter von einem Ende bis zum anderen durchlief.",
+      "kor": "<span class=\"verse-number\">33</span> ê·¸ ì¤ê° ë ë¥¼ ë§ë¤ë ëí ì¤ê° ì´ ëìì ì  ëì ë¯¸ì¹ê² íìì¼ë©°",
+      "ita": "<span class=\"verse-number\">33</span> E si fece passare la traversa di mezzo attraverso le assi, da una parte allâaltra."
+    },
+    "34": {
+      "eng": "<span class=\"verse-number\">34 </span>And he overlaid the boards with gold, and made their rings <span class=\"clarity-word\">of</span> gold <span class=\"clarity-word\">to be</span> places for the bars, and overlaid the bars with gold.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>ÙÙØºÙØ´ÙÙÙÙØ§ Ø§ÙØ£ÙÙÙÙÙØ§Ø­Ù Ø¨ÙØ±ÙÙÙØ§Ø¦ÙÙÙ ÙÙÙÙ Ø°ÙÙÙØ¨Ù. ÙÙØµÙÙÙØ¹ÙÙØ§ ÙÙÙÙØ§ Ø­ÙÙÙÙÙØ§ØªÙ ÙÙÙÙ Ø°ÙÙÙØ¨Ù ÙÙØªÙÙÙÙÙÙ Ø¨ÙÙÙÙØªØ§Ù ÙÙÙÙØ¹ÙÙÙØ§Ø±ÙØ¶Ù. ÙÙÙÙØ°ÙÙÙÙÙ ØºÙØ´ÙÙÙÙØ§ Ø§ÙÙØ¹ÙÙÙØ§Ø±ÙØ¶Ù Ø¨ÙØ§ÙØ°ÙÙÙÙØ¨Ù.",
+      "jpn": "<span class=\"verse-number\">34</span> ããã¦ããã®<ruby><rb>æ </rb><rt>ãã</rt></ruby>ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã§ããããã¾ã<ruby><rb>æ¨ªæ¨</rb><rt>ããã</rt></ruby>ã<ruby><rb>é</rb><rt>ã¨ã</rt></ruby>ããã®<ruby><rb>ç°</rb><rt>ãã</rt></ruby>ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã§<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããã¾ããã®<ruby><rb>æ¨ªæ¨</rb><rt>ããã</rt></ruby>ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã§ããã£ãã",
+      "zhs": "<span class=\"verse-number\">34ã</span>ç¨éå­å°æ¿åè£¹ï¼ååæ¿ä¸çéç¯å¥é©ï¼é©ä¹ç¨éå­åè£¹ã",
+      "zht": "<span class=\"verse-number\">34ã</span>ç¨éå­å°æ¿åè£¹ï¼ååæ¿ä¸çéç°å¥éï¼éä¹ç¨éå­åè£¹ã",
+      "spa": "<span class=\"verse-number\">34 </span>Y recubriÃ³ las tablas de oro, e hizo de oro las argollas de ellas <span class=\"page-break\" data-page=\"163\"></span>por donde pasasen las barras; recubriÃ³ tambiÃ©n de oro las barras.",
+      "por": "<span class=\"verse-number\">34</span> E cobriu de ouro as tÃ¡buas, e as suas argolas (os suportes das barras) fez de ouro; as barras tambÃ©m cobriu de ouro.",
+      "fra": "<span class=\"verse-number\">34</span> On recouvrit dâor les planches, on fit en or leurs anneaux pour recevoir les barres et on recouvrit dâor les barres.",
+      "deu": "<span class=\"verse-number\">34Â </span>Die Bretter aber Ã¼berzog er mit Gold, und auch die dazugehÃ¶rigen Ringe, die zur Aufnahme der Riegel dienten, stellte er aus Gold her und Ã¼berzog die Riegel gleichfalls mit Gold.",
+      "kor": "<span class=\"verse-number\">34</span> ê·¸ ëíë¤ì ê¸ì¼ë¡ ì¸ê³  ê·¸ ëíì ë ë¥¼ ê¿¸ ê¸ ê³ ë¦¬ë¥¼ ë§ë¤ê³  ê·¸ ë ë ê¸ì¼ë¡ ìëë¼",
+      "ita": "<span class=\"verse-number\">34</span> E le assi furono rivestite dâoro, e furono fatti dâoro i loro anelli per i quali dovevano passare le traverse, e le traverse furono rivestite dâoro."
+    },
+    "35": {
+      "eng": "<span class=\"verse-number\">35 </span><span class=\"para-mark\">Â¶ </span>And he made a veil <span class=\"clarity-word\">of</span> blue, and purple, and scarlet, and fine twined linen: <span class=\"clarity-word\">with</span> cherubims made he it of cunning work.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¥ </span>ÙÙØµÙÙÙØ¹ÙÙØ§ Ø§ÙÙØ­ÙØ¬ÙØ§Ø¨Ù ÙÙÙÙ ÙÙØªÙÙØ§ÙÙ ÙÙØ¨ÙØ±ÙÙÙÙ Ø°ÙÙ Ø£ÙÙÙÙÙØ§ÙÙ Ø²ÙØ±ÙÙÙØ§Ø¡Ù ÙÙØ¨ÙÙÙÙÙØ³ÙØ¬ÙÙÙÙØ©Ù ÙÙØ­ÙÙÙØ±ÙØ§Ø¡ÙØ Ø¨ÙØ¹ÙØ¯Ù Ø£ÙÙÙ Ø­ÙØ§ÙÙ Ø¹ÙÙÙÙÙÙÙ Ø­ÙØ§Ø¦ÙÙÙ ÙÙØ§ÙÙØ±Ù Ø±ÙØ³ÙÙÙ Ø§ÙÙÙÙØ±ÙÙØ¨ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">35</span> ã¾ã<ruby><rb>é</rb><rt>ãã</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>ç´«</rb><rt>ãããã</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>ç·</rb><rt>ã²</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>äºéº»</rb><rt>ãã¾</rt></ruby>ã®<ruby><rb>æç³¸</rb><rt>ã­ãã</rt></ruby>ã§ã<ruby><rb>åå¹</rb><rt>ããã¾ã</rt></ruby>ã<ruby><rb>ä½</rb><rt>ã¤ã</rt></ruby>ãã<ruby><rb>å·§</rb><rt>ãã</rt></ruby>ã¿ãªããããã£ã¦ãããã«ã±ã«ãã ã<ruby><rb>ç¹</rb><rt>ã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">35ã</span>ä»ç¨èè²ãç´«è²ãæ±çº¢è²<span class=\"clarity-word\">çº¿</span>åæ»çç»éº»ç»å¹å­ï¼ä»¥å·§å çæå·¥ç»£ä¸åºè·¯ä¼¯ã",
+      "zht": "<span class=\"verse-number\">35ã</span>ä»ç¨èè²ãç´«è²ãæ±ç´è²<span class=\"clarity-word\">ç·</span>åæçç´°éº»ç¹å¹å­ï¼ä»¥å·§å çæå·¥ç¹¡ä¸åºè·¯ä¼¯ã",
+      "spa": "<span class=\"verse-number\">35 </span>Hizo asimismo el velo de azul, y pÃºrpura, y carmesÃ­ y lino torcido, y lo hizo con querubines de obra primorosa.",
+      "por": "<span class=\"verse-number\">35</span> Depois fez o vÃ©u de azul, e de pÃºrpura, e de carmesim, e de linho fino torcido; de obra esmerada o fez <span class=\"clarity-word\">com</span> querubins.",
+      "fra": "<span class=\"verse-number\">35</span> On fit le voile en fil bleu, pourpre et cramoisi, et en fin lin retorsÂ ; on le fit dans les rÃ¨gles de lâart et lâon y reprÃ©senta des chÃ©rubins.",
+      "deu": "<span class=\"verse-number\">35Â </span>Weiter fertigte er den Vorhang aus blauem und rotem Purpur, aus Karmesin und gezwirntem Byssus an, und zwar in Kunstweberarbeit mit Kerubbildern.",
+      "kor": "<span class=\"verse-number\">35</span> ê·¸ê° ë ì²­ì ìì íì <span class=\"clarity-word\">ì¤</span>ê³¼ ê°ëê² ê¼° ë²  ì¤ë¡ íì¥ì ì§ê³  ê·¸ ìì ê·¸ë£¹ë¤ì ì êµíê² ì ëê³",
+      "ita": "<span class=\"verse-number\">35</span> Fu fatto pure il velo, di filo violaceo, porporino, scarlatto, e di lino fino ritorto con dei cherubini artisticamente lavorati;"
+    },
+    "36": {
+      "eng": "<span class=\"verse-number\">36 </span>And he made thereunto four pillars <span class=\"clarity-word\">of</span> shittim <span class=\"clarity-word\">wood,</span> and overlaid them with gold: their hooks <span class=\"clarity-word\">were of</span> gold; and he cast for them four sockets of silver.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¦ </span>ÙÙØµÙÙÙØ¹ÙÙØ§ ÙÙÙÙ Ø£ÙØ±ÙØ¨ÙØ¹ÙØ©Ù Ø£ÙØ¹ÙÙÙØ¯ÙØ©Ù ÙÙÙÙ Ø®ÙØ´ÙØ¨Ù Ø§ÙØ³ÙÙÙÙØ·Ù ÙÙØºÙØ´ÙÙØ§Ø©Ù Ø¨ÙØ°ÙÙÙØ¨ÙØ ÙÙÙÙØ§ Ø£ÙØ±ÙØ¨ÙØ¹ÙØ©Ù Ø®ÙØ·ÙØ§Ø·ÙÙÙÙ ÙÙÙÙ Ø°ÙÙÙØ¨ÙØ ÙÙÙÙØ§Ø¦ÙÙÙØ©Ù Ø¹ÙÙÙÙ Ø£ÙØ±ÙØ¨ÙØ¹Ù ÙÙÙÙØ§Ø¹ÙØ¯Ù ÙÙÙÙ ÙÙØ¶ÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">36</span> ã¾ãããããããã«ã¢ã«ã·ã¤<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ±</rb><rt>ã¯ãã</rt></ruby>å<ruby><rb>æ¬</rb><rt>ã»ã</rt></ruby>ã<ruby><rb>ä½</rb><rt>ã¤ã</rt></ruby>ãã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã§ããããããããã®<ruby><rb>é¤</rb><rt>ãã¾</rt></ruby>ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã«ãããã®<ruby><rb>æ±</rb><rt>ã¯ãã</rt></ruby>ã®ããã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>åº§</rb><rt>ã</rt></ruby>åã¤ã<ruby><rb>é³</rb><rt>ã</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">36ã</span>ä¸ºå¹å­ååæ ¹çèæ¨æ±å­ï¼ç¨éåè£¹ï¼æ±å­ä¸æéé©ï¼åä¸ºæ±å­é¸äºåä¸ªå¸¦å¯çé¶åº§ã",
+      "zht": "<span class=\"verse-number\">36ã</span>çºå¹å­ååæ ¹çè¢æ¨æ±å­ï¼ç¨éåè£¹ï¼æ±å­ä¸æéé¤ï¼åçºæ±å­éäºååå¸¶å¯çéåº§ã",
+      "spa": "<span class=\"verse-number\">36 </span>Y para el velo hizo cuatro columnas de madera de acacia y las recubriÃ³ de oro. Sus ganchos eran de oro, y fundiÃ³ para ellas cuatro basas de plata.",
+      "por": "<span class=\"verse-number\">36</span> E fez-lhe quatro colunas de <span class=\"clarity-word\">madeira de</span> acÃ¡cia, e as cobriu de ouro; e seus colchetes fez de ouro, e fundiu-lhe quatro bases de prata.",
+      "fra": "<span class=\"verse-number\">36</span> On fit pour lui quatre colonnes en acacia et on les recouvrit dâorÂ ; elles avaient des crochets en or et on fondit pour elles quatre bases en argent.",
+      "deu": "<span class=\"verse-number\">36Â </span>Dann fertigte er fÃ¼r ihn vier SÃ¤ulen aus Akazienholz an und Ã¼berzog sie mit Gold; auch ihre NÃ¤gel waren aus Gold; und er goss fÃ¼r sie vier silberne FÃ¼Ãe.",
+      "kor": "<span class=\"verse-number\">36</span> ì¡°ê°ëª©ì¼ë¡ ë¤ ê¸°ë¥ì ë§ë¤ì´ ê¸ì¼ë¡ ìì¼ë©° ê·¸ ê°ê³ ë¦¬ë ê¸ì¼ë¡ ê¸°ë¥ì ë¤ ë°ì¹¨ì ìì¼ë¡ ë¶ì´ ë§ë¤ìì¼ë©°",
+      "ita": "<span class=\"verse-number\">36</span> e si fecero per esso quattro colonne di acacia, e si rivestirono dâoro; i loro chiodi erano dâoro; e, per le colonne, si fusero quattro basi dâargento."
+    },
+    "37": {
+      "eng": "<span class=\"verse-number\">37 </span><span class=\"para-mark\">Â¶ </span>And he made an hanging for the tabernacle door <span class=\"clarity-word\">of</span> blue, and purple, and scarlet, and fine twined linen, of needlework;",
+      "ara": "<span class=\"verse-number\">Ù£Ù§ </span>ÙÙÙÙØ³ÙØ¬ÙÙØ§ Ø³ÙØªÙØ§Ø±Ø§Ù ÙÙÙÙØ¯ÙØ®ÙÙÙ Ø§ÙÙÙÙØ³ÙÙÙÙÙ Ø°ÙØ§ Ø£ÙÙÙÙÙØ§ÙÙ Ø²ÙØ±ÙÙÙØ§Ø¡Ù ÙÙØ¨ÙÙÙÙÙØ³ÙØ¬ÙÙÙÙØ©Ù ÙÙØ­ÙÙÙØ±ÙØ§Ø¡ÙØ ÙÙØ®ÙÙÙÙØ·Ù ÙÙØªÙÙØ§ÙÙ ÙÙØ¨ÙØ±ÙÙÙÙ ÙÙÙÙ ØªÙØ·ÙØ±ÙÙØ²Ù Ø­ÙØ§Ø¦ÙÙÙ ÙÙØ§ÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">37</span> ã¾ã<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®<ruby><rb>å¥å£</rb><rt>ãããã¡</rt></ruby>ã®ããã«<ruby><rb>é</rb><rt>ãã</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>ç´«</rb><rt>ãããã</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>ç·</rb><rt>ã²</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>äºéº»</rb><rt>ãã¾</rt></ruby>ã®<ruby><rb>æç³¸</rb><rt>ã­ãã</rt></ruby>ã§ã<ruby><rb>è²</rb><rt>ãã</rt></ruby>ã¨ãã©ãã«<ruby><rb>ç¹</rb><rt>ã</rt></ruby>ã£ãã¨ã°ãã<ruby><rb>ä½</rb><rt>ã¤ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">37ã</span>æ¿èè²ãç´«è²ãæ±çº¢è²<span class=\"clarity-word\">çº¿</span>åæ»çç»éº»ï¼ç¨ç»£è±çæå·¥ç»å¸å¹çé¨å¸ï¼",
+      "zht": "<span class=\"verse-number\">37ã</span>æ¿èè²ãç´«è²ãæ±ç´è²<span class=\"clarity-word\">ç·</span>åæçç´°éº»ï¼ç¨ç¹¡è±çæå·¥ç¹å¸³å¹çéç°¾ï¼",
+      "spa": "<span class=\"verse-number\">37 </span>Hizo tambiÃ©n el velo para la entrada del tabernÃ¡culo, de azul, y pÃºrpura, y carmesÃ­ y lino torcido, obra de bordador,",
+      "por": "<span class=\"verse-number\">37</span> Fez tambÃ©m para a porta da tenda o vÃ©u de azul, e de pÃºrpura, e de carmesim, e de linho fino torcido, obra do bordador,",
+      "fra": "<span class=\"verse-number\">37</span> On fit pour lâentrÃ©e de la tente un rideau en fil bleu, pourpre et cramoisi, et en fin lin retorsÂ ; câÃ©tait un ouvrage de broderie.",
+      "deu": "<span class=\"verse-number\">37Â </span>Sodann fertigte er fÃ¼r den Eingang des Zeltes einen Vorhang aus blauem und rotem Purpur, aus Karmesin und gezwirntem Byssus in Buntwirkerarbeit;",
+      "kor": "<span class=\"verse-number\">37</span> ì²­ì ìì íì <span class=\"clarity-word\">ì¤</span>ê³¼ ê°ëê² ê¼° ë²  ì¤ë¡ ì ëì ì¥ë§ ë¬¸ì ìíì¬ íì¥ì ë§ë¤ê³",
+      "ita": "<span class=\"verse-number\">37</span> Si fece anche per lâingresso della tenda un tendaggio, di filo violaceo, porporino, scarlatto, e di lino fino ritorto, in lavoro di ricamo."
+    },
+    "38": {
+      "eng": "<span class=\"verse-number\">38 </span>And the five pillars of it with their hooks: and he overlaid their chapiters and their fillets with gold: but their five sockets <span class=\"clarity-word\">were of</span> brass.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¨ </span>ÙÙÙÙ Ø®ÙÙÙØ³ÙØ©Ù Ø£ÙØ¹ÙÙÙØ¯ÙØ©ÙØ Ø°ÙØ§ØªÙ Ø®ÙØ·ÙØ§Ø·ÙÙÙÙ ÙÙØºÙØ´ÙÙÙÙØ§ Ø±ÙØ¤ÙÙØ³ÙÙÙØ§ ÙÙÙÙØ¶ÙØ¨ÙØ§ÙÙÙÙØ§ Ø¨ÙØ°ÙÙÙØ¨Ù ÙÙØ³ÙØ¨ÙÙÙÙØ§ ÙÙÙÙØ§ Ø®ÙÙÙØ³Ù ÙÙÙÙØ§Ø¹ÙØ¯Ù ÙÙÙÙ ÙÙØ­ÙØ§Ø³Ù.",
+      "jpn": "<span class=\"verse-number\">38</span> ãã®<ruby><rb>æ±</rb><rt>ã¯ãã</rt></ruby>äº<ruby><rb>æ¬</rb><rt>ã»ã</rt></ruby>ã¨ããã®<ruby><rb>é¤</rb><rt>ãã¾</rt></ruby>ã¨ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãããã®<ruby><rb>æ±</rb><rt>ã¯ãã</rt></ruby>ã®<ruby><rb>é ­</rb><rt>ããã¾</rt></ruby>ã¨<ruby><rb>æ¡</rb><rt>ãã</rt></ruby>ã¨ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã§ããã£ãããã ãããã®äºã¤ã®<ruby><rb>åº§</rb><rt>ã</rt></ruby>ã¯<ruby><rb>éé</rb><rt>ããã©ã</rt></ruby>ã§ãã£ãã",
+      "zhs": "<span class=\"verse-number\">38ã</span>åä¸ºå¸å­åäºæ ¹æ±å­åæ±å­ä¸çé©å­ï¼ç¨éå­ææ±é¡¶åæ±å­ä¸çæå­åè£¹ï¼æ±å­æäºä¸ªå¸¦å¯çåº§ï¼æ¯éçã",
+      "zht": "<span class=\"verse-number\">38ã</span>åçºç°¾å­åäºæ ¹æ±å­åæ±å­ä¸çé¤å­ï¼ç¨éå­ææ±é åæ±å­ä¸çæå­åè£¹ï¼æ±å­æäºåå¸¶å¯çåº§ï¼æ¯éçã",
+      "spa": "<span class=\"verse-number\">38 </span>y sus cinco columnas con sus ganchos; y recubriÃ³ los capiteles de ellas y sus molduras de oro, pero sus cinco basas las hizo de bronce.",
+      "por": "<span class=\"verse-number\">38</span> Com as suas cinco colunas e os seus colchetes; e os seus capitÃ©is e as suas molduras cobriu de ouro; e as suas cinco bases <span class=\"clarity-word\">eram</span> de bronze.",
+      "fra": "<span class=\"verse-number\">38</span> On fit ses cinq colonnes et leurs crochets, et lâon recouvrit dâor leurs chapiteaux et leurs tringlesÂ ; leurs cinq bases Ã©taient en airain.",
+      "deu": "<span class=\"verse-number\">38Â </span>auÃerdem die dazugehÃ¶rigen fÃ¼nf SÃ¤ulen und ihre NÃ¤gel. Ihre KÃ¶pfe und RingbÃ¤nder Ã¼berzog er mit Gold; die fÃ¼nf dazugehÃ¶rigen FÃ¼Ãe aber waren aus Kupfer.",
+      "kor": "<span class=\"verse-number\">38</span> íì¥ ë¬¸ì ê¸°ë¥ ë¤ì¯ê³¼ ê·¸ ê°ê³ ë¦¬ë¥¼ ë§ë¤ê³  ê¸°ë¥ ë¨¸ë¦¬ì ê·¸ ê°ë¦ëë¥¼ ê¸ì¼ë¡ ìì¼ë©° ê·¸ ë¤ì¯ ë°ì¹¨ì ëì´ìëë¼",
+      "ita": "<span class=\"verse-number\">38</span> E si fecero le sue cinque colonne con i loro chiodi; si rivestirono dâoro i loro capitelli e le loro aste; e le loro cinque basi erano di rame."
+    }
+  }
+}

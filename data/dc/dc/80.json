@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "volume": "dc",
+    "book": "dc",
+    "chapter": 80,
+    "headings": {
+      "eng": "1â5, Stephen Burnett and Eden Smith are called to preach in whatever place they choose.",
+      "jpn": "1ï¼5ã¹ãã£ã¼ãã³ã»ãã¼ãããã¨ã¤ã¼ãã³ã»ã¹ãã¹ã¯ãã©ãã§ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>é¸</rb><rt>ãã</rt></ruby>ã¶<ruby><rb>å ´</rb><rt>ã°</rt></ruby><ruby><rb>æ</rb><rt>ãã</rt></ruby>ã«ããã¦<ruby><rb>å®£</rb><rt>ã®</rt></ruby>ã¹<ruby><rb>ä¼</rb><rt>ã¤ã</rt></ruby>ããããã«<ruby><rb>å¬</rb><rt>ã</rt></ruby>ãããã",
+      "zhs": "1-5ï¼<u>å¸æåÂ·ç­å°¼</u>å<u>ä¼ç¸Â·æ¯å¯</u>èå¬å°ä»ä»¬éæ©çä»»ä½å°æ¹å»ä¼ æã",
+      "zht": "1-5ï¼<u>å¸æåÂ·ç­å°¼</u>å<u>ä¼ç¸Â·æ¯å¯</u>èå¬å°ä»åé¸æçä»»ä½å°æ¹å»å³æã",
+      "spa": "1â5, Stephen Burnett y Eden Smith son llamados a predicar en cualquier lugar que ellos escojan.",
+      "por": "1â5, Stephen Burnett e Eden Smith sÃ£o chamados para pregar onde quer que desejarem.",
+      "fra": "1-5, Stephen Burnett et Eden Smith sont appelÃ©s Ã  prÃªcher en quelque lieu quâils choisissent.",
+      "deu": "1-5 Stephen Burnett und Eden Smith werden berufen, an jedwedem Ort zu predigen, den sie wÃ¤hlen.",
+      "kor": "1~5, ì¤í°ë¸ ë²ë·ê³¼ ì´ë  ì¤ë¯¸ì¤ë ì´ëë ì§ ê·¸ë¤ì´ ííë ê³³ìì ì ëíëë¡ ë¶ë¦ì ë°ì.",
+      "ita": "1â5: Stephen Burnett e Eden Smith sono chiamati a predicare in qualsiasi luogo scelgano."
+    },
+    "intros": {
+      "eng": "Revelation given through Joseph Smith the Prophet to Stephen Burnett, at Hiram, Ohio, March 7, 1832.",
+      "jpn": "åå«ç¾ä¸åäº<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby>ä¸<ruby><rb>æ</rb><rt>ãã¤</rt></ruby><ruby><rb>ä¸</rb><rt>ãªã®</rt></ruby><ruby><rb>æ¥</rb><rt>ã</rt></ruby>ããªãã¤ãª<ruby><rb>å·</rb><rt>ããã</rt></ruby>ãã¤ã©ã ã«ããã¦ã<ruby><rb>é </rb><rt>ã</rt></ruby><ruby><rb>è¨</rb><rt>ãã</rt></ruby><ruby><rb>è</rb><rt>ãã</rt></ruby>ã¸ã§ã»ãã»ã¹ãã¹ã<ruby><rb>é</rb><rt>ã¨ã</rt></ruby>ãã¦ã¹ãã£ã¼ãã³ã»ãã¼ãããã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>å</rb><rt>ãã</rt></ruby><ruby><rb>ç¤º</rb><rt>ã</rt></ruby>ã",
+      "zhs": "1832å¹´3æ7æ¥ï¼å¨<u>ä¿äº¥ä¿</u>ï¼<u>æµ·å°</u>éè¿åç¥<u>çº¦çÂ·æ¯å¯</u>ç»äº<u>å¸æåÂ·ç­å°¼</u>çå¯ç¤ºã",
+      "zht": "1832å¹´3æ7æ¥ï¼å¨<u>ä¿äº¥ä¿</u>ï¼<u>æµ·è­</u>ééåç¥<u>ç´çÂ·æ¯å¯</u>çµ¦äº<u>å¸æåÂ·ç­å°¼</u>çåç¤ºã",
+      "spa": "RevelaciÃ³n dada por medio de JosÃ© Smith el Profeta a Stephen Burnett, en Hiram, Ohio, el 7 de marzo de 1832.",
+      "por": "RevelaÃ§Ã£o dada por intermÃ©dio de Joseph Smith, o Profeta, a Stephen Burnett, em Hiram, Ohio, em 7 de marÃ§o de 1832.",
+      "fra": "RÃ©vÃ©lation donnÃ©e le 7Â mars 1832, par lâintermÃ©diaire de Joseph Smith, le prophÃ¨te, Ã  Stephen Burnett, Ã  Hiram (Ohio).",
+      "deu": "Offenbarung, gegeben durch Joseph Smith, den Propheten, an Stephen Burnett am 7.Â MÃ¤rz 1832 zu Hiram, Ohio.",
+      "kor": "1832ë 3ì ì¤íì´ì¤ ì£¼ íì´ë¼ìì ì ì§ì ì¡°ì ì¤ë¯¸ì¤ë¥¼ íµí´ ì£¼ì  ê³ì(<em>êµíì¬</em> 1:257).",
+      "ita": "Rivelazione data tramite Joseph Smith, il Profeta, a Stephen Burnett a Hiram, Ohio, il 7Â marzo 1832."
+    }
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Verily, thus saith the Lord unto you my servant Stephen Burnett: Go ye, go ye into the world and preach the gospel to every creature that cometh under the sound of your voice.",
+      "jpn": "<span class=\"verse-number\">1</span>ã¾ãã¨ã«ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ããªããããªãã¡ãããã®<ruby><rb>å</rb><rt>ããã¹</rt></ruby>ã¹ãã£ã¼ãã³ã»ãã¼ãããã«ãã®ããã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãã<ruby><rb>è¡</rb><rt>ã</rt></ruby>ããªããã<ruby><rb>ä¸</rb><rt>ã</rt></ruby><ruby><rb>ç</rb><rt>ãã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ãããªãã®<ruby><rb>å£°</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã¨</rt></ruby>ã«<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ããã¹ã¦ã®<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããããã®ã«<ruby><rb>ç¦</rb><rt>ãµã</rt></ruby><ruby><rb>é³</rb><rt>ãã</rt></ruby>ãå®£ã¹ä¼ããªããã",
+      "zhs": "<span class=\"verse-number\">1ã</span>å®å¨çï¼ä¸»è¿æ ·å¯¹æä»äºº<u>å¸æåÂ·ç­å°¼</u>è¯´ï¼ä½ è¦å»ï¼å¾æ®å¤©ä¸å»ï¼ä¼ ç¦é³ç»å¬å°ä½ å£°é³çä¸æ°å¬ã",
+      "zht": "<span class=\"verse-number\">1ã</span>å¯¦å¨çï¼ä¸»éæ¨£å°æåäºº<u>å¸æåÂ·ç­å°¼</u>èªªï¼ä½ è¦å»ï¼å¾æ®å¤©ä¸å»ï¼å³ç¦é³çµ¦è½å°ä½ è²é³çè¬æ°è½ã",
+      "spa": "<span class=\"verse-number\">1 </span>De cierto, asÃ­ te dice el SeÃ±or, mi siervo Stephen Burnett: Ve, ve entre los del mundo y predica el evangelio a toda criatura a quien llegue el son de tu voz.",
+      "por": "<span class=\"verse-number\">1 </span>Em verdade, assim diz o Senhor a ti, meu servo Stephen Burnett: Sai, sai pelo mundo e prega o evangelho a toda criatura que esteja ao alcance da tua voz.",
+      "fra": "<span class=\"verse-number\">1Â </span>En vÃ©ritÃ©, ainsi te dit le Seigneur, mon serviteur Stephen BurnettÂ : Va, va dans le monde et prÃªche lâÃvangile Ã  toute crÃ©ature qui vient Ã  portÃ©e de ta voix.",
+      "deu": "<span class=\"verse-number\">1Â </span>Wahrlich, so spricht der Herr zu dir, mein Diener Stephen Burnett: Geh hin, geh hin in die Welt und predige das Evangelium jedem GeschÃ¶pf, das vom Klang deiner Stimme erreicht wird.",
+      "kor": "<span class=\"verse-number\">1 </span>ì§ì¤ë¡ ì´ê°ì´ ì£¼ê° ë, ëì ì¢ ì¤í°ë¸ ë²ë·ìê² ì´ë¥´ë¸ë, ëë ê°ë¼. ì¸ìì ê°ì ë¤ ìì±ì ë£ê² ëë ëª¨ë  í¼ì¡°ë¬¼ìê² ë³µìì ì ííë¼.",
+      "ita": "<span class=\"verse-number\">1 </span>In veritÃ , cosÃ¬ ti dice il Signore, mio servitore Stephen Burnett: Vaâ, vaâ nel mondo e predica il Vangelo ad ogni creatura che verrÃ  a portata della tua voce."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>And inasmuch as you desire a companion, I will give unto you my servant Eden Smith.",
+      "jpn": "<span class=\"verse-number\">2</span>ããªãã<ruby><rb>å</rb><rt>ã©ã</rt></ruby><ruby><rb>å</rb><rt>ããã</rt></ruby>ã<ruby><rb>æ¬²</rb><rt>ã»ã£</rt></ruby>ãã¦ããã®ã§ããããã¯ããªãã«ãããã®<ruby><rb>å</rb><rt>ããã¹</rt></ruby>ã¤ã¼ãã³ã»ã¹ãã¹ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">2ã</span>ç±äºä½ æ³è¦åä¼´ï¼æå°±ææä»äºº<u>ä¼ç¸Â·æ¯å¯</u>ç»ä½ ã",
+      "zht": "<span class=\"verse-number\">2ã</span>ç±æ¼ä½ æ³è¦åä¼´ï¼æå°±ææåäºº<u>ä¼ç¸Â·æ¯å¯</u>çµ¦ä½ ã",
+      "spa": "<span class=\"verse-number\">2 </span>Y por cuanto deseas un compaÃ±ero, te doy a mi siervo Eden Smith.",
+      "por": "<span class=\"verse-number\">2 </span>E jÃ¡ que desejas um companheiro, dar-te-ei meu servo Eden Smith.",
+      "fra": "<span class=\"verse-number\">2Â </span>Et si tu dÃ©sires un compagnon, je te donnerai mon serviteur Eden Smith.",
+      "deu": "<span class=\"verse-number\">2Â </span>Und da du dir einen Begleiter wÃ¼nschst, gebe ich dir meinen Diener Eden Smith.",
+      "kor": "<span class=\"verse-number\">2 </span>ê·¸ë¦¬ê³  ë¤ê° ëë°ìë¥¼ ìíë ë§í¼ ëë ëì ì¢ ì´ë  ì¤ë¯¸ì¤ë¥¼ ë¤ê² ì£¼ë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">2 </span>E dato che desideri un compagno, ti darÃ² il mio servitore Eden Smith."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>Wherefore, go ye and preach my gospel, whether to the north or to the south, to the east or to the west, it mattereth not, for ye cannot go amiss.",
+      "jpn": "<span class=\"verse-number\">3</span>ãããããããªãããã¯<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ããããã®<ruby><rb>ç¦</rb><rt>ãµã</rt></ruby><ruby><rb>é³</rb><rt>ãã</rt></ruby>ã<ruby><rb>å®£</rb><rt>ã®</rt></ruby>ã¹<ruby><rb>ä¼</rb><rt>ã¤ã</rt></ruby>ããªããã<ruby><rb>å</rb><rt>ãã</rt></ruby>ã§ãããã¨<ruby><rb>å</rb><rt>ã¿ãªã¿</rt></ruby>ã§ãããã¨ã<ruby><rb>æ±</rb><rt>ã²ãã</rt></ruby>ã§ãããã¨<ruby><rb>è¥¿</rb><rt>ã«ã</rt></ruby>ã§ãããã¨ãã©ãã§ããããããªãããã¯<ruby><rb>è¿·</rb><rt>ã¾ã</rt></ruby>ããã¨ã¯ãã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ãªãããã§ããã",
+      "zhs": "<span class=\"verse-number\">3ã</span>å æ­¤ï¼ä½ ä»¬è¦å»ä¼ æçç¦é³ï¼æ è®ºå»åæ¹æåæ¹ï¼å»ä¸æ¹æè¥¿æ¹ï¼é½æ²¡å³ç³»ï¼å ä¸ºä½ ä»¬ä¸ä¼èµ°éã",
+      "zht": "<span class=\"verse-number\">3ã</span>å æ­¤ï¼ä½ åè¦å»å³æçç¦é³ï¼ç¡è«å»åæ¹æåæ¹ï¼å»æ±æ¹æè¥¿æ¹ï¼é½æ²éä¿ï¼å çºä½ åä¸æèµ°é¯ã",
+      "spa": "<span class=\"verse-number\">3 </span>Por tanto, id y predicad mi evangelio, bien sea al norte o al sur, al este o al oeste, no importa, porque no podrÃ©is errar.",
+      "por": "<span class=\"verse-number\">3 </span>Portanto, ide e pregai meu evangelho, seja para o norte ou para o sul, para o leste ou para o oeste, nÃ£o importa, porque nÃ£o vos podeis enganar.",
+      "fra": "<span class=\"verse-number\">3Â </span>Câest pourquoi, allez prÃªcher mon Ãvangile, que ce soit au nord ou au sud, Ã  lâest ou Ã  lâouest, peu mâimporte, car vous ne pouvez faire fausse route.",
+      "deu": "<span class=\"verse-number\">3Â </span>Darum geht hin und predigt mein Evangelium, ob im Norden oder im SÃ¼den, im Osten oder im Westen, darauf kommt es nicht an, denn ihr kÃ¶nnt nicht fehlgehen.",
+      "kor": "<span class=\"verse-number\">3 </span>ê·¸ë°ì¦ ëí¬ë ë¶ìª½ì¼ë¡ë ë¨ìª½ì¼ë¡, ëìª½ì¼ë¡ë ììª½ì¼ë¡ ìê´ì´ ìëë, ê°ì ëì ë³µìì ì ííë¼. ì´ë ëí¬ê° ê·¸ë¦ ê° ì ììì´ëë¼.",
+      "ita": "<span class=\"verse-number\">3 </span>Pertanto, andate e predicate il mio Vangelo, o a nord o a sud, o a est o a ovest, non importa, poichÃ© non potrete sbagliare."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>Therefore, declare the things which ye have heard, and verily believe, and know to be true.",
+      "jpn": "<span class=\"verse-number\">4</span>ããªããããããã¾ã§ã«<ruby><rb>è</rb><rt>ã</rt></ruby>ãã<ruby><rb>ç¢º</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>ä¿¡</rb><rt>ãã</rt></ruby>ãããã¤<ruby><rb>ç</rb><rt>ãã</rt></ruby><ruby><rb>å®</rb><rt>ãã¤</rt></ruby>ã§ããã¨ç¥ã£ã¦ãã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby><ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¤</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããªããã",
+      "zhs": "<span class=\"verse-number\">4ã</span>æä»¥ï¼å»å®£è®²ä½ ä»¬å¬å°ãç¡®å®ç¸ä¿¡å¹¶ç¥éæ¯çå®çäºã",
+      "zht": "<span class=\"verse-number\">4ã</span>æä»¥ï¼å»å®£è¬ä½ åè½å°ãç¢ºå¯¦ç¸ä¿¡ä¸¦ç¥éæ¯çå¯¦çäºã",
+      "spa": "<span class=\"verse-number\">4 </span>Por consiguiente, declarad las cosas que habÃ©is oÃ­do, y que ciertamente creÃ©is y sabÃ©is que son verdaderas.",
+      "por": "<span class=\"verse-number\">4 </span>Portanto, declarai as coisas que ouvistes e em que verdadeiramente acreditais e sabeis ser verdadeiras.",
+      "fra": "<span class=\"verse-number\">4Â </span>Câest pourquoi, annoncez ce que vous avez entendu et que vous croyez certainement, et que vous savez Ãªtre vrai.",
+      "deu": "<span class=\"verse-number\">4Â </span>Darum verkÃ¼ndet, was ihr vernommen habt und wirklich glaubt und wovon ihr wisst, dass es wahr ist.",
+      "kor": "<span class=\"verse-number\">4 </span>ê·¸ë¬ë¯ë¡ ëí¬ê° ë¤ìê³  ì§ì¤ë¡ ë¯¿ì¼ë©° ì°¸ë ì¤ ìë ì¼ë¤ì ì í¬íë¼.",
+      "ita": "<span class=\"verse-number\">4 </span>Proclamate dunque le cose che avete udito, alle quali in veritÃ  credete, e che sapete essere vere."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>Behold, this is the will of him who hath called you, your Redeemer, even Jesus Christ. Amen.",
+      "jpn": "<span class=\"verse-number\">5</span><ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããããããªããããå¬ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããªãããã®<ruby><rb>æ°</rb><rt>ãªãã</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ã¬ã</rt></ruby>ãããªãã¡ã¤ã¨ã¹ã»ã­ãªã¹ãã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã§ãããã¢ã¼ã¡ã³ã",
+      "zhs": "<span class=\"verse-number\">5ã</span>çåï¼è¿å°±æ¯å¬å¤ä½ ä»¬çï¼ä½ ä»¬çæèµä¸»ï¼å³è¶ç¨£åºç£çæ¨æãé¿ä»¬ã",
+      "zht": "<span class=\"verse-number\">5ã</span>çåï¼éå°±æ¯å¬åä½ åçï¼ä½ åçæè´ä¸»ï¼å³è¶ç©åºç£çæ¨æãé¿åã",
+      "spa": "<span class=\"verse-number\">5 </span>He aquÃ­, esta es la voluntad del que os ha llamado, vuestro Redentor, sÃ­, Jesucristo. AmÃ©n.",
+      "por": "<span class=\"verse-number\">5 </span>Eis que esta Ã© a vontade daquele que vos chamou, vosso Redentor, sim, Jesus Cristo. AmÃ©m.",
+      "fra": "<span class=\"verse-number\">5Â </span>Voici, telle est la volontÃ© de celui qui vous a appelÃ©s, votre RÃ©dempteur, JÃ©sus-Christ. Amen.",
+      "deu": "<span class=\"verse-number\">5Â </span>Siehe, dies ist der Wille dessen, der euch berufen hat, euer ErlÃ¶ser, ja, Jesus Christus. Amen.",
+      "kor": "<span class=\"verse-number\">5 </span>ë³´ë¼, ì´ê²ì´ ëí¬ë¥¼ ë¶ë¥´ì  ì´, ëí¬ êµ¬ìì£¼ ê³§ ìì ê·¸ë¦¬ì¤ëì ë»ì´ëë¼. ìë©.",
+      "ita": "<span class=\"verse-number\">5 </span>Ecco, questa Ã¨ la volontÃ  di colui che vi ha chiamato, il vostro Redentore, sÃ¬, GesÃ¹ Cristo. Amen."
+    }
+  }
+}

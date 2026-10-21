@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "ps",
+    "chapter": 25,
+    "headings": {
+      "eng": "David pleads for truth and asks for pardonâMercy and truth are for those who keep the commandments.",
+      "spa": "David suplica ser encaminado en la verdad y pide perdÃ³nÂ â La misericordia y la verdad son para los que guardan los mandamientos.",
+      "por": "Davi roga pedindo a verdade e suplica perdÃ£oÂ â A misericÃ³rdia e a verdade sÃ£o para os que guardam os mandamentos.",
+      "fra": "David implore Dieu de le conduire dans la vÃ©ritÃ© et demande le pardon. La misÃ©ricorde et la fidÃ©litÃ© sont pour les personnes qui gardent les commandements.",
+      "ita": "Davide supplica di essere guidato nella veritÃ  e chiede perdonoÂ â La benignitÃ  e la veritÃ  sono per coloro che osservano i comandamenti."
+    },
+    "intros": {
+      "eng": "<span class=\"clarity-word\">A Psalm</span> of David.",
+      "jpn": "ãããã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
+      "spa": "Salmo de David.",
+      "por": "Salmo de Davi.",
+      "ita": "Di Davide."
+    }
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Unto thee, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, do I lift up my soul.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø¥ÙÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ Ø£ÙØ±ÙÙÙØ¹Ù ÙÙÙÙØ³ÙÙ.",
+      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>é­</rb><rt>ãã¾ãã</rt></ruby>ã¯ããªãã<ruby><rb>ä»°</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ã¿ã¾ãã",
+      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">A ti, oh JehovÃ¡, elevarÃ© mi alma.</span>",
+      "por": "<span class=\"verse-number\">1</span> A ti, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, elevo a minha alma.",
+      "fra": "<span class=\"verse-number\">1</span> De David. ÃternelÂ ! jâÃ©lÃ¨ve Ã  toi mon Ã¢me.",
+      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Von David.</span><span class=\"line\">Zu dir, o HErr, erhebâ ich meine Seele,</span>",
+      "kor": "<span class=\"verse-number\">1</span> ì¬í¸ìì¬ ëì ìí¼ì´ ì£¼ë¥¼ ì°ë¬ë¬ë³´ëì´ë¤",
+      "ita": "<span class=\"verse-number\">1</span> A te, o Eterno, io elevo lâanima mia."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø¹ÙÙÙÙÙÙÙ ÙÙØ§ Ø¥ÙÙÙÙÙÙ ØªÙÙÙÙÙÙÙÙØªÙ ÙÙÙÙØ§ ØªÙØ®ÙØ²ÙÙÙÙØ ÙÙÙÙØ§ ØªÙØ¯ÙØ¹Ù Ø£ÙØ¹ÙØ¯ÙØ§Ø¦ÙÙ ÙÙØ´ÙÙÙØªÙÙÙÙ Ø¨ÙÙ.",
+      "jpn": "<span class=\"verse-number\">2</span> ãã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãããããã¯ããªãã«<ruby><rb>ä¿¡é ¼</rb><rt>ãããã</rt></ruby>ãã¾ããã©ãããããããã¯ãããããããããã®<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ã¡<ruby><rb>èª</rb><rt>ã»ã</rt></ruby>ãããªãã§ãã ããã",
+      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Dios mÃ­o, en ti confÃ­o;</span><span class=\"line\">no sea yo avergonzado.</span><span class=\"line\">No se alegren de mÃ­ mis enemigos.</span>",
+      "por": "<span class=\"verse-number\">2</span> Deus meu, em ti confio, nÃ£o seja eu envergonhado, nem exultem sobre mim os meus inimigos.",
+      "fra": "<span class=\"verse-number\">2</span> Mon DieuÂ ! en toi je me confieÂ : que je ne sois pas couvert de honteÂ ! Que mes ennemis ne se rÃ©jouissent pas Ã  mon sujetÂ !",
+      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">mein Gott, auf dich vertraue ich:</span><span class=\"line\">laÃ mich nicht enttÃ¤uscht werden,</span><span class=\"line\">laÃ meine Feinde nicht Ã¼ber mich frohlocken!</span>",
+      "kor": "<span class=\"verse-number\">2</span> ëì íëëì´ì¬ ë´ê° ì£¼ê» ìì§íìì¬ì¤ë ëë¥¼ ë¶ëë½ì§ ìê² íìê³  ëì ììë¤ì´ ëë¥¼ ì´ê²¨ ê°ê°ë¥¼ ë¶ë¥´ì§ ëª»íê² íìì",
+      "ita": "<span class=\"verse-number\">2</span> Dio mio, in te confido; faâ che io non sia confuso, che i miei nemici non trionfino su di me."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>Yea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØ¥ÙÙÙÙ ÙÙÙÙÙ ÙÙÙÙ ÙÙØ±ÙØ¬ÙÙÙÙ ÙÙÙÙ ÙÙØ®ÙÙØ¨Ù. Ø£ÙÙÙÙØ§ Ø§ÙÙØºÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¨ÙØºÙÙÙØ±ÙÙÙÙÙ ÙÙÙÙ ØºÙÙÙØ±Ù Ø¹ÙÙÙÙØ©ÙØ ÙÙØ³ÙÙÙØ®ÙØ²ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">3</span> ãã¹ã¦ããªãã<ruby><rb>å¾</rb><rt>ã¾</rt></ruby>ã¡<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãã¯ããããããã¿ã ãã«<ruby><rb>ä¿¡ç¾©</rb><rt>ããã</rt></ruby>ã«ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãã¯ããããã¦ãã ããã",
+      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Ciertamente ninguno de cuantos en ti esperan serÃ¡ avergonzado;</span><span class=\"line\">serÃ¡n avergonzados los que se rebelan sin causa.</span>",
+      "por": "<span class=\"verse-number\">3</span> Como, na verdade, nÃ£o serÃ£o envergonhados os que esperam em ti; envergonhados serÃ£o os que procedem traiÃ§oeiramente sem causa.",
+      "fra": "<span class=\"verse-number\">3</span> Tous ceux qui espÃ¨rent en toi ne seront pas confusÂ ; Ceux qui seront confus sont les infidÃ¨les sans cause.",
+      "deu": "<span class=\"verse-number\">3Â </span>Nein, keiner, der auf dich harrt, wird enttÃ¤uscht; enttÃ¤uscht wird nur, wer dich treulos verlÃ¤Ãt. â",
+      "kor": "<span class=\"verse-number\">3</span> ì£¼ë¥¼ ë°ë¼ë ìë¤ì ìì¹ë¥¼ ë¹íì§ ìëíë ¤ëì ê¹ë­ ìì´ ìì´ë ìë¤ì ìì¹ë¥¼ ë¹íë¦¬ì´ë¤",
+      "ita": "<span class=\"verse-number\">3</span> Nessuno di quelli che sperano in te sia confuso; siano confusi quelli che agiscono slealmente senza motivo."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>Shew me thy ways, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; teach me thy paths.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ§ Ø±ÙØ¨ÙÙ Ø¹ÙØ±ÙÙÙÙÙÙÙ Ø·ÙØ±ÙÙÙÙÙØ Ø¹ÙÙÙÙÙÙÙÙÙ Ø³ÙØ¨ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">4</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããªãã®<ruby><rb>å¤§è·¯</rb><rt>ããã</rt></ruby>ããããã«<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããããªãã®<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ããããã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¦ãã ããã",
+      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">MuÃ©strame, oh JehovÃ¡, tus caminos;</span><span class=\"line\">ensÃ©Ã±ame tus sendas.</span>",
+      "por": "<span class=\"verse-number\">4</span> Faz-me saber os teus caminhos, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; ensina-me as tuas veredas.",
+      "fra": "<span class=\"verse-number\">4</span> ÃternelÂ ! fais-moi connaÃ®tre tes voies, Enseigne-moi tes sentiers.",
+      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Tu mir kund, o HErr, deine Wege,</span><span class=\"line\">deine Pfade lehre mich!</span>",
+      "kor": "<span class=\"verse-number\">4</span> ì¬í¸ìì¬ ì£¼ì ëë¥¼ ë´ê² ë³´ì´ìê³  ì£¼ì ê¸¸ì ë´ê² ê°ë¥´ì¹ìì",
+      "ita": "<span class=\"verse-number\">4</span> O Eterno, fammi conoscere le tue vie, insegnami i tuoi sentieri."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>Lead me in thy truth, and teach me: for thou <span class=\"clarity-word\">art</span> the God of my salvation; on thee do I wait all the day.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>Ø¯ÙØ±ÙÙØ¨ÙÙÙÙ ÙÙÙ Ø­ÙÙÙÙÙÙ ÙÙØ¹ÙÙÙÙÙÙÙÙÙØ ÙÙØ¥ÙÙÙÙÙÙ Ø£ÙÙÙØªÙ Ø§ÙØ¥ÙÙÙÙÙ ÙÙØ®ÙÙÙÙØµÙÙØ ÙÙØ¥ÙÙÙÙØ§ÙÙ Ø£ÙØ±ÙØ¬ÙÙ Ø·ÙÙÙØ§ÙÙ Ø§ÙÙÙÙÙÙØ§Ø±Ù.",
+      "jpn": "<span class=\"verse-number\">5</span> ããªãã®ã¾ãã¨ããã£ã¦ããããã<ruby><rb>å°</rb><rt>ã¿ã¡ã³</rt></ruby>ãããããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¦ãã ãããããªãã¯ãã<ruby><rb>æ</rb><rt>ããã</rt></ruby>ã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã§ãããããã¯ã²ã­ããããªãã<ruby><rb>å¾</rb><rt>ã¾</rt></ruby>ã¡<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ã¿ã¾ãã",
+      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">EncamÃ­name en tu verdad y ensÃ©Ã±ame,</span><span class=\"line\">porque tÃº eres el Dios de mi salvaciÃ³n;</span><span class=\"line\">en ti he esperado todo el dÃ­a.</span>",
+      "por": "<span class=\"verse-number\">5</span> Guia-me na tua verdade, e ensina-me, pois tu <span class=\"clarity-word\">Ã©s</span> o Deus da minha salvaÃ§Ã£o; em ti espero todo o dia.",
+      "fra": "<span class=\"verse-number\">5</span> Conduis-moi dans ta vÃ©ritÃ© et instruis-moiÂ ; Car tu es le Dieu de mon salut, Tu es toujours mon espÃ©rance.",
+      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">LaÃ mich wandeln in deiner Wahrheit (vgl. 26,3) und lehre mich,</span><span class=\"line\">denn du bist der Gott meines Heils:</span><span class=\"line\">deiner harre ich allezeit. â</span>",
+      "kor": "<span class=\"verse-number\">5</span> ì£¼ì ì§ë¦¬ë¡ ëë¥¼ ì§ëíìê³  êµííìì ì£¼ë ë´ êµ¬ìì íëëì´ìë ë´ê° ì¢ì¼ ì£¼ë¥¼ ê¸°ë¤ë¦¬ëì´ë¤",
+      "ita": "<span class=\"verse-number\">5</span> Guidami nella tua veritÃ  e ammaestrami; poichÃ© tu sei il Dio della mia salvezza; io spero in te continuamente."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Remember, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, thy tender mercies and thy lovingkindnesses; for they <span class=\"clarity-word\">have been</span> ever of old.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø±ÙØ¨ÙÙØ Ø§Ø°ÙÙÙØ±Ù ÙÙØ±ÙØ§Ø­ÙÙÙÙÙ ÙÙØ¥ÙØ­ÙØ³ÙØ§ÙÙØ§ØªÙÙÙ ÙØ£ÙÙÙÙÙÙØ§ ÙÙÙÙØ°Ù Ø§ÙØ£ÙØ²ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããªãã®ãããã¿ã¨ããã¤ããã¿ã¨ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦ãã ãããããã¯ãã«ãããã<ruby><rb>çµ¶</rb><rt>ã</rt></ruby>ãããã¨ããªãã£ãã®ã§ãã",
+      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">AcuÃ©rdate, oh JehovÃ¡, de tus tiernas misericordias y de tu compasiÃ³n,</span><span class=\"line\">que son perpetuas.</span>",
+      "por": "<span class=\"verse-number\">6</span> Lembra-te, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, das tuas misericÃ³rdias e das tuas benignidades, porque <span class=\"clarity-word\">sÃ£o</span> desde a eternidade.",
+      "fra": "<span class=\"verse-number\">6</span> ÃternelÂ ! souviens-toi de ta misÃ©ricorde et de ta bontÃ©Â ; Car elles sont Ã©ternelles.",
+      "deu": "<span class=\"verse-number\">6Â </span><span class=\"line\">Gedenke der Erweise deines Erbarmens, o HErr,</span><span class=\"line\">und daÃ deine GnadenverheiÃe aus der Urzeit stammen;</span>",
+      "kor": "<span class=\"verse-number\">6</span> ì¬í¸ìì¬ ì£¼ì ê¸í¼íì¬ê³¼ ì¸ìíì¬ì´ ììë¶í° ììì¬ì¤ë ì£¼ì¬ ì´ê²ë¤ì ê¸°ìµíìµìì",
+      "ita": "<span class=\"verse-number\">6</span> Ricordati, o Eterno, delle tue compassioni e delle tue benignitÃ , perchÃ© sono da sempre."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodnessâ sake, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙØ§ ØªÙØ°ÙÙÙØ±Ù Ø®ÙØ·ÙØ§ÙÙØ§ ØµÙØ¨ÙØ§ÙÙ Ø§ÙÙÙØªÙÙ Ø§Ø±ÙØªÙÙÙØ¨ÙØªÙÙÙØ§Ø ÙÙÙÙØ§ ÙÙØ¹ÙØ§ØµÙÙÙÙØ Ø¨ÙÙÙ Ø§Ø°ÙÙÙØ±ÙÙÙÙ ÙÙÙÙÙØ§Ù ÙÙØ±ÙØ­ÙÙÙØªÙÙÙ ÙÙÙÙÙÙ Ø£ÙØ¬ÙÙÙ Ø¬ÙÙØ¯ÙÙÙ ÙÙØ§ Ø±ÙØ¨ÙÙ.",
+      "jpn": "<span class=\"verse-number\">7</span> ãããã®<ruby><rb>è¥</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã®<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã¨ãã¨ãã¨ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ããªãã§ãã ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããªãã®<ruby><rb>æµ</rb><rt>ãã</rt></ruby>ã¿ã®ããã«ãããªãã®ãã¤ããã¿ã«ãããã£ã¦ããããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦ãã ããã",
+      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">De los pecados de mi juventud y de mis rebeliones, no te acuerdes;</span><span class=\"line\">conforme a tu misericordia acuÃ©rdate de mÃ­,</span><span class=\"line\">por tu bondad, oh JehovÃ¡.</span>",
+      "por": "<span class=\"verse-number\">7</span> NÃ£o te lembres dos pecados da minha mocidade, nem das minhas transgressÃµes, <span class=\"clarity-word\">mas</span> segundo a tua misericÃ³rdia, lembra-te de mim, por tua bondade, Ã³ <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
+      "fra": "<span class=\"verse-number\">7</span> Ne te souviens pas des fautes de ma jeunesse ni de mes transgressionsÂ ; Souviens-toi de moi selon ta misÃ©ricorde, Ã cause de ta bontÃ©, Ã´ ÃternelÂ !",
+      "deu": "<span class=\"verse-number\">7Â </span><span class=\"line\">gedenke nicht der SÃ¼nden meiner Jugend und meiner Vergehen:</span><span class=\"line\">nein, nach deiner Gnade gedenke meiner um deiner GÃ¼te willen!</span>",
+      "kor": "<span class=\"verse-number\">7</span> ì¬í¸ìì¬ ë´ ì ì ìì ì ì£ì íë¬¼ì ê¸°ìµíì§ ë§ìê³  ì£¼ì ì¸ìíì¬ì ë°ë¼ ì£¼ê»ì ëë¥¼ ê¸°ìµíìë ì£¼ì ì íì¬ì¼ë¡ íìµìì",
+      "ita": "<span class=\"verse-number\">7</span> Non ti ricordare dei peccati della mia giovinezza, nÃ© delle mie trasgressioni; secondo la tua benignitÃ  ricordati di me per amore della tua bontÃ , o Eterno."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>Good and upright <span class=\"clarity-word\">is</span> the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>: therefore will he teach sinners in the way.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø§ÙØ±ÙÙØ¨ÙÙ ØµÙØ§ÙÙØ­Ù ÙÙÙÙØ³ÙØªÙÙÙÙÙÙ ÙÙØ°ÙÙÙÙÙ ÙÙÙÙØ¯ÙÙ Ø§ÙØ¶ÙÙØ§ÙÙÙÙÙÙ Ø§ÙØ·ÙÙØ±ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">8</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>æµ</rb><rt>ãã</rt></ruby>ã¿ãµããããã¤<ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãããããããããããããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã³ã¨ã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">Bueno y recto es JehovÃ¡;</span><span class=\"line\">por tanto, Ã©l enseÃ±arÃ¡ a los pecadores el camino.</span>",
+      "por": "<span class=\"verse-number\">8</span> Bom e reto <span class=\"clarity-word\">Ã© o</span> <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, pelo que ensinarÃ¡ o caminho aos pecadores.",
+      "fra": "<span class=\"verse-number\">8</span> LâÃternel est bon et droitÂ : Câest pourquoi il montre aux pÃ©cheurs la voie.",
+      "deu": "<span class=\"verse-number\">8Â </span><span class=\"line\">GÃ¼tig und aufrichtig ist der HErr;</span><span class=\"line\">darum weist er den SÃ¼ndern den rechten Weg,</span>",
+      "kor": "<span class=\"verse-number\">8</span> ì¬í¸ìë ì íìê³  ì ì§íìë ê·¸ë¬ë¯ë¡ ê·¸ì ëë¡ ì£ì¸ë¤ì êµííìë¦¬ë¡ë¤",
+      "ita": "<span class=\"verse-number\">8</span> LâEterno Ã¨ buono e retto; perciÃ² insegnerÃ  la via ai peccatori."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>The meek will he guide in judgment: and the meek will he teach his way.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ¯ÙØ±ÙÙØ¨Ù Ø§ÙÙÙÙØ¯ÙØ¹ÙØ§Ø¡Ù ÙÙÙ Ø³ÙØ¨ÙÙÙ Ø§ÙÙØ­ÙÙÙÙ ÙÙÙÙØ¹ÙÙÙÙÙÙÙÙÙÙ Ø·ÙØ±ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">9</span> ã¸ããã ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å¬ç¾©</rb><rt>ããã</rt></ruby>ã«<ruby><rb>å°</rb><rt>ã¿ã¡ã³</rt></ruby>ããã¸ããã ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ãã®<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">9 </span><span class=\"line\">EncaminarÃ¡ a los humildes por el juicio,</span><span class=\"line\">y enseÃ±arÃ¡ a los mansos su camino.</span>",
+      "por": "<span class=\"verse-number\">9</span> GuiarÃ¡ os mansos em justiÃ§a, e aos mansos ensinarÃ¡ o seu caminho.",
+      "fra": "<span class=\"verse-number\">9</span> Il conduit les humbles dans la justice, Il enseigne aux humbles sa voie.",
+      "deu": "<span class=\"verse-number\">9Â </span><span class=\"line\">lÃ¤Ãt BedrÃ¼ckte wandeln in richtiger Weise</span><span class=\"line\">und lehrt die Dulder seinen Weg.</span>",
+      "kor": "<span class=\"verse-number\">9</span> ì¨ì í ìë¥¼ ì ìë¡ ì§ëíì¬ì´ì¬ ì¨ì í ììê² ê·¸ì ëë¥¼ ê°ë¥´ì¹ìë¦¬ë¡ë¤",
+      "ita": "<span class=\"verse-number\">9</span> GuiderÃ  i mansueti nella giustizia, insegnerÃ  ai mansueti la sua via."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>All the paths of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">are</span> mercy and truth unto such as keep his covenant and his testimonies.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØ³ÙØ§ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙÙÙØ§ Ø±ÙØ­ÙÙÙØ©Ù ÙÙØ­ÙÙÙÙ ÙÙÙÙÙÙ ÙÙØ­ÙÙÙØ¸ÙÙÙÙ Ø¹ÙÙÙØ¯ÙÙÙ ÙÙØ´ÙÙÙØ§Ø¯ÙØ§ØªÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">10</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ãã¹ã¦ã®<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã¯ãã®<ruby><rb>å¥ç´</rb><rt>ãããã</rt></ruby>ã¨ãããã¨ã<ruby><rb>å®</rb><rt>ã¾ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ã¯ãã¤ããã¿ã§ãããã¾ãã¨ã§ããã",
+      "spa": "<span class=\"verse-number\">10 </span><span class=\"line\">Todas las sendas de JehovÃ¡ son misericordia y verdad</span><span class=\"line\">para los que guardan su convenio y sus testimonios.</span>",
+      "por": "<span class=\"verse-number\">10</span> Todas as veredas do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">sÃ£o</span> misericÃ³rdia e verdade para aqueles que guardam o seu convÃªnio e os seus testemunhos.",
+      "fra": "<span class=\"verse-number\">10</span> Tous les sentiers de lâÃternel sont misÃ©ricorde et fidÃ©litÃ©, Pour ceux qui gardent son alliance et ses commandements.",
+      "deu": "<span class=\"verse-number\">10Â </span><span class=\"line\">Alle Pfade des HErrn sind Gnade und Treue</span><span class=\"line\">denen, die seinen Bund und seine Gebote halten.</span>",
+      "kor": "<span class=\"verse-number\">10</span> ì¬í¸ìì ëª¨ë  ê¸¸ì ê·¸ì ì¸ì½ê³¼ ì¦ê±°ë¥¼ ì§í¤ë ììê² ì¸ìì ì§ë¦¬ë¡ë¤",
+      "ita": "<span class=\"verse-number\">10</span> Tutti i sentieri dellâEterno sono benignitÃ  e veritÃ  per quelli che osservano la sua alleanza e le sue testimonianze."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>For thy nameâs sake, O <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, pardon mine iniquity; for it <span class=\"clarity-word\">is</span> great.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙÙÙ Ø£ÙØ¬ÙÙÙ Ø§Ø³ÙÙÙÙÙ Ø£ÙÙÙÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ Ø§ØµÙÙÙØ­Ù Ø¹ÙÙÙ Ø¥ÙØ«ÙÙÙÙ ÙÙØ¥ÙÙÙÙÙÙ Ø¹ÙØ¸ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">11</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããã¿<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®ããã«ããããã®<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ããããããã ããããããã®<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã¯<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããã®ã§ãã",
+      "spa": "<span class=\"verse-number\">11 </span><span class=\"line\">Por amor de tu nombre, oh JehovÃ¡,</span><span class=\"line\">perdona mi iniquidad, porque es grande.</span>",
+      "por": "<span class=\"verse-number\">11</span> Por causa do teu nome, <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, perdoa a minha iniquidade, pois <span class=\"clarity-word\">Ã©</span> grande.",
+      "fra": "<span class=\"verse-number\">11</span> Câest Ã  cause de ton nom, Ã´ ÃternelÂ ! Que tu pardonneras mon iniquitÃ©, car elle est grande.",
+      "deu": "<span class=\"verse-number\">11Â </span><span class=\"line\">Um deines Namens willen, o HErr,</span><span class=\"line\">vergib mir meine Schuld, denn sie ist groÃ! â</span>",
+      "kor": "<span class=\"verse-number\">11</span> ì¬í¸ìì¬ ëì ì£ìì´ í¬ì¤ë ì£¼ì ì´ë¦ì¼ë¡ ë§ë¯¸ìì ì¬íìì",
+      "ita": "<span class=\"verse-number\">11</span> Per amore del tuo nome, o Eterno, perdona la mia iniquitÃ , perchÃ© Ã¨ grande."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>What man <span class=\"clarity-word\">is</span> he that feareth the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>? him shall he teach in the way <span class=\"clarity-word\">that</span> he shall choose.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙÙ ÙÙÙÙ Ø§ÙØ¥ÙÙÙØ³ÙØ§ÙÙ Ø§ÙÙÙØ°ÙÙ ÙÙØ®ÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙØ Ø¥ÙÙÙÙØ§ÙÙ ÙÙØ¯ÙØ±ÙÙØ¨Ù ÙÙÙ Ø§ÙØ·ÙÙØ±ÙÙÙÙ Ø§ÙÙÙØªÙÙ ÙÙØ®ÙØªÙØ§Ø±ÙÙÙØ§ ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">12</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯ã ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ãã®<ruby><rb>é¸</rb><rt>ãã</rt></ruby>ã¶ã¹ã<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ããã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">12 </span><span class=\"line\">Â¿QuiÃ©n es el hombre que teme a JehovÃ¡?</span><span class=\"line\"><span class=\"page-break\" data-page=\"908\"></span>Ãl le enseÃ±arÃ¡ el camino que ha de escoger.</span>",
+      "por": "<span class=\"verse-number\">12</span> Qual <span class=\"clarity-word\">Ã©</span> o homem que teme ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>? Ele o ensinarÃ¡ no caminho <span class=\"clarity-word\">que</span> deve escolher.",
+      "fra": "<span class=\"verse-number\">12</span> Quel est lâhomme qui craint lâÃternelÂ ? LâÃternel lui montre la voie quâil doit choisir.",
+      "deu": "<span class=\"verse-number\">12Â </span><span class=\"line\">Wie stehtâs mit dem Mann, der den HErrn fÃ¼rchtet?</span><span class=\"line\">Dem zeigt er den Weg, den er wÃ¤hlen soll.</span>",
+      "kor": "<span class=\"verse-number\">12</span> ì¬í¸ìë¥¼ ê²½ì¸íë ì ëêµ¬ë ê·¸ê° íí  ê¸¸ì ê·¸ìê² ê°ë¥´ì¹ìë¦¬ë¡ë¤",
+      "ita": "<span class=\"verse-number\">12</span> Chi Ã¨ lâuomo che teme lâEterno? Egli gli insegnerÃ  la via che deve scegliere."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>His soul shall dwell at ease; and his seed shall inherit the earth.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØªÙÙÙØ¹ÙÙÙ ÙÙÙÙØ³ÙÙÙ ÙÙÙ Ø§ÙÙØ®ÙÙÙØ±Ù ÙÙØªÙÙÙØªÙÙÙÙÙ Ø°ÙØ±ÙÙÙÙÙØªÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù.",
+      "jpn": "<span class=\"verse-number\">13</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ã¿ãããããããã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ã¾ãããã®ããã¯<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã<ruby><rb>ç¶</rb><rt>ã¤</rt></ruby>ãã§ãããã",
+      "spa": "<span class=\"verse-number\">13 </span><span class=\"line\">Su alma morarÃ¡ en bienestar,</span><span class=\"line\">y su descendencia heredarÃ¡ la tierra.</span>",
+      "por": "<span class=\"verse-number\">13</span> A sua alma repousarÃ¡ no bem, e a sua semente herdarÃ¡ a terra.",
+      "fra": "<span class=\"verse-number\">13</span> Son Ã¢me reposera dans le bonheur, Et sa postÃ©ritÃ© possÃ©dera le pays.",
+      "deu": "<span class=\"verse-number\">13Â </span><span class=\"line\">Er selbst wird wohnen im GlÃ¼ck,</span><span class=\"line\">und seine Kinder werden das Land besitzen.</span>",
+      "kor": "<span class=\"verse-number\">13</span> ê·¸ì ìí¼ì íìí ì´ê³  ê·¸ì ììì ëì ììíë¦¬ë¡ë¤",
+      "ita": "<span class=\"verse-number\">13</span> La sua anima dimorerÃ  nel benessere, e la sua progenie erediterÃ  la terra."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>The secret of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> with them that fear him; and he will shew them his covenant.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ·ÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø®ÙØ§Ø¦ÙÙÙÙÙÙ Ø¹ÙÙÙÙ ÙÙÙÙØ§ØµÙØ¯ÙÙÙ Ø§ÙÙØ®ÙÙÙÙÙÙØ©ÙØ ÙÙÙÙØªÙØ¹ÙÙÙÙØ¯Ù ØªÙØ¹ÙÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">14</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>è¦ª</rb><rt>ãã</rt></ruby>ãã¿ã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ããã«ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ãã®<ruby><rb>å¥ç´</rb><rt>ãããã</rt></ruby>ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããããã",
+      "spa": "<span class=\"verse-number\">14 </span><span class=\"line\">La comuniÃ³n Ã­ntima de JehovÃ¡ es para con los que le temen,</span><span class=\"line\">y a ellos harÃ¡ conocer su convenio.</span>",
+      "por": "<span class=\"verse-number\">14</span> O segredo do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">Ã©</span> para aqueles que o temem, e ele lhes mostrarÃ¡ o seu convÃªnio.",
+      "fra": "<span class=\"verse-number\">14</span> LâamitiÃ© de lâÃternel est pour ceux qui le craignent, Et il leur fait connaÃ®tre son alliance.",
+      "deu": "<span class=\"verse-number\">14Â </span><span class=\"line\">Freundschaft hÃ¤lt der HErr mit denen, die ihn fÃ¼rchten,</span><span class=\"line\">und sein Bund will zur Erkenntnis sie fÃ¼hren. â</span>",
+      "kor": "<span class=\"verse-number\">14</span> ì¬í¸ìì ì¹ë°íì¬ì´ ê·¸ë¥¼ ê²½ì¸íë ìë¤ìê² ììì´ì¬ ê·¸ì ì¸ì½ì ê·¸ë¤ìê² ë³´ì´ìë¦¬ë¡ë¤",
+      "ita": "<span class=\"verse-number\">14</span> Il segreto dellâEterno Ã¨ per quelli che lo temono, ed egli fa loro conoscere la sua alleanza."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>Mine eyes <span class=\"clarity-word\">are</span> ever toward the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; for he shall pluck my feet out of the net.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ØªÙØªÙÙØ¬ÙÙÙ Ø¹ÙÙÙÙÙØ§ÙÙ Ø¯ÙØ§Ø¦ÙÙØ§Ù ÙÙØ­ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙØ ÙØ£ÙÙÙÙÙÙ ÙÙØ­ÙØ±ÙÙØ±Ù Ø±ÙØ¬ÙÙÙÙÙÙ ÙÙÙÙ ÙÙØ®ÙÙ Ø§ÙØ´ÙÙØ±ÙÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">15</span> ãããã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã¯<ruby><rb>å¸¸</rb><rt>ã¤ã­</rt></ruby>ã«<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å</rb><rt>ã</rt></ruby>ãã£ã¦ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ãããã®<ruby><rb>è¶³</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¶²</rb><rt>ãã¿</rt></ruby>ãã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãããããã§ããã",
+      "spa": "<span class=\"verse-number\">15 </span><span class=\"line\">Mis ojos se dirigen siempre hacia JehovÃ¡,</span><span class=\"line\">porque Ã©l sacarÃ¡ mis pies de la red.</span>",
+      "por": "<span class=\"verse-number\">15</span> Os meus olhos <span class=\"clarity-word\">estÃ£o</span> continuamente no <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, pois ele tirarÃ¡ os meus pÃ©s da rede.",
+      "fra": "<span class=\"verse-number\">15</span> Je tourne constamment les yeux vers lâÃternel, Car il fera sortir mes pieds du filet.",
+      "deu": "<span class=\"verse-number\">15Â </span>Meine Augen sind stets auf den HErrn gerichtet, denn er wird meine FÃ¼Ãe aus dem Netze ziehn.",
+      "kor": "<span class=\"verse-number\">15</span> ë´ ëì´ í­ì ì¬í¸ìë¥¼ ë°ë¼ë´ì ë´ ë°ì ê·¸ë¬¼ìì ë²ì´ëê² íì¤ ê²ìì´ë¡ë¤",
+      "ita": "<span class=\"verse-number\">15</span> I miei occhi sono continuamente verso lâEterno, perchÃ© egli Ã¨ colui che tirerÃ  fuori i miei piedi dalla rete."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>Turn thee unto me, and have mercy upon me; for I <span class=\"clarity-word\">am</span> desolate and afflicted.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>Ø§ÙÙØªÙÙÙØªÙ ÙÙØ­ÙÙÙÙ ÙÙØ§Ø±ÙØ­ÙÙÙÙÙÙØ ÙÙØ£ÙÙÙØ§ ÙÙØ­ÙÙØ¯Ù ÙÙÙÙØ³ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">16</span> ãããããããã¿ãããããããããã§ãã ããããããã¯ã²ã¨ããã³ãã<ruby><rb>è¦</rb><rt>ãã</rt></ruby>ããã§ããã®ã§ãã",
+      "spa": "<span class=\"verse-number\">16 </span><span class=\"line\">VuÃ©lvete a mÃ­ y ten misericordia de mÃ­,</span><span class=\"line\">porque estoy solo y afligido.</span>",
+      "por": "<span class=\"verse-number\">16</span> Olha para mim, e tem piedade de mim, porque <span class=\"clarity-word\">estou</span> solitÃ¡rio e aflito.",
+      "fra": "<span class=\"verse-number\">16</span> Regarde-moi et aie pitiÃ© de moi, Car je suis abandonnÃ© et malheureux.",
+      "deu": "<span class=\"verse-number\">16Â </span><span class=\"line\">Wende dich mir zu und sei mir gnÃ¤dig!</span><span class=\"line\">denn einsam bin ich und elend.</span>",
+      "kor": "<span class=\"verse-number\">16</span> ì£¼ì¬ ëë ì¸ë¡­ê³  ê´´ë¡ì°ë ë´ê² ëì´í¤ì¬ ëìê² ìíë¥¼ ë² í¸ìì",
+      "ita": "<span class=\"verse-number\">16</span> Volgiti a me, ed abbi pietÃ  di me, perchÃ© io sono solo ed afflitto."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>The troubles of my heart are enlarged: <span class=\"clarity-word\">O</span> bring thou me out of my distresses.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØ¯Ù ØªÙÙÙØ§Ø«ÙØ±ÙØªÙ ÙÙØªÙØ§Ø¹ÙØ¨Ù ÙÙÙÙØ¨ÙÙØ ÙÙØ£ÙÙÙÙÙØ°ÙÙÙÙ ÙÙÙÙ Ø´ÙØ¯ÙØ§Ø¦ÙØ¯ÙÙ.",
+      "jpn": "<span class=\"verse-number\">17</span> ãããã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æ©</rb><rt>ãªã</rt></ruby>ã¿ããããããããã<ruby><rb>è¦</rb><rt>ãã</rt></ruby>ãã¿ãã<ruby><rb>å¼</rb><rt>ã²</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦ãã ããã",
+      "spa": "<span class=\"verse-number\">17 </span><span class=\"line\">Las angustias de mi corazÃ³n se han aumentado;</span><span class=\"line\">sÃ¡came de mis congojas.</span>",
+      "por": "<span class=\"verse-number\">17</span> As angÃºstias do meu coraÃ§Ã£o se multiplicaram; tira-me dos meus apertos.",
+      "fra": "<span class=\"verse-number\">17</span> Les angoisses de mon cÅur augmententÂ ; Tire-moi de ma dÃ©tresse.",
+      "deu": "<span class=\"verse-number\">17Â </span><span class=\"line\">Die Ãngste meines Herzens sind schwer geworden:</span><span class=\"line\">o fÃ¼hrâ mich heraus aus meinen NÃ¶ten!</span>",
+      "kor": "<span class=\"verse-number\">17</span> ë´ ë§ìì ê·¼ì¬ì´ ë§ì¬ì¤ë ëë¥¼ ê³ ëìì ëì´ë´ìì",
+      "ita": "<span class=\"verse-number\">17</span> Le angosce del mio cuore sono aumentate; liberami dalle mie angustie."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>Look upon mine affliction and my pain; and forgive all my sins.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>Ø§ÙÙØ¸ÙØ±Ù Ø¥ÙÙÙÙ ÙÙØ°ÙÙÙÙØªÙÙ ÙÙÙÙØ¹ÙØ§ÙÙØ§ØªÙÙØ ÙÙØ§ØµÙÙÙØ­Ù Ø¹ÙÙÙ Ø¬ÙÙÙÙØ¹Ù Ø®ÙØ·ÙØ§ÙÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">18</span> ãããã®<ruby><rb>è¦</rb><rt>ãã</rt></ruby>ãã¿<ruby><rb>æ©</rb><rt>ãªã</rt></ruby>ã¿ããããã¿ããããã®ãã¹ã¦ã®<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ããããããã ããã",
+      "spa": "<span class=\"verse-number\">18 </span><span class=\"line\">Mira mi aflicciÃ³n y mis afanes,</span><span class=\"line\">y perdona todos mis pecados.</span>",
+      "por": "<span class=\"verse-number\">18</span> Olha para a minha afliÃ§Ã£o e para a minha dor, e perdoa todos os meus pecados.",
+      "fra": "<span class=\"verse-number\">18</span> Vois ma misÃ¨re et ma peine, Et pardonne tous mes pÃ©chÃ©s.",
+      "deu": "<span class=\"verse-number\">18Â </span><span class=\"line\">Sieh mein Elend an und mein Ungemach</span><span class=\"line\">und vergib mir alle meine SÃ¼nden! â</span>",
+      "kor": "<span class=\"verse-number\">18</span> ëì ê³¤ê³ ì íëì ë³´ìê³  ë´ ëª¨ë  ì£ë¥¼ ì¬íìì",
+      "ita": "<span class=\"verse-number\">18</span> Vedi la mia afflizione e il mio affanno, e perdonami tutti i miei peccati."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>Consider mine enemies; for they are many; and they hate me with cruel hatred.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>Ø§ÙÙØ¸ÙØ±Ù ÙÙÙÙÙÙ ØªÙÙÙØ§Ø«ÙØ±Ù Ø¹ÙÙÙÙÙÙ Ø£ÙØ¹ÙØ¯ÙØ§Ø¦ÙÙ ÙÙÙÙÙÙ ÙÙØ¨ÙØºÙØ¶ÙÙÙÙÙÙÙ Ø¸ÙÙÙÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">19</span> ãããã®<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ãããã«<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãããã¤<ruby><rb>æ¿</rb><rt>ã¯ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ãã¿ããã£ã¦ãããã<ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ãã§ããããããããã ããã",
+      "spa": "<span class=\"verse-number\">19 </span><span class=\"line\">Mira mis enemigos, cÃ³mo se han multiplicado,</span><span class=\"line\">y con odio violento me aborrecen.</span>",
+      "por": "<span class=\"verse-number\">19</span> Olha para os meus inimigos, pois se vÃ£o multiplicando e me odeiam com Ã³dio cruel.",
+      "fra": "<span class=\"verse-number\">19</span> Vois combien mes ennemis sont nombreux, Et de quelle haine violente ils me poursuivent.",
+      "deu": "<span class=\"verse-number\">19Â </span><span class=\"line\">Sieh meine Feinde an, wie viele ihrer sind</span><span class=\"line\">und wie sie mich hassen mit frevlem HaÃ.</span>",
+      "kor": "<span class=\"verse-number\">19</span> ë´ ììë¥¼ ë³´ìì ê·¸ë¤ì <span class=\"clarity-word\">ìê°</span> ë§ê³  ëë¥¼ ì¬í ë¯¸ìíëì´ë¤",
+      "ita": "<span class=\"verse-number\">19</span> Vedi i miei nemici, perchÃ© sono molti, e mi odiano di un odio violento."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>O keep my soul, and deliver me: <span class=\"page-break\" data-page=\"729\"></span>let me not be ashamed; for I put my trust in thee.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ØµÙÙÙ ÙÙÙÙØ³ÙÙ ÙÙØ£ÙÙÙÙÙØ°ÙÙÙÙØ ÙÙÙÙØ§ ØªÙØ¯ÙØ¹ÙÙÙÙ Ø£ÙØ®ÙÙØ¨ÙØ ÙÙØ¥ÙÙÙÙÙ Ø¹ÙÙÙÙÙÙÙ ØªÙÙÙÙÙÙÙÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">20</span> ãããã®<ruby><rb>é­</rb><rt>ãã¾ãã</rt></ruby>ã<ruby><rb>å®</rb><rt>ã¾ã</rt></ruby>ããããããã<ruby><rb>å©</rb><rt>ãã</rt></ruby>ããã ãããããããã¯ãããããªãã§ãã ããããããã¯ããªãã«<ruby><rb>å¯</rb><rt>ã</rt></ruby>ã<ruby><rb>é ¼</rb><rt>ãã</rt></ruby>ãã§ãã¾ãã",
+      "spa": "<span class=\"verse-number\">20 </span><span class=\"line\">Guarda mi alma y lÃ­brame;</span><span class=\"line\">no sea yo avergonzado, porque en ti he confiado.</span>",
+      "por": "<span class=\"verse-number\">20</span> Guarda a minha alma, e livra-me; nÃ£o seja eu envergonhado, porquanto confio em ti.",
+      "fra": "<span class=\"verse-number\">20</span> Garde mon Ã¢me et sauve-moiÂ ! Que je ne sois pas confus, Quand je cherche auprÃ¨s de toi mon refugeÂ !",
+      "deu": "<span class=\"verse-number\">20Â </span><span class=\"line\">BehÃ¼te meine Seele und rette mich,</span><span class=\"line\">nicht enttÃ¤uscht laÃ mich werden: ich traue auf dich!</span>",
+      "kor": "<span class=\"verse-number\">20</span> ë´ ìí¼ì ì§ì¼ ëë¥¼ êµ¬ìíìì ë´ê° ì£¼ê» í¼íì¤ë ìì¹ë¥¼ ë¹íì§ ìê² íìì",
+      "ita": "<span class=\"verse-number\">20</span> Guarda la mia anima e salvami; faâ che io non sia confuso, perchÃ© confido in te."
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>Let integrity and uprightness preserve me; for I wait on thee.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØ­ÙÙÙØ¸ÙÙÙÙ Ø§ÙÙÙÙÙÙØ§ÙÙ ÙÙØ§ÙØ§Ø³ÙØªÙÙÙØ§ÙÙØ©ÙØ ÙØ£ÙÙÙÙÙ Ø¥ÙÙÙÙØ§ÙÙ Ø§ÙÙØªÙØ¸ÙØ±ÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">21</span> ã©ããã<ruby><rb>èª å®</rb><rt>ãããã¤</rt></ruby>ã¨<ruby><rb>æ½ç½</rb><rt>ãã£ã±ã</rt></ruby>ã¨ãããããã<ruby><rb>å®</rb><rt>ã¾ã</rt></ruby>ã£ã¦ãããããã«ããããã¯ããªãã<ruby><rb>å¾</rb><rt>ã¾</rt></ruby>ã¡<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ãã§ãã¾ãã",
+      "spa": "<span class=\"verse-number\">21 </span><span class=\"line\">Integridad y rectitud me guarden,</span><span class=\"line\">porque en ti he esperado.</span>",
+      "por": "<span class=\"verse-number\">21</span> Guardem-me a integridade e a retidÃ£o, porquanto espero em ti.",
+      "fra": "<span class=\"verse-number\">21</span> Que lâinnocence et la droiture me protÃ¨gent, Quand je mets en toi mon espÃ©ranceÂ !",
+      "deu": "<span class=\"verse-number\">21Â </span><span class=\"line\">Unschuld und Redlichkeit mÃ¶gen mich behÃ¼ten,</span><span class=\"line\">denn ich harre deiner, o HErr! â</span>",
+      "kor": "<span class=\"verse-number\">21</span> ë´ê° ì£¼ë¥¼ ë°ë¼ì¤ë ì±ì¤ê³¼ ì ì§ì¼ë¡ ëë¥¼ ë³´í¸íìì",
+      "ita": "<span class=\"verse-number\">21</span> LâintegritÃ  e la rettitudine mi proteggano, perchÃ© spero in te."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>Redeem Israel, O God, out of all his troubles.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>Ø§ÙÙØ¯Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ÙÙØ§ Ø§ÙÙÙÙ°ÙÙ ÙÙÙÙ Ø¬ÙÙÙÙØ¹Ù Ø¶ÙÙÙÙØ§ØªÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">22</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ããã¤ã¹ã©ã¨ã«ããããªãããã¹ã¦ã®<ruby><rb>æ©</rb><rt>ãªã</rt></ruby>ã¿ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã ãã¦ãã ããã",
+      "spa": "<span class=\"verse-number\">22 </span><span class=\"line\">Redime, oh Dios, a Israel</span><span class=\"line\">de todas sus angustias.</span>",
+      "por": "<span class=\"verse-number\">22</span> Redime Israel, Ã³ Deus, de todas as suas angÃºstias.",
+      "fra": "<span class=\"verse-number\">22</span> Ã DieuÂ ! rachÃ¨te IsraÃ«l De toutes ses dÃ©tressesÂ !",
+      "deu": "<span class=\"verse-number\">22Â </span>O Gott, erlÃ¶se Israel aus allen seinen NÃ¶ten!",
+      "kor": "<span class=\"verse-number\">22</span> íëëì´ì¬ ì´ì¤ë¼ìì ê·¸ ëª¨ë  íëìì ìëíìì",
+      "ita": "<span class=\"verse-number\">22</span> O Dio, libera Israele da tutte le sue tribolazioni."
+    }
+  }
+}

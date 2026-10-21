@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "ps",
+    "chapter": 100,
+    "headings": {
+      "eng": "Serve the Lord with gladness, all who are His peopleâBe thankful unto Him and bless His name.",
+      "spa": "Servid a JehovÃ¡ con alegrÃ­a, todos los que sois de Su puebloÂ â Alabadle y bendecid Su nombre.",
+      "por": "Salmo de louvorÂ â Servi ao Senhor com alegria, todos vÃ³s, Seu povoÂ â Dai-Lhe graÃ§as e bendizei o Seu nome.",
+      "fra": "Servez lâÃternel avec joie, vous qui Ãªtes son peuple. CÃ©lÃ©brez-le, bÃ©nissez son nom.",
+      "ita": "Servite lâEterno con gioia, voi tutti che siete il Suo popoloÂ â Celebratelo, benedite il suo nome."
+    },
+    "intros": {
+      "eng": "A Psalm of praise.",
+      "jpn": "<ruby><rb>æè¬</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>ä¾</rb><rt>ããª</rt></ruby>ã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã®ããã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
+      "spa": "Salmo de alabanza.",
+      "por": "Salmo de louvor.",
+      "ita": "Salmo di lode."
+    }
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Make a joyful noise unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, all ye lands.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø§ÙÙØªÙÙÙÙØ§ ÙÙÙØ±ÙÙØ¨ÙÙ ÙÙØ§ Ø³ÙÙÙÙØ§ÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø¬ÙÙÙÙØ¹Ø§Ù.",
+      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>å¨</rb><rt>ãã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«ããã£ã¦<ruby><rb>å</rb><rt>ããã</rt></ruby>ã°ãã<ruby><rb>å£°</rb><rt>ãã</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">Cantad alegres a JehovÃ¡, <span class=\"clarity-word\">habitantes de</span> toda la tierra.</span>",
+      "por": "<span class=\"verse-number\">1</span> Celebrai com jÃºbilo ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, todas as terras.",
+      "fra": "<span class=\"verse-number\">1</span> Psaume de louange. Poussez vers lâÃternel des cris de joie, Vous tous, habitants de la terreÂ !",
+      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Psalm als Dankbezeigung (oder bei Darbringung eines Dankopfers).</span><span class=\"line\">Jauchzet dem HErrn, alle Lande,</span>",
+      "kor": "<span class=\"verse-number\">1</span> ì¨ ëì´ì¬ ì¬í¸ìê» ì¦ê±°ì´ ì°¬ì¡ì ë¶ë¥¼ì§ì´ë¤",
+      "ita": "<span class=\"verse-number\">1</span> Mandate grida di gioia allâEterno, o abitanti di tutta la terra!"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>Serve the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> with gladness: come before his presence with singing.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø§Ø¹ÙØ¨ÙØ¯ÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¨ÙØ¨ÙÙÙØ¬ÙØ©ÙØ ÙÙØ§ÙÙØ«ÙÙÙÙØ§ Ø£ÙÙÙØ§ÙÙÙÙ ÙÙØªÙØ±ÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>å</rb><rt>ããã</rt></ruby>ã³ããã£ã¦<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ããã<ruby><rb>æ­</rb><rt>ãã</rt></ruby>ãã¤ã¤ããã®ã¿<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ãããã",
+      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Servid a JehovÃ¡ con alegrÃ­a;</span><span class=\"line\">venid ante su presencia con regocijo.</span>",
+      "por": "<span class=\"verse-number\">2</span> Servi ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> com alegria, e entrai diante dele com canto.",
+      "fra": "<span class=\"verse-number\">2</span> Servez lâÃternel avec joie, Venez avec allÃ©gresse en sa prÃ©senceÂ !",
+      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">dienet dem HErrn mit Freuden,</span><span class=\"line\">kommt vor sein Angesicht mit Jubel!</span>",
+      "kor": "<span class=\"verse-number\">2</span> ê¸°ì¨ì¼ë¡ ì¬í¸ìë¥¼ ì¬ê¸°ë©° ë¸ëíë©´ì ê·¸ì ìì ëìê°ì§ì´ë¤",
+      "ita": "<span class=\"verse-number\">2</span> Servite lâEterno con gioia, venite al suo cospetto con canti!"
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>Know ye that the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> he <span class=\"clarity-word\">is</span> God: <span class=\"clarity-word\">it is</span> he <span class=\"clarity-word\">that</span> hath made us, and not we ourselves; <span class=\"clarity-word\">we are</span> his people, and the sheep of his pasture.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>Ø§Ø¹ÙÙÙÙÙÙØ§ Ø£ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙ Ø§ÙÙÙÙ°ÙÙ. ÙÙÙÙ ØµÙÙÙØ¹ÙÙÙØ§ ÙÙÙÙØ­ÙÙÙ ÙÙÙÙØ ÙÙØ­ÙÙÙ Ø´ÙØ¹ÙØ¨ÙÙÙ ÙÙÙÙØ·ÙÙØ¹Ù ÙÙØ±ÙØ¹ÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">3</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã§ãããã¨ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããããã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããããã®ã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã§ãã£ã¦ããããã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ãã®ã§ããããããã¯ãã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ããã®<ruby><rb>ç§</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Reconoced que JehovÃ¡ es Dios.</span><span class=\"line\">Ãl nos hizo, y no nosotros a nosotros mismos;</span><span class=\"line\">pueblo suyo somos y ovejas de su prado.</span>",
+      "por": "<span class=\"verse-number\">3</span> Sabei que o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">Ã©</span> Deus; foi ele que nos fez, e nÃ£o nÃ³s a nÃ³s mesmos; <span class=\"clarity-word\">somos</span> povo seu e ovelhas do seu pasto.",
+      "fra": "<span class=\"verse-number\">3</span> Sachez que lâÃternel est DieuÂ ! Câest lui qui nous a faits et nous lui appartenonsÂ ; Nous sommes son peuple et le troupeau de son pÃ¢turage.",
+      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Erkennt, daÃ der HErr Gott ist!</span><span class=\"line\">Er hat uns geschaffen, und sein sind wir,</span><span class=\"line\">sein Volk und die Herde, die er weidet.</span>",
+      "kor": "<span class=\"verse-number\">3</span> ì¬í¸ìê° ì°ë¦¬ íëëì´ì  ì¤ ëí¬ë ìì§ì´ë¤ ê·¸ë ì°ë¦¬ë¥¼ ì§ì¼ì  ì´ì ì°ë¦¬ë ê·¸ì ê²ì´ë ê·¸ì ë°±ì±ì´ì ê·¸ì ê¸°ë¥´ìë ìì´ë¡ë¤",
+      "ita": "<span class=\"verse-number\">3</span> Riconoscete che lâEterno Ã¨ Dio; Ã¨ lui che ci ha fatto, e noi siamo suoi; siamo il suo popolo e il gregge che egli pasce."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>Enter into his gates with thanksgiving, <span class=\"clarity-word\">and</span> into his courts with praise: be thankful unto him, <span class=\"clarity-word\">and</span> bless his name.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø§Ø¯ÙØ®ÙÙÙÙØ§ Ø£ÙØ¨ÙÙÙØ§Ø¨ÙÙÙ Ø­ÙØ§ÙÙØ¯ÙÙÙÙØ Ø¯ÙÙÙØ§Ø±ÙÙÙ ÙÙØ³ÙØ¨ÙÙØ­ÙÙÙÙ. Ø§Ø´ÙÙÙØ±ÙÙÙÙ ÙÙØ¨ÙØ§Ø±ÙÙÙÙØ§ Ø§Ø³ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">4</span> <ruby><rb>æè¬</rb><rt>ãããã</rt></ruby>ãã¤ã¤ããã®<ruby><rb>é</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¥</rb><rt>ã</rt></ruby>ããã»ããããã¤ã¤ããã®<ruby><rb>å¤§åº­</rb><rt>ããã«ã</rt></ruby>ã«<ruby><rb>å¥</rb><rt>ã</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æè¬</rb><rt>ãããã</rt></ruby>ãããã®ã¿<ruby><rb>å</rb><rt>ãª</rt></ruby>ãã»ãã¾ã¤ãã",
+      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Entrad por sus puertas con acciÃ³n de gracias,</span><span class=\"line\">por sus atrios con alabanza.</span><span class=\"line\">Â¡Alabadle; bendecid su nombre!</span>",
+      "por": "<span class=\"verse-number\">4</span> Entrai pelas portas dele com louvor, <span class=\"clarity-word\">e</span> em seus Ã¡trios com hino; dai-lhe graÃ§as, e bendizei o seu nome.",
+      "fra": "<span class=\"verse-number\">4</span> Entrez par ses portes avec des louanges, Dans ses parvis avec des cantiquesÂ ! CÃ©lÃ©brez-le, bÃ©nissez son nomÂ !",
+      "deu": "<span class=\"verse-number\">4Â </span><span class=\"line\">Zieht ein durch seine Tore mit Danken,</span><span class=\"line\">in seines Tempels HÃ¶fe mit Lobgesang,</span><span class=\"line\">dankt ihm, preist seinen Namen!</span>",
+      "kor": "<span class=\"verse-number\">4</span> ê°ì¬í¨ì¼ë¡ ê·¸ì ë¬¸ì ë¤ì´ê°ë©° ì°¬ì¡í¨ì¼ë¡ ê·¸ì ê¶ì ì ë¤ì´ê°ì ê·¸ìê² ê°ì¬íë©° ê·¸ì ì´ë¦ì ì¡ì¶í ì§ì´ë¤",
+      "ita": "<span class=\"verse-number\">4</span> Entrate nelle sue porte con ringraziamento, e nei suoi cortili con lode; celebratelo, benedite il suo nome."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>For the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> good; his mercy <span class=\"clarity-word\">is</span> everlasting; and his truth <span class=\"clarity-word\">endureth</span> to all generations.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ¥ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ØµÙØ§ÙÙØ­ÙØ Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯Ù Ø±ÙØ­ÙÙÙØªÙÙÙ ÙÙØ£ÙÙÙØ§ÙÙØªÙÙÙ Ø¯ÙØ§Ø¦ÙÙÙØ©Ù ÙÙÙÙ Ø¬ÙÙÙÙ Ø¥ÙÙÙÙ Ø¬ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>æµ</rb><rt>ãã</rt></ruby>ã¿ãµããããã®ãã¤ããã¿ã¯ããããªãããã®ã¾ãã¨ã¯ããã<ruby><rb>ä»£</rb><rt>ã</rt></ruby>ã«<ruby><rb>å</rb><rt>ãã</rt></ruby>ã¶ããã§ããã",
+      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">Porque JehovÃ¡ es bueno;</span><span class=\"line\">para siempre es su misericordia,</span><span class=\"line\">y su fidelidad por todas las generaciones.</span>",
+      "por": "<span class=\"verse-number\">5</span> Porque o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">Ã©</span> bom, e eterna a sua misericÃ³rdia; e a sua verdade <span class=\"clarity-word\">dura</span> de geraÃ§Ã£o em geraÃ§Ã£o.",
+      "fra": "<span class=\"verse-number\">5</span> Car lâÃternel est bonÂ ; sa bontÃ© dure toujours, Et sa fidÃ©litÃ© de gÃ©nÃ©ration en gÃ©nÃ©ration.",
+      "deu": "<span class=\"verse-number\">5Â </span><span class=\"line\">Denn freundlich ist der HErr, seine Gnade wÃ¤hrt ewig</span><span class=\"line\">und seine Treue von Geschlecht zu Geschlecht.</span>",
+      "kor": "<span class=\"verse-number\">5</span> ì¬í¸ìë ì íìë ê·¸ì ì¸ìíì¬ì´ ììíê³  ê·¸ì ì±ì¤íì¬ì´ ëëì ì´ë¥´ë¦¬ë¡ë¤",
+      "ita": "<span class=\"verse-number\">5</span> PoichÃ© lâEterno Ã¨ buono; la sua benignitÃ  dura in perpetuo, e la sua fedeltÃ  di generazione in generazione."
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "hos",
+    "chapter": 5,
+    "headings": {
+      "eng": "The kingdoms of Judah and Israel will both fall because of their iniquities.",
+      "spa": "Los reinos de JudÃ¡ y de Israel caerÃ¡n por causa de sus iniquidades.",
+      "por": "Os reinos de JudÃ¡ e Israel cairÃ£o por causa de suas iniquidades.",
+      "fra": "Les royaumes de Juda et dâIsraÃ«l tomberont tous deux Ã  cause de leurs iniquitÃ©s.",
+      "ita": "I regni di Giuda e di Israele cadranno entrambi a causa delle loro iniquitÃ ."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment <span class=\"clarity-word\">is</span> toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø§Ø³ÙÙÙØ¹ÙÙØ§ ÙÙØ°ÙØ§ Ø£ÙÙÙÙÙÙØ§ Ø§ÙÙÙÙÙÙÙÙØ©Ù ÙÙØ£ÙÙÙØµÙØªÙÙØ§ ÙÙØ§ Ø´ÙØ¹ÙØ¨Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙØ ÙÙØ£ÙØµÙØºÙÙØ§ ÙÙØ§ Ø£ÙÙÙÙÙ Ø¨ÙÙÙØªÙ Ø§ÙÙÙÙÙÙÙÙØ ÙØ£ÙÙÙÙ Ø§ÙÙÙÙØ¶ÙØ§Ø¡Ù Ø­ÙØ§ÙÙÙ Ø¨ÙÙÙÙÙ Ø¥ÙØ°Ù ÙÙÙÙØªÙÙÙ ÙÙØ®ÙØ§Ù ÙÙÙ Ø§ÙÙÙÙØµÙÙÙØ§Ø©Ù ÙÙØ´ÙØ¨ÙÙÙØ©Ù ÙÙÙÙØµÙÙØ¨ÙØ©Ù Ø¹ÙÙÙÙ Ø¬ÙØ¨ÙÙÙ ØªÙØ§Ø¨ÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ãã¡ããããã<ruby><rb>è</rb><rt>ã</rt></ruby>ããã¤ã¹ã©ã¨ã«ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ãã¨ããã<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è³</rb><rt>ã¿ã¿</rt></ruby>ã<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ããããã°ãã¯ããªãããã«<ruby><rb>è¨</rb><rt>ã®ã</rt></ruby>ããããªãããã¯ãããã«ããªã<ruby><rb>è¨­</rb><rt>ãã</rt></ruby>ããã¿ãã«ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ç¶²</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>å¼µ</rb><rt>ã¯</rt></ruby>ã£ãããã ã",
+      "spa": "<span class=\"verse-number\">1 </span>Sacerdotes, oÃ­d esto; y estad atentos, casa de Israel; y casa del rey, escuchad. Porque contra vosotros es el juicio, pues habÃ©is sido trampa en Mizpa y red tendida sobre Tabor.",
+      "por": "<span class=\"verse-number\">1</span> Ouvi isto, Ã³ sacerdotes, e escutai, Ã³ casa de Israel, e escutai, Ã³ casa do rei, porque este juÃ­zo Ã© contra vÃ³s, visto que fostes um laÃ§o para MizpÃ¡, e rede estendida sobre Tabor.",
+      "fra": "<span class=\"verse-number\">1</span> Ãcoutez ceci, prÃªtresÂ ; Sois attentive, maison dâIsraÃ«lÂ ! PrÃªte lâoreille, maison du roiÂ ! Car câest Ã  vous que le jugement sâadresse, Parce que vous avez Ã©tÃ© un piÃ¨ge Ã  Mitspa, Et un filet tendu sur le Thabor.",
+      "deu": "<span class=\"verse-number\">1Â </span>Vernehmt dieses, ihr Priester, und merkt auf, ihr vom Hause Israel! Und ihr (Herren) vom Hofe des KÃ¶nigs, gebt acht! Denn euch steht das Gericht bevor, weil ihr eine Schlinge fÃ¼r Mizpa geworden seid und ein ausgespanntes Fangnetz auf dem Thabor",
+      "kor": "<span class=\"verse-number\">1</span> ì ì¬ì¥ë¤ì ì´ë¥¼ ë¤ì¼ë¼ ì´ì¤ë¼ì ì¡±ìë¤ì ê¹¨ë¬ì¼ë¼ ìì¡±ë¤ì ê·ë¥¼ ê¸°ì¸ì´ë¼ ëí¬ìê² ì¬íì´ ìëë ëí¬ê° ë¯¸ì¤ë°ì ëíì¬ ì¬ë¬´ê° ëë©° ë¤ë³¼ ìì ì¹ ê·¸ë¬¼ì´ ë¨ì´ë¼",
+      "ita": "<span class=\"verse-number\">1</span> Ascoltate questo, o sacerdoti! State attenti, voi del casato dâIsraele! Porgete orecchio, voi della casa del re! PoichÃ© il giudizio Ã¨ contro di voi, perchÃ© siete stati un laccio a Mizpa e una rete tesa sul Tabor."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>And the revolters are profound to make slaughter, though I <span class=\"clarity-word\">have been</span> a rebuker of them all.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙØ¯Ù Ø­ÙÙÙØ±ÙØªÙÙÙ Ø­ÙÙÙØ±ÙØ©Ù Ø¹ÙÙÙÙÙÙØ©Ù ÙÙÙ Ø´ÙØ·ÙÙÙÙÙØ ÙÙÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙ Ø¨ÙØªÙØ£ÙØ¯ÙÙØ¨ÙÙÙÙÙ Ø¬ÙÙÙÙØ¹Ø§Ù.",
+      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ã·ããã ã®<ruby><rb>ç©´</rb><rt>ããª</rt></ruby>ã<ruby><rb>æ·±</rb><rt>ãµã</rt></ruby>ããããããããã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãããã¨ãã¨ã<ruby><rb>æ²</rb><rt>ã</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">2 </span>Y los rebeldes se han sumergido en la matanza; por tanto, yo los castigarÃ© a todos ellos.",
+      "por": "<span class=\"verse-number\">2</span> E os revoltosos se aprofundaram na matanÃ§a; mas eu castigarei todos eles.",
+      "fra": "<span class=\"verse-number\">2</span> Par leurs sacrifices, les infidÃ¨les sâenfoncent dans le crime, Mais jâaurai des chÃ¢timents pour eux tous.",
+      "deu": "<span class=\"verse-number\">2Â </span>und eine tiefe Fallgrube zu Sittim; ich aber werde fÃ¼r sie alle eine Zuchtrute werden!",
+      "kor": "<span class=\"verse-number\">2</span> í¨ì­ìê° ì´ì¡ì£ì ê¹ì´ ë¹ ì¡ì¼ë§¤ ë´ê° ê·¸ë¤ì ë¤ ë²íë¸ë¼",
+      "ita": "<span class=\"verse-number\">2</span> Con i loro sacrifici rendono piÃ¹ profonde le loro infedeltÃ , ma io li castigherÃ² tutti."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, <span class=\"clarity-word\">and</span> Israel is defiled.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>Ø¥ÙÙÙÙÙ Ø£ÙØ¹ÙØ±ÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ÙÙÙØ§ ÙÙØ®ÙÙÙÙ Ø¹ÙÙÙÙÙ ÙÙÙÙÙÙ Ø®ÙØ§ÙÙÙÙØ©ÙØ ÙÙØ£ÙÙÙØªÙ ÙÙØ§ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ÙÙØ¯Ù Ø²ÙÙÙÙÙØªÙ Ø§ÙØ¢ÙÙ ÙÙØªÙÙÙØ¬ÙÙØ³ÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">3</span> ãããã¯ã¨ãã©ã¤ã ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã£ã¦ãããã¤ã¹ã©ã¨ã«ã¯ãããã«<ruby><rb>é </rb><rt>ãã</rt></ruby>ãããã¨ããªããã¨ãã©ã¤ã ããããªãã¯<ruby><rb>ä»</rb><rt>ãã¾</rt></ruby><ruby><rb>æ·«è¡</rb><rt>ãããã</rt></ruby>ããªããã¤ã¹ã©ã¨ã«ã¯<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãããã",
+      "spa": "<span class=\"verse-number\">3 </span>Yo conozco a EfraÃ­n, e Israel <span class=\"page-break\" data-page=\"1428\"></span>no me es desconocido; porque ahora, oh EfraÃ­n, has fornicado, <span class=\"clarity-word\">y</span> se ha contaminado Israel.",
+      "por": "<span class=\"verse-number\">3</span> Eu conheÃ§o Efraim, e Israel nÃ£o se esconde de mim; porque agora te tens prostituÃ­do, Ã³ Efraim, <span class=\"clarity-word\">e</span> se contaminou Israel.",
+      "fra": "<span class=\"verse-number\">3</span> Je connais ÃphraÃ¯m Et IsraÃ«l ne mâest pas cachÃ©Â ; Car maintenant, ÃphraÃ¯m, tu tâes prostituÃ© Et IsraÃ«l sâest souillÃ©.",
+      "deu": "<span class=\"verse-number\">3Â </span>Ich kenne Ephraim wohl, und Israel ist mir nicht verborgen; denn soeben erst hast du Ehebruch (= GÃ¶tzendienst) getrieben, Ephraim, und Israel hat sich verunreinigt.",
+      "kor": "<span class=\"verse-number\">3</span> ìë¸ë¼ìì ë´ê° ìê³  ì´ì¤ë¼ìì ë´ê² ì¨ê¸°ì§ ëª»íëë ìë¸ë¼ìì ì´ì  ë¤ê° ìííìê³  ì´ì¤ë¼ìì´ ëë¬ìì¡ëëë¼",
+      "ita": "<span class=\"verse-number\">3</span> Io conosco Efraim, e Israele non mi Ã¨ nascosto; poichÃ© ora, o Efraim, tu ti sei prostituito, e Israele si Ã¨ contaminato."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>They will not frame their doings to turn unto their God: for the spirit of whoredoms <span class=\"clarity-word\">is</span> in the midst of them, and they have not known the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø¥ÙÙÙÙ Ø£ÙØ¹ÙÙÙØ§ÙÙ Ø´ÙØ±ÙÙÙÙÙÙ ØªÙØ­ÙÙÙÙ Ø¯ÙÙÙÙ Ø±ÙØ¬ÙÙØ¹ÙÙÙÙÙ Ø¥ÙÙÙÙ Ø¥ÙÙÙÙÙÙÙÙÙØ ÙØ£ÙÙÙÙ Ø±ÙÙØ­Ù Ø§ÙØ²ÙÙÙÙÙ (Ø£ÙÙÙ Ø®ÙÙÙØ§ÙÙØ©Ù Ø§ÙØ±ÙÙØ¨ÙÙ) ÙÙØ§ÙÙÙÙØ©Ù ÙÙÙÙÙÙÙØ ÙÙÙÙÙÙ ÙÙØ§ ÙÙØ¹ÙØ±ÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ.",
+      "jpn": "<span class=\"verse-number\">4</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®ãããªãã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>å¸°</rb><rt>ãã</rt></ruby>ãããªããããã¯<ruby><rb>æ·«è¡</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>é</rb><rt>ãã</rt></ruby>ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®ãã¡ã«ãã£ã¦ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ããã¨ãã§ããªãããã ã",
+      "spa": "<span class=\"verse-number\">4 </span>Su conducta no los encamina a volver a su Dios, porque un espÃ­ritu de fornicaciÃ³n hay en medio de ellos, y no conocen a JehovÃ¡.",
+      "por": "<span class=\"verse-number\">4</span> As suas aÃ§Ãµes nÃ£o lhes permitem voltar para o seu Deus, porque o espÃ­rito das prostituiÃ§Ãµes <span class=\"clarity-word\">estÃ¡</span> no meio deles, e nÃ£o conhecem ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
+      "fra": "<span class=\"verse-number\">4</span> Leurs Åuvres ne leur permettent pas de revenir Ã  leur Dieu Parce que lâesprit de prostitution est au milieu dâeux Et parce quâils ne connaissent pas lâÃternel.",
+      "deu": "<span class=\"verse-number\">4Â </span>Ihr ganzes Tun gestattet ihnen nicht, zu ihrem Gott umzukehren; denn der Geist der AbgÃ¶tterei wohnt in ihrem Herzen, und Erkenntnis des HErrn besitzen sie nicht.",
+      "kor": "<span class=\"verse-number\">4</span> ê·¸ë¤ì íìê° ê·¸ë¤ë¡ ìê¸° íëëìê² ëìê°ì§ ëª»íê² íëë ì´ë ìëí ë§ìì´ ê·¸ ìì ìì´ ì¬í¸ìë¥¼ ìì§ ëª»íë ê¹ë­ì´ë¼",
+      "ita": "<span class=\"verse-number\">4</span> Le loro azioni non permettono loro di tornare al loro Dio; poichÃ© lo spirito di prostituzione Ã¨ in loro, e non conoscono lâEterno."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ§ ØµÙÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ÙÙØ´ÙÙÙØ¯Ù Ø¹ÙÙÙÙÙÙÙ ÙÙÙ ÙÙØ¬ÙÙÙÙÙØ ÙÙØ¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ÙÙØ£ÙÙÙØ±ÙØ§ÙÙÙÙ ÙÙÙÙØ¨ÙÙÙØ§ÙÙ Ø¨ÙØ¥ÙØ«ÙÙÙÙÙÙÙØ§Ø ÙÙÙÙØªÙØ¹ÙØ«ÙÙØ±Ù ÙÙØ¹ÙÙÙÙÙØ§ ÙÙÙÙÙØ°ÙØ§ Ø£ÙÙÙØ¶Ø§Ù.",
+      "jpn": "<span class=\"verse-number\">5</span> ã¤ã¹ã©ã¨ã«ã®<ruby><rb>èª</rb><rt>ã»ãã</rt></ruby>ã¯ãã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å</rb><rt>ã</rt></ruby>ãã£ã¦<ruby><rb>è¨¼è¨</rb><rt>ããããã</rt></ruby>ãã¦ãããã¨ãã©ã¤ã ã¯ãã®<ruby><rb>ä¸ç¾©</rb><rt>ãµã</rt></ruby>ã«ãã£ã¦ã¤ã¾ãããã¦ããã¾ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«ã¤ã¾ããã",
+      "spa": "<span class=\"verse-number\">5 </span>Y la soberbia de Israel testificarÃ¡ en su propia cara; e Israel y EfraÃ­n tropezarÃ¡n en su iniquidad; tropezarÃ¡ tambiÃ©n JudÃ¡ con ellos.",
+      "por": "<span class=\"verse-number\">5</span> E a soberba de Israel testificarÃ¡ no seu rosto; e Israel e Efraim cairÃ£o pela sua injustiÃ§a, e JudÃ¡ cairÃ¡ juntamente com eles.",
+      "fra": "<span class=\"verse-number\">5</span> Lâorgueil dâIsraÃ«l tÃ©moigne contre luiÂ ; IsraÃ«l et ÃphraÃ¯m tomberont par leur iniquitÃ©Â ; Avec eux aussi tombera Juda.",
+      "deu": "<span class=\"verse-number\">5Â </span>So legt denn der Hochmut (oder: Stolz) Israels offen Zeugnis gegen ihn ab (d. h. klagt ihn offen an), und Ephraim kommt durch seine Verschuldung zu Fall; es wird auch Juda mit ihnen zu Fall kommen.",
+      "kor": "<span class=\"verse-number\">5</span> ì´ì¤ë¼ìì êµë§ì´ ê·¸ ì¼êµ´ì ëë¬ë¬ëë ê·¸ ì£ìì¼ë¡ ë§ë¯¸ìì ì´ì¤ë¼ìê³¼ ìë¸ë¼ìì´ ëì´ì§ê³  ì ë¤ë ê·¸ë¤ê³¼ í¨ê» ëì´ì§ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">5</span> Ma lâorgoglio dâIsraele testimonia contro di lui, e Israele ed Efraim cadranno per la loro iniquitÃ ; e Giuda pure cadrÃ  con essi."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>They shall go with their flocks and with their herds to seek the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>; but they shall not find <span class=\"clarity-word\">him;</span> he hath withdrawn himself from them.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ­ÙÙÙÙ ÙÙÙÙØ·ÙÙÙÙÙÙÙÙ Ø¨ÙÙÙÙÙØ§Ø´ÙÙÙÙÙÙ ÙÙÙÙÙÙØªÙÙÙØ³ÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ§ ÙÙØ¬ÙØ¯ÙÙÙÙÙÙØ Ø¥ÙØ°Ù ÙÙØ¯Ù Ø§ÙÙØµÙØ±ÙÙÙ Ø¹ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ã®<ruby><rb>ç¾¤</rb><rt>ã</rt></ruby>ãã<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ç¾¤</rb><rt>ã</rt></ruby>ãã<ruby><rb>æº</rb><rt>ããã</rt></ruby>ãã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ãã¦ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ä¼</rb><rt>ã</rt></ruby>ããã¨ã¯ãªãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ããã<ruby><rb>é¢</rb><rt>ã¯ãª</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ãããã",
+      "spa": "<span class=\"verse-number\">6 </span>Con sus ovejas y con sus vacas andarÃ¡n buscando a JehovÃ¡, pero no le hallarÃ¡n; se ha apartado de ellos.",
+      "por": "<span class=\"verse-number\">6</span> <span class=\"clarity-word\">EntÃ£o</span> irÃ£o com as suas ovelhas, e com as suas vacas, para buscarem ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, mas nÃ£o o acharÃ£o; ele se retirou deles.",
+      "fra": "<span class=\"verse-number\">6</span> Ils iront avec leurs brebis et leurs bÅufs chercher lâÃternel, Mais ils ne le trouveront pasÂ : Il sâest retirÃ© du milieu dâeux.",
+      "deu": "<span class=\"verse-number\">6Â </span>Mit ihrem Kleinvieh und ihren Rindern kommen sie zwar, um den HErrn zu suchen, werden ihn aber nicht finden: er hat sich von ihnen losgesagt.",
+      "kor": "<span class=\"verse-number\">6</span> ê·¸ë¤ì´ ì ë¼ì ì ë¼ë¥¼ ëê³  ì¬í¸ìë¥¼ ì°¾ì¼ë¬ ê°ì§ë¼ë ë§ëì§ ëª»í  ê²ì ì´ë¯¸ ê·¸ë¤ìê²ì ë ëì¨ìì´ë¼",
+      "ita": "<span class=\"verse-number\">6</span> Andranno con le loro greggi e con le loro mandrie in cerca dellâEterno, ma non lo troveranno; egli si Ã¨ ritirato da loro."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>They have dealt treacherously against the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>: for they have begotten strange children: now shall a month devour them with their portions.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙØ¯Ù Ø®ÙØ§ÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ ÙØ£ÙÙÙÙÙÙÙÙ Ø£ÙÙÙØ¬ÙØ¨ÙÙØ§ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ØºÙØ±ÙØ¨ÙØ§Ø¡Ù Ø¹ÙÙÙÙÙØ ÙÙØ°ÙÙÙÙÙ ÙÙØ¥ÙÙÙÙ ÙÙÙÙØ§Ø³ÙÙÙ Ø£ÙÙÙØ§Ø¦ÙÙÙ Ø§ÙØ´ÙÙÙÙØ±Ù Ø§ÙÙØ¬ÙØ¯ÙÙØ¯Ù ØªÙÙÙØªÙÙÙÙÙÙÙÙÙ ÙÙØ¹Ù Ø­ÙÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«ããã£ã¦<ruby><rb>è²æ</rb><rt>ã¦ããã</rt></ruby>ã<ruby><rb>å®</rb><rt>ã¾ã</rt></ruby>ãããã»ãã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã ã<ruby><rb>æ°æ</rb><rt>ãããã¤</rt></ruby>ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãããã®<ruby><rb>ç°ç</rb><rt>ãã¯ã</rt></ruby>ã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã¼ãã",
+      "spa": "<span class=\"verse-number\">7 </span>Contra JehovÃ¡ actuaron pÃ©rfidamente, porque hijos extraÃ±os han engendrado; ahora los devorarÃ¡ en solo un mes con sus heredades.",
+      "por": "<span class=\"verse-number\">7</span> TraiÃ§oeiramente se houveram contra o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, porque geraram filhos ilegÃ­timos; agora a lua nova os consumirÃ¡ com as suas porÃ§Ãµes.",
+      "fra": "<span class=\"verse-number\">7</span> Ils ont Ã©tÃ© infidÃ¨les Ã  lâÃternel, Car ils ont engendrÃ© des enfants illÃ©gitimesÂ ; Maintenant un mois suffira pour les dÃ©vorer avec leurs biens.",
+      "deu": "<span class=\"verse-number\">7Â </span>Sie haben Treubruch gegen den HErrn begangen, denn sie haben ein Geschlecht von unechten Kindern (= Bastardkindern) gezeugt; nunmehr (oder: daher) wird das Neumondsopferfest sie verzehren mitsamt ihrem Erbbesitz.",
+      "kor": "<span class=\"verse-number\">7</span> ê·¸ë¤ì´ ì¬í¸ìê» ì ì¡°ë¥¼ ì§í¤ì§ ìëíê³  ì¬ììë¥¼ ë³ìì¼ë ê·¸ë¬ë¯ë¡ ì ë¬ì´ ê·¸ë¤ê³¼ ê·¸ ê¸°ìì í¨ê» ì¼í¤ë¦¬ë¡ë¤",
+      "ita": "<span class=\"verse-number\">7</span> Hanno agito perfidamente contro lâEterno, poichÃ© hanno generato dei figli illegittimi; ora basterÃ  un mese a divorarli con i loro beni."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>Blow ye the cornet in Gibeah, <span class=\"clarity-word\">and</span> the trumpet in Ramah: cry aloud <span class=\"clarity-word\">at</span> Beth-aven, after thee, O Benjamin.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø§ÙÙÙÙØ®ÙÙØ§ ÙÙÙ Ø£ÙØ¨ÙÙÙØ§ÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨Ù ÙÙÙ Ø¬ÙØ¨ÙØ¹ÙØ©Ù ÙÙÙÙÙ Ø§ÙØ±ÙÙØ§ÙÙØ©ÙØ ÙÙØ£ÙØ·ÙÙÙÙÙÙØ§ ØµÙÙÙØ­ÙØ©Ù Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø¨ÙÙÙØªÙ Ø¢ÙÙÙÙ: ØªÙÙÙØ¯ÙÙÙÙ ÙÙØ§ Ø¨ÙÙÙÙÙØ§ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">8</span> ã®ãã¢ã§<ruby><rb>è§ç¬</rb><rt>ã¤ã®ã¶ã</rt></ruby>ã<ruby><rb>å¹</rb><rt>ãµ</rt></ruby>ããã©ãã§ã©ããã<ruby><rb>é³´</rb><rt>ãª</rt></ruby>ãããããã¢ãã³ã§<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã°ãã<ruby><rb>å«</rb><rt>ãã</rt></ruby>ã¹ãããã¤ãã³ãããã®ã®ãã",
+      "spa": "<span class=\"verse-number\">8 </span>Â¡Tocad corneta en Gabaa, trompeta en RamÃ¡! Â¡Gritad en alarma <span class=\"clarity-word\">en</span> Bet-avÃ©n: Tras ti, oh BenjamÃ­n!",
+      "por": "<span class=\"verse-number\">8</span> Tocai a buzina em GibeÃ¡, a trombeta em RamÃ¡; gritai altamente <span class=\"clarity-word\">em</span> Bete-Ãven; apÃ³s ti, Benjamim.",
+      "fra": "<span class=\"verse-number\">8</span> Sonnez de la trompette Ã  Guibea, Sonnez de la trompette Ã  RamaÂ ! Poussez des cris Ã  Beth AvenÂ ! DerriÃ¨re toi, BenjaminÂ !",
+      "deu": "<span class=\"verse-number\">8Â </span><span class=\"para-mark\">Â¶ </span>StoÃt in die Posaune zu Gibea, in die Trompete zu Rama! Schlagt LÃ¤rm in Beth-Awen, setzt Benjamin in Schrecken!",
+      "kor": "<span class=\"verse-number\">8</span> ëí¬ê° ê¸°ë¸ììì ë¿ëíì ë¶ë©° ë¼ë§ìì ëíì ë¶ë©° ë²§ìì¬ìì ì¸ì¹ê¸°ë¥¼ ë² ëë¯¼ì ë¤ ë¤ë¥¼ ì«ëë¤ í ì§ì´ë¤",
+      "ita": "<span class=\"verse-number\">8</span> Suonate il corno in Ghibea, sonate la tromba in Rama! Date lâallarme a Bet-aven! Alle tue spalle, o Beniamino!"
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.",
+      "ara": "<span class=\"verse-number\">Ù© </span>Ø£ÙØ±ÙØ¶Ù Ø£ÙÙÙØ±ÙØ§ÙÙÙÙ Ø³ÙØªÙØµÙØ¨ÙØ­Ù Ø®ÙØ±ÙØ§Ø¨Ø§Ù ÙÙÙ ÙÙÙÙÙÙ Ø§ÙÙÙÙØ¶ÙØ§Ø¡ÙØ ÙÙØ¨ÙÙÙÙÙ Ø£ÙØ³ÙØ¨ÙØ§Ø·Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø£ÙØ¸ÙÙÙØ±ÙØªÙ ÙÙØ§ ÙÙÙÙ ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">9</span> ã¨ãã©ã¤ã ã¯<ruby><rb>åç½°</rb><rt>ããã°ã¤</rt></ruby>ã®<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã«<ruby><rb>è</rb><rt>ã</rt></ruby>ãããããããããã¯ã¤ã¹ã©ã¨ã«ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã«ã<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ã<ruby><rb>èµ·</rb><rt>ãã</rt></ruby>ãã¹ã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããã",
+      "spa": "<span class=\"verse-number\">9 </span>EfraÃ­n serÃ¡ asolado en el dÃ­a de la reprensiÃ³n; entre las tribus de Israel hago saber lo que con certeza es.",
+      "por": "<span class=\"verse-number\">9</span> Efraim serÃ¡ uma assolaÃ§Ã£o no dia do castigo; entre as tribos de Israel manifestei o que certo estÃ¡.",
+      "fra": "<span class=\"verse-number\">9</span> ÃphraÃ¯m sera dÃ©vastÃ© au jour du chÃ¢timentÂ ; Jâannonce aux tribus dâIsraÃ«l une chose certaine.",
+      "deu": "<span class=\"verse-number\">9Â </span>Ephraim wird zur EinÃ¶de werden am Tage des Strafgerichts; was ich den StÃ¤mmen Israels angekÃ¼ndigt habe, trifft unfehlbar ein!",
+      "kor": "<span class=\"verse-number\">9</span> ë²íë ë ì ìë¸ë¼ìì´ í©íí  ê²ì´ë¼ ë´ê° ì´ì¤ë¼ì ì§í ì¤ìì ë°ëì ìì ì¼ì ë³´ìë¸ë¼",
+      "ita": "<span class=\"verse-number\">9</span> Efraim sarÃ  desolato nel giorno del castigo; io annuncio fra le tribÃ¹ dâIsraele una cosa certa."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>The princes of Judah were like them that remove the bound: <span class=\"clarity-word\">therefore</span> I will pour out my wrath upon them like water.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØ¯Ù ØµÙØ§Ø±Ù Ø±ÙØ¤ÙØ³ÙØ§Ø¡Ù ÙÙÙÙÙØ°ÙØ§ ÙÙØªÙØ¹ÙØ¯ÙÙÙÙÙ ÙÙØ§ÙÙÙØ°ÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙÙ ØªÙØ®ÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù ÙÙÙÙØ³ÙÙÙØ¨ÙÙØ§ Ø³ÙÙÙØ§ÙÙÙÙ. ÙÙÙÙØ°ÙØ§ Ø³ÙØ£ÙØµÙØ¨ÙÙ Ø¹ÙÙÙÙÙÙÙÙÙ Ø³ÙØ®ÙØ·ÙÙ ÙÙØ§ÙÙÙÙØ§Ø¡Ù.",
+      "jpn": "<span class=\"verse-number\">10</span> ã¦ãã®<ruby><rb>å</rb><rt>ãã¿</rt></ruby>ãã¡ã¯<ruby><rb>å¢</rb><rt>ããã</rt></ruby>ã<ruby><rb>ç§»</rb><rt>ãã¤</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ããã«ãªã£ãããããã¯ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã®ããã«<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ³¨</rb><rt>ãã</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">10 </span>Los prÃ­ncipes de JudÃ¡ fueron como los que mueven los linderos; derramarÃ© mi ira sobre ellos como agua.",
+      "por": "<span class=\"verse-number\">10</span> Os prÃ­ncipes de JudÃ¡ sÃ£o como os que mudam os limites; derramarei, <span class=\"clarity-word\">pois,</span> o meu furor sobre eles como Ã¡gua.",
+      "fra": "<span class=\"verse-number\">10</span> Les chefs de Juda sont comme ceux qui dÃ©placent les bornesÂ ; Je rÃ©pandrai sur eux ma colÃ¨re comme un torrent.",
+      "deu": "<span class=\"verse-number\">10Â </span><span class=\"para-mark\">Â¶ </span>Judaâs FÃ¼rsten sind wie Leute geworden, welche die Grenzsteine verrÃ¼cken: Ã¼ber sie lasse ich meinen Zorn sich ergieÃen wie Wasser.",
+      "kor": "<span class=\"verse-number\">10</span> ì ë¤ ì§ëìë¤ì ê²½ê³íë¥¼ ì®ê¸°ë ì ê°ì¼ë ë´ê° ëì ì§ë¸ë¥¼ ê·¸ë¤ìê² ë¬¼ ê°ì´ ë¶ì¼ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">10</span> I capi di Giuda sono come quelli che spostano i confini; io riverserÃ² la mia ira su di loro come acqua."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>Ephraim <span class=\"clarity-word\">is</span> oppressed <span class=\"clarity-word\">and</span> broken in judgment, because he willingly walked after the commandment.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙØ¯Ù ÙÙØ­ÙÙÙ Ø§ÙØ¶ÙÙÙÙÙ Ø¨ÙØ¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙØ ÙÙØ³ÙØ­ÙÙÙÙÙ Ø§ÙÙÙÙØ¶ÙØ§Ø¡Ù ÙØ£ÙÙÙÙÙÙ ÙÙØ·ÙÙØ¯Ù Ø§ÙÙØ¹ÙØ²ÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙØºÙÙÙØ§ÙÙØ©Ù ÙÙØ±ÙØ§Ø¡Ù Ø§ÙØ£ÙÙÙØ«ÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">11</span> ã¨ãã©ã¤ã ã¯<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ããã¦ãããªãããã®ã«<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ã£ã¦<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ãã ããããã°ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã¦ãããããããã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡ã²ããããã",
+      "spa": "<span class=\"verse-number\">11 </span>EfraÃ­n estÃ¡ oprimido, quebrantado en juicio, porque quiso andar en pos de vanidades.",
+      "por": "<span class=\"verse-number\">11</span> Efraim <span class=\"clarity-word\">estÃ¡</span> oprimido <span class=\"clarity-word\">e</span> quebrantado no juÃ­zo, porque quis andar apÃ³s a vaidade.",
+      "fra": "<span class=\"verse-number\">11</span> ÃphraÃ¯m est opprimÃ©, brisÃ© par le jugement Car il a suivi les prÃ©ceptes qui lui plaisaient.",
+      "deu": "<span class=\"verse-number\">11Â </span>UnterdrÃ¼ckt ist Ephraim, zerschlagen vom Strafgericht, weil es ihm beliebte, hinter dem Nichtigen (d. h. den nichtigen GÃ¶tzen) herzulaufen.",
+      "kor": "<span class=\"verse-number\">11</span> ìë¸ë¼ìì <span class=\"clarity-word\">ì¬ëì</span> ëªë ¹ ë¤ë°ë¥´ê¸°ë¥¼ ì¢ìíë¯ë¡ íëë¥¼ ë°ê³  ì¬íì ìì ë¥¼ ë°ëëë¤",
+      "ita": "<span class=\"verse-number\">11</span> Efraim Ã¨ oppresso, schiacciato dal giudizio, perchÃ© ha seguito i precetti che piÃ¹ gli piacevano;"
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>Therefore <span class=\"clarity-word\">will</span> I <span class=\"clarity-word\">be</span> unto Ephraim as a moth, and to the house of Judah as rottenness.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙÙØ°ÙØ§ Ø£ÙÙÙÙÙÙ ÙÙØ§ÙÙØ¹ÙØ«ÙÙ ÙØ¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙØ ÙÙÙØ§ÙØ³ÙÙÙØ³Ù Ø§ÙÙÙÙØ§Ø®ÙØ±Ù ÙÙØ´ÙØ¹ÙØ¨Ù ÙÙÙÙÙØ°ÙØ§.",
+      "jpn": "<span class=\"verse-number\">12</span> ããããããããã¯ã¨ãã©ã¤ã ã«ã¯ããã¿ã®ããã«ãã¦ãã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ã¯<ruby><rb>è</rb><rt>ãã</rt></ruby>ãã®ããã«ãªãã",
+      "spa": "<span class=\"verse-number\">12 </span>Yo, pues, serÃ© como polilla para EfraÃ­n y como carcoma para la casa de JudÃ¡.",
+      "por": "<span class=\"verse-number\">12</span> Portanto, para Efraim <span class=\"clarity-word\">serei</span> como a traÃ§a, e para a casa de JudÃ¡, como a podridÃ£o.",
+      "fra": "<span class=\"verse-number\">12</span> Je serai comme une teigne pour ÃphraÃ¯m, Comme une carie pour la maison de Juda.",
+      "deu": "<span class=\"verse-number\">12Â </span>Ich aber bin fÃ¼r Ephraim wie die Motte gewesen und fÃ¼r das Haus Juda wie WurmfraÃ.",
+      "kor": "<span class=\"verse-number\">12</span> ê·¸ë¬ë¯ë¡ ë´ê° ìë¸ë¼ììê²ë ì¢ ê°ì¼ë©° ì ë¤ ì¡±ììê²ë ì©ì´ë ê² ê°ëë¤",
+      "ita": "<span class=\"verse-number\">12</span> perciÃ² io sono per Efraim come una tignola, e per il casato di Giuda come un tarlo."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>When Ephraim saw his sickness, and Judah <span class=\"clarity-word\">saw</span> his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>Ø¹ÙÙÙØ¯ÙÙÙØ§ ØªÙØ¨ÙÙÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø¯ÙØ§Ø¡ÙÙÙØ ÙÙÙÙÙÙÙØ°ÙØ§ Ø¬ÙØ±ÙØ§Ø­ÙÙÙØ ÙÙØ¬ÙØ£Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø¥ÙÙÙÙ Ø£ÙØ´ÙÙÙØ±Ù ÙÙÙÙØªÙÙÙØ³Ù ÙÙØ¹ÙÙÙÙØ©Ù Ø§ÙÙÙÙÙÙÙÙ Ø§ÙÙØ¹ÙØ¸ÙÙÙÙØ Ø¥ÙÙÙØ§ Ø£ÙÙÙÙÙÙ Ø£ÙØ®ÙÙÙÙÙ ÙÙÙ Ø¹ÙÙØ§Ø¬ÙÙÙ Ø£ÙÙÙ ÙÙÙ ÙÙØ¯ÙØ§ÙÙØ§Ø©Ù Ø¬ÙØ±ÙØ§Ø­ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">13</span> ã¨ãã©ã¤ã ã¯ãã®ãã®<ruby><rb>ç</rb><rt>ãã¾ã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã¦ãã¯ãã®ãã®<ruby><rb>å·</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã¨ããã¨ãã©ã¤ã ã¯ã¢ãã¹ãªã¤ã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ãã<ruby><rb>å¤§ç</rb><rt>ã ããã</rt></ruby>ã«<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãã¤ãããããããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ããªããããããããã¨ãã§ããªããã¾ããããªãããã®<ruby><rb>å·</rb><rt>ãã</rt></ruby>ããªãããã¨ãã§ããªãã",
+      "spa": "<span class=\"verse-number\">13 </span>Y verÃ¡ EfraÃ­n su enfermedad, y JudÃ¡ su llaga; irÃ¡ entonces EfraÃ­n a Asiria y enviarÃ¡ al rey Jareb; pero Ã©l no os podrÃ¡ sanar ni os curarÃ¡ la llaga.",
+      "por": "<span class=\"verse-number\">13</span> Vendo, <span class=\"clarity-word\">pois,</span> Efraim a sua enfermidade, e JudÃ¡ a sua chaga, subiu Efraim Ã  AssÃ­ria e recorreu ao rei Jarebe; mas ele nÃ£o poderÃ¡ sarar-vos, nem vos curarÃ¡ a chaga.",
+      "fra": "<span class=\"verse-number\">13</span> ÃphraÃ¯m voit son mal et Juda ses plaiesÂ ; ÃphraÃ¯m se rend en Assyrie et sâadresse au roi JarebÂ ; Mais ce roi ne pourra ni vous guÃ©rir, Ni porter de remÃ¨de Ã  vos plaies.",
+      "deu": "<span class=\"verse-number\">13Â </span>Als nun Ephraim seine Krankheit erkannte und Juda seine eiternde Wunde, da wandte Ephraim sich an Assyrien, und das Reich Juda sandte zum GroÃkÃ¶nig (vgl. Jes. 36,4); der aber vermag euch nicht gesund zu machen und wird eure eiternde Wunde nicht heilen;",
+      "kor": "<span class=\"verse-number\">13</span> ìë¸ë¼ìì´ ìê¸°ì ë³ì ê¹¨ë¬ì¼ë©° ì ë¤ê° ìê¸°ì ìì²ë¥¼ ê¹¨ë¬ìê³  ìë¸ë¼ìì ììë¥´ë¡ ê°ì ì¼ë  ììê² <span class=\"clarity-word\">ì¬ëì</span> ë³´ë´ìì¼ë ê·¸ê° ë¥í ëí¬ë¥¼ ê³ ì¹ì§ ëª»íê² ê³  ëí¬ ìì²ë¥¼ ë«ê² íì§ ëª»íë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">13</span> Quando Efraim ha veduto il suo male e Giuda la sua piaga, Efraim Ã¨ andato verso lâAssiria, e ha mandato dei messi a un re che lo difendesse; ma questi non potrÃ  risanarvi, nÃ© vi guarirÃ  della vostra piaga."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>For I <span class=\"clarity-word\">will be</span> unto Ephraim as a lion, and as a young lion to the house of Judah: I, <span class=\"clarity-word\">even</span> I, will tear and go away; I will take away, and none shall rescue <span class=\"clarity-word\">him.</span>",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ¥ÙÙÙÙÙ Ø³ÙØ£ÙÙÙÙÙÙ ÙÙØ§ÙØ£ÙØ³ÙØ¯Ù Ø§ÙÙÙÙÙÙØªÙØ±ÙØ³Ù ÙØ¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙØ ÙÙÙÙØ§ÙØ´ÙÙØ¨ÙÙÙ ÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙÙÙÙØ°ÙØ§. Ø£ÙÙÙØªÙØ±ÙØ³Ù ÙÙØ£ÙÙÙØ¶ÙÙ. Ø£ÙØ®ÙØ·ÙÙÙ ÙÙÙÙÙÙØ³Ù ÙÙÙÙ ÙÙÙÙÙÙØ°Ù.",
+      "jpn": "<span class=\"verse-number\">14</span> ãããã¯ã¨ãã©ã¤ã ã«<ruby><rb>å¯¾</rb><rt>ãã</rt></ruby>ãã¦ã¯ãããã®ããã«ãªããã¦ãã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¯¾</rb><rt>ãã</rt></ruby>ãã¦ã¯<ruby><rb>è¥</rb><rt>ãã</rt></ruby>ãããã®ããã«ãªãããããã¯ããããããããã<ruby><rb>è£</rb><rt>ã</rt></ruby>ãã¦<ruby><rb>å»</rb><rt>ã</rt></ruby>ãããããã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ãããã ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ãªãã",
+      "spa": "<span class=\"verse-number\">14 </span>Porque yo serÃ© como leÃ³n para EfraÃ­n y como cachorro de leÃ³n para la casa de JudÃ¡; yo, yo mismo despedazarÃ© y me irÃ©; quitarÃ©, y no habrÃ¡ quien libre.",
+      "por": "<span class=\"verse-number\">14</span> Porque para Efraim <span class=\"clarity-word\">serei</span> como um leÃ£o, e como um leÃ£ozinho, para a casa de JudÃ¡; eu, eu <span class=\"clarity-word\">mesmo</span> o despedaÃ§arei, e ir-me-ei embora; eu levarei, e nÃ£o haverÃ¡ quem livre.",
+      "fra": "<span class=\"verse-number\">14</span> Je serai comme un lion pour ÃphraÃ¯m, Comme un lionceau pour la maison de JudaÂ ; Moi, moi, je dÃ©chirerai, puis je mâen irai, Jâemporterai, et nul nâenlÃ¨vera ma proie.",
+      "deu": "<span class=\"verse-number\">14Â </span>denn ich trete gegen Ephraim auf wie ein LÃ¶we und gegen das Haus Juda wie ein junger Leu: ich, ich zerreiÃe und gehe davon, trage (den Raub) hinweg, ohne daÃ jemand Rettung bringen kann.",
+      "kor": "<span class=\"verse-number\">14</span> ë´ê° ìë¸ë¼ììê²ë ì¬ì ê°ê³  ì ë¤ ì¡±ììê²ë ì ì ì¬ì ê°ì¼ë ë°ë¡ ë´ê° ìì¼ê°ì§ë¼ ë´ê° íì·¨íì¬ ê°ì§ë¼ë ê±´ì ¸ë¼ ìê° ìì¼ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">14</span> PoichÃ© io sarÃ² per Efraim come un leone, e per il casato di Giuda come un leoncello; io, io sbranerÃ² e me ne andrÃ²; porterÃ² via, e non vi sarÃ  chi salvi."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span><span class=\"para-mark\">Â¶ </span>I will go <span class=\"clarity-word\">and</span> return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>Ø«ÙÙÙÙ Ø£ÙØ±ÙØ¬ÙØ¹Ù Ø¥ÙÙÙÙ ÙÙÙÙØ¶ÙØ¹ÙÙ Ø¥ÙÙÙÙ Ø£ÙÙÙ ÙÙØ¹ÙØªÙØ±ÙÙÙÙØ§ Ø¨ÙØ¥ÙØ«ÙÙÙÙÙÙÙ ÙÙÙÙØ·ÙÙÙØ¨ÙÙØ§ ÙÙØ¬ÙÙÙÙØ ÙÙÙÙÙ Ø¶ÙÙÙÙÙÙÙÙ ÙÙÙÙØªÙÙÙØ³ÙÙÙÙÙÙÙ (ÙÙØ§Ø¦ÙÙÙÙÙÙ):",
+      "jpn": "<span class=\"verse-number\">15</span> ãããã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãããã®<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>èª</rb><rt>ã¿ã¨</rt></ruby>ãã¦ããã<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ãããã­<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ããã¾ã§ããããã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã«<ruby><rb>å¸°</rb><rt>ãã</rt></ruby>ã£ã¦ãããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>æ©</rb><rt>ãªã</rt></ruby>ã¿ã«ãã£ã¦ããããã<ruby><rb>å°</rb><rt>ãã</rt></ruby>ã­<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ãã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">15 </span>AndarÃ© <span class=\"clarity-word\">y</span> volverÃ© a mi lugar, hasta que reconozcan su culpa y busquen mi rostro. En su angustia me buscarÃ¡n con afÃ¡n.",
+      "por": "<span class=\"verse-number\">15</span> Andarei, <span class=\"clarity-word\">e</span> retornarei ao meu lugar, atÃ© que se reconheÃ§am culpados e busquem a minha face; <span class=\"page-break\" data-page=\"1371\"></span>estando eles angustiados, de madrugada me buscarÃ£o.",
+      "fra": "<span class=\"verse-number\">15</span> Je mâen irai, je reviendrai dans ma demeure, JusquâÃ  ce quâils sâavouent coupables et cherchent ma face. Quand ils seront dans la dÃ©tresse, ils auront recours Ã  moi.",
+      "deu": "<span class=\"verse-number\">15Â </span><span class=\"para-mark\">Â¶ </span>Ich will davongehen, mich an meine WohnstÃ¤tte zurÃ¼ckbegeben, bis sie sich schuldig fÃ¼hlen und mein Angesicht suchen; wenn sie in Not sind, werden sie ernstliches Verlangen nach mir tragen (und sprechen):",
+      "kor": "<span class=\"verse-number\">15</span> ê·¸ë¤ì´ ê·¸ ì£ë¥¼ ëì°ì¹ê³  ë´ ì¼êµ´ì êµ¬íê¸°ê¹ì§ ë´ê° ë´ ê³³ì¼ë¡ ëìê°ë¦¬ë¼ ê·¸ë¤ì´ ê³ ë ë°ì ëì ëë¥¼ ê°ì í êµ¬íë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">15</span> Io me ne andrÃ² e tornerÃ² al mio luogo, finchÃ© essi non si riconosceranno colpevoli, e cercheranno la mia faccia; quando saranno nellâangoscia, ricorreranno a me."
+    }
+  }
+}

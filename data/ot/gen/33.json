@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "gen",
+    "chapter": 33,
+    "headings": {
+      "eng": "Jacob and Esau meet and are reconciledâEsau receives Jacobâs presentsâJacob settles in Canaan, where he builds an altar.",
+      "zhs": "<u>éå</u>å<u>ä»¥æ«</u>ç¸è§å¹¶åè§£ââ<u>ä»¥æ«</u>æ¶ä¸<u>éå</u>çç¤¼ç©ââ<u>éå</u>å®å±<u>è¿¦å</u>ï¼å¨é£éç­äºä¸åº§åã",
+      "zht": "<u>éå</u>å<u>ä»¥æ</u>ç¸è¦ä¸¦åè§£ââ<u>ä»¥æ</u>æ¶ä¸<u>éå</u>çç¦®ç©ââ<u>éå</u>å®å±<u>è¿¦å</u>ï¼å¨é£è£¡ç¯äºä¸åº§å£ã",
+      "spa": "Jacob y EsaÃº se encuentran y se reconcilianÂ â EsaÃº recibe los presentes de JacobÂ â Jacob se establece en CanaÃ¡n, donde edifica un altar.",
+      "por": "JacÃ³ e EsaÃº se encontram e se reconciliamÂ â EsaÃº recebe os presentes de JacÃ³Â â JacÃ³ se estabelece em CanaÃ£, onde edifica um altar.",
+      "fra": "Jacob et ÃsaÃ¼ se rencontrent et se rÃ©concilient. ÃsaÃ¼ reÃ§oit les prÃ©sents de Jacob. Jacob sâinstalle Ã  Canaan oÃ¹ il bÃ¢tit un autel.",
+      "deu": "Jakob und Esau treffen einander und versÃ¶hnen sichÂ â Esau nimmt Jakobs Geschenke entgegenÂ â Jakob lÃ¤sst sich in Kanaan nieder, wo er einen Altar errichtet.",
+      "ita": "Giacobbe ed EsaÃ¹ si incontrano e si riconcilianoÂ â EsaÃ¹ accetta i doni di GiacobbeÂ â Giacobbe si stabilisce a Canaan, dove edifica un altare."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>And Jacob lifted up his eyes, and looked, and, behold, Esau came, and with him four hundred men. And he divided the children unto Leah, and unto Rachel, and unto the two handmaids.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØªÙØ·ÙÙÙÙØ¹Ù ÙÙØ¹ÙÙÙÙØ¨Ù ÙÙÙÙ Ø¨ÙØ¹ÙÙØ¯ÙØ ÙÙØ±ÙØ£ÙÙ Ø¹ÙÙØ³ÙÙ ÙÙÙÙØ¨ÙÙØ§Ù ÙÙÙÙØ¹ÙÙÙ Ø£ÙØ±ÙØ¨ÙØ¹Ù ÙÙØ¦ÙØ©Ù Ø±ÙØ¬ÙÙÙØ ÙÙÙÙØ±ÙÙÙ Ø£ÙÙÙÙØ§Ø¯ÙÙÙ Ø¹ÙÙÙÙ ÙÙÙÙØ¦ÙØ©Ù ÙÙØ±ÙØ§Ø­ÙÙÙÙ ÙÙØ§ÙÙØ¬ÙØ§Ø±ÙÙÙØªÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">1 </span>ãã¦ã¤ã³ãã¯<ruby><rb>ç®</rb><rt>ã</rt></ruby>ããããã¨ãµã¦ãåç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã<ruby><rb>ç</rb><rt>ã²ã</rt></ruby>ãã¦<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ãã®ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããããã§<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ãã¡ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã¦ã¬ã¢ã¨ã©ã±ã«ã¨ãµããã®ã¤ãããã¨ã«ãããã",
+      "zhs": "<span class=\"verse-number\">1ã</span><u>éå</u>ä¸¾ç®è§çï¼è§<u>ä»¥æ«</u>æ¥äºï¼åå¤´è·çåç¾äººï¼ä»å°±æå­©å­ä»¬åå¼äº¤ç»<u>å©äº</u>ã<u>æç»</u>åä¸¤ä¸ªä½¿å¥³ï¼",
+      "zht": "<span class=\"verse-number\">1ã</span><u>éå</u>èç®è§çï¼è¦<u>ä»¥æ</u>ä¾äºï¼å¾é ­è·èåç¾äººï¼ä»å°±æå­©å­ååéäº¤çµ¦<u>å©äº</u>ã<u>æçµ</u>åå©åä½¿å¥³ï¼",
+      "spa": "<span class=\"verse-number\">1 </span>Y alzando Jacob sus ojos, mirÃ³ y he aquÃ­ venÃ­a EsaÃº y los cuatrocientos hombres con Ã©l; entonces repartiÃ³ Ã©l los niÃ±os entre Lea y Raquel y las dos siervas.",
+      "por": "<span class=\"verse-number\">1 </span>E levantou JacÃ³ os seus olhos, e olhou, e eis que vinha EsaÃº, e quatrocentos homens com ele. EntÃ£o repartiu os filhos entre Lia e Raquel, e as duas servas.",
+      "fra": "<span class=\"verse-number\">1 </span>Jacob leva les yeux et regardaÂ ; et voici, ÃsaÃ¼ arrivait avec quatre cents hommes. Il rÃ©partit les enfants entre LÃ©a, Rachel et les deux servantes.",
+      "deu": "<span class=\"verse-number\">1Â </span>Als nun Jakob aufblickte und seinen Bruder Esau mit vierhundert Mann herankommen sah, verteilte er die Kinder auf Lea, auf Rahel und auf die beiden MÃ¤gde,",
+      "kor": "<span class=\"verse-number\">1 </span>ì¼ê³±ì´ ëì ë¤ì´ ë³´ë ììê° ì¬ë°± ëªì ì¥ì ì ê±°ëë¦¬ê³  ì¤ê³  ìëì§ë¼ ê·¸ì ììë¤ì ëëì´ ë ìì ë¼í¬ê³¼ ë ì¬ì¢ìê² ë§¡ê¸°ê³",
+      "ita": "<span class=\"verse-number\">1</span> Giacobbe alzÃ² gli occhi, guardÃ², ed ecco EsaÃ¹ che arrivava, avendo con sÃ© quattrocento uomini. Allora divise i figli fra Lea, Rachele e le due serve."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>And he put the handmaids and their children foremost, and Leah and her children after, and Rachel and Joseph hindermost.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØ¬ÙØ¹ÙÙÙ Ø§ÙÙØ¬ÙØ§Ø±ÙÙÙØªÙÙÙÙÙ ÙÙØ£ÙÙÙÙØ§Ø¯ÙÙÙÙÙØ§ ÙÙÙ Ø§ÙØ·ÙÙÙÙÙØ¹ÙØ©ÙØ Ø«ÙÙÙÙ ÙÙÙÙØ¦ÙØ©Ù ÙÙØ£ÙÙÙÙØ§Ø¯ÙÙÙØ§Ø ÙÙØ£ÙØ®ÙÙØ±Ø§Ù Ø±ÙØ§Ø­ÙÙÙÙ ÙÙÙÙÙØ³ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">2 </span>ã¤ãããã¨ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby><ruby><rb>ä¾</rb><rt>ã¨ã</rt></ruby>ãã¡ãã¾ã£<ruby><rb>å</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ããã¬ã¢ã¨ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby><ruby><rb>ä¾</rb><rt>ã¨ã</rt></ruby>ãã¡ã<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã«<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ããã©ã±ã«ã¨ã¨ã»ãã<ruby><rb>æå¾</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ãã¦ã",
+      "zhs": "<span class=\"verse-number\">2ã</span>å¹¶ä¸å«ä¸¤ä¸ªä½¿å¥³åå¥¹ä»¬çå­©å­å¨åå¤´ï¼<u>å©äº</u>åå¥¹çå­©å­å¨åå¤´ï¼<u>æç»</u>å<u>çº¦ç</u>å¨å°½åå¤´ã",
+      "zht": "<span class=\"verse-number\">2ã</span>ä¸¦ä¸å«å©åä½¿å¥³åå¥¹åçå­©å­å¨åé ­ï¼<u>å©äº</u>åå¥¹çå­©å­å¨å¾é ­ï¼<u>æçµ</u>å<u>ç´ç</u>å¨åå¾é ­ã",
+      "spa": "<span class=\"verse-number\">2 </span>Y puso a las siervas y a sus niÃ±os delante; luego a Lea y a sus niÃ±os; y por Ãºltimo, a Raquel y a JosÃ©.",
+      "por": "<span class=\"verse-number\">2 </span>E pÃ´s as servas e seus filhos na frente, e Lia e seus filhos atrÃ¡s; porÃ©m Raquel e JosÃ©, os derradeiros.",
+      "fra": "<span class=\"verse-number\">2 </span>Il plaÃ§a en tÃªte les servantes avec leurs enfants, puis LÃ©a avec ses enfants, et enfin Rachel avec Joseph.",
+      "deu": "<span class=\"verse-number\">2Â </span>und zwar stellte er die MÃ¤gde mit ihren Kindern vornan, dann Lea mit ihren Kindern hinter sie und Rahel mit Josef zuletzt.",
+      "kor": "<span class=\"verse-number\">2 </span>ì¬ì¢ë¤ê³¼ ê·¸ë¤ì ììë¤ì ìì ëê³  ë ìì ê·¸ì ììë¤ì ë¤ìì ëê³  ë¼í¬ê³¼ ììì ë¤ì ëê³",
+      "ita": "<span class=\"verse-number\">2</span> E mise davanti le serve e i loro figli, poi Lea e i suoi figli, e infine Rachele e Giuseppe."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>And he passed over before them, and bowed himself to the ground seven times, until he came near to his brother.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØªÙÙÙØ¯ÙÙÙÙÙÙÙÙØ ÙÙØ³ÙØ¬ÙØ¯Ù Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø³ÙØ¨ÙØ¹Ù ÙÙØ±ÙÙØ§ØªÙ Ø­ÙØªÙÙÙ Ø§ÙÙØªÙØ±ÙØ¨Ù ÙÙÙÙ Ø£ÙØ®ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">3 </span>ã¿ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>é²</rb><rt>ãã</rt></ruby>ã¿ãä¸ãã³<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã«ãããã¦ã<ruby><rb>å</rb><rt>ãã«</rt></ruby>ã«<ruby><rb>è¿</rb><rt>ã¡ã</rt></ruby>ã¥ããã",
+      "zhs": "<span class=\"verse-number\">3ã</span>ä»èªå·±å¨ä»ä»¬åå¤´è¿å»ï¼ä¸è¿ä¸æ¬¡ä¿¯ä¼å¨å°æå°±è¿ä»å¥å¥ã",
+      "zht": "<span class=\"verse-number\">3ã</span>ä»èªå·±å¨ä»ååé ­éå»ï¼ä¸é£ä¸æ¬¡ä¿¯ä¼å¨å°æå°±è¿ä»å¥å¥ã",
+      "spa": "<span class=\"verse-number\">3 </span>Y Ã©l pasÃ³ delante de ellos y se inclinÃ³ a tierra siete veces, hasta que llegÃ³ a su hermano.",
+      "por": "<span class=\"verse-number\">3 </span>E ele mesmo passou adiante deles, e inclinou-se Ã  terra sete vezes, <span class=\"clarity-word\">atÃ©</span> que chegou a seu irmÃ£o.",
+      "fra": "<span class=\"verse-number\">3 </span>Lui-mÃªme passa devant euxÂ ; et il se prosterna Ã  terre sept fois, jusquâÃ  ce quâil soit prÃ¨s de son frÃ¨re.",
+      "deu": "<span class=\"verse-number\">3Â </span>Er selbst aber ging vor ihnen her und verneigte sich siebenmal bis zur Erde, bis er nahe an seinen Bruder herangekommen war.",
+      "kor": "<span class=\"verse-number\">3 </span>ìê¸°ë ê·¸ë¤ ììì ëìê°ë ëª¸ì ì¼ê³± ë² ëì êµ½íë©° ê·¸ì í ìììê² ê°ê¹ì´ ê°ë",
+      "ita": "<span class=\"verse-number\">3</span> Ed egli stesso passÃ² dinanzi a loro, si inchinÃ² fino a terra sette volte, finchÃ© si fu avvicinato a suo fratello."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ£ÙØ³ÙØ±ÙØ¹Ù Ø¹ÙÙØ³ÙÙ ÙÙÙÙÙØ§ÙÙØ§ØªÙÙÙ ÙÙØ¹ÙØ§ÙÙÙÙÙÙ ÙÙÙÙØ¨ÙÙÙÙÙÙØ ÙÙØ¨ÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">4 </span>ããã¨ã¨ãµã¦ã¯<ruby><rb>èµ°</rb><rt>ã¯ã</rt></ruby>ã£ã¦ãã¦<ruby><rb>è¿</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ã </rt></ruby>ãããã®ãã³ããããã¦<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã¥ããã<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>æ³£</rb><rt>ãª</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">4ã</span><u>ä»¥æ«</u>è·æ¥è¿æ¥ä»ï¼å°ä»æ±ä½ï¼åæçä»çé¢é¡¹ï¼ä¸ä»äº²å´ï¼ä¸¤ä¸ªäººå°±å­äºã",
+      "zht": "<span class=\"verse-number\">4ã</span><u>ä»¥æ</u>è·ä¾è¿æ¥ä»ï¼å°ä»æ±ä½ï¼åæèä»çé ¸é ï¼èä»è¦ªå´ï¼å©åäººå°±å­äºã",
+      "spa": "<span class=\"verse-number\">4 </span>Y EsaÃº corriÃ³ a su encuentro, y le abrazÃ³, y se echÃ³ sobre su cuello y le besÃ³; y lloraron.",
+      "por": "<span class=\"verse-number\">4 </span>EntÃ£o EsaÃº correu-lhe ao encontro, e abraÃ§ou-o, e lanÃ§ou-se sobre o seu pescoÃ§o, e beijou-o; e choraram.",
+      "fra": "<span class=\"verse-number\">4 </span>ÃsaÃ¼ courut Ã  sa rencontreÂ ; il le serra dans ses bras, se jeta Ã  son cou et lâembrassa. Et ils pleurÃ¨rent.",
+      "deu": "<span class=\"verse-number\">4Â </span>Esau aber eilte ihm entgegen und umarmte ihn, fiel ihm um den Hals und kÃ¼sste ihn, und sie weinten beide.",
+      "kor": "<span class=\"verse-number\">4 </span>ììê° ë¬ë ¤ìì ê·¸ë¥¼ ë§ì´íì¬ ìê³  ëª©ì ì´ê¸ë§ì¶ì´ ê·¸ì ìë§ì¶ê³  ìë¡ ì°ëë¼",
+      "ita": "<span class=\"verse-number\">4</span> Ed EsaÃ¹ gli corse incontro, lâabbracciÃ², gli si gettÃ² al collo, e lo baciÃ²: e piansero."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>And he lifted up his eyes, and saw the women and the children; and said, Who <span class=\"clarity-word\">are</span> those with thee? And he said, The children which God hath graciously given thy servant.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØªÙÙÙÙÙÙØªÙ Ø¹ÙÙØ³ÙÙ Ø­ÙÙÙÙÙÙÙ ÙÙØ´ÙØ§ÙÙØ¯Ù Ø§ÙÙÙÙØ³ÙØ§Ø¡Ù ÙÙØ§ÙØ£ÙÙÙÙØ§Ø¯Ù ÙÙÙÙØ§ÙÙ: âÙÙÙÙ ÙÙØ¤ÙÙØ§Ø¡Ù Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ¹ÙÙÙØâ ÙÙØ£ÙØ¬ÙØ§Ø¨Ù: âÙÙÙÙ Ø§ÙØ£ÙÙÙÙØ§Ø¯Ù Ø§ÙÙÙØ°ÙÙÙÙ Ø£ÙÙÙØ¹ÙÙÙ Ø§ÙÙÙÙ°ÙÙ Ø¨ÙÙÙÙÙ Ø¹ÙÙÙÙ Ø¹ÙØ¨ÙØ¯ÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">5 </span>ã¨ãµã¦ã¯<ruby><rb>ç®</rb><rt>ã</rt></ruby>ãããã¦<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã¨<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ãã¡ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããªãã¨<ruby><rb>ä¸ç·</rb><rt>ãã£ãã</rt></ruby>ã«ãããããã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã ãã§ããããã¤ã³ãã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãããã¹ã«<ruby><rb>æ</rb><rt>ãã¥</rt></ruby>ãããã<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ãã¡ã§ããã",
+      "zhs": "<span class=\"verse-number\">5ã</span><u>ä»¥æ«</u>ä¸¾ç®çè§å¦äººå­©å­ï¼å°±è¯´ï¼è¿äºåä½ åè¡çæ¯è°å¢ï¼<u>éå</u>è¯´ï¼è¿äºå­©å­æ¯ç¥æ½æ©ç»ä½ ä»äººçã",
+      "zht": "<span class=\"verse-number\">5ã</span><u>ä»¥æ</u>èç®çè¦å©¦äººå­©å­ï¼å°±èªªï¼éäºåä½ åè¡çæ¯èª°å¢ï¼<u>éå</u>èªªï¼éäºå­©å­æ¯ç¥æ½æ©çµ¦ä½ åäººçã",
+      "spa": "<span class=\"verse-number\">5 </span>Y alzÃ³ sus ojos, y vio a las mujeres y a los niÃ±os y dijo: Â¿QuiÃ©nes son estos? Y Ã©l respondiÃ³: Son los niÃ±os que Dios, en su gracia, ha dado a tu siervo.",
+      "por": "<span class=\"verse-number\">5 </span>Depois levantou os seus olhos, e viu as mulheres, e os meninos, e disse: Quem <span class=\"clarity-word\">sÃ£o</span> estes contigo? E ele disse: Os filhos que Deus graciosamente deu a teu servo.",
+      "fra": "<span class=\"verse-number\">5 </span>ÃsaÃ¼, levant les yeux, vit les femmes et les enfants, et il ditÂ : Qui sont ceux que tu as lÃ Â ? Et Jacob rÃ©ponditÂ : Ce sont les enfants que Dieu a accordÃ©s Ã  ton serviteur.",
+      "deu": "<span class=\"verse-number\">5Â </span>Als Esau dann aufblickte und die Frauen mit den Kindern gewahrte, fragte er: âWer sind diese da bei dir?â Er antwortete: âEs sind die Kinder, mit denen Gott deinen Knecht gesegnet hat.â",
+      "kor": "<span class=\"verse-number\">5 </span>ììê° ëì ë¤ì´ ì¬ì¸ë¤ê³¼ ììë¤ì ë³´ê³  ë¬»ë ëì í¨ê» í ì´ë¤ì ëêµ¬ë ì¼ê³±ì´ ì´ë¥´ë íëëì´ ì£¼ì ì¢ìê² ìíë¡ ì£¼ì  ììë¤ì´ëì´ë¤",
+      "ita": "<span class=\"verse-number\">5</span> Poi EsaÃ¹, alzando gli occhi, vide le donne e i fanciulli, e disse: âChi sono questi qui che hai con te?â. Giacobbe rispose: âSono i figli che Dio si Ã¨ compiaciuto di dare al tuo servoâ."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Then the handmaidens came near, they and their children, and they bowed themselves.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø«ÙÙÙÙ Ø¯ÙÙÙØªÙ Ø§ÙÙØ¬ÙØ§Ø±ÙÙÙØªÙØ§ÙÙ ÙÙØ¹Ù Ø£ÙÙÙÙØ§Ø¯ÙÙÙÙÙØ§ ÙÙØ§ÙÙØ­ÙÙÙÙÙØ§ Ø£ÙÙÙØ§ÙÙ Ø¹ÙÙØ³ÙÙ.",
+      "jpn": "<span class=\"verse-number\">6 </span>ããã§ã¤ããããã¡ã¯ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby><ruby><rb>ä¾</rb><rt>ã¨ã</rt></ruby>ãã¡ã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>è¿å¯</rb><rt>ã¡ãã</rt></ruby>ã£ã¦ã<ruby><rb>è¾å</rb><rt>ãã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">6ã</span>äºæ¯ä¸¤ä¸ªä½¿å¥³åå¥¹ä»¬çå­©å­åæ¥ä¸æï¼",
+      "zht": "<span class=\"verse-number\">6ã</span>æ¼æ¯å©åä½¿å¥³åå¥¹åçå­©å­åä¾ä¸æï¼",
+      "spa": "<span class=\"verse-number\">6 </span>Y se acercaron las siervas, ellas y sus niÃ±os, y se inclinaron.",
+      "por": "<span class=\"verse-number\">6 </span>EntÃ£o chegaram as servas, elas e os seus filhos, e inclinaram-se.",
+      "fra": "<span class=\"verse-number\">6 </span>Les servantes sâapprochÃ¨rent, elles et leurs enfants, et se prosternÃ¨rentÂ ;",
+      "deu": "<span class=\"verse-number\">6Â </span>Da traten die beiden MÃ¤gde mit ihren Kindern herzu und verneigten sich;",
+      "kor": "<span class=\"verse-number\">6 </span>ê·¸ ëì ì¬ì¢ë¤ì´ ê·¸ì ììë¤ê³¼ ëë¶ì´ ëìì ì íê³",
+      "ita": "<span class=\"verse-number\">6</span> Allora le serve si accostarono, esse e i loro figli, e si inchinarono."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>And Leah also with her children came near, and bowed themselves: and after came Joseph near and Rachel, and they bowed themselves.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙØ¨ÙØ¹ÙØ¯ÙÙÙÙÙ Ø§ÙÙØªÙØ±ÙØ¨ÙØªÙ ÙÙÙÙØ¦ÙØ©Ù ÙÙØ£ÙÙÙÙØ§Ø¯ÙÙÙØ§ ÙÙØ§ÙÙØ­ÙÙÙÙÙØ§ Ø£ÙÙÙØ¶Ø§ÙØ ÙÙØ£ÙØ®ÙÙØ±Ø§Ù ØªÙÙÙØ¯ÙÙÙÙØªÙ Ø±ÙØ§Ø­ÙÙÙÙ ÙÙÙÙÙØ³ÙÙÙ ÙÙØ§ÙÙØ­ÙÙÙÙÙØ§ Ø£ÙÙÙØ§ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">7 </span>ã¬ã¢ãã¾ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby><ruby><rb>ä¾</rb><rt>ã¨ã</rt></ruby>ãã¡ã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>è¿å¯</rb><rt>ã¡ãã</rt></ruby>ã£ã¦ã<ruby><rb>è¾å</rb><rt>ãã</rt></ruby>ããããããã¨ã»ãã¨ã©ã±ã«ã<ruby><rb>è¿å¯</rb><rt>ã¡ãã</rt></ruby>ã£ã¦ã<ruby><rb>è¾å</rb><rt>ãã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">7ã</span><u>å©äº</u>åå¥¹çå­©å­ä¹åæ¥ä¸æï¼éå<u>çº¦ç</u>å<u>æç»</u>ä¹åæ¥ä¸æã",
+      "zht": "<span class=\"verse-number\">7ã</span><u>å©äº</u>åå¥¹çå­©å­ä¹åä¾ä¸æï¼é¨å¾<u>ç´ç</u>å<u>æçµ</u>ä¹åä¾ä¸æã",
+      "spa": "<span class=\"verse-number\">7 </span>Y se acercÃ³ Lea con sus niÃ±os, y se inclinaron; y despuÃ©s llegaron JosÃ© y Raquel, y tambiÃ©n se inclinaron.",
+      "por": "<span class=\"verse-number\">7 </span>E chegou tambÃ©m Lia com seus filhos, e inclinaram-se; e depois chegaram JosÃ© e Raquel, e inclinaram-se.",
+      "fra": "<span class=\"verse-number\">7 </span>LÃ©a et ses enfants sâapprochÃ¨rent aussi et se prosternÃ¨rentÂ ; ensuite Joseph et Rachel sâapprochÃ¨rent et se prosternÃ¨rent.",
+      "deu": "<span class=\"verse-number\">7Â </span>dann trat auch Lea mit ihren Kindern herzu, indem sie sich verneigten; zuletzt traten Josef und Rahel herzu und verneigten sich.",
+      "kor": "<span class=\"verse-number\">7 </span>ë ìë ê·¸ì ììë¤ê³¼ ëë¶ì´ ëìì ì íê³  ê·¸ íì ììì´ ë¼í¬ê³¼ ëë¶ì´ ëìì ì íë",
+      "ita": "<span class=\"verse-number\">7</span> Si accostarono anche Lea e i suoi figli, e si inchinarono. Poi si accostarono Giuseppe e Rachele, e si inchinarono."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>And he said, What <span class=\"clarity-word\">meanest</span> thou by all this drove which I met? And he said, <span class=\"clarity-word\">These are</span> to find grace in the sight of my lord.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØ³ÙØ£ÙÙÙ Ø¹ÙÙØ³ÙÙ: âÙÙØ§ ÙÙÙÙ ÙÙØµÙØ¯ÙÙÙ ÙÙÙÙ ÙÙÙÙÙ ÙÙØ°ÙÙÙ Ø§ÙÙÙÙØ·ÙØ¹ÙØ§ÙÙ Ø§ÙÙÙØªÙÙ ØµÙØ§Ø¯ÙÙÙØªÙÙÙØ§Øâ. ÙÙØ£ÙØ¬ÙØ§Ø¨Ù ÙÙØ¹ÙÙÙÙØ¨Ù: âÙÙÙÙ ÙÙÙÙÙÙ Ø£ÙØ­ÙØ¸ÙÙ Ø¨ÙØ±ÙØ¶ÙÙ Ø³ÙÙÙÙØ¯ÙÙâ.",
+      "jpn": "<span class=\"verse-number\">8 </span>ããã¨ã¨ãµã¦ã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ããããããã<ruby><rb>åºä¼</rb><rt>ã§ã</rt></ruby>ã£ããã®ãã¹ã¦ã®<ruby><rb>ç¾¤</rb><rt>ã</rt></ruby>ãã¯ã©ãããã®ã§ããããã¤ã³ãã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ããããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>æµ</rb><rt>ãã</rt></ruby>ã¿ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ãããã§ããã",
+      "zhs": "<span class=\"verse-number\">8ã</span><u>ä»¥æ«</u>è¯´ï¼ææéè§çè¿äºç¾¤çæ¯ä»ä¹ææå¢ï¼<u>éå</u>è¯´ï¼æ¯è¦å¨æä¸»é¢åèæ©çã",
+      "zht": "<span class=\"verse-number\">8ã</span><u>ä»¥æ</u>èªªï¼ææéè¦çéäºç¾¤çæ¯ä»éº¼ææå¢ï¼<u>éå</u>èªªï¼æ¯è¦å¨æä¸»é¢åèæ©çã",
+      "spa": "<span class=\"verse-number\">8 </span>Y Ã©l dijo: Â¿QuÃ© te propones con todos estos grupos que he encontrado? Y Ã©l respondiÃ³: El hallar gracia ante los ojos de mi seÃ±or.",
+      "por": "<span class=\"verse-number\">8 </span>E disse <span class=\"clarity-word\">EsaÃº:</span> Que <span class=\"clarity-word\">pretendes</span> tu com todo esse grupo que encontrei? E ele disse: Para achar graÃ§a aos olhos de meu senhor.",
+      "fra": "<span class=\"verse-number\">8 </span>ÃsaÃ¼ ditÂ : Ã quoi destines-tu tout ce camp que jâai rencontrÃ©Â ? Et Jacob rÃ©ponditÂ : Ã trouver grÃ¢ce aux yeux de mon seigneur.",
+      "deu": "<span class=\"verse-number\">8Â </span>Hierauf fragte Esau weiter: âWas hat denn dieser ganze Zug <span class=\"clarity-word\">des Viehs</span> zu bedeuten, auf den ich gestoÃen bin?â Jakob antwortete: âIch wollte dadurch die Gunst meines Herrn gewinnen.â",
+      "kor": "<span class=\"verse-number\">8 </span>ììê° ë ì´ë¥´ë ë´ê° ë§ë ë° ì´ ëª¨ë  ë¼ë ë¬´ì¨ ê¹ë­ì´ë ì¼ê³±ì´ ì´ë¥´ë ë´ ì£¼ê» ìíë¥¼ ìì¼ë ¤ í¨ì´ëì´ë¤",
+      "ita": "<span class=\"verse-number\">8</span> Ed EsaÃ¹ disse: âChe ne vuoi fare di tutta quella schiera che ho incontrato?â. Giacobbe rispose: âÃ per trovare grazia agli occhi del mio signoreâ."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>And Esau said, I have enough, my brother; keep that thou hast unto thyself.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙÙÙØ§ÙÙ Ø¹ÙÙØ³ÙÙ: âØ¥ÙÙÙÙ ÙÙØ¯ÙÙÙÙ ÙÙØ«ÙÙØ±Ø§Ù ÙÙØ§ Ø£ÙØ®ÙÙ. ÙÙØ§Ø­ÙØªÙÙÙØ¸Ù ÙÙÙÙÙÙØ³ÙÙÙ Ø¨ÙÙÙØ§ ÙÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">9 </span>ã¨ãµã¦ã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ããã<ruby><rb>å¼</rb><rt>ãã¨ãã¨</rt></ruby>ãããããã¯ãããã¶ããã£ã¦ãããããªãã®<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã¯ããªãã®ãã®ã«ããªãããã",
+      "zhs": "<span class=\"verse-number\">9ã</span><u>ä»¥æ«</u>è¯´ï¼åå¼åï¼æçå·²ç»å¤äºï¼ä½ çä»å½ä½ å§ï¼",
+      "zht": "<span class=\"verse-number\">9ã</span><u>ä»¥æ</u>èªªï¼åå¼åï¼æçå·²ç¶å¤ äºï¼ä½ çä»æ­¸ä½ å§ï¼",
+      "spa": "<span class=\"verse-number\">9 </span>Y dijo EsaÃº: Suficiente tengo yo, hermano mÃ­o; sea para ti lo que es tuyo.",
+      "por": "<span class=\"verse-number\">9 </span>Mas EsaÃº disse: Eu tenho bastante, meu irmÃ£o; seja para ti o que tens.",
+      "fra": "<span class=\"verse-number\">9 </span>ÃsaÃ¼ ditÂ : Je suis dans lâabondance, mon frÃ¨reÂ ; garde ce qui est Ã  toi.",
+      "deu": "<span class=\"verse-number\">9Â </span>Da sagte Esau: âIch habe Besitz genug, lieber Bruder: Behalte, was dir gehÃ¶rt!â",
+      "kor": "<span class=\"verse-number\">9 </span>ììê° ì´ë¥´ë ë´ ëìì ë´ê² ìë ê²ì´ ì¡±íë ë¤ ìì ë ë¤ê² ëë¼",
+      "ita": "<span class=\"verse-number\">9</span> Ed EsaÃ¹: âIo ho tanti beni, fratello mio; tieniti per te ciÃ² che Ã¨ tuoâ."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>And Jacob said, Nay, I pray thee, if now I have found grace in thy sight, then receive my present at my hand: for therefore I have seen thy face, as though I had seen the face of God, and thou wast pleased with me.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙÙÙØ§ÙÙ ÙÙØ¹ÙÙÙÙØ¨Ù: âÙØ§Ø Ø¥ÙÙÙ ÙÙÙÙØªÙ ÙÙØ¯Ù Ø­ÙØ¸ÙÙØªÙ Ø¨ÙØ±ÙØ¶ÙØ§ÙÙØ ÙÙØ£ÙØ±ÙØ¬ÙÙ ÙÙÙÙÙÙ Ø£ÙÙÙ ØªÙÙÙØ¨ÙÙÙ ÙÙÙÙÙÙ ÙÙØ¯ÙÙÙÙØªÙÙ ÙØ£ÙÙÙÙÙ Ø±ÙØ£ÙÙÙØªÙ ÙÙØ¬ÙÙÙÙÙ ÙÙÙÙØ§ ÙÙØ±ÙÙ ÙÙØ¬ÙÙÙ Ø§ÙÙÙÙ°ÙÙØ ÙÙØ±ÙØ¶ÙÙØªÙ Ø¹ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">10 </span>ã¤ã³ãã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããããããããããããªãã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>æµ</rb><rt>ãã</rt></ruby>ã¿ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããªããã©ããããããã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ãã<ruby><rb>è´</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã¦ãã ãããããªãã<ruby><rb>å</rb><rt>ããã</rt></ruby>ãã§ãããã<ruby><rb>è¿</rb><rt>ãã</rt></ruby>ãã¦ãã ããã®ã§ãããªãã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ã¦ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¾ãã",
+      "zhs": "<span class=\"verse-number\">10ã</span><u>éå</u>è¯´ï¼ä¸ç¶ï¼æè¥å¨ä½ ç¼åèæ©ï¼å°±æ±ä½ ä»ææéæ¶ä¸è¿ç¤¼ç©ï¼å ä¸ºæè§äºä½ çé¢ï¼å¦åè§äºç¥çé¢ï¼å¹¶ä¸ä½ å®¹çº³äºæã",
+      "zht": "<span class=\"verse-number\">10ã</span><u>éå</u>èªªï¼ä¸ç¶ï¼æè¥å¨ä½ ç¼åèæ©ï¼å°±æ±ä½ å¾ææè£¡æ¶ä¸éç¦®ç©ï¼å çºæè¦äºä½ çé¢ï¼å¦åè¦äºç¥çé¢ï¼ä¸¦ä¸ä½ å®¹ç´äºæã",
+      "spa": "<span class=\"verse-number\">10 </span>Y dijo Jacob: No, yo te ruego, si he hallado ahora gracia ante tus ojos, acepta mi presente de mi mano, pues he visto tu rostro como si hubiera visto el rostro de Dios, pues me has recibido con tanto favor.",
+      "por": "<span class=\"verse-number\">10 </span>EntÃ£o disse JacÃ³: NÃ£o, se agora achei graÃ§a aos teus olhos, peÃ§o-te que tomes o meu presente <span class=\"page-break\" data-page=\"60\"></span>da minha mÃ£o; porquanto vi o teu rosto, como se tivesse visto o rosto de Deus, e tomaste contentamento em mim.",
+      "fra": "<span class=\"verse-number\">10 </span>Et Jacob rÃ©ponditÂ : Non, je te prie, si jâai trouvÃ© grÃ¢ce Ã  tes yeux, accepte de ma main mon prÃ©sentÂ ; car câest pour cela que jâai regardÃ© ta face comme on regarde la face de Dieu, et tu mâas accueilli favorablement.",
+      "deu": "<span class=\"verse-number\">10Â </span>Aber Jakob erwiderte: âAch nein! Wenn ich Gnade in deinen Augen gefunden habe, so nimm mein Geschenk von mir an! Denn als ich dein Angesicht sah, war es mir, als hÃ¤tte ich Gottes Angesicht gesehen: So freundlich hast du mich angesehen.",
+      "kor": "<span class=\"verse-number\">10 </span>ì¼ê³±ì´ ì´ë¥´ë ê·¸ë ì§ ìëíëì´ë¤ ë´ê° íëì ëììì ìíë¥¼ ììì¬ì¤ë©´ ì²­íê±´ë ë´ ììì ì´ ìë¬¼ì ë°ì¼ìì ë´ê° íëì ì¼êµ´ì ëµì¨ì¦ íëëì ì¼êµ´ì ë³¸ ê² ê°ì¬ì¤ë©° íëë ëë¥¼ ê¸°ë»íì¬ì´ëì´ë¤",
+      "ita": "<span class=\"verse-number\">10</span> Ma Giacobbe disse: âNo, ti prego; se ho trovato grazia agli occhi tuoi, accetta il dono dalla mia mano, poichÃ© io ho veduto la tua faccia, come uno vede la faccia di Dio, e tu mi hai fatto una gradevole accoglienza."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>Take, I pray thee, my blessing that is brought to thee; because God hath dealt graciously with me, and because I have enough. And he urged him, and he took <span class=\"clarity-word\">it.</span>",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙØ£ÙØ·ÙÙÙØ¨Ù Ø¥ÙÙÙÙÙÙÙ Ø£ÙÙÙ ØªÙÙÙØ¨ÙÙÙ Ø¨ÙØ±ÙÙÙØªÙÙ Ø§ÙÙÙØªÙÙ Ø­ÙÙÙÙÙØªÙÙÙØ§ Ø¥ÙÙÙÙÙÙÙØ ÙÙØ¥ÙÙÙÙ Ø§ÙÙÙÙ°ÙÙ ÙÙØ¯Ù Ø£ÙØºÙØ¯ÙÙÙ Ø¹ÙÙÙÙÙÙØ ÙÙÙÙØ¯ÙÙÙÙ ÙÙÙÙ ÙÙÙÙÙ Ø´ÙÙÙØ¡Ùâ. ÙÙØ£ÙÙÙØ­ÙÙ Ø¹ÙÙÙÙÙÙÙ Ø­ÙØªÙÙÙ ÙÙØ¨ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">11 </span>ã©ãããããã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã£ã¦ãã<ruby><rb>è´</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã¦ãã ããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ããããã<ruby><rb>æµ</rb><rt>ãã</rt></ruby>ã¾ããã®ã§ããããã¯ãããã¶ããã£ã¦ãã¾ããããããããã¦<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ããããã®ã§ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å</rb><rt>ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">11ã</span>æ±ä½ æ¶ä¸æå¸¦æ¥ç»ä½ çç¤¼ç©ï¼å ä¸ºç¥æ©å¾æï¼ä½¿æåè¶³ã<u>éå</u>åä¸å°æ±ä»ï¼ä»ææ¶ä¸äºã",
+      "zht": "<span class=\"verse-number\">11ã</span>æ±ä½ æ¶ä¸æå¸¶ä¾çµ¦ä½ çç¦®ç©ï¼å çºç¥æ©å¾æï¼ä½¿æåè¶³ã<u>éå</u>åä¸å°æ±ä»ï¼ä»ææ¶ä¸äºã",
+      "spa": "<span class=\"verse-number\">11 </span>Acepta, te ruego, mi presente que te he traÃ­do, porque Dios me ha favorecido, y todo lo que hay <span class=\"clarity-word\">aquÃ­</span> es mÃ­o. E insistiÃ³ con Ã©l, y EsaÃº lo tomÃ³.",
+      "por": "<span class=\"verse-number\">11 </span>Toma, peÃ§o-te, a minha bÃªnÃ§Ã£o, que te foi trazida; porque Deus graciosamente <span class=\"clarity-word\">ma</span> deu; e porque tenho de tudo. E instou com ele, atÃ© que a tomou.",
+      "fra": "<span class=\"verse-number\">11 </span>Accepte donc mon prÃ©sent qui tâa Ã©tÃ© offert puisque Dieu mâa comblÃ© de grÃ¢ces et que je ne manque de rien. Il insista auprÃ¨s de lui et ÃsaÃ¼ accepta.",
+      "deu": "<span class=\"verse-number\">11Â </span>Nimm doch mein Willkommensgeschenk an, das dir Ã¼berbracht worden ist! Gott hat mich ja reich gesegnet, und ich habe alles vollauf.â So nÃ¶tigte er ihn mit Bitten, bis er es annahm.",
+      "kor": "<span class=\"verse-number\">11 </span>íëëì´ ë´ê² ìíë¥¼ ë² í¸ì¨ê³  ë´ ìì ë ì¡±íì¤ë ì²­íê±´ë ë´ê° íëê» ëë¦¬ë ìë¬¼ì ë°ì¼ìì íê³  ê·¸ìê² ê°ê¶íë§¤ ë°ì¼ëë¼",
+      "ita": "<span class=\"verse-number\">11</span> Ti prego, accetta il mio dono che ti Ã¨ stato recato; poichÃ© Dio mi ha usato grande bontÃ , e io ho di tuttoâ. E insistÃ© tanto che EsaÃ¹ lâaccettÃ²."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>And he said, Let us take our journey, and let us go, and I will go before thee.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙÙØ³ÙÙ: âÙÙÙÙØ±ÙØªÙØ­ÙÙÙ ÙÙØ£ÙØ³ÙÙØ±Ù Ø£ÙÙÙØ§ÙÙÙÙ ÙÙØªÙØªÙØ¨ÙØ¹ÙÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">12 </span>ããã¦ã¨ãµã¦ã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããã<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã£ã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ããããããã<ruby><rb>å</rb><rt>ãã</rt></ruby>ã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">12ã</span><u>ä»¥æ«</u>è¯´ï¼æä»¬å¯ä»¥èµ·èº«åå¾ï¼æå¨ä½ åå¤´èµ°ã",
+      "zht": "<span class=\"verse-number\">12ã</span><u>ä»¥æ</u>èªªï¼æåå¯ä»¥èµ·èº«åå¾ï¼æå¨ä½ åé ­èµ°ã",
+      "spa": "<span class=\"verse-number\">12 </span>Y dijo EsaÃº: Anda y vamos; y yo irÃ© delante de ti.",
+      "por": "<span class=\"verse-number\">12 </span>E disse: Partamos, e andemos, e eu irei adiante de ti.",
+      "fra": "<span class=\"verse-number\">12 </span>ÃsaÃ¼ ditÂ : Partons, mettons-nous en routeÂ ; jâirai devant toi.",
+      "deu": "<span class=\"verse-number\">12Â </span>Hierauf sagte Esau: âLass uns nun aufbrechen und weiterziehen! Ich will vor dir herziehen.â",
+      "kor": "<span class=\"verse-number\">12 </span>ììê° ì´ë¥´ë ì°ë¦¬ê° ë ëì ë´ê° ëì ëííë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">12</span> Poi EsaÃ¹ disse: âPartiamo, incamminiamoci, e io andrÃ² innanzi a teâ."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>And he said unto him, My lord knoweth that the children <span class=\"clarity-word\">are</span> tender, and the flocks and herds with young <span class=\"clarity-word\">are</span> with me: and if men should <span class=\"page-break\" data-page=\"52\"></span>overdrive them one day, all the flock will die.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØ£ÙØ¬ÙØ§Ø¨ÙÙÙ ÙÙØ¹ÙÙÙÙØ¨Ù: âÙÙØ§ Ø³ÙÙÙÙØ¯ÙÙ Ø£ÙÙÙØªÙ ØªÙØ¹ÙÙÙÙÙ Ø£ÙÙÙÙ Ø§ÙØ£ÙÙÙÙØ§Ø¯Ù ÙÙØ§ Ø¨ÙØ±ÙØ­ÙÙØ§ Ø£ÙØ·ÙØ±ÙÙÙØ§Ø¡Ù Ø§ÙÙØ¹ÙÙØ¯ÙØ ÙÙØºÙÙÙÙÙÙ ÙÙØ¨ÙÙÙØ±ÙÙ ÙÙØ±ÙØ¶ÙØ¹ÙØ©ÙØ ÙÙØ¥ÙÙÙ Ø£ÙØ¬ÙÙÙØ¯ÙØªÙÙÙØ§ ÙÙÙÙÙØ§Ù ÙÙØ§Ø­ÙØ¯Ø§Ù ÙÙØ¥ÙÙÙÙ ÙÙÙÙÙ Ø§ÙÙØºÙÙÙÙÙ ØªÙÙÙÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">13 </span>ã¤ã³ãã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããããã®ããã«ã<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ãã¡ã¯ããããããã¾ã<ruby><rb>ä¹³</rb><rt>ã¡ã¡</rt></ruby>ã<ruby><rb>é£²</rb><rt>ã®</rt></ruby>ã¾ãã¦ãã<ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ã<ruby><rb>ç</rb><rt>ãã</rt></ruby>ããããã<ruby><rb>ä¸è©±</rb><rt>ãã</rt></ruby>ããã¦ãã¾ããããä¸<ruby><rb>æ¥</rb><rt>ã«ã¡</rt></ruby>ã§ã<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ãã<ruby><rb>é</rb><rt>ã</rt></ruby>ããã<ruby><rb>ç¾¤</rb><rt>ã</rt></ruby>ãã¯ã¿ãª<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãã§ãã¾ãã¾ãã",
+      "zhs": "<span class=\"verse-number\">13ã</span><u>éå</u>å¯¹ä»è¯´ï¼æä¸»ç¥éå­©å­ä»¬å¹´å¹¼å¨å«©ï¼çç¾ä¹æ­£å¨ä¹³å»çæ¶åï¼è¥æ¯å¬èµ¶ä¸å¤©ï¼ç¾¤çé½å¿æ­»äºã",
+      "zht": "<span class=\"verse-number\">13ã</span><u>éå</u>å°ä»èªªï¼æä¸»ç¥éå­©å­åå¹´å¹¼å¬å«©ï¼çç¾ä¹æ­£å¨ä¹³é¤çæåï¼è¥æ¯å¬è¶ä¸å¤©ï¼ç¾¤çé½å¿æ­»äºã",
+      "spa": "<span class=\"verse-number\">13 </span>Y Jacob le dijo: Mi seÃ±or sabe que los niÃ±os son tiernos, y que <span class=\"page-break\" data-page=\"60\"></span>tengo ovejas y vacas paridas; y si las fatigan, en un dÃ­a morirÃ¡n todas las ovejas.",
+      "por": "<span class=\"verse-number\">13 </span>PorÃ©m ele lhe disse: Meu senhor sabe que estes filhos <span class=\"clarity-word\">sÃ£o</span> tenros, e que tenho comigo ovelhas e vacas de leite; se as afadigarem somente um dia, todo o rebanho morrerÃ¡.",
+      "fra": "<span class=\"verse-number\">13 </span>Jacob lui rÃ©ponditÂ : Mon seigneur sait que les enfants sont dÃ©licats et que jâai des brebis et des vaches qui allaitentÂ ; si lâon forÃ§ait leur marche un seul jour, tout le troupeau pÃ©rirait.",
+      "deu": "<span class=\"verse-number\">13Â </span>Aber Jakob antwortete ihm: âMein Herr sieht selbst, dass die Kinder noch zart sind und dass ich noch Bedacht auf die sÃ¤ugenden Schafe und KÃ¼he nehmen muss; wenn man diese auch nur einen Tag zu sehr antriebe, so wÃ¼rde die ganze Herde zugrunde gehen.",
+      "kor": "<span class=\"verse-number\">13 </span>ì¼ê³±ì´ ê·¸ìê² ì´ë¥´ë ë´ ì£¼ë ììê±°ëì ììë¤ì ì°ì½íê³  ë´ê² ìë ì ë¼ì ìê° ìë¼ë¥¼ ë°ë¦¬ê³  ììì¦ íë£¨ë§ ì§ëì¹ê² ëª°ë©´ ëª¨ë  ë¼ê° ì£½ì¼ë¦¬ë",
+      "ita": "<span class=\"verse-number\">13</span> E Giacobbe rispose: âIl mio signore sa che i fanciulli sono in tenera etÃ , e che ho con me delle pecore e delle vacche che allattano; se si forzassero per un giorno solo a camminare, le bestie morrebbero tutte."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>Let my lord, I pray thee, pass over before his servant: and I will lead on softly, according as the cattle that goeth before me and the children be able to endure, until I come unto my lord unto Seir.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙÙÙÙÙØªÙÙÙØ¯ÙÙÙÙ ÙÙÙÙÙØ§ÙÙ Ø¹ÙØ¨ÙØ¯ÙÙÙØ ÙÙØ£ÙÙÙØ§ Ø£ÙØ³ÙÙØ±Ù ÙÙØªÙÙÙÙÙÙÙØ§Ù ÙÙÙ Ø¥ÙØ«ÙØ±Ù Ø§ÙÙÙÙØ§Ø´ÙÙÙØ©Ù Ø§ÙÙÙØªÙÙ Ø£ÙÙÙØ§ÙÙÙØ ÙÙÙÙÙ Ø¥ÙØ«ÙØ±Ù Ø§ÙØ£ÙÙÙÙØ§Ø¯Ù Ø£ÙÙÙØ¶Ø§ÙØ Ø¥ÙÙÙÙ Ø£ÙÙÙ Ø£ÙÙÙØ¨ÙÙÙ Ø¹ÙÙÙÙ Ø³ÙÙÙÙØ¯ÙÙ ÙÙÙ Ø³ÙØ¹ÙÙØ±Ùâ.",
+      "jpn": "<span class=\"verse-number\">14 </span>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããã©ãããããã¹ã®<ruby><rb>å</rb><rt>ãã</rt></ruby>ã«ããã§ãã ããããããã¯ãããã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ãã<ruby><rb>å®¶ç</rb><rt>ãã¡ã</rt></ruby>ã¨<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ãã¡ã®<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ã¿ã«<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¦ããã£ãã<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ããã»ã¤ã«ã§ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¨<ruby><rb>ä¸ç·</rb><rt>ãã£ãã</rt></ruby>ã«ãªãã¾ããããã",
+      "zhs": "<span class=\"verse-number\">14ã</span>æ±æä¸»å¨ä»äººåå¤´èµ°ï¼æè¦éçå¨æé¢åç¾¤çåå­©å­çåéï¼æ¢æ¢å°åè¡ï¼ç´èµ°å°<u>è¥¿ç¥</u>æä¸»é£éã",
+      "zht": "<span class=\"verse-number\">14ã</span>æ±æä¸»å¨åäººåé ­èµ°ï¼æè¦éèå¨æé¢åç¾¤çåå­©å­çåéï¼æ¢æ¢å°åè¡ï¼ç´èµ°å°<u>è¥¿ç¥</u>æä¸»é£è£¡ã",
+      "spa": "<span class=\"verse-number\">14 </span>Pase ahora mi seÃ±or delante de su siervo, y yo me irÃ© poco a poco al paso del ganado que va delante de mÃ­, y al paso de los niÃ±os, hasta que llegue a mi seÃ±or a Seir.",
+      "por": "<span class=\"verse-number\">14 </span>Ora, passe o meu senhor diante da face de seu servo; e eu irei como guia pouco a pouco, conforme o passo do gado que <span class=\"clarity-word\">estÃ¡</span> adiante da minha face, e conforme o passo dos meninos, atÃ© que chegue a meu senhor em Seir.",
+      "fra": "<span class=\"verse-number\">14 </span>Que mon seigneur prenne les devants sur son serviteur et moi, je suivrai lentement, au pas du troupeau qui me prÃ©cÃ©dera, et au pas des enfants, jusquâÃ  ce que jâarrive chez mon seigneur, Ã  SÃ©ir.",
+      "deu": "<span class=\"verse-number\">14Â </span>Mein Herr wolle doch seinem Knecht vorausziehen; ich aber will ganz langsam weiterziehen, wie eben das Vieh, das ich zu treiben habe, und die Kinder fortkommen kÃ¶nnen, bis ich zu meinem Herrn nach SeÃ¯r gelange.â",
+      "kor": "<span class=\"verse-number\">14 </span>ì²­íê±´ë ë´ ì£¼ë ì¢ë³´ë¤ ìì ê°ìì ëë ìì ê°ë ê°ì¶ê³¼ ììë¤ì ê±¸ìëë¡ ì²ì²í ì¸ëíì¬ ì¸ì¼ë¡ ê°ì ë´ ì£¼ê» ëìê°ë¦¬ì´ë¤",
+      "ita": "<span class=\"verse-number\">14</span> Passi dunque il mio signore innanzi al suo servo; e io me ne verrÃ² pian piano, al passo del bestiame che mi precederÃ , e al passo dei fanciulli, finchÃ© arrivi presso il mio signore, a Seirâ."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>And Esau said, Let me now leave with thee <span class=\"clarity-word\">some</span> of the folk that <span class=\"clarity-word\">are</span> with me. And he said, What needeth it? let me find grace in the sight of my lord.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙÙÙØ§ÙÙ ÙÙÙÙ Ø¹ÙÙØ³ÙÙ: âØ¥ÙØ°Ø§Ù Ø£ÙØªÙØ±ÙÙÙ ÙÙØ¹ÙÙÙ Ø¨ÙØ¹ÙØ¶Ù Ø§ÙÙÙÙÙÙÙÙ Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ¹ÙÙâ. ÙÙØ£ÙØ¬ÙØ§Ø¨ÙÙÙ: âÙÙØ£ÙÙÙÙ Ø­ÙØ§Ø¬ÙØ©Ù ÙÙØ°ÙÙÙÙÙØ Ø¥ÙÙÙÙ ÙÙÙÙÙ ÙÙØ§ Ø£ÙØ·ÙÙÙØ¨ÙÙÙ ÙÙÙÙ Ø£ÙÙÙ Ø£ÙØ­ÙØ¸ÙÙ Ø¨ÙØ±ÙØ¶ÙÙ Ø³ÙÙÙÙØ¯ÙÙâ.",
+      "jpn": "<span class=\"verse-number\">15 </span>ã¨ãµã¦ã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ããããããªããããã<ruby><rb>é£</rb><rt>ã¤</rt></ruby>ãã¦ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã©ãã®ãã¡<ruby><rb>å¹¾</rb><rt>ãã</rt></ruby><ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ããããªãã®ãã¨ã«<ruby><rb>æ®</rb><rt>ã®ã</rt></ruby>ãã¾ãããããã¤ã³ãã¯<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããããããã«ã¯<ruby><rb>å</rb><rt>ãã</rt></ruby>ã³ã¾ããããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>æµ</rb><rt>ãã</rt></ruby>ã¿ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã¦ãã ãããã",
+      "zhs": "<span class=\"verse-number\">15ã</span><u>ä»¥æ«</u>è¯´ï¼å®¹ææè·éæçäººçå ä¸ªå¨ä½ è¿éã<u>éå</u>è¯´ï¼ä½å¿å¢ï¼åªè¦å¨æä¸»ç¼åèæ©å°±æ¯äºã",
+      "zht": "<span class=\"verse-number\">15ã</span><u>ä»¥æ</u>èªªï¼å®¹ææè·é¨æçäººçå¹¾åå¨ä½ éè£¡ã<u>éå</u>èªªï¼ä½å¿å¢ï¼åªè¦å¨æä¸»ç¼åèæ©å°±æ¯äºã",
+      "spa": "<span class=\"verse-number\">15 </span>Y EsaÃº dijo: DejarÃ© ahora contigo de la gente que viene conmigo. Y Jacob dijo: Â¿Para quÃ© esto? Halle yo gracia ante los ojos de mi seÃ±or.",
+      "por": "<span class=\"verse-number\">15 </span>E EsaÃº disse: Permite-me deixar agora contigo <span class=\"clarity-word\">parte</span> desta gente que <span class=\"clarity-word\">estÃ¡</span> comigo. E ele disse: Para que Ã© isso? <span class=\"clarity-word\">Basta</span> que eu ache graÃ§a aos olhos de meu senhor.",
+      "fra": "<span class=\"verse-number\">15 </span>ÃsaÃ¼ ditÂ : Je veux au moins laisser avec toi une partie de mes gens. Et Jacob rÃ©ponditÂ : Pourquoi celaÂ ? Que je trouve seulement grÃ¢ce aux yeux de mon seigneurÂ !",
+      "deu": "<span class=\"verse-number\">15Â </span>Da sagte Esau: âSo will ich wenigstens einen Teil meiner Leute bei dir zurÃ¼cklassen.â Doch er antwortete: âWozu das? MÃ¶ge ich nur Gnade in den Augen meines Herrn finden!â",
+      "kor": "<span class=\"verse-number\">15 </span>ììê° ì´ë¥´ë ë´ê° ë´ ì¢ ëª ì¬ëì ë¤ê² ë¨¸ë¬¼ê² íë¦¬ë¼ ì¼ê³±ì´ ì´ë¥´ë ì´ì°íì¬ ê·¸ë¦¬íë¦¬ì´ê¹ ëë¡ ë´ ì£¼ê» ìíë¥¼ ì»ê² íìì íë§¤",
+      "ita": "<span class=\"verse-number\">15</span> Ed EsaÃ¹ disse: âPermetti almeno che io lasci con te un poâ della gente che ho con meâ. Ma Giacobbe rispose: âE perchÃ© questo? Basta che io trovi grazia agli occhi del mio signoreâ."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span><span class=\"para-mark\">Â¶ </span>So Esau returned that day on his way unto Seir.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙÙØ¶ÙÙ Ø¹ÙÙØ³ÙÙ ÙÙÙ Ø·ÙØ±ÙÙÙÙÙÙ ÙÙÙ Ø°ÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ Ø±ÙØ§Ø¬ÙØ¹Ø§Ù Ø¥ÙÙÙÙ Ø³ÙØ¹ÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">16 </span>ãã®<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã¨ãµã¦ã¯ã»ã¤ã«ã¸ã®<ruby><rb>å¸°é</rb><rt>ãã¨</rt></ruby>ã«ã¤ããã",
+      "zhs": "<span class=\"verse-number\">16ã</span>äºæ¯<u>ä»¥æ«</u>å½æ¥èµ·è¡ï¼åå¾<u>è¥¿ç¥</u>å»äºã",
+      "zht": "<span class=\"verse-number\">16ã</span>æ¼æ¯<u>ä»¥æ</u>ç¶æ¥èµ·è¡ï¼åå¾<u>è¥¿ç¥</u>å»äºã",
+      "spa": "<span class=\"verse-number\">16 </span>AsÃ­ volviÃ³ EsaÃº aquel dÃ­a por su camino a Seir.",
+      "por": "<span class=\"verse-number\">16 </span>Assim, retornou EsaÃº naquele dia pelo seu caminho a Seir.",
+      "fra": "<span class=\"verse-number\">16 </span>Le mÃªme jour, ÃsaÃ¼ reprit le chemin de SÃ©ir.",
+      "deu": "<span class=\"verse-number\">16Â </span>So kehrte denn Esau an jenem Tag um und zog seines Weges nach SeÃ¯r zurÃ¼ck.",
+      "kor": "<span class=\"verse-number\">16 </span>ì´ ë ì ììë ì¸ì¼ë¡ ëìê°ê³",
+      "ita": "<span class=\"verse-number\">16</span> CosÃ¬ EsaÃ¹, in quel giorno stesso, rifece il cammino verso Seir."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>And Jacob journeyed to Succoth, and built him an house, and made booths for his cattle: therefore the name of the place is called Succoth.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>Ø£ÙÙÙÙØ§ ÙÙØ¹ÙÙÙÙØ¨Ù ÙÙØ§Ø±ÙØªÙØ­ÙÙÙ Ø¥ÙÙÙÙ Ø³ÙÙÙÙÙØªÙØ ÙÙØ¨ÙÙÙÙ ÙÙÙÙÙÙØ³ÙÙÙ Ø¨ÙÙÙØªØ§Ù ÙÙØµÙÙÙØ¹Ù ÙÙÙÙÙÙØ§Ø´ÙÙÙÙ ÙÙØ¸ÙÙØ§ØªÙ. ÙÙØ°ÙÙÙÙÙ Ø¯ÙØ¹ÙÙÙ Ø°ÙÙÙÙÙ Ø§ÙÙÙÙÙÙØ§ÙÙ Ø¨ÙØ§Ø³ÙÙÙ Ø³ÙÙÙÙÙØªÙ (ÙÙÙÙØ¹ÙÙÙØ§ÙÙ: Ø§ÙÙÙÙØ¸ÙÙØ§ØªÙ).",
+      "jpn": "<span class=\"verse-number\">17 </span>ã¤ã³ãã¯<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã£ã¦ã¹ã³ãã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ãã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®ããã«<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ãã¾ã<ruby><rb>å®¶ç</rb><rt>ãã¡ã</rt></ruby>ã®ããã«<ruby><rb>å°å±</rb><rt>ãã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ã£ããããã«ãã£ã¦ãã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã¯ã¹ã³ãã¨<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã°ãã¦ããã",
+      "zhs": "<span class=\"verse-number\">17ã</span><u>éå</u>å°±å¾çå²å»ï¼å¨é£éä¸ºèªå·±çé æ¿å±ï¼åä¸ºç²çæ­æ£ï¼å æ­¤é£å°æ¹åå«<u>çå²</u>ã",
+      "zht": "<span class=\"verse-number\">17ã</span><u>éå</u>å°±å¾çå²å»ï¼å¨é£è£¡çºèªå·±èé æ¿å±ï¼åçºç²çæ­æ£ï¼å æ­¤é£å°æ¹åå«<u>çå²</u>ã",
+      "spa": "<span class=\"verse-number\">17 </span>Y Jacob partiÃ³ a Sucot, y edificÃ³ allÃ­ casa para sÃ­ e hizo cabaÃ±as para su ganado; por tanto, llamÃ³ el nombre de aquel lugar Sucot.",
+      "por": "<span class=\"verse-number\">17 </span>JacÃ³, porÃ©m, partiu para Sucote e edificou para si uma casa; e fez cabanas para o seu gado; por isso chamou o nome daquele lugar Sucote.",
+      "fra": "<span class=\"verse-number\">17 </span>Jacob partit pour Succoth. Il bÃ¢tit une maison pour lui et fit des cabanes pour ses troupeaux. Câest pourquoi on a appelÃ© ce lieu du nom de Succoth.",
+      "deu": "<span class=\"verse-number\">17Â </span>Jakob aber brach nach Sukkot auf, wo er sich ein Haus baute und fÃ¼r sein Vieh StÃ¤lle errichtete; daher erhielt der Ort den Namen Sukkot.",
+      "kor": "<span class=\"verse-number\">17 </span>ì¼ê³±ì ìê³³ì ì´ë¥´ë¬ ìê¸°ë¥¼ ìíì¬ ì§ì ì§ê³  ê·¸ì ê°ì¶ì ìíì¬ ì°ë¦¿ê°ì ì§ìì¼ë¯ë¡ ê·¸ ë ì´ë¦ì ìê³³ì´ë¼ ë¶ë¥´ëë¼",
+      "ita": "<span class=\"verse-number\">17</span> Giacobbe partÃ¬ alla volta di Succot ed edificÃ² una casa per sÃ©, e fece delle capanne per il suo bestiame; per questo quel luogo fu chiamato Succoth."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span><span class=\"para-mark\">Â¶ </span>And Jacob came to Shalem, a city of Shechem, which <span class=\"clarity-word\">is</span> in the land of Canaan, when he came from Padan-aram; and pitched his tent before the city.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>Ø«ÙÙÙÙ ÙÙØµÙÙÙ ÙÙØ¹ÙÙÙÙØ¨Ù Ø³ÙØ§ÙÙÙØ§Ù ÙÙØ¯ÙÙÙÙØ©Ù Ø´ÙÙÙÙÙÙ (ÙÙÙÙÙÙ ÙÙØ§Ø¨ÙÙÙØ³Ù) Ø§ÙÙÙØªÙÙ ÙÙÙ Ø£ÙØ±ÙØ¶Ù ÙÙÙÙØ¹ÙØ§ÙÙØ Ø¹ÙÙÙÙ Ø·ÙØ±ÙÙÙÙÙÙ Ø§ÙÙÙÙØ¤ÙØ¯ÙÙÙÙØ©Ù Ø¥ÙÙÙÙ Ø³ÙÙÙÙÙ Ø£ÙØ±ÙØ§ÙÙØ ÙÙÙÙØµÙØ¨Ù Ø®ÙÙÙØ§ÙÙÙÙ ÙÙÙÙØ§Ø¨ÙÙÙ Ø§ÙÙÙÙØ¯ÙÙÙÙØ©ÙØ",
+      "jpn": "<span class=\"verse-number\">18 </span>ãããã¦ã¤ã³ãã¯ããã³ã¢ã©ã ãããã¦ã<ruby><rb>ç¡äº</rb><rt>ã¶ã</rt></ruby>ã«ãã³ã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®ã·ã±ã ã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã«<ruby><rb>ç</rb><rt>ã¤</rt></ruby>ãã<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>å®¿å¶</rb><rt>ããããã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">18ã</span><u>éå</u>ä»<u>å·´æ¦Â·äºå°</u>åæ¥çæ¶åï¼å¹³å¹³å®å®å°å°äº<u>è¿¦å</u>å°ç<u>ç¤ºåå</u>ï¼å¨åä¸æ¯æ­å¸æ£ï¼",
+      "zht": "<span class=\"verse-number\">18ã</span><u>éå</u>å¾<u>å·´æ¦Â·äºè­</u>åä¾çæåï¼å¹³å¹³å®å®å°å°äº<u>è¿¦å</u>å°ç<u>ç¤ºåå</u>ï¼å¨åæ±æ¯æ­å¸³æ£ï¼",
+      "spa": "<span class=\"verse-number\">18 </span>Y llegÃ³ Jacob sano y salvo a la ciudad de Siquem, que estÃ¡ en la tierra de CanaÃ¡n, cuando venÃ­a de PadÃ¡n-aram; y acampÃ³ delante de la ciudad.",
+      "por": "<span class=\"verse-number\">18 </span>E chegou JacÃ³ sÃ£o e salvo Ã  cidade de SiquÃ©m, que <span class=\"clarity-word\">estÃ¡</span> na terra de CanaÃ£, quando vinha de PadÃ£-ArÃ£; e acampou diante da cidade.",
+      "fra": "<span class=\"verse-number\">18 </span>Ã son retour de Paddan-Aram, Jacob arriva sain et sauf Ã  la ville de Sichem, dans le pays de Canaan, et il campa devant la ville.",
+      "deu": "<span class=\"verse-number\">18Â </span>Darauf kam Jakob bei seiner RÃ¼ckkehr aus Paddan-Aram wohlbehalten zur Stadt Sichem, die im Land Kanaan liegt, und schlug dort Ã¶stlich von der Stadt sein Lager auf.",
+      "kor": "<span class=\"verse-number\">18 </span>ì¼ê³±ì´ ë°§ë¨ìëììë¶í° íìí ê°ëì ë ì¸ê² ì±ìì ì´ë¥´ë¬ ê·¸ ì±ì ìì ì¥ë§ì ì¹ê³",
+      "ita": "<span class=\"verse-number\">18</span> Poi Giacobbe, tornando da Paddan-Aram, arrivÃ² sano e salvo alla cittÃ  di Sichem, nel paese di Canaan, e piantÃ² le tende dirimpetto alla cittÃ ."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>And he bought a parcel of a field, where he had spread his tent, at the hand of the children of Hamor, Shechemâs father, for an hundred pieces of money.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØ§Ø´ÙØªÙØ±ÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø§ÙÙÙØªÙÙ ÙÙØµÙØ¨Ù Ø¹ÙÙÙÙÙÙÙØ§ Ø®ÙÙÙÙÙØªÙÙÙØ ÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø­ÙÙÙÙØ±Ù Ø£ÙØ¨ÙÙ Ø´ÙÙÙÙÙÙ Ø¨ÙÙÙØ¦ÙØ©Ù ÙÙØ·ÙØ¹ÙØ©Ù ÙÙÙÙ Ø§ÙÙÙÙØ¶ÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">19 </span><ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å¤©å¹</rb><rt>ã¦ãã¾ã</rt></ruby>ã<ruby><rb>å¼µ</rb><rt>ã¯</rt></ruby>ã£ã<ruby><rb>é</rb><rt>ã®</rt></ruby>ã®<ruby><rb>ä¸é¨</rb><rt>ãã¡ã¶</rt></ruby>ãã·ã±ã ã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ãã¢ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ããç¾ã±ã·ã¿ã§<ruby><rb>è²·</rb><rt>ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">19ã</span>å°±ç¨ä¸ç¾å<span class=\"clarity-word\">é¶å­</span>å<u>ç¤ºå</u>çç¶äº²<u>åæ¹</u>çå­å­ï¼ä¹°äºæ¯å¸æ£çé£åå°ï¼",
+      "zht": "<span class=\"verse-number\">19ã</span>å°±ç¨ä¸ç¾å¡<span class=\"clarity-word\">éå­</span>å<u>ç¤ºå</u>çç¶è¦ª<u>åæ¹</u>çå­å­«ï¼è²·äºæ¯å¸³æ£çé£å¡å°ï¼",
+      "spa": "<span class=\"verse-number\">19 </span>Y comprÃ³ una parte del campo, donde asentÃ³ su tienda, de mano de los hijos de Hamor, padre de Siquem, por cien monedas.",
+      "por": "<span class=\"verse-number\">19 </span>E comprou uma parte do campo em que armara a sua tenda, da mÃ£o dos filhos de Hamor, pai de SiquÃ©m, por cem peÃ§as de dinheiro.",
+      "fra": "<span class=\"verse-number\">19 </span>Il acheta la portion du champ oÃ¹ il avait dressÃ© sa tente, des enfants de Hamor, pÃ¨re de Sichem, pour cent kesita.",
+      "deu": "<span class=\"verse-number\">19Â </span>Das StÃ¼ck Land aber, auf dem er sein Zelt aufgeschlagen hatte, kaufte er von den SÃ¶hnen Hamors, des Vaters Sichems, fÃ¼r hundert SilberstÃ¼cke;",
+      "kor": "<span class=\"verse-number\">19 </span>ê·¸ê° ì¥ë§ì ì¹ ë°­ì ì¸ê²ì ìë²ì§ íëª°ì ìë¤ë¤ì ììì ë°± í¬ìíì ìì¼ë©°",
+      "ita": "<span class=\"verse-number\">19</span> E comprÃ² dai figli di Emor, padre di Sichem, per cento pezzi di denaro, la parte del campo dove aveva piantato le sue tende."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>And he erected there an altar, and called it El-elohe-Israel.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙØ´ÙÙÙÙØ¯Ù ÙÙÙÙØ§ÙÙ ÙÙØ°ÙØ¨ÙØ­Ø§Ù Ø¯ÙØ¹ÙØ§ÙÙ Ø¥ÙÙÙÙ (ÙÙÙÙØ¹ÙÙÙØ§ÙÙ Ø¥ÙÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ).",
+      "jpn": "<span class=\"verse-number\">20 </span>ããã«<ruby><rb>ç¥­å£</rb><rt>ããã ã</rt></ruby>ã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ã¦ããããã¨ã«ã»ã¨ã­ãã»ã¤ã¹ã©ã¨ã«ã¨<ruby><rb>å</rb><rt>ãª</rt></ruby>ã¥ããã",
+      "zhs": "<span class=\"verse-number\">20ã</span>å¨é£éç­äºä¸åº§åï¼èµ·åå«ä¼å©Â·ä¼ç½ä¼Â·ä»¥è²åã",
+      "zht": "<span class=\"verse-number\">20ã</span>å¨é£è£¡ç¯äºä¸åº§å£ï¼èµ·åå«ä¼å©Â·ä¼ç¾ä¼Â·ä»¥è²åã",
+      "spa": "<span class=\"verse-number\">20 </span>Y erigiÃ³ allÃ­ un altar y lo llamÃ³: El-Elohe-Israel.",
+      "por": "<span class=\"verse-number\">20 </span>E levantou ali um altar, e chamou-o: Deus, o Deus de Israel.",
+      "fra": "<span class=\"verse-number\">20 </span>Et lÃ , il Ã©leva un autel, quâil appela El-ÃlohÃ©-IsraÃ«l.",
+      "deu": "<span class=\"verse-number\">20Â </span>und er baute dort einen Altar, den er El-elohe-Israel nannte.",
+      "kor": "<span class=\"verse-number\">20 </span>ê±°ê¸°ì ì ë¨ì ìê³  ê·¸ ì´ë¦ì ììë¡í¤ì´ì¤ë¼ìì´ë¼ ë¶ë ëë¼",
+      "ita": "<span class=\"verse-number\">20</span> E lÃ¬ eresse un altare, e lo chiamÃ² El-ElohÃ¨-Israel."
+    }
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "deut",
+    "chapter": 14,
+    "headings": {
+      "eng": "The Israelites are children of the Lord JehovahâUnclean beasts, fish, and fowl are not to be eatenâThe Israelites are to tithe all the increase of their seed annually.",
+      "zhs": "<u>ä»¥è²å</u>äººæ¯ä¸»è¶ååçå¿å¥³ââä¸å¯åä¸æ´åçå½ç±»ãé±¼åé¸ââ<u>ä»¥è²å</u>äººæ¯å¹´è¦ææç§æäº§çååä¹ä¸ç®åºã",
+      "zht": "<u>ä»¥è²å</u>äººæ¯ä¸»è¶åè¯çåå¥³ââä¸å¯åä¸æ½æ·¨çç¸é¡ãé­åé³¥ââ<u>ä»¥è²å</u>äººæ¯å¹´è¦ææç¨®æç¢çååä¹ä¸ç»åºã",
+      "spa": "Los israelitas son hijos de JehovÃ¡ el SeÃ±orÂ â No comerÃ¡n animales, ni peces ni aves inmundosÂ â Los israelitas diezmarÃ¡n todo el aumento de su grano anualmente.",
+      "por": "Os israelitas sÃ£o filhos do Senhor JeovÃ¡Â â NÃ£o se comerÃ¡ aves, peixes e animais imundosÂ â Os israelitas pagarÃ£o anualmente o dÃ­zimo de todo o fruto da sua semente.",
+      "fra": "Les IsraÃ©lites sont les enfants de lâÃternel. Ils ne doivent pas manger les animaux, les poissons et les oiseaux impurs. Chaque annÃ©e, les IsraÃ©lites doivent donner la dÃ®me de tout ce que produit leurs semailles.",
+      "deu": "Die Israeliten sind die Kinder des Herrn JehovaÂ â Unreine Wildtiere, Fische oder VÃ¶gel dÃ¼rfen nicht gegessen werdenÂ â Die Israeliten sollen alljÃ¤hrlich den ganzen Ertrag ihrer Aussaat verzehnten.",
+      "ita": "Gli Israeliti sono figli del Signore GeovaÂ â Non si devono mangiare bestie, pesci e uccelli impuriÂ â Gli Israeliti devono prelevare annualmente la decima da tutto ciÃ² che producono le loro sementi."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Ye <span class=\"clarity-word\">are</span> the children of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø£ÙÙÙØªÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙÙÙÙÙØ ÙÙÙØ§ ØªÙØ¬ÙØ±ÙÙØ­ÙÙØ§ Ø£ÙØ¬ÙØ³ÙØ§Ø¯ÙÙÙÙÙØ ÙÙÙØ§ ØªÙØ­ÙÙÙÙÙÙØ§ ÙÙÙÙØ¯ÙÙÙÙØ©Ù Ø±ÙØ¤ÙÙØ³ÙÙÙÙÙ Ø­ÙØ²ÙÙØ§Ù Ø¹ÙÙÙÙ ÙÙÙÙØªÙØ",
+      "jpn": "<span class=\"verse-number\">1</span> ããªãããã¯ããªãããã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ã§ããã<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãã <ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®ããã«<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã«<ruby><rb>å·</rb><rt>ãã</rt></ruby>ãã¤ãã¦ã¯ãªããªããã¾ã<ruby><rb>é¡</rb><rt>ã²ãã</rt></ruby>ã®<ruby><rb>é«ª</rb><rt>ãã¿</rt></ruby>ããã£ã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">1ã</span>ä½ ä»¬æ¯è¶ååä½ ä»¬ç¥çå¿å¥³ãä¸å¯ä¸ºæ­»äººç¨ååèº«ï¼ä¹ä¸å¯å°é¢ä¸ååï¼",
+      "zht": "<span class=\"verse-number\">1ã</span>ä½ åæ¯è¶åè¯ä½ åç¥çåå¥³ãä¸å¯çºæ­»äººç¨ååèº«ï¼ä¹ä¸å¯å°é¡ä¸ååï¼",
+      "spa": "<span class=\"verse-number\">1 </span>Hijos sois de JehovÃ¡ vuestro Dios; no os harÃ©is incisiones ni os raparÃ©is entre los ojos por causa de un muerto;",
+      "por": "<span class=\"verse-number\">1</span> Filhos <span class=\"clarity-word\">sois</span> do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> vosso Deus; nÃ£o vos cortareis a vÃ³s mesmos, nem abrireis calva entre vossos olhos por <span class=\"clarity-word\">causa</span> de algum morto.",
+      "fra": "<span class=\"verse-number\">1</span> Vous Ãªtes les enfants de lâÃternel, votre Dieu. Vous ne vous ferez pas dâincisions et vous ne vous raserez pas entre les yeux en signe de deuil.",
+      "deu": "<span class=\"verse-number\">1Â </span>âIhr seid Kinder des <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span>, eures Gottes; darum dÃ¼rft ihr euch wegen eines Toten keine Einschnitte ins Fleisch machen und euch Ã¼ber der Stirn nicht kahl scheren;",
+      "kor": "<span class=\"verse-number\">1</span> ëí¬ë ëí¬ íëë ì¬í¸ìì ìëì´ë ì£½ì ìë¥¼ ìíì¬ ìê¸° ëª¸ì ë² ì§ ë§ë©° ëì¹ ì¬ì´ <span class=\"clarity-word\">ì´ë§ ìì</span> í¸ì ë°ì§ ë§ë¼",
+      "ita": "<span class=\"verse-number\">1</span> Voi siete i figli dellâEterno, che Ã¨ lâIddio vostro; non vi fate incisioni addosso, e non vi radete i peli tra gli occhi per lutto di un morto;"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>For thou <span class=\"clarity-word\">art</span> an holy people unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> thy God, and the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> hath chosen thee to be a peculiar people unto himself, above all the nations that <span class=\"clarity-word\">are</span> upon the earth.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙØ£ÙÙÙÙÙÙÙÙ Ø´ÙØ¹ÙØ¨Ù ÙÙÙÙØ¯ÙÙØ³Ù ÙÙÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙÙÙÙÙØ ÙÙÙÙØ¯Ù Ø§Ø®ÙØªÙØ§Ø±ÙÙÙÙÙ ÙÙÙÙ Ø¨ÙÙÙÙÙ Ø´ÙØ¹ÙÙØ¨Ù Ø§ÙØ£ÙØ±ÙØ¶Ù ÙÙØ§ÙÙÙØ©Ù ÙÙØªÙÙÙÙÙÙÙØ§ ÙÙÙÙ Ø´ÙØ¹ÙØ¨Ø§Ù Ø®ÙØ§ØµÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">2</span> ããªãã¯ããªãã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã ããã§ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®ããã¦ã®ãã¹ã¦ã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã®ãã¡ããããªãã<ruby><rb>é¸</rb><rt>ãã</rt></ruby>ãã§ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>å®</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã¨ãããã",
+      "zhs": "<span class=\"verse-number\">2ã</span>å ä¸ºä½ å½è¶ååä½ ç¥ä¸ºå£æ´çæ°ï¼è¶ååä»å°ä¸çä¸æ°ä¸­æ£éä½ ç¹ä½èªå·±çå­æ°ã",
+      "zht": "<span class=\"verse-number\">2ã</span>å çºä½ æ­¸è¶åè¯ä½ ç¥çºèæ½çæ°ï¼è¶åè¯å¾å°ä¸çè¬æ°ä¸­æé¸ä½ ç¹ä½èªå·±çå­æ°ã",
+      "spa": "<span class=\"verse-number\">2 </span>porque eres pueblo santo a JehovÃ¡ tu Dios, y JehovÃ¡ te ha escogido para que le seas un pueblo singular de entre todos los pueblos que estÃ¡n sobre la faz de la tierra.",
+      "por": "<span class=\"verse-number\">2</span> Porque <span class=\"clarity-word\">Ã©s</span> povo santo ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> teu Deus; e o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> te escolheu, de todos os povos que <span class=\"clarity-word\">hÃ¡</span> sobre a face da terra, para lhe seres o seu povo prÃ³prio.",
+      "fra": "<span class=\"verse-number\">2</span> Car tu es un peuple saint pour lâÃternel, ton DieuÂ ; et lâÃternel, ton Dieu, tâa choisi pour que tu sois un peuple qui lui appartienne entre tous les peuples qui sont sur la surface de la terre.",
+      "deu": "<span class=\"verse-number\">2Â </span>denn du bist ein dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span>, deinem Gott, heiliges Volk, und dich hat der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> aus allen VÃ¶lkern, die es auf dem ganzen Erdboden gibt, zu seinem Eigentumsvolk erwÃ¤hlt.",
+      "kor": "<span class=\"verse-number\">2</span> ëë ë¤ íëë ì¬í¸ìì ì±ë¯¼ì´ë¼ ì¬í¸ìê»ì ì§ì ë§ë¯¼ ì¤ìì ëë¥¼ ííì¬ ìê¸° ê¸°ìì ë°±ì±ì¼ë¡ ì¼ì¼ì¨ëëë¼",
+      "ita": "<span class=\"verse-number\">2</span> poichÃ© tu sei un popolo consacrato allâEterno, allâIddio tuo, e lâEterno ti ha scelto perchÃ© gli fossi un tesoro particolare fra tutti i popoli che sono sulla faccia della terra."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span><span class=\"para-mark\">Â¶ </span>Thou shalt not eat any abominable thing.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØ§ ØªÙØ£ÙÙÙÙÙÙØ§ Ø´ÙÙÙØ¦Ø§Ù Ø±ÙØ¬ÙØ³Ø§Ù.",
+      "jpn": "<span class=\"verse-number\">3</span> <ruby><rb>å¿</rb><rt>ã</rt></ruby>ãã¹ã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã¯ãã©ããªãã®ã§ã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">3ã</span>å¡å¯æçç©é½ä¸å¯åã",
+      "zht": "<span class=\"verse-number\">3ã</span>å¡å¯æçç©é½ä¸å¯åã",
+      "spa": "<span class=\"verse-number\">3 </span>Nada abominable comerÃ¡s.",
+      "por": "<span class=\"verse-number\">3</span> Nenhuma abominaÃ§Ã£o comereis.",
+      "fra": "<span class=\"verse-number\">3</span> Tu ne mangeras aucune chose abominable.",
+      "deu": "<span class=\"verse-number\">3Â </span>Du sollst nichts GrÃ¤uelhaftes essen.",
+      "kor": "<span class=\"verse-number\">3</span> ëë ê°ì¦í ê²ì ë¬´ìì´ë ì§ ë¨¹ì§ ë§ë¼",
+      "ita": "<span class=\"verse-number\">3</span> Non mangerai cosa alcuna abominevole."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>These <span class=\"clarity-word\">are</span> the beasts which ye shall eat: the ox, the sheep, and the goat,",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø£ÙÙÙÙØ§ Ø§ÙÙØ¨ÙÙÙØ§Ø¦ÙÙÙ Ø§ÙÙÙØªÙÙ ØªÙØ£ÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙØ§ ÙÙÙÙÙÙ: Ø§ÙÙØ¨ÙÙÙØ±Ù ÙÙØ§ÙØ¶ÙÙØ£ÙÙÙ ÙÙØ§ÙÙÙÙØ¹ÙØ²Ù",
+      "jpn": "<span class=\"verse-number\">4</span> ããªãããã®<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ããã¨ãã§ãã<ruby><rb>ç£</rb><rt>ããã®</rt></ruby>ã¯<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®ã¨ããã§ãããããªãã¡<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">4ã</span>å¯åçç²çå°±æ¯çãç»µç¾ãå±±ç¾ã",
+      "zht": "<span class=\"verse-number\">4ã</span>å¯åçç²çå°±æ¯çãç¶¿ç¾ãå±±ç¾ã",
+      "spa": "<span class=\"verse-number\">4 </span>Estos son los animales que podrÃ©is comer: el buey, la oveja, y la cabra,",
+      "por": "<span class=\"verse-number\">4</span> Estes <span class=\"clarity-word\">sÃ£o</span> os animais que comereis: o boi, a ovelha, e a cabra,",
+      "fra": "<span class=\"verse-number\">4</span> Voici les animaux que vous mangerezÂ : le bÅuf, la brebis et la chÃ¨vreÂ ;",
+      "deu": "<span class=\"verse-number\">4Â </span>Dies sind die VierfÃ¼Ãler, die ihr essen dÃ¼rft: Rind, Schaf und Ziege,",
+      "kor": "<span class=\"verse-number\">4</span> ëí¬ê° ë¨¹ì ë§í ì§ì¹ì ì´ë¬íë ê³§ ìì ìê³¼ ì¼ìì",
+      "ita": "<span class=\"verse-number\">4</span> Questi sono gli animali dei quali potrete mangiare: il bue, la pecora e la capra;"
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ§ÙØ£ÙÙÙÙÙÙ ÙÙØ§ÙØ¸ÙÙØ¨ÙØ§Ø¡Ù ÙÙØ¨ÙØ¹ÙØ¶Ù Ø£ÙÙÙÙÙØ§Ø¹Ù Ø§ÙÙÙÙØ¹ÙÙÙÙ ÙÙØ§ÙÙØºÙØ²ÙÙØ§ÙÙ Ø§ÙÙØ¨ÙÙÙØ¶ÙØ§Ø¡ÙØ ÙÙØ§ÙÙØ¨ÙÙÙØ±Ù Ø§ÙÙÙÙØ­ÙØ´ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>é</rb><rt>ã</rt></ruby>ãããããããããããã<ruby><rb>é</rb><rt>ã®</rt></ruby>ãããããããããããã<ruby><rb>éç¾</rb><rt>ãã</rt></ruby>ãªã©ã",
+      "zhs": "<span class=\"verse-number\">5ã</span>é¹¿ãç¾ç¾ãéºå­ãéå±±ç¾ãéºé¹¿ãé»ç¾ãéç¾ã",
+      "zht": "<span class=\"verse-number\">5ã</span>é¹¿ãç¾ç¾ãéºå­ãéå±±ç¾ãéºé¹¿ãé»ç¾ãéç¾ã",
+      "spa": "<span class=\"verse-number\">5 </span>el ciervo, la gacela, y el corzo, y la cabra montÃ©s, y el Ã­bice, y el antÃ­lope y el carnero montÃ©s.",
+      "por": "<span class=\"verse-number\">5</span> O cervo, e a gazela, e a corÃ§a, e a cabra montÃªs, e a cabra Ã­bex, e o antÃ­lope, e o gamo.",
+      "fra": "<span class=\"verse-number\">5</span> le cerf, la gazelle et le daimÂ ; le bouquetin, le chevreuil, la chÃ¨vre sauvage et la girafe.",
+      "deu": "<span class=\"verse-number\">5Â </span>Hirsch, Gazelle, Damwild, Steinbock, Antilope, wilder Ochs und Bergziege",
+      "kor": "<span class=\"verse-number\">5</span> ì¬ì´ê³¼ ë¸ë£¨ì ë¶ê·¸ì¤ë¦í ì¬ì´ê³¼ ì° ì¼ìì ë³¼ê¸°ê° í° ë¸ë£¨ì ë¿ì´ ê¸´ ì¬ì´ê³¼ ì°ìë¤ì´ë¼",
+      "ita": "<span class=\"verse-number\">5</span> il cervo, la gazzella, il daino, lo stambecco, lâantilope, il capriolo e il camoscio."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>And every beast that parteth the hoof, and cleaveth the cleft into two claws, <span class=\"clarity-word\">and</span> cheweth the cud among the beasts, that ye shall eat.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙÙÙÙÙÙ Ø¨ÙÙÙÙÙÙØ©Ù Ø°ÙØ§ØªÙ Ø¸ÙÙÙÙÙ ÙÙØ´ÙÙÙÙÙÙ ÙÙÙÙØ¬ÙØªÙØ±ÙÙØ©Ù ØªÙØ£ÙÙÙÙÙÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>ç£</rb><rt>ããã®</rt></ruby>ã®ãã¡ããã¹ã¦ãã²ããã®<ruby><rb>å</rb><rt>ãã</rt></ruby>ãããã®ãã²ãããäºã¤ã«<ruby><rb>å</rb><rt>ã</rt></ruby>ãããã®ã§ã<ruby><rb>åè»</rb><rt>ã¯ããã</rt></ruby>ãããã®ã¯<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ããã¨ãã§ããã",
+      "zhs": "<span class=\"verse-number\">6ã</span>å¡åè¹æä¸ºä¸¤ç£ååå¼çèµ°å½ï¼ä½ ä»¬é½å¯ä»¥åã",
+      "zht": "<span class=\"verse-number\">6ã</span>å¡åè¹æçºå©ç£ååå¼çèµ°ç¸ï¼ä½ åé½å¯ä»¥åã",
+      "spa": "<span class=\"verse-number\">6 </span>Y podrÃ©is comer todo animal de pezuÃ±a partida, que tiene hendidura entre las dos uÃ±as, y que rumia de entre los animales.",
+      "por": "<span class=\"verse-number\">6</span> Todo animal que tem cascos fendidos, que tem o casco dividido em dois, que remÃ³i, entre os animais, esse comereis.",
+      "fra": "<span class=\"verse-number\">6</span> Vous mangerez de tout animal qui a des sabots fendus et qui rumine.",
+      "deu": "<span class=\"verse-number\">6Â </span>und Ã¼berhaupt alle VierfÃ¼Ãler, die gespaltene Hufe haben, und zwar ganz durchgespaltene, also zwei Hufe, und die zugleich WiederkÃ¤uer unter den VierfÃ¼Ãlern sind: Diese dÃ¼rft ihr essen.",
+      "kor": "<span class=\"verse-number\">6</span> ì§ì¹ ì¤ì êµ½ì´ ê°ë¼ì ¸ ìª½ë°ë ëê³  ìê¹ì§ë íë ëª¨ë  ê²ì ëí¬ê° ë¨¹ì ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">6</span> Potrete mangiare ogni animale che ha lo zoccolo bipartito, il piede forcuto, e che rumina."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; <span class=\"clarity-word\">as</span> the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; <span class=\"clarity-word\">therefore</span> they <span class=\"clarity-word\">are</span> unclean unto you.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙÙÙÙÙ ÙÙØ§ ØªÙØ£ÙÙÙÙÙÙØ§ Ø§ÙÙØ­ÙÙÙÙÙØ§ÙÙØ§ØªÙ Ø§ÙÙÙÙØ¬ÙØªÙØ±ÙÙØ©Ù ØºÙÙÙØ±Ù ÙÙØ´ÙÙÙÙÙÙØ©Ù Ø§ÙØ¸ÙÙÙÙÙÙØ ÙÙØ§ÙÙØ¬ÙÙÙÙÙ ÙÙØ§ÙØ£ÙØ±ÙÙÙØ¨Ù ÙÙØ§ÙÙÙÙØ¨ÙØ±ÙØ ÙÙØ¥ÙÙÙÙÙÙØ§ ØªÙØ¬ÙØªÙØ±ÙÙ ÙÙÙÙÙÙÙÙÙÙÙØ§ ØºÙÙÙØ±Ù ÙÙØ´ÙÙÙÙÙÙØ©Ù Ø§ÙØ¸ÙÙÙÙÙÙØ ÙÙØ°ÙÙÙÙÙ ÙÙÙÙ ÙÙØ¬ÙØ³ÙØ©Ù ÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">7</span> ãã ãã<ruby><rb>åè»</rb><rt>ã¯ããã</rt></ruby>ãããã®ã¨ãã²ããã®<ruby><rb>å</rb><rt>ãã</rt></ruby>ãããã®ã®ãã¡ã<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®ãã®ã¯<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã¦ã¯ãªããªããããªãã¡ãããã ã<ruby><rb>é</rb><rt>ã®</rt></ruby>ããããããã³<ruby><rb>å²©</rb><rt>ãã</rt></ruby>ã ã¬ãããããã¯<ruby><rb>åè»</rb><rt>ã¯ããã</rt></ruby>ããããã©ããã²ããã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã¦ããªããã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">7ã</span>ä½é£äºåå¼ææ¯åè¹ä¹ä¸­ä¸å¯åçä¹æ¯éªé©¼ãåå­ãæ²çªï¼å ä¸ºæ¯åå¼ä¸åè¹ï¼å°±ä¸ä½ ä»¬ä¸æ´åï¼",
+      "zht": "<span class=\"verse-number\">7ã</span>ä½é£äºåå¼ææ¯åè¹ä¹ä¸­ä¸å¯åçä¹æ¯é§±é§ãåå­ãæ²çªï¼å çºæ¯åå¼ä¸åè¹ï¼å°±èä½ åä¸æ½æ·¨ï¼",
+      "spa": "<span class=\"verse-number\">7 </span>Pero estos no comerÃ©is de los que rumian o que tienen pezuÃ±a hendida: el camello, y la liebre y el conejo, porque rumian, pero no tienen la pezuÃ±a hendida; os serÃ¡n inmundos;",
+      "por": "<span class=\"verse-number\">7</span> PorÃ©m estes nÃ£o comereis, dos que <span class=\"clarity-word\">somente</span> remÃ³em, ou que tÃªm o casco fendido: o camelo, e a lebre, e o coelho, porque remÃ³em mas nÃ£o tÃªm o casco fendido; imundos vos <span class=\"clarity-word\">serÃ£o.</span>",
+      "fra": "<span class=\"verse-number\">7</span> Mais vous ne mangerez pas de ceux qui ruminent seulement ou qui ont seulement des sabots fendus. Ainsi, vous ne mangerez pas le chameau, le liÃ¨vre et le daman, qui ruminent mais qui nâont pas de sabots fendusÂ : vous les considÃ©rerez comme impurs.",
+      "deu": "<span class=\"verse-number\">7Â </span>Dagegen folgende dÃ¼rft ihr von den WiederkÃ¤uern und von denen, welche ganz durchgespaltene Hufe haben, nicht essen: Das Kamel, den Hasen und den Klippdachs; denn sie sind zwar WiederkÃ¤uer, haben aber keine gespaltenen Hufe: Als unrein sollen sie euch gelten;",
+      "kor": "<span class=\"verse-number\">7</span> ë¤ë§ ìê¹ì§ì íê±°ë êµ½ì´ ê°ë¼ì§ ì§ì¹ ì¤ìë ëí¬ê° ë¨¹ì§ ëª»í  ê²ì ì´ê²ì´ë ê³§ ëíì í ë¼ì ì¬ë°, ê·¸ê²ë¤ì ìê¹ì§ì íë êµ½ì´ ê°ë¼ì§ì§ ìëíìì¼ë ëí¬ìê² ë¶ì íê³",
+      "ita": "<span class=\"verse-number\">7</span> Ma non mangerete quelli che ruminano soltanto, o che hanno soltanto lo zoccolo bipartito o il piede forcuto; e sono: il cammello, la lepre, il coniglio, che ruminano ma non hanno lo zoccolo bipartito; considerateli come impuri;"
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>And the swine, because it divideth the hoof, yet cheweth not the cud, it <span class=\"clarity-word\">is</span> unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØ§ÙÙØ®ÙÙÙØ²ÙÙØ±Ù ÙØ£ÙÙÙÙÙÙ ÙÙØ´ÙÙÙÙÙÙ Ø§ÙØ¸ÙÙÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙÙ ØºÙÙÙØ±Ù ÙÙØ¬ÙØªÙØ±ÙÙØ ÙÙØ°ÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙØ¬ÙØ³Ù ÙÙÙÙÙÙ. ÙÙÙØ§ ØªÙØ£ÙÙÙÙÙÙØ§ ÙÙÙÙ ÙÙØ­ÙÙÙ Ø¬ÙÙÙÙØ¹Ù ÙÙØ°ÙÙÙ Ø§ÙÙØ¨ÙÙÙØ§Ø¦ÙÙÙ ÙÙÙØ§ ØªÙÙÙÙÙØ³ÙÙØ§ Ø¬ÙØ«ÙØ«ÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">8</span> ã¾ã<ruby><rb>è±</rb><rt>ã¶ã</rt></ruby>ãããã¯ãã²ããã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã¦ããããã©ãã<ruby><rb>åè»</rb><rt>ã¯ããã</rt></ruby>ããªãããã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãããã®ã§ããããã®<ruby><rb>è</rb><rt>ã«ã</rt></ruby>ã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã¦ã¯ãªããªããã¾ããã®<ruby><rb>æ­»ä½</rb><rt>ããã</rt></ruby>ã«<ruby><rb>è§¦</rb><rt>ãµ</rt></ruby>ãã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">8ã</span>çªï¼å ä¸ºæ¯åè¹å´ä¸åå¼ï¼å°±ä¸ä½ ä»¬ä¸æ´åãè¿äºå½çèï¼ä½ ä»¬ä¸å¯åï¼æ­»çä¹ä¸å¯æ¸ã",
+      "zht": "<span class=\"verse-number\">8ã</span>è±¬ï¼å çºæ¯åè¹å»ä¸åå¼ï¼å°±èä½ åä¸æ½æ·¨ãéäºç¸çèï¼ä½ åä¸å¯åï¼æ­»çä¹ä¸å¯æ¸ã",
+      "spa": "<span class=\"verse-number\">8 </span>ni cerdo, porque tiene la pezuÃ±a hendida, mas no rumia; os serÃ¡ inmundo. De la carne de estos no comerÃ©is ni tocarÃ©is sus cuerpos muertos.",
+      "por": "<span class=\"verse-number\">8</span> Nem o porco, porque tem casco fendido, mas nÃ£o remÃ³i; imundo vos <span class=\"clarity-word\">serÃ¡;</span> nÃ£o comereis da carne destes, e nÃ£o tocareis no seu cadÃ¡ver.",
+      "fra": "<span class=\"verse-number\">8</span> Vous ne mangerez pas le porc, qui a des sabots fendus mais qui ne rumine pasÂ : vous le considÃ©rerez comme impur. Vous ne mangerez pas de leur chair et vous ne toucherez pas leur cadavre.",
+      "deu": "<span class=\"verse-number\">8Â </span>ferner das Schwein, denn es hat zwar gespaltene Klauen, ist aber kein WiederkÃ¤uer. Als unrein soll es euch gelten; vom Fleisch dieser Tiere dÃ¼rft ihr nichts genieÃen und ihre toten Leiber nicht anrÃ¼hren.",
+      "kor": "<span class=\"verse-number\">8</span> ë¼ì§ë êµ½ì ê°ë¼ì¡ì¼ë ìê¹ì§ì ëª»íë¯ë¡ ëí¬ìê² ë¶ì íë ëí¬ë ì´ë° ê²ì ê³ ê¸°ë¥¼ ë¨¹ì§ ë§ ê²ì´ë©° ê·¸ ì¬ì²´ë ë§ì§ì§ ë§ ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">8</span> e anche il maiale, che ha lo zoccolo bipartito ma non rumina; lo considererete come impuro. Non mangerete la loro carne, e non toccherete i loro corpi morti."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span><span class=\"para-mark\">Â¶ </span>These ye shall eat of all that <span class=\"clarity-word\">are</span> in the waters: all that have fins and scales shall ye eat:",
+      "ara": "<span class=\"verse-number\">Ù© </span>Ø£ÙÙÙÙØ§ ÙÙØ§ ÙÙØ¹ÙÙØ´Ù ÙÙÙ Ø§ÙÙÙÙØ§Ø¡Ù ÙÙÙÙÙÙÙØ§ ÙÙÙÙ ÙÙÙÙÙ ÙÙØ§ÙÙÙÙ Ø²ÙØ¹ÙØ§ÙÙÙÙ ÙÙÙÙØ´ÙÙØ±ÙØ",
+      "jpn": "<span class=\"verse-number\">9</span> <ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã«ãããã¹ã¦ã®<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã®ãã¡ã<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®ãã®ã¯<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ããã¨ãã§ãããããªãã¡ããã¹ã¦ãã²ãã¨ããããã®ãããã®ã¯ã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ããã¨ãã§ããã",
+      "zhs": "<span class=\"verse-number\">9ã</span>æ°´ä¸­å¯åçä¹æ¯è¿äºï¼å¡æç¿æé³çé½å¯ä»¥åï¼",
+      "zht": "<span class=\"verse-number\">9ã</span>æ°´ä¸­å¯åçä¹æ¯éäºï¼å¡æç¿æé±çé½å¯ä»¥åï¼",
+      "spa": "<span class=\"verse-number\">9 </span>Esto podrÃ©is comer de todo lo que estÃ¡ en el agua: todo lo que tiene aleta y escama comerÃ©is,",
+      "por": "<span class=\"verse-number\">9</span> Isto comereis de tudo o que <span class=\"clarity-word\">hÃ¡</span> nas Ã¡guas: tudo o que tem barbatanas e escamas comereis.",
+      "fra": "<span class=\"verse-number\">9</span> Voici les animaux dont vous mangerez parmi tous ceux qui sont dans les eauxÂ : vous mangerez de tous ceux qui ont des nageoires et des Ã©cailles.",
+      "deu": "<span class=\"verse-number\">9Â </span>Dies ist es, was ihr von allen im Wasser lebenden Tieren essen dÃ¼rft: Alles, was Flossen und Schuppen hat, dÃ¼rft ihr essen;",
+      "kor": "<span class=\"verse-number\">9</span> ë¬¼ì ìë ëª¨ë  ê² ì¤ìì ì´ë° ê²ì ëí¬ê° ë¨¹ì ê²ì´ë ì§ëë¬ë¯¸ì ë¹ë ìë ëª¨ë  ê²ì ëí¬ê° ë¨¹ì ê²ì´ì",
+      "ita": "<span class=\"verse-number\">9</span> Fra tutti gli animali che vivono nelle acque, potrete mangiare tutti quelli che hanno pinne e squame;"
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>And whatsoever hath not fins and scales ye may not eat; it <span class=\"clarity-word\">is</span> unclean unto you.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙÙÙÙÙÙÙ ÙÙØ§ ØªÙØ£ÙÙÙÙÙÙØ§ ÙÙÙÙÙØ§ ÙÙÙÙØ³Ù ÙÙÙÙ Ø²ÙØ¹ÙØ§ÙÙÙÙ ÙÙÙÙØ´ÙÙØ±Ù ÙØ£ÙÙÙÙÙÙ ÙÙØ¬ÙØ³Ù ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">10</span> ãã¹ã¦ãã²ãã¨ããããã®ãªããã®ã¯ã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã¦ã¯ãªããªããããã¯<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">10ã</span>å¡æ ç¿æ é³çé½ä¸å¯åï¼æ¯ä¸ä½ ä»¬ä¸æ´åã",
+      "zht": "<span class=\"verse-number\">10ã</span>å¡ç¡ç¿ç¡é±çé½ä¸å¯åï¼æ¯èä½ åä¸æ½æ·¨ã",
+      "spa": "<span class=\"verse-number\">10 </span>pero todo lo que no tenga aleta ni escama no comerÃ©is; inmundo os serÃ¡.",
+      "por": "<span class=\"verse-number\">10</span> Mas tudo o que nÃ£o tiver barbatanas nem escamas nÃ£o <span class=\"clarity-word\">o</span> comereis; imundo vos <span class=\"clarity-word\">serÃ¡.</span>",
+      "fra": "<span class=\"verse-number\">10</span> Mais vous ne mangerez dâaucun de ceux qui nâont pas de nageoires ni dâÃ©caillesÂ : vous les considÃ©rerez comme impurs.",
+      "deu": "<span class=\"verse-number\">10Â </span>aber alles, was keine Flossen und Schuppen hat, dÃ¼rft ihr nicht genieÃen. Als unrein soll es euch gelten.",
+      "kor": "<span class=\"verse-number\">10</span> ì§ëë¬ë¯¸ì ë¹ëì´ ìë ëª¨ë  ê²ì ëí¬ê° ë¨¹ì§ ë§ì§ë ì´ë ëí¬ìê² ë¶ì í¨ì´ëë¼",
+      "ita": "<span class=\"verse-number\">10</span> ma non mangerete nessuno di quelli che non hanno pinne e squame; considerateli come impuri."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span><span class=\"para-mark\">Â¶ </span><span class=\"clarity-word\">Of</span> all clean birds ye shall eat.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙÙØ§ ÙÙÙÙ ÙÙÙÙÙ Ø·ÙÙÙØ±Ù Ø·ÙØ§ÙÙØ±ÙØ",
+      "jpn": "<span class=\"verse-number\">11</span> ãã¹ã¦<ruby><rb>æ¸</rb><rt>ãã</rt></ruby>ã<ruby><rb>é³¥</rb><rt>ã¨ã</rt></ruby>ã¯<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ããã¨ãã§ããã",
+      "zhs": "<span class=\"verse-number\">11ã</span>å¡æ´åçé¸ï¼ä½ ä»¬é½å¯ä»¥åã",
+      "zht": "<span class=\"verse-number\">11ã</span>å¡æ½æ·¨çé³¥ï¼ä½ åé½å¯ä»¥åã",
+      "spa": "<span class=\"verse-number\">11 </span>Toda ave limpia podrÃ©is comer,",
+      "por": "<span class=\"verse-number\">11</span> Toda ave limpa comereis.",
+      "fra": "<span class=\"verse-number\">11</span> Vous mangerez tout oiseau pur.",
+      "deu": "<span class=\"verse-number\">11Â </span>Alle reinen VÃ¶gel dÃ¼rft ihr essen;",
+      "kor": "<span class=\"verse-number\">11</span> ì í ìë ëª¨ë ëí¬ê° ë¨¹ì¼ë ¤ëì",
+      "ita": "<span class=\"verse-number\">11</span> Potrete mangiare qualunque uccello puro;"
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>But these <span class=\"clarity-word\">are they</span> of which ye <span class=\"page-break\" data-page=\"277\"></span>shall not eat: the eagle, and the ossifrage, and the ospray,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙÙÙÙÙÙ ÙÙÙÙ Ø§ÙØ·ÙÙÙÙÙØ±Ù Ø§ÙØªÙÙØ§ÙÙÙÙØ©Ù ÙÙØ§ ØªÙØ£ÙÙÙÙÙÙØ§: Ø§ÙÙÙÙØ³ÙØ±Ù ÙÙØ§ÙØ£ÙÙÙÙÙÙ ÙÙØ§ÙÙØ¹ÙÙÙØ§Ø¨Ù",
+      "jpn": "<span class=\"verse-number\">12</span> ãã ãã<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®ãã®ã¯<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã¦ã¯ãªããªããããªãã¡ãã¯ããããã²ãã¯ããããã¿ããã",
+      "zhs": "<span class=\"verse-number\">12ã</span>ä¸å¯åçä¹æ¯éµ°ãçå¤´éµ°ãçº¢å¤´éµ°ã",
+      "zht": "<span class=\"verse-number\">12ã</span>ä¸å¯åçä¹æ¯éµ°ãçé ­éµ°ãç´é ­éµ°ã",
+      "spa": "<span class=\"verse-number\">12 </span>Y estas son las que no comerÃ©is: el Ã¡guila, y el quebrantahuesos, y el azor,",
+      "por": "<span class=\"verse-number\">12</span> PorÃ©m estas <span class=\"clarity-word\">sÃ£o</span> as de que nÃ£o comereis: a Ã¡guia, e o quebrantosso, e o xofrango,",
+      "fra": "<span class=\"verse-number\">12</span> Mais voici ceux dont vous ne mangerez pasÂ : lâaigle, lâorfraie et lâaigle de merÂ ;",
+      "deu": "<span class=\"verse-number\">12Â </span>folgende aber sind es, von denen ihr nichts essen dÃ¼rft: der Adler, der LÃ¤mmergeier, der Bartgeier,",
+      "kor": "<span class=\"verse-number\">12</span> ì´ë° ê²ì ë¨¹ì§ ëª»í ì§ë ê³§ ëìë¦¬ì ìê°ì ë¬¼ìë¦¬ì",
+      "ita": "<span class=\"verse-number\">12</span> ma ecco quelli che non dovete mangiare: lâaquila, lâossifraga e lâaquila di mare;"
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>And the glede, and the kite, and the vulture after his kind,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØ§ÙÙØ­ÙØ¯ÙØ£ÙØ©Ù ÙÙØ§ÙÙØ¨ÙØ§Ø´ÙÙÙ ÙÙØ§ÙØ´ÙÙØ§ÙÙÙÙÙ Ø¨ÙÙÙØ®ÙØªÙÙÙÙÙ Ø£ÙÙÙÙÙØ§Ø¹ÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">13</span> <ruby><rb>é»</rb><rt>ãã</rt></ruby>ã¨ã³ãã¯ãã¶ããã¨ã³ã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">13ã</span>é¸ãå°é¹°ãé¹é¹°ä¸å¶ç±»ï¼",
+      "zht": "<span class=\"verse-number\">13ã</span>é¸ãå°é·¹ãé·é·¹èå¶é¡ï¼",
+      "spa": "<span class=\"verse-number\">13 </span>y el gallinazo, y el halcÃ³n y el milano segÃºn su especie;",
+      "por": "<span class=\"verse-number\">13</span> E o abutre, e o falcÃ£o, e o milhano, segundo a sua espÃ©cie,",
+      "fra": "<span class=\"verse-number\">13</span> le milan, lâautour, le vautour et ce qui est de son espÃ¨ceÂ ;",
+      "deu": "<span class=\"verse-number\">13Â </span>die Weihe, der Habicht, die verschiedenen Falkenarten,",
+      "kor": "<span class=\"verse-number\">13</span> ë§¤ì ìë§¤ì ë§¤ì ì¢ë¥ì",
+      "ita": "<span class=\"verse-number\">13</span> la poiana, il nibbio e ogni specie di falco;"
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>And every raven after his kind,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ¬ÙÙÙÙØ¹Ù Ø£ÙØµÙÙÙØ§ÙÙ Ø§ÙÙØºÙØ±ÙØ¨ÙØ§ÙÙØ",
+      "jpn": "<span class=\"verse-number\">14</span> <ruby><rb>åç¨®</rb><rt>ãããã</rt></ruby>ã®ãããã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">14ã</span>ä¹é¸¦ä¸å¶ç±»ï¼",
+      "zht": "<span class=\"verse-number\">14ã</span>çé´èå¶é¡ï¼",
+      "spa": "<span class=\"verse-number\">14 </span>y todo cuervo segÃºn su especie;",
+      "por": "<span class=\"verse-number\">14</span> E todo corvo, segundo a sua espÃ©cie,",
+      "fra": "<span class=\"verse-number\">14</span> le corbeau et toutes ses espÃ¨cesÂ ;",
+      "deu": "<span class=\"verse-number\">14Â </span>alle Arten von Raben,",
+      "kor": "<span class=\"verse-number\">14</span> ê¹ë§ê· ì¢ë¥ì",
+      "ita": "<span class=\"verse-number\">14</span> ogni specie di corvo;"
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙØ§ÙÙÙÙØ¹ÙØ§ÙÙØ©Ù ÙÙØ§ÙØ¸ÙÙÙÙÙÙÙ ÙÙØ§ÙØ³ÙÙØ£ÙÙÙ ÙÙÙÙÙÙÙ Ø£ÙØ¬ÙÙÙØ§Ø³Ù Ø§ÙÙØ¨ÙØ§Ø²ÙØ",
+      "jpn": "<span class=\"verse-number\">15</span> ã ã¡ããã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãããããããããã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">15ã</span>é¸µé¸ãå¤é¹°ãé±¼é¹°ãé¹°ä¸å¶ç±»ï¼",
+      "zht": "<span class=\"verse-number\">15ã</span>é´é³¥ãå¤é·¹ãé­é·¹ãé·¹èå¶é¡ï¼",
+      "spa": "<span class=\"verse-number\">15 </span>y el avestruz, y la lechuza, y la gaviota y el gavilÃ¡n segÃºn su especie;",
+      "por": "<span class=\"verse-number\">15</span> E o avestruz, e o mocho, e a gaivota, e o gaviÃ£o, segundo a sua espÃ©cie,",
+      "fra": "<span class=\"verse-number\">15</span> lâautruche, le hibou, la mouette, lâÃ©pervier et ce qui est de son espÃ¨ceÂ ;",
+      "deu": "<span class=\"verse-number\">15Â </span>der StrauÃ, die Schwalbe, die MÃ¶we, alle Habichtarten,",
+      "kor": "<span class=\"verse-number\">15</span> íì¡°ì ííë§ì¤ì ê°ë§¤ê¸°ì ìë§¤ ì¢ë¥ì",
+      "ita": "<span class=\"verse-number\">15</span> lo struzzo, il barbagianni, il gabbiano e ogni specie di sparviere;"
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>The little owl, and the great owl, and the swan,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙØ§ÙÙØ¨ÙÙÙÙ ÙÙØ§ÙÙÙÙØ±ÙÙÙÙÙÙ ÙÙØ§ÙÙØ¨ÙØ¬ÙØ¹ÙØ",
+      "jpn": "<span class=\"verse-number\">16</span> ãµããããã¿ã¿ãããããããã°ãã",
+      "zhs": "<span class=\"verse-number\">16ã</span>é´é¸ãç«å¤´é¹°ãè§é¸±ã",
+      "zht": "<span class=\"verse-number\">16ã</span>é´é³¥ãè²é ­é·¹ãè§é´ã",
+      "spa": "<span class=\"verse-number\">16 </span>y el bÃºho, y el ibis, y el cisne,",
+      "por": "<span class=\"verse-number\">16</span> E o bufo, e a coruja, e a gralha,",
+      "fra": "<span class=\"verse-number\">16</span> le chat-huant, la chouette et le cygneÂ ;",
+      "deu": "<span class=\"verse-number\">16Â </span>das KÃ¤uzchen, der Uhu, die Eule,",
+      "kor": "<span class=\"verse-number\">16</span> ì¬ë¹¼ë¯¸ì ë¶ìì´ì í° ì¬ë¹¼ë¯¸ì",
+      "ita": "<span class=\"verse-number\">16</span> il gufo, lâibis, il cigno;"
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>And the pelican, and the gier eagle, and the cormorant,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØ§ÙÙÙÙÙÙÙ ÙÙØ§ÙØ±ÙÙØ®ÙÙÙ ÙÙØ§ÙÙØºÙÙÙÙØ§ØµÙØ",
+      "jpn": "<span class=\"verse-number\">17</span> ããªã«ã³ãã¯ãããããã",
+      "zhs": "<span class=\"verse-number\">17ã</span>é¹é¹ãç§éµ°ãé¸¬é¹ã",
+      "zht": "<span class=\"verse-number\">17ã</span>éµé¶ãç¦¿éµ°ãé¸é¶¿ã",
+      "spa": "<span class=\"verse-number\">17 </span>y el pelÃ­cano, y el buitre, y el cuervo marino,",
+      "por": "<span class=\"verse-number\">17</span> E o cisne, e o pelicano, e o corvo marinho,",
+      "fra": "<span class=\"verse-number\">17</span> le pÃ©lican, le cormoran et le plongeonÂ ;",
+      "deu": "<span class=\"verse-number\">17Â </span>der Pelikan, der Aasgeier, der Kormoran,",
+      "kor": "<span class=\"verse-number\">17</span> ë¹ìì ì¬ìê³¼ ë¸ìì",
+      "ita": "<span class=\"verse-number\">17</span> il pellicano, lâavvoltoio, lo smergo;"
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>And the stork, and the heron after her kind, and the lapwing, and the bat.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙØ§ÙÙÙÙÙÙÙÙÙÙ ÙÙØ§ÙÙØ¨ÙØ¨ÙØºÙØ§Ø¡Ù Ø¹ÙÙÙÙ ÙÙØ®ÙØªÙÙÙÙÙ Ø£ÙÙÙÙÙØ§Ø¹ÙÙÙØ ÙÙØ§ÙÙÙÙØ¯ÙÙÙØ¯Ù ÙÙØ§ÙÙØ®ÙÙÙÙØ§Ø´Ù.",
+      "jpn": "<span class=\"verse-number\">18</span> ããã®ã¨ããããã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ããã¤ããããããããã",
+      "zhs": "<span class=\"verse-number\">18ã</span>é¹³ãé¹­é¸¶ä¸å¶ç±»ï¼æ´éµä¸èè ã",
+      "zht": "<span class=\"verse-number\">18ã</span>é¸ãé·ºé·¥èå¶é¡ï¼æ´éµèèè ã",
+      "spa": "<span class=\"verse-number\">18 </span>y la cigÃ¼eÃ±a y la garza segÃºn su especie; y la abubilla y el murciÃ©lago.",
+      "por": "<span class=\"verse-number\">18</span> E a cegonha, e a garÃ§a, segundo a sua espÃ©cie, e a poupa, e o morcego.",
+      "fra": "<span class=\"verse-number\">18</span> la cigogne, le hÃ©ron et ce qui est de son espÃ¨ce, la huppe et la chauve-souris.",
+      "deu": "<span class=\"verse-number\">18Â </span>der Storch, die verschiedenen Arten der Regenpfeifer, der Wiedehopf und die Fledermaus.",
+      "kor": "<span class=\"verse-number\">18</span> íê³¼ í©ì ì¢ë¥ì ëì¹ê³¼ ë°ì¥ë©°",
+      "ita": "<span class=\"verse-number\">18</span> la cicogna, ogni specie di airone, lâupupa e il pipistrello."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>And every creeping thing that flieth <span class=\"clarity-word\">is</span> unclean unto you: they shall not be eaten.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙÙÙÙÙÙ Ø­ÙØ´ÙØ±ÙØ©Ù ØªÙØ·ÙÙØ±ÙØ ÙÙÙÙ ÙÙØ¬ÙØ³ÙØ©Ù ÙÙÙÙÙÙ. ÙÙØ§ ØªÙØ£ÙÙÙÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">19</span> ã¾ããã¹ã¦<ruby><rb>ç¾½</rb><rt>ã¯ã­</rt></ruby>ããã£ã¦<ruby><rb>é</rb><rt>ã¯</rt></ruby>ããã®ã¯<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãããã®ã§ãããããã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">19ã</span>å¡æç¿èç¬è¡çç©æ¯ä¸ä½ ä»¬ä¸æ´åï¼é½ä¸å¯åã",
+      "zht": "<span class=\"verse-number\">19ã</span>å¡æç¿èç¬è¡çç©æ¯èä½ åä¸æ½æ·¨ï¼é½ä¸å¯åã",
+      "spa": "<span class=\"verse-number\">19 </span>Y todo insecto alado os serÃ¡ inmundo; no se comerÃ¡.",
+      "por": "<span class=\"verse-number\">19</span> TambÃ©m todo inseto que voa, vos <span class=\"clarity-word\">serÃ¡</span> imundo; nÃ£o se comerÃ¡.",
+      "fra": "<span class=\"verse-number\">19</span> Vous considÃ©rerez comme impur toutes les petites crÃ©atures qui volentÂ : on nâen mangera pas.",
+      "deu": "<span class=\"verse-number\">19Â </span>Auch alle geflÃ¼gelten Insekten sollen euch als unrein gelten und dÃ¼rfen nicht gegessen werden.",
+      "kor": "<span class=\"verse-number\">19</span> ë ë ê¸°ë íê³  ê¸°ì´ë¤ëê¸°ë íë ê²ì ëí¬ìê² ë¶ì íë ëí¬ë ë¨¹ì§ ë§ ê²ì´ë",
+      "ita": "<span class=\"verse-number\">19</span> E considererete come impuro ogni insetto alato; non si mangerÃ ."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span><span class=\"clarity-word\">But of</span> all clean fowls ye may eat.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙÙÙÙÙÙÙ ÙÙÙÙÙØ§ ÙÙÙÙ ÙÙÙÙÙ Ø·ÙÙÙØ±Ù Ø·ÙØ§ÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">20</span> ãã¹ã¦<ruby><rb>ç¿¼</rb><rt>ã¤ã°ã</rt></ruby>ã®ãã<ruby><rb>æ¸</rb><rt>ãã</rt></ruby>ããã®ã¯<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ããã¨ãã§ããã",
+      "zhs": "<span class=\"verse-number\">20ã</span>å¡æ´åçé¸ï¼ä½ ä»¬é½å¯ä»¥åã",
+      "zht": "<span class=\"verse-number\">20ã</span>å¡æ½æ·¨çé³¥ï¼ä½ åé½å¯ä»¥åã",
+      "spa": "<span class=\"verse-number\">20 </span>Toda ave limpia podrÃ©is comer.",
+      "por": "<span class=\"verse-number\">20</span> Toda ave limpa comereis.",
+      "fra": "<span class=\"verse-number\">20</span> Vous mangerez tout oiseau pur.",
+      "deu": "<span class=\"verse-number\">20Â </span>Alles reine GeflÃ¼gel dÃ¼rft ihr essen.",
+      "kor": "<span class=\"verse-number\">20</span> ì í ìë ëª¨ë ëí¬ê° ë¨¹ìì§ëë¼",
+      "ita": "<span class=\"verse-number\">20</span> Potrete mangiare ogni volatile puro."
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span><span class=\"para-mark\">Â¶ </span>Ye shall not eat <span class=\"clarity-word\">of</span> any thing that dieth of itself: thou shalt give it unto the stranger that <span class=\"clarity-word\">is</span> in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou <span class=\"clarity-word\">art</span> an holy people unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> thy God. Thou shalt not seethe a kid in his motherâs milk.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØ§ ØªÙØ£ÙÙÙÙÙÙØ§ Ø¬ÙØ«ÙÙØ©Ù Ø­ÙÙÙÙÙØ§ÙÙ ÙÙÙÙØªÙØ Ø¨ÙÙÙ Ø£ÙØ¹ÙØ·ÙÙÙÙØ§ ÙÙÙÙØºÙØ±ÙÙØ¨Ù Ø§ÙÙÙÙÙÙÙÙÙ ÙÙÙ Ø¬ÙÙÙØ§Ø±ÙÙÙÙÙ ÙÙÙÙØ£ÙÙÙÙÙÙÙØ§ Ø£ÙÙÙ ÙÙØ¨ÙÙØ¹ÙÙÙØ§ ÙØ£ÙØ¬ÙÙÙØ¨ÙÙÙÙØ ÙØ£ÙÙÙÙÙÙÙÙ Ø´ÙØ¹ÙØ¨Ù ÙÙÙÙØ¯ÙÙØ³Ù ÙÙÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙÙÙÙÙ. ÙÙØ§ ØªÙØ·ÙØ¨ÙØ®ÙÙØ§ Ø¬ÙØ¯ÙÙØ§Ù Ø¨ÙÙÙØ¨ÙÙÙ Ø£ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">21</span> ãã¹ã¦<ruby><rb>èªç¶</rb><rt>ããã</rt></ruby>ã«<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãã ãã®ã¯<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã¦ã¯ãªããªãã<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã®<ruby><rb>å</rb><rt>ãã¡</rt></ruby>ã«ãã<ruby><rb>å¯ç</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>ä»å½</rb><rt>ããã</rt></ruby><ruby><rb>äºº</rb><rt>ãã</rt></ruby>ã«ãããã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ããããã¨ãã§ãããã¾ãããã<ruby><rb>å¤å½</rb><rt>ãããã</rt></ruby><ruby><rb>äºº</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å£²</rb><rt>ã</rt></ruby>ã£ã¦ããããããªãã¯ããªãã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã ããã§ããã<ruby><rb>å­</rb><rt>ã</rt></ruby>ããããã®<ruby><rb>æ¯</rb><rt>ã¯ã¯</rt></ruby>ã®<ruby><rb>ä¹³</rb><rt>ã¡ã¡</rt></ruby>ã§<ruby><rb>ç®</rb><rt>ã«</rt></ruby>ã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">21ã</span>å¡èªæ­»çï¼ä½ ä»¬é½ä¸å¯åï¼å¯ä»¥ç»ä½ åéå¯å±çåï¼æåä¸å¤äººåï¼å ä¸ºä½ æ¯å½è¶ååä½ ç¥ä¸ºå£æ´çæ°ãä¸å¯ç¨å±±ç¾ç¾æ¯çå¥¶ç®å±±ç¾ç¾ã",
+      "zht": "<span class=\"verse-number\">21ã</span>å¡èªæ­»çï¼ä½ åé½ä¸å¯åï¼å¯ä»¥çµ¦ä½ åè£¡å¯å±çåï¼æè³£èå¤äººåï¼å çºä½ æ¯æ­¸è¶åè¯ä½ ç¥çºèæ½çæ°ãä¸å¯ç¨å±±ç¾ç¾æ¯çå¥¶ç®å±±ç¾ç¾ã",
+      "spa": "<span class=\"verse-number\">21 </span>No comerÃ©is ningÃºn animal que hayÃ¡is encontrado muerto; al extranjero que estÃ¡ en tus poblaciones lo darÃ¡s, y Ã©l podrÃ¡ comerlo; o lo podrÃ¡s vender a un extranjero, porque tÃº eres pueblo santo a JehovÃ¡ tu Dios. No cocerÃ¡s el cabrito en la leche de su madre.",
+      "por": "<span class=\"verse-number\">21</span> NÃ£o comereis nenhum animal que morreu por si mesmo; ao estrangeiro, que <span class=\"clarity-word\">estÃ¡</span> dentro das tuas portas, o darÃ¡s para que o coma, ou o venderÃ¡s ao estranho, porquanto <span class=\"clarity-word\">Ã©s</span> povo santo ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> teu Deus. NÃ£o cozerÃ¡s o cabrito com o leite da sua mÃ£e.",
+      "fra": "<span class=\"verse-number\">21</span> Vous ne mangerez dâaucune bÃªte morteÂ ; tu la donneras Ã  lâÃ©tranger qui sera dans tes portes afin quâil la mange ou tu la vendras Ã  un Ã©trangerÂ ; car tu es un peuple saint pour lâÃternel, ton Dieu. Tu ne feras pas cuire un chevreau dans le lait de sa mÃ¨re.",
+      "deu": "<span class=\"verse-number\">21Â </span>Von verendeten Tieren dÃ¼rft ihr nichts genieÃen; dem Fremdling, der in deinen Ortschaften lebt, magst du sie zum Essen geben oder magst sie an einen Nichtisraeliten verkaufen; denn du bist ein dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span>, deinem Gott, geheiligtes Volk. Ein BÃ¶ckchen darfst du nicht in der Milch seiner Mutter kochen.",
+      "kor": "<span class=\"verse-number\">21</span> ëí¬ë ëí¬ì íëë ì¬í¸ìì ì±ë¯¼ì´ë¼ ì¤ì¤ë¡ ì£½ì ëª¨ë  ê²ì ë¨¹ì§ ë§ ê²ì´ë ê·¸ê²ì ì±ì¤ì ê±°ë¥íë ê°ìê² ì£¼ì´ ë¨¹ê² íê±°ë ì´ë°©ì¸ìê² íë ê²ì ê°íëë¼ ëë ì¼ì ìë¼ë¥¼ ê·¸ ì´ë¯¸ì ì ì ì¶ì§ ë§ì§ëë¼",
+      "ita": "<span class=\"verse-number\">21</span> Non mangerete alcuna bestia morta da sÃ©; la darai al forestiero che sarÃ  entro le tue porte perchÃ© la mangi, o la venderai a qualche straniero; poichÃ© tu sei un popolo consacrato allâEterno, che Ã¨ il tuo Dio. Non farai cuocere il capretto nel latte di sua madre."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙØ¯ÙÙÙÙÙØ§ Ø¹ÙØ´ÙÙØ±Ù ÙÙØ­ÙØ§ØµÙÙÙÙÙÙÙÙ Ø§ÙÙÙØªÙÙ ØªÙØºÙÙÙÙÙÙØ§ Ø­ÙÙÙÙÙÙÙÙÙÙ ÙÙÙÙÙ Ø³ÙÙÙØ©ÙØ",
+      "jpn": "<span class=\"verse-number\">22</span> ããªãã¯<ruby><rb>æ¯å¹´</rb><rt>ã¾ãã¨ã</rt></ruby>ã<ruby><rb>ç</rb><rt>ã¯ãã</rt></ruby>ã«<ruby><rb>ç¨®</rb><rt>ãã­</rt></ruby>ãã¾ãã¦<ruby><rb>ç²</rb><rt>ã</rt></ruby>ããã¹ã¦ã®<ruby><rb>ç£ç©</rb><rt>ããã¶ã¤</rt></ruby>ã®å<ruby><rb>å</rb><rt>ã¶ã</rt></ruby>ã®ä¸ã<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">22ã</span>ä½ è¦æä½ æç§æäº§çï¼å°±æ¯ä½ ç°å°æ¯å¹´æåºçï¼åååä¸åï¼",
+      "zht": "<span class=\"verse-number\">22ã</span>ä½ è¦æä½ æç¨®æç¢çï¼å°±æ¯ä½ ç°å°æ¯å¹´æåºçï¼åååä¸åï¼",
+      "spa": "<span class=\"verse-number\">22 </span>Indefectiblemente diezmarÃ¡s todo el producto de la semilla que rinda tu campo cada aÃ±o.",
+      "por": "<span class=\"verse-number\">22</span> Certamente darÃ¡s os dÃ­zimos de todo o fruto da tua semente, que cada ano se recolher do campo.",
+      "fra": "<span class=\"verse-number\">22</span> Tu prÃ©lÃ¨veras la dÃ®me de tout ce que produiront tes semailles, de ce que rapportera ton champ chaque annÃ©e.",
+      "deu": "<span class=\"verse-number\">22Â </span>Den ganzen Ertrag deiner Aussaat, alles, was dir auf dem Feld wÃ¤chst, sollst du Jahr fÃ¼r Jahr gewissenhaft verzehnten",
+      "kor": "<span class=\"verse-number\">22</span> ëë ë§ëí ë§¤ ë í ì§ ìì°ì ì­ì¼ì¡°ë¥¼ ëë¦´ ê²ì´ë©°",
+      "ita": "<span class=\"verse-number\">22</span> Avrete cura di prelevare la decima da tutto quello che produrranno le tue sementi, da quello che ti frutterÃ  il campo ogni anno."
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>And thou shalt eat before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> thy God always.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙÙÙÙÙÙØ§ Ø¹ÙØ´ÙÙØ±Ù ÙÙÙÙØ­ÙÙÙÙÙ ÙÙØ®ÙÙÙØ±ÙÙÙÙÙ ÙÙØ²ÙÙÙÙØªÙÙÙÙÙ ÙÙØ£ÙØ¨ÙÙÙØ§Ø±Ù Ø¨ÙÙÙØ±ÙÙÙÙÙ ÙÙØºÙÙÙÙÙÙÙÙÙ ÙÙØ¯ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙØ ÙÙÙ Ø§ÙÙÙÙÙÙØ¶ÙØ¹Ù Ø§ÙÙÙØ°ÙÙ ÙÙØ®ÙØªÙØ§Ø±ÙÙÙ ÙÙÙÙØ­ÙÙÙÙ Ø§Ø³ÙÙÙÙÙ ÙÙÙÙÙØ ÙÙØªÙØªÙØ¹ÙÙÙÙÙÙÙØ§ Ø£ÙÙÙ ØªÙØªÙÙÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙÙÙÙÙ Ø¯ÙØ§Ø¦ÙÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">23</span> ããã¦ããªãã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ãããªãã¡<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ãããã«<ruby><rb>é¸</rb><rt>ãã</rt></ruby>ã°ãã<ruby><rb>å ´æ</rb><rt>ã°ãã</rt></ruby>ã§ã<ruby><rb>ç©ç©</rb><rt>ãããã¤</rt></ruby>ã¨ãã¶ã©ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã¨ã<ruby><rb>æ²¹</rb><rt>ãã¶ã</rt></ruby>ã¨ã®å<ruby><rb>å</rb><rt>ã¶ã</rt></ruby>ã®ä¸ã¨ã<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ã®ãããã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ããããã¦<ruby><rb>å¸¸</rb><rt>ã¤ã­</rt></ruby>ã«ããªãã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã¨ã<ruby><rb>å­¦</rb><rt>ã¾ãª</rt></ruby>ã°ãªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">23ã</span>åè¦æä½ çäºæ¦ãæ°éåæ²¹çååä¹ä¸ï¼å¹¶çç¾¤ç¾ç¾¤ä¸­å¤´ççï¼åå¨è¶ååä½ ç¥é¢åï¼å°±æ¯ä»æéæ©è¦ç«ä¸ºä»åçå±æãè¿æ ·ï¼ä½ å¯ä»¥å­¦ä¹ æ¶å¸¸æ¬çè¶ååä½ çç¥ã",
+      "zht": "<span class=\"verse-number\">23ã</span>åè¦æä½ çäºæ¦ãæ°éåæ²¹çååä¹ä¸ï¼ä¸¦çç¾¤ç¾ç¾¤ä¸­é ­ççï¼åå¨è¶åè¯ä½ ç¥é¢åï¼å°±æ¯ä»æé¸æè¦ç«çºä»åçå±æãéæ¨£ï¼ä½ å¯ä»¥å­¸ç¿æå¸¸æ¬çè¶åè¯ä½ çç¥ã",
+      "spa": "<span class=\"verse-number\">23 </span>Y comerÃ¡s delante de JehovÃ¡ tu Dios, en el lugar que Ã©l escoja para hacer habitar allÃ­ su nombre, el diezmo de tu grano, de tu vino y de tu aceite, y las primicias de tu ganado y de tu rebaÃ±o, para que aprendas a temer a JehovÃ¡ tu Dios todos los dÃ­as.",
+      "por": "<span class=\"verse-number\">23</span> E perante o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> teu Deus, no lugar que escolher para ali fazer habitar o seu nome, comereis os dÃ­zimos do teu grÃ£o, do teu mosto e do teu azeite, e os primogÃªnitos das tuas vacas e das tuas ovelhas; para que aprendas a temer ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> teu Deus todos os dias.",
+      "fra": "<span class=\"verse-number\">23</span> Et tu mangeras devant lâÃternel, ton Dieu, dans le lieu quâil choisira pour y faire rÃ©sider son nom, la dÃ®me de ton blÃ©, de ton moÃ»t et de ton huile, et les premiers-nÃ©s de ton gros et de ton menu bÃ©tail, afin que tu apprennes Ã  craindre toujours lâÃternel, ton Dieu.",
+      "deu": "<span class=\"verse-number\">23Â </span>und sollst den Zehnten deines Getreides, deines Weins und deines Ãls sowie die Erstgeburten deiner Rinder und deines Kleinviehs vor dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span>, deinem Gott, an der StÃ¤tte, die er erwÃ¤hlen wird, um seinen Namen dort wohnen zu lassen, verzehren, damit du den <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span>, deinen Gott, allezeit fÃ¼rchten lernst.",
+      "kor": "<span class=\"verse-number\">23</span> ë¤ íëë ì¬í¸ì ì ê³§ ì¬í¸ìê»ì ê·¸ì ì´ë¦ì ëìë ¤ê³  ííì  ê³³ìì ë¤ ê³¡ìê³¼ í¬ëì£¼ì ê¸°ë¦ì ì­ì¼ì¡°ë¥¼ ë¨¹ì¼ë©° ë ë¤ ìì ìì ì²ì ë ê²ì ë¨¹ê³  ë¤ íëë ì¬í¸ì ê²½ì¸íê¸°ë¥¼ í­ì ë°°ì¸ ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">23</span> Mangerai, nel cospetto dellâEterno, del tuo Dio, nel luogo che egli avrÃ  scelto per dimora del suo nome, la decima del tuo frumento, del tuo mosto, del tuo olio, e i primi nati dei tuoi armenti e delle tue greggi, affinchÃ© tu impari a temere sempre lâEterno, lâIddio tuo."
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>And if the way be too long for thee, so that thou art not able to carry it; <span class=\"clarity-word\">or</span> if the place be too far from thee, which the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> thy God shall choose to set his name there, when the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> thy God hath blessed thee:",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙÙÙÙÙÙÙ Ø¥ÙÙÙ ÙÙØ§ÙÙØªÙ Ø§ÙØ·ÙÙØ±ÙÙÙÙ Ø¥ÙÙÙÙ ÙÙÙÙØ¶ÙØ¹Ù Ø³ÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø·ÙÙÙÙÙÙØ©ÙØ Ø¨ÙØ­ÙÙÙØ«Ù ÙÙØªÙØ¹ÙØ°ÙÙØ±Ù Ø¹ÙÙÙÙÙÙÙÙÙ Ø­ÙÙÙÙÙ Ø¹ÙØ´ÙÙØ±ÙÙÙÙÙ Ø¥ÙÙÙÙÙÙÙØ ÙÙØ¥Ø°ÙØ§ ÙÙØ§ÙÙ Ø§ÙÙÙÙÙÙØ§ÙÙ Ø§ÙÙÙØ°ÙÙ ÙÙØ®ÙØªÙØ§Ø±ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙÙÙÙÙ ÙÙÙÙØ¬ÙØ¹ÙÙÙ Ø§Ø³ÙÙÙÙÙ ÙÙÙÙÙ Ø¨ÙØ¹ÙÙØ¯Ø§Ù Ø¹ÙÙÙÙÙÙÙÙÙØ ÙÙÙÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¯Ù Ø¨ÙØ§Ø±ÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">24</span> ãã ãããã®<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ããã¾ãã«<ruby><rb>é </rb><rt>ã¨ã</rt></ruby>ããããªãã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ãããã«<ruby><rb>é¸</rb><rt>ãã</rt></ruby>ã°ãã<ruby><rb>å ´æ</rb><rt>ã°ãã</rt></ruby>ãã<ruby><rb>éå¸¸</rb><rt>ã²ããã</rt></ruby>ã«<ruby><rb>é </rb><rt>ã¨ã</rt></ruby>ã<ruby><rb>é¢</rb><rt>ã¯ãª</rt></ruby>ãã¦ãã¦ãããªãã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããªãã<ruby><rb>æµ</rb><rt>ãã</rt></ruby>ã¾ããã¨ããããã<ruby><rb>æº</rb><rt>ããã</rt></ruby>ãã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ããã¨ãã§ããªããªãã°ã",
+      "zhs": "<span class=\"verse-number\">24ã</span>å½è¶ååä½ ç¥èµç¦ä¸ä½ çæ¶åï¼è¶ååä½ ç¥æéæ©è¦ç«ä¸ºä»åçå°æ¹è¥ç¦»ä½ å¤ªè¿ï¼é£è·¯ä¹å¤ªé¿ï¼ä½¿ä½ ä¸è½æè¿ç©å¸¦å°é£éå»ï¼",
+      "zht": "<span class=\"verse-number\">24ã</span>ç¶è¶åè¯ä½ ç¥è³ç¦èä½ çæåï¼è¶åè¯ä½ ç¥æé¸æè¦ç«çºä»åçå°æ¹è¥é¢ä½ å¤ªé ï¼é£è·¯ä¹å¤ªé·ï¼ä½¿ä½ ä¸è½æéç©å¸¶å°é£è£¡å»ï¼",
+      "spa": "<span class=\"verse-number\">24 </span>Y si el camino es tan largo que tÃº no puedas llevarlo por Ã©l, por estar lejos de ti el lugar que JehovÃ¡ tu Dios haya escogido para poner en Ã©l su nombre, cuando JehovÃ¡ tu Dios te haya bendecido,",
+      "por": "<span class=\"verse-number\">24</span> E quando o caminho te for tÃ£o comprido que nÃ£o os possas levar, por estar longe de ti o lugar que escolher o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> teu Deus para ali pÃ´r o seu nome, quando o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> teu Deus te tiver abenÃ§oado,",
+      "fra": "<span class=\"verse-number\">24</span> Peut-Ãªtre lorsque lâÃternel, ton Dieu, tâaura bÃ©ni, le chemin sera-t-il trop long pour que tu puisses transporter ta dÃ®me Ã  cause de ton Ã©loignement du lieu quâaura choisi lâÃternel, ton Dieu, pour y faire rÃ©sider son nom.",
+      "deu": "<span class=\"verse-number\">24Â </span>Wenn dir aber der Weg zu weit ist, sodass du, wenn der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span>, dein Gott, dich gesegnet hat, den Zehnten nicht hinbringen kannst, weil die StÃ¤tte, die der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span>, dein Gott, erwÃ¤hlen wird, um seinen Namen dorthin zu setzen, zu weit von dir entfernt liegt,",
+      "kor": "<span class=\"verse-number\">24</span> ê·¸ë¬ë ë¤ íëë ì¬í¸ìê»ì ìê¸°ì ì´ë¦ì ëìë ¤ê³  ííì  ê³³ì´ ë¤ê²ì ëë¬´ ë©ê³  íë¡ê° ì´ë ¤ìì ë¤ íëë ì¬í¸ìê»ì ê·¸ íë¶í ì£¼ì  ê²ì ê°ì§ê³  ê° ì ìê±°ë",
+      "ita": "<span class=\"verse-number\">24</span> Ma se il cammino Ã¨ troppo lungo per te, tanto che tu non possa portare lÃ  quelle decime, essendo il luogo che lâEterno, il tuo Dio, avrÃ  scelto per stabilirvi il suo nome troppo lontano da te (perchÃ© lâEterno, il tuo Dio, ti avrÃ  benedetto),"
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>Then shalt thou turn <span class=\"clarity-word\">it</span> into money, and bind up the money in thine hand, and shalt go unto the place which the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> thy God shall choose:",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>ÙÙØ¨ÙÙØ¹ÙÙØ§ Ø¹ÙØ´ÙÙØ±Ù ØºÙÙÙÙØ§ØªÙÙÙÙÙ Ø¨ÙÙÙØ¶ÙÙØ©Ù ÙØµÙØ±ÙÙÙÙÙØ§ ÙÙØ§ÙÙØ¶ÙÙØ§ Ø¥ÙÙÙÙ Ø§ÙÙÙÙÙÙØ¶ÙØ¹Ù Ø§ÙÙÙØ°ÙÙ ÙÙØ®ÙØªÙØ§Ø±ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">25</span> ããªãã¯ãã®<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>é</rb><rt>ãã­</rt></ruby>ã«<ruby><rb>æ</rb><rt>ã</rt></ruby>ãããã®<ruby><rb>é</rb><rt>ãã­</rt></ruby>ã<ruby><rb>å</rb><rt>ã¤ã¤</rt></ruby>ãã§<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã«<ruby><rb>å</rb><rt>ã¨</rt></ruby>ããããªãã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>é¸</rb><rt>ãã</rt></ruby>ã°ãã<ruby><rb>å ´æ</rb><rt>ã°ãã</rt></ruby>ã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">25ã</span>ä½ å°±å¯ä»¥æ¢æé¶å­ï¼å°é¶å­åèµ·æ¥ï¼æ¿å¨æä¸­ï¼å¾è¶ååä½ ç¥æè¦éæ©çå°æ¹å»ã",
+      "zht": "<span class=\"verse-number\">25ã</span>ä½ å°±å¯ä»¥ææéå­ï¼å°éå­åèµ·ä¾ï¼æ¿å¨æä¸­ï¼å¾è¶åè¯ä½ ç¥æè¦é¸æçå°æ¹å»ã",
+      "spa": "<span class=\"verse-number\">25 </span>entonces lo venderÃ¡s, y atarÃ¡s el dinero en tu mano e irÃ¡s al lugar que JehovÃ¡ tu Dios haya escogido;",
+      "por": "<span class=\"verse-number\">25</span> EntÃ£o vende-os, e ata o dinheiro na tua mÃ£o, e vai ao lugar que escolher o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> teu Deus;",
+      "fra": "<span class=\"verse-number\">25</span> Alors, tu Ã©changeras ta dÃ®me contre de lâargent, tu serreras cet argent dans ta main et tu iras au lieu que lâÃternel, ton Dieu, aura choisi.",
+      "deu": "<span class=\"verse-number\">25Â </span>so mache den Zehnten zu Geld, nimm dann das Geld wohlverwahrt mit dir und begib dich an den Ort, den der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span>, dein Gott, erwÃ¤hlen wird.",
+      "kor": "<span class=\"verse-number\">25</span> ê·¸ê²ì ëì¼ë¡ ë°ê¾¸ì´ ê·¸ ëì ì¸ ê°ì§ê³  ë¤ íëë ì¬í¸ìê»ì ííì  ê³³ì¼ë¡ ê°ì",
+      "ita": "<span class=\"verse-number\">25</span> allora le convertirai in denaro, terrai stretto in mano questo denaro, andrai al luogo che lâEterno, il tuo Dio, avrÃ  scelto,"
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span>And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> thy God, and thou shalt rejoice, thou, and thine household,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙØ£ÙÙÙÙÙÙÙÙØ§ Ø§ÙÙÙÙØ¶ÙÙØ©Ù Ø¹ÙÙÙÙ ÙÙØ§ ØªÙØ´ÙØªÙÙÙÙÙÙ Ø£ÙÙÙÙÙØ³ÙÙÙÙÙ ÙÙÙÙ Ø¨ÙÙÙØ±Ù ÙÙØºÙÙÙÙÙ ÙÙØ®ÙÙÙØ±Ù ÙÙÙÙØ³ÙÙÙØ±Ù ÙÙÙÙÙÙÙ ÙÙØ§ ØªÙØ±ÙØºÙØ¨ÙÙÙÙ ÙÙÙÙÙØ ÙÙØ§Ø­ÙØªÙÙÙÙÙÙØ§ Ø£ÙÙÙØªÙÙÙ ÙÙØ£ÙÙÙÙÙ Ø¨ÙÙÙÙØªÙÙÙÙÙ ÙÙØ¯ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">26</span> ãã®<ruby><rb>é</rb><rt>ãã­</rt></ruby>ããã¹ã¦ããªãã®<ruby><rb>å¥½</rb><rt>ãã®</rt></ruby>ã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã«<ruby><rb>æ</rb><rt>ã</rt></ruby>ããªããã°ãªããªããããªãã¡<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ãã¶ã©ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ¿</rb><rt>ã</rt></ruby>ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ãªã©ããã¹ã¦ããªãã®<ruby><rb>æ¬²</rb><rt>ã»ã£</rt></ruby>ãã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã«<ruby><rb>æ</rb><rt>ã</rt></ruby>ãããã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã§ããªãã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã§ããã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã<ruby><rb>å®¶æ</rb><rt>ããã</rt></ruby>ã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>æ¥½</rb><rt>ãã®</rt></ruby>ãã¾ãªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">26ã</span>ä½ ç¨è¿é¶å­ï¼éå¿ææ¬²ï¼æä¹°çç¾ï¼æä¹°æ¸éæµéï¼å¡ä½ å¿ææ³çé½å¯ä»¥ä¹°ï¼ä½ åä½ çå®¶å±å¨è¶ååä½ ç¥çé¢åååå¿«ä¹ã",
+      "zht": "<span class=\"verse-number\">26ã</span>ä½ ç¨ééå­ï¼é¨å¿ææ¬²ï¼æè²·çç¾ï¼æè²·æ¸éæ¿éï¼å¡ä½ å¿ææ³çé½å¯ä»¥è²·ï¼ä½ åä½ çå®¶å±¬å¨è¶åè¯ä½ ç¥çé¢åååå¿«æ¨ã",
+      "spa": "<span class=\"verse-number\">26 </span>y darÃ¡s el dinero por todo lo que tu alma apetezca: por vacas, o por ovejas, o por vino, o por sidra o por cualquier cosa que tu alma desee; y comerÃ¡s allÃ­ delante de JehovÃ¡ tu Dios y te alegrarÃ¡s, tÃº y tu familia.",
+      "por": "<span class=\"verse-number\">26</span> E aquele dinheiro darÃ¡s por tudo o que deseja a tua alma, por vacas, e por ovelhas, e por vinho, e por bebida forte, e por tudo o que te pedir a tua alma; come-o <span class=\"page-break\" data-page=\"331\"></span>ali perante o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> teu Deus, e alegra-te, tu e a tua casa;",
+      "fra": "<span class=\"verse-number\">26</span> LÃ , tu achÃ¨teras avec lâargent tout ce que tu dÃ©sireras, des bÅufs, des brebis, du vin et des liqueurs fortes, tout ce qui te fera plaisir, tu mangeras devant lâÃternel, ton Dieu, et tu te rÃ©jouiras, toi et ta famille.",
+      "deu": "<span class=\"verse-number\">26Â </span>Dort gib das Geld aus fÃ¼r alles, wonach dein Herz Verlangen tragen mag, fÃ¼r Rinder und Kleinvieh, fÃ¼r Wein und starke GetrÃ¤nke, kurz fÃ¼r alles, wonach dich gelÃ¼sten mag; halte dann dort vor dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span>, deinem Gott, ein Mahl und sei mit deinen AngehÃ¶rigen frÃ¶hlich.",
+      "kor": "<span class=\"verse-number\">26</span> ë¤ ë§ìì ìíë ëª¨ë  ê²ì ê·¸ ëì¼ë¡ ì¬ë ìë ìì´ë í¬ëì£¼ë ëì£¼ ë± ë¤ ë§ìì ìíë ëª¨ë  ê²ì êµ¬íê³  ê±°ê¸° ë¤ íëë ì¬í¸ì ììì ëì ë¤ ê¶ìì´ í¨ê» ë¨¹ê³  ì¦ê±°ìí  ê²ì´ë©°",
+      "ita": "<span class=\"verse-number\">26</span> e impiegherai quel denaro a comprarti tutto quello che il tuo cuore desidererÃ : buoi, pecore, vino, bevande alcoliche, o qualunque cosa possa piacerti di piÃ¹; e lÃ¬ mangerai al cospetto dellâEterno, del tuo Dio, e ti rallegrerai: tu con la tua famiglia."
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>And the Levite that <span class=\"clarity-word\">is</span> within thy gates; thou shalt not forsake him; for he hath no part nor inheritance with thee.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙÙØ§ ØªÙÙÙÙÙÙÙÙØ§ Ø§ÙÙÙØ§ÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙÙÙÙÙ ÙÙÙ ÙÙØ¯ÙÙÙÙÙÙÙ ÙØ£ÙÙÙÙÙÙÙÙ ÙÙÙÙ ÙÙØ±ÙØ«ÙÙØ§ ÙÙÙÙÙØ§Ù Ø£ÙÙÙ ÙÙØµÙÙØ¨Ø§Ù ÙÙØ¹ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">27</span> <ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã®<ruby><rb>å</rb><rt>ãã¡</rt></ruby>ã«ããã¬ãã³ã¨ã<ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã¦ã¦ã¯ãªããªãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ããªãããã®ãã¡ã«<ruby><rb>å</rb><rt>ã¶ã</rt></ruby>ããªãã<ruby><rb>å£</rb><rt>ã</rt></ruby><ruby><rb>æ¥­</rb><rt>ããã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ããªã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã ããã§ããã",
+      "zhs": "<span class=\"verse-number\">27ã</span>ä½å¨ä½ åéç<u>å©æª</u>äººï¼ä½ ä¸å¯ä¸¢å¼ä»ï¼å ä¸ºä»å¨ä½ ä»¬ä¸­é´æ åæ ä¸ã",
+      "zht": "<span class=\"verse-number\">27ã</span>ä½å¨ä½ åè£¡ç<u>å©æª</u>äººï¼ä½ ä¸å¯ä¸æ£ä»ï¼å çºä»å¨ä½ åä¸­éç¡åç¡æ¥­ã",
+      "spa": "<span class=\"verse-number\">27 </span>Y no desampararÃ¡s al levita que <span class=\"clarity-word\">habite</span> en tus poblaciones; porque no tiene parte ni heredad contigo.",
+      "por": "<span class=\"verse-number\">27</span> PorÃ©m nÃ£o desampararÃ¡s o levita que <span class=\"clarity-word\">estÃ¡</span> dentro das tuas portas; pois nÃ£o tem parte nem heranÃ§a contigo.",
+      "fra": "<span class=\"verse-number\">27</span> Tu ne dÃ©laisseras pas le LÃ©vite qui sera dans tes portes car il nâa ni part ni hÃ©ritage avec toi.",
+      "deu": "<span class=\"verse-number\">27Â </span>Dabei vergiss aber auch die Leviten nicht, die in deinen Wohnorten leben; denn sie haben keinen eigenen Landbesitz und kein Erbteil gleich dir.",
+      "kor": "<span class=\"verse-number\">27</span> ë¤ ì±ìì ê±°ì£¼íë ë ìì¸ì ëí¬ ì¤ì ë¶ê¹ì´ë ê¸°ìì´ ìë ìì´ë ëí ì ë²ë¦¬ì§ ë§ì§ëë¼",
+      "ita": "<span class=\"verse-number\">27</span> E il Levita che abita entro le tue porte, non lo abbandonerai, poichÃ© non ha parte nÃ© ereditÃ  con te."
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span><span class=\"para-mark\">Â¶ </span>At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay <span class=\"clarity-word\">it</span> up within thy gates:",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙÙÙÙ ÙÙÙÙØ§ÙÙØ©Ù ÙÙÙÙÙ Ø«ÙÙØ§Ø«Ù Ø³ÙÙÙÙÙÙØ Ø£ÙØ®ÙØ±ÙØ¬ÙÙØ§ Ø¹ÙØ´ÙÙØ±Ù ÙÙØ­ÙØµÙÙÙÙ Ø§ÙØ³ÙÙÙÙØ©Ù Ø§ÙØ«ÙÙØ§ÙÙØ«ÙØ©Ù ÙÙØ§Ø®ÙØ²ÙÙÙÙÙÙØ§ ÙÙÙ ÙÙØ¯ÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">28</span> ä¸<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby>ã®<ruby><rb>çµ</rb><rt>ãã</rt></ruby>ããã¨ã«ããã®<ruby><rb>å¹´</rb><rt>ã¨ã</rt></ruby>ã®<ruby><rb>ç£ç©</rb><rt>ããã¶ã¤</rt></ruby>ã®å<ruby><rb>å</rb><rt>ã¶ã</rt></ruby>ã®ä¸ãããã¨ãã¨ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦ã<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã®<ruby><rb>å</rb><rt>ãã¡</rt></ruby>ã«ããããã",
+      "zhs": "<span class=\"verse-number\">28ã</span>æ¯é¢ä¸å¹´çæ«ä¸å¹´ï¼ä½ è¦å°æ¬å¹´çåäº§ååä¹ä¸é½ååºæ¥ï¼ç§¯å­å¨ä½ çåä¸­ã",
+      "zht": "<span class=\"verse-number\">28ã</span>æ¯é¢ä¸å¹´çæ«ä¸å¹´ï¼ä½ è¦å°æ¬å¹´çåç¢ååä¹ä¸é½ååºä¾ï¼ç©å­å¨ä½ çåä¸­ã",
+      "spa": "<span class=\"verse-number\">28 </span>Al cabo de cada tres aÃ±os sacarÃ¡s todo el diezmo de tus productos de aquel aÃ±o y lo guardarÃ¡s en tus ciudades.",
+      "por": "<span class=\"verse-number\">28</span> Ao fim de trÃªs anos tirarÃ¡s todos os dÃ­zimos da tua colheita no mesmo ano, e os armazenarÃ¡s dentro das tuas portas;",
+      "fra": "<span class=\"verse-number\">28</span> Au bout de trois ans, tu sortiras toute la dÃ®me de tes produits pendant la troisiÃ¨me annÃ©e et tu la dÃ©poseras dans tes portes.",
+      "deu": "<span class=\"verse-number\">28Â </span>Nach Verlauf von je drei Jahren sollst du den gesamten Zehnten deines Ertrags von jenem Jahr fÃ¼r sich gesondert nehmen und ihn in deinen Wohnorten niederlegen;",
+      "kor": "<span class=\"verse-number\">28</span> ë§¤ ì¼ ë ëì ê·¸ í´ ìì°ì ì­ë¶ì ì¼ì ë¤ ë´ì´ ë¤ ì±ìì ì ì¶íì¬",
+      "ita": "<span class=\"verse-number\">28</span> Alla fine di ogni triennio, metterai da parte tutte le decime delle tue entrate del terzo anno, e le riporrai entro le tue porte;"
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which <span class=\"clarity-word\">are</span> within thy gates, shall come, and shall eat and be satisfied; that the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> thy God may bless thee in all the work of thine hand which thou doest.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙÙÙÙÙØ¨ÙÙÙ Ø§ÙÙÙØ§ÙÙÙÙÙÙÙÙ Ø§ÙÙÙØ°ÙÙÙÙ ÙÙÙÙ ÙÙØ±ÙØ«ÙÙØ§ ÙÙÙÙÙØ§Ù Ø£ÙÙÙ ÙÙØµÙÙØ¨Ø§Ù ÙÙØ¹ÙÙÙÙÙØ ÙÙØ§ÙÙØºÙØ±ÙÙØ¨Ù ÙÙØ§ÙÙÙÙØªÙÙÙÙ ÙÙØ§ÙØ£ÙØ±ÙÙÙÙÙØ©ÙØ Ø§ÙÙÙÙÙÙÙÙÙÙÙÙ ÙÙÙ ÙÙØ¯ÙÙÙÙÙÙÙ ÙÙÙÙØ£ÙÙÙÙÙÙÙÙ ÙÙÙÙØ´ÙØ¨ÙØ¹ÙÙÙÙ ÙÙÙÙØ¨ÙØ§Ø±ÙÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙÙÙÙÙ ÙÙÙ ÙÙÙÙÙ ÙÙØ§ ØªÙÙÙØªÙØ¬ÙÙÙ Ø£ÙÙÙØ¯ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">29</span> ããªãããã®ãã¡ã«<ruby><rb>å</rb><rt>ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ããªãã<ruby><rb>å£</rb><rt>ã</rt></ruby><ruby><rb>æ¥­</rb><rt>ããã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ããªãã¬ãã³ã¨ãããã³<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã®<ruby><rb>å</rb><rt>ãã¡</rt></ruby>ã«ãã<ruby><rb>å¯ç</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>ä»å½</rb><rt>ããã</rt></ruby><ruby><rb>äºº</rb><rt>ãã</rt></ruby>ã¨ã<ruby><rb>å­¤å</rb><rt>ãã</rt></ruby>ã¨ã<ruby><rb>å¯¡å©¦</rb><rt>ããµ</rt></ruby>ã<ruby><rb>å¼</rb><rt>ã</rt></ruby>ãã§ãããã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ããã<ruby><rb>æºè¶³</rb><rt>ã¾ããã</rt></ruby>ãããªããã°ãªããªããããããã°ãããªãã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ããªãã<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã§<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ããã¹ã¦ã®<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã«ããªãã<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ãããã§ãããã",
+      "zhs": "<span class=\"verse-number\">29ã</span>å¨ä½ åéæ åæ ä¸ç<u>å©æª</u>äººï¼åä½ åéå¯å±çï¼å¹¶å­¤å¿å¯¡å¦ï¼é½å¯ä»¥æ¥ï¼åå¾é¥±è¶³ãè¿æ ·ï¼è¶ååä½ çç¥å¿å¨ä½ æéæåçä¸åäºä¸èµç¦ä¸ä½ ã",
+      "zht": "<span class=\"verse-number\">29ã</span>å¨ä½ åè£¡ç¡åç¡æ¥­ç<u>å©æª</u>äººï¼åä½ åè£¡å¯å±çï¼ä¸¦å­¤åå¯¡å©¦ï¼é½å¯ä»¥ä¾ï¼åå¾é£½è¶³ãéæ¨£ï¼è¶åè¯ä½ çç¥å¿å¨ä½ æè£¡æè¾¦çä¸åäºä¸è³ç¦èä½ ã",
+      "spa": "<span class=\"verse-number\">29 </span>Y vendrÃ¡ el levita, que no tiene parte ni heredad contigo, y el extranjero, y el huÃ©rfano y la viuda que haya en tus poblaciones, y comerÃ¡n y serÃ¡n saciados, para que JehovÃ¡ tu Dios te bendiga en toda obra que tus manos hagan.",
+      "por": "<span class=\"verse-number\">29</span> EntÃ£o virÃ¡ o levita (pois nem parte nem heranÃ§a tem contigo), e o estrangeiro, e o Ã³rfÃ£o, e a viÃºva, que <span class=\"clarity-word\">estÃ£o</span> dentro das tuas portas, e comerÃ£o, e fartar-se-Ã£o; para que o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> teu Deus te abenÃ§oe em toda a obra das tuas mÃ£os que fizeres.",
+      "fra": "<span class=\"verse-number\">29</span> Alors viendront le LÃ©vite qui nâa ni part ni hÃ©ritage avec toi, lâÃ©tranger, lâorphelin et la veuve qui seront dans tes portes et ils mangeront et se rassasieront, afin que lâÃternel, ton Dieu, te bÃ©nisse dans tous les travaux que tu entreprendras de tes mains.",
+      "deu": "<span class=\"verse-number\">29Â </span>dann sollen die Leviten, die ja keinen eigenen Landbesitz und kein Erbteil gleich dir haben, sowie die Fremdlinge, die Witwen und die Waisen, die in deinen Wohnorten leben, herbeikommen und sich satt essen, damit der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span>, dein Gott, dich segne bei aller Arbeit deiner HÃ¤nde, bei allem, was du unternimmst.â",
+      "kor": "<span class=\"verse-number\">29</span> ëí¬ ì¤ì ë¶ê¹ì´ë ê¸°ìì´ ìë ë ìì¸ê³¼ ë¤ ì±ì¤ì ê±°ë¥íë ê°ê³¼ ë° ê³ ìì ê³¼ë¶ë¤ì´ ìì ë¨¹ê³  ë°°ë¶ë¥´ê² íë¼ ê·¸ë¦¬íë©´ ë¤ íëë ì¬í¸ìê»ì ë¤ ìì¼ë¡ íë ë²ì¬ì ë¤ê² ë³µì ì£¼ìë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">29</span> e il Levita, che non ha parte nÃ© ereditÃ  con te, e lo straniero e lâorfano e la vedova che saranno entro le tue porte verranno, mangeranno e si sazieranno, affinchÃ© lâEterno, il tuo Dio, ti benedica in ogni opera a cui porrai mano."
+    }
+  }
+}

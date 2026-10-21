@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "volume": "bom",
+    "book": "2-ne",
+    "chapter": 16,
+    "headings": {
+      "eng": "Isaiah sees the LordâIsaiahâs sins are forgivenâHe is called to prophesyâHe prophesies of the rejection by the Jews of Christâs teachingsâA remnant will returnâCompare Isaiah 6. About 559â545Â <small>B.C.</small>",
+      "ara": "ÙØ±Ù Ø¥Ø´Ø¹ÙØ§Ø¡ Ø§ÙØ±Ø¨âØºÙØ±Ø§Ù Ø®Ø·Ø§ÙØ§ Ø¥Ø´Ø¹ÙØ§Ø¡âØ¯Ø¹ÙØªÙ ÙÙÙØ¨ÙØ©âÙØªÙØ¨Ø£ Ø¨Ø±ÙØ¶ Ø§ÙÙÙÙØ¯ ÙØªØ¹Ø§ÙÙÙ Ø§ÙÙØ³ÙØ­âØ±Ø¬ÙØ¹ Ø¨ÙÙØ© ÙÙ Ø§ÙÙÙÙØ¯âØ±Ø§Ø¬Ø¹ Ø¥Ø´Ø¹ÙØ§Ø¡ Ù¦. (ÙÙ Ù¥Ù¥Ù© Ø¥ÙÙ Ù¥Ù¤Ù¥Â Ù.Ù. ØªÙØ±ÙØ¨ÙØ§)",
+      "jpn": "イザヤ、<ruby><rb>主</rb><rt>しゅ</rt></ruby>を<ruby><rb>目</rb><rt>め</rt></ruby>にする。イザヤの<ruby><rb>罪</rb><rt>つみ</rt></ruby>は<ruby><rb>赦</rb><rt>ゆる</rt></ruby>される。イザヤ、<ruby><rb>預</rb><rt>よ</rt></ruby><ruby><rb>言</rb><rt>げん</rt></ruby>するように<ruby><rb>召</rb><rt>め</rt></ruby>され、ユダヤ<ruby><rb>人</rb><rt>じん</rt></ruby>がキリストの<ruby><rb>教</rb><rt>おし</rt></ruby>えを<ruby><rb>拒</rb><rt>こば</rt></ruby>むことを<ruby><rb>預</rb><rt>よ</rt></ruby><ruby><rb>言</rb><rt>げん</rt></ruby>する。<ruby><rb>残</rb><rt>のこ</rt></ruby>りの<ruby><rb>者</rb><rt>もの</rt></ruby>が<ruby><rb>帰</rb><rt>かえ</rt></ruby>って<ruby><rb>来</rb><rt>く</rt></ruby>る。<a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/6?lang=jpn\">イザヤ<ruby><rb>書</rb><rt>しょ</rt></ruby><ruby><rb>第</rb><rt>だい</rt></ruby>六<ruby><rb>章</rb><rt>しょう</rt></ruby></a>と<ruby><rb>比</rb><rt>ひ</rt></ruby><ruby><rb>較</rb><rt>かく</rt></ruby>。<ruby><rb>紀</rb><rt>き</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>前</rb><rt>ぜん</rt></ruby><ruby><rb>約</rb><rt>やく</rt></ruby>五百五十九<ruby><rb>年</rb><rt>ねん</rt></ruby>から五百四十五<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>至</rb><rt>いた</rt></ruby>る。",
+      "zhs": "<u>以賽亞</u>看見主——<u>以賽亞</u>的罪蒙得赦免——他蒙召喚預言——他預言<u>猶太</u>人拒絕基督的教訓——剩下的人會回來——比照<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/ot/isa/6.html\">《以賽亞書》第6章</span>。約主前559年至545年。",
+      "zht": "<u>ä»¥è³½äº</u>çè¦ä¸»ââ<u>ä»¥è³½äº</u>çç½ªèå¾èµ¦åââä»èå¬åé è¨ââä»é è¨<u>ç¶å¤ª</u>äººæçµåºç£çæè¨ââå©ä¸çäººæåä¾ââæ¯ç§<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/ot/isa/6.html\">ãä»¥è³½äºæ¸ãç¬¬6ç« </span>ãç´ä¸»å559å¹´è³545å¹´ã",
+      "spa": "Isaías ve al Señor — Son perdonados los pecados de Isaías — Él es llamado a profetizar — Profetiza que los judíos rechazarán las enseñanzas de Cristo — Un resto volverá — Compárese con <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/6?lang=spa\">Isaías 6</a>. Aproximadamente 559–545 a.C.",
+      "por": "IsaÃ­as vÃª o SenhorÂ â Os pecados de IsaÃ­as sÃ£o perdoadosÂ â Ele Ã© chamado para profetizarÂ â Profetiza a rejeiÃ§Ã£o dos ensinamentos de Cristo pelos judeusÂ â Um remanescente retornarÃ¡Â â Comparar com IsaÃ­as 6. Aproximadamente 559â545Â a.C.",
+      "fra": "ÃsaÃ¯e voit le SeigneurÂ â Ses pÃ©chÃ©s lui sont pardonnÃ©sÂ â Il est appelÃ© Ã  prophÃ©tiserÂ â Il prophÃ©tise que les Juifs rejetteront les enseignements du ChristÂ â Un reste retourneraÂ â Comparez avec ÃsaÃ¯e 6. Vers 559â545Â av.Â J.-C.",
+      "deu": "Jesaja sieht den HerrnÂ â Jesajas SÃ¼nden sind vergebenÂ â Er wird berufen zu prophezeienÂ â Er prophezeit, dass die Juden die Lehren Christi verwerfen werdenÂ â Ein Ãberrest wird zurÃ¼ckkehrenÂ â Vergleiche Jesaja 6. Um 559â545Â v.Â Chr.",
+      "kor": "ì´ì¬ì¼ê° ì£¼ë¥¼ ë´âì´ì¬ì¼ì ì£ê° ì¬íì¬ì§âê·¸ê° ìì¸íëë¡ ë¶ë¦ ë°ìâê·¸ê° ê·¸ë¦¬ì¤ëì ê°ë¥´ì¹¨ì´ ì ëì¸ë¤ì ìí´ ê±°ë¶ë¨ì ìì¸í¨âë¨ì ìë¤ì´ ëìì¬ ê²ìâì´ì¬ì¼ 6ì¥ê³¼ ë¹êµíë¼. ì£¼ì  559~545ëê²½.",
+      "ita": "Isaia vede il SignoreÂ â I peccati di Isaia sono perdonatiÂ â Egli Ã¨ chiamato a profetizzareÂ â Egli profetizza il rifiuto degli insegnamenti di Cristo da parte dei GiudeiÂ â Un residuo tornerÃ Â â Confrontare con Isaia 6. Circa 559â545Â a.C."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>In the year that king Uzziah died, I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙ Ø³ÙÙÙØ©Ù ÙÙÙØ§Ø©Ù Ø¹ÙØ²ÙÙÙÙØ§ Ø§ÙÙÙÙÙÙÙÙØ Ø±ÙØ£ÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¬Ø§ÙÙØ³ÙØ§ Ø¹ÙÙÙ Ø¹ÙØ±ÙØ´Ù Ø¹Ø§ÙÙ ÙÙÙÙØ±ÙØªÙÙÙØ¹Ù ÙÙØ£ÙØ·ÙØ±Ø§ÙÙ Ø«ÙÙÙØ¨ÙÙÙ ØªÙÙÙÙÙØ£Ù Ø§ÙÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "「ウジヤ<ruby>王<rt>おう</rt></ruby>が<ruby>死<rt>し</rt></ruby>んだ<ruby>年<rt>とし</rt></ruby>に、わたしは<ruby>高<rt>たか</rt></ruby>く<ruby>上<rt>あ</rt></ruby>げられた<ruby>御<rt>み</rt></ruby><ruby>座<rt>ざ</rt></ruby>に<ruby>主<rt>しゅ</rt></ruby>が<ruby>座<rt>ざ</rt></ruby>しておられるのを<ruby>見<rt>み</rt></ruby>た。<ruby>主<rt>しゅ</rt></ruby>の<ruby>衣<rt>ころも</rt></ruby>のすそは<ruby>神<rt>しん</rt></ruby><ruby>殿<rt>でん</rt></ruby>に<ruby>満<rt>み</rt></ruby>ちていた。",
+      "zhs": "乌西雅王驾崩的那年，我见主坐在高高的宝座上，祂的衣裳遮满圣殿。",
+      "zht": "<span class=\"verse-number\">1ã</span><u>çè¥¿é</u>çé§å´©çé£å¹´ï¼æè¦ä¸»åå¨é«é«çå¯¶åº§ä¸ï¼ç¥çè¡£è£³é®æ»¿èæ®¿ã",
+      "spa": "En el año en que murió el rey Uzías, vi también al Señor sentado sobre un trono alto y enaltecido, y las faldas de su ropa llenaban el templo.",
+      "por": "<span class=\"verse-number\">1 </span>No ano em que morreu o rei Uzias, eu vi tambÃ©m o Senhor assentado sobre um alto e sublime trono; e a cauda do seu manto enchia o templo.",
+      "fra": "<span class=\"verse-number\">1Â </span>LâannÃ©e de la mort du roi Ozias, je vis le Seigneur assis sur un trÃ´ne trÃ¨s Ã©levÃ©, et les pans de sa robe remplissaient le temple.",
+      "deu": "<span class=\"verse-number\">1Â </span>In dem Jahr, als KÃ¶nig Usija starb, sah ich auch den Herrn sitzen auf einem Thron, hoch und erhaben, und seine Schleppe fÃ¼llte den Tempel.",
+      "kor": "<span class=\"verse-number\">1 </span>ììì¼ ìì´ ì£½ë í´ì ë´ê° ëí ì£¼ê»ì ëê³  ë¤ë¦° ë³´ì¢ ìì ìì¼ì  ê²ì ë³´ìëë°, ê·¸ì ì·ìë½ì´ ì±ì ì ê°ëíëë¼.",
+      "ita": "<span class=\"verse-number\">1 </span>Nellâanno in cui morÃ¬ re Uzzia, vidi pure il Signore assiso su un trono, alto e elevato, e il suo strascico riempiva il tempio."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>Above it stood the seraphim; each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙØ§ÙÙØªÙ Ø§ÙØ³ÙÙØ±Ø§ÙÙÙÙ ÙØ§ÙÙÙÙØ©Ù ÙÙÙÙÙÙÙÙØ ÙÙÙÙÙÙÙ ÙØ§Ø­ÙØ¯Ù ÙÙÙÙÙØ§ Ø³ÙØªÙÙØ©Ù Ø£ÙØ¬ÙÙÙØ­ÙØ©ÙØ Ø¨ÙØ§Ø«ÙÙÙÙÙÙÙ ÙÙØºÙØ·ÙÙ ÙÙØ¬ÙÙÙÙÙØ ÙÙØ¨ÙØ§Ø«ÙÙÙÙÙÙÙ ÙÙØºÙØ·ÙÙ Ø±ÙØ¬ÙÙÙÙÙÙÙØ ÙÙØ¨ÙØ§Ø«ÙÙÙÙÙÙÙ ÙÙØ·ÙØ±Ù.",
+      "jpn": "その<ruby>上<rt>じょう</rt></ruby><ruby>方<rt>ほう</rt></ruby>にセラピムがいて、それぞれ六つの<ruby>翼<rt>つばさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っており、二つの<ruby>翼<rt>つばさ</rt></ruby>で<ruby>顔<rt>かお</rt></ruby>を<ruby>覆<rt>おお</rt></ruby>い、二つの<ruby>翼<rt>つばさ</rt></ruby>で<ruby>両<rt>りょう</rt></ruby><ruby>足<rt>あし</rt></ruby>を<ruby>覆<rt>おお</rt></ruby>い、二つの<ruby>翼<rt>つばさ</rt></ruby>で<ruby>飛<rt>と</rt></ruby>んでいた。",
+      "zhs": "其上有撒拉弗侍立；各有六个翅膀；用两个翅膀遮脸，两个翅膀遮脚，两个翅膀飞翔。",
+      "zht": "<span class=\"verse-number\">2ã</span>å¶ä¸æææå¼ä¾ç«ï¼åæå­åç¿èï¼ç¨å©åç¿èé®èï¼å©åç¿èé®è³ï¼å©åç¿èé£ç¿ã",
+      "spa": "Encima del trono estaban los serafines; cada uno de ellos tenía seis alas; con dos se cubrían el rostro, con dos los pies, y con dos volaban.",
+      "por": "<span class=\"verse-number\">2 </span>Os serafins estavam acima do trono; cada um tinha seis asas; com duas cobriam o rosto, com duas cobriam os pÃ©s e com duas voavam.",
+      "fra": "<span class=\"verse-number\">2Â </span>Des sÃ©raphins se tenaient au-dessus de luiÂ ; ils avaient chacun six ailesÂ : deux dont ils se couvraient la face, deux dont ils se couvraient les pieds, et deux dont ils se servaient pour voler.",
+      "deu": "<span class=\"verse-number\">2Â </span>DarÃ¼ber standen die Serafim, ein jeder hatte sechs FlÃ¼gel; mit zweien bedeckte er sich das Angesicht, und mit zweien bedeckte er sich die FÃ¼Ãe, und mit zweien flog er.",
+      "kor": "<span class=\"verse-number\">2 </span>ê·¸ ìë¡ë ì¤ëë¤ì´ ì°ëë° ê°ê¸° ì¬ì¯ ë ê°ê° ìì´, ëë¡ë ê·¸ ì¼êµ´ì ê°ë¦¬ìê³ , ëë¡ë ê·¸ ë°ì ê°ë¦¬ìê³ , ëë¡ë ë ëë¼.",
+      "ita": "<span class=\"verse-number\">2 </span>Sopra dâesso stavano i serafini; ognuno aveva sei ali; con due si copriva la faccia, con due si copriva i piedi e con due volava."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>And one cried unto another, and said: Holy, holy, holy, is the Lord of Hosts; the whole earth is full of his glory.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙÙ°Ø°Ø§ ÙØ§Ø¯Ù Ø°Ø§ÙÙ: ÙÙØ¯ÙÙØ³Ù ÙÙØ¯ÙÙØ³Ù ÙÙØ¯ÙÙØ³Ù Ø±ÙØ¨ÙÙ Ø§ÙÙØ¬ÙÙÙØ¯ÙØ ÙÙØ¬ÙØ¯ÙÙÙ ÙÙÙÙÙÙØ£Ù ÙÙÙÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù.",
+      "jpn": "そして、<ruby>一人<rt>ひとり</rt></ruby>が<ruby>別<rt>べつ</rt></ruby>の<ruby>一人<rt>ひとり</rt></ruby>に<ruby>叫<rt>さけ</rt></ruby>んで<ruby>言<rt>い</rt></ruby>った。『<ruby>聖<rt>せい</rt></ruby>なるかな、<ruby>聖<rt>せい</rt></ruby>なるかな、<ruby>聖<rt>せい</rt></ruby>なるかな、<ruby>万<rt>ばん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>の<ruby>主<rt>しゅ</rt></ruby>。<ruby>全<rt>ぜん</rt></ruby><ruby>地<rt>ち</rt></ruby>は<ruby>万<rt>ばん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>の<ruby>主<rt>しゅ</rt></ruby>の<ruby>栄<rt>えい</rt></ruby><ruby>光<rt>こう</rt></ruby>に<ruby>満<rt>み</rt></ruby>ちる。』",
+      "zhs": "彼此呼喊说：圣哉，圣哉，圣哉，万军之主；祂的荣光充满全地。",
+      "zht": "<span class=\"verse-number\">3ã</span>å½¼æ­¤å¼åèªªï¼èåï¼èåï¼èåï¼è¬è»ä¹ä¸»ï¼ç¥çæ¦®ååæ»¿å¨å°ã",
+      "spa": "Y el uno exclamaba al otro, diciendo: ¡Santo, santo, santo es el Señor de los Ejércitos; toda la tierra está llena de su gloria!",
+      "por": "<span class=\"verse-number\">3 </span>E clamavam uns aos outros, dizendo: Santo, santo, santo Ã© o Senhor dos ExÃ©rcitos; toda a Terra estÃ¡ cheia da sua glÃ³ria.",
+      "fra": "<span class=\"verse-number\">3Â </span>Ils criaient lâun Ã  lâautre, et disaientÂ : Saint, saint, saint est le Seigneur des armÃ©esÂ ! Toute la terre est pleine de sa gloireÂ !",
+      "deu": "<span class=\"verse-number\">3Â </span>Und einer rief einem anderen zu und sprach: Heilig, heilig, heilig ist der Herr der Heerscharen; die ganze Erde ist voll von seiner Herrlichkeit.",
+      "kor": "<span class=\"verse-number\">3 </span>ë ìë¡ ìë¦¬ì³ ì´ë¥´ë, ê±°ë£©íë¤, ê±°ë£©íë¤, ê±°ë£©íë¤, ë§êµ°ì ì£¼ì¬, ì¨ ëì´ ê·¸ ìê´ì¼ë¡ ì¶©ë§íëë¤ íëë¼.",
+      "ita": "<span class=\"verse-number\">3 </span>E uno gridÃ² a un altro, e disse: Santo, santo, santo Ã¨ il Signore degli eserciti; la terra intera Ã¨ piena della sua gloria."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>And the posts of the door moved at the voice of him that cried, and the house was filled with smoke.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ§ÙÙØªÙØ²ÙÙØªÙ Ø£ÙØ³Ø§Ø³Ø§ØªÙ Ø§ÙÙØ£ÙØ¨ÙÙØ§Ø¨Ù ÙÙÙÙ ØµÙÙÙØªÙ Ø§ÙØµÙØ§Ø±ÙØ®Ù ÙÙØ§ÙÙØªÙÙÙØ£Ù Ø§ÙÙØ¨ÙÙÙØªÙ Ø¨ÙØ§ÙØ¯ÙÙØ®Ø§ÙÙ.",
+      "jpn": "そのように<ruby>叫<rt>さけ</rt></ruby>んだ<ruby>者<rt>もの</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>で<ruby>入<rt>い</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>の<ruby>柱<rt>はしら</rt></ruby>が<ruby>揺<rt>ゆ</rt></ruby>れ<ruby>動<rt>うご</rt></ruby>き、<ruby>宮<rt>みや</rt></ruby>には<ruby>煙<rt>けむり</rt></ruby>が<ruby>満<rt>み</rt></ruby>ちた。",
+      "zhs": "门柱因呼喊者的声音震动，屋内充满了烟云。",
+      "zht": "<span class=\"verse-number\">4ã</span>éæ±å å¼åèçè²é³éåï¼å±å§åæ»¿äºçé²ã",
+      "spa": "Y a la voz del que clamaba, se estremecieron los quiciales de las puertas, y la casa se llenó de humo.",
+      "por": "<span class=\"verse-number\">4 </span>E os umbrais da porta moveram-se com a voz daquele que clamava, e a casa encheu-se de fumaÃ§a.",
+      "fra": "<span class=\"verse-number\">4Â </span>Les portes furent Ã©branlÃ©es dans leurs fondements par la voix qui retentissait, et la maison se remplit de fumÃ©e.",
+      "deu": "<span class=\"verse-number\">4Â </span>Und die TÃ¼rpfosten erbebten von der Stimme des Rufers, und das Haus war mit Qualm gefÃ¼llt.",
+      "kor": "<span class=\"verse-number\">4 </span>ì´ì ìë¦¬ì¹ë ìì ìì±ì ë¬¸ê¸°ë¥ì´ ìì§ì´ë©°, ì§ì ì°ê¸°ê° ì¶©ë§íì§ë¼.",
+      "ita": "<span class=\"verse-number\">4 </span>E gli stipiti della porta tremarono alla voce di colui che gridava, e la casa fu piena di fumo."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>Then said I: Wo is unto me! for I am undone; because I am a man of unclean lips; and I dwell in the midst of a people of unclean lips; for mine eyes have seen the King, the Lord of Hosts.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙÙÙØªÙ: ÙÙÙÙÙÙ ÙÙ! ÙÙØ£ÙÙÙÙÙÙ ÙÙÙÙÙÙØªÙØ ÙÙØ£ÙÙÙÙ Ø¥ÙÙÙØ³Ø§ÙÙ ÙÙØ¬ÙØ³Ù Ø§ÙØ´ÙÙÙÙØªÙÙÙÙÙØ ÙÙØ£ÙÙØ§ Ø³Ø§ÙÙÙÙ ÙÙØ³ÙØ·Ù Ø´ÙØ¹ÙØ¨Ù ÙÙØ¬ÙØ³Ù Ø§ÙØ´ÙÙÙØ§ÙÙØ ÙÙØ£ÙÙÙÙ Ø¹ÙÙÙÙÙÙÙÙ ÙÙØ¯Ù Ø±ÙØ£ÙØªØ§ Ø§ÙÙÙÙÙÙÙÙ Ø±ÙØ¨ÙÙ Ø§ÙÙØ¬ÙÙÙØ¯Ù.",
+      "jpn": "それでわたしは<ruby>言<rt>い</rt></ruby>った。『わたしは<ruby>災<rt>わざわ</rt></ruby>いだ。わたしは<ruby>滅<rt>ほろ</rt></ruby>ぼされる。わたしは<ruby>唇<rt>くちびる</rt></ruby>の<ruby>清<rt>きよ</rt></ruby>くない<ruby>者<rt>もの</rt></ruby>で、<ruby>唇<rt>くちびる</rt></ruby>の<ruby>清<rt>きよ</rt></ruby>くない<ruby>人<rt>ひと</rt></ruby><ruby>々<rt>びと</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる。ところが、わたしの<ruby>目<rt>め</rt></ruby>は<ruby>万<rt>ばん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>の<ruby>主<rt>しゅ</rt></ruby>なる<ruby>王<rt>おう</rt></ruby>を<ruby>見<rt>み</rt></ruby>たからである。』",
+      "zhs": "那时我说：我有祸了，我完了；因为我是嘴唇不洁的人，又住在嘴唇不洁的民中；我眼见君王，万军之主。",
+      "zht": "<span class=\"verse-number\">5ã</span>é£ææèªªï¼ææç¦äºï¼æå®äºï¼å çºææ¯å´åä¸æ½çäººï¼åä½å¨å´åä¸æ½çæ°ä¸­ï¼æç¼è¦åçï¼è¬è»ä¹ä¸»ã",
+      "spa": "Entonces dije yo: ¡Ay de mí!, pues soy perdido; porque soy hombre de labios inmundos, y habito entre un pueblo de labios inmundos; por cuanto mis ojos han visto al Rey, el Señor de los Ejércitos.",
+      "por": "<span class=\"verse-number\">5 </span>EntÃ£o disse eu: Ai de mim, pois estou perdido! Porque sou um homem de lÃ¡bios impuros e habito no meio de um povo de impuros lÃ¡bios; pois os meus olhos viram o Rei, o Senhor dos ExÃ©rcitos.",
+      "fra": "<span class=\"verse-number\">5Â </span>Alors je disÂ : Malheur Ã  moiÂ ! je suis perdu, car je suis un homme dont les lÃ¨vres sont impures, jâhabite au milieu dâun peuple dont les lÃ¨vres sont impures, et mes yeux ont vu le roi, le Seigneur des armÃ©es.",
+      "deu": "<span class=\"verse-number\">5Â </span>Da sprach ich: Weh Ã¼ber mich! Denn ich vergehe, bin ich doch ein Mensch mit unreinen Lippen; und ich wohne inmitten eines Volkes mit unreinen Lippen; denn meine Augen haben den KÃ¶nig gesehen, den Herrn der Heerscharen.",
+      "kor": "<span class=\"verse-number\">5 </span>ê·¸ëì ë´ê° ë§íë, ë´ê² í ìëë¤! ì´ë ë´ê° ë§íê² ëììì´ë¼. ì´ë ë´ê° ìì ì´ ë¶ì í ì¬ëì´ì, ëë ìì ì´ ë¶ì í ë°±ì± ê°ì´ë° ê±°í¨ì¼ë¡ ì¸í¨ì´ë, ì´ë ë´ ëì´ ë§êµ°ì ì£¼ì´ì  ìì ëµììì´ë¡ë¤.",
+      "ita": "<span class=\"verse-number\">5 </span>Allora dissi: Guai a me! Sono perduto; perchÃ© sono un uomo dalle labbra impure; e dimoro in mezzo a un popolo dalle labbra impure; poichÃ© i miei occhi hanno visto il Re, il Signore degli eserciti."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Then flew one of the seraphim unto me, having a live coal in his hand, which he had taken with the tongs from off the altar;",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ·Ø§Ø±Ù Ø¥ÙÙÙÙÙÙ Ø£ÙØ­ÙØ¯Ù Ø§ÙØ³ÙÙØ±Ø§ÙÙÙÙØ ÙÙØ¨ÙÙÙØ¯ÙÙÙ Ø¬ÙÙÙØ±ÙØ©Ù ÙØ§Ø±Ù ÙÙØ¯Ù Ø£ÙØ®ÙØ°ÙÙØ§ Ø¨ÙÙÙÙÙÙÙØ·Ù ÙÙÙÙ Ø§ÙÙÙÙØ°ÙØ¨ÙØ­ÙØ",
+      "jpn": "そのとき、セラピムの<ruby>一人<rt>ひとり</rt></ruby>が、<ruby>火<rt>ひ</rt></ruby>ばしで<ruby>祭<rt>さい</rt></ruby><ruby>壇<rt>だん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>から<ruby>取<rt>と</rt></ruby>った<ruby>燃<rt>も</rt></ruby>え<ruby>盛<rt>さか</rt></ruby>る<ruby>炭<rt>すみ</rt></ruby>を<ruby>手<rt>て</rt></ruby>に<ruby>携<rt>たずさ</rt></ruby>えて、わたしのところに<ruby>飛<rt>と</rt></ruby>んで<ruby>来<rt>き</rt></ruby>た。",
+      "zhs": "有一撒拉弗飞到我跟前，手里拿着红炭，是用火钳从坛上取下来的。",
+      "zht": "<span class=\"verse-number\">6ã</span>æä¸<u>ææå¼</u>é£å°æè·åï¼æè£¡æ¿èç´ç­ï¼æ¯ç¨ç«éå¾å£ä¸åä¸ä¾çã",
+      "spa": "Entonces voló hacia mí uno de los serafines con un carbón encendido en la mano, el cual había tomado del altar con las tenazas;",
+      "por": "<span class=\"verse-number\">6 </span>EntÃ£o um dos serafins voou para mim, trazendo na mÃ£o uma brasa viva que tirara do altar com uma tenaz;",
+      "fra": "<span class=\"verse-number\">6Â </span>Mais lâun des sÃ©raphins vola vers moi, tenant Ã  la main une pierre ardente, quâil avait prise sur lâautel avec des pincettes.",
+      "deu": "<span class=\"verse-number\">6Â </span>Dann flog einer der Serafim her zu mir, und in seiner Hand war eine glÃ¼hende Kohle, die er mit der Zange vom Altar genommen hatte;",
+      "kor": "<span class=\"verse-number\">6 </span>ê·¸ëì ê·¸ ì¤ëì íëê° ì§ê²ë¡ ì ë¨ìì ì·¨í ë°, í ì¯ íëë¥¼ ê·¸ ìì ê°ì§ê³  ë´ê²ë¡ ë ìì,",
+      "ita": "<span class=\"verse-number\">6 </span>Allora uno dei serafini volÃ² fino a me, con un carbone acceso in mano, che aveva preso colle pinze dallâaltare."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>And he laid it upon my mouth, and said: Lo, this has touched thy lips; and thine iniquity is taken away, and thy sin purged.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙÙÙØ³Ù Ø¨ÙÙØ§ ÙÙÙÙ ÙÙÙØ§ÙÙ: ÙØ§ ÙÙØ¯Ù ÙÙØ³ÙÙØªÙ ÙÙ°Ø°ÙÙÙ Ø§ÙÙØ¬ÙÙÙØ±ÙØ©Ù Ø´ÙÙÙØªÙÙÙÙÙØ ÙÙØ£ÙØ²ÙÙÙ Ø¹ÙÙÙÙÙ Ø¥ÙØ«ÙÙÙÙÙ ÙÙØºÙÙÙØ±ÙØªÙ Ø®ÙØ·ÙÙÙÙØªÙÙÙ.",
+      "jpn": "そして、<ruby>彼<rt>かれ</rt></ruby>はそれをわたしの<ruby>口<rt>くち</rt></ruby>に<ruby>当<rt>あ</rt></ruby>てて<ruby>言<rt>い</rt></ruby>った。『これがあなたの<ruby>唇<rt>くちびる</rt></ruby>に<ruby>触<rt>ふ</rt></ruby>れたので、あなたの<ruby>悪<rt>あく</rt></ruby>は<ruby>取<rt>と</rt></ruby>り<ruby>去<rt>さ</rt></ruby>られ、あなたの<ruby>罪<rt>つみ</rt></ruby>は<ruby>清<rt>きよ</rt></ruby>められた。』",
+      "zhs": "他将炭沾我的口，说：看啊，这炭沾了你的嘴唇，你的罪恶便除掉，你的罪便除尽了。",
+      "zht": "<span class=\"verse-number\">7ã</span>ä»å°ç­æ²¾æçå£ï¼èªªï¼çåï¼éç­æ²¾äºä½ çå´åï¼ä½ çç½ªæ¡ä¾¿é¤æï¼ä½ çç½ªä¾¿é¤ç¡äºã",
+      "spa": "y tocó con él sobre mi boca, y dijo: He aquí, esto ha tocado tus labios, y tu iniquidad es quitada, y borrado es tu pecado.",
+      "por": "<span class=\"verse-number\">7 </span>E com ela tocou-me a boca e disse: Eis que isto tocou os teus lÃ¡bios; e a tua iniquidade foi tirada e purgado o teu pecado.",
+      "fra": "<span class=\"verse-number\">7Â </span>Il en toucha ma bouche, et ditÂ : Ceci a touchÃ© tes lÃ¨vresÂ ; ton iniquitÃ© est enlevÃ©e, et ton pÃ©chÃ© est expiÃ©.",
+      "deu": "<span class=\"verse-number\">7Â </span>und er legte sie mir auf den Mund und sprach: Siehe, dies hat deine Lippen berÃ¼hrt; und dein Ãbeltun ist hinweggenommen und deine SÃ¼nde gesÃ¼hnt.",
+      "kor": "<span class=\"verse-number\">7 </span>ë ê·¸ê²ì ë´ ìì ëì¼ë©°, ì´ë¥´ë ë³´ë¼, ì´ê²ì´ ë¤ ìì ì ë¿ìì¼ë ë¤ ì£ìì´ ì íì¬ì¡ê³ , ë¤ ì£ê° ì¬íì¬ì¡ëëë¼ íëë¼.",
+      "ita": "<span class=\"verse-number\">7 </span>E lo pose sulla mia bocca e disse: Ecco, questo ha toccato le tue labbra; e la tua iniquitÃ  Ã¨ tolta e il tuo peccato purificato."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>Also I heard the voice of the Lord, saying: Whom shall I send, and who will go for us? Then I said: Here am I; send me.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø«ÙÙÙÙ Ø³ÙÙÙØ¹ÙØªÙ ØµÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙÙ: ÙÙÙÙ Ø£ÙØ±ÙØ³ÙÙÙØ ÙÙÙÙÙÙ ÙÙØ°ÙÙÙØ¨Ù ÙÙÙÙ Ø£ÙØ¬ÙÙÙÙØ§Ø ÙÙØ£ÙØ¬ÙØ¨ÙØªÙ: ÙØ§ Ø£ÙÙØ§Ø Ø£ÙØ±ÙØ³ÙÙÙÙÙ.",
+      "jpn": "また<ruby>主<rt>しゅ</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>があって、こう<ruby>言<rt>い</rt></ruby>われた。『だれを<ruby>遣<rt>つか</rt></ruby>わそうか。<ruby>我<rt>われ</rt></ruby><ruby>々<rt>われ</rt></ruby>のためにだれが<ruby>行<rt>い</rt></ruby>くだろうか。』それでわたしは<ruby>言<rt>い</rt></ruby>った。『わたしがここにいます。わたしをお<ruby>遣<rt>つか</rt></ruby>わしください。』",
+      "zhs": "我也听见主的声音说：我应差遣谁呢？谁肯为我们去呢？我说：我在这里，请差遣我。",
+      "zht": "<span class=\"verse-number\">8ã</span>æä¹è½è¦ä¸»çè²é³èªªï¼ææå·®é£èª°å¢ï¼èª°è¯çºæåå»å¢ï¼æèªªï¼æå¨éè£¡ï¼è«å·®é£æã",
+      "spa": "Y luego oí la voz del Señor decir: ¿A quién enviaré, y quién irá por nosotros? Entonces dije: Heme aquí, envíame a mí.",
+      "por": "<span class=\"verse-number\">8 </span>E tambÃ©m ouvi a voz do Senhor, que dizia: A quem enviarei e quem hÃ¡ de ir por nÃ³s? EntÃ£o disse eu: Eis-me aqui, envia-me a mim.",
+      "fra": "<span class=\"verse-number\">8Â </span>Jâentendis la voix du Seigneur, disantÂ : Qui enverrai-je, et qui marchera pour nousÂ ? Je rÃ©pondisÂ : Me voici, envoie-moi.",
+      "deu": "<span class=\"verse-number\">8Â </span>Auch hÃ¶rte ich des Herrn Stimme, nÃ¤mlich: Wen soll ich senden, und wer wird fÃ¼r uns gehen? Da sprach ich: Hier bin ich, sende mich.",
+      "kor": "<span class=\"verse-number\">8 </span>ëí ë´ê° ì£¼ì ìì±ì ë¤ìëë, ì´ë¥´ìë ë´ê° ëêµ¬ë¥¼ ë³´ë´ë©° ëê° ì°ë¦¬ë¥¼ ìíì¬ ê°ê¼¬, ê·¸ëì ë´ê° ì´ë¥´ë, ë´ê° ì¬ê¸° ìëì´ë¤. ëë¥¼ ë³´ë´ìì íìëë¼.",
+      "ita": "<span class=\"verse-number\">8 </span>Udii pure la voce del Signore che diceva: Chi manderÃ², e chi andrÃ  per noi? Allora io dissi: Eccomi; manda me."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>And he said: Go and tell this peopleâHear ye indeed, but they understood not; and see ye indeed, but they perceived not.",
+      "ara": "<span class=\"verse-number\">Ù© </span>Ø«ÙÙÙÙ ÙØ§ÙÙ: Ø§ÙØ°ÙÙÙØ¨Ù ÙÙÙÙÙÙ ÙÙÙÙ°Ø°Ø§ Ø§ÙØ´ÙÙØ¹ÙØ¨ÙâØ§ÙØ³ÙÙÙØ¹ÙØ§ Ø³ÙÙÙØ¹ÙØ§ ÙÙÙÙ°ÙÙÙÙÙÙÙÙÙ ÙÙÙÙ ÙÙÙÙÙÙÙÙØ§Ø ÙÙØ£ÙØ¨ÙØµÙØ±ÙØ§ Ø¥ÙØ¨ÙØµØ§Ø±ÙØ§ ÙÙÙÙ°ÙÙÙÙÙÙÙÙÙ ÙÙÙÙ ÙÙØ³ÙØªÙÙÙØ¹ÙØ¨ÙØ§.",
+      "jpn": "すると<ruby>主<rt>しゅ</rt></ruby>は<ruby>言<rt>い</rt></ruby>われた。『<ruby>行<rt>い</rt></ruby>ってこの<ruby>民<rt>たみ</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず<ruby>聞<rt>き</rt></ruby>けと<ruby>告<rt>つ</rt></ruby>げなさい。』しかし<ruby>彼<rt>かれ</rt></ruby>らは<ruby>理<rt>り</rt></ruby><ruby>解<rt>かい</rt></ruby>しなかった。『<ruby>必<rt>かなら</rt></ruby>ず<ruby>見<rt>み</rt></ruby>よと<ruby>告<rt>つ</rt></ruby>げなさい。』しかし<ruby>彼<rt>かれ</rt></ruby>らは<ruby>悟<rt>さと</rt></ruby>らなかった。",
+      "zhs": "祂说：你去告诉这人民说——你们听是要听见，但是他们却不明白；看是要看见，但是他们却不晓得。",
+      "zht": "<span class=\"verse-number\">9ã</span>ç¥èªªï¼ä½ å»åè¨´éäººæ°èªªââä½ åè½æ¯è¦è½è¦ï¼ä½æ¯ä»åå»ä¸æç½ï¼çæ¯è¦çè¦ï¼ä½æ¯ä»åå»ä¸æå¾ã",
+      "spa": "Y él dijo: Ve y di a este pueblo: Oíd bien, mas no entendieron; ved por cierto, mas no percibieron.",
+      "por": "<span class=\"verse-number\">9 </span>E disse ele: Vai e dize a este povoÂ â Ouvi bem, mas nÃ£o entenderam; e vede bem, mas nÃ£o perceberam.",
+      "fra": "<span class=\"verse-number\">9Â </span>Il dit alorsÂ : Va, et dis Ã  ce peupleÂ : Entendez, mais ils ne comprirent pointÂ ; voyez, mais ils ne saisirent point.",
+      "deu": "<span class=\"verse-number\">9Â </span>Und er sprach: Geh und sage diesem Volk: HÃ¶rt wirklich her, aber sie verstanden nicht; und seht wirklich her, aber sie nahmen nicht wahr.",
+      "kor": "<span class=\"verse-number\">9 </span>ì´ì ê·¸ê° ì´ë¥´ìë, ê°ì ì´ ë°±ì±ìê² ì´ë¥´ë¼âëí¬ê° ê³¼ì° ë£ê±°ëì ê·¸ë¤ì´ ê¹¨ë«ì§ ëª»íìì¼ë©°, ëí¬ê° ê³¼ì° ë³´ê±°ëì ê·¸ë¤ì´ ìì§ ëª»íìëëë¼ íëë¼.",
+      "ita": "<span class=\"verse-number\">9 </span>Ed egli disse: Va e diâ a questo popolo: Udite, in veritÃ , ma essi non compresero; e vedete, in veritÃ , ma essi non capirono."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>Make the heart of this people fat, and make their ears heavy, and shut their eyesâlest they see with their eyes, and hear with their ears, and understand with their heart, and be converted and be healed.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ØºÙÙÙÙØ¸Ù ÙÙÙÙØ¨Ù ÙÙ°Ø°Ø§ Ø§ÙØ´ÙÙØ¹ÙØ¨Ù ÙÙØ«ÙÙÙÙÙÙ Ø£ÙØ°ÙÙÙÙÙÙÙ ÙÙØ£ÙØºÙÙÙØ¶Ù Ø¹ÙÙÙÙÙÙÙÙÙØ ÙÙØ¦ÙÙÙØ§ ÙÙØ¨ÙØµÙØ±Ù Ø¨ÙØ¹ÙÙÙÙÙÙÙÙÙ ÙÙÙÙØ³ÙÙÙØ¹Ù Ø¨ÙØ£ÙØ°ÙÙÙÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙ Ø¨ÙÙÙÙÙØ¨ÙÙÙØ ÙÙÙÙØ±ÙØ¬ÙØ¹Ù ÙÙÙÙØ´ÙÙÙ.",
+      "jpn": "また<ruby>主<rt>しゅ</rt></ruby>は<ruby>言<rt>い</rt></ruby>われた。『この<ruby>民<rt>たみ</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>を<ruby>鈍<rt>にぶ</rt></ruby>くし、<ruby>彼<rt>かれ</rt></ruby>らの<ruby>耳<rt>みみ</rt></ruby>を<ruby>重<rt>おも</rt></ruby>くし、<ruby>彼<rt>かれ</rt></ruby>らの<ruby>目<rt>め</rt></ruby>を<ruby>閉<rt>と</rt></ruby>ざしなさい。<ruby>彼<rt>かれ</rt></ruby>らが<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>耳<rt>みみ</rt></ruby>で<ruby>聞<rt>き</rt></ruby>き、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>で<ruby>理<rt>り</rt></ruby><ruby>解<rt>かい</rt></ruby>し、<ruby>心<rt>こころ</rt></ruby>を<ruby>改<rt>あらた</rt></ruby>めて、<ruby>癒<rt>いや</rt></ruby>されることがないためである。』",
+      "zhs": "要使这人民心蒙脂油，耳朵发沉，眼睛闭起——恐怕眼睛看见，耳朵听见，心里明白，回转过来，便得医治。",
+      "zht": "<span class=\"verse-number\">10ã</span>è¦ä½¿éäººæ°å¿èèæ²¹ï¼è³æµç¼æ²ï¼ç¼çéèµ·ââææç¼ççè¦ï¼è³æµè½è¦ï¼å¿è£¡æç½ï¼åè½éä¾ï¼ä¾¿å¾é«æ²»ã",
+      "spa": "Deja que se endurezca el corazón de este pueblo, y que se entorpezcan sus oídos, y que sean cerrados sus ojos; no sea que vea con sus ojos, y oiga con sus oídos, y entienda con su corazón, y sea convertido y sanado.",
+      "por": "<span class=\"verse-number\">10 </span>Engorda o coraÃ§Ã£o deste povo, endurece-lhe os ouvidos e fecha-lhe os olhosÂ â nÃ£o venha ele a ver com os seus olhos e ouvir com os seus ouvidos e entender com o seu coraÃ§Ã£o e converter-se e ser curado.",
+      "fra": "<span class=\"verse-number\">10Â </span>Rends insensible le cÅur de ce peuple, endurcis ses oreilles, et bouche-lui les yeux, pour quâil ne voie point de ses yeux, nâentende point de ses oreilles, ne comprenne point de son cÅur, ne se convertisse point et ne soit point guÃ©ri.",
+      "deu": "<span class=\"verse-number\">10Â </span>Mache diesem Volk das Herz fett, und mache ihm die Ohren schwer, und verschlieÃe ihm die AugenÂ â damit es nicht mit seinen Augen sehe und mit seinen Ohren hÃ¶re und mit seinem Herzen verstehe und bekehrt und geheilt werde.",
+      "kor": "<span class=\"verse-number\">10 </span>ì´ ë°±ì±ì ë§ìì¼ë¡ ëíê² íë©°, ê·¸ë¤ì ê·ë¡ ë¬´ëê² íê³ , ê·¸ë¤ì ëì¼ë¡ ê°ê¸°ê² íë¼. ì¼ë ¤ì»¨ë ê·¸ë¤ì´ ê·¸ ëì¼ë¡ ë³´ê³ , ê·¸ ê·ë¡ ë£ê³ , ê·¸ ë§ìì¼ë¡ ê¹¨ë«ê³ , ëì´ì¼ ê³ ì¹¨ì ë°ìê¹ íë¸ë¼.",
+      "ita": "<span class=\"verse-number\">10 </span>Rendi duro il cuore di questo popolo, e rendi pesanti le sue orecchie, e chiudi i suoi occhiÂ â per tema châesso veda con i suoi occhi, e oda con le sue orecchie, e comprenda col suo cuore, e si converta e sia sanato."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>Then said I: Lord, how long? And he said: Until the cities be wasted without inhabitant, and the houses without man, and the land be utterly desolate;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙÙÙØªÙ: Ø¥ÙÙÙ ÙÙØªÙ Ø£ÙÙÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙØ ÙÙÙØ§ÙÙ: Ø¥ÙÙÙ Ø£ÙÙÙ ØªÙØµÙØ±Ù Ø§ÙÙÙÙØ¯ÙÙÙ Ø®ÙØ±ÙØ¨ÙØ©Ù Ø¨ÙÙØ§ Ø³Ø§ÙÙÙÙØ ÙÙØ§ÙÙØ¨ÙÙÙØªÙ Ø¨ÙÙØ§ Ø¥ÙÙÙØ³Ø§ÙÙØ ÙÙØªÙÙÙÙÙØ±Ù Ø§ÙÙØ£ÙØ±ÙØ¶Ù ØªÙÙØ§ÙÙØ§Ø",
+      "jpn": "それでわたしは、『<ruby>主<rt>しゅ</rt></ruby>よ、いつまでですか』と<ruby>言<rt>い</rt></ruby>った。すると<ruby>主<rt>しゅ</rt></ruby>は<ruby>言<rt>い</rt></ruby>われた。『もろもろの<ruby>町<rt>まち</rt></ruby>が<ruby>荒<rt>こう</rt></ruby><ruby>廃<rt>はい</rt></ruby>して<ruby>住<rt>す</rt></ruby>む<ruby>者<rt>もの</rt></ruby>がいなくなり、<ruby>家<rt>いえ</rt></ruby><ruby>々<rt>いえ</rt></ruby>に<ruby>人<rt>ひと</rt></ruby>がいなくなり、<ruby>地<rt>ち</rt></ruby>もすっかり<ruby>荒<rt>あ</rt></ruby>れ<ruby>果<rt>は</rt></ruby>てるときまでである。",
+      "zhs": "我就说：主啊，这到几时为止呢？祂说：直到城市荒凉，无人居住，房屋无人，土地完全荒废。",
+      "zht": "<span class=\"verse-number\">11ã</span>æå°±èªªï¼ä¸»åï¼éå°å¹¾æçºæ­¢å¢ï¼ç¥èªªï¼ç´å°åå¸èæ¶¼ï¼ç¡äººå±ä½ï¼æ¿å±ç¡äººï¼åå°å®å¨èå»¢ã",
+      "spa": "Yo entonces dije: Señor, ¿hasta cuándo? Y él respondió: Hasta que las ciudades queden asoladas y sin habitantes, y las casas sin hombre, y la tierra enteramente desierta;",
+      "por": "<span class=\"verse-number\">11 </span>EntÃ£o disse eu: Senhor, atÃ© quando? E ele disse: AtÃ© que se assolem as cidades e fiquem sem habitantes; e nas casas nÃ£o fique morador, e a terra seja totalmente desolada.",
+      "fra": "<span class=\"verse-number\">11Â </span>Je disÂ : Jusques Ã  quand, SeigneurÂ ? Et il rÃ©ponditÂ : JusquâÃ  ce que les villes soient dÃ©vastÃ©es et privÃ©es dâhabitantsÂ ; jusquâÃ  ce quâil nây ait personne dans les maisons, et que le pays soit ravagÃ© par la solitudeÂ ;",
+      "deu": "<span class=\"verse-number\">11Â </span>Da sprach ich: Wie lange, Herr? Und er sprach: Bis dass die StÃ¤dte wÃ¼st geworden sind, ohne Einwohner, und die HÃ¤user menschenleer und das Land vÃ¶llig verlassen ist",
+      "kor": "<span class=\"verse-number\">11 </span>ê·¸ëì ë´ê° ì´ë¥´ë, ì£¼ì¬, ì´ë ëê¹ì§ëì´ê¹? ë§ìíìë ì±ìë¤ì´ í©ííì¬ ì£¼ë¯¼ì´ ìì¼ë©°, ì§ë¤ìë ì¬ëì´ ìê³ , ì´ ëì´ ì¨ì í í©ííê² ëë©°,",
+      "ita": "<span class=\"verse-number\">11 </span>Allora dissi: Signore, fino a quando? Ed egli disse: FinchÃ© le cittÃ  siano devastate, senza abitanti, e le case senza nessuno, e che il paese sia completamente desolato;"
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>And the Lord have removed men far away, for there shall be a great forsaking in the midst of the land.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙÙØ¨ÙØ¹ÙØ¯Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø§ÙÙÙØ§Ø³ÙØ ÙÙÙÙØµÙØ±Ù ÙÙØ¬ÙØ±Ø§ÙÙ Ø¹ÙØ¸ÙÙÙ ÙÙ ÙÙØ³ÙØ·Ù Ø§ÙÙØ£ÙØ±ÙØ¶Ù.",
+      "jpn": "そして、そのただ<ruby>中<rt>なか</rt></ruby>には<ruby>荒<rt>あ</rt></ruby>れ<ruby>廃<rt>すた</rt></ruby>れた<ruby>所<rt>ところ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えるので、<ruby>主<rt>しゅ</rt></ruby>は<ruby>人<rt>ひと</rt></ruby><ruby>々<rt>びと</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くに<ruby>移<rt>うつ</rt></ruby>した。",
+      "zhs": "并且主将人迁到远方，在这境内撇下的土地很多。",
+      "zht": "<span class=\"verse-number\">12ã</span>ä¸¦ä¸ä¸»å°äººé·å°é æ¹ï¼å¨éå¢å§æä¸çåå°å¾å¤ã",
+      "spa": "y el Señor haya echado lejos a los hombres, porque habrá gran desolación en medio de la tierra.",
+      "por": "<span class=\"verse-number\">12 </span>E o Senhor tenha afastado para longe os homens, porque haverÃ¡ grande desolaÃ§Ã£o no meio da terra.",
+      "fra": "<span class=\"verse-number\">12Â </span>jusquâÃ  ce que le Seigneur ait Ã©loignÃ© les hommes, car le pays deviendra un immense dÃ©sert,",
+      "deu": "<span class=\"verse-number\">12Â </span>und der Herr die Menschen weit entfernt hat; denn es wird eine groÃe Verlassenheit inmitten des Landes sein.",
+      "kor": "<span class=\"verse-number\">12 </span>ê·¸ë¦¬ê³  ì£¼ê»ì ì¬ëë¤ì ë©ë¦¬ ì®ê²¨ ê°ì¨ì ëê¹ì§ë, ì´ë ì´ ë ê°ì´ë° í° ì ë²ë¦¼ì´ ìì ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">12 </span>E il Signore abbia condotto lontano gli uomini, poichÃ© vi sarÃ  un grande abbandono in mezzo al paese."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>But yet there shall be a tenth, and they shall return, and shall be eaten, as a teil tree, and as an oak whose substance is in them when they cast their leaves; so the holy seed shall be the substance thereof.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØ¹Ù Ø£ÙÙÙÙÙÙ ÙÙØ¨ÙÙÙ ÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù Ø¹ÙØ´ÙØ±Ù ÙÙÙÙÙÙÙÙØ ÙÙÙÙØ¹ÙØ¯ÙÙÙ Ø¥ÙÙÙØ§ Ø£ÙÙÙÙÙÙÙÙ Ø³ÙÙÙÙÙÙÙÙÙÙÙØ ÙÙØ«ÙÙÙ Ø´ÙØ¬ÙØ±ÙØ©Ù Ø§ÙÙØ¨ÙØ·ÙÙÙØ©Ù ÙÙØ§ÙÙØ¨ÙÙÙÙØ·ÙØ Ø§ÙÙÙØªÙ ÙÙØ¥ÙÙÙ Ø³ÙÙÙØ·ÙØªÙ Ø£ÙÙÙØ±Ø§ÙÙÙØ§ ÙÙØªÙØ±ÙÙÙ ÙÙÙØ§ Ø¬ÙØ°ÙØ¹ÙØ ÙÙØ¬ÙØ°ÙØ¹ÙÙØ§ Ø²ÙØ±ÙØ¹Ù ÙÙÙÙØ¯ÙÙØ³Ù.",
+      "jpn": "しかし、それでもなお十<ruby>分<rt>ぶん</rt></ruby>の一の<ruby>者<rt>もの</rt></ruby>がいる。<ruby>彼<rt>かれ</rt></ruby>らは<ruby>帰<rt>かえ</rt></ruby>って<ruby>来<rt>く</rt></ruby>るが、<ruby>食<rt>く</rt></ruby>い<ruby>尽<rt>つ</rt></ruby>くされる。しかし、テレビンの<ruby>木<rt>き</rt></ruby>とかしの<ruby>木<rt>き</rt></ruby>がその<ruby>葉<rt>は</rt></ruby>を<ruby>落<rt>お</rt></ruby>としても<ruby>幹<rt>みき</rt></ruby>が<ruby>木<rt>き</rt></ruby>の<ruby>中<rt>なか</rt></ruby>にあるように、<ruby>聖<rt>せい</rt></ruby>なる<ruby>子<rt>し</rt></ruby><ruby>孫<rt>そん</rt></ruby>はその<ruby>幹<rt>みき</rt></ruby>となる。』」",
+      "zhs": "但还有十分之一的人必回来，也必被吞灭，像栗树、橡树，落叶的时候，树的本质仍在；所以神圣的种子必成为他们的本质。",
+      "zht": "<span class=\"verse-number\">13ã</span>ä½éæååä¹ä¸çäººå¿åä¾ï¼ä¹å¿è¢«åæ»ï¼åæ æ¨¹ãæ©¡æ¨¹ï¼è½èçæåï¼æ¨¹çæ¬è³ªä»å¨ï¼æä»¥ç¥èçç¨®å­å¿æçºä»åçæ¬è³ªã",
+      "spa": "Mas todavía quedará una décima parte, y volverá, y será consumida; como el terebinto y como la encina que guardan en sí su substancia cuando echan sus hojas; así la santa semilla será su substancia.",
+      "por": "<span class=\"verse-number\">13 </span>Mas haverÃ¡ ainda uma dÃ©cima parte, e eles voltarÃ£o e serÃ£o devorados, como uma azinheira e como um carvalho que, depois de desfolharem, ainda conservam em si a sua substÃ¢ncia; assim, a santa semente serÃ¡ a substÃ¢ncia deles.",
+      "fra": "<span class=\"verse-number\">13Â </span>Mais nÃ©anmoins il y aura un dixiÃ¨me, et ils retourneront, et seront anÃ©antis. Mais, comme le tÃ©rÃ©binthe et le chÃªne conservent leur tronc quand ils sont abattus, une sainte postÃ©ritÃ© renaÃ®tra de ce peuple.",
+      "deu": "<span class=\"verse-number\">13Â </span>Und doch wird ein Zehntel da sein, und sie werden wiederkehren und abgeweidet werden, dem Lindenbaum gleich und der Eiche gleich, deren Wesen in ihnen bleibt, wenn sie die BlÃ¤tter abwerfen; so wird der heilige Same das Wesen derer sein.",
+      "kor": "<span class=\"verse-number\">13 </span>ê·¸ë¬ë ê·¸ëë ì­ë¶ì ì¼ì´ ìì´ ê·¸ë¤ì´ ëìì¬ ê²ì´ë©°, ê·¸ë¦¬ê³  ë³´ë¦¬ìê°ì´ ë ììë¦¬ëë¬´ê°ì´ ë¨¹í ê²ì´ë, ê·¸ê²ë¤ì´ ê·¸ ìì ë¨ì´ë¨ë¦´ ëìë ê·¸ ë³¸ì²´ë ê·¸ë¤ ìì ìëë, ê·¸ì ê°ì´ ê±°ë£©í ì¨ê° ê·¸ ë³¸ì²´ê° ëë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">13 </span>Eppure ve ne sarÃ  un decimo ed essi torneranno e saranno divorati; come un tiglio e come una quercia, la cui sostanza Ã¨ in essi quando perdono le foglie; cosÃ¬ il seme santo ne sarÃ  la sostanza."
+    }
+  }
+}

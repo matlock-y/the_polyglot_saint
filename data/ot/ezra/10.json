@@ -1,0 +1,502 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "ezra",
+    "chapter": 10,
+    "headings": {
+      "eng": "The Jews covenant to put away their wives taken from the Canaanites and othersâEzra assembles the people at JerusalemâThe Levites who married non-Israelite women are listed.",
+      "spa": "Los judÃ­os hacen convenio de despedir a las esposas que habÃ­an tomado de los cananeos y de otros pueblosÂ â Esdras reÃºne al pueblo en JerusalÃ©nÂ â Se menciona a los levitas que se casaron con mujeres extranjeras.",
+      "por": "Os judeus fazem convÃªnio de mandar embora as esposas tomadas dos cananeus e de outros povosÂ â Esdras reÃºne o povo em JerusalÃ©mÂ â Os levitas que se casaram com mulheres nÃ£o israelitas sÃ£o enumerados.",
+      "fra": "Les Juifs font alliance de renvoyer leurs femmes prises parmi les CananÃ©ens et autres. Esdras rassemble le peuple Ã  JÃ©rusalem. Liste des LÃ©vites qui ont Ã©pousÃ© des femmes non IsraÃ©lites.",
+      "deu": "Die Juden geloben, die Frauen zu entlassen, die sie von den Kanaanitern und anderen genommen habenÂ â Esra versammelt das Volk in JerusalemÂ â Die Leviten, die fremde Frauen geheiratet haben, werden aufgezÃ¤hlt.",
+      "ita": "I Giudei fanno alleanza di mandare via le loro mogli prese tra i Cananei e altriÂ â Esdra riunisce il popolo a GerusalemmeÂ â Vengono elencati i Leviti che si sono sposati con donne non israelite."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Now when Ezra had prayed, and when he had confessed, weeping and casting himself down before the house of God, there assembled unto him out of Israel a very great congregation of men and women and children: for the people wept very sore.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙÙÙÙÙÙØ§ ÙÙØ§ÙÙ Ø¹ÙØ²ÙØ±ÙØ§ ÙÙØµÙÙÙÙÙ ÙÙÙÙØ¹ÙØªÙØ±ÙÙÙ Ø¨ÙØ§ÙÙÙØ§Ù ÙÙÙÙÙÙØ·ÙØ±ÙØ­Ø§Ù Ø£ÙÙÙØ§ÙÙ ÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙ°ÙÙØ Ø§Ø¬ÙØªÙÙÙØ¹Ù Ø¥ÙÙÙÙÙÙÙ Ø­ÙØ´ÙØ¯Ù ØºÙÙÙÙØ±Ù ÙÙÙÙ Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ ÙÙØ§ÙÙÙÙØ³ÙØ§Ø¡Ù ÙÙØ§ÙØ£ÙÙÙÙØ§Ø¯ÙØ ÙØ£ÙÙÙÙ Ø§ÙØ´ÙÙØ¹ÙØ¨Ù Ø¨ÙÙÙÙ Ø¨ÙÙÙØ±ÙØ§Ø±ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">1</span> ã¨ãºã©ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å®®</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>æ³£</rb><rt>ãª</rt></ruby>ã<ruby><rb>ä¼</rb><rt>ãµ</rt></ruby>ãã¦<ruby><rb>ç¥</rb><rt>ãã®</rt></ruby>ãããã¤ããããã¦ãã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby>ã<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã³<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ã®<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããªã<ruby><rb>ç¾¤é</rb><rt>ããããã</rt></ruby>ãã¤ã¹ã©ã¨ã«ã®ãã¡ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®ãã¨ã«<ruby><rb>é</rb><rt>ãã¤</rt></ruby>ã¾ã£ã¦ããã<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã¯ããã<ruby><rb>æ³£</rb><rt>ãª</rt></ruby>ã<ruby><rb>æ²</rb><rt>ããª</rt></ruby>ããã ã",
+      "spa": "<span class=\"verse-number\">1 </span>Y mientras oraba Esdras y hacÃ­a confesiÃ³n, llorando y postrÃ¡ndose delante de la casa de Dios, se reuniÃ³ alrededor de Ã©l una congregaciÃ³n muy grande de Israel, hombres, y mujeres y niÃ±os; y lloraba el pueblo amargamente.",
+      "por": "<span class=\"verse-number\">1</span> E orando Esdras assim, e fazendo essa confissÃ£o, chorando, e prostrando-se diante da casa de Deus, ajuntou-se a ele de Israel uma congregaÃ§Ã£o muito grande, de homens e de mulheres, e de crianÃ§as; porque o povo chorava com grande choro.",
+      "fra": "<span class=\"verse-number\">1</span> Pendant quâEsdras, pleurant et prosternÃ© devant la maison de Dieu, faisait cette priÃ¨re et cette confession, il sâÃ©tait rassemblÃ© auprÃ¨s de lui une foule trÃ¨s nombreuse de gens dâIsraÃ«l, hommes, femmes et enfants, et le peuple rÃ©pandait dâabondantes larmes.",
+      "deu": "<span class=\"verse-number\">1Â </span>WÃ¤hrend nun Esra so betete und weinend und vor dem Haus Gottes hingestreckt das Bekenntnis ihrer Schuld ablegte, sammelte sich um ihn eine sehr groÃe Schar von Israeliten, MÃ¤nner, Frauen und Kinder; denn das Volk war in heftiges Weinen ausgebrochen.",
+      "kor": "<span class=\"verse-number\">1</span> ìì¤ë¼ê° íëëì ì±ì  ìì ìëë ¤ ì¸ë©° ê¸°ëíì¬ ì£ë¥¼ ìë³µí  ëì ë§ì ë°±ì±ì´ í¬ê² íµê³¡íë§¤ ì´ì¤ë¼ì ì¤ìì ë°±ì±ì ë¨ëì ì´ë¦° ìì´ì í° ë¬´ë¦¬ê° ê·¸ ìì ëª¨ì¸ì§ë¼",
+      "ita": "<span class=\"verse-number\">1</span> Ora, mentre Esdra pregava e faceva questa confessione piangendo e prostrato davanti alla casa di Dio, si radunÃ² intorno a lui una grandissima moltitudine di gente dâIsraele, uomini, donne e fanciulli; e il popolo piangeva dirottamente."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>And Shechaniah the son of Jehiel, <span class=\"clarity-word\">one</span> of the sons of Elam, answered and said unto Ezra, We have trespassed against our God, and have taken strange wives of the people of the land: yet now there is hope in Israel concerning this thing.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙØ§ÙÙ Ø´ÙÙÙÙÙÙÙØ§ Ø¨ÙÙÙ ÙÙØ­ÙÙØ¦ÙÙÙÙ ÙÙÙÙ Ø¨ÙÙÙÙ Ø¹ÙÙÙØ§ÙÙ ÙÙØ¹ÙØ²ÙØ±ÙØ§: âÙÙÙÙØ¯Ù Ø®ÙÙÙÙØ§ Ø¥ÙÙÙÙÙÙÙØ§ ÙÙØªÙØ²ÙÙÙÙØ¬ÙÙÙØ§ ÙÙÙÙ ÙÙØ³ÙØ§Ø¡Ù ØºÙØ±ÙÙØ¨ÙØ§ØªÙ ÙÙÙÙ Ø£ÙÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶ÙØ ÙÙÙÙÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙØ±ÙÙØºÙÙÙ ÙÙÙÙ ÙÙØ°ÙØ§ ÙÙÙØ§ ÙÙØ²ÙØ§ÙÙ ÙÙÙÙØ§ÙÙ Ø±ÙØ¬ÙØ§Ø¡Ù ÙØ¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã«ã¨ã©ã ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã®ãã¡ã®ã¨ãã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã·ã«ãã¤ããã¨ãºã©ã«<ruby><rb>å</rb><rt>ã¤</rt></ruby>ãã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããããã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«ããã£ã¦<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ãããã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ãã<ruby><rb>ç°é¦</rb><rt>ãã»ã</rt></ruby>ã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã¨ãã¾ããããããããã®ãã¨ã«ã¤ãã¦ã¯ã¤ã¹ã©ã¨ã«ã«ã<ruby><rb>ä»</rb><rt>ãã¾</rt></ruby>ãªã<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ã¿ãããã¾ãã",
+      "spa": "<span class=\"verse-number\">2 </span>Entonces respondiÃ³ SecanÃ­as hijo de Jehiel, de los hijos de Elam, y dijo a Esdras: Nosotros hemos pecado contra nuestro Dios, pues tomamos por esposas a mujeres extranjeras de los pueblos de la tierra; pero aÃºn hay esperanza para Israel con respecto a esto.",
+      "por": "<span class=\"verse-number\">2</span> EntÃ£o respondeu Secanias, filho de Jeiel, <span class=\"clarity-word\">um</span> dos filhos de ElÃ£o, e disse a Esdras: NÃ³s transgredimos contra o nosso Deus, e casamos com mulheres estrangeiras do povo da terra, mas no tocante a isso, ainda hÃ¡ esperanÃ§a para Israel.",
+      "fra": "<span class=\"verse-number\">2</span> Alors Schecania, fils de Jehiel, dâentre les fils dâÃlam, prit la parole et dit Ã  EsdrasÂ : Nous avons pÃ©chÃ© contre notre Dieu en nous alliant Ã  des femmes Ã©trangÃ¨res qui appartiennent aux peuples du pays. Mais IsraÃ«l ne reste pas pour cela sans espÃ©rance.",
+      "deu": "<span class=\"verse-number\">2Â </span>Da nahm Schechanja, der Sohn JehiÃ«ls, aus der Familie Elam, das Wort und sagte zu Esra: âWir haben uns an unserem Gott versÃ¼ndigt, da wir fremde Frauen aus den VÃ¶lkern des Landes geheiratet haben; aber trotzdem ist auch jetzt noch Hoffnung fÃ¼r Israel vorhanden.",
+      "kor": "<span class=\"verse-number\">2</span> ìë ìì ì¤ ì¬íìì ìë¤ ì¤ê°ëê° ìì¤ë¼ìê² ì´ë¥´ë ì°ë¦¬ê° ì°ë¦¬ íëëê» ë²ì£íì¬ ì´ ë ì´ë°© ì¬ìë¥¼ ë§ì´íì¬ ìë´ë¡ ì¼ìì¼ë ì´ì¤ë¼ììê² ìì§ë ìë§ì´ ìëë",
+      "ita": "<span class=\"verse-number\">2</span> Allora Scecania, figlio di Ieiel, uno dei figli di Elam, prese a dire a Esdra: âNoi siamo stati infedeli al nostro Dio, sposando donne straniere prese dai popoli di questo paese; nondimeno rimane ancora, a questo riguardo, una speranza a Israele."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>Now therefore let us make a covenant with our God to put away all the wives, and such as are born of them, according to the counsel of my lord, and of those that tremble at the commandment of our God; and let it be done according to the law.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØ°ÙÙÙÙÙØ ÙÙÙÙØ¨ÙØ±ÙÙÙ Ø¹ÙÙÙØ¯Ø§Ù ÙÙØ¹Ù Ø¥ÙÙÙÙÙÙÙØ§Ø Ø¨ÙØ£ÙÙÙ ÙÙØ®ÙØ±ÙØ¬Ù ÙÙÙÙÙ Ø§ÙÙÙÙØ³ÙØ§Ø¡Ù Ø§ÙÙØºÙØ±ÙÙØ¨ÙØ§ØªÙØ ÙÙÙÙÙÙ Ø£ÙÙÙØ¬ÙØ¨ÙÙÙ ÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø¨ÙÙÙÙÙØ¬ÙØ¨Ù Ø±ÙØ£ÙÙÙ Ø³ÙÙÙÙØ¯ÙÙ ÙÙÙÙØ´ÙÙØ±ÙØ©Ù Ø³ÙØ§Ø¦ÙØ±Ù Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ·ÙÙØ¹ÙÙÙÙ ÙÙØµÙØ§ÙÙØ§ Ø§ÙÙÙÙ°ÙÙ ÙÙØ·ÙØ¨ÙÙÙÙÙÙÙ Ø¨ÙØ°ÙÙÙÙÙ ÙÙØµÙÙ Ø§ÙØ´ÙÙØ±ÙÙØ¹ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">3</span> ããã§ããããã¯ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ</rb><rt>ããã</rt></ruby>ã¨ãããããã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å½ä»¤</rb><rt>ãããã</rt></ruby>ã«ãã®ã®ã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®<ruby><rb>æ</rb><rt>ããã</rt></ruby>ã¨ã«<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ã£ã¦ããããã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ãªãã³ã«ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby><ruby><rb>ä¾</rb><rt>ã¨ã</rt></ruby>ãã¡ãããã¨ãã¨ã<ruby><rb>è¿½</rb><rt>ã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¨ãã<ruby><rb>å¥ç´</rb><rt>ãããã</rt></ruby>ããããããã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¦ã¾ããããããã¦<ruby><rb>å¾æ³</rb><rt>ãã£ã½ã</rt></ruby>ã«<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ã£ã¦ããã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãã¾ãããã",
+      "spa": "<span class=\"verse-number\">3 </span>Ahora, pues, hagamos convenio con nuestro Dios de despedir a todas las esposas y a los nacidos de ellas, segÃºn el consejo de mi seÃ±or y de los que temen el mandamiento de nuestro Dios; y hÃ¡gase conforme a la ley.",
+      "por": "<span class=\"verse-number\">3</span> Agora, pois, faÃ§amos convÃªnio com o nosso Deus de que despediremos todas as mulheres, e tudo o que Ã© nascido delas, conforme o conselho do meu senhor, e dos que tremem ao mandado do nosso Deus; e faÃ§a-se conforme a lei.",
+      "fra": "<span class=\"verse-number\">3</span> Faisons maintenant une alliance avec notre Dieu pour le renvoi de toutes ces femmes et de leurs enfants, selon lâavis de mon seigneur et de ceux qui tremblent devant les commandements de notre Dieu. Et que lâon agisse dâaprÃ¨s la loi.",
+      "deu": "<span class=\"verse-number\">3Â </span>Wir wollen uns jetzt unserem Gott gegenÃ¼ber feierlich verpflichten, alle fremden Frauen und die von diesen geborenen Kinder aus dem Haus zu entfernen nach deinem Rat, o Herr, und nach dem Rat derer, die das Gebot unseres Gottes fÃ¼rchten, damit nach dem Gesetz verfahren wird!",
+      "kor": "<span class=\"verse-number\">3</span> ê³§ ë´ ì£¼ì êµíì ë°ë¥´ë©° ì°ë¦¬ íëëì ëªë ¹ì ë¨ë©° ì¤ííë ìì ê°ë¥´ì¹¨ì ë°ë¼ ì´ ëª¨ë  ìë´ì ê·¸ë¤ì ììì ë¤ ë´ë³´ë´ê¸°ë¡ ì°ë¦¬ íëëê³¼ ì¸ì½ì ì¸ì°ê³  ì¨ë²ëë¡ íí  ê²ì´ë¼",
+      "ita": "<span class=\"verse-number\">3</span> Facciamo unâalleanza con il nostro Dio impegnandoci a mandare via tutte queste donne e i figli nati da esse, come consigliano il mio signore e quelli che tremano dinanzi ai comandamenti del nostro Dio. E si faccia quel che vuole la legge."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>Arise; for <span class=\"clarity-word\">this</span> matter <span class=\"clarity-word\">belongeth</span> unto thee: we also <span class=\"clarity-word\">will be</span> with thee: be of good courage, and do <span class=\"clarity-word\">it.</span>",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ§ÙÙÙÙØ¶Ù Ø§ÙØ¢ÙÙ ÙÙØ¥ÙÙÙÙ Ø¹ÙØ¨ÙØ¡Ù ÙÙØ°ÙØ§ Ø§ÙØ£ÙÙÙØ±Ù ÙÙÙÙ ÙÙØ³ÙØ¤ÙÙÙÙÙÙØªÙÙÙØ ÙÙÙÙÙÙÙÙÙÙÙØ§ ÙÙØ¹ÙÙÙ. ØªÙØ´ÙØ¬ÙÙØ¹Ù ÙÙØªÙØµÙØ±ÙÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">4</span> <ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¡ããã£ã¦ãã ããããã®<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã¯ããªãã®<ruby><rb>ä»äº</rb><rt>ããã¨</rt></ruby>ã§ããããããã¯ããªãã<ruby><rb>å©</rb><rt>ãã</rt></ruby>ãã¾ãã<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã<ruby><rb>å¼·</rb><rt>ã¤ã</rt></ruby>ããã¦ããã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ããªãããã",
+      "spa": "<span class=\"verse-number\">4 </span>LevÃ¡ntate, porque esta es tu <span class=\"page-break\" data-page=\"789\"></span>responsabilidad, y nosotros estaremos contigo; anÃ­mate y hazlo.",
+      "por": "<span class=\"verse-number\">4</span> Levanta-te, pois, porque te <span class=\"clarity-word\">pertence este</span> assunto, e nÃ³s <span class=\"clarity-word\">seremos</span> contigo; sÃª corajoso, <span class=\"clarity-word\">e</span> age.",
+      "fra": "<span class=\"verse-number\">4</span> LÃ¨ve-toi car cette affaire te regarde. Nous serons avec toi. Sois courageux et agis.",
+      "deu": "<span class=\"verse-number\">4Â </span>Stehe auf, denn dir obliegt die Sache! Wir wollen zu dir halten. Sei entschlossen und handle!â",
+      "kor": "<span class=\"verse-number\">4</span> ì´ë ë¹ì ì´ ì£¼ì¥í  ì¼ì´ë ì¼ì´ëìì ì°ë¦¬ê° ëì°ë¦¬ë íì¨ ííìì íëë¼",
+      "ita": "<span class=\"verse-number\">4</span> Alzati, poichÃ© questo Ã¨ affar tuo, e noi saremo con te. Fatti animo, ed agisci!â."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>Then arose Ezra, and made the chief priests, the Levites, and all Israel, to swear that they should do according to this word. And they sware.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ²ÙØ±ÙØ§ ÙÙØ§Ø³ÙØªÙØ­ÙÙÙÙÙ Ø±ÙØ¤ÙØ³ÙØ§Ø¡Ù Ø§ÙÙÙÙÙÙÙÙØ©Ù ÙÙØ§ÙÙÙØ§ÙÙÙÙÙÙÙÙ ÙÙØ³ÙØ§Ø¦ÙØ±Ù Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø£ÙÙÙ ÙÙÙÙÙÙÙØ°ÙÙØ§ Ø§ÙÙØ¹ÙÙÙØ¯Ù. ÙÙØ­ÙÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">5</span> ã¨ãºã©ã¯<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã£ã¦ãããã ã£ã<ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ãã¬ãã³ã¨ããã³ãã¹ã¦ã®ã¤ã¹ã©ã¨ã«ã³ã¨ã«ããã®<ruby><rb>è¨è</rb><rt>ãã¨ã°</rt></ruby>ã®ããã«<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ããã¨ã<ruby><rb>èª</rb><rt>ã¡ã</rt></ruby>ãããã®ã§ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>èª</rb><rt>ã¡ã</rt></ruby>ã£ãã",
+      "spa": "<span class=\"verse-number\">5 </span>Entonces se levantÃ³ Esdras e hizo jurar a los principales de los sacerdotes, y a los levitas y a todo Israel que harÃ­an conforme a esto; y ellos juraron.",
+      "por": "<span class=\"verse-number\">5</span> EntÃ£o Esdras se levantou, e ajuramentou os principais dos sacerdotes <span class=\"clarity-word\">e</span> dos levitas, e todo o Israel, de que fariam conforme esta palavra; e juraram.",
+      "fra": "<span class=\"verse-number\">5</span> Esdras se leva et il fit jurer aux chefs des prÃªtres, des LÃ©vites et de tout IsraÃ«l de faire ce qui venait dâÃªtre dit. Et ils le jurÃ¨rent.",
+      "deu": "<span class=\"verse-number\">5Â </span>Da stand Esra auf und lieÃ die Obersten der Priester und der Leviten und des gesamten Israels schwÃ¶ren, dass sie wirklich nach diesem Vorschlag verfahren wollten; und sie legten den Eid ab.",
+      "kor": "<span class=\"verse-number\">5</span> ì´ì ìì¤ë¼ê° ì¼ì´ë ì ì¬ì¥ë¤ê³¼ ë ì ì¬ëë¤ê³¼ ì¨ ì´ì¤ë¼ììê² ì´ ë§ëë¡ ííê¸°ë¥¼ ë§¹ì¸íê² íë§¤ ë¬´ë¦¬ê° ë§¹ì¸íëì§ë¼",
+      "ita": "<span class=\"verse-number\">5</span> Allora Esdra si alzÃ², fece giurare ai capi dei sacerdoti, dei Leviti e di tutto Israele che avrebbero fatto come era stato detto. E quelli giurarono."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span><span class=\"para-mark\">Â¶ </span>Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and <span class=\"clarity-word\">when</span> he came thither, he did eat no bread, nor drink water: for he mourned because of the transgression of them that had been carried away.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø«ÙÙÙÙ ÙÙÙÙØ¶Ù Ø¹ÙØ²ÙØ±ÙØ§ ÙÙÙÙ Ø£ÙÙÙØ§ÙÙ ÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙ°ÙÙ ÙÙÙÙØ¶ÙÙ Ø¥ÙÙÙÙ ÙÙØ®ÙØ¯ÙØ¹Ù ÙÙÙÙÙØ­ÙØ§ÙÙØ§ÙÙ Ø¨ÙÙÙ Ø£ÙÙÙÙÙØ§Ø´ÙÙØ¨ÙØ ÙÙÙÙÙÙØ«Ù ÙÙÙÙØ§ÙÙ ÙÙØ§ ÙÙØ£ÙÙÙÙÙ Ø®ÙØ¨ÙØ²Ø§Ù ÙÙÙØ§ ÙÙØ´ÙØ±ÙØ¨Ù ÙÙØ§Ø¡ÙØ ÙÙÙÙØ§Ø­Ø§Ù Ø¹ÙÙÙÙ Ø®ÙÙÙØ§ÙÙØ©Ù Ø§ÙÙØ¹ÙØ§Ø¦ÙØ¯ÙÙÙÙ ÙÙÙÙ Ø§ÙØ³ÙÙØ¨ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">6</span> ã¨ãºã©ã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å®®</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ãã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦ãã¨ãªã¢ã·ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¨ããã³ã®ã¸ãã«ã¯ãã£ãããããã¸<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ãã³ã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ãã<ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã<ruby><rb>é£²</rb><rt>ã®</rt></ruby>ã¾ãã«<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ã<ruby><rb>é</rb><rt>ã</rt></ruby>ããããããã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æå</rb><rt>ã»ããã</rt></ruby>ãã<ruby><rb>å¸°</rb><rt>ãã</rt></ruby>ã£ã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®ã¨ãã<ruby><rb>å</rb><rt>ãªã</rt></ruby>ããããã§ããã",
+      "spa": "<span class=\"verse-number\">6 </span>Se levantÃ³ luego Esdras de delante de la casa de Dios y se fue a la habitaciÃ³n de JohanÃ¡n hijo de Eliasib; y cuando fue allÃ¡, no comiÃ³ pan ni bebiÃ³ agua, porque se entristeciÃ³ a causa de la infidelidad de los de la cautividad.",
+      "por": "<span class=\"verse-number\">6</span> E Esdras se levantou de diante da casa de Deus, e entrou na cÃ¢mara de JoanÃ£, filho de Eliasibe; e chegando lÃ¡, pÃ£o nÃ£o comeu, e Ã¡gua nÃ£o bebeu, porque pranteava por causa da transgressÃ£o <span class=\"clarity-word\">dos</span> do cativeiro.",
+      "fra": "<span class=\"verse-number\">6</span> Puis Esdras quitta la cour de la maison de Dieu et il alla dans la chambre de Jochanan, fils dâÃliaschibÂ ; quand il y fut entrÃ©, il ne mangea pas de pain et il ne but pas dâeau, parce quâil Ã©tait dans la dÃ©solation Ã  cause du pÃ©chÃ© des fils de la captivitÃ©.",
+      "deu": "<span class=\"verse-number\">6Â </span>Hierauf stand Esra von dem Platz vor dem Haus Gottes auf und begab sich in die Kammer Johanans, des Sohnes Eljaschibs; er brachte dort die Nacht zu, ohne Speise und Trank zu sich zu nehmen; denn er war tief betrÃ¼bt Ã¼ber den Frevel der aus der Gefangenschaft ZurÃ¼ckgekehrten.",
+      "kor": "<span class=\"verse-number\">6</span> ì´ì ìì¤ë¼ê° íëëì ì±ì  ììì ì¼ì´ë ìë¦¬ìì­ì ìë¤ ì¬í¸íëì ë°©ì¼ë¡ ë¤ì´ê°ëë¼ ê·¸ê° ë¤ì´ê°ì ì¬ë¡ì¡íë ìë¤ì ì£ë¥¼ ê·¼ì¬íì¬ ììë ë¨¹ì§ ìëíë©° ë¬¼ë ë§ìì§ ìëíëë",
+      "ita": "<span class=\"verse-number\">6</span> Poi Esdra si levÃ² dâinnanzi alla casa di Dio, e andÃ² nella camera di Ioanan, figlio di Eliascib: e come vi fu entrato, non mangiÃ² pane nÃ© bevve acqua, perchÃ© faceva cordoglio per lâinfedeltÃ  di quelli che erano stati in esilio."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙØ£ÙØ·ÙÙÙÙÙÙØ§ Ø¯ÙØ¹ÙÙÙØ©Ù ÙÙÙ Ø£ÙØ±ÙØ¬ÙØ§Ø¡Ù ÙÙÙÙÙØ°ÙØ§ ÙÙØ£ÙÙØ±ÙØ´ÙÙÙÙÙÙ ÙÙÙÙØ¬ÙØªÙÙÙØ¹Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙÙØ¹ÙØ§Ø¦ÙØ¯ÙÙÙÙ ÙÙÙÙ Ø§ÙØ³ÙÙØ¨ÙÙÙ ÙÙÙ Ø£ÙÙØ±ÙØ´ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">7</span> ããã¦ã¦ãããã³ã¨ã«ãµã¬ã ã«ãã¾ã­ã<ruby><rb>å¸å</rb><rt>ãµãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã<ruby><rb>æå</rb><rt>ã»ããã</rt></ruby>ãã<ruby><rb>å¸°</rb><rt>ãã</rt></ruby>ã£ããã¹ã¦ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«<ruby><rb>å</rb><rt>ã¤</rt></ruby>ãã¦ãã¨ã«ãµã¬ã ã«<ruby><rb>é</rb><rt>ãã¤</rt></ruby>ã¾ãã¹ã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã¨ã",
+      "spa": "<span class=\"verse-number\">7 </span>E hicieron proclamar en JudÃ¡ y en JerusalÃ©n a todos los hijos de la cautividad para que se reuniesen en JerusalÃ©n;",
+      "por": "<span class=\"verse-number\">7</span> E fizeram passar pregÃ£o por JudÃ¡ e JerusalÃ©m, e todos os que vieram do cativeiro, para que se ajuntassem em JerusalÃ©m.",
+      "fra": "<span class=\"verse-number\">7</span> On publia dans Juda et Ã  JÃ©rusalem que tous les fils de la captivitÃ© devaient se rÃ©unir Ã  JÃ©rusalem",
+      "deu": "<span class=\"verse-number\">7Â </span>Hierauf lieÃ man in ganz Juda und Jerusalem durch Ausruf bekanntmachen, alle aus der Gefangenschaft ZurÃ¼ckgekehrten sollten sich in Jerusalem versammeln;",
+      "kor": "<span class=\"verse-number\">7</span> ì ë¤ì ìë£¨ì´ë ì ì¬ë¡ì¡íë ìë¤ì ììë¤ìê² ê³µí¬íê¸°ë¥¼ ëí¬ë ìë£¨ì´ë ì¼ë¡ ëª¨ì´ë¼",
+      "ita": "<span class=\"verse-number\">7</span> E si bandÃ¬ in Giuda e a Gerusalemme che tutti quelli della schiavitÃ¹ si radunassero a Gerusalemme;"
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>And that whosoever would not <span class=\"page-break\" data-page=\"647\"></span>come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙÙÙÙÙÙ ÙÙÙÙ ÙÙÙÙØªÙÙÙØ¹Ù Ø¹ÙÙÙ Ø§ÙÙØ­ÙØ¶ÙÙØ±Ù ÙÙÙ Ø«ÙÙØ§Ø«ÙØ©Ù Ø£ÙÙÙÙØ§ÙÙØ Ø¨ÙÙÙÙÙØªÙØ¶ÙÙ Ø£ÙÙÙØ±Ù Ø§ÙØ±ÙÙØ¤ÙØ³ÙØ§Ø¡Ù ÙØ§ÙØ´ÙÙÙÙÙØ®ÙØ ÙÙØ­ÙØ±ÙÙÙÙ ÙÙØ§ÙÙÙÙ ÙÙÙÙÙÙØ¨ÙØ°Ù ÙÙÙÙ Ø¨ÙÙÙÙÙ Ø£ÙÙÙÙÙ Ø§ÙØ³ÙÙØ¨ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">8</span> ã¤ããããã³<ruby><rb>é·è</rb><rt>ã¡ãããã</rt></ruby>ãã¡ã®ãã¨ãã«<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ã£ã¦ãä¸<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ã®ãã¡ã«ããªã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã ãã§ããã®<ruby><rb>è²¡ç£</rb><rt>ãããã</rt></ruby>ã¯ãã¨ãã¨ã<ruby><rb>æ²¡å</rb><rt>ã¼ã£ããã</rt></ruby>ããããã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>èªèº«</rb><rt>ããã</rt></ruby>ã¯<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã³ã¨</rt></ruby>ã®<ruby><rb>ä¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ç ´é</rb><rt>ã¯ãã</rt></ruby>ãããã¨<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãã",
+      "spa": "<span class=\"verse-number\">8 </span>y que el que no viniera dentro de tres dÃ­as, conforme al acuerdo de los jefes y de los ancianos, perdiese todos sus bienes y fuese excluido de la congregaciÃ³n de los que habÃ­an regresado de la cautividad.",
+      "por": "<span class=\"verse-number\">8</span> E que todo aquele que em trÃªs dias nÃ£o viesse, segundo o conselho dos prÃ­ncipes e dos anciÃ£os, todos os seus bens se poriam em interdito, e ele seria separado da congregaÃ§Ã£o <span class=\"clarity-word\">dos</span> do cativeiro.",
+      "fra": "<span class=\"verse-number\">8</span> et que, dâaprÃ¨s lâavis des chefs et des anciens, quiconque ne sây serait pas rendu dans trois jours aurait tous ses biens confisquÃ©s et serait lui-mÃªme exclu de lâassemblÃ©e des fils de la captivitÃ©.",
+      "deu": "<span class=\"verse-number\">8Â </span>und jeder, der nicht binnen drei Tagen gemÃ¤Ã dem Beschluss der Obersten und Ãltesten erschiene, dessen gesamtes VermÃ¶gen solle dem Bann verfallen und er selbst solle aus der Gemeinde der aus der Gefangenschaft Heimgekehrten ausgeschlossen werden.",
+      "kor": "<span class=\"verse-number\">8</span> ëêµ¬ë ì§ ë°©ë°±ë¤ê³¼ ì¥ë¡ë¤ì íìë¥¼ ë°ë¼ ì¼ì¼ ë´ì ì¤ì§ ìëíë©´ ê·¸ì ì¬ì°ì ì ëª°íê³  ì¬ë¡ì¡íë ìì ëª¨ììì ì«ìë´ë¦¬ë¼ íë§¤",
+      "ita": "<span class=\"verse-number\">8</span> e che chiunque non venisse entro tre giorni seguendo il consiglio dei capi e degli anziani, tutti i suoi beni gli sarebbero stati confiscati, ed egli stesso sarebbe stato escluso dallâassemblea dei reduci dalla schiavitÃ¹."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span><span class=\"para-mark\">Â¶ </span>Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It <span class=\"clarity-word\">was</span> the ninth month, on the twentieth <span class=\"clarity-word\">day</span> of the month; and all the people sat in the street of the house of God, trembling because of <span class=\"clarity-word\">this</span> matter, and for the great rain.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ­ÙØ¶ÙØ±Ù ÙÙÙÙÙ Ø±ÙØ¬ÙØ§ÙÙ ÙÙÙÙÙØ°ÙØ§ ÙÙØ¨ÙÙÙÙÙØ§ÙÙÙÙÙ Ø¥ÙÙÙÙ Ø£ÙÙØ±ÙØ´ÙÙÙÙÙÙ ÙÙÙ ØºÙØ¶ÙÙÙÙ Ø«ÙÙØ§Ø«ÙØ©Ù Ø£ÙÙÙÙØ§ÙÙØ ÙÙØ¹ÙÙÙØ¯Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ´ÙÙØ¹ÙØ¨Ù Ø§Ø¬ÙØªÙÙÙØ§Ø¹Ø§Ù ÙÙÙ Ø§ÙÙÙÙÙÙÙÙ Ø§ÙÙØ¹ÙØ´ÙØ±ÙÙÙÙ ÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ±Ù Ø§ÙØªÙÙØ§Ø³ÙØ¹Ù (ÙÙØ§ÙÙÙÙÙ Ø§ÙØ£ÙÙÙÙÙÙâââØ¯ÙÙØ³ÙÙÙØ¨ÙØ±Ù) ÙÙÙ Ø³ÙØ§Ø­ÙØ©Ù ÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙ°ÙÙ. ÙÙÙÙØ¯Ù Ø¬ÙÙÙØ³ÙÙØ§ ÙÙØ±ÙØªÙØ¹ÙØ¯ÙÙÙÙ ÙÙÙÙ ÙÙÙÙÙÙ Ø§ÙØ£ÙÙÙØ±Ù ÙÙÙÙÙÙ Ø§ÙØ£ÙÙÙØ·ÙØ§Ø±Ù Ø§ÙÙØºÙØ²ÙÙØ±ÙØ©Ù Ø§ÙÙÙÙØ§Ø·ÙÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">9</span> ããã§ã¦ãã¨ããã¤ãã³ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã¯<ruby><rb>ç</rb><rt>ã¿ãª</rt></ruby>ä¸<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ã®ãã¡ã«ã¨ã«ãµã¬ã ã«<ruby><rb>é</rb><rt>ãã¤</rt></ruby>ã¾ã£ããããã¯ä¹<ruby><rb>æ</rb><rt>ãã¤</rt></ruby>ã®<ruby><rb>äºåæ¥</rb><rt>ã¯ã¤ã</rt></ruby>ã§ãã£ãããã¹ã¦ã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å®®</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>åºå ´</rb><rt>ã²ãã°</rt></ruby>ã«<ruby><rb>åº§</rb><rt>ã</rt></ruby>ãã¦ããã®ãã¨ã®ãããã¾ã<ruby><rb>å¤§é¨</rb><rt>ãããã</rt></ruby>ã®ããã«<ruby><rb>é</rb><rt>ãµã</rt></ruby>ããã®ã®ãã¦ããã",
+      "spa": "<span class=\"verse-number\">9 </span>AsÃ­ todos los hombres de JudÃ¡ y de BenjamÃ­n se reunieron en JerusalÃ©n dentro de los tres dÃ­as, a los veinte dÃ­as del mes, el cual era el mes noveno; y se sentÃ³ todo el pueblo en la plaza de la casa de Dios, temblando por motivo de aquel asunto y a causa de la fuerte lluvia.",
+      "por": "<span class=\"verse-number\">9</span> EntÃ£o todos os homens de JudÃ¡ e Benjamim em trÃªs dias se ajuntaram em JerusalÃ©m; <span class=\"clarity-word\">era</span> o nono mÃªs, no <span class=\"clarity-word\">dia</span> vinte do mÃªs, e todo <span class=\"page-break\" data-page=\"786\"></span>o povo se assentou na praÃ§a da casa de Deus, tremendo por este assunto e por causa das grandes chuvas.",
+      "fra": "<span class=\"verse-number\">9</span> Tous les hommes de Juda et de Benjamin se rassemblÃ¨rent Ã  JÃ©rusalem dans les trois jours. CâÃ©tait le vingtiÃ¨me jour du neuviÃ¨me mois. Tout le peuple se tenait sur la place de la maison de Dieu, tremblant Ã  cause de la circonstance et en raison de la pluie.",
+      "deu": "<span class=\"verse-number\">9Â </span>Da versammelten sich denn alle MÃ¤nner von Juda und Benjamin in Jerusalem nach Ablauf dreier Tage, nÃ¤mlich am zwanzigsten Tag des neunten Monats; und das ganze Volk saÃ auf dem freien Platz vor dem Haus Gottes, zitternd wegen der vorliegenden Angelegenheit und infolge des kalten Regenwetters.",
+      "kor": "<span class=\"verse-number\">9</span> ì ë¤ì ë² ëë¯¼ ëª¨ë  ì¬ëë¤ì´ ì¼ ì¼ ë´ì ìë£¨ì´ë ì ëª¨ì´ë ëë ìíì§¸ ë¬ ì´ì­ì¼ì´ë¼ ë¬´ë¦¬ê° íëëì ì±ì  ì ê´ì¥ì ììì ì´ ì¼ê³¼ í° ë¹ ëë¬¸ì ë¨ê³  ìëë",
+      "ita": "<span class=\"verse-number\">9</span> CosÃ¬ tutti gli uomini di Giuda e di Beniamino si radunarono a Gerusalemme entro i tre giorni. Era il ventesimo giorno del nono mese. Tutto il popolo stava sulla piazza della casa di Dio, tremante a motivo di questa cosa e a causa della gran pioggia."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>And Ezra the priest stood up, and said unto them, Ye have transgressed, and have taken strange wives, to increase the trespass of Israel.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>Ø¹ÙÙÙØ¯ÙØ¦ÙØ°Ù ÙÙØ§ÙÙ Ø¹ÙØ²ÙØ±ÙØ§ Ø§ÙÙÙÙØ§ÙÙÙÙ ÙÙØ®ÙØ§Ø·ÙØ¨ÙÙÙÙÙ: âÙÙÙÙØ¯Ù Ø®ÙÙÙØªÙÙÙ Ø¹ÙÙÙØ¯Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØªÙØ²ÙÙÙÙØ¬ÙØªÙÙÙ ÙÙÙÙ ÙÙØ³ÙØ§Ø¡Ù ØºÙØ±ÙÙØ¨ÙØ§ØªÙ ÙÙØªÙØ²ÙÙØ¯ÙÙØ§ ÙÙÙÙ ÙÙØ·ÙØ£ÙØ©Ù Ø¥ÙØ«ÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">10</span> <ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ã¨ãºã©ã¯<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã£ã¦<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããªãããã¯<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ç°é¦</rb><rt>ãã»ã</rt></ruby>ã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã¨ã£ã¦ãã¤ã¹ã©ã¨ã«ã®ã¨ãã<ruby><rb>å¢</rb><rt>ã¾</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">10 </span>Y se levantÃ³ el sacerdote Esdras y les dijo: Vosotros habÃ©is pecado, por cuanto tomasteis por esposas a mujeres extranjeras, aÃ±adiendo <span class=\"clarity-word\">asÃ­</span> al pecado de Israel.",
+      "por": "<span class=\"verse-number\">10</span> EntÃ£o se levantou Esdras, o sacerdote, e disse-lhes: VÃ³s transgredistes, e casastes com mulheres estrangeiras, multiplicando o delito de Israel.",
+      "fra": "<span class=\"verse-number\">10</span> Esdras, le prÃªtre, se leva et leur ditÂ : Vous avez pÃ©chÃ© en vous alliant Ã  des femmes Ã©trangÃ¨res et vous avez rendu IsraÃ«l encore plus coupable.",
+      "deu": "<span class=\"verse-number\">10Â </span>Da stand der Priester Esra auf und sprach zu ihnen: âIhr habt euch schwer versÃ¼ndigt, indem ihr fremde Frauen ins Haus genommen und dadurch die Schuld Israels noch vergrÃ¶Ãert habt!",
+      "kor": "<span class=\"verse-number\">10</span> ì ì¬ì¥ ìì¤ë¼ê° ì¼ì´ë ê·¸ë¤ìê² ì´ë¥´ë ëí¬ê° ë²ì£íì¬ ì´ë°© ì¬ìë¥¼ ìë´ë¡ ì¼ì ì´ì¤ë¼ìì ì£ë¥¼ ëíê² íìì¼ë",
+      "ita": "<span class=\"verse-number\">10</span> E il sacerdote Esdra si alzÃ² e disse loro: âVoi avete commesso unâinfedeltÃ , sposando donne straniere, e avete accresciuto la colpa dâIsraele."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>Now therefore make confession unto the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙØ§Ø¹ÙØªÙØ±ÙÙÙÙØ§ Ø§ÙØ¢ÙÙ ÙÙÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙ ÙÙØ§Ø·ÙÙÙØ¨ÙÙØ§ ÙÙØ±ÙØ¶ÙØ§ØªÙÙÙØ ÙÙØ§ÙÙÙÙØµÙÙÙÙØ§ Ø¹ÙÙÙ Ø£ÙÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù ÙÙØ¹ÙÙÙ Ø§ÙÙÙÙØ³ÙØ§Ø¡Ù Ø§ÙÙØºÙØ±ÙÙØ¨ÙØ§ØªÙâ.",
+      "jpn": "<span class=\"verse-number\">11</span> ããã§<ruby><rb>ä»</rb><rt>ãã¾</rt></ruby>ãããªãããã®<ruby><rb>åç¥</rb><rt>ããã</rt></ruby>ã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«ããããã¦ããã®ã¿<ruby><rb>æ¨</rb><rt>ãã­</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ããªãããããªãããã¯ãã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ããã³<ruby><rb>ç°é¦</rb><rt>ãã»ã</rt></ruby>ã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã¨<ruby><rb>é¢</rb><rt>ã¯ãª</rt></ruby>ããªãããã",
+      "spa": "<span class=\"verse-number\">11 </span>Ahora pues, dad gracias a JehovÃ¡, Dios de vuestros padres, y haced su voluntad y apartaos de los pueblos de las tierras y de las esposas extranjeras.",
+      "por": "<span class=\"verse-number\">11</span> Agora, pois, fazei confissÃ£o ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> Deus de vossos pais; e fazei a sua vontade; e apartai-vos dos povos das terras, e das mulheres estrangeiras.",
+      "fra": "<span class=\"verse-number\">11</span> Confessez maintenant votre faute Ã  lâÃternel, le Dieu de vos pÃ¨res, et faites sa volontÃ©Â ! SÃ©parez-vous des peuples du pays et des femmes Ã©trangÃ¨res.",
+      "deu": "<span class=\"verse-number\">11Â </span>So legt nun ein Schuldbekenntnis vor dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span>, dem Gott eurer VÃ¤ter, ab und tut, was ihm wohlgefÃ¤llig ist! Sondert euch von den VÃ¶lkern des Landes und von den fremden Frauen ab!â",
+      "kor": "<span class=\"verse-number\">11</span> ì´ì  ëí¬ ì¡°ìë¤ì íëë ììì ì£ë¥¼ ìë³µíê³  ê·¸ì ë»ëë¡ ííì¬ ê·¸ ì§ë°© ì¬ëë¤ê³¼ ì´ë°© ì¬ì¸ì ëì´ ë²ë¦¬ë¼ íë",
+      "ita": "<span class=\"verse-number\">11</span> Ma ora rendete omaggio allâEterno, al Dio dei vostri padri, e fate quel che a lui piace! Separatevi dai popoli di questo paese e dalle donne straniere.â."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>Then all the congregation answered and said with a loud voice, As thou hast said, so must we do.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ£ÙØ¬ÙØ§Ø¨ÙØªÙ Ø§ÙÙØ¬ÙÙØ§Ø¹ÙØ©Ù ÙÙÙÙÙÙÙØ§ Ø¨ÙØµÙÙÙØªÙ Ø¹ÙØ¸ÙÙÙÙ: âØ³ÙÙÙÙÙØ¹ÙÙÙ ÙÙØ§ Ø·ÙØ§ÙÙØ¨ÙØªÙÙÙØ§ Ø¨ÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">12</span> ããã¨<ruby><rb>ä¼è¡</rb><rt>ããããã</rt></ruby>ã¯<ruby><rb>ç</rb><rt>ã¿ãª</rt></ruby><ruby><rb>å¤§å£°</rb><rt>ãããã</rt></ruby>ãããã¦<ruby><rb>ç­</rb><rt>ãã</rt></ruby>ããããããªãã®<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã¨ãããããããã¯<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãã¾ãã",
+      "spa": "<span class=\"verse-number\">12 </span>Y respondiÃ³ toda aquella congregaciÃ³n y dijeron en alta voz: AsÃ­ haremos conforme a tu palabra.",
+      "por": "<span class=\"verse-number\">12</span> E respondeu toda a congregaÃ§Ã£o, e disseram em alta voz: Assim <span class=\"clarity-word\">seja,</span> conforme as tuas palavras nos convÃ©m fazer.",
+      "fra": "<span class=\"verse-number\">12</span> Toute lâassemblÃ©e rÃ©pondit dâune voix forteÂ : Ã nous de faire comme tu lâas ditÂ !",
+      "deu": "<span class=\"verse-number\">12Â </span>Da antwortete die ganze Versammlung und rief laut: âJa, es ist unsere Pflicht, so zu tun, wie du gesagt hast!",
+      "kor": "<span class=\"verse-number\">12</span> ëª¨ë  íì¤ì´ í° ìë¦¬ë¡ ëëµíì¬ ì´ë¥´ë ë¹ì ì ë§ìëë¡ ì°ë¦¬ê° ë§ëí íí  ê²ì´ëì´ë¤",
+      "ita": "<span class=\"verse-number\">12</span> Allora tutta lâassemblea rispose e disse ad alta voce: âSÃ¬, dobbiamo fare come tu hai detto."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>But the people <span class=\"clarity-word\">are</span> many, and <span class=\"clarity-word\">it is</span> a time of much rain, and we are not able to stand without, neither <span class=\"clarity-word\">is this</span> a work of one day or two: for we are many that have transgressed in this thing.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>Ø¥ÙÙÙØ§ Ø£ÙÙÙÙ Ø§ÙØ´ÙÙØ¹ÙØ¨Ù ØºÙÙÙÙØ±ÙØ ÙÙØ§ÙÙÙÙØµÙÙÙ ÙÙØµÙÙÙ Ø£ÙÙÙØ·ÙØ§Ø±ÙØ ÙÙÙØ§ Ø·ÙØ§ÙÙØ©Ù ÙÙÙÙØ§ Ø¹ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙÙ Ø®ÙØ§Ø±ÙØ¬Ø§Ù ÙÙØ¯ÙÙØ©Ù Ø·ÙÙÙÙÙÙØ©Ù ØªÙØ­ÙØªÙ Ø§ÙØ£ÙÙÙØ·ÙØ§Ø±ÙØ ÙÙÙØ§Ø³ÙÙÙÙÙÙØ§ Ø£ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙÙÙ ÙÙØ³ÙØªÙØºÙØ±ÙÙÙ Ø£ÙÙÙØ«ÙØ±Ù ÙÙÙÙ ÙÙÙÙÙÙ ÙÙØ§Ø­ÙØ¯Ù Ø£ÙÙÙ Ø§Ø«ÙÙÙÙÙÙÙØ ÙØ£ÙÙÙÙÙÙØ§ ØªÙÙÙØ±ÙÙØ·ÙÙÙØ§ Ø¨ÙØ§Ø±ÙØªÙÙÙØ§Ø¨Ù ÙÙØ°ÙØ§ Ø§ÙØ¥ÙØ«ÙÙÙ ØªÙÙÙØ±ÙÙØ·Ø§Ù Ø¹ÙØ¸ÙÙÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">13</span> ããã<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã¯<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ããã¾ã<ruby><rb>å¤§é¨</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>å­£ç¯</rb><rt>ããã¤</rt></ruby>ã§ãããã<ruby><rb>å¤</rb><rt>ãã¨</rt></ruby>ã«<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã£ã¦ãããã¨ã¯ã§ãã¾ãããã¾ãããã¯ä¸<ruby><rb>æ¥</rb><rt>ã«ã¡</rt></ruby>ããµã¤ãã®<ruby><rb>ä»äº</rb><rt>ããã¨</rt></ruby>ã§ã¯ããã¾ãããããããã¯ãã®<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã«ã¤ãã¦<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ããããã§ãã",
+      "spa": "<span class=\"verse-number\">13 </span>Pero el pueblo es numeroso, y estamos en tiempo de lluvia, y no podemos estar en la calle; ni la obra es de un dÃ­a ni de dos, porque somos muchos los que hemos pecado en este asunto.",
+      "por": "<span class=\"verse-number\">13</span> PorÃ©m o povo <span class=\"clarity-word\">Ã©</span> muito, e tambÃ©m <span class=\"clarity-word\">Ã©</span> tempo de grandes chuvas, e nÃ£o se pode estar aqui fora, nem <span class=\"clarity-word\">Ã©</span> trabalho de um dia nem de dois, porque <span class=\"clarity-word\">somos</span> muitos os <span class=\"clarity-word\">que</span> transgredimos neste assunto.",
+      "fra": "<span class=\"verse-number\">13</span> Mais le peuple est nombreux, le temps est Ã  la pluie et il nâest pas possible de rester dehorsÂ ; dâailleurs, ce nâest pas lâÅuvre dâun jour ou deux car il y en a beaucoup parmi nous qui ont pÃ©chÃ© dans cette affaire.",
+      "deu": "<span class=\"verse-number\">13Â </span>Aber das Volk ist zahlreich, und dazu ist jetzt die Regenzeit, sodass man sich unmÃ¶glich im Freien aufhalten kann; auch lÃ¤sst sich die Sache nicht an einem oder zwei Tagen abmachen, denn wir haben uns allzu vielfacher Ãbertretungen in dieser Beziehung schuldig gemacht.",
+      "kor": "<span class=\"verse-number\">13</span> ê·¸ë¬ë ë°±ì±ì´ ë§ê³  ë í° ë¹ê° ë´ë¦¬ë ëë ë¥í ë°ì ìì§ ëª»í  ê²ì´ì ì°ë¦¬ê° ì´ ì¼ë¡ í¬ê² ë²ì£íììì¦ íë£¨ ì´íì í  ì¼ì´ ìëì¤ë",
+      "ita": "<span class=\"verse-number\">13</span> Ma il popolo Ã¨ in gran numero, e il tempo Ã¨ molto piovoso e non possiamo stare allo scoperto; e questo non Ã¨ un affare di un giorno o due, poichÃ© siamo stati numerosi a commettere questo peccato."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God for this matter be turned from us.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ°ÙÙÙÙÙ ÙÙÙÙÙÙÙÙØ¶Ù ÙÙÙÙÙ Ø±ÙØ¤ÙØ³ÙØ§Ø¦ÙÙÙØ§ ÙÙÙÙÙÙÙ Ø§ÙÙØ¬ÙÙÙØ§Ø¹ÙØ©ÙØ ÙÙÙÙÙÙØ£ÙØªÙ ÙÙÙÙ ÙÙØ¯ÙÙÙÙÙØ§ ÙÙÙÙÙ ÙÙÙÙ ØªÙØ²ÙÙÙÙØ¬Ù ÙÙÙÙ Ø§ÙÙØ±ÙØ£ÙØ©Ù ØºÙØ±ÙÙØ¨ÙØ©ÙØ ÙÙÙ Ø£ÙÙÙÙÙØ§ØªÙ ÙÙØ¹ÙÙÙÙÙÙØ©ÙØ Ø¨ÙØ±ÙÙÙÙÙØ©Ù Ø´ÙÙÙÙØ®Ù ÙÙØ¯ÙÙÙÙØªÙÙÙ ÙÙÙÙØ¶ÙØ§ØªÙÙÙØ§Ø ÙÙÙÙØ±ÙØªÙØ¯ÙÙ Ø¹ÙÙÙÙØ§ Ø§Ø­ÙØªÙØ¯ÙØ§ÙÙ ØºÙØ¶ÙØ¨Ù Ø¥ÙÙÙÙÙÙÙØ§ ÙÙÙÙ Ø¬ÙØ±ÙÙØ§Ø¡Ù Ø®ÙØ·ÙÙØ¦ÙØªÙÙÙØ§â.",
+      "jpn": "<span class=\"verse-number\">14</span> ããã§ã©ãããããããã®ã¤ãããã¡ã¯<ruby><rb>å¨</rb><rt>ãã</rt></ruby><ruby><rb>ä¼è¡</rb><rt>ããããã</rt></ruby>ã®ããã«<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã£ã¦ãã ãããããããã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã®<ruby><rb>å</rb><rt>ãã¡</rt></ruby>ã«ããã<ruby><rb>ç°é¦</rb><rt>ãã»ã</rt></ruby>ã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã¨ã£ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããããªãã°ãã¿ãª<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãã®<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã«ããããªãããã¾ããã®ãã®ã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã®<ruby><rb>é·è</rb><rt>ã¡ãããã</rt></ruby>ããã³<ruby><rb>è£å¤äºº</rb><rt>ããã°ãã«ã</rt></ruby>ããããã¨<ruby><rb>ä¸ç·</rb><rt>ãã£ãã</rt></ruby>ã«ããããªãããããããã°ãã®<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã«ããããããã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>æ¿</rb><rt>ã¯ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¯ãã¤ãã«ããããã<ruby><rb>é¢</rb><rt>ã¯ãª</rt></ruby>ããã§ããããã",
+      "spa": "<span class=\"verse-number\">14 </span>Que se queden nuestros jefes en lugar de toda la congregaciÃ³n, y todos aquellos que en nuestras ciudades hayan tomado por esposas a mujeres extranjeras vengan en tiempos seÃ±alados, y con ellos los ancianos de cada ciudad y los jueces de ellas, hasta que se aparte de nosotros el furor de la ira de nuestro Dios a causa de esto.",
+      "por": "<span class=\"verse-number\">14</span> Ora, ponham-se os nossos prÃ­ncipes de toda a congregaÃ§Ã£o <span class=\"clarity-word\">sobre este assunto;</span> e todos os que em nossas cidades casaram com mulheres estrangeiras venham em tempos determinados, e com eles os anciÃ£os de cada cidade, e os seus juÃ­zes, atÃ© que desviemos de nÃ³s o ardor da ira do nosso Deus, por esta causa.",
+      "fra": "<span class=\"verse-number\">14</span> Que nos chefs restent donc pour toute lâassemblÃ©eÂ ; et tous ceux qui dans nos villes se sont alliÃ©s Ã  des femmes Ã©trangÃ¨res viendront aux dates fixÃ©es avec les anciens et les juges de chaque ville, jusquâÃ  ce que lâardente colÃ¨re de notre Dieu se soit dÃ©tournÃ©e de nous au sujet de cette affaire.",
+      "deu": "<span class=\"verse-number\">14Â </span>So mÃ¶gen denn unsere Obersten fÃ¼r die ganze Gemeinde eintreten, und dann sollen alle, die in unseren Ortschaften fremde Frauen heimgefÃ¼hrt haben, zu festzusetzenden Zeiten kommen und mit ihnen die Ãltesten der betreffenden Ortschaften und deren Richter, bis die Zornglut unseres Gottes um dieser Sache willen von uns abgewendet ist.â",
+      "kor": "<span class=\"verse-number\">14</span> ì´ì  ì¨ íì¤ì ìíì¬ ì°ë¦¬ì ë°©ë°±ë¤ì ì¸ì°ê³  ì°ë¦¬ ëª¨ë  ì±ìì ì´ë°© ì¬ììê² ì¥ê°ë  ìë ë¤ ê¸°íì ê° ê³ ìì ì¥ë¡ë¤ê³¼ ì¬íì¥ê³¼ í¨ê» ì¤ê² íì¬ ì´ ì¼ë¡ ì¸í ì°ë¦¬ íëëì ì§ë¸ê° ì°ë¦¬ìê²ì ë ëê² íìì íë",
+      "ita": "<span class=\"verse-number\">14</span> Rimangano dunque qui i capi di tutta lâassemblea; e tutti quelli che nelle nostre cittÃ  hanno sposato donne straniere vengano a tempi determinati, con gli anziani e i giudici di ogni cittÃ , finchÃ© non sia rimossa da noi lâardente ira del nostro Dio per questa infedeltÃ â."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span><span class=\"para-mark\">Â¶ </span>Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this <span class=\"clarity-word\">matter:</span> and Meshullam and Shabbethai the Levite helped them.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙÙÙÙÙ ÙÙØ¹ÙØªÙØ±ÙØ¶Ù Ø¹ÙÙÙÙ ÙÙØ°ÙØ§ Ø§ÙØ£ÙÙÙØ±Ù Ø³ÙÙÙÙ ÙÙÙÙÙØ§Ø«ÙØ§ÙÙ Ø¨ÙÙÙ Ø¹ÙØ³ÙØ§Ø¦ÙÙÙÙ ÙÙÙÙØ­ÙØ²ÙÙÙØ§ Ø¨ÙÙÙ ØªÙÙÙÙÙØ©ÙØ ÙÙØ£ÙÙÙÙØ¯ÙÙÙÙÙØ§ ÙÙÙ Ø°ÙÙÙÙÙ ÙÙØ´ÙÙÙØ§ÙÙ ÙÙØ´ÙØ¨ÙØªÙØ§ÙÙ Ø§ÙÙÙØ§ÙÙÙÙÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">15</span> ã¨ãããã¢ãµãã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¨ãã¿ã³ããã³ãã¯ã¯ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¤ãã¸ã¢ã¯ããã«<ruby><rb>åå¯¾</rb><rt>ã¯ããã</rt></ruby>ãããããã¦ã¡ã·ã¥ã©ã ããã³ã¬ãã³ã¨ã·ã£ãã¿ã¤ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ¯æ</rb><rt>ãã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">15 </span>Solamente JonatÃ¡n hijo de Asael, y JahazÃ­as hijo de Ticva se opusieron a esto; y Mesulam y Sabetai, el levita, les ayudaron.",
+      "por": "<span class=\"verse-number\">15</span> PorÃ©m somente JÃ´natas, filho de Asael, e JaseÃ­as, filho de TicvÃ¡, se puseram sobre este assunto<span class=\"clarity-word\">;</span> e MesulÃ£o, e Sabetai, levita, os ajudaram.",
+      "fra": "<span class=\"verse-number\">15</span> Jonathan, fils dâAsaÃ«l, et Jachzia, fils de Thikva, appuyÃ©s par Meschullam et par le LÃ©vite Schabthai, furent les seuls Ã  combattre cet avis",
+      "deu": "<span class=\"verse-number\">15Â </span>Nur Jonatan, der Sohn AsaÃ«ls, und Jachseja, der Sohn Tikwas, traten gegen diesen Vorschlag auf, und Meschullam und der Levit Schabbetai unterstÃ¼tzten sie;",
+      "kor": "<span class=\"verse-number\">15</span> ì¤ì§ ìì¬í¬ì ìë¤ ìëë¨ê³¼ ëê³¼ì ìë¤ ì¼ì¤ì¼ê° ì¼ì´ë ê·¸ ì¼ì ë°ëíê³  ë¯ì ëê³¼ ë ì ì¬ë ì½ë¸ëê° ê·¸ë¤ì ëëë¼",
+      "ita": "<span class=\"verse-number\">15</span> Gionatan, figlio di Asael, e Iazia, figlio di Ticva, appoggiati da Meshullam e dal Levita Shabbetai, furono i soli ad opporsi a questo;"
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>And the children of the captivity did so. And Ezra the priest, <span class=\"clarity-word\">with</span> certain chief of the fathers, after the house of their fathers, and all of them by <span class=\"clarity-word\">their</span> names, were separated, and sat down in the first day of the tenth month to examine the matter.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙÙÙÙÙØ°Ù Ø§ÙÙØ¹ÙØ§Ø¦ÙØ¯ÙÙÙÙ ÙÙÙÙ Ø§ÙØ³ÙÙØ¨ÙÙÙ ÙÙØ°ÙØ§ Ø§ÙØ£ÙÙÙØ±ÙØ ÙÙØ§Ø®ÙØªÙØ§Ø±Ù Ø¹ÙØ²ÙØ±ÙØ§ Ø§ÙÙÙÙØ§ÙÙÙÙ Ø±ÙØ¤ÙØ³ÙØ§Ø¡Ù Ø§ÙÙØ¹ÙØ§Ø¦ÙÙØ§ØªÙ Ø¨ÙØ£ÙØ³ÙÙÙØ§Ø¦ÙÙÙÙÙ ÙÙÙÙÙØ§Ù ÙÙØ¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙØ ÙÙØ§ÙÙÙÙØµÙÙÙÙØ§ Ø¹ÙÙÙ Ø§ÙÙØ¬ÙÙÙØ§Ø¹ÙØ©Ù ÙÙØ¬ÙÙÙØ³ÙÙØ§ ÙÙÙ Ø§ÙÙÙÙÙÙÙÙ Ø§ÙØ£ÙÙÙÙÙÙ ÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ±Ù Ø§ÙÙØ¹ÙØ§Ø´ÙØ±Ù (ÙÙÙÙØªÙØµÙÙÙ ÙÙØ§ÙÙÙÙÙ Ø§ÙØ£ÙÙÙÙÙÙâââØ¯ÙÙØ³ÙÙÙØ¨ÙØ±Ù) ÙÙÙÙÙÙØ¶ÙØ§Ø¡Ù ÙÙÙ Ø§ÙØ£ÙÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">16</span> ããã§<ruby><rb>æå</rb><rt>ã»ããã</rt></ruby>ãã<ruby><rb>å¸°</rb><rt>ãã</rt></ruby>ã£ã¦<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã¯ãã®ããã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ããããªãã¡<ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ã¨ãºã©ã¯ã<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã®<ruby><rb>é·</rb><rt>ã¡ãã</rt></ruby>ãã¡ããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããããã®ãã®ãã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ãããã¦<ruby><rb>é¸</rb><rt>ãã</rt></ruby>ãã ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯å<ruby><rb>æ</rb><rt>ãã¤</rt></ruby>ã®ä¸<ruby><rb>æ¥</rb><rt>ã«ã¡</rt></ruby>ãã<ruby><rb>åº§</rb><rt>ã</rt></ruby>ãã¦ãã®<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ã",
+      "spa": "<span class=\"verse-number\">16 </span>E hicieron asÃ­ los hijos de la cautividad. Y fueron apartados el sacerdote Esdras y algunos jefes de casas paternas, segÃºn sus casas paternas, todos ellos por sus nombres, se sentaron el primer dÃ­a del mes dÃ©cimo para examinar el asunto.",
+      "por": "<span class=\"verse-number\">16</span> E assim o fizeram os que retornaram do cativeiro; e apartaram-se o sacerdote Esdras <span class=\"clarity-word\">e</span> os homens, cabeÃ§as dos pais, segundo a casa de seus pais, e todos pelos <span class=\"clarity-word\">seus</span> nomes; e assentaram-se no primeiro dia do dÃ©cimo mÃªs, para inquirirem sobre este assunto.",
+      "fra": "<span class=\"verse-number\">16</span> auquel se conformÃ¨rent les fils de la captivitÃ©. On choisit Esdras, le prÃªtre, et des chefs de famille selon leurs maisons paternelles, tous dÃ©signÃ©s par leurs nomsÂ ; et ils siÃ©gÃ¨rent le premier jour du dixiÃ¨me mois pour sâoccuper de la chose.",
+      "deu": "<span class=\"verse-number\">16Â </span>aber die Ã¼brigen aus der Gefangenschaft ZurÃ¼ckgekehrten verfuhren nach dem Vorschlag, und der Priester Esra erwÃ¤hlte sich MÃ¤nner, nÃ¤mlich FamilienoberhÃ¤upter nach den einzelnen FamilienÂ â sie sind alle mit Namen aufgezeichnet. Diese hielten dann am ersten Tag des zehnten Monats <span class=\"clarity-word\">ihre erste</span> Sitzung ab, um die Sache zu untersuchen,",
+      "kor": "<span class=\"verse-number\">16</span> ì¬ë¡ì¡íë ìë¤ì ììì´ ê·¸ëë¡ íì§ë¼ ì ì¬ì¥ ìì¤ë¼ê° ê·¸ ì¢ì¡±ì ë°ë¼ ê°ê° ì§ëªë ì¡±ì¥ë¤ ëª ì¬ëì ì ìíê³  ì´ì§¸ ë¬ ì´íë£¨ì ìì ê·¸ ì¼ì ì¡°ì¬íì¬",
+      "ita": "<span class=\"verse-number\">16</span> ma quelli della schiavitÃ¹ fecero a quel modo; e furono scelti il sacerdote Esdra e alcuni capifamiglia secondo le loro case patriarcali, tutti designati per nome, i quali cominciarono a riunirsi il primo giorno del decimo mese, per esaminare i fatti."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>And they made an end with all the men that had taken strange wives by the first day of the first month.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØªÙÙÙÙ Ø§ÙÙÙÙØµÙÙÙ ÙÙÙ ÙÙØ¶ÙØ§ÙÙØ§ ÙÙÙÙÙ Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙÙØ°ÙÙÙÙ ØªÙØ²ÙÙÙÙØ¬ÙÙØ§ ÙÙÙÙ ÙÙØ³ÙØ§Ø¡Ù ØºÙØ±ÙÙØ¨ÙØ§ØªÙ ÙÙÙ Ø§ÙÙÙÙÙÙÙÙ Ø§ÙØ£ÙÙÙÙÙÙ ÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ±Ù Ø§ÙØ£ÙÙÙÙÙÙ (Ø¢Ø°ÙØ§Ø±ÙâââÙÙØ§Ø±ÙØ³Ù).",
+      "jpn": "<span class=\"verse-number\">17</span> <ruby><rb>æ­£æ</rb><rt>ããããã¤</rt></ruby>ã®ä¸<ruby><rb>æ¥</rb><rt>ã«ã¡</rt></ruby>ã«ãªã£ã¦ã<ruby><rb>ç°é¦</rb><rt>ãã»ã</rt></ruby>ã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã¨ã£ã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ããã¨ãã¨ã<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹<ruby><rb>çµ</rb><rt>ãã</rt></ruby>ã£ãã",
+      "spa": "<span class=\"verse-number\">17 </span>Y concluyeron el asunto de todos aquellos que habÃ­an tomado por esposas a extranjeras el primer dÃ­a del mes primero.",
+      "por": "<span class=\"verse-number\">17</span> E acabaram de tratar com todos os homens que casaram com mulheres estrangeiras, atÃ© o primeiro dia do primeiro mÃªs.",
+      "fra": "<span class=\"verse-number\">17</span> Le premier jour du premier mois, ils en finirent avec tous les hommes qui sâÃ©taient alliÃ©s Ã  des femmes Ã©trangÃ¨res.",
+      "deu": "<span class=\"verse-number\">17Â </span>und sie erledigten die ganze Angelegenheit bezÃ¼glich der MÃ¤nner, welche fremde Frauen geheiratet hatten, bis zum ersten Tag des ersten Monats.",
+      "kor": "<span class=\"verse-number\">17</span> ì²«ì§¸ ë¬ ì´íë£¨ì ì´ë¥´ë¬ ì´ë°© ì¬ì¸ì ìë´ë¡ ë§ì´í ìì ì¼ <span class=\"clarity-word\">ì¡°ì¬íê¸°ë¥¼</span> ë§ì¹ëë¼",
+      "ita": "<span class=\"verse-number\">17</span> Il primo giorno del primo mese aveano finito quanto concerneva tutti quelli che avevano sposato donne straniere."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span><span class=\"para-mark\">Â¶ </span>And among the sons of the priests there were found that had taken strange wives: <span class=\"clarity-word\">namely,</span> of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙÙÙØ¬ÙØ¯Ù Ø¨ÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙØ©Ù ÙÙÙÙÙÙÙ ØªÙØ²ÙÙÙÙØ¬ÙÙØ§ ÙÙÙÙ ÙÙØ³ÙØ§Ø¡Ù ØºÙØ±ÙÙØ¨ÙØ§ØªÙ: ÙÙÙÙ Ø¨ÙÙÙÙ ÙÙØ´ÙÙØ¹Ù Ø¨ÙÙÙ ÙÙÙØµÙØ§Ø¯ÙØ§ÙÙ ÙÙØ¥ÙØ®ÙÙÙØªÙÙÙ: ÙÙØ¹ÙØ´ÙÙÙØ§ ÙÙØ£ÙÙÙÙØ¹ÙØ²ÙØ±Ù ÙÙÙÙØ§Ø±ÙÙØ¨Ù ÙÙØ¬ÙØ¯ÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">18</span> <ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã®ãã¡ã§<ruby><rb>ç°é¦</rb><rt>ãã»ã</rt></ruby>ã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã¨ã£ã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã®ããããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ãã¨ã¶ãã¯ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¨ã·ã¥ã¢ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããããã³ãã®<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ãã¡ã®ãã¡ã§ã¯ãã¢ã»ã¤ãã¨ãªã¨ã¼ã«ãã¤ãªããã²ããªã¤ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">18 </span>Y de los hijos de los sacerdotes que habÃ­an tomado por esposas a extranjeras fueron hallados <span class=\"clarity-word\">estos:</span> De los hijos de JesÃºa hijo de Josadac, y de sus hermanos: MaasÃ­as, y Eliezer, y Jarib y GedalÃ­as.",
+      "por": "<span class=\"verse-number\">18</span> E acharam-se dos filhos dos sacerdotes que casaram com mulheres estrangeiras: dos filhos de Jesua, filho de Josadaque, e seus irmÃ£os, Maaseias, e Eliezer, e Jaribe, e Gedalias.",
+      "fra": "<span class=\"verse-number\">18</span> Parmi les fils de prÃªtres, il sâen trouva qui sâÃ©taient alliÃ©s Ã  des femmes Ã©trangÃ¨resÂ : des fils de JosuÃ©, fils de Jotsadak, et de ses frÃ¨res, MaasÃ©ja, ÃliÃ©zer, Jarib et Guedalia,",
+      "deu": "<span class=\"verse-number\">18Â </span>Es hatten sich aber unter denen, die zur Priesterschaft gehÃ¶rten, Folgende gefunden, die fremde Frauen geheiratet hatten: aus der Familie Jeschuas, des Sohnes Jozadaks, und von seinen BrÃ¼dern: Maaseja, EliÃ«ser, Jarib und Gedalja;",
+      "kor": "<span class=\"verse-number\">18</span> ì ì¬ì¥ì ë¬´ë¦¬ ì¤ì ì´ë°© ì¬ì¸ì ìë´ë¡ ë§ì´í ìë ììì ìì ì¤ ìì¬ë¥ì ìë¤ê³¼ ê·¸ì íì  ë§ìì¸ì¼ì ìë¦¬ììê³¼ ì¼ë¦½ê³¼ ê·¸ë¬ë´ë¼",
+      "ita": "<span class=\"verse-number\">18</span> Tra i figli dei sacerdoti questi si trovarono che avevano sposato donne straniere: dei figli di Ieshua, figlio di Iozadac, e tra i suoi fratelli: Maaseia, Eliezer, Iarib e Ghedalia,"
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>And they gave their hands that they would put away their wives; and <span class=\"clarity-word\">being</span> guilty, <span class=\"clarity-word\">they offered</span> a ram of the flock for their trespass.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØ¤ÙÙØ§Ø¡Ù ØªÙØ¹ÙÙÙÙØ¯ÙÙØ§ Ø¨ÙØ¥ÙØ®ÙØ±ÙØ§Ø¬Ù ÙÙØ³ÙØ§Ø¦ÙÙÙÙÙ Ø§ÙÙØºÙØ±ÙÙØ¨ÙØ§ØªÙ ÙÙÙÙØ±ÙÙØ¨ÙÙÙÙ ÙÙØ¨ÙØ´Ù ØºÙÙÙÙÙ ØªÙÙÙÙÙÙØ±Ø§Ù Ø¹ÙÙÙ Ø¥ÙØ«ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">19</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ãã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã<ruby><rb>é¢ç¸</rb><rt>ããã</rt></ruby>ãããã¨ãã<ruby><rb>èª</rb><rt>ã¡ã</rt></ruby>ãããªãããã§ã«<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ããã¨ããã®ã§ããã®ã¨ãã®ããã«<ruby><rb>éç¾</rb><rt>ãã²ã¤ã</rt></ruby>ä¸<ruby><rb>é ­</rb><rt>ã¨ã</rt></ruby>ãããããã",
+      "spa": "<span class=\"verse-number\">19 </span>Y levantaron su mano prometiendo despedir a sus esposas; y siendo culpables, ofrecieron un carnero de los rebaÃ±os como ofrenda por su culpa.",
+      "por": "<span class=\"verse-number\">19</span> E deram a sua mÃ£o <span class=\"clarity-word\">prometendo</span> que despediriam suas mulheres; e achando-se culpados, <span class=\"clarity-word\">ofereceram</span> um carneiro do rebanho pelo seu delito.",
+      "fra": "<span class=\"verse-number\">19</span> qui sâengagÃ¨rent, en donnant la main, Ã  renvoyer leurs femmes et Ã  offrir un bÃ©lier en sacrifice de culpabilitÃ©Â ;",
+      "deu": "<span class=\"verse-number\">19Â </span>sie versprachen mit Handschlag, ihre Frauen entlassen zu wollen, und sie brachten als Schuldopfer einen Widder fÃ¼r ihre Schuld dar.",
+      "kor": "<span class=\"verse-number\">19</span> ê·¸ë¤ì´ ë¤ ìì ì¡ì ë§¹ì¸íì¬ ê·¸ë¤ì ìë´ë¥¼ ë´ë³´ë´ê¸°ë¡ íê³  ë ê·¸ ì£ë¡ ë§ë¯¸ìì ì«ì í ë§ë¦¬ë¥¼ ìê±´ì ë¡ ëë ¸ì¼ë©°",
+      "ita": "<span class=\"verse-number\">19</span> i quali promisero, dando la mano, di mandare via le loro mogli, e offrirono un montone come sacrificio per la loro colpa."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>And of the sons of Immer; Hanani, and Zebadiah.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙÙÙÙÙ Ø¨ÙÙÙÙ Ø¥ÙÙÙÙÙØ±Ù: Ø­ÙÙÙØ§ÙÙÙ ÙÙØ²ÙØ¨ÙØ¯ÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">20</span> ã¤ã³ã¡ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ãããããã³ã¼ããã¤ã",
+      "spa": "<span class=\"verse-number\">20 </span>Y de los hijos de Imer: Hanani y ZebadÃ­as.",
+      "por": "<span class=\"verse-number\">20</span> E dos filhos de Imer: Hanani, e Zebadias.",
+      "fra": "<span class=\"verse-number\">20</span> des fils dâImmer, Hanani et ZebadiaÂ ;",
+      "deu": "<span class=\"verse-number\">20Â </span>Ferner aus der Familie Immer: Hanani und Sebadja;",
+      "kor": "<span class=\"verse-number\">20</span> ë ìë© ìì ì¤ììë íëëì ì¤ë°ëì",
+      "ita": "<span class=\"verse-number\">20</span> Dei figli di Immer: Anani e Zebadia."
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙÙÙÙÙ Ø¨ÙÙÙÙ Ø­ÙØ§Ø±ÙÙÙÙ: ÙÙØ¹ÙØ³ÙÙÙØ§ ÙÙØ¥ÙÙÙÙÙÙÙØ§ ÙÙØ´ÙÙÙØ¹ÙÙÙØ§ ÙÙÙÙØ­ÙÙØ¦ÙÙÙÙ ÙÙØ¹ÙØ²ÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">21</span> ããªã ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ãã¢ã»ã¤ãã¨ãªã¤ãã·ãã¤ãã¨ãã¨ã«ãã¦ã¸ã¤ã",
+      "spa": "<span class=\"verse-number\">21 </span>Y de los hijos de Harim: MaasÃ­as, y ElÃ­as, y SemaÃ­as, y Jehiel y UzÃ­as.",
+      "por": "<span class=\"verse-number\">21</span> E dos filhos de Harim: Maaseias, e Elias, e SemaÃ­as, e Jeiel, e Uzias.",
+      "fra": "<span class=\"verse-number\">21</span> des fils de Harim, MaasÃ©ja, Ãlie, Schemaeja, Jehiel et OziasÂ ;",
+      "deu": "<span class=\"verse-number\">21Â </span>aus der Familie Harim: Maaseja, Elija, Schemaja, JehiÃ«l und Usija;",
+      "kor": "<span class=\"verse-number\">21</span> íë¦¼ ìì ì¤ììë ë§ìì¸ì¼ì ìë¦¬ì¼ì ì¤ë§ì¼ì ì¬íìê³¼ ììì¼ì",
+      "ita": "<span class=\"verse-number\">21</span> Dei figli di Arim: Maaseia, Elia, Scemaia, Ieiel ed Uzzia."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>And of the sons of Pashur; Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙÙÙÙÙ Ø¨ÙÙÙÙ ÙÙØ´ÙØ­ÙÙØ±Ù: Ø£ÙÙÙÙÙÙØ¹ÙÙÙÙØ§ÙÙ ÙÙÙÙØ¹ÙØ³ÙÙÙØ§ ÙÙØ¥ÙØ³ÙÙØ¹ÙÙÙÙ ÙÙÙÙØ«ÙÙÙØ¦ÙÙÙÙ ÙÙÙÙÙØ²ÙØ§Ø¨ÙØ§Ø¯Ù ÙÙØ£ÙÙÙØ¹ÙØ§Ø³ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">22</span> ãã·ã¥ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ã¨ãªãªã¨ãã¤ããã¢ã»ã¤ãã¤ã·ãã¨ã«ããã¿ã³ã¨ã«ãã¨ã¶ãããã¨ã©ãµã",
+      "spa": "<span class=\"verse-number\">22 </span>Y de los hijos de Pasur: Elioenai, MaasÃ­as, Ismael, Natanael, Jozabad y Elasa.",
+      "por": "<span class=\"verse-number\">22</span> E dos filhos de Pasur: Elioenai, Maaseias, Ismael, Natanael, Jozabade, e Elasa.",
+      "fra": "<span class=\"verse-number\">22</span> des fils de Paschhur, EljoÃ©naÃ¯, MaasÃ©ja, IsmaÃ«l, Nethaneel, Jozabad et Ãleasa.",
+      "deu": "<span class=\"verse-number\">22Â </span>aus der Familie Paschhur: EljoÃ«nai, Maaseja, Jischmael, Netanel, Josabad und Elasa.",
+      "kor": "<span class=\"verse-number\">22</span> ë°ì¤í ìì ì¤ììë ìë£ìë´ì ë§ìì¸ì¼ì ì´ì¤ë§ìê³¼ ëë¤ë¬ê³¼ ìì¬ë°§ê³¼ ìë¼ì¬ìëë¼",
+      "ita": "<span class=\"verse-number\">22</span> Dei figli di Pashur: Elioenai, Maaseia, Ishmael, Netaneel, Iozabad, Elasa."
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>Also of the Levites; Jozabad, and Shimei, and Kelaiah, (the same <span class=\"clarity-word\">is</span> Kelita,) Pethahiah, Judah, and Eliezer.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙÙÙÙÙ Ø§ÙÙÙØ§ÙÙÙÙÙÙÙÙ: ÙÙÙØ²ÙØ§Ø¨ÙØ§Ø¯ÙØ ÙÙØ´ÙÙÙØ¹ÙÙØ ÙÙÙÙÙØ§ÙÙØ§ (Ø£ÙÙÙ ÙÙÙÙÙØ·ÙØ§)Ø ÙÙÙÙØªÙØ­ÙÙÙØ§ ÙÙÙÙÙÙÙØ°ÙØ§ ÙÙØ£ÙÙÙÙØ¹ÙØ²ÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">23</span> ã¬ãã³ã¨ã®ãã¡ã§ã¯ã¨ã¶ãããã·ã¡ã¤ãã±ã©ã¤ï¼ããªãã¡ã±ãªã¿ï¼ããã¿ãã¤ãã¦ããã¨ãªã¨ã¼ã«ã",
+      "spa": "<span class=\"verse-number\">23 </span>Y de los hijos de los levitas: Jozabad, y Simei y KelaÃ­a (este es Kelita), PetaÃ­as, JudÃ¡ y Eliezer.",
+      "por": "<span class=\"verse-number\">23</span> E dos levitas: Jozabade, e Simei, e QuelaÃ­as (este <span class=\"clarity-word\">Ã©</span> Quelita), PetaÃ­as, JudÃ¡, e Eliezer.",
+      "fra": "<span class=\"verse-number\">23</span> Parmi les LÃ©vitesÂ : Jozabad, SchimeÃ¯, KÃ©laja ou Kelitha, Pethachja, Juda et ÃliÃ©zer.",
+      "deu": "<span class=\"verse-number\">23Â </span>Sodann von den Leviten: Josabad, Schimi, Kelaja (das ist Kelita), Petachja, Juda und EliÃ«ser.",
+      "kor": "<span class=\"verse-number\">23</span> ë ì ì¬ë ì¤ììë ìì¬ë°§ê³¼ ìë¯ì´ì ê¸ë¼ì¼ë¼ íë ê¸ë¦¬ë¤ì ë¸ë¤íì¼ì ì ë¤ì ìë¦¬ììì´ìëë¼",
+      "ita": "<span class=\"verse-number\">23</span> Dei Leviti: Iozabad, Scimei, Chelaia, detto anche Chelita, Petaia, Giuda ed Eliezer."
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>Of the singers also; Eliashib: and of the porters; Shallum, and Telem, and Uri.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙÙÙÙÙ Ø§ÙÙÙÙØºÙÙÙÙÙÙÙ: Ø£ÙÙÙÙÙØ§Ø´ÙÙØ¨Ù. ÙÙÙÙÙÙ Ø­ÙØ±ÙÙØ§Ø³Ù Ø£ÙØ¨ÙÙÙØ§Ø¨Ù Ø§ÙÙÙÙÙÙÙÙÙÙ: Ø´ÙÙÙÙÙÙÙ ÙÙØ·ÙØ§ÙÙÙÙ ÙÙØ£ÙÙØ±ÙÙ.",
+      "jpn": "<span class=\"verse-number\">24</span> <ruby><rb>æ­</rb><rt>ãã</rt></ruby>ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ãã¡ã§ã¯ã¨ãªã¢ã·ãã<ruby><rb>éè¡</rb><rt>ãããã</rt></ruby>ã®ãã¡ã§ã¯ã·ã£ã«ã ããã¬ã ãã¦ãªã",
+      "spa": "<span class=\"verse-number\">24 </span>Y de los cantores: Eliasib; y de los porteros: Salum, y Telem y Uri.",
+      "por": "<span class=\"verse-number\">24</span> E dos cantores: Eliasibe; e dos porteiros: Salum, e TelÃ©m, e Uri.",
+      "fra": "<span class=\"verse-number\">24</span> Parmi les chantresÂ : Ãliaschib. Parmi les portiersÂ : Schallum, ThÃ©lem et Uri.",
+      "deu": "<span class=\"verse-number\">24Â </span>Sodann von den SÃ¤ngern: Eljaschib; und von den TorhÃ¼tern: Schallum, Telem und Uri.",
+      "kor": "<span class=\"verse-number\">24</span> ë¸ëíë ì ì¤ììë ìë¦¬ìì­ì´ì ë¬¸ì§ê¸° ì¤ììë ì´ë£¸ê³¼ ë¸ë ê³¼ ì°ë¦¬ìëë¼",
+      "ita": "<span class=\"verse-number\">24</span> Dei cantori: Eliascib. Dei portinai; Shallum, Telem e Uri."
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>ÙÙÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ÙÙÙÙ Ø¨ÙÙÙÙ ÙÙØ±ÙØ¹ÙÙØ´Ù: Ø±ÙÙÙÙÙØ§ ÙÙÙÙØ²ÙÙÙÙÙØ§ ÙÙÙÙÙÙÙÙÙÙØ§ ÙÙÙÙÙÙÙØ§ÙÙÙÙÙ ÙÙØ£ÙÙÙØ¹ÙØ§Ø²ÙØ§Ø±Ù ÙÙÙÙÙÙÙÙÙÙÙØ§ ÙÙØ¨ÙÙÙØ§ÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">25</span> ã¤ã¹ã©ã¨ã«ã®ãã¡ããã­ã·ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ã©ãã¤ãã¨ã¸ã¢ããã«ã­ã¤ããã¤ãã³ãã¨ã¬ã¢ã¶ã«ããã·ã£ãã¤ãããã¤ã",
+      "spa": "<span class=\"verse-number\">25 </span>Asimismo de Israel: De los hijos de Paros: RamÃ­a, y JezÃ­as, y MalquÃ­as, y MijamÃ­n, y Eleazar, y MalquÃ­as y BenaÃ­a.",
+      "por": "<span class=\"verse-number\">25</span> E de Israel, dos filhos de ParÃ³s: Ramias, e Jezias, e Malquias, e <span class=\"page-break\" data-page=\"787\"></span>Miamim, e Eleazar, e Malquias, e Benaia.",
+      "fra": "<span class=\"verse-number\">25</span> Parmi ceux dâIsraÃ«lÂ : des fils de Pareosch, Ramia, Jizzija, Malkija, Mijamin, ÃlÃ©azar, Malkija et BenajaÂ ;",
+      "deu": "<span class=\"verse-number\">25Â </span>Von den Ã¼brigen Israeliten aber: aus der Familie Parosch: Ramja, Jisija, Malkija, Mijamin, Eleasar, Malkija und Benaja;",
+      "kor": "<span class=\"verse-number\">25</span> ì´ì¤ë¼ì ì¤ììë ë°ë¡ì¤ ìì ì¤ììë ë¼ë¨ì ììì¼ì ë§ê¸°ì¼ì ë¯¸ì¼ë¯¼ê³¼ ìë¥´ìì´ê³¼ ë§ê¸°ì¼ì ë¸ëì¼ì",
+      "ita": "<span class=\"verse-number\">25</span> E degli Israeliti: dei figli di Parosh: Ramia, Izzia, Malchia, Miamin, Eleazar, Malchia e Benaia."
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span>And of the sons of Elam; Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Eliah.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙÙÙÙÙ Ø¨ÙÙÙÙ Ø¹ÙÙÙØ§ÙÙ: ÙÙØªÙÙÙÙÙÙØ§ ÙÙØ²ÙÙÙØ±ÙÙÙÙØ§ ÙÙÙÙØ­ÙÙØ¦ÙÙÙÙ ÙÙØ¹ÙØ¨ÙØ¯ÙÙ ÙÙÙÙØ±ÙÙÙÙÙØ«Ù ÙÙØ¥ÙÙÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">26</span> ã¨ã©ã ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ããã¿ãã¤ãã¼ã«ãªã¤ãã¨ãã¨ã«ãã¢ãããã¨ã¬ã¢ããã¨ãªã¤ã",
+      "spa": "<span class=\"verse-number\">26 </span>Y de los hijos de Elam: MatanÃ­as, ZacarÃ­as, y Jehiel, y Abdi, y Jeremot y ElÃ­as.",
+      "por": "<span class=\"verse-number\">26</span> E dos filhos de ElÃ£o: Matanias, Zacarias, e Jeiel, e Abdi, e Jeremote, e Elias.",
+      "fra": "<span class=\"verse-number\">26</span> des fils dâÃlam, Matthania, Zacharie, Jehiel, Abdi, JerÃ©moth et ÃlieÂ ;",
+      "deu": "<span class=\"verse-number\">26Â </span>aus der Familie Elam: Mattanja, Secharja, JehiÃ«l, Abdi, Jeremot und Elija;",
+      "kor": "<span class=\"verse-number\">26</span> ìë ìì ì¤ììë ë§ë¤ëì ì¤ê°ë´ì ì¬íìê³¼ ìëì ì¬ë ëª»ê³¼ ìë¦¬ì¼ì",
+      "ita": "<span class=\"verse-number\">26</span> Dei figli di Elam: Mattania, Zaccaria, Jeiel, Abdi, Ieremot ed Elia."
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>And of the sons of Zattu; Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>Ø¨ÙÙÙÙ Ø²ÙØªÙÙÙ: Ø£ÙÙÙÙÙÙØ¹ÙÙÙÙØ§ÙÙ ÙÙØ£ÙÙÙÙÙØ§Ø´ÙÙØ¨Ù ÙÙÙÙØªÙÙÙÙÙÙØ§ ÙÙÙÙØ±ÙÙÙÙØ«Ù ÙÙØ²ÙØ§Ø¨ÙØ§Ø¯Ù ÙÙØ¹ÙØ²ÙÙØ²ÙØ§.",
+      "jpn": "<span class=\"verse-number\">27</span> ã¶ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ã¨ãªãªã¨ãã¤ãã¨ãªã¢ã·ããããã¿ãã¤ãã¨ã¬ã¢ããã¶ãããã¢ã¸ã¶ã",
+      "spa": "<span class=\"verse-number\">27 </span>Y de los hijos de Zatu: Elioenai, Eliasib, MatanÃ­as, y Jeremot, y Zabad y Aziza.",
+      "por": "<span class=\"verse-number\">27</span> E dos filhos de Zatu: Elioenai, Eliasibe, Matanias, e Jeremote, e Zabade, e Aziza.",
+      "fra": "<span class=\"verse-number\">27</span> des fils de Zatthu, EljoÃ©naÃ¯, Ãliaschib, Matthania, JerÃ©moth, Zabad et AzizaÂ ;",
+      "deu": "<span class=\"verse-number\">27Â </span>aus der Familie Sattu: EljoÃ«nai, Eljaschib, Mattanja, Jeremot, Sabad und Asisa;",
+      "kor": "<span class=\"verse-number\">27</span> ì¿ë ìì ì¤ììë ìë£ìë´ì ìë¦¬ìì­ê³¼ ë§ë¤ëì ì¬ë ëª»ê³¼ ì¬ë°§ê³¼ ììì¬ì",
+      "ita": "<span class=\"verse-number\">27</span> Dei figli di Zattu: Elioenai, Eliascib, Mattania, Ieremot, Zabad e Aziza."
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span>Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, <span class=\"clarity-word\">and</span> Athlai.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙÙÙÙÙ Ø¨ÙÙÙÙ Ø¨ÙØ§Ø¨ÙØ§ÙÙ: ÙÙÙÙÙØ­ÙØ§ÙÙØ§ÙÙ ÙÙØ­ÙÙÙÙÙÙÙØ§ ÙÙØ²ÙØ¨ÙØ§ÙÙ ÙÙØ¹ÙØ«ÙÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">28</span> ããã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ã¨ããã³ããããã¤ãã¶ãã¤ãã¢ãã©ã¤ã",
+      "spa": "<span class=\"verse-number\">28 </span>Y de los hijos de Bebai: JohanÃ¡n, HananÃ­as, Zabai <span class=\"clarity-word\">y</span> Atlai.",
+      "por": "<span class=\"verse-number\">28</span> E dos filhos de Bebai: JoanÃ£, Hananias, Zabai, e Atlai.",
+      "fra": "<span class=\"verse-number\">28</span> des fils de BÃ©baÃ¯, Jochanan, Hanania, ZabbaÃ¯ et AthlaÃ¯Â ;",
+      "deu": "<span class=\"verse-number\">28Â </span>aus der Familie Bebai: Johanan, Hananja, Sabbai und Atlai;",
+      "kor": "<span class=\"verse-number\">28</span> ë² ë°° ìì ì¤ììë ì¬í¸íëê³¼ íëëì ì½ë°°ì ìë¤ëì",
+      "ita": "<span class=\"verse-number\">28</span> Dei figli di Bebai: Ioanan, Anania, Zabbai, Atlai."
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>And of the sons of Bani; Meshullam, Malluch, and Adaiah, Jashub, and Sheal, and Ramoth.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙÙÙÙÙ Ø¨ÙÙÙÙ Ø¨ÙØ§ÙÙÙ: ÙÙØ´ÙÙÙØ§ÙÙ ÙÙÙÙÙÙÙÙØ®Ù ÙÙØ¹ÙØ¯ÙØ§ÙÙØ§ ÙÙÙÙØ§Ø´ÙÙØ¨Ù ÙÙØ´ÙØ¢ÙÙ ÙÙØ±ÙØ§ÙÙÙØ«Ù.",
+      "jpn": "<span class=\"verse-number\">29</span> ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ã¡ã·ã¥ã©ã ããã«ã¯ãã¢ãã¤ãã¤ã·ã¥ããã·ã¤ã«ãã¨ã¬ã¢ãã",
+      "spa": "<span class=\"verse-number\">29 </span>Y de los hijos de Bani: Mesulam, Maluc, y AdaÃ­a, Jasub, y Seal y Ramot.",
+      "por": "<span class=\"verse-number\">29</span> E dos filhos de Bani: MesulÃ£o, Maluque, e AdaÃ­as, Jasube, e Seal, e Jeremote.",
+      "fra": "<span class=\"verse-number\">29</span> des fils de Bani, Meschullam, Malluc, Adaja, Jaschub, Scheal et RamothÂ ;",
+      "deu": "<span class=\"verse-number\">29Â </span>aus der Familie Bani: Meschullam, Malluch und Adaja, Jaschub und Scheal, Ramot;",
+      "kor": "<span class=\"verse-number\">29</span> ë°ë ìì ì¤ììë ë¯ì ëê³¼ ë§ë£©ê³¼ ìë¤ì¼ì ì¼ì©ê³¼ ì¤ìê³¼ ì¬ë ëª»ì´ì",
+      "ita": "<span class=\"verse-number\">29</span> Dei figli di Bani: Meshullam, Malluc, Adaia, Iashub, Sceal e Ramot."
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span>And of the sons of Pahath-moab; Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, and Binnui, and Manasseh.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>ÙÙÙÙÙÙ Ø¨ÙÙÙÙ ÙÙØ­ÙØ«Ù ÙÙÙØ¢Ø¨Ù: Ø¹ÙØ¯ÙÙÙØ§ ÙÙÙÙÙØ§ÙÙ ÙÙØ¨ÙÙÙØ§ÙÙØ§ ÙÙÙÙØ¹ÙØ³ÙÙÙØ§ ÙÙÙÙØªÙÙÙÙÙÙØ§ ÙÙØ¨ÙØµÙÙÙØ¦ÙÙÙÙ ÙÙØ¨ÙÙÙÙÙÙÙ ÙÙÙÙÙÙØ³ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">30</span> ãããã»ã¢ã¢ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ã¢ãããã±ã©ã«ãããã¤ããã¢ã»ã¤ãããã¿ãã¤ããã¶ã¬ã«ããã³ãã¤ãããã»ã",
+      "spa": "<span class=\"verse-number\">30 </span>Y de los hijos de Pahat-moab: Adna, y Quelal, BenaÃ­a, MaasÃ­as, MatanÃ­as, Bezaleel, y BinÃºi y ManasÃ©s.",
+      "por": "<span class=\"verse-number\">30</span> E dos filhos de Paate-Moabe: Adna, e Quelal, Benaia, Maseias, Matanias, Bezalel, e Binui, e ManassÃ©s.",
+      "fra": "<span class=\"verse-number\">30</span> des fils de Pachath-Moab, Adna, Kelal, Benaja, MaasÃ©ja, Matthania, Betsaleel, BinnuÃ¯ et ManassÃ©Â ;",
+      "deu": "<span class=\"verse-number\">30Â </span>aus der Familie Pahat-Moab: Adna, Kelal, Benaja, Maaseja, Mattanja, Bezalel und Binnui und Manasse;",
+      "kor": "<span class=\"verse-number\">30</span> ë°í«ëª¨ì ìì ì¤ììë ìëì ê¸ëê³¼ ë¸ëì¼ì ë§ìì¸ì¼ì ë§ë¤ëì ë¸ì´ë ê³¼ ë¹ëì´ì ë¯ë«ì¸ì",
+      "ita": "<span class=\"verse-number\">30</span> Dei figli di Pahat-Moab: Adna, Chelal, Benaia, Maaseia, Mattania, Bezaleel, Binnui e Manasse."
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span>And <span class=\"clarity-word\">of</span> the sons of Harim; <span class=\"page-break\" data-page=\"648\"></span>Eliezer, Ishijah, Malchiah, Shemaiah, Shimeon,",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙÙÙÙÙ Ø¨ÙÙÙÙ Ø­ÙØ§Ø±ÙÙÙÙ: Ø£ÙÙÙÙØ¹ÙØ²ÙØ±Ù ÙÙÙÙØ´ÙÙÙÙÙØ§ ÙÙÙÙÙÙÙÙÙÙÙØ§ ÙÙØ´ÙÙÙØ¹ÙÙÙØ§ ÙÙØ´ÙÙÙØ¹ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">31</span> ããªã ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ã¨ãªã¨ã¼ã«ãã¤ã·ã¤ããã«ã­ã¤ãã·ãã¤ãã·ã¡ãªã³ã",
+      "spa": "<span class=\"verse-number\">31 </span>Y de los hijos de Harim: Eliezer, IsÃ­as, MalquÃ­as, SemaÃ­as, SimeÃ³n,",
+      "por": "<span class=\"verse-number\">31</span> E dos filhos de Harim: Eliezer, Issias, Malquias, SemaÃ­as, SimeÃ£o,",
+      "fra": "<span class=\"verse-number\">31</span> des fils de Harim, ÃliÃ©zer, Jischija, Malkija, Schemaeja, SimÃ©on,",
+      "deu": "<span class=\"verse-number\">31Â </span>aus der Familie Harim: EliÃ«ser, Jischija, Malkija, Schemaja, Simeon,",
+      "kor": "<span class=\"verse-number\">31</span> íë¦¼ ìì ì¤ììë ìë¦¬ììê³¼ ììì¼ì ë§ê¸°ì¼ì ì¤ë§ì¼ì ìë¯ì¨ê³¼",
+      "ita": "<span class=\"verse-number\">31</span> Dei figli di Arim: Eliezer, Issia, Malchia, Scemaia, Simeone,"
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span>Benjamin, Malluch, <span class=\"clarity-word\">and</span> Shemariah.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØ¨ÙÙÙÙÙØ§ÙÙÙÙÙ ÙÙÙÙÙÙÙØ®Ù ÙÙØ´ÙÙÙØ±ÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">32</span> ããã¤ãã³ããã«ã¯ãã·ããªã¤ã",
+      "spa": "<span class=\"verse-number\">32 </span>BenjamÃ­n, Maluc <span class=\"clarity-word\">y</span> SemarÃ­as.",
+      "por": "<span class=\"verse-number\">32</span> Benjamim, Maluque, e Semarias.",
+      "fra": "<span class=\"verse-number\">32</span> Benjamin, Malluc et SchemariaÂ ;",
+      "deu": "<span class=\"verse-number\">32Â </span>Benjamin, Malluch, Schemarja;",
+      "kor": "<span class=\"verse-number\">32</span> ë² ëë¯¼ê³¼ ë§ë£©ê³¼ ì¤ë§ë´ì",
+      "ita": "<span class=\"verse-number\">32</span> Beniamino, Malluc, Scemaria."
+    },
+    "33": {
+      "eng": "<span class=\"verse-number\">33 </span>Of the sons of Hashum; Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, <span class=\"clarity-word\">and</span> Shimei.",
+      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>ÙÙÙÙÙÙ Ø¨ÙÙÙÙ Ø­ÙØ´ÙÙÙÙ: ÙÙØªÙÙÙÙØ§ÙÙ ÙÙÙÙØªÙÙØ§Ø«ÙØ§ ÙÙØ²ÙØ§Ø¨ÙØ§Ø¯Ù ÙÙØ£ÙÙÙÙÙÙÙÙØ·Ù ÙÙÙÙØ±ÙÙÙÙØ§ÙÙ ÙÙÙÙÙÙØ³ÙÙÙ ÙÙØ´ÙÙÙØ¹ÙÙ.",
+      "jpn": "<span class=\"verse-number\">33</span> ãã·ã¥ã ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ããããã¤ãããã¿ã¿ãã¶ãããã¨ãªãã¬ããã¨ã¬ãã¤ãããã»ãã·ã¡ã¤ã",
+      "spa": "<span class=\"verse-number\">33 </span>De los hijos de Hasum: Matenai, Matata, Zabad, Elifelet, Jeremai, ManasÃ©s <span class=\"clarity-word\">y</span> Simei.",
+      "por": "<span class=\"verse-number\">33</span> Dos filhos de Hasum: Matenai, MatatÃ¡, Zabade, Elifelete, Jeremai, ManassÃ©s, e Simei.",
+      "fra": "<span class=\"verse-number\">33</span> des fils de Haschum, MatthnaÃ¯, Matthattha, Zabad, ÃliphÃ©leth, JerÃ©maÃ¯, ManassÃ© et SchimeÃ¯Â ;",
+      "deu": "<span class=\"verse-number\">33Â </span>aus der Familie Haschum: Mattenai, Mattatta, Sabad, Elifelet, Jeremai, Manasse, Schimi;",
+      "kor": "<span class=\"verse-number\">33</span> íì¨ ìì ì¤ììë ë§ëë´ì ë§ë·ë¤ì ì¬ë°§ê³¼ ìë¦¬ë²¨ë ê³¼ ì¬ë ë§¤ì ë¯ë«ì¸ì ìë¯ì´ì",
+      "ita": "<span class=\"verse-number\">33</span> Dei figli di Ashum: Mattenai, Mattatta, Zabad, Elifelet, Ieremai, Manasse, Scimei."
+    },
+    "34": {
+      "eng": "<span class=\"verse-number\">34 </span>Of the sons of Bani; Maadai, Amram, and Uel,",
+      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>ÙÙÙÙÙÙ Ø¨ÙÙÙÙ Ø¨ÙØ§ÙÙÙ: ÙÙØ¹ÙØ¯ÙØ§ÙÙ ÙÙØ¹ÙÙÙØ±ÙØ§ÙÙ ÙÙØ£ÙÙØ¦ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">34</span> ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ãã¢ãã¤ãã¢ã ã©ã ãã¦ã¨ã«ã",
+      "spa": "<span class=\"verse-number\">34 </span>De los hijos de Bani: Madai, Amram, y Uel,",
+      "por": "<span class=\"verse-number\">34</span> Dos filhos de Bani: Maadai, AnrÃ£o, e Uel,",
+      "fra": "<span class=\"verse-number\">34</span> des fils de Bani, MaadaÃ¯, Amram, Uel,",
+      "deu": "<span class=\"verse-number\">34Â </span>aus der Familie Bani: Maadai, Amram und UÃ«l,",
+      "kor": "<span class=\"verse-number\">34</span> ë°ë ìì ì¤ììë ë§ìëì ìë¯ëê³¼ ì°ìê³¼",
+      "ita": "<span class=\"verse-number\">34</span> Dei figli di Bani: Maadai, Amram, Uel,"
+    },
+    "35": {
+      "eng": "<span class=\"verse-number\">35 </span>Benaiah, Bedeiah, Chelluh,",
+      "ara": "<span class=\"verse-number\">Ù£Ù¥ </span>ÙÙØ¨ÙÙÙØ§ÙÙØ§ ÙÙØ¨ÙÙØ¯ÙÙÙØ§ ÙÙÙÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">35</span> ããã¤ãããã¤ãã±ã«ãã",
+      "spa": "<span class=\"verse-number\">35 </span>BenaÃ­a, BedÃ­as, QuelÃºhi,",
+      "por": "<span class=\"verse-number\">35</span> Benaia, Bedias, QueluÃ­,",
+      "fra": "<span class=\"verse-number\">35</span> Benaja, BÃ©dia, Keluhu,",
+      "deu": "<span class=\"verse-number\">35Â </span>Benaja, Bedja, Keluhi,",
+      "kor": "<span class=\"verse-number\">35</span> ë¸ëì¼ì ë² ëì¼ì ê¸ë£¨íì",
+      "ita": "<span class=\"verse-number\">35</span> Benaia, Bedia, Cheluhu,"
+    },
+    "36": {
+      "eng": "<span class=\"verse-number\">36 </span>Vaniah, Meremoth, Eliashib,",
+      "ara": "<span class=\"verse-number\">Ù£Ù¦ </span>ÙÙÙÙÙÙÙÙØ§ ÙÙÙÙØ±ÙÙÙÙÙØ«Ù ÙÙØ£ÙÙÙÙÙØ§Ø´ÙÙØ¨ÙØ",
+      "jpn": "<span class=\"verse-number\">36</span> ã¯ãã¢ãã¡ã¬ã¢ããã¨ãªã¢ã·ãã",
+      "spa": "<span class=\"verse-number\">36 </span>VanÃ­as, Meremot, Eliasib,",
+      "por": "<span class=\"verse-number\">36</span> Vanias, Meremote, Eliasibe,",
+      "fra": "<span class=\"verse-number\">36</span> Vania, MerÃ©moth, Ãliaschib,",
+      "deu": "<span class=\"verse-number\">36Â </span>Wanja, Meremot, Eljaschib,",
+      "kor": "<span class=\"verse-number\">36</span> ìëì ë¯ë ëª»ê³¼ ìë´ì­ê³¼",
+      "ita": "<span class=\"verse-number\">36</span> Vania, Meremot, Eliascib,"
+    },
+    "37": {
+      "eng": "<span class=\"verse-number\">37 </span>Mattaniah, Mattenai, and Jaasau,",
+      "ara": "<span class=\"verse-number\">Ù£Ù§ </span>ÙÙÙÙØªÙÙÙÙÙÙØ§ ÙÙÙÙØªÙÙÙÙØ§ÙÙ ÙÙÙÙØ¹ÙØ³ÙÙØ",
+      "jpn": "<span class=\"verse-number\">37</span> ããã¿ãã¤ãããããã¤ãã¤ã¢ã¹ã",
+      "spa": "<span class=\"verse-number\">37 </span>MatanÃ­as, Matenai, y Jaasai,",
+      "por": "<span class=\"verse-number\">37</span> Matanias, Matenai, e Jaasai,",
+      "fra": "<span class=\"verse-number\">37</span> Matthania, MatthnaÃ¯, JaasaÃ¯,",
+      "deu": "<span class=\"verse-number\">37Â </span>Mattanja, Mattenai, Jaasai,",
+      "kor": "<span class=\"verse-number\">37</span> ë§ë¤ëì ë§ëë´ì ì¼ììì",
+      "ita": "<span class=\"verse-number\">37</span> Mattania, Mattenai, Iaasai,"
+    },
+    "38": {
+      "eng": "<span class=\"verse-number\">38 </span>And Bani, and Binnui, Shimei,",
+      "ara": "<span class=\"verse-number\">Ù£Ù¨ </span>ÙÙØ¨ÙØ§ÙÙÙ ÙÙØ¨ÙÙÙÙÙÙÙ ÙÙØ´ÙÙÙØ¹ÙÙØ",
+      "jpn": "<span class=\"verse-number\">38</span> ãã³ãã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ã§ã¯ã·ã¡ã¤ã",
+      "spa": "<span class=\"verse-number\">38 </span>y Bani, y BinÃºi, Simei,",
+      "por": "<span class=\"verse-number\">38</span> E Bani, e Binui, Simei,",
+      "fra": "<span class=\"verse-number\">38</span> Bani, BinnuÃ¯, SchimeÃ¯,",
+      "deu": "<span class=\"verse-number\">38Â </span>Bani, Binnui, Schimi,",
+      "kor": "<span class=\"verse-number\">38</span> ë°ëì ë¹ëì´ì ìë¯ì´ì",
+      "ita": "<span class=\"verse-number\">38</span> Bani, Binnui, Scimei,"
+    },
+    "39": {
+      "eng": "<span class=\"verse-number\">39 </span>And Shelemiah, and Nathan, and Adaiah,",
+      "ara": "<span class=\"verse-number\">Ù£Ù© </span>ÙÙØ´ÙÙÙÙÙÙÙØ§ ÙÙÙÙØ§Ø«ÙØ§ÙÙ ÙÙØ¹ÙØ¯ÙØ§ÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">39</span> ã·ã¬ãã¤ããã¿ã³ãã¢ãã¤ã",
+      "spa": "<span class=\"verse-number\">39 </span>y SelemÃ­as, y NatÃ¡n, y AdaÃ­a,",
+      "por": "<span class=\"verse-number\">39</span> E Selemias, e NatÃ£, e AdaÃ­as,",
+      "fra": "<span class=\"verse-number\">39</span> SchÃ©lÃ©mia, Nathan, Adaja,",
+      "deu": "<span class=\"verse-number\">39Â </span>Schelemja, Natan, Adaja,",
+      "kor": "<span class=\"verse-number\">39</span> ìë ë¨ì ëë¨ê³¼ ìë¤ì¼ì",
+      "ita": "<span class=\"verse-number\">39</span> Scelemia, Natan, Adaia,"
+    },
+    "40": {
+      "eng": "<span class=\"verse-number\">40 </span>Machnadebai, Shashai, Sharai,",
+      "ara": "<span class=\"verse-number\">Ù¤Ù  </span>ÙÙÙÙÙÙÙÙØ¯ÙØ¨ÙØ§ÙÙ ÙÙØ´ÙØ§Ø´ÙØ§ÙÙ ÙÙØ´ÙØ§Ø±ÙØ§ÙÙØ",
+      "jpn": "<span class=\"verse-number\">40</span> ãã¯ãããã¤ãã·ã£ã·ã£ã¤ãã·ã£ã©ã¤ã",
+      "spa": "<span class=\"verse-number\">40 </span>Macnadebai, Sasai, Sarai,",
+      "por": "<span class=\"verse-number\">40</span> Macnadebai, Sasai, Sarai,",
+      "fra": "<span class=\"verse-number\">40</span> MacnadbaÃ¯, SchaschaÃ¯, ScharaÃ¯,",
+      "deu": "<span class=\"verse-number\">40Â </span>Machnadbai, Schaschai, Scharai,",
+      "kor": "<span class=\"verse-number\">40</span> ë§ëëë°°ì ì¬ìì ì¬ëì",
+      "ita": "<span class=\"verse-number\">40</span> Macnadbai, Shashai, Sharai,"
+    },
+    "41": {
+      "eng": "<span class=\"verse-number\">41 </span>Azareel, and Shelemiah, Shemariah,",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¡ </span>ÙÙØ¹ÙØ²ÙØ±ÙØ¦ÙÙÙÙ ÙÙØ´ÙÙÙÙÙÙÙØ§ ÙÙØ´ÙÙÙØ±ÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">41</span> ã¢ã¶ãªã¨ã«ãã·ã¬ãã¤ãã·ããªã¤ã",
+      "spa": "<span class=\"verse-number\">41 </span>Azareel, y SelemÃ­as, SemarÃ­as,",
+      "por": "<span class=\"verse-number\">41</span> Azareel, e Selemias, Semarias,",
+      "fra": "<span class=\"verse-number\">41</span> Azareel, SchÃ©lÃ©mia, Schemaria,",
+      "deu": "<span class=\"verse-number\">41Â </span>Asarel und Schelemja, Schemarja,",
+      "kor": "<span class=\"verse-number\">41</span> ìì¬ë ê³¼ ìë ë¨ì ì¤ë§ë´ì",
+      "ita": "<span class=\"verse-number\">41</span> Azarel, Scelemia, Scemaria,"
+    },
+    "42": {
+      "eng": "<span class=\"verse-number\">42 </span>Shallum, Amariah, <span class=\"clarity-word\">and</span> Joseph.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¢ </span>ÙÙØ´ÙÙÙÙÙÙÙ ÙÙØ£ÙÙÙØ±ÙÙÙØ§ ÙÙÙÙÙØ³ÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">42</span> ã·ã£ã«ã ãã¢ããªã¤ãã¨ã»ãã",
+      "spa": "<span class=\"verse-number\">42 </span>Salum, AmarÃ­as <span class=\"clarity-word\">y</span> JosÃ©.",
+      "por": "<span class=\"verse-number\">42</span> Salum, Amarias, e JosÃ©.",
+      "fra": "<span class=\"verse-number\">42</span> Schallum, Amaria et JosephÂ ;",
+      "deu": "<span class=\"verse-number\">42Â </span>Schallum, Amarja, Josef;",
+      "kor": "<span class=\"verse-number\">42</span> ì´ë£¸ê³¼ ìë§ë´ì ììì´ì",
+      "ita": "<span class=\"verse-number\">42</span> Shallum, Amaria, Giuseppe."
+    },
+    "43": {
+      "eng": "<span class=\"verse-number\">43 </span>Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù£ </span>ÙÙÙÙÙÙ Ø¨ÙÙÙÙ ÙÙØ¨ÙÙ: ÙÙØ¹ÙÙØ¦ÙÙÙÙ ÙÙÙÙØªÙÙØ«ÙÙÙØ§ ÙÙØ²ÙØ§Ø¨ÙØ§Ø¯Ù ÙÙØ²ÙØ¨ÙÙÙÙØ§ ÙÙÙÙØ¯ÙÙÙ ÙÙÙÙÙØ¦ÙÙÙÙ ÙÙØ¨ÙÙÙØ§ÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">43</span> ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã§ã¯ã¨ã¤ã¨ã«ãããã¿ãã¤ãã¶ãããã¼ãããã¤ããã¤ãã¨ã¨ã«ãããã¤ã",
+      "spa": "<span class=\"verse-number\">43 </span>Y de los hijos de Nebo: Jeiel, MatatÃ­as, Zabad, Zebina, Jadau, y Joel, BenaÃ­a.",
+      "por": "<span class=\"verse-number\">43</span> Dos filhos de Nebo: Jeiel, Matitias, Zabade, Zebina, Jadai, Joel, e Benaia.",
+      "fra": "<span class=\"verse-number\">43</span> des fils de Nebo, JeÃ¯el, Matthithia, Zabad, Zebina, JaddaÃ¯, JoÃ«l et Benaja.",
+      "deu": "<span class=\"verse-number\">43Â </span>aus der Familie Nebo: JÃ«iÃ«l, Mattitja, Sabad, Sebina, Jaddai und JoÃ«l, Benaja.",
+      "kor": "<span class=\"verse-number\">43</span> ëë³´ ìì ì¤ììë ì¬ì´ìê³¼ ë§ëëì¼ì ì¬ë°§ê³¼ ì¤ë¹ë´ì ìëì ììê³¼ ë¸ëì¼ëë¼",
+      "ita": "<span class=\"verse-number\">43</span> Dei figli di Nebo: Ieiel, Mattitia, Zabad, Zebina, Iaddai, Gioele, Benaia."
+    },
+    "44": {
+      "eng": "<span class=\"verse-number\">44 </span>All these had taken strange wives: and <span class=\"clarity-word\">some</span> of them had wives by whom they had children.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¤ </span>ÙÙÙÙØ¯Ù ØªÙØ²ÙÙÙÙØ¬Ù Ø¬ÙÙÙÙØ¹Ù ÙÙØ¤ÙÙØ§Ø¡Ù ÙÙÙÙ ÙÙØ³ÙØ§Ø¡Ù ØºÙØ±ÙÙØ¨ÙØ§ØªÙØ Ø£ÙÙÙØ¬ÙØ¨ÙØªÙ Ø¨ÙØ¹ÙØ¶ÙÙÙÙÙÙ ÙÙÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù.",
+      "jpn": "<span class=\"verse-number\">44</span> ãããã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>ç</rb><rt>ã¿ãª</rt></ruby><ruby><rb>ç°é¦</rb><rt>ãã»ã</rt></ruby>ã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã¨ã£ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã§ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ãã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ãã¡ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby><ruby><rb>ä¾</rb><rt>ã¨ã</rt></ruby>ã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>é¢ç¸</rb><rt>ããã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">44 </span>Todos estos habÃ­an tomado por esposas a extranjeras, y algunas de sus esposas habÃ­an dado a luz hijos.",
+      "por": "<span class=\"verse-number\">44</span> Todos estes tomaram mulheres estrangeiras; e <span class=\"clarity-word\">alguns</span> deles tinham mulheres de quem tiveram filhos.",
+      "fra": "<span class=\"verse-number\">44</span> Tous ceux-lÃ  avaient pris des femmes Ã©trangÃ¨res et plusieurs en avaient eu des enfants.",
+      "deu": "<span class=\"verse-number\">44Â </span>Alle diese hatten fremde Frauen geheiratet, und es befanden sich unter ihnen Frauen, welche Kinder geboren hatten.",
+      "kor": "<span class=\"verse-number\">44</span> ì´ìì ëª¨ë ì´ë°© ì¬ì¸ì ìë´ë¡ ë§ì´í ìë¼ ê·¸ ì¤ìë ìëë¥¼ ë³ì ì¬ì¸ë ììëë¼",
+      "ita": "<span class=\"verse-number\">44</span> Tutti questi avevano preso delle mogli straniere; e ve nâerano di quelli che da queste mogli avevano avuto dei figli."
+    }
+  }
+}

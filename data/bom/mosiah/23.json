@@ -1,0 +1,537 @@
+{
+  "meta": {
+    "volume": "bom",
+    "book": "mosiah",
+    "chapter": 23,
+    "headings": {
+      "ara": "ÙØ±ÙØ¶ Ø£ÙÙØ§ Ø£Ù ÙÙÙÙ ÙÙÙØ§âÙØ®Ø¯Ù ÙÙ ÙÙØµØ¨ Ø§ÙÙØ§ÙÙ Ø§ÙØ¹Ø§ÙÙâÙØ¤Ø¯Ø¨ Ø§ÙØ±Ø¨ Ø´Ø¹Ø¨ÙØ ÙÙØ­ØªÙ Ø§ÙÙØ§ÙØ§ÙÙÙÙ Ø£Ø±Ø¶ Ø­ÙÙØ§ÙâØ£ÙÙÙÙÙØ ÙØ§Ø¦Ø¯ ÙÙÙØ© Ø§ÙÙÙÙ ÙÙØ­ Ø§ÙØ£Ø´Ø±Ø§Ø±Ø ÙØ­ÙÙ ÙØªØ§Ø¨Ø¹ ÙÙÙÙ Ø§ÙÙØ§ÙØ§ÙÙÙÙ. (ÙÙ Ù¡Ù¤Ù¥ Ø¥ÙÙ Ù¡Ù¢Ù¡ Ù.Ù. ØªÙØ±ÙØ¨ÙØ§)",
+      "jpn": "アルマ、<ruby><rb>王</rb><rt>おう</rt></ruby>になることを<ruby><rb>断</rb><rt>ことわ</rt></ruby>る。アルマ、<ruby><rb>大</rb><rt>だい</rt></ruby><ruby><rb>祭</rb><rt>さい</rt></ruby><ruby><rb>司</rb><rt>し</rt></ruby>として<ruby><rb>務</rb><rt>つと</rt></ruby>める。<ruby><rb>主</rb><rt>しゅ</rt></ruby>、<ruby><rb>御</rb><rt>ご</rt></ruby><ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>民</rb><rt>たみ</rt></ruby>を<ruby><rb>懲</rb><rt>こ</rt></ruby>らしめられる。レーマン<ruby><rb>人</rb><rt>じん</rt></ruby>、ヘラムの<ruby><rb>地</rb><rt>ち</rt></ruby>を<ruby><rb>征</rb><rt>せい</rt></ruby><ruby><rb>服</rb><rt>ふく</rt></ruby>する。ノア<ruby><rb>王</rb><rt>おう</rt></ruby>の<ruby><rb>邪</rb><rt>じゃ</rt></ruby><ruby><rb>悪</rb><rt>あく</rt></ruby>な<ruby><rb>祭</rb><rt>さい</rt></ruby><ruby><rb>司</rb><rt>し</rt></ruby>たちの<ruby><rb>統</rb><rt>とう</rt></ruby><ruby><rb>率</rb><rt>そつ</rt></ruby><ruby><rb>者</rb><rt>しゃ</rt></ruby>であるアミュロン、レーマン<ruby><rb>人</rb><rt>じん</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>の<ruby><rb>臣</rb><rt>しん</rt></ruby><ruby><rb>民</rb><rt>みん</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める。<ruby><rb>紀</rb><rt>き</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>前</rb><rt>ぜん</rt></ruby><ruby><rb>約</rb><rt>やく</rt></ruby>百四十五<ruby><rb>年</rb><rt>ねん</rt></ruby>から百二十一<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>至</rb><rt>いた</rt></ruby>る。",
+      "zhs": "<u>阿爾瑪</u>拒絕作王——他擔任大祭司——主懲戒祂的人民，<u>拉曼</u>人佔<u>希蘭</u>地——<u>挪亞</u>王邪惡祭司的首領<u>艾繆倫</u>，在<u>拉曼</u>王的指使下統治。約主前145年至121年。",
+      "zht": "<u>é¿ç¾çª</u>æçµä½çââä»æä»»å¤§ç¥­å¸ââä¸»æ²æç¥çäººæ°ï¼<u>ææ¼</u>äººä½<u>å¸è­</u>å°ââ<u>æªäº</u>çéªæ¡ç¥­å¸çé¦é <u>è¾ç¹å«</u>ï¼å¨<u>ææ¼</u>ççæä½¿ä¸çµ±æ²»ãç´ä¸»å145å¹´è³121å¹´ã",
+      "spa": "Alma se niega a ser rey — Presta servicio como sumo sacerdote — El Señor disciplina a Su pueblo y los lamanitas se apoderan de la tierra de Helam — Amulón, jefe de los sacerdotes inicuos del rey Noé, gobierna bajo el monarca lamanita. Aproximadamente 145–121 a.C.",
+      "por": "Alma recusa-se a ser reiÂ â Ele serve como sumo sacerdoteÂ â O Senhor castiga Seu povo e os lamanitas conquistam a terra de HelÃ£Â â Amulon, chefe dos inÃ­quos sacerdotes do rei NoÃ©, governa sujeito ao monarca lamanita. Aproximadamente 145â121Â a.C.",
+      "fra": "Alma refuse dâÃªtre roiÂ â Il remplit les fonctions de grand prÃªtreÂ â Le Seigneur chÃ¢tie son peuple, et les Lamanites conquiÃ¨rent le pays dâHÃ©lamÂ â Amulon, chef des mÃ©chants prÃªtres du roi NoÃ©, gouverne en vassal du monarque lamanite. Vers 145â121Â av.Â J.-C.",
+      "deu": "Alma lehnt es ab, KÃ¶nig zu seinÂ â Er dient als Hoher PriesterÂ â Der Herr zÃ¼chtigt sein Volk, und die Lamaniten erobern das Land HelamÂ â Amulon, der FÃ¼hrer der schlechten Priester KÃ¶nig Noas, herrscht unter dem lamanitischen Monarchen. Um 145â121Â v.Â Chr.",
+      "kor": "ì¨ë§ê° ì ëê¸°ë¥¼ ê±°ì í¨âê·¸ê° ëì ì¬ë¡ ë´ì¬í¨âì£¼ê»ì ê·¸ì ë°±ì±ì ì§ê³íìê³ , ë ì´ë§¨ì¸ë¤ì´ íë¨ ëì ì ë³µí¨âë¸ì ìì ê°ìí ì ì¬ë¤ì ì§ëì ì°ì¨ë¡ ì´ ë ì´ë§¨ì¸ êµ°ì£¼ì ì¹íìì ë¤ì¤ë¦¼. ì£¼ì  145~121ëê²½.",
+      "ita": "Alma rifiuta dâessere reÂ â Egli serve come sommo sacerdoteÂ â Il Signore castiga il Suo popolo, e i Lamaniti conquistano il paese di HelamÂ â Amulon, capo dei malvagi sacerdoti di re NoÃ¨, governa come suddito del monarca lamanita. Circa 145â121Â a.C."
+    },
+    "intros": {
+      "ara": "Ø£Ø®Ø¨Ø§Ø± Ø£ÙÙÙÙØ§ ÙØ´Ø¹Ø¨ Ø§ÙØ±Ø¨ Ø§ÙØ°Ù Ø´Ø±Ø¯Ù ÙÙÙ Ø§ÙÙÙÙ ÙÙØ­ ÙÙ Ø§ÙØ¨Ø±ÙØ©.",
+      "zht": "<u>é¿ç¾çª</u>åä¸»çäººæ°çè¨äºï¼ä»åè¢«<u>æªäº</u>ççäººæ°è¶é²æ éã",
+      "por": "Relato de Alma e do povo do Senhor, que foram impelidos para o deserto pelo povo do rei NoÃ©.",
+      "fra": "Histoire dâAlma et du peuple du Seigneur, qui furent chassÃ©s dans le dÃ©sert par le peuple du roi NoÃ©.",
+      "deu": "Ein Bericht Ã¼ber Alma und das Volk des Herrn, die vom Volk KÃ¶nig Noas in die Wildnis gejagt worden waren.",
+      "kor": "ë¸ì ìì ë°±ì±ì ìí´ ê´ì¼ë¡ ì«ê²¨ ë¤ì´ê° ì¨ë§ì ì£¼ì ë°±ì±ì ê¸°ì¬.",
+      "ita": "Racconto di Alma e del popolo del Signore, che fu cacciato nel deserto dal popolo di re NoÃ¨."
+    }
+  },
+  "verses": {
+    "1": {
+      "eng": "Now Alma, having been warned of the Lord that the armies of king Noah would come upon them, and having made it known to his people, therefore they gathered together their flocks, and took of their grain, and departed into the wilderness before the armies of king Noah.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ¨ÙØ¹ÙØ¯Ù Ø£ÙÙÙ Ø£ÙÙÙØ°ÙØ±Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø£ÙÙÙÙØ§ Ø¨ÙØ£ÙÙÙÙ Ø¬ÙÙÙØ´Ù Ø§ÙÙÙÙÙÙÙÙ ÙÙØ­Ù Ø³ÙØªÙÙØ§Ø¬ÙÙÙÙÙÙÙØ Ø£ÙØ¹ÙÙÙÙÙ Ø´ÙØ¹ÙØ¨ÙÙÙ Ø¨ÙØ°Ù°ÙÙÙÙØ ÙÙØ¬ÙÙÙØ¹ÙØ§ ÙÙØ·ÙØ¹Ø§ÙÙÙÙÙÙ ÙÙØ£ÙØ®ÙØ°ÙØ§ ÙÙÙÙ ÙÙÙÙØ­ÙÙÙÙÙ ÙÙØ®ÙØ±ÙØ¬ÙØ§ Ø¥ÙÙÙ Ø§ÙÙØ¨ÙØ±ÙÙÙÙÙØ©Ù Ø£ÙÙØ§ÙÙ Ø¬ÙÙÙØ´Ù Ø§ÙÙÙÙÙÙÙÙ ÙÙØ­Ù.",
+      "jpn": "さて、アルマは、ノア<ruby>王<rt>おう</rt></ruby>の<ruby>軍<rt>ぐん</rt></ruby><ruby>隊<rt>たい</rt></ruby>がやって<ruby>来<rt>く</rt></ruby>ると<ruby>主<rt>しゅ</rt></ruby>から<ruby>警<rt>けい</rt></ruby><ruby>告<rt>こく</rt></ruby>を<ruby>受<rt>う</rt></ruby>け、それを<ruby>民<rt>たみ</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせたので、<ruby>民<rt>たみ</rt></ruby>は<ruby>家<rt>か</rt></ruby><ruby>畜<rt>ちく</rt></ruby>の<ruby>群<rt>む</rt></ruby>れを<ruby>集<rt>あつ</rt></ruby>め、<ruby>穀<rt>こく</rt></ruby><ruby>物<rt>もつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち、ノア<ruby>王<rt>おう</rt></ruby>の<ruby>軍<rt>ぐん</rt></ruby><ruby>隊<rt>たい</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けて<ruby>荒<rt>あ</rt></ruby>れ<ruby>野<rt>の</rt></ruby>に<ruby>出<rt>で</rt></ruby>て<ruby>行<rt>い</rt></ruby>った。",
+      "zhs": "阿尔玛得到主的警告，知道挪亚王的军队要来突袭他们，就通知他的人民；于是，他们聚集牲口，带着谷类，在挪亚王的军队来到之前离开，进入旷野。",
+      "zht": "<span class=\"verse-number\">1ã</span><u>é¿ç¾çª</u>å¾å°ä¸»çè­¦åï¼ç¥é<u>æªäº</u>ççè»éè¦ä¾çªè¥²ä»åï¼å°±éç¥ä»çäººæ°ï¼æ¼æ¯ï¼ä»åèéç²å£ï¼å¸¶èç©é¡ï¼å¨<u>æªäº</u>ççè»éä¾å°ä¹åé¢éï¼é²å¥æ éã",
+      "spa": "Ahora bien, Alma, habiendo sido advertido por el Señor de que las tropas del rey Noé caerían sobre ellos, y habiéndolo hecho saber a su pueblo, por tanto, reunieron sus rebaños, y tomaron de su grano, y salieron para el desierto, seguidos por las tropas del rey Noé.",
+      "por": "<span class=\"verse-number\">1 </span>Ora, Alma, tendo sido avisado pelo Senhor de que os exÃ©rcitos do rei NoÃ© cairiam sobre eles, avisou seu povo; portanto, reuniram seus rebanhos e recolheram seus cereais e partiram para o deserto, adiante dos exÃ©rcitos do rei NoÃ©.",
+      "fra": "<span class=\"verse-number\">1Â </span>Or, Alma, averti par le Seigneur que les armÃ©es du roi NoÃ© allaient tomber sur eux, et lâayant fait savoir Ã  son peuple, ils rassemblÃ¨rent donc leurs troupeaux, et prirent leur grain, et partirent dans le dÃ©sert devant les armÃ©es du roi NoÃ©.",
+      "deu": "<span class=\"verse-number\">1Â </span>Nun war Alma vom Herrn gewarnt worden, dass die Heere KÃ¶nig Noas Ã¼ber sie kommen wÃ¼rden, und er hatte dies seinem Volk bekanntgegeben; darum sammelten sie ihre Herden und nahmen von ihrem Getreide und zogen vor den Heeren KÃ¶nig Noas in die Wildnis.",
+      "kor": "<span class=\"verse-number\">1 </span>ì´ì  ì¨ë§ë ì£¼ê»ë¡ë¶í° ë¸ì ìì êµ°ëê° ê·¸ë¤ì ìµê²©í  ê²ì´ë¼ë ê²½ê³ ë¥¼ ë°ê³ , ì´ë¥¼ ê·¸ì ë°±ì±ë¤ìê² ìë¦°ì§ë¼, ê·¸ë¬ë¯ë¡ ê·¸ë¤ì´ ê·¸ë¤ì ì ë¼ë¥¼ í¨ê» ëª¨ì¼ê³ , ê·¸ë¤ì ê³¡ì ì¼ë¶ë¥¼ ì·¨íì¬ ë¸ì ìì êµ°ëë³´ë¤ ìì ë ë ê´ì¼ë¡ ë¤ì´ê°ëë¼.",
+      "ita": "<span class=\"verse-number\">1 </span>Ora Alma, essendo stato avvertito dal Signore che gli eserciti di re NoÃ¨ sarebbero piombati su di loro, e avendolo reso noto al popolo, essi radunarono dunque le loro greggi, presero una parte del loro grano, e partirono per il deserto dinanzi agli eserciti di re NoÃ¨."
+    },
+    "2": {
+      "eng": "And the Lord did strengthen them, that the people of king Noah could not overtake them to destroy them.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙÙÙØ§ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø­ÙØªÙÙ ÙØ§ ÙÙØ³ÙØªÙØ·ÙØ¹Ù ÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙÙØ­Ù Ø£ÙÙÙ ÙÙØ¯ÙØ±ÙÙÙÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>らを<ruby>強<rt>つよ</rt></ruby>くし、ノア<ruby>王<rt>おう</rt></ruby>の<ruby>民<rt>たみ</rt></ruby>に<ruby>追<rt>お</rt></ruby>いつかれて<ruby>滅<rt>ほろ</rt></ruby>ぼされることのないようにされた。",
+      "zhs": "主加强了他们，使挪亚王的人无法赶上他们，消灭他们。",
+      "zht": "<span class=\"verse-number\">2ã</span>ä¸»å å¼·äºä»åï¼ä½¿<u>æªäº</u>ççäººç¡æ³è¶ä¸ä»åï¼æ¶æ»ä»åã",
+      "spa": "Y el Señor los fortaleció, de modo que la gente del rey Noé no pudo alcanzarlos para destruirlos.",
+      "por": "<span class=\"verse-number\">2 </span>E o Senhor fortaleceu-os, de modo que o povo do rei NoÃ© nÃ£o conseguiu alcanÃ§Ã¡-los para destruÃ­-los.",
+      "fra": "<span class=\"verse-number\">2Â </span>Et le Seigneur les fortifia, de sorte que le peuple du roi NoÃ© ne put les rattraper pour les dÃ©truire.",
+      "deu": "<span class=\"verse-number\">2Â </span>Und der Herr stÃ¤rkte sie, sodass das Volk KÃ¶nig Noas sie nicht einholen konnte, um sie zu vernichten.",
+      "kor": "<span class=\"verse-number\">2 </span>ë ì£¼ê»ì ê·¸ë¤ì ê°íê² íì ì§ë¼, ë¸ì ìì ë°±ì±ë¤ì´ ê·¸ë¤ì ë°ë¼ì¡ì ë©¸íì§ ëª»íëë¼.",
+      "ita": "<span class=\"verse-number\">2 </span>E il Signore li fortificÃ², cosicchÃ© il popolo di re NoÃ¨ non potÃ© raggiungerli per annientarli."
+    },
+    "3": {
+      "eng": "And they fled eight days’ journey into the wilderness.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙÙØ±ÙØ¨ÙØ§ ÙÙØ±ÙØªÙØ­ÙÙÙÙÙ ÙÙØ¯ÙÙØ©Ù Ø«ÙÙØ§ÙÙÙÙØ©Ù Ø£ÙÙÙØ§ÙÙ ÙÙ Ø§ÙÙØ¨ÙØ±ÙÙÙÙÙØ©Ù.",
+      "jpn": "それで<ruby>彼<rt>かれ</rt></ruby>らは、<ruby>荒<rt>あ</rt></ruby>れ<ruby>野<rt>の</rt></ruby>に<ruby>逃<rt>に</rt></ruby>げ<ruby>込<rt>こ</rt></ruby>んで、<ruby>八<rt>よう</rt></ruby><ruby>日<rt>か</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>旅<rt>たび</rt></ruby>をした。",
+      "zhs": "他们在旷野中逃了八天。",
+      "zht": "<span class=\"verse-number\">3ã</span>ä»åå¨æ éä¸­éäºå«å¤©ã",
+      "spa": "Y por el espacio de ocho días huyeron en el desierto.",
+      "por": "<span class=\"verse-number\">3 </span>E fugiram durante oito dias, deserto adentro.",
+      "fra": "<span class=\"verse-number\">3Â </span>Et ils sâenfuirent, voyageant huit jours dans le dÃ©sert.",
+      "deu": "<span class=\"verse-number\">3Â </span>Und sie flohen acht Tagereisen weit in die Wildnis.",
+      "kor": "<span class=\"verse-number\">3 </span>ì´ì ê·¸ë¤ì´ í ì¼ì ì¬ì ì ê´ì¼ë¡ ëë§í´ ë¤ì´ê°ëë¼.",
+      "ita": "<span class=\"verse-number\">3 </span>E fuggirono per otto giorni di viaggio nel deserto."
+    },
+    "4": {
+      "eng": "And they came to a land, yea, even a very beautiful and pleasant land, a land of pure water.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙÙØµÙÙÙØ§ Ø¥ÙÙÙ Ø£ÙØ±ÙØ¶ÙØ Ø£ÙØ¬ÙÙÙØ Ø£ÙØ±ÙØ¶Ù Ø¬ÙÙÙÙÙØ©Ù Ø¬ÙØ¯ÙÙØ§ ÙÙØ­ÙØ³ÙÙÙØ©ÙØ Ø£ÙØ±ÙØ¶Ù ÙÙÙØ§ÙÙ ÙÙÙÙÙÙÙØ©Ù.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らは<ruby>非<rt>ひ</rt></ruby><ruby>常<rt>じょう</rt></ruby>に<ruby>美<rt>うつく</rt></ruby>しく、<ruby>心地<rt>ここち</rt></ruby>よい<ruby>地<rt>ち</rt></ruby>、<ruby>清<rt>きよ</rt></ruby>らかな<ruby>水<rt>みず</rt></ruby>のある<ruby>地<rt>ち</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた。",
+      "zhs": "他们到了一个地方，是的，一个美丽怡人、泉水清澈的地方。",
+      "zht": "<span class=\"verse-number\">4ã</span>ä»åå°äºä¸åå°æ¹ï¼æ¯çï¼ä¸åç¾éºæ¡äººãæ³æ°´æ¸æ¾çå°æ¹ã",
+      "spa": "Y llegaron a una tierra, sí, una tierra muy hermosa y placentera, una tierra de aguas puras.",
+      "por": "<span class=\"verse-number\">4 </span>E chegaram a uma terra, sim, uma terra muito bela e agradÃ¡vel, uma terra de Ã¡guas puras.",
+      "fra": "<span class=\"verse-number\">4Â </span>Et ils arrivÃ¨rent dans un pays, oui, dans un pays trÃ¨s beau et trÃ¨s agrÃ©able, un pays dâeau pure.",
+      "deu": "<span class=\"verse-number\">4Â </span>Und sie kamen in ein Land, ja, nÃ¤mlich ein sehr schÃ¶nes und angenehmes Land, ein Land mit reinem Wasser.",
+      "kor": "<span class=\"verse-number\">4 </span>ê·¸ë¦¬íì¬ ê·¸ë¤ì´ í ëì ì´ë¥´ë, ì°¸ì¼ë¡ ë§¤ì° ìë¦ëµê³  ì¾ì í ë, ë§ì ë¬¼ì ëì´ë¼.",
+      "ita": "<span class=\"verse-number\">4 </span>E giunsero in un paese, sÃ¬, un paese molto bello e piacevole, un paese di acque pure."
+    },
+    "5": {
+      "eng": "And they pitched their tents, and began to till the ground, and began to build buildings; yea, they were industrious, and did labor exceedingly.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙØµÙØ¨ÙØ§ Ø®ÙÙØ§ÙÙÙÙÙÙ ÙÙØ´ÙØ±ÙØ¹ÙØ§ ÙÙ Ø­ÙØ±ÙØ«Ù Ø§ÙÙØ£ÙØ±ÙØ¶ÙØ ÙÙØ´ÙØ±ÙØ¹ÙØ§ ÙÙ Ø¨ÙÙØ§Ø¡Ù Ø§ÙÙÙÙØ¨Ø§ÙÙØ Ø£ÙØ¬ÙÙÙØ ÙÙÙÙØ¯Ù ÙØ§ÙÙØ§ ÙÙØ¬ÙØªÙÙÙØ¯ÙÙÙ ÙÙØ¹ÙÙÙÙÙØ§ Ø¨ÙØ¬ÙØ¯ÙÙ.",
+      "jpn": "そこで<ruby>彼<rt>かれ</rt></ruby>らは<ruby>天<rt>てん</rt></ruby><ruby>幕<rt>まく</rt></ruby>を<ruby>張<rt>は</rt></ruby>り、<ruby>地<rt>ち</rt></ruby>を<ruby>耕<rt>たがや</rt></ruby>し、<ruby>建<rt>たて</rt></ruby><ruby>物<rt>もの</rt></ruby>を<ruby>建<rt>た</rt></ruby>て<ruby>始<rt>はじ</rt></ruby>めた。まことに、<ruby>彼<rt>かれ</rt></ruby>らは<ruby>勤<rt>きん</rt></ruby><ruby>勉<rt>べん</rt></ruby>であり、<ruby>非<rt>ひ</rt></ruby><ruby>常<rt>じょう</rt></ruby>によく<ruby>働<rt>はたら</rt></ruby>いた。",
+      "zhs": "他们搭起帐篷，开始耕地，开始建造房屋；是的，他们非常勤奋，并且努力工作。",
+      "zht": "<span class=\"verse-number\">5ã</span>ä»åæ­èµ·å¸³ç¯·ï¼éå§èå°ï¼éå§å»ºé æ¿å±ï¼æ¯çï¼ä»åéå¸¸å¤å¥®ï¼ä¸¦ä¸åªåå·¥ä½ã",
+      "spa": "Y plantaron sus tiendas, y empezaron a labrar la tierra y comenzaron a construir edificios; sí, eran industriosos y trabajaron mucho.",
+      "por": "<span class=\"verse-number\">5 </span>E armaram suas tendas e comeÃ§aram a cultivar o solo e a construir edifÃ­cios; sim, eram industriosos e trabalhavam muito.",
+      "fra": "<span class=\"verse-number\">5Â </span>Et ils dressÃ¨rent leurs tentes, et commencÃ¨rent Ã  cultiver le sol, et commencÃ¨rent Ã  construire des bÃ¢timentsÂ ; oui, ils furent industrieux, et travaillÃ¨rent extrÃªmement.",
+      "deu": "<span class=\"verse-number\">5Â </span>Und sie schlugen ihre Zelte auf und fingen an, den Boden zu bebauen, und fingen an, GebÃ¤ude zu bauen; ja, sie waren fleiÃig und arbeiteten Ã¼beraus viel.",
+      "kor": "<span class=\"verse-number\">5 </span>ì´ì ê·¸ë¤ì´ ê·¸ë¤ì ì¥ë§ì ì¹ê³  ëì ê°ê¸° ììíë©° ê±´ë¬¼ë¤ì ì§ê¸° ììíìì¼ë, ì°¸ì¼ë¡ ê·¸ë¤ì ê·¼ë©´íìê³  ì´ì¬í ì¼ì íìëë¼.",
+      "ita": "<span class=\"verse-number\">5 </span>E piantarono le tende e cominciarono a coltivare la terra, e cominciarono a costruire degli edifici; sÃ¬, erano industriosi e lavoravano assai."
+    },
+    "6": {
+      "eng": "And the people were desirous that Alma should be their king, for he was beloved by his people.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙÙØ§ÙÙ Ø£ÙØ¨ÙÙØ§Ø¡Ù Ø§ÙØ´ÙÙØ¹ÙØ¨Ù ÙÙØ±ÙØºÙØ¨ÙÙÙ ÙÙ Ø£ÙÙÙ ÙÙÙÙÙÙ Ø£ÙÙÙÙØ§ ÙÙÙÙÙÙÙÙÙÙØ ÙÙØ£ÙÙÙÙÙÙ ÙØ§ÙÙ ÙÙØ­ÙØ¨ÙØ¨ÙØ§ ÙÙÙÙ Ø´ÙØ¹ÙØ¨ÙÙÙ.",
+      "jpn": "また<ruby>民<rt>たみ</rt></ruby>は、アルマを<ruby>愛<rt>あい</rt></ruby>していたので、<ruby>彼<rt>かれ</rt></ruby>が<ruby>王<rt>おう</rt></ruby>になることを<ruby>願<rt>ねが</rt></ruby>った。",
+      "zhs": "人民希望阿尔玛作他们的王，因为他受到人民爱戴。",
+      "zht": "<span class=\"verse-number\">6ã</span>äººæ°å¸æ<u>é¿ç¾çª</u>ä½ä»åççï¼å çºä»åå°äººæ°ææ´ã",
+      "spa": "Y la gente deseaba que Alma fuera su rey, porque su pueblo lo amaba.",
+      "por": "<span class=\"verse-number\">6 </span>E o povo desejava que Alma fosse rei, porque era amado por seu povo.",
+      "fra": "<span class=\"verse-number\">6Â </span>Et le peuple dÃ©sirait quâAlma fÃ»t son roi, car il Ã©tait aimÃ© de son peuple.",
+      "deu": "<span class=\"verse-number\">6Â </span>Und das Volk hatte den Wunsch, Alma mÃ¶ge sein KÃ¶nig sein, denn er wurde von seinem Volk geliebt.",
+      "kor": "<span class=\"verse-number\">6 </span>ê·¸ë¦¬ê³  ë°±ì±ë¤ì ì¨ë§ê° ê·¸ë¤ì ìì´ ë  ê²ì ìíìëë, ì´ë ê·¸ê° ê·¸ì ë°±ì±ë¤ìê² ì¬ëì ë°ììì´ë¼.",
+      "ita": "<span class=\"verse-number\">6 </span>E il popolo desiderava che Alma fosse il loro re, poichÃ© egli era amato dal suo popolo."
+    },
+    "7": {
+      "eng": "But he said unto them: Behold, it is not expedient that we should have a king; for thus saith the Lord: Ye shall not esteem one flesh above another, or one man shall not think himself above another; therefore I say unto you it is not expedient that ye should have a king.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙ°ÙÙÙÙÙÙÙ ÙØ§ÙÙ ÙÙÙÙÙÙ: Ø¥ÙÙÙÙÙÙ ÙØ§ ÙÙÙÙÙÙ Ø£ÙÙÙ ÙÙÙÙÙÙ ÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙØ£ÙÙÙÙÙÙ ÙÙ°ÙÙØ°Ø§ ÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ: ÙØ§ ØªÙÙÙØ¶ÙÙÙÙØ§ Ø¥ÙÙÙØ³Ø§ÙÙØ§ Ø¹ÙÙÙ Ø¢Ø®ÙØ±ÙØ Ø£ÙÙÙ ÙØ§ ÙÙÙÙØ¨ÙØºÙ Ø£ÙÙÙ ÙÙØ¸ÙÙÙÙ Ø¥ÙÙÙØ³Ø§ÙÙ ÙÙÙÙØ³ÙÙÙ ÙÙÙÙÙÙ Ø¢Ø®ÙØ±ÙØ ÙÙØ°Ù°ÙÙÙÙ Ø£ÙÙÙÙÙ ÙÙÙÙÙÙ: ÙØ§ ÙÙÙÙÙÙ Ø£ÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙÙÙ.",
+      "jpn": "しかし、<ruby>彼<rt>かれ</rt></ruby>は<ruby>民<rt>たみ</rt></ruby>に<ruby>言<rt>い</rt></ruby>った。「まことに、わたしたちに<ruby>王<rt>おう</rt></ruby>がいるのは<ruby>決<rt>けっ</rt></ruby>して<ruby>望<rt>のぞ</rt></ruby>ましいことではない。<ruby>主<rt>しゅ</rt></ruby>は、『あなたがたは、ある<ruby>人<rt>ひと</rt></ruby>をほかの<ruby>人<rt>ひと</rt></ruby>よりも<ruby>優<rt>すぐ</rt></ruby>れていると<ruby>思<rt>おも</rt></ruby>ってはならない。すなわち、<ruby>人<rt>ひと</rt></ruby>は<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>身<rt>しん</rt></ruby>をほかの<ruby>人<rt>ひと</rt></ruby>よりも<ruby>優<rt>すぐ</rt></ruby>れていると<ruby>考<rt>かんが</rt></ruby>えてはならない』と<ruby>言<rt>い</rt></ruby>われた。したがって、あなたがたに<ruby>王<rt>おう</rt></ruby>がいるのは<ruby>望<rt>のぞ</rt></ruby>ましいことではないと、わたしはあなたがたに<ruby>言<rt>い</rt></ruby>う。",
+      "zhs": "但是他告诉他们：看啊，我们不宜有王，因为主这样说：你们不可看重一人甚于另一人，也不可自以为高人一等；所以我告诉你们，你们不宜有王。",
+      "zht": "<span class=\"verse-number\">7ã</span>ä½æ¯ä»åè¨´ä»åï¼çåï¼æåä¸å®æçï¼å çºä¸»éæ¨£èªªï¼ä½ åä¸å¯çéä¸äººçæ¼å¦ä¸äººï¼ä¹ä¸å¯èªä»¥çºé«äººä¸ç­ï¼æä»¥æåè¨´ä½ åï¼ä½ åä¸å®æçã",
+      "spa": "Mas él les dijo: He aquí, no es prudente que tengamos rey; porque así dice el Señor: No estimaréis a una carne más que a otra, ni un hombre se considerará mejor que otro; os digo pues, no conviene que tengáis rey.",
+      "por": "<span class=\"verse-number\">7 </span>Mas ele disse-lhes: Eis que nÃ£o Ã© aconselhÃ¡vel que tenhamos um rei, pois assim diz o Senhor: NÃ£o apreciareis uma carne mais que outra, ou seja, nenhum homem se considerarÃ¡ melhor que outro; digo-vos, portanto, que nÃ£o Ã© aconselhÃ¡vel que tenhais um rei.",
+      "fra": "<span class=\"verse-number\">7Â </span>Mais il lui ditÂ : Voici, il nâest pas opportun que nous ayons un roiÂ ; car ainsi dit le SeigneurÂ : Vous nâestimerez pas une chair au-dessus dâune autre, ou un homme ne se considÃ©rera pas comme Ã©tant au-dessus dâun autreÂ ; câest pourquoi, je vous dis quâil nâest pas opportun que vous ayez un roi.",
+      "deu": "<span class=\"verse-number\">7Â </span>Aber er sprach zu ihm: Siehe, es ist nicht ratsam fÃ¼r uns, einen KÃ¶nig zu haben; denn so spricht der Herr: Ihr sollt nicht ein Fleisch hÃ¶her schÃ¤tzen als das andere, noch soll ein Mensch sich hÃ¶her dÃ¼nken als der andere; darum sage ich euch, es ist nicht ratsam fÃ¼r euch, einen KÃ¶nig zu haben.",
+      "kor": "<span class=\"verse-number\">7 </span>ê·¸ë¬ë ì¨ë§ê° ê·¸ë¤ìê² ì´ë¥´ë, ë³´ë¼, ì°ë¦¬ê° ìì ê°ë ê²ì´ í©ë¹íì§ ìëíë, ì´ë ì´ê°ì´ ì£¼ê»ì ë§ìíìë, ëí¬ë í ì¡ì²´ë¥¼ ë¤ë¥¸ ì¡ì²´ë³´ë¤ ëê² ì¬ê¸°ì§ ë§ì§ë, ê³§ í ì¬ëì ìì ì ë¤ë¥¸ ìë³´ë¤ ëë¤ê³  ìê°íì§ ë§ì§ëë¼ íì¬ì´ëë¼. ê·¸ë¬ë¯ë¡ ë´ê° ëí¬ìê² ì´ë¥´ë¸ë ëí¬ê° ìì ê°ë ê²ì´ í©ë¹íì§ ìëíëë¼.",
+      "ita": "<span class=\"verse-number\">7 </span>Ma egli disse loro: Ecco, non Ã¨ opportuno che noi abbiamo un re; poichÃ© cosÃ¬ dice il Signore: Non stimerete una carne piÃ¹ di unâaltra, ossia un uomo non si reputerÃ  superiore a un altro; perciÃ² vi dico che non Ã¨ opportuno che abbiate un re."
+    },
+    "8": {
+      "eng": "Nevertheless, if it were possible that ye could always have just men to be your kings it would be well for you to have a king.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØ¹Ù Ø°Ù°ÙÙÙÙ ÙÙÙÙ Ø£ÙÙÙÙÙÙÙ Ø£ÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙ Ø¯Ø§Ø¦ÙÙÙØ§ Ø±ÙØ¬Ø§ÙÙØ§ Ø¹Ø§Ø¯ÙÙÙÙÙ ÙÙÙØ§ÙÙ ÙÙÙÙ Ø§ÙÙØ¬ÙÙÙÙØ¯Ù Ø£ÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙÙÙ.",
+      "jpn": "しかしながら、あなたがたが<ruby>正<rt>ただ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>をいつも<ruby>王<rt>おう</rt></ruby>に<ruby>頂<rt>いただ</rt></ruby>くことが<ruby>可<rt>か</rt></ruby><ruby>能<rt>のう</rt></ruby>であれば、<ruby>王<rt>おう</rt></ruby>がいるのもよいであろう。",
+      "zhs": "然而，如果你们一直有正义的人作王，那么有王对你们也是好的。",
+      "zht": "<span class=\"verse-number\">8ã</span>ç¶èï¼å¦æä½ åä¸ç´ææ­£ç¾©çäººä½çï¼é£éº¼æçå°ä½ åä¹æ¯å¥½çã",
+      "spa": "Sin embargo, si fuera posible que siempre tuvieseis hombres justos por reyes, bien os sería tener rey.",
+      "por": "<span class=\"verse-number\">8 </span>NÃ£o obstante, se fosse possÃ­vel ter sempre homens justos como reis, seria bom que tivÃ©sseis um rei.",
+      "fra": "<span class=\"verse-number\">8Â </span>NÃ©anmoins, sâil Ã©tait possible que vous eussiez toujours des hommes justes comme rois, il serait bien que vous ayez un roi.",
+      "deu": "<span class=\"verse-number\">8Â </span>Doch wenn es mÃ¶glich wÃ¤re, dass ihr immer gerechte MÃ¤nner zu KÃ¶nigen haben kÃ¶nntet, dann wÃ¤re es gut fÃ¼r euch, einen KÃ¶nig zu haben.",
+      "kor": "<span class=\"verse-number\">8 </span>ê·¸ë¼ìë ë¶êµ¬íê³  ë§ì¼ ëí¬ê° í­ì ìì¸ì¼ë¡ ëí¬ ìì ì¼ë ê²ì´ ê°ë¥íë¤ë©´ ëí¬ê° ìì ê°ì§ì´ ì¢ì¼ë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">8 </span>Nondimeno, se vi fosse possibile avere come re sempre uomini giusti, sarebbe bene per voi avere un re."
+    },
+    "9": {
+      "eng": "But remember the iniquity of king Noah and his priests; and I myself was caught in a snare, and did many things which were abominable in the sight of the Lord, which caused me sore repentance;",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙ°ÙÙÙÙ ØªÙØ°ÙÙÙÙØ±ÙØ§ Ø¥ÙØ«ÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙÙØ­Ù ÙÙÙÙÙÙÙÙØªÙÙÙØ ÙÙØ£ÙÙØ§ ÙÙÙÙØ³Ù ÙÙÙÙØ¹ÙØªÙ ÙÙ Ø°Ù°ÙÙÙÙ Ø§ÙÙÙÙØ®ÙÙ ÙÙÙÙØ¹ÙÙÙØªÙ Ø§ÙÙÙÙØ«ÙØ±Ù ÙÙÙÙ Ø§ÙÙØ£ÙØ´ÙÙØ§Ø¡Ù Ø§ÙÙØ¨ÙØºÙØ¶ÙØ©Ù ÙÙ Ø¹ÙÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙØ ÙÙÙÙØ§ Ø¬ÙØ¹ÙÙÙÙÙ Ø£ÙØªÙØ¨Ù ØªÙÙÙØ¨ÙØ©Ù ÙÙØ¬ÙØ¹ÙØ©Ù.",
+      "jpn": "しかし、ノア<ruby>王<rt>おう</rt></ruby>と<ruby>彼<rt>かれ</rt></ruby>の<ruby>祭<rt>さい</rt></ruby><ruby>司<rt>し</rt></ruby>たちの<ruby>罪<rt>ざい</rt></ruby><ruby>悪<rt>あく</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>してほしい。わたし<ruby>自<rt>じ</rt></ruby><ruby>身<rt>しん</rt></ruby>もわなにかかり、<ruby>主<rt>しゅ</rt></ruby>の<ruby>目<rt>め</rt></ruby>から<ruby>見<rt>み</rt></ruby>て<ruby>忌<rt>い</rt></ruby>まわしいことをたくさん<ruby>行<rt>おこな</rt></ruby>い、つらい<ruby>悔<rt>く</rt></ruby>い<ruby>改<rt>あらた</rt></ruby>めをした。",
+      "zhs": "但是记住挪亚王和他祭司们的罪恶；我也曾身陷网罗，做了许多神眼中看为可憎的事，这令我万分痛悔。",
+      "zht": "<span class=\"verse-number\">9ã</span>ä½æ¯è¨ä½<u>æªäº</u>çåä»ç¥­å¸åçç½ªæ¡ï¼æä¹æ¾èº«é·ç¶²ç¾ï¼åäºè¨±å¤ç¥ç¼ä¸­ççºå¯æçäºï¼éä»¤æè¬åçæã",
+      "spa": "Mas recordad la iniquidad del rey Noé y sus sacerdotes; y yo mismo caí en la trampa e hice muchas cosas abominables a la vista del Señor, lo que me ocasionó angustioso arrepentimiento;",
+      "por": "<span class=\"verse-number\">9 </span>Mas lembrai-vos das iniquidades do rei NoÃ© e seus sacerdotes; e eu mesmo caÃ­ numa armadilha e fiz muitas coisas abominÃ¡veis aos olhos do Senhor, o que me causou penoso arrependimento.",
+      "fra": "<span class=\"verse-number\">9Â </span>Mais souvenez-vous de lâiniquitÃ© du roi NoÃ© et de ses prÃªtresÂ ; et moi-mÃªme jâai Ã©tÃ© pris au piÃ¨ge, et jâai fait beaucoup de choses qui Ã©taient abominables aux yeux du Seigneur, qui mâont causÃ© un profond repentir.",
+      "deu": "<span class=\"verse-number\">9Â </span>Aber denkt an das Ãbeltun KÃ¶nig Noas und seiner Priester; und ich selbst hatte mich in einer Schlinge gefangen und vieles getan, was in den Augen des Herrn ein GrÃ¤uel war, und dies verursachte mir schmerzhafte Umkehr;",
+      "kor": "<span class=\"verse-number\">9 </span>ê·¸ë¬ë ë¸ì ìê³¼ ê·¸ì ì ì¬ë¤ì ì£ìì ê¸°ìµíë¼. ë ìì  ì¬ë¬´ì ì¡í ì£¼ê»ì ë³´ìê¸°ì ê°ì¦í ì¼ì ë§ì´ ííìëë, ê·¸ë¡ ì¸í´ ì°ë¼ë¦° íê°ë¥¼ íê² ëìëëë¼.",
+      "ita": "<span class=\"verse-number\">9 </span>Ma ricordate le iniquitÃ  di re NoÃ¨ e dei suoi sacerdoti; e io stesso fui preso in trappola, e feci molte cose che erano abominevoli agli occhi del Signore, che mi causarono un doloroso pentimento."
+    },
+    "10": {
+      "eng": "Nevertheless, after much tribulation, the Lord did hear my cries, and did answer my prayers, and has made me an instrument in his hands in bringing so many of you to a knowledge of his truth.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙÙÙØ¹Ù Ø°Ù°ÙÙÙÙØ ÙÙØ¨ÙØ¹ÙØ¯Ù Ø§ÙÙÙÙØ«ÙØ±Ù ÙÙÙÙ Ø§ÙÙÙÙØ¹Ø§ÙØ§Ø©ÙØ Ø³ÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¨ÙÙ ØµÙØ±Ø§Ø®Ù ÙÙØ§Ø³ÙØªÙØ¬Ø§Ø¨Ù ÙÙØµÙÙÙÙØ§ØªÙØ ÙÙØ¬ÙØ¹ÙÙÙÙÙ Ø£ÙØ¯Ø§Ø©Ù Ø¨ÙÙÙÙÙ ÙÙØ¯ÙÙÙÙ ÙÙØ¬ÙÙÙØ¨Ù ÙÙØ«ÙØ±ÙÙÙ ÙÙÙÙÙÙÙÙ Ø¥ÙÙÙ ÙÙØ¹ÙØ±ÙÙÙØ©Ù Ø§ÙÙØ­ÙÙÙÙ.",
+      "jpn": "にもかかわらず、わたしが<ruby>多<rt>おお</rt></ruby>くの<ruby>艱<rt>かん</rt></ruby><ruby>難<rt>なん</rt></ruby>を<ruby>味<rt>あじ</rt></ruby>わった<ruby>後<rt>のち</rt></ruby>、<ruby>主<rt>しゅ</rt></ruby>はわたしの<ruby>嘆<rt>たん</rt></ruby><ruby>願<rt>がん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、わたしの<ruby>祈<rt>いの</rt></ruby>りにこたえ、わたしを<ruby>主<rt>しゅ</rt></ruby>の<ruby>御<rt>み</rt></ruby><ruby>手<rt>て</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われる<ruby>者<rt>もの</rt></ruby>にしてくださり、このように、あなたがたの<ruby>多<rt>おお</rt></ruby>くに<ruby>主<rt>しゅ</rt></ruby>の<ruby>真<rt>しん</rt></ruby><ruby>理<rt>り</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせることができるようにしてくださった。",
+      "zhs": "然而，在我受了许多苦难后，主垂听了我的呼求，回答了我的祈祷，使我成为祂手中的工具，带领你们这么多人认识祂的真理。",
+      "zht": "<span class=\"verse-number\">10ã</span>ç¶èï¼å¨æåäºè¨±å¤è¦é£å¾ï¼ä¸»åè½äºæçå¼æ±ï¼åç­äºæçç¥ç¦±ï¼ä½¿ææçºç¥æä¸­çå·¥å·ï¼å¸¶é ä½ åééº¼å¤äººèªè­ç¥çççã",
+      "spa": "no obstante, después de mucha tribulación, el Señor oyó mi clamor y contestó mis oraciones, y me ha hecho instrumento en sus manos para traer a tantos de vosotros al conocimiento de su verdad.",
+      "por": "<span class=\"verse-number\">10 </span>NÃ£o obstante, depois de muitas tribulaÃ§Ãµes, o Senhor ouviu meus clamores, e respondeu Ã s minhas oraÃ§Ãµes, e fez de mim um instrumento nas suas mÃ£os, para levar tantos de vÃ³s ao conhecimento da sua verdade.",
+      "fra": "<span class=\"verse-number\">10Â </span>NÃ©anmoins, aprÃ¨s beaucoup de tribulations, le Seigneur a entendu mes supplications, et a rÃ©pondu Ã  mes priÃ¨res, et a fait de moi un instrument entre ses mains pour en amener tant de vous Ã  la connaissance de sa vÃ©ritÃ©.",
+      "deu": "<span class=\"verse-number\">10Â </span>doch nach viel Drangsal hat der Herr mein Schreien vernommen und meine Gebete erhÃ¶rt und hat mich zu einem Werkzeug in seinen HÃ¤nden gemacht, um so viele von euch zur Erkenntnis seiner Wahrheit zu bringen.",
+      "kor": "<span class=\"verse-number\">10 </span>ê·¸ë¼ìë ë¶êµ¬íê³  ë§ì íë íì, ì£¼ê»ì ë´ ë¶ë¥´ì§ìì ë¤ì¼ìê³  ëì ê¸°ëì ìëµíì¬, ëë¡ ê·¸ì ìì ìë ëêµ¬ë¥¼ ì¼ì¼ì¬ ê·¸í ë¡ ë§ì ëí¬ìê² ê·¸ì ì§ë¦¬ë¥¼ ìê² íì¨ëë¤.",
+      "ita": "<span class=\"verse-number\">10 </span>Nondimeno, dopo molte tribolazioni, il Signore udÃ¬ le mie grida, e rispose alle mie preghiere, e ha fatto di me uno strumento nelle sue mani per portare tanti di voi alla conoscenza della sua veritÃ ."
+    },
+    "11": {
+      "eng": "Nevertheless, in this I do not glory, for I am unworthy to glory of myself.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙ°ÙÙÙÙÙ ÙÙ ÙÙ°Ø°Ø§ ÙØ§ Ø£ÙÙÙØªÙØ®ÙØ±ÙØ ÙÙØ£ÙÙÙÙ ÙÙØ³ÙØªÙ Ø¬ÙØ¯ÙØ±ÙØ§ Ø¨ÙØ£ÙÙÙ Ø£ÙÙÙØ¬ÙÙØ¯Ù ÙÙÙÙØ³Ù.",
+      "jpn": "それでも、わたしはこのことを<ruby>誇<rt>ほこ</rt></ruby>らない。わたしは<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>身<rt>しん</rt></ruby>について<ruby>誇<rt>ほこ</rt></ruby>るにふさわしくないからである。",
+      "zhs": "然而，我不以此夸耀，因为我不配夸耀自己。",
+      "zht": "<span class=\"verse-number\">11ã</span>ç¶èï¼æä¸ä»¥æ­¤èªèï¼å çºæä¸éèªèèªå·±ã",
+      "spa": "Sin embargo, en esto no me glorío, porque soy indigno de gloriarme.",
+      "por": "<span class=\"verse-number\">11 </span>NÃ£o obstante, nÃ£o me vanglorio disso, porque sou indigno de vangloriar-me.",
+      "fra": "<span class=\"verse-number\">11Â </span>NÃ©anmoins, je ne me glorifie pas de cela, car je suis indigne de me glorifier de moi-mÃªme.",
+      "deu": "<span class=\"verse-number\">11Â </span>Doch dessen rÃ¼hme ich mich nicht, denn ich bin nicht wÃ¼rdig, mich meiner selbst zu rÃ¼hmen.",
+      "kor": "<span class=\"verse-number\">11 </span>ê·¸ë¼ìë ë¶êµ¬íê³  ì´ ì¼ì ë´ê° ìëíì§ ìëíë¸ë, ì´ë ë´ê° ì¤ì¤ë¡ë¥¼ ìëíê¸°ì í©ë¹íì§ ëª»í¨ì´ë¼.",
+      "ita": "<span class=\"verse-number\">11 </span>Nondimeno, non mi glorio per questo, poichÃ© sono indegno di gloriarmi di me stesso."
+    },
+    "12": {
+      "eng": "And now I say unto you, ye have been oppressed by king Noah, and have been in bondage to him and his priests, and have been brought into iniquity by them; therefore ye were bound with the bands of iniquity.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>Ø£ÙÙÙÙÙ ÙÙÙÙÙÙ: ÙÙÙÙØ¯Ù Ø¸ÙÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙÙØ­ÙØ ÙÙÙÙÙÙØªÙÙÙ ÙÙØ³ÙØªÙØ¹ÙØ¨ÙØ¯ÙÙÙ ÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙØªÙÙÙØ ÙÙØ£ÙÙÙÙÙØ¹ÙÙÙÙÙ ÙÙ Ø§ÙÙØ¥ÙØ«ÙÙÙØ ÙÙØ°Ù°ÙÙÙÙ ÙÙÙÙØªÙÙÙ ÙÙÙÙÙÙÙØ¯ÙÙÙ Ø¨ÙÙÙÙÙØ¯Ù Ø§ÙÙØ¥ÙØ«ÙÙÙ.",
+      "jpn": "<ruby>今<rt>いま</rt></ruby>、わたしはあなたがたに<ruby>言<rt>い</rt></ruby>う。あなたがたはかつてノア<ruby>王<rt>おう</rt></ruby>に<ruby>虐<rt>しいた</rt></ruby>げられ、<ruby>彼<rt>かれ</rt></ruby>と<ruby>彼<rt>かれ</rt></ruby>の<ruby>祭<rt>さい</rt></ruby><ruby>司<rt>し</rt></ruby>たちに<ruby>対<rt>たい</rt></ruby>して<ruby>奴<rt>ど</rt></ruby><ruby>隷<rt>れい</rt></ruby>の<ruby>状<rt>じょう</rt></ruby><ruby>態<rt>たい</rt></ruby>にあり、<ruby>彼<rt>かれ</rt></ruby>らによって<ruby>罪<rt>ざい</rt></ruby><ruby>悪<rt>あく</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>き<ruby>込<rt>こ</rt></ruby>まれたため、<ruby>罪<rt>ざい</rt></ruby><ruby>悪<rt>あく</rt></ruby>の<ruby>縄<rt>なわ</rt></ruby><ruby>目<rt>め</rt></ruby>をかけられてしまった。",
+      "zhs": "现在，我告诉你们，你们受过挪亚王的欺压，他和他的祭司奴役你们，引你们犯罪，因此你们身受罪恶枷锁的束缚。",
+      "zht": "<span class=\"verse-number\">12ã</span>ç¾å¨ï¼æåè¨´ä½ åï¼ä½ ååé<u>æªäº</u>ççæ¬ºå£ï¼ä»åä»çç¥­å¸å¥´å½¹ä½ åï¼å¼ä½ åç¯ç½ªï¼å æ­¤ä½ åèº«åç½ªæ¡æ·éçæç¸ã",
+      "spa": "Y ahora os digo, el rey Noé os ha oprimido, y habéis sido esclavos de él y de sus sacerdotes, y ellos os han conducido a la iniquidad; por tanto, fuisteis atados con las cadenas de la iniquidad.",
+      "por": "<span class=\"verse-number\">12 </span>E agora vos digo que haveis sido oprimidos pelo rei NoÃ© e haveis sido escravizados por ele e seus sacerdotes; e eles vos conduziram Ã  iniquidade; fostes, portanto, amarrados com os laÃ§os da iniquidade.",
+      "fra": "<span class=\"verse-number\">12Â </span>Et maintenant, je vous le dis, vous avez Ã©tÃ© opprimÃ©s par le roi NoÃ©, et avez Ã©tÃ© asservis par lui et par ses prÃªtres, et avez Ã©tÃ© entraÃ®nÃ©s dans lâiniquitÃ© par euxÂ ; câest pourquoi, vous Ã©tiez liÃ©s par les liens de lâiniquitÃ©.",
+      "deu": "<span class=\"verse-number\">12Â </span>Und nun sage ich euch, ihr seid von KÃ¶nig Noa bedrÃ¼ckt worden und wart in seiner und seiner Priester Knechtschaft und seid durch sie zum Ãbeltun gebracht worden; darum wart ihr mit den Banden des Ãbeltuns gebunden.",
+      "kor": "<span class=\"verse-number\">12 </span>ë ì´ì  ë´ê° ëí¬ìê² ì´ë¥´ë¸ë, ëí¬ë ë¸ì ììê² íëë°ìì¼ë©°, ê·¸ì ê·¸ì ì ì¬ë¤ìê² ìë°ëì´ ììê³ , ê·¸ë¤ì ìí´ ì£ìì¼ë¡ ì´ëë ¤ ê°ëë, ê·¸ë¬ë¯ë¡ ëí¬ë ì£ìì ì¤ë¡ ê²°ë°ëì´ ììëëë¼.",
+      "ita": "<span class=\"verse-number\">12 </span>Ed ora io vi dico, siete stati oppressi dal re NoÃ¨, e siete stati schiavi suoi e dei suoi sacerdoti, e siete stati da loro portati allâiniquitÃ , ed eravate impediti dai legami dellâiniquitÃ ."
+    },
+    "13": {
+      "eng": "And now as ye have been delivered by the power of God out of these bonds; yea, even out of the hands of king Noah and his people, and also from the bonds of iniquity, even so I desire that ye should stand fast in this liberty wherewith ye have been made free, and that ye trust no man to be a king over you.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØ§ÙÙØ¢ÙÙØ ÙÙÙÙØ¯Ù Ø­ÙØ±ÙÙØ±ÙØªÙÙÙÙÙ ÙÙÙÙÙØ©Ù Ø§ÙÙÙÙ°ÙÙ ÙÙÙÙ ÙÙ°Ø°ÙÙÙ Ø§ÙÙÙÙÙÙØ¯ÙØ Ø£ÙØ¬ÙÙÙØ ÙÙÙÙ ÙÙÙÙØ¯Ù Ø§ÙÙÙÙÙÙÙÙ ÙÙØ­Ù ÙÙÙÙÙÙÙÙÙÙØ ÙÙØ£ÙÙÙØ¶ÙØ§ ÙÙÙÙ ÙÙÙÙØ¯Ù Ø§ÙÙØ¥ÙØ«ÙÙÙØ ÙÙØ°Ù°ÙÙÙÙ Ø£ÙØ±ÙØºÙØ¨Ù ÙÙ Ø£ÙÙÙ ØªÙØ«ÙØ¨ÙØªÙØ§ ÙÙ ÙÙ°Ø°ÙÙÙ Ø§ÙÙØ­ÙØ±ÙÙÙÙÙØ©Ù Ø§ÙÙÙØªÙ ØªÙØ­ÙØ±ÙÙØ±ÙØªÙÙÙ Ø¨ÙÙØ§Ø ÙÙØ£ÙÙÙØ§ ØªÙØ«ÙÙÙØ§ Ø¨ÙØ£ÙÙÙÙ Ø¥ÙÙÙØ³Ø§ÙÙ ÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙØ§ Ø¹ÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "ところがあなたがたは、<ruby>神<rt>かみ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>によってこれらのかせから、すなわちノア<ruby>王<rt>おう</rt></ruby>と<ruby>彼<rt>かれ</rt></ruby>の<ruby>民<rt>たみ</rt></ruby>の<ruby>手<rt>て</rt></ruby>から、また<ruby>罪<rt>ざい</rt></ruby><ruby>悪<rt>あく</rt></ruby>のかせから<ruby>救<rt>すく</rt></ruby>い<ruby>出<rt>だ</rt></ruby>されているので、わたしはあなたがたが<ruby>解<rt>かい</rt></ruby><ruby>放<rt>ほう</rt></ruby>されたこの<ruby>自<rt>じ</rt></ruby><ruby>由<rt>ゆう</rt></ruby>にしっかりと<ruby>立<rt>た</rt></ruby>つように、まただれもあなたがたを<ruby>治<rt>おさ</rt></ruby>める<ruby>王<rt>おう</rt></ruby>としないように<ruby>望<rt>のぞ</rt></ruby>んでいる。",
+      "zhs": "现在神的力量已救你们脱离这些束缚，是的，脱离挪亚王和他人民的掌握及罪恶的枷锁，因此我希望你们固守这解救你们的自由，不要信赖任何人来作你们的王。",
+      "zht": "<span class=\"verse-number\">13ã</span>ç¾å¨ç¥çåéå·²æä½ åè«é¢éäºæç¸ï¼æ¯çï¼è«é¢<u>æªäº</u>çåä»äººæ°çææ¡åç½ªæ¡çæ·éï¼å æ­¤æå¸æä½ ååºå®éè§£æä½ åçèªç±ï¼ä¸è¦ä¿¡è³´ä»»ä½äººä¾ä½ä½ åççã",
+      "spa": "Y ahora bien, ya que habéis sido librados de estas ligaduras por el poder de Dios, sí, de las manos del rey Noé y su pueblo, y también de las ligaduras de la iniquidad, así deseo que os mantengáis firmes en esta libertad con que habéis sido libertados, y que no confiéis en ningún hombre para que sea rey sobre vosotros.",
+      "por": "<span class=\"verse-number\">13 </span>E agora, assim como haveis sido libertados desses laÃ§os pelo poder de Deus, sim, das mÃ£os do rei NoÃ© e seu povo e tambÃ©m dos laÃ§os da iniquidade, assim tambÃ©m desejo que vos conserveis firmes nesta liberdade que vos fez livres; e que em ninguÃ©m confieis para ser vosso rei.",
+      "fra": "<span class=\"verse-number\">13Â </span>Et maintenant, puisque vous avez Ã©tÃ© dÃ©livrÃ©s de ces liens par le pouvoir de Dieu, oui, des mains du roi NoÃ© et de son peuple, et aussi des liens de lâiniquitÃ©, je dÃ©sire que vous demeuriez fermes dans cette libertÃ© qui vous a rendus libres et que vous ne vous fiiez Ã  aucun homme pour quâil soit votre roi.",
+      "deu": "<span class=\"verse-number\">13Â </span>Und da ihr nun durch die Macht Gottes aus diesen Banden befreit worden seid, ja, nÃ¤mlich aus den HÃ¤nden KÃ¶nig Noas und seines Volkes und auch aus den Banden des Ãbeltuns, so ist es auch mein Wunsch, dass ihr in dieser Freiheit, womit ihr frei gemacht worden seid, fest steht und dass ihr keinen Menschen damit betraut, KÃ¶nig Ã¼ber euch zu sein.",
+      "kor": "<span class=\"verse-number\">13 </span>ê·¸ë¬ë ì´ì  ëí¬ê° ì´ë¬í ê²°ë°ìì, ì°¸ì¼ë¡ ê³§ ë¸ì ìê³¼ ê·¸ì ë°±ì±ì ìììì, ëí ì£ìì ê²°ë°ì¼ë¡ë¶í°, íëëì ê¶ë¥ì¼ë¡ ê±´ì ¸ ë´ì¬ì ììì¼ë, ê·¸ì ê°ì´ ëë ëí¬ê° ëí¬ë¥¼ ìì ë¡­ê² í ì´ ìì  ìì êµ³ê² ì¤ ê²ê³¼ ëí¬ê° ìë¬´ ì¬ëì´ë¼ë ë¯¿ê³  ëí¬ ìì ìì´ ëê² íì§ ë§ê¸°ë¥¼ ìíë¸ë¼.",
+      "ita": "<span class=\"verse-number\">13 </span>Ed ora poichÃ© siete stati liberati dal potere di Dio da questi legami, sÃ¬, cioÃ¨ dalle mani di re NoÃ¨ e del suo popolo, e anche dai legami dellâiniquitÃ , altrettanto desidero che voi rimaniate fermi in questa libertÃ  con la quale siete stati resi liberi, e che non diate fiducia a nessun uomo di regnare su di voi."
+    },
+    "14": {
+      "eng": "And also trust no one to be your teacher nor your minister, except he be a man of God, walking in his ways and keeping his commandments.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙÙØ§ ØªÙØ«ÙÙÙØ§ Ø£ÙÙÙØ¶ÙØ§ Ø¨ÙÙÙØ¹ÙÙÙÙÙÙ Ø£ÙÙÙ Ø±Ø§Ø¹Ù ÙÙÙÙÙÙØ Ø¥ÙÙÙØ§ Ø¥ÙÙÙ ÙØ§ÙÙ Ø±ÙØ¬ÙÙÙØ§ ÙÙØªÙÙÙÙ Ø§ÙÙÙÙ°ÙÙ ÙÙÙÙØ³ÙØ±Ù ÙÙ Ø·ÙØ±ÙÙÙÙÙ ÙÙÙÙØ­ÙÙÙØ¸Ù ÙÙØµØ§ÙØ§ÙÙ.",
+      "jpn": "また、<ruby>神<rt>かみ</rt></ruby>の<ruby>道<rt>みち</rt></ruby>を<ruby>歩<rt>あゆ</rt></ruby>み、<ruby>神<rt>かみ</rt></ruby>の<ruby>戒<rt>いまし</rt></ruby>めを<ruby>守<rt>まも</rt></ruby>っている<ruby>神<rt>かみ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>でなければ、だれも、あなたがたの<ruby>教<rt>きょう</rt></ruby><ruby>師<rt>し</rt></ruby>や<ruby>教<rt>おし</rt></ruby>え<ruby>導<rt>みちび</rt></ruby>く<ruby>者<rt>もの</rt></ruby>としてはならない。」",
+      "zhs": "不要信赖任何人来作你们的教师和施助者，除非他是个属神的人，遵行神的道，遵守神的诫命。",
+      "zht": "<span class=\"verse-number\">14ã</span>ä¸è¦ä¿¡è³´ä»»ä½äººä¾ä½ä½ åçæå¸«åæ½å©èï¼é¤éä»æ¯åå±¬ç¥çäººï¼éµè¡ç¥çéï¼éµå®ç¥çèª¡å½ã",
+      "spa": "Ni confiéis en nadie para que sea vuestro maestro ni vuestro ministro, a menos que sea un hombre de Dios, que ande en sus vías y guarde sus mandamientos.",
+      "por": "<span class=\"verse-number\">14 </span>E tambÃ©m, que em ninguÃ©m confieis para ser vosso mestre ou ministro, a nÃ£o ser que seja um homem de Deus, que ande em seus caminhos e guarde os mandamentos.",
+      "fra": "<span class=\"verse-number\">14Â </span>Et aussi, ne vous fiez Ã  personne pour quâil vous instruise ou exerce un ministÃ¨re parmi vous, si ce nâest un homme de Dieu, marchant dans ses voies et gardant ses commandements.",
+      "deu": "<span class=\"verse-number\">14Â </span>Und betraut auch niemanden damit, euer Lehrer oder euer geistlicher Diener zu sein, auÃer es sei ein Mann Gottes, der auf seinen Pfaden wandelt und seine Gebote hÃ¤lt.",
+      "kor": "<span class=\"verse-number\">14 </span>ëí íëëì ì¬ëì¼ë¡ì ê·¸ì ê¸¸ë¡ ííë©° ê·¸ì ê³ëªì ì§í¤ë ìê° ìëë©´, ìë¬´ë ë¯¿ê³  ëí¬ë¥¼ ê°ë¥´ì¹ë ìë ëí¬ìê² ì±ì­ì ë² í¸ë ìê° ëê² íì§ ë§ë¼.",
+      "ita": "<span class=\"verse-number\">14 </span>E inoltre non date fiducia a nessuno di essere vostro insegnante nÃ© vostro ministro, eccetto che sia un uomo di Dio, che cammini nelle sue vie e che obbedisca ai suoi comandamenti."
+    },
+    "15": {
+      "eng": "Thus did Alma teach his people, that every man should love his neighbor as himself, that there should be no contention among them.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙ°ÙÙØ°Ø§ Ø¹ÙÙÙÙÙÙ Ø£ÙÙÙÙØ§ Ø£ÙØ¨ÙÙØ§Ø¡Ù Ø´ÙØ¹ÙØ¨ÙÙÙ Ø£ÙÙÙ ÙÙØ­ÙØ¨ÙÙ ÙÙÙÙÙ Ø¥ÙÙÙØ³Ø§ÙÙ Ø¬Ø§Ø±ÙÙÙ ÙÙÙÙÙÙØ³ÙÙÙ ÙÙØ£ÙÙÙØ§ ÙÙÙÙÙÙ ÙÙÙØ§ÙÙ ÙÙØ²Ø§Ø¹Ù ÙÙÙØ§ Ø¨ÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "このようにアルマは、<ruby>人<rt>ひと</rt></ruby>は<ruby>皆<rt>みな</rt></ruby>、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>身<rt>しん</rt></ruby>のように<ruby>隣<rt>りん</rt></ruby><ruby>人<rt>じん</rt></ruby>を<ruby>愛<rt>あい</rt></ruby>し、<ruby>民<rt>たみ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>決<rt>けっ</rt></ruby>して<ruby>争<rt>あらそ</rt></ruby>いがないようにしなければならないことを、<ruby>彼<rt>かれ</rt></ruby>の<ruby>民<rt>たみ</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えた。",
+      "zhs": "阿尔玛如此教导他的人民，要每一个人都爱邻人如同爱自己，他们之间不应有纷争。",
+      "zht": "<span class=\"verse-number\">15ã</span><u>é¿ç¾çª</u>å¦æ­¤æå°ä»çäººæ°ï¼è¦æ¯ä¸åäººé½æé°äººå¦åæèªå·±ï¼ä»åä¹éä¸ææç´ç­ã",
+      "spa": "Así instruyó Alma a su pueblo, a fin de que cada uno amara a su prójimo como a sí mismo, para que no hubiese contención entre ellos.",
+      "por": "<span class=\"verse-number\">15 </span>Assim Alma ensinou seu povo, a fim de que cada um amasse o prÃ³ximo como a si mesmo, para que nÃ£o houvesse disputas entre eles.",
+      "fra": "<span class=\"verse-number\">15Â </span>Câest ainsi quâAlma instruisit son peuple, afin que chacun aimÃ¢t son prochain comme lui-mÃªme, afin quâil nây eÃ»t pas de querelles parmi eux.",
+      "deu": "<span class=\"verse-number\">15Â </span>So lehrte Alma sein Volk, dass jedermann seinen NÃ¤chsten lieben solle wie sich selbst, dass es unter ihnen allen keinen Streit geben solle.",
+      "kor": "<span class=\"verse-number\">15 </span>ì´ê°ì´ ì°¸ì¼ë¡ ì¨ë§ê° ê·¸ì ë°±ì±ì ê°ë¥´ì³, ê° ì¬ëì ê·¸ ì´ìì ìê¸° ìì ê³¼ ê°ì´ ì¬ëíë¼ íê³ , ëí¬ ê°ì´ë° ë¤í¼ì´ ìê² íë¼ íëë¼.",
+      "ita": "<span class=\"verse-number\">15 </span>CosÃ¬ Alma insegnÃ² al suo popolo, che ogni uomo amasse il suo prossimo come se stesso, cosicchÃ© non vi fossero contese fra loro."
+    },
+    "16": {
+      "eng": "And now, Alma was their high priest, he being the founder of their church.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙØ§ÙÙ Ø£ÙÙÙÙØ§ ÙØ§ÙÙÙÙÙÙÙÙ Ø§ÙÙØ¹Ø§ÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙ Ø£ÙØ³ÙÙØ³Ù ÙÙÙÙØ³ÙØªÙÙÙÙÙ.",
+      "jpn": "さて、アルマは<ruby>彼<rt>かれ</rt></ruby>らの<ruby>教<rt>きょう</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>創<rt>そう</rt></ruby><ruby>設<rt>せつ</rt></ruby><ruby>者<rt>しゃ</rt></ruby>であったので、<ruby>彼<rt>かれ</rt></ruby>らの<ruby>大<rt>だい</rt></ruby><ruby>祭<rt>さい</rt></ruby><ruby>司<rt>し</rt></ruby>であった。",
+      "zhs": "这时，阿尔玛是他们的大祭司，因为他建立了他们的教会。",
+      "zht": "<span class=\"verse-number\">16ã</span>éæï¼<u>é¿ç¾çª</u>æ¯ä»åçå¤§ç¥­å¸ï¼å çºä»å»ºç«äºä»åçææã",
+      "spa": "Y Alma era su sumo sacerdote, por ser el fundador de su iglesia.",
+      "por": "<span class=\"verse-number\">16 </span>E Alma foi o seu sumo sacerdote, tendo sido ele o fundador da igreja deles.",
+      "fra": "<span class=\"verse-number\">16Â </span>Et maintenant, Alma Ã©tait leur grand prÃªtre, fondateur de leur Ãglise.",
+      "deu": "<span class=\"verse-number\">16Â </span>Und nun war Alma ihr Hoher Priester, denn er war der BegrÃ¼nder ihrer Kirche.",
+      "kor": "<span class=\"verse-number\">16 </span>ê·¸ë¦¬ê³  ì´ì  ì¨ë§ë ê·¸ë¤ì ëì ì¬ìì¼ë, ê·¸ë ê·¸ë¤ì êµíì ì¤ë¦½ìììì´ë¼.",
+      "ita": "<span class=\"verse-number\">16 </span>Ed ora Alma era il loro sommo sacerdote, essendo egli il fondatore della loro chiesa."
+    },
+    "17": {
+      "eng": "And it came to pass that none received authority to preach or to teach except it were by him from God. Therefore he consecrated all their priests and all their teachers; and none were consecrated except they were just men.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙÙÙÙÙ ÙÙÙÙÙÙ Ø£ÙØ­ÙØ¯Ù Ø§ÙØ³ÙÙÙÙØ·ÙØ©Ù ÙÙÙÙÙÙØ¹ÙØ¸Ù Ø£ÙÙÙ Ø§ÙØªÙÙØ¹ÙÙÙÙÙ Ø¥ÙÙÙØ§ ÙÙÙÙ Ø§ÙÙÙÙ°ÙÙ Ø¹ÙÙÙ Ø·ÙØ±ÙÙÙ Ø£ÙÙÙÙØ§. ÙÙØ°Ù°ÙÙÙÙ ÙÙØ±ÙÙØ³Ù Ø£ÙÙÙÙØ§ Ø¬ÙÙÙØ¹Ù ÙÙÙÙÙÙØªÙÙÙÙÙ ÙÙÙÙÙÙÙ ÙÙØ¹ÙÙÙÙÙÙÙÙÙÙØ ÙÙÙÙÙÙ ÙÙÙÙØ±ÙÙØ³ÙÙÙÙÙ Ø¥ÙÙÙØ§ Ø¥ÙÙÙ ÙØ§ÙÙØ§ Ø±ÙØ¬Ø§ÙÙØ§ Ø¹Ø§Ø¯ÙÙÙÙÙ.",
+      "jpn": "そして、アルマを<ruby>通<rt>つう</rt></ruby>じて<ruby>神<rt>かみ</rt></ruby>から<ruby>与<rt>あた</rt></ruby>えられなければ、だれも<ruby>説<rt>せっ</rt></ruby><ruby>教<rt>きょう</rt></ruby>をする<ruby>権<rt>けん</rt></ruby><ruby>能<rt>のう</rt></ruby>や<ruby>教<rt>おし</rt></ruby>える<ruby>権<rt>けん</rt></ruby><ruby>能<rt>のう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けられなかった。したがってアルマは、<ruby>民<rt>たみ</rt></ruby>のすべての<ruby>祭<rt>さい</rt></ruby><ruby>司<rt>し</rt></ruby>とすべての<ruby>教<rt>きょう</rt></ruby><ruby>師<rt>し</rt></ruby>を<ruby>任<rt>にん</rt></ruby><ruby>命<rt>めい</rt></ruby>した。また、<ruby>正<rt>ただ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>でなければだれも<ruby>任<rt>にん</rt></ruby><ruby>命<rt>めい</rt></ruby>されなかった。",
+      "zhs": "事情是这样的，除了借着从神而来的人以外，没有人能获得传道或教导的权柄。因此，他按立了所有的祭司和教师；而除了义人以外，没有按立其他人。",
+      "zht": "<span class=\"verse-number\">17ã</span>äºææ¯éæ¨£çï¼é¤äºèèå¾ç¥èä¾çäººä»¥å¤ï¼æ²æäººè½ç²å¾å³éææå°çæ¬æãå æ­¤ï¼ä»æç«äºææçç¥­å¸åæå¸«ï¼èé¤äºç¾©äººä»¥å¤ï¼æ²ææç«å¶ä»äººã",
+      "spa": "Y sucedió que nadie recibía autoridad para predicar ni para enseñar, sino de Dios, por medio de Alma. Por tanto, él consagraba a todos los sacerdotes y a todos los maestros de ellos; y nadie era consagrado a menos que fuera hombre justo.",
+      "por": "<span class=\"verse-number\">17 </span>E aconteceu que ninguÃ©m recebia autoridade para pregar ou ensinar, a nÃ£o ser de Deus, por intermÃ©dio de Alma. Ele, portanto, consagrava todos os sacerdotes e todos os mestres; e ninguÃ©m era consagrado a nÃ£o ser que fosse um homem justo.",
+      "fra": "<span class=\"verse-number\">17Â </span>Et il arriva que personne ne recevait lâautoritÃ© de prÃªcher ou dâenseigner, si ce nâÃ©tait par lui, de la part de Dieu. Câest pourquoi, il consacrait tous leurs prÃªtres et tous leurs instructeursÂ ; et nul nâÃ©tait consacrÃ© sâil nâÃ©tait un homme juste.",
+      "deu": "<span class=\"verse-number\">17Â </span>Und es begab sich: Niemand empfing Vollmacht, zu predigen oder zu lehren, auÃer durch ihn von Gott. Darum weihte er alle ihre Priester und alle ihre Lehrer; und niemand wurde geweiht, der nicht ein gerechter Mann war.",
+      "kor": "<span class=\"verse-number\">17 </span>ì´ì ì´ë ê² ëìëë ê·¸ì ìí´ì íëëì¼ë¡ë¶í° ê¶ì¸ë¥¼ ë°ìì´ ìëê³ ë ìë¬´ë ì ííê±°ë ê°ë¥´ì¹  ê¶ì¸ë¥¼ ë°ì§ ìëíìëì§ë¼, ê·¸ë¬ë¯ë¡ ê·¸ê° ê·¸ë¤ì ëª¨ë  ì ì¬ë¤ê³¼ ê·¸ë¤ì ëª¨ë  êµì¬ë¤ì ì±ë³íìëë, ì´ì ìì¸ì´ ìëê³ ë ìë¬´ë ì±ë³ëì§ ìëíìëë¼.",
+      "ita": "<span class=\"verse-number\">17 </span>E avvenne che nessuno riceveva lâautoritÃ  di predicare o di insegnare eccetto che da Dio, mediante lui. PerciÃ² egli consacrava tutti i loro sacerdoti e tutti i loro insegnanti; e nessuno veniva consacrato, a meno che non fosse un uomo giusto."
+    },
+    "18": {
+      "eng": "Therefore they did watch over their people, and did nourish them with things pertaining to righteousness.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙØ°Ù°ÙÙÙÙ ÙØ§ÙÙØ§ ÙÙØ³ÙÙÙØ±ÙÙÙ Ø¹ÙÙÙ Ø£ÙØ¨ÙÙØ§Ø¡Ù Ø´ÙØ¹ÙØ¨ÙÙÙÙÙ ÙÙÙÙØºÙØ°ÙÙÙÙÙÙÙÙ Ø±ÙØ­ÙÙÙÙØ§ Ø¨ÙØ§ÙÙØ£ÙÙÙØ±Ù Ø§ÙÙÙÙØªÙØ¹ÙÙÙÙÙÙØ©Ù Ø¨ÙØ§ÙÙØ¨ÙØ±ÙÙ.",
+      "jpn": "そして、<ruby>彼<rt>かれ</rt></ruby>らは<ruby>民<rt>たみ</rt></ruby>を<ruby>見<rt>み</rt></ruby><ruby>守<rt>まも</rt></ruby>り、<ruby>義<rt>ぎ</rt></ruby>にかかわることをもって<ruby>彼<rt>かれ</rt></ruby>らを<ruby>養<rt>やしな</rt></ruby>った。",
+      "zhs": "因此，他们确实看顾他们的人民，并以正义的事来滋养他们。",
+      "zht": "<span class=\"verse-number\">18ã</span>å æ­¤ï¼ä»åç¢ºå¯¦çé¡§ä»åçäººæ°ï¼ä¸¦ä»¥æ­£ç¾©çäºä¾æ»é¤ä»åã",
+      "spa": "Por tanto, velaban por su pueblo, y lo sustentaban con cosas pertenecientes a la rectitud.",
+      "por": "<span class=\"verse-number\">18 </span>Portanto, zelavam por seu povo e edificavam-no com coisas pertinentes Ã  retidÃ£o.",
+      "fra": "<span class=\"verse-number\">18Â </span>Ils veillÃ¨rent ainsi sur leur peuple et le nourrirent des choses relatives Ã  la justice.",
+      "deu": "<span class=\"verse-number\">18Â </span>Darum wachten sie Ã¼ber ihr Volk und nÃ¤hrten es mit dem, was die Rechtschaffenheit betrifft.",
+      "kor": "<span class=\"verse-number\">18 </span>ê·¸ë¬ë¯ë¡ ê·¸ë¤ì´ ê·¸ë¤ì ë°±ì±ì ë³´ì´í¼ë©°, ìì ê´í ê²ì¼ë¡ ê·¸ë¤ì ìì¡íìëë¼.",
+      "ita": "<span class=\"verse-number\">18 </span>Essi vegliavano dunque sul loro popolo e lo nutrivano delle cose che riguardano la rettitudine."
+    },
+    "19": {
+      "eng": "And it came to pass that they began to prosper exceedingly in the land; and they called the land Helam.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØ¨ÙØ¯ÙØ£ÙØ§ ÙÙØ²ÙØ¯ÙÙÙØ±ÙÙÙ ÙÙØ«ÙØ±ÙØ§ ÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶ÙØ ÙÙØ¯ÙØ¹ÙÙÙÙØ§ Ø£ÙØ±ÙØ¶Ù Ø­ÙÙØ§ÙÙ.",
+      "jpn": "さて、<ruby>彼<rt>かれ</rt></ruby>らはその<ruby>地<rt>ち</rt></ruby>で<ruby>非<rt>ひ</rt></ruby><ruby>常<rt>じょう</rt></ruby>に<ruby>栄<rt>さか</rt></ruby>え、その<ruby>地<rt>ち</rt></ruby>をヘラムと<ruby>名<rt>な</rt></ruby><ruby>付<rt>づ</rt></ruby>けた。",
+      "zhs": "事情是这样的，他们开始在那地非常昌盛，他们称那地为希兰。",
+      "zht": "<span class=\"verse-number\">19ã</span>äºææ¯éæ¨£çï¼ä»åéå§å¨é£å°éå¸¸æçï¼ä»åç¨±é£å°çº<u>å¸è­</u>ã",
+      "spa": "Y ocurrió que empezaron a prosperar grandemente en la tierra; y la llamaron la tierra de Helam.",
+      "por": "<span class=\"verse-number\">19 </span>E aconteceu que comeÃ§aram a prosperar muito na terra; e chamaram Ã  terra HelÃ£.",
+      "fra": "<span class=\"verse-number\">19Â </span>Et il arriva quâils commencÃ¨rent Ã  prospÃ©rer extrÃªmement dans le paysÂ ; et ils appelÃ¨rent le pays HÃ©lam.",
+      "deu": "<span class=\"verse-number\">19Â </span>Und es begab sich: Sie fingen an, in dem Land Ã¼ber die MaÃen zu gedeihen, und sie nannten das Land Helam.",
+      "kor": "<span class=\"verse-number\">19 </span>ì´ì ì´ë ê² ëìëë ê·¸ë¤ì´ ê·¸ ëìì ì¬í ë²ìíê¸° ììíìì¼ë©°, ê·¸ë¤ì ê·¸ ëì íë¨ì´ë¼ ì¹­íìëë¼.",
+      "ita": "<span class=\"verse-number\">19 </span>E avvenne che cominciarono a prosperare grandemente nel paese; e chiamarono il paese Helam."
+    },
+    "20": {
+      "eng": "And it came to pass that they did multiply and prosper exceedingly in the land of Helam; and they built a city, which they called the city of Helam.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙØ­ÙØ¯ÙØ«Ù Ø£ÙÙÙÙÙÙÙÙ ØªÙÙØ§Ø«ÙØ±ÙØ§ ÙÙØ§Ø²ÙØ¯ÙÙÙØ±ÙØ§ ÙÙØ«ÙØ±ÙØ§ ÙÙ Ø£ÙØ±ÙØ¶Ù Ø­ÙÙØ§ÙÙØ ÙÙØ¨ÙÙÙÙÙØ§ ÙÙØ¯ÙÙÙØ©Ù ÙÙØ¯ÙØ¹ÙÙÙÙØ§ ÙÙØ¯ÙÙÙØ©Ù Ø­ÙÙØ§ÙÙ.",
+      "jpn": "そして、<ruby>彼<rt>かれ</rt></ruby>らはヘラムの<ruby>地<rt>ち</rt></ruby>で<ruby>増<rt>ふ</rt></ruby>え、<ruby>非<rt>ひ</rt></ruby><ruby>常<rt>じょう</rt></ruby>に<ruby>栄<rt>さか</rt></ruby>えた。そして、一つの<ruby>町<rt>まち</rt></ruby>を<ruby>築<rt>きず</rt></ruby>いてヘラムの<ruby>町<rt>まち</rt></ruby>と<ruby>名<rt>な</rt></ruby><ruby>付<rt>づ</rt></ruby>けた。",
+      "zhs": "事情是这样的，他们在希兰地迅速繁衍，非常昌盛；他们建造了一座城，称为希兰城。",
+      "zht": "<span class=\"verse-number\">20ã</span>äºææ¯éæ¨£çï¼ä»åå¨<u>å¸è­</u>å°è¿éç¹è¡ï¼éå¸¸æçï¼ä»åå»ºé äºä¸åº§åï¼ç¨±çº<u>å¸è­</u>åã",
+      "spa": "Y aconteció que se multiplicaron y prosperaron en sumo grado en la tierra de Helam; y edificaron una ciudad a la que llamaron la ciudad de Helam.",
+      "por": "<span class=\"verse-number\">20 </span>E aconteceu que se multiplicaram e prosperaram grandemente na terra de HelÃ£; e construÃ­ram uma cidade que chamaram cidade de HelÃ£.",
+      "fra": "<span class=\"verse-number\">20Â </span>Et il arriva quâils se multipliÃ¨rent et prospÃ©rÃ¨rent extrÃªmement au pays dâHÃ©lamÂ ; et ils construisirent une ville quâils appelÃ¨rent la ville dâHÃ©lam.",
+      "deu": "<span class=\"verse-number\">20Â </span>Und es begab sich: Sie mehrten sich und gediehen Ã¼ber die MaÃen im Land Helam; und sie bauten eine Stadt, die sie die Stadt Helam nannten.",
+      "kor": "<span class=\"verse-number\">20 </span>ë ì´ë ê² ëìëë ê·¸ë¤ì´ íë¨ ëìì ì¬í ë²ì±íê³  ë²ìíìì¼ë©°, ê·¸ë¤ì´ ì±ì ì¸ì ì´ë¥¼ íë¨ ì±ì´ë¼ íìëë¼.",
+      "ita": "<span class=\"verse-number\">20 </span>E avvenne che si moltiplicarono e prosperarono grandemente nel paese di Helam; e costruirono una cittÃ  che chiamarono la cittÃ  di Helam."
+    },
+    "21": {
+      "eng": "Nevertheless the Lord seeth fit to chasten his people; yea, he trieth their patience and their faith.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙÙÙ°ÙÙÙÙ ÙÙØ¬ÙØ¯ÙØ±Ù Ø¨ÙØ§ÙØ±ÙÙØ¨ÙÙ Ø£ÙÙÙ ÙÙØ¤ÙØ¯ÙÙØ¨Ù Ø´ÙØ¹ÙØ¨ÙÙÙØ Ø£ÙØ¬ÙÙÙØ ÙÙÙÙØªÙØ­ÙÙÙØ§ ØµÙØ¨ÙØ±ÙÙÙÙÙ ÙÙØ¥ÙÙØ§ÙÙÙÙÙÙ.",
+      "jpn": "にもかかわらず、<ruby>主<rt>しゅ</rt></ruby>は<ruby>御<rt>ご</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>民<rt>たみ</rt></ruby>を<ruby>懲<rt>こ</rt></ruby>らしめるのを、<ruby>御<rt>み</rt></ruby><ruby>心<rt>こころ</rt></ruby>にかなうことと<ruby>見<rt>み</rt></ruby>ておられる。まことに、<ruby>主<rt>しゅ</rt></ruby>は<ruby>民<rt>たみ</rt></ruby>の<ruby>忍<rt>にん</rt></ruby><ruby>耐<rt>たい</rt></ruby>と<ruby>信<rt>しん</rt></ruby><ruby>仰<rt>こう</rt></ruby>を<ruby>試<rt>ため</rt></ruby>される。",
+      "zhs": "然而主认为该惩戒祂的人民了，是的，祂要考验他们的耐心和信心。",
+      "zht": "<span class=\"verse-number\">21ã</span>ç¶èä¸»èªçºè©²æ²æç¥çäººæ°äºï¼æ¯çï¼ç¥è¦èé©ä»åçèå¿åä¿¡å¿ã",
+      "spa": "Con todo, el Señor considera conveniente disciplinar a su pueblo; sí, él prueba su paciencia y su fe.",
+      "por": "<span class=\"verse-number\">21 </span>NÃ£o obstante, o Senhor julga conveniente castigar seu povo; sim, ele prova sua paciÃªncia e sua fÃ©.",
+      "fra": "<span class=\"verse-number\">21Â </span>NÃ©anmoins, le Seigneur juge bon de chÃ¢tier son peupleÂ ; oui, il met Ã  lâÃ©preuve sa patience et sa foi.",
+      "deu": "<span class=\"verse-number\">21Â </span>Dennoch hÃ¤lt es der Herr fÃ¼r richtig, sein Volk zu zÃ¼chtigen; ja, er prÃ¼ft seine Geduld und seinen Glauben.",
+      "kor": "<span class=\"verse-number\">21 </span>ê·¸ë¼ìë ë¶êµ¬íê³  ì£¼ê»ìë ê·¸ì ë°±ì±ì ì§ê³íìê¸°ë¥¼ í©ë¹íê² ë³´ìëë, ì°¸ì¼ë¡ ê·¸ë ê·¸ë¤ì ì¸ë´ì ì ìì ìííìëëë¼.",
+      "ita": "<span class=\"verse-number\">21 </span>Nondimeno il Signore ritiene opportuno castigare il suo popolo; sÃ¬, egli mette alla prova la sua pazienza e la sua fede."
+    },
+    "22": {
+      "eng": "Nevertheless—whosoever putteth his trust in him the same shall be lifted up at the last day. Yea, and thus it was with this people.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙ°ÙÙÙÙÙ ÙÙÙÙÙ ÙÙÙÙ ÙÙØ¶ÙØ¹Ù Ø«ÙÙÙØªÙÙÙ Ø¨ÙÙÙ Ø³ÙÙÙÙÙ ÙÙØ±ÙÙÙØ¹Ù ÙÙ Ø§ÙÙÙÙÙÙÙÙ Ø§ÙÙØ£ÙØ®ÙØ±Ù. Ø£ÙØ¬ÙÙÙØ ÙÙÙÙ°ÙÙØ°Ø§ ÙØ§ÙÙ Ø§ÙÙØ£ÙÙÙØ±Ù ÙÙØ¹Ù ÙÙ°Ø°Ø§ Ø§ÙØ´ÙÙØ¹ÙØ¨Ù.",
+      "jpn": "しかしながら、<ruby>主<rt>しゅ</rt></ruby>に<ruby>頼<rt>たよ</rt></ruby>る<ruby>者<rt>もの</rt></ruby>はだれであろうと、<ruby>終<rt>お</rt></ruby>わりの<ruby>日<rt>ひ</rt></ruby>に<ruby>高<rt>たか</rt></ruby>く<ruby>上<rt>あ</rt></ruby>げられる。そして、この<ruby>民<rt>たみ</rt></ruby>はそのように<ruby>試<rt>ため</rt></ruby>されたのであった。",
+      "zhs": "然而，凡信赖祂的，必在末日被高举。是的，对这人民而言，也是如此。",
+      "zht": "<span class=\"verse-number\">22ã</span>ç¶èï¼å¡ä¿¡è³´ç¥çï¼å¿å¨æ«æ¥è¢«é«èãæ¯çï¼å°éäººæ°èè¨ï¼ä¹æ¯å¦æ­¤ã",
+      "spa": "Sin embargo, quien pone su confianza en él será enaltecido en el postrer día. Sí, y así fue con este pueblo.",
+      "por": "<span class=\"verse-number\">22 </span>Entretanto, quem nele confia serÃ¡ elevado no Ãºltimo dia. E assim foi com este povo.",
+      "fra": "<span class=\"verse-number\">22Â </span>NÃ©anmoins, quiconque place sa confiance en lui sera Ã©levÃ© au dernier jour. Oui, et ainsi en fut-il de ce peuple.",
+      "deu": "<span class=\"verse-number\">22Â </span>DennochÂ â wer auch immer sein Vertrauen in ihn setzt, der wird am letzten Tag emporgehoben werden. Ja, und so war es mit diesem Volk.",
+      "kor": "<span class=\"verse-number\">22 </span>ê·¸ë¼ìë ë¶êµ¬íê³ âëêµ¬ë ì§ ê·¸ë¥¼ ì ë¢°íë ì ê·¸ë ë§ì§ë§ ë ì ë¤ë¦¬ì°ë¦¬ë, ëí ì´ ë°±ì±ì´ ê·¸ì ê°ìëëë¼.",
+      "ita": "<span class=\"verse-number\">22 </span>NondimenoÂ â chiunque ripone la sua fiducia in lui, sarÃ  elevato nellâultimo giorno. SÃ¬, e cosÃ¬ fu per questo popolo."
+    },
+    "23": {
+      "eng": "For behold, I will show unto you that they were brought into bondage, and none could deliver them but the Lord their God, yea, even the God of Abraham and Isaac and of Jacob.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙØ¥ÙÙÙÙ Ø³ÙØ£ÙØ¸ÙÙÙØ±Ù ÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙÙÙ Ø§Ø³ÙØªÙØ¹ÙØ¨ÙØ¯ÙØ§Ø ÙÙÙÙÙÙ ÙÙÙÙØ¯ÙØ±Ù Ø£ÙØ­ÙØ¯Ù Ø£ÙÙÙ ÙÙÙÙØ¬ÙÙÙÙÙÙÙÙ Ø³ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙ°ÙÙÙÙÙÙØ Ø£ÙØ¬ÙÙÙØ Ø¥ÙÙÙ°ÙÙ Ø¥ÙØ¨ÙØ±Ø§ÙÙÙÙ ÙÙØ¥ÙØ³ÙØ­Ø§ÙÙ ÙÙÙÙØ¹ÙÙÙØ¨Ù.",
+      "jpn": "<ruby>見<rt>み</rt></ruby>よ、わたしは、これからあなたがたに、<ruby>彼<rt>かれ</rt></ruby>らが<ruby>奴<rt>ど</rt></ruby><ruby>隷<rt>れい</rt></ruby>の<ruby>状<rt>じょう</rt></ruby><ruby>態<rt>たい</rt></ruby>に<ruby>落<rt>お</rt></ruby>とされたことと、<ruby>主<rt>しゅ</rt></ruby>なる<ruby>彼<rt>かれ</rt></ruby>らの<ruby>神<rt>かみ</rt></ruby>、すなわちアブラハムとイサクとヤコブの<ruby>神<rt>かみ</rt></ruby>のほかに、だれも<ruby>彼<rt>かれ</rt></ruby>らを<ruby>救<rt>すく</rt></ruby>い<ruby>出<rt>だ</rt></ruby>せなかったことを<ruby>示<rt>しめ</rt></ruby>そう。",
+      "zhs": "看啊，我要告诉你们，后来他们受奴役，除了主他们的神，是的，即亚伯拉罕、以撒、雅各的神外，无人能拯救他们。",
+      "zht": "<span class=\"verse-number\">23ã</span>çåï¼æè¦åè¨´ä½ åï¼å¾ä¾ä»ååå¥´å½¹ï¼é¤äºä¸»ä»åçç¥ï¼æ¯çï¼å³<u>äºä¼¯æç½</u>ã<u>ä»¥æ</u>ã<u>éå</u>çç¥å¤ï¼ç¡äººè½æ¯æä»åã",
+      "spa": "Porque he aquí, os mostraré que fueron reducidos a la servidumbre, y nadie podía librarlos sino el Señor su Dios, sí, el Dios de Abraham e Isaac y Jacob.",
+      "por": "<span class=\"verse-number\">23 </span>Pois eis que vos mostrarei que eles foram reduzidos ao cativeiro e ninguÃ©m poderia salvÃ¡-los, exceto o Senhor seu Deus, sim, o Deus de AbraÃ£o e Isaque e de JacÃ³.",
+      "fra": "<span class=\"verse-number\">23Â </span>Car voici, je vais vous montrer quâil fut rÃ©duit en servitude, et que personne ne pouvait le dÃ©livrer, si ce nâest le Seigneur, son Dieu, oui, le Dieu dâAbraham, et dâIsaac, et de Jacob.",
+      "deu": "<span class=\"verse-number\">23Â </span>Denn siehe, ich will euch zeigen, dass es in Knechtschaft gebracht wurde, und niemand konnte es befreien auÃer der Herr, sein Gott, ja, nÃ¤mlich der Gott Abrahams und Isaaks und Jakobs.",
+      "kor": "<span class=\"verse-number\">23 </span>ì´ë ë³´ë¼, ê·¸ë¤ì´ ìë°ëìì¼ë, ì£¼ ê·¸ë¤ì íëë, ê³§ ìë¸ë¼í¨ê³¼ ì´ì­ê³¼ ì¼ê³±ì íëë ì¸ìë ìë¬´ë ê·¸ë¤ì ê±´ì ¸ ë¼ ì ìììì ë´ê° ëí¬ìê² ë³´ì¼ ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">23 </span>PoichÃ© ecco, io vi mostrerÃ² che essi furono ridotti in schiavitÃ¹, e nessuno avrebbe potuto liberarli se non il Signore loro Dio, sÃ¬, ossia il Dio di Abrahamo, di Isacco e di Giacobbe."
+    },
+    "24": {
+      "eng": "And it came to pass that he did deliver them, and he did show forth his mighty power unto them, and great were their rejoicings.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙØ­ÙØ¯ÙØ«Ù Ø£ÙÙÙÙÙÙ ÙÙØ¬ÙØ§ÙÙÙÙ ÙÙØ£ÙØ¸ÙÙÙØ±Ù ÙÙÙÙÙÙ ÙÙÙÙÙØªÙÙÙ Ø§ÙÙØ¹ÙØ¸ÙÙÙØ©ÙØ ÙÙÙØ§ÙÙ ÙÙØ±ÙØ­ÙÙÙÙÙ Ø¹ÙØ¸ÙÙÙØ§.",
+      "jpn": "さて、<ruby>主<rt>しゅ</rt></ruby>が<ruby>彼<rt>かれ</rt></ruby>らを<ruby>救<rt>すく</rt></ruby>い<ruby>出<rt>だ</rt></ruby>し、<ruby>彼<rt>かれ</rt></ruby>らに<ruby>御<rt>ご</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>偉<rt>い</rt></ruby><ruby>大<rt>だい</rt></ruby>な<ruby>力<rt>ちから</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>されたので、<ruby>彼<rt>かれ</rt></ruby>らの<ruby>喜<rt>よろこ</rt></ruby>びは<ruby>大<rt>おお</rt></ruby>きかった。",
+      "zhs": "事情是这样的，祂确实拯救了他们，向他们显露了祂的大能，他们真是快乐极了。",
+      "zht": "<span class=\"verse-number\">24ã</span>äºææ¯éæ¨£çï¼ç¥ç¢ºå¯¦æ¯æäºä»åï¼åä»åé¡¯é²äºç¥çå¤§è½ï¼ä»åçæ¯å¿«æ¨æ¥µäºã",
+      "spa": "Y sucedió que los libró, y les manifestó su gran poder; y grande fue el gozo de ellos.",
+      "por": "<span class=\"verse-number\">24 </span>E aconteceu que ele os libertou e mostrou-lhes o seu grande poder; e grande foi a sua alegria.",
+      "fra": "<span class=\"verse-number\">24Â </span>Et il arriva quâil le dÃ©livra et quâil lui montra son grand pouvoir, et grande fut sa joie.",
+      "deu": "<span class=\"verse-number\">24Â </span>Und es begab sich: Er befreite sein Volk, und er zeigte ihm seine groÃe Macht, und groÃ war seine Freude.",
+      "kor": "<span class=\"verse-number\">24 </span>ë ì´ë ê² ëìëë ê·¸ê° ê·¸ë¤ì ê±´ì§ì¨ê³  ê·¸ê° ë ê·¸ì ë¥í ê¶ë¥ì ë³´ì´ì ì§ë¼, ê·¸ë¤ì ê¸°ì¨ì´ ì°¸ì¼ë¡ ì»¸ëëë¼.",
+      "ita": "<span class=\"verse-number\">24 </span>E avvenne che egli li liberÃ², e mostrÃ² loro il suo grande potere, e grande fu la loro gioia."
+    },
+    "25": {
+      "eng": "For behold, it came to pass that while they were in the land of Helam, yea, in the city of Helam, while tilling the land round about, behold an army of the Lamanites was in the borders of the land.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>ÙÙØ­ÙÙÙÙØ§ ÙØ§ÙÙØ§ ÙÙ Ø£ÙØ±ÙØ¶Ù Ø­ÙÙØ§ÙÙØ Ø£ÙØ¬ÙÙÙØ ÙÙ ÙÙØ¯ÙÙÙØ©Ù Ø­ÙÙØ§ÙÙØ ÙÙØ¨ÙÙÙÙÙÙØ§ ÙØ§ÙÙØ§ ÙÙØ­ÙØ±ÙØ«ÙÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù Ø­ÙÙÙÙÙ Ø§ÙÙÙÙØ¯ÙÙÙØ©ÙØ Ø¥ÙØ°Ø§ Ø¨ÙØ¬ÙÙÙØ´Ù ÙÙÙÙ Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙ ÙÙØ¯ÙØ®ÙÙÙ Ø­ÙØ¯ÙØ¯Ù Ø§ÙÙØ£ÙØ±ÙØ¶Ù.",
+      "jpn": "さて<ruby>見<rt>み</rt></ruby>よ、<ruby>彼<rt>かれ</rt></ruby>らがヘラムの<ruby>地<rt>ち</rt></ruby>、まことに、ヘラムの<ruby>町<rt>まち</rt></ruby>にいて<ruby>周<rt>しゅう</rt></ruby><ruby>辺<rt>へん</rt></ruby>の<ruby>地<rt>ち</rt></ruby>を<ruby>耕<rt>たがや</rt></ruby>していたところ、<ruby>見<rt>み</rt></ruby>よ、レーマン<ruby>人<rt>じん</rt></ruby>の<ruby>軍<rt>ぐん</rt></ruby><ruby>隊<rt>たい</rt></ruby>がその<ruby>地<rt>ち</rt></ruby>の<ruby>境<rt>さかい</rt></ruby>に<ruby>現<rt>あらわ</rt></ruby>れた。",
+      "zhs": "因为看啊，事情是这样的：他们在希兰地，是的，在希兰城时，他们在周围耕地时，看到拉曼军进入那地的边界。",
+      "zht": "<span class=\"verse-number\">25ã</span>å çºçåï¼äºææ¯éæ¨£çï¼ä»åå¨<u>å¸è­</u>å°ï¼æ¯çï¼å¨<u>å¸è­</u>åæï¼ä»åå¨å¨åèå°æï¼çå°<u>ææ¼</u>è»é²å¥é£å°çéçã",
+      "spa": "Porque he aquí, aconteció que mientras se hallaban en la tierra de Helam, sí, en la ciudad de Helam, mientras labraban el terreno circunvecino, he aquí, un ejército lamanita se hallaba en las fronteras de la tierra.",
+      "por": "<span class=\"verse-number\">25 </span>Pois eis que aconteceu que, enquanto estavam na terra de HelÃ£, sim, na cidade de HelÃ£, cultivando a terra dos arredores, eis que um exÃ©rcito dos lamanitas se encontrava nas fronteiras da terra.",
+      "fra": "<span class=\"verse-number\">25Â </span>Car voici, il arriva que tandis quâil Ã©tait au pays dâHÃ©lam, oui, dans la ville dâHÃ©lam, tandis quâil cultivait le pays alentour, voici, une armÃ©e de Lamanites se trouvait dans les rÃ©gions frontiÃ¨res du pays.",
+      "deu": "<span class=\"verse-number\">25Â </span>Denn siehe, es begab sich: WÃ¤hrend es im Land Helam war, ja, in der Stadt Helam, und das Land ringsum bebaute, siehe, da war ein Heer der Lamaniten in den Grenzen des Landes.",
+      "kor": "<span class=\"verse-number\">25 </span>ì´ë ë³´ë¼, ì´ë ê² ëììì´ë ê·¸ë¤ì´ íë¨ ëì, ê³§ íë¨ ì±ì ìë ëì, ì£¼ìì ëì ê°ê³  ìì ë, ë³´ë¼ ë ì´ë§¨ì¸ì í êµ°ëê° ê·¸ ë ê²½ê³ ìì ìëì§ë¼.",
+      "ita": "<span class=\"verse-number\">25 </span>PoichÃ© ecco, avvenne che mentre erano nel paese di Helam, sÃ¬, nella cittÃ  di Helam, mentre coltivavano la terra tuttâattorno, ecco che un esercito di Lamaniti fu ai confini del paese."
+    },
+    "26": {
+      "eng": "Now it came to pass that the brethren of Alma fled from their fields, and gathered themselves together in the city of Helam; and they were much frightened because of the appearance of the Lamanites.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙØ­ÙØ¯ÙØ«Ù Ø£ÙÙÙÙ Ø¥ÙØ®ÙÙÙØ©Ù Ø£ÙÙÙÙØ§ ÙÙØ±ÙØ¨ÙØ§ ÙÙÙÙ Ø­ÙÙÙÙÙÙÙÙÙ ÙÙØªÙØ¬ÙÙÙÙØ¹ÙØ§ ÙÙ ÙÙØ¯ÙÙÙØ©Ù Ø­ÙÙØ§ÙÙØ ÙÙÙØ§ÙÙØ§ Ø®Ø§Ø¦ÙÙÙÙÙ Ø¬ÙØ¯ÙÙØ§ Ø¨ÙØ³ÙØ¨ÙØ¨Ù Ø¸ÙÙÙØ±Ù Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙ.",
+      "jpn": "そこでアルマの<ruby>同胞<rt>はらから</rt></ruby>は、<ruby>畑<rt>はたけ</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げてヘラムの<ruby>町<rt>まち</rt></ruby>に<ruby>集<rt>あつ</rt></ruby>まった。レーマン<ruby>人<rt>じん</rt></ruby>が<ruby>現<rt>あらわ</rt></ruby>れたことで、<ruby>彼<rt>かれ</rt></ruby>らはひどくおびえていた。",
+      "zhs": "事情是这样的，阿尔玛的弟兄从田间逃走，到希兰城集合；拉曼人出现，他们都非常害怕。",
+      "zht": "<span class=\"verse-number\">26ã</span>äºææ¯éæ¨£çï¼<u>é¿ç¾çª</u>çå¼åå¾ç°ééèµ°ï¼å°<u>å¸è­</u>åéåï¼<u>ææ¼</u>äººåºç¾ï¼ä»åé½éå¸¸å®³æã",
+      "spa": "Ocurrió entonces que los hermanos de Alma huyeron de sus campos y se reunieron en la ciudad de Helam; y temieron en gran manera por motivo de la llegada de los lamanitas.",
+      "por": "<span class=\"verse-number\">26 </span>E aconteceu que os irmÃ£os de Alma fugiram de seus campos e reuniram-se na cidade de HelÃ£; e ficaram muito atemorizados com a chegada dos lamanitas.",
+      "fra": "<span class=\"verse-number\">26Â </span>Alors, il arriva que les frÃ¨res dâAlma sâenfuirent de leurs champs, et se rassemblÃ¨rent dans la ville dâHÃ©lamÂ ; et ils Ã©taient trÃ¨s effrayÃ©s Ã  cause de lâapparition des Lamanites.",
+      "deu": "<span class=\"verse-number\">26Â </span>Nun begab es sich: Die BrÃ¼der Almas flohen von ihren Feldern und versammelten sich in der Stadt Helam; und sie fÃ¼rchteten sich sehr wegen des Erscheinens der Lamaniten.",
+      "kor": "<span class=\"verse-number\">26 </span>ì´ì  ì´ë ê² ëìëë ì¨ë§ì íì ë¤ì´ ê·¸ ë°­ìì ëë§íì¬, íë¨ ì± ìì í¨ê» ëª¨ì´ë, ê·¸ë¤ì ë ì´ë§¨ì¸ë¤ì ì¶íì¼ë¡ ë§ë¯¸ìì ë§¤ì° ëëëë¼.",
+      "ita": "<span class=\"verse-number\">26 </span>Ora avvenne che i fratelli di Alma fuggirono dai campi e si radunarono nella cittÃ  di Helam; ed erano molto spaventati a causa del sopraggiungere dei Lamaniti."
+    },
+    "27": {
+      "eng": "But Alma went forth and stood among them, and exhorted them that they should not be frightened, but that they should remember the Lord their God and he would deliver them.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙ°ÙÙÙÙÙ Ø£ÙÙÙÙØ§ Ø®ÙØ±ÙØ¬Ù ÙÙÙÙÙÙÙÙ Ø¨ÙÙÙÙÙÙÙÙÙ ÙÙØ­ÙØ«ÙÙÙÙÙÙ Ø¹ÙÙÙ Ø£ÙÙÙØ§ ÙÙØ®Ø§ÙÙØ§ Ø¨ÙÙÙ Ø£ÙÙÙ ÙÙØªÙØ°ÙÙÙÙØ±ÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¥ÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙØ¬ÙÙÙÙÙÙ.",
+      "jpn": "しかし、アルマは<ruby>出<rt>で</rt></ruby>て<ruby>行<rt>い</rt></ruby>って<ruby>民<rt>たみ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち、<ruby>怖<rt>こわ</rt></ruby>がらないように、また<ruby>主<rt>しゅ</rt></ruby>なる<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>たちの<ruby>神<rt>かみ</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えていれば<ruby>主<rt>しゅ</rt></ruby>は<ruby>助<rt>たす</rt></ruby>けてくださると<ruby>彼<rt>かれ</rt></ruby>らに<ruby>説<rt>と</rt></ruby>いた。",
+      "zhs": "但阿尔玛上前，站在他们当中，劝他们不要害怕，只要记得主他们的神，祂就会拯救他们。",
+      "zht": "<span class=\"verse-number\">27ã</span>ä½<u>é¿ç¾çª</u>ä¸åï¼ç«å¨ä»åç¶ä¸­ï¼å¸ä»åä¸è¦å®³æï¼åªè¦è¨å¾ä¸»ä»åçç¥ï¼ç¥å°±ææ¯æä»åã",
+      "spa": "Pero salió Alma y fue entre ellos, y los exhortó a que no temieran, sino que se acordaran del Señor su Dios, y él los libraría.",
+      "por": "<span class=\"verse-number\">27 </span>Alma, porÃ©m, adiantou-se e pÃ´s-se no meio deles, e exortou-os a nÃ£o temerem, mas a lembrarem-se do Senhor seu Deus, e ele libertÃ¡-los-ia.",
+      "fra": "<span class=\"verse-number\">27Â </span>Mais Alma sâavanÃ§a, et se tint parmi eux, et les exhorta Ã  ne pas Ãªtre effrayÃ©s, mais Ã  se souvenir du Seigneur, leur Dieu, et il les dÃ©livrerait.",
+      "deu": "<span class=\"verse-number\">27Â </span>Aber Alma ging hin und trat unter sie und ermahnte sie, sich nicht zu fÃ¼rchten, sondern sich des Herrn, ihres Gottes, zu erinnern, und er werde sie befreien.",
+      "kor": "<span class=\"verse-number\">27 </span>ê·¸ë¬ë ì¨ë§ê° ëìê° ê·¸ë¤ ê°ì´ë° ìì, ê·¸ë¤ì ê¶ë©´íê¸°ë¥¼ ëí¬ë ëë¼ì§ ë§ê³  ì£¼ ëí¬ì íëëì ê¸°ìµíë¼, ê·¸ë¦¬íë©´ ê·¸ê° ëí¬ë¥¼ ê±´ì§ìë¦¬ë¼ íëë¼.",
+      "ita": "<span class=\"verse-number\">27 </span>Ma Alma si fece avanti e stette in mezzo a loro, e li esortÃ² a non essere spaventati, ma a ricordarsi del Signore loro Dio ed egli li avrebbe liberati."
+    },
+    "28": {
+      "eng": "Therefore they hushed their fears, and began to cry unto the Lord that he would soften the hearts of the Lamanites, that they would spare them, and their wives, and their children.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙØ°Ù°ÙÙÙÙ ÙÙÙÙØ¯Ù ÙÙØ¯ÙØ£ÙØ§ ÙÙÙÙ Ø±ÙÙÙØ¹ÙÙÙÙÙ ÙÙØ¨ÙØ¯ÙØ£ÙØ§ ÙÙØªÙÙÙØ³ÙÙÙÙÙÙ Ø¥ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙØ¨Ù Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙ ÙÙÙÙØ¨ÙÙÙØ§ Ø¹ÙÙÙÙÙÙÙÙÙ ÙÙØ¹ÙÙÙ ÙÙØ³Ø§Ø¦ÙÙÙÙÙ ÙÙØ£ÙÙÙÙØ§Ø¯ÙÙÙÙÙ.",
+      "jpn": "そこで<ruby>彼<rt>かれ</rt></ruby>らは<ruby>恐<rt>おそ</rt></ruby>れを<ruby>静<rt>しず</rt></ruby>め、レーマン<ruby>人<rt>じん</rt></ruby>が<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>たちと<ruby>妻<rt>さい</rt></ruby><ruby>子<rt>し</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けてくれるように、<ruby>彼<rt>かれ</rt></ruby>らの<ruby>心<rt>こころ</rt></ruby>を<ruby>和<rt>やわ</rt></ruby>らげてくださることを<ruby>主<rt>しゅ</rt></ruby>に<ruby>叫<rt>さけ</rt></ruby>び<ruby>求<rt>もと</rt></ruby>めた。",
+      "zhs": "于是，他们将恐惧平息，并开始呼求主，求祂软化拉曼人的心，使他们能饶了他们以及他们的妻子和他们的儿女。",
+      "zht": "<span class=\"verse-number\">28ã</span>æ¼æ¯ï¼ä»åå°ææ¼å¹³æ¯ï¼ä¸¦éå§å¼æ±ä¸»ï¼æ±ç¥è»å<u>ææ¼</u>äººçå¿ï¼ä½¿ä»åè½é¥äºä»åä»¥åä»åçå¦»å­åä»åçåå¥³ã",
+      "spa": "Por tanto, calmaron sus temores y empezaron a implorar al Señor que ablandara el corazón de los lamanitas, a fin de que les perdonaran la vida, y la de sus esposas y de sus hijos.",
+      "por": "<span class=\"verse-number\">28 </span>Portanto, reprimiram os seus temores e comeÃ§aram a clamar ao Senhor para que abrandasse o coraÃ§Ã£o dos lamanitas, a fim de que eles os poupassem, e Ã s suas mulheres, e aos seus filhos.",
+      "fra": "<span class=\"verse-number\">28Â </span>Câest pourquoi, ils firent taire leurs craintes et commencÃ¨rent Ã  crier au Seigneur pour quâil adoucisse le cÅur des Lamanites, afin quâils les Ã©pargnent, eux, et leurs Ã©pouses, et leurs enfants.",
+      "deu": "<span class=\"verse-number\">28Â </span>Darum brachten sie ihre Furcht zum Schweigen und fingen an, zum Herrn zu schreien, er solle den Lamaniten das Herz erweichen, sodass diese sie und ihre Frauen und ihre Kinder verschonen wÃ¼rden.",
+      "kor": "<span class=\"verse-number\">28 </span>ê·¸ë¬ë¯ë¡ ê·¸ë¤ì´ ëë ¤ìì ê°ë¼ìíê³ , ì£¼ê»ì ë ì´ë§¨ì¸ë¤ì ë§ìì ë¶ëë½ê² íì¬, ê·¸ë¤ì´ ê·¸ë¤ê³¼ ê·¸ë¤ì ìë´ë¤ê³¼ ê·¸ë¤ì ìëë¤ì ë©¸íì§ ìê² íì¤ ê²ì ì£¼ê» ë¶ë¥´ì§ê¸° ììíëë¼.",
+      "ita": "<span class=\"verse-number\">28 </span>Essi tacitarono dunque i loro timori, e cominciarono a invocare il Signore affinchÃ© intenerisse il cuore dei Lamaniti, cosicchÃ© risparmiassero loro, le loro mogli e i loro figli."
+    },
+    "29": {
+      "eng": "And it came to pass that the Lord did soften the hearts of the Lamanites. And Alma and his brethren went forth and delivered themselves up into their hands; and the Lamanites took possession of the land of Helam.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙØ­ÙØ¯ÙØ«Ù Ø£ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø£ÙÙØ§ÙÙ ÙÙÙÙØ¨Ù Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙ. ÙÙØ®ÙØ±ÙØ¬Ù Ø£ÙÙÙÙØ§ ÙÙØ¥ÙØ®ÙÙÙØªÙÙÙ ÙÙØ³ÙÙÙÙÙÙØ§ Ø£ÙÙÙÙÙØ³ÙÙÙÙÙ Ø¥ÙÙÙ Ø£ÙÙÙØ¯ÙÙÙÙÙØ ÙÙØ§ÙÙØªÙÙÙÙÙ Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙ Ø£ÙØ±ÙØ¶Ù Ø­ÙÙØ§ÙÙ.",
+      "jpn": "そこで<ruby>主<rt>しゅ</rt></ruby>は、レーマン<ruby>人<rt>じん</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>を<ruby>和<rt>やわ</rt></ruby>らげてくださった。そこで、アルマと<ruby>彼<rt>かれ</rt></ruby>の<ruby>同胞<rt>はらから</rt></ruby>は<ruby>出<rt>で</rt></ruby>て<ruby>行<rt>い</rt></ruby>って、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>たちの<ruby>身<rt>み</rt></ruby>を<ruby>彼<rt>かれ</rt></ruby>らにゆだねた。そしてレーマン<ruby>人<rt>じん</rt></ruby>は、ヘラムの<ruby>地<rt>ち</rt></ruby>を<ruby>占<rt>せん</rt></ruby><ruby>領<rt>りょう</rt></ruby>した。",
+      "zhs": "事情是这样的，主软化了拉曼人的心。阿尔玛和他的弟兄前去，将自己交到他们手中，于是拉曼人占领了希兰地。",
+      "zht": "<span class=\"verse-number\">29ã</span>äºææ¯éæ¨£çï¼ä¸»è»åäº<u>ææ¼</u>äººçå¿ã<u>é¿ç¾çª</u>åä»çå¼ååå»ï¼å°èªå·±äº¤å°ä»åæä¸­ï¼æ¼æ¯<u>ææ¼</u>äººä½é äº<u>å¸è­</u>å°ã",
+      "spa": "Y aconteció que el Señor ablandó el corazón de los lamanitas. Y Alma y sus hermanos avanzaron y se entregaron en manos de ellos; y los lamanitas se posesionaron de la tierra de Helam.",
+      "por": "<span class=\"verse-number\">29 </span>E aconteceu que o Senhor abrandou o coraÃ§Ã£o dos lamanitas. E Alma e seus irmÃ£os foram ao encontro deles e entregaram-se em suas mÃ£os; e os lamanitas tomaram posse da terra de HelÃ£.",
+      "fra": "<span class=\"verse-number\">29Â </span>Et il arriva que le Seigneur adoucit le cÅur des Lamanites. Et Alma et ses frÃ¨res sâavancÃ¨rent et se livrÃ¨rent entre leurs mainsÂ ; et les Lamanites prirent possession du pays dâHÃ©lam.",
+      "deu": "<span class=\"verse-number\">29Â </span>Und es begab sich: Der Herr erweichte den Lamaniten das Herz. Und Alma und seine BrÃ¼der gingen hin und lieferten sich aus, ihnen in die HÃ¤nde; und die Lamaniten nahmen das Land Helam in Besitz.",
+      "kor": "<span class=\"verse-number\">29 </span>ì´ì ì´ë ê² ëìëë ì£¼ê»ì ë ì´ë§¨ì¸ë¤ì ë§ìì ë¶ëë½ê² íìë§¤, ì¨ë§ì ê·¸ì íì ë¤ì´ ëìê° ì¤ì¤ë¡ë¥¼ ê·¸ë¤ì ìì ëê¸°ë ì´ì ë ì´ë§¨ì¸ë¤ì´ íë¨ ëì ì°¨ì§íëë¼.",
+      "ita": "<span class=\"verse-number\">29 </span>E avvenne che il Signore intenerÃ¬ il cuore dei Lamaniti. E Alma e i suoi fratelli si fecero avanti e si consegnarono nelle loro mani; e i Lamaniti presero possesso del paese di Helam."
+    },
+    "30": {
+      "eng": "Now the armies of the Lamanites, which had followed after the people of king Limhi, had been lost in the wilderness for many days.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>Ø£ÙÙÙØ§ Ø¬ÙÙÙØ´Ù Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙ Ø§ÙÙÙØªÙ ØªÙØ¨ÙØ¹ÙØªÙ ÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙÙÙÙØ­ÙØ ÙÙÙØ§ÙÙØªÙ ÙÙØ¯Ù Ø¶ÙÙÙÙØªÙ ÙÙ Ø§ÙÙØ¨ÙØ±ÙÙÙÙÙØ©Ù Ø£ÙÙÙØ§ÙÙØ§ ÙÙØ«ÙØ±ÙØ©Ù.",
+      "jpn": "ところで、リムハイ<ruby>王<rt>おう</rt></ruby>の<ruby>民<rt>たみ</rt></ruby>を<ruby>追<rt>お</rt></ruby>っていたレーマン<ruby>人<rt>じん</rt></ruby>の<ruby>軍<rt>ぐん</rt></ruby><ruby>隊<rt>たい</rt></ruby>は、<ruby>幾<rt>いく</rt></ruby><ruby>日<rt>にち</rt></ruby>もの<ruby>間<rt>あいだ</rt></ruby><ruby>荒<rt>あ</rt></ruby>れ<ruby>野<rt>の</rt></ruby>をさまよっていた。",
+      "zhs": "这支拉曼军就是那跟在林海王人民后面的军队，他们已在旷野中迷路多日。",
+      "zht": "<span class=\"verse-number\">30ã</span>éæ¯<u>ææ¼</u>è»å°±æ¯é£è·å¨<u>ææµ·</u>çäººæ°å¾é¢çè»éï¼ä»åå·²å¨æ éä¸­è¿·è·¯å¤æ¥ã",
+      "spa": "Ahora bien, los ejércitos lamanitas que habían seguido al pueblo del rey Limhi habían estado perdidos en el desierto por muchos días.",
+      "por": "<span class=\"verse-number\">30 </span>Ora, os exÃ©rcitos dos lamanitas, que haviam perseguido o povo do rei LÃ­mi, haviam ficado perdidos no deserto durante muitos dias.",
+      "fra": "<span class=\"verse-number\">30Â </span>Or, les armÃ©es des Lamanites, qui avaient poursuivi le peuple du roi Limhi, sâÃ©taient perdues de nombreux jours dans le dÃ©sert.",
+      "deu": "<span class=\"verse-number\">30Â </span>Nun waren die Heere der Lamaniten, die das Volk KÃ¶nig Limhis verfolgt hatten, viele Tage lang in der Wildnis verirrt gewesen.",
+      "kor": "<span class=\"verse-number\">30 </span>ì´ì  ë¦¼íì´ ìê³¼ ê·¸ì ë°±ì±ì ë¤ë¥¼ ì«ìë ë ì´ë§¨ì¸ì êµ°ëê° ì¬ë¬ ë  ëì ê´ì¼ìì ê¸¸ì ìììëë¼.",
+      "ita": "<span class=\"verse-number\">30 </span>Ora gli eserciti dei Lamaniti, che avevano inseguito il popolo di re Limhi, erano da molti giorni smarriti nel deserto."
+    },
+    "31": {
+      "eng": "And behold, they had found those priests of king Noah, in a place which they called Amulon; and they had begun to possess the land of Amulon and had begun to till the ground.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙÙÙØ¬ÙØ¯ÙØ§ ÙÙÙÙÙÙØ©Ù Ø§ÙÙÙÙÙÙÙÙ ÙÙØ­Ù ÙÙ ÙÙÙØ§ÙÙ ÙÙØ³ÙÙÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙÙØ ÙÙÙØ§ÙÙØ§ ÙÙØ¯Ù Ø¨ÙØ¯ÙØ£ÙØ§ ÙÙ Ø§ÙÙØªÙÙØ§ÙÙ Ø£ÙØ±ÙØ¶Ù Ø£ÙÙÙÙÙÙÙ ÙÙØ¨ÙØ¯ÙØ£ÙØ§ ÙÙØ­ÙØ±ÙØ«ÙÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù.",
+      "jpn": "そして<ruby>見<rt>み</rt></ruby>よ、<ruby>彼<rt>かれ</rt></ruby>らは、ノア<ruby>王<rt>おう</rt></ruby>の<ruby>祭<rt>さい</rt></ruby><ruby>司<rt>し</rt></ruby>たちがアミュロンと<ruby>名<rt>な</rt></ruby><ruby>付<rt>づ</rt></ruby>けた<ruby>地<rt>ち</rt></ruby>で、その<ruby>祭<rt>さい</rt></ruby><ruby>司<rt>し</rt></ruby>たちを<ruby>見<rt>み</rt></ruby>つけた。<ruby>祭<rt>さい</rt></ruby><ruby>司<rt>し</rt></ruby>たちはアミュロンの<ruby>地<rt>ち</rt></ruby>を<ruby>所<rt>しょ</rt></ruby><ruby>有<rt>ゆう</rt></ruby>し、<ruby>土<rt>と</rt></ruby><ruby>地<rt>ち</rt></ruby>を<ruby>耕<rt>たがや</rt></ruby>し<ruby>始<rt>はじ</rt></ruby>めていた。",
+      "zhs": "看啊，他们在一个叫作艾缪伦的地方发现挪亚王的祭司；他们已占有艾缪伦地，且已开始耕地。",
+      "zht": "<span class=\"verse-number\">31ã</span>çåï¼ä»åå¨ä¸åå«ä½<u>è¾ç¹å«</u>çå°æ¹ç¼ç¾<u>æªäº</u>ççç¥­å¸ï¼ä»åå·²ä½æ<u>è¾ç¹å«</u>å°ï¼ä¸å·²éå§èå°ã",
+      "spa": "Y he aquí, habían encontrado a aquellos sacerdotes del rey Noé en un paraje que llamaron Amulón; y estos habían empezado a poseer el país de Amulón y a labrar la tierra.",
+      "por": "<span class=\"verse-number\">31 </span>E eis que haviam encontrado aqueles sacerdotes do rei NoÃ©, num lugar a que deram o nome de Amulon; e eles haviam comeÃ§ado a ocupar a terra de Amulon e a cultivar o solo.",
+      "fra": "<span class=\"verse-number\">31Â </span>Et voici, elles avaient trouvÃ© ces prÃªtres du roi NoÃ©, en un lieu quâils appelaient AmulonÂ ; et ils avaient commencÃ© Ã  possÃ©der le pays dâAmulon et avaient commencÃ© Ã  cultiver le sol.",
+      "deu": "<span class=\"verse-number\">31Â </span>Und siehe, sie hatten jene Priester KÃ¶nig Noas an einem Ort gefunden, den sie Amulon nannten; und sie hatten angefangen, das Land Amulon zu besitzen, und hatten angefangen, den Boden zu bebauen.",
+      "kor": "<span class=\"verse-number\">31 </span>ê·¸ë¦¬ê³  ë³´ë¼, ì í¬ê° ë¸ì ìì ê·¸ ì ì¬ë¤ì ê·¸ë¤ì´ ì°ì¨ë¡ ì´ë¼ ì¹­íë ê³³ìì ë°ê²¬íë§¤, ê·¸ë¤ì ì°ì¨ë¡  ëì ìì íê¸° ììíìê³  ëì ê°ê¸° ììíìëë¼.",
+      "ita": "<span class=\"verse-number\">31 </span>Ed ecco, avevano trovato quei sacerdoti di re NoÃ¨ in un luogo che essi chiamavano Amulon; e avevano cominciato a prendere possesso del paese di Amulon e avevano cominciato a coltivare la terra."
+    },
+    "32": {
+      "eng": "Now the name of the leader of those priests was Amulon.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙÙØ§ÙÙ Ø£ÙÙÙÙÙÙÙ ÙÙÙÙ Ø§Ø³ÙÙÙ ÙØ§Ø¦ÙØ¯Ù ÙÙ°Ø¤ÙÙØ§Ø¡Ù Ø§ÙÙÙÙÙÙÙÙØ©Ù.",
+      "jpn": "そして、<ruby>祭<rt>さい</rt></ruby><ruby>司<rt>し</rt></ruby>たちの<ruby>統<rt>とう</rt></ruby><ruby>率<rt>そつ</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>名<rt>な</rt></ruby>はアミュロンといった。",
+      "zhs": "那些祭司的首领名叫艾缪伦。",
+      "zht": "<span class=\"verse-number\">32ã</span>é£äºç¥­å¸çé¦é åå«<u>è¾ç¹å«</u>ã",
+      "spa": "Y el nombre del jefe de esos sacerdotes era Amulón.",
+      "por": "<span class=\"verse-number\">32 </span>Ora, o nome do chefe desses sacerdotes era Amulon.",
+      "fra": "<span class=\"verse-number\">32Â </span>Or, le nom du chef de ces prÃªtres Ã©tait Amulon.",
+      "deu": "<span class=\"verse-number\">32Â </span>Nun war der Name des FÃ¼hrers jener Priester Amulon.",
+      "kor": "<span class=\"verse-number\">32 </span>ì´ì  ê·¸ ì ì¬ë¤ì ì´ëë ìì ì´ë¦ì ì°ì¨ë¡ ì´ìëë¼.",
+      "ita": "<span class=\"verse-number\">32 </span>Ora il nome del capo di quei sacerdoti era Amulon."
+    },
+    "33": {
+      "eng": "And it came to pass that Amulon did plead with the Lamanites; and he also sent forth their wives, who were the daughters of the Lamanites, to plead with their brethren, that they should not destroy their husbands.",
+      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>ÙÙØ­ÙØ¯ÙØ«Ù Ø£ÙÙÙÙ Ø£ÙÙÙÙÙÙÙ ØªÙÙÙØ³ÙÙÙÙ Ø¥ÙÙÙ Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙØ ÙÙÙØ§ Ø£ÙØ±ÙØ³ÙÙÙ ÙÙØ³Ø§Ø¡ÙÙÙÙÙØ ÙÙÙÙ Ø¨ÙÙØ§ØªÙ Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙØ ÙÙÙÙØªÙÙÙØ³ÙÙÙÙÙÙ Ø¥ÙÙÙ Ø¥ÙØ®ÙÙÙØªÙÙÙÙÙÙ Ø­ÙØªÙÙ ÙØ§ ÙÙÙÙØªÙÙÙØ§ Ø£ÙØ²ÙÙØ§Ø¬ÙÙÙÙÙÙ.",
+      "jpn": "さて、アミュロンはレーマン<ruby>人<rt>じん</rt></ruby>に<ruby>懇<rt>こん</rt></ruby><ruby>願<rt>がん</rt></ruby>し、さらにレーマン<ruby>人<rt>じん</rt></ruby>の<ruby>娘<rt>むすめ</rt></ruby>である<ruby>妻<rt>つま</rt></ruby>たちを<ruby>遣<rt>つか</rt></ruby>わして、<ruby>夫<rt>おっと</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>すことのないように<ruby>同胞<rt>はらから</rt></ruby>に<ruby>懇<rt>こん</rt></ruby><ruby>願<rt>がん</rt></ruby>させた。",
+      "zhs": "事情是这样的，艾缪伦向拉曼人求情；他差他们的妻子，也就是拉曼人的女儿，向她们的弟兄求情，请他们不要杀她们的丈夫。",
+      "zht": "<span class=\"verse-number\">33ã</span>äºææ¯éæ¨£çï¼<u>è¾ç¹å«</u>å<u>ææ¼</u>äººæ±æï¼ä»å·®ä»åçå¦»å­ï¼ä¹å°±æ¯<u>ææ¼</u>äººçå¥³åï¼åå¥¹åçå¼åæ±æï¼è«ä»åä¸è¦æ®ºå¥¹åçä¸å¤«ã",
+      "spa": "Y aconteció que Amulón suplicó a los lamanitas; y envió también a las mujeres de estos sacerdotes, que eran las hijas de los lamanitas, para que abogaran con sus hermanos por que no destruyesen a sus maridos.",
+      "por": "<span class=\"verse-number\">33 </span>E aconteceu que Amulon fez um apelo aos lamanitas; e enviou tambÃ©m suas mulheres, que eram filhas dos lamanitas, para implorarem a seus irmÃ£os que nÃ£o matassem seus maridos.",
+      "fra": "<span class=\"verse-number\">33Â </span>Et il arriva quâAmulon supplia les LamanitesÂ ; et il fit aussi avancer leurs Ã©pouses, qui Ã©taient les filles des Lamanites, pour quâelles supplient leurs frÃ¨res, pour quâils ne fassent pas pÃ©rir leurs maris.",
+      "deu": "<span class=\"verse-number\">33Â </span>Und es begab sich: Amulon setzte sich bei den Lamaniten dafÃ¼r ein, und er sandte auch ihre Frauen, die die TÃ¶chter der Lamaniten waren, zu ihnen hin, dass sie sich bei ihren BrÃ¼dern dafÃ¼r einsetzten, ihnen nicht die EhemÃ¤nner zu vernichten.",
+      "kor": "<span class=\"verse-number\">33 </span>ì´ì ì´ë ê² ëìëë ì°ì¨ë¡ ì´ ë ì´ë§¨ì¸ë¤ìê² ê°ì²­íìê³ , ê·¸ê° ëí ë ì´ë§¨ì¸ì ë¸ë¤ì¸ ê·¸ë¤ì ìë´ë¤ì ë´ë³´ë´ì´, ê·¸ íì ë¤ìê² ê·¸ë¤ì ë¨í¸ë¤ì ë©¸íì§ ìëë¡ ê°ì²­íê² íìëë¼.",
+      "ita": "<span class=\"verse-number\">33 </span>E avvenne che Amulon implorÃ² i Lamaniti; e mandÃ² pure avanti le loro mogli, che erano le figlie dei Lamaniti, a implorare i loro fratelli, affinchÃ© non annientassero i loro mariti."
+    },
+    "34": {
+      "eng": "And the Lamanites had compassion on Amulon and his brethren, and did not destroy them, because of their wives.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>ÙÙØ£ÙØ´ÙÙÙÙÙ Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙ Ø¹ÙÙÙ Ø£ÙÙÙÙÙÙÙ ÙÙØ¥ÙØ®ÙÙÙØªÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙØªÙÙÙÙÙÙÙ Ø±ÙØ£ÙÙÙØ©Ù Ø¨ÙÙÙØ³Ø§Ø¦ÙÙÙÙÙ.",
+      "jpn": "そこでレーマン<ruby>人<rt>じん</rt></ruby>は、アミュロンと<ruby>彼<rt>かれ</rt></ruby>の<ruby>仲<rt>なか</rt></ruby><ruby>間<rt>ま</rt></ruby>を<ruby>哀<rt>あわ</rt></ruby>れみ、その<ruby>妻<rt>つま</rt></ruby>たちに<ruby>免<rt>めん</rt></ruby>じて<ruby>彼<rt>かれ</rt></ruby>らを<ruby>殺<rt>ころ</rt></ruby>さなかった。",
+      "zhs": "拉曼人因为他们的妻子，怜悯了艾缪伦和他的弟兄，没有杀他们。",
+      "zht": "<span class=\"verse-number\">34ã</span><u>ææ¼</u>äººå çºä»åçå¦»å­ï¼ææ«äº<u>è¾ç¹å«</u>åä»çå¼åï¼æ²ææ®ºä»åã",
+      "spa": "Y los lamanitas tuvieron compasión de Amulón y sus hermanos, y no los destruyeron a causa de sus esposas.",
+      "por": "<span class=\"verse-number\">34 </span>E os lamanitas tiveram compaixÃ£o de Amulon e de seus irmÃ£os e nÃ£o os mataram, por causa de suas mulheres.",
+      "fra": "<span class=\"verse-number\">34Â </span>Et les Lamanites eurent compassion dâAmulon et de ses frÃ¨res, et ne les firent pas pÃ©rir, Ã  cause de leurs Ã©pouses.",
+      "deu": "<span class=\"verse-number\">34Â </span>Und die Lamaniten hatten Mitleid mit Amulon und seinen BrÃ¼dern und vernichteten sie um ihrer Frauen willen nicht.",
+      "kor": "<span class=\"verse-number\">34 </span>ì´ì ë ì´ë§¨ì¸ë¤ì´ ì°ì¨ë¡ ê³¼ ê·¸ì íì ë¤ì ê·¸ë¤ì ìë´ë¤ë¡ ì¸íì¬, ë¶ìí ì¬ê¸°ê³  ê·¸ë¤ì ë©¸íì§ ìëíìëë¼.",
+      "ita": "<span class=\"verse-number\">34 </span>E i Lamaniti ebbero compassione di Amulon e dei suoi fratelli, e non li annientarono, a motivo delle loro mogli."
+    },
+    "35": {
+      "eng": "And Amulon and his brethren did join the Lamanites, and they were traveling in the wilderness in search of the land of Nephi when they discovered the land of Helam, which was possessed by Alma and his brethren.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¥ </span>ÙÙØ§ÙÙØ¶ÙÙÙÙ Ø£ÙÙÙÙÙÙÙ ÙÙØ¥ÙØ®ÙÙÙØªÙÙÙ Ø¥ÙÙÙ Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙØ ÙÙÙØ§ÙÙØ§ ÙÙØ³Ø§ÙÙØ±ÙÙÙ ÙÙ Ø§ÙÙØ¨ÙØ±ÙÙÙÙÙØ©Ù Ø¨ÙØ­ÙØ«ÙØ§ Ø¹ÙÙÙ Ø£ÙØ±ÙØ¶Ù ÙØ§ÙÙ Ø¹ÙÙÙØ¯ÙÙØ§ Ø§ÙÙØªÙØ´ÙÙÙØ§ Ø£ÙØ±ÙØ¶Ù Ø­ÙÙØ§ÙÙ Ø§ÙÙÙØªÙ ÙØ§ÙÙ Ø£ÙÙÙÙØ§ ÙÙØ¥ÙØ®ÙÙÙØªÙÙÙ ÙÙØ¯Ù ØªÙÙÙÙÙÙÙÙÙØ§.",
+      "jpn": "このようにして、アミュロンと<ruby>彼<rt>かれ</rt></ruby>の<ruby>仲<rt>なか</rt></ruby><ruby>間<rt>ま</rt></ruby>はレーマン<ruby>人<rt>じん</rt></ruby>に<ruby>加<rt>くわ</rt></ruby>わった。そして<ruby>彼<rt>かれ</rt></ruby>らは、ニーファイの<ruby>地<rt>ち</rt></ruby>を<ruby>探<rt>さが</rt></ruby>して<ruby>荒<rt>あ</rt></ruby>れ<ruby>野<rt>の</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>旅<rt>たび</rt></ruby>していたときに、アルマと<ruby>彼<rt>かれ</rt></ruby>の<ruby>同胞<rt>はらから</rt></ruby>が<ruby>所<rt>しょ</rt></ruby><ruby>有<rt>ゆう</rt></ruby>していたヘラムの<ruby>地<rt>ち</rt></ruby>を<ruby>発<rt>はっ</rt></ruby><ruby>見<rt>けん</rt></ruby>したのである。",
+      "zhs": "艾缪伦和他的弟兄加入拉曼人；他们在旷野中行进想找寻尼腓地时，发现阿尔玛和他的弟兄占有的希兰地。",
+      "zht": "<span class=\"verse-number\">35ã</span><u>è¾ç¹å«</u>åä»çå¼åå å¥<u>ææ¼</u>äººï¼ä»åå¨æ éä¸­è¡é²æ³æ¾å°<u>å°¼è</u>å°æï¼ç¼ç¾<u>é¿ç¾çª</u>åä»çå¼åä½æç<u>å¸è­</u>å°ã",
+      "spa": "Y Amulón y sus hermanos se unieron a los lamanitas, y andaban por el desierto buscando la tierra de Nefi cuando descubrieron la tierra de Helam, que poseían Alma y sus hermanos.",
+      "por": "<span class=\"verse-number\">35 </span>E Amulon e seus irmÃ£os uniram-se aos lamanitas e estavam viajando pelo deserto, Ã  procura da terra de NÃ©fi, quando descobriram a terra de HelÃ£, ocupada por Alma e seus irmÃ£os.",
+      "fra": "<span class=\"verse-number\">35Â </span>Et Amulon et ses frÃ¨res sâunirent aux Lamanites, et ils voyageaient dans le dÃ©sert Ã  la recherche du pays de NÃ©phi, lorsquâils dÃ©couvrirent le pays dâHÃ©lam, qui Ã©tait possÃ©dÃ© par Alma et ses frÃ¨res.",
+      "deu": "<span class=\"verse-number\">35Â </span>Und Amulon und seine BrÃ¼der schlossen sich den Lamaniten an, und sie zogen auf der Suche nach dem Land Nephi durch die Wildnis, als sie das Land Helam entdeckten, das Alma und seine BrÃ¼der in Besitz hatten.",
+      "kor": "<span class=\"verse-number\">35 </span>ì´ì ì°ì¨ë¡ ê³¼ ê·¸ì íì ë¤ì´ ë ì´ë§¨ì¸ë¤ìê² í©ë¥íìê³ , ê·¸ë¤ì´ ëíì´ ëì ì°¾ì ê´ì¼ë¥¼ ì¬ííë¤ê°, ì¨ë§ì ê·¸ì íì ë¤ì´ ìì íê³  ìë íë¨ ëì ë°ê²¬íìëë¼.",
+      "ita": "<span class=\"verse-number\">35 </span>E Amulon e i suoi fratelli si unirono ai Lamaniti, e stavano viaggiando nel deserto alla ricerca della terra di Nefi quando scoprirono la terra di Helam, che era in possesso di Alma e dei suoi fratelli."
+    },
+    "36": {
+      "eng": "And it came to pass that the Lamanites promised unto Alma and his brethren, that if they would show them the way which led to the land of Nephi that they would grant unto them their lives and their liberty.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¦ </span>ÙÙØ­ÙØ¯ÙØ«Ù Ø£ÙÙÙÙ Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙ ÙÙØ¹ÙØ¯ÙØ§ Ø£ÙÙÙÙØ§ ÙÙØ¥ÙØ®ÙÙÙØªÙÙÙ Ø¨ÙØ£ÙÙÙÙÙÙÙÙ Ø¥ÙØ°Ø§ Ø¨ÙÙÙÙÙÙØ§ ÙÙÙÙÙÙ Ø§ÙØ·ÙÙØ±ÙÙÙ Ø§ÙÙÙØ°Ù ÙÙÙÙØ¯Ù Ø¥ÙÙÙ Ø£ÙØ±ÙØ¶Ù ÙØ§ÙÙ ÙÙØ³ÙÙÙÙÙ ÙÙÙÙÙÙØ­ÙÙÙÙÙ Ø­ÙÙØ§ØªÙÙÙÙÙ ÙÙØ­ÙØ±ÙÙÙÙÙØªÙÙÙÙÙ.",
+      "jpn": "さて、レーマン<ruby>人<rt>じん</rt></ruby>はアルマと<ruby>彼<rt>かれ</rt></ruby>の<ruby>同胞<rt>はらから</rt></ruby>に、ニーファイの<ruby>地<rt>ち</rt></ruby>へ<ruby>通<rt>つう</rt></ruby>じている<ruby>道<rt>みち</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えるならば<ruby>命<rt>いのち</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けて、<ruby>自<rt>じ</rt></ruby><ruby>由<rt>ゆう</rt></ruby>を<ruby>認<rt>みと</rt></ruby>めると<ruby>約<rt>やく</rt></ruby><ruby>束<rt>そく</rt></ruby>した。",
+      "zhs": "事情是这样的，拉曼人向阿尔玛和他的弟兄承诺，只要他们指出通往尼腓地的路，就饶他们的命，并给他们自由。",
+      "zht": "<span class=\"verse-number\">36ã</span>äºææ¯éæ¨£çï¼<u>ææ¼</u>äººå<u>é¿ç¾çª</u>åä»çå¼åæ¿è«¾ï¼åªè¦ä»åæåºéå¾<u>å°¼è</u>å°çè·¯ï¼å°±é¥ä»åçå½ï¼ä¸¦çµ¦ä»åèªç±ã",
+      "spa": "Y aconteció que los lamanitas prometieron a Alma y a sus hermanos que si les indicaban el camino que conducía a la tierra de Nefi, les concederían su vida y su libertad.",
+      "por": "<span class=\"verse-number\">36 </span>E aconteceu que os lamanitas prometeram a Alma e seus irmÃ£os que, se lhes indicassem o caminho para a terra de NÃ©fi, conceder-lhes-iam a vida e a liberdade.",
+      "fra": "<span class=\"verse-number\">36Â </span>Et il arriva que les Lamanites promirent Ã  Alma et Ã  ses frÃ¨res que sâils leur montraient le chemin qui conduisait au pays de NÃ©phi, ils leur accorderaient la vie et la libertÃ©.",
+      "deu": "<span class=\"verse-number\">36Â </span>Und es begab sich: Die Lamaniten versprachen Alma und seinen BrÃ¼dern, wenn sie ihnen den Weg zeigten, der in das Land Nephi fÃ¼hrte, so wÃ¼rden sie ihnen ihr Leben und ihre Freiheit gewÃ¤hren.",
+      "kor": "<span class=\"verse-number\">36 </span>ì´ì ì´ë ê² ëìëë ë ì´ë§¨ì¸ë¤ì´ ì¨ë§ì ê·¸ì íì ë¤ìê² ë§ì¼ ê·¸ë¤ì´ ëíì´ ëì ì´ë¥´ë ê¸¸ì ê·¸ë¤ìê² ë³´ì¬ ì¤ë¤ë©´, ê·¸ë¤ì ìëªê³¼ ê·¸ë¤ì ìì ë¥¼ ê·¸ë¤ìê² íë½í´ ì£¼ë¦¬ë¼ê³  ì½ìíìëë¼.",
+      "ita": "<span class=\"verse-number\">36 </span>E avvenne che i Lamaniti promisero ad Alma e ai suoi fratelli che, se avessero mostrato loro la via che conduceva alla terra di Nefi, avrebbero accordato loro la vita e la libertÃ ."
+    },
+    "37": {
+      "eng": "But after Alma had shown them the way that led to the land of Nephi the Lamanites would not keep their promise; but they set guards round about the land of Helam, over Alma and his brethren.",
+      "ara": "<span class=\"verse-number\">Ù£Ù§ </span>ÙÙÙÙ°ÙÙÙÙ Ø¨ÙØ¹ÙØ¯Ù Ø£ÙÙÙ Ø¨ÙÙÙÙÙÙ Ø£ÙÙÙÙØ§ ÙÙÙÙÙÙ Ø§ÙØ·ÙÙØ±ÙÙÙ Ø§ÙÙÙØ°Ù ÙÙÙÙØ¯Ù Ø¥ÙÙÙ Ø£ÙØ±ÙØ¶Ù ÙØ§ÙÙØ ÙÙÙÙ ÙÙÙÙ Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙ Ø¨ÙÙÙØ¹ÙØ¯ÙÙÙÙÙØ Ø¨ÙÙÙ ÙÙØ¶ÙØ¹ÙØ§ Ø­ÙØ±ÙØ§Ø³ÙØ§ Ø­ÙÙÙÙÙ Ø£ÙØ±ÙØ¶Ù Ø­ÙÙØ§ÙÙ ÙÙØ­ÙØ±Ø§Ø³ÙØ©Ù Ø£ÙÙÙÙØ§ ÙÙØ¥ÙØ®ÙÙÙØªÙÙÙ.",
+      "jpn": "ところが、アルマがニーファイの<ruby>地<rt>ち</rt></ruby>へ<ruby>通<rt>つう</rt></ruby>じる<ruby>道<rt>みち</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えたところ、レーマン<ruby>人<rt>じん</rt></ruby>はその<ruby>約<rt>やく</rt></ruby><ruby>束<rt>そく</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ろうとせず、<ruby>彼<rt>かれ</rt></ruby>らはアルマと<ruby>彼<rt>かれ</rt></ruby>の<ruby>同胞<rt>はらから</rt></ruby>を<ruby>見<rt>み</rt></ruby><ruby>張<rt>は</rt></ruby>る<ruby>兵<rt>へい</rt></ruby>をヘラムの<ruby>地<rt>ち</rt></ruby>の<ruby>周<rt>しゅう</rt></ruby><ruby>辺<rt>へん</rt></ruby>に<ruby>置<rt>お</rt></ruby>いた。",
+      "zhs": "但是，阿尔玛指出通往尼腓地的路之后，拉曼人却不信守诺言，反而在希兰地四周布哨，监视阿尔玛和他的弟兄。",
+      "zht": "<span class=\"verse-number\">37ã</span>ä½æ¯ï¼<u>é¿ç¾çª</u>æåºéå¾<u>å°¼è</u>å°çè·¯ä¹å¾ï¼<u>ææ¼</u>äººå»ä¸ä¿¡å®è«¾è¨ï¼åèå¨<u>å¸è­</u>å°åå¨ä½å¨ï¼ç£è¦<u>é¿ç¾çª</u>åä»çå¼åã",
+      "spa": "Pero después que Alma les hubo enseñado el camino que conducía a la tierra de Nefi, los lamanitas no quisieron cumplir su promesa, sino que pusieron guardias alrededor de la tierra de Helam, sobre Alma y sus hermanos.",
+      "por": "<span class=\"verse-number\">37 </span>Depois que Alma lhes mostrou o caminho para a terra de NÃ©fi, entretanto, os lamanitas nÃ£o cumpriram a promessa, mas espalharam guardas pela terra de HelÃ£, com autoridade sobre Alma e seus irmÃ£os.",
+      "fra": "<span class=\"verse-number\">37Â </span>Mais lorsquâAlma leur eut montrÃ© le chemin qui conduisait au pays de NÃ©phi, les Lamanites ne voulurent pas tenir leur promesseÂ ; mais ils mirent des gardes tout autour du pays dâHÃ©lam, sur Alma et ses frÃ¨res.",
+      "deu": "<span class=\"verse-number\">37Â </span>Aber nachdem Alma ihnen den Weg gezeigt hatte, der in das Land Nephi fÃ¼hrte, wollten die Lamaniten ihr Versprechen nicht einhalten, sondern sie stellten rings um das Land Helam Wachen auf Ã¼ber Alma und seine BrÃ¼der.",
+      "kor": "<span class=\"verse-number\">37 </span>ê·¸ë¬ë ì¨ë§ê° ê·¸ë¤ìê² ëíì´ ëì ì´ë¥´ë ê¸¸ì ë³´ì¬ ì¤ í ë ì´ë§¨ì¸ë¤ì´ ê·¸ë¤ì ì½ìì ì§í¤ë ¤ ìëíê³ , íë¨ ë ì£¼ìì íìê¾¼ì ì¸ì ì¨ë§ì ê·¸ì íì ë¤ì ì§í¤ê² íìëë¼.",
+      "ita": "<span class=\"verse-number\">37 </span>Ma dopo che Alma ebbe mostrato loro la via che conduceva alla terra di Nefi i Lamaniti non vollero mantenere la loro promessa; ma posero delle guardie tuttâattorno al paese di Helam, su Alma e i suoi fratelli."
+    },
+    "38": {
+      "eng": "And the remainder of them went to the land of Nephi; and a part of them returned to the land of Helam, and also brought with them the wives and the children of the guards who had been left in the land.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¨ </span>Ø£ÙÙÙØ§ Ø¨ÙÙÙÙÙÙØªÙÙÙÙÙ ÙÙÙÙØ¯Ù Ø°ÙÙÙØ¨ÙØ§ Ø¥ÙÙÙ Ø£ÙØ±ÙØ¶Ù ÙØ§ÙÙØ ÙÙØ±ÙØ¬ÙØ¹Ù ÙÙØ³ÙÙÙ ÙÙÙÙÙÙÙÙ Ø¥ÙÙÙ Ø£ÙØ±ÙØ¶Ù Ø­ÙÙÙØ§ÙÙ ÙÙØ£ÙØ­ÙØ¶ÙØ±ÙØ§ ÙÙÙÙØ­ÙØ±ÙØ§Ø³Ù Ø§ÙÙØ¨Ø§ÙÙÙÙ ÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù ÙÙØ³Ø§Ø¡ÙÙÙÙÙ ÙÙØ£ÙÙÙÙØ§Ø¯ÙÙÙÙÙ.",
+      "jpn": "そして、<ruby>残<rt>のこ</rt></ruby>りの<ruby>者<rt>もの</rt></ruby>たちはニーファイの<ruby>地<rt>ち</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かった。それから<ruby>一<rt>いち</rt></ruby><ruby>部<rt>ぶ</rt></ruby>の<ruby>者<rt>もの</rt></ruby>は、ヘラムの<ruby>地<rt>ち</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>された<ruby>見<rt>み</rt></ruby><ruby>張<rt>は</rt></ruby>りの<ruby>兵<rt>へい</rt></ruby>の<ruby>妻<rt>さい</rt></ruby><ruby>子<rt>し</rt></ruby>を<ruby>連<rt>つ</rt></ruby>れて、またこの<ruby>地<rt>ち</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>って<ruby>来<rt>き</rt></ruby>た。",
+      "zhs": "其余的人则到尼腓地去；他们有一部分回到希兰地，并把留在那地担任哨兵之人的妻子儿女一起带来。",
+      "zht": "<span class=\"verse-number\">38ã</span>å¶é¤çäººåå°<u>å°¼è</u>å°å»ï¼ä»åæä¸é¨ååå°<u>å¸è­</u>å°ï¼ä¸¦æçå¨é£å°æä»»å¨åµä¹äººçå¦»å­åå¥³ä¸èµ·å¸¶ä¾ã",
+      "spa": "Y los demás partieron para la tierra de Nefi; y parte de ellos retornaron a la tierra de Helam y llevaron consigo a las esposas y también a los hijos de los guardias que habían dejado atrás.",
+      "por": "<span class=\"verse-number\">38 </span>E os demais foram para a terra de NÃ©fi; e uma parte deles voltou para a terra de HelÃ£, levando consigo as esposas e filhos dos guardas que haviam sido deixados na terra.",
+      "fra": "<span class=\"verse-number\">38Â </span>Et le reste dâentre eux alla au pays de NÃ©phiÂ ; et une partie dâentre eux retourna au pays dâHÃ©lam, et amena aussi les Ã©pouses et les enfants des gardes qui avaient Ã©tÃ© laissÃ©s dans le pays.",
+      "deu": "<span class=\"verse-number\">38Â </span>Und die Ã¼brigen von ihnen zogen in das Land Nephi; und ein Teil von ihnen kehrte in das Land Helam zurÃ¼ck und brachte auch die Frauen und die Kinder der Wachen mit, die in dem Land zurÃ¼ckgelassen worden waren.",
+      "kor": "<span class=\"verse-number\">38 </span>ë ê·¸ë¤ ì¤ ëë¨¸ì§ë ëíì´ ëì¼ë¡ ê°ì¼ë©°, ê·¸ë¤ ì¤ ì¼ë¶ê° íë¨ ëì¼ë¡ ëìì¤ë©°, ê·¸ ëì ë¨ì ìë íìê¾¼ë¤ì ìë´ë¤ê³¼ ìëë¤ë í¨ê» ë°ë ¤ìëë¼.",
+      "ita": "<span class=\"verse-number\">38 </span>E il rimanente di loro andÃ² nel paese di Nefi; e una parte di essi tornÃ² alla terra di Helam, portando con sÃ© anche le mogli e i figli delle guardie che erano state lasciate nel paese."
+    },
+    "39": {
+      "eng": "And the king of the Lamanites had granted unto Amulon that he should be a king and a ruler over his people, who were in the land of Helam; nevertheless he should have no power to do anything contrary to the will of the king of the Lamanites.",
+      "ara": "<span class=\"verse-number\">Ù£Ù© </span>ÙÙØ³ÙÙÙØ­Ù ÙÙÙÙÙÙ Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙ Ø¨ÙØ£ÙÙÙ ÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙÙ ÙÙÙÙÙÙØ§ ÙÙØ­Ø§ÙÙÙÙØ§ Ø¹ÙÙÙ Ø´ÙØ¹ÙØ¨ÙÙÙ Ø§ÙÙÙØ°Ù ÙØ§ÙÙ ÙÙ Ø£ÙØ±ÙØ¶Ù Ø­ÙÙØ§ÙÙØ ÙÙÙÙØ¹Ù Ø°Ù°ÙÙÙÙ ÙÙÙÙÙÙ ØªÙÙÙÙÙ ÙÙÙÙ Ø³ÙÙÙØ·ÙØ©Ù ÙÙÙÙØ¹ÙÙÙ Ø£ÙÙÙÙ Ø´ÙÙÙØ¡Ù ÙÙØªÙØ¹Ø§Ø±ÙØ¶Ù ÙÙØ¹Ù Ø¥ÙØ±Ø§Ø¯ÙØ©Ù ÙÙÙÙÙÙ Ø§ÙÙÙØ§ÙØ§ÙÙÙÙÙÙÙ.",
+      "jpn": "レーマン<ruby>人<rt>じん</rt></ruby>の<ruby>王<rt>おう</rt></ruby>はアミュロンに、ヘラムの<ruby>地<rt>ち</rt></ruby>にいる<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>民<rt>たみ</rt></ruby>の<ruby>王<rt>おう</rt></ruby>となり<ruby>統<rt>とう</rt></ruby><ruby>治<rt>ち</rt></ruby><ruby>者<rt>しゃ</rt></ruby>となることを<ruby>許<rt>ゆる</rt></ruby>していた。しかし、それでも<ruby>彼<rt>かれ</rt></ruby>は、レーマン<ruby>人<rt>じん</rt></ruby>の<ruby>王<rt>おう</rt></ruby>の<ruby>意<rt>い</rt></ruby>に<ruby>反<rt>はん</rt></ruby>して<ruby>事<rt>こと</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>力<rt>ちから</rt></ruby>は<ruby>持<rt>も</rt></ruby>っていなかった。",
+      "zhs": "拉曼人的国王同意让艾缪伦作他在希兰地的人民的王和统治者，但是，他没有权力去做任何违背拉曼人国王旨意的事。",
+      "zht": "<span class=\"verse-number\">39ã</span><u>ææ¼</u>äººçåçåæè®<u>è¾ç¹å«</u>ä½ä»å¨<u>å¸è­</u>å°çäººæ°ççåçµ±æ²»èï¼ä½æ¯ï¼ä»æ²ææ¬åå»åä»»ä½éè<u>ææ¼</u>äººåçæ¨æçäºã",
+      "spa": "Y el rey de los lamanitas le había concedido a Amulón que fuese rey y gobernante de su pueblo que se hallaba en la tierra de Helam; no obstante, no tendría poder para hacer cosa alguna que fuese contraria a la voluntad del rey de los lamanitas.",
+      "por": "<span class=\"verse-number\">39 </span>E o rei dos lamanitas permitiu a Amulon que fosse rei e governante de seu povo, que estava na terra de HelÃ£; nÃ£o teria, porÃ©m, o poder de fazer coisa alguma contrÃ¡ria Ã  vontade do rei dos lamanitas.",
+      "fra": "<span class=\"verse-number\">39Â </span>Et le roi des Lamanites avait accordÃ© Ã  Amulon dâÃªtre roi et gouverneur de son peuple qui Ã©tait au pays dâHÃ©lamÂ ; nÃ©anmoins, il nâaurait aucun pouvoir de faire quoi que ce soit de contraire Ã  la volontÃ© du roi des Lamanites.",
+      "deu": "<span class=\"verse-number\">39Â </span>Und der KÃ¶nig der Lamaniten hatte Amulon gewÃ¤hrt, KÃ¶nig und Herrscher Ã¼ber sein Volk zu sein, das im Land Helam war; doch sollte er keine Macht haben, etwas gegen den Willen des KÃ¶nigs der Lamaniten zu tun.",
+      "kor": "<span class=\"verse-number\">39 </span>ì´ì ë ì´ë§¨ì¸ì ìì´ ì°ì¨ë¡ ìê² íë½íì¬ íë¨ ëì ìë ê·¸ì ë°±ì±ì ë¤ì¤ë¦¬ë ìê³¼ íµì¹ìê° ëê² íìì¼ë, ê·¸ë¼ìë ë¶êµ¬íê³  ê·¸ê° ë ì´ë§¨ì¸ ìì ë»ì ë°íì¬ìë ìë¬´ ì¼ë íí  ê¶ë¥ì ê°ì§ ëª»íê² íëë¼.",
+      "ita": "<span class=\"verse-number\">39 </span>E il re dei Lamaniti aveva accordato ad Amulon di essere re e governatore sul suo popolo, che era nel paese di Helam; nondimeno egli non avrebbe avuto alcun potere di fare qualsiasi cosa contraria alla volontÃ  del re dei Lamaniti."
+    }
+  }
+}

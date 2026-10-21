@@ -1,0 +1,566 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "num",
+    "chapter": 32,
+    "headings": {
+      "eng": "Reuben, Gad, and half the tribe of Manasseh receive their inheritances east of the JordanâThey covenant to join other tribes in conquering Canaan.",
+      "zhs": "<u>åä¾¿</u>ã<u>è¿¦å¾</u>å<u>çæ¿è¥¿</u>çåä¸ªæ¯æ´¾è·å¾<u>çº¦æ¦æ²³</u>ä¸è¾¹çåå°ä¸ºäº§ä¸ââä»ä»¬ç«çº¦åå¶ä»æ¯æ´¾ä¸åå¾æ<u>è¿¦å</u>ã",
+      "zht": "<u>åä¾¿</u>ã<u>è¿¦å¾</u>å<u>çªæ¿è¥¿</u>çååæ¯æ´¾ç²å¾<u>ç´æ¦æ²³</u>æ±éçåå°çºç¢æ¥­ââä»åç«ç´åå¶ä»æ¯æ´¾ä¸åå¾æ<u>è¿¦å</u>ã",
+      "spa": "RubÃ©n, Gad y la mitad de la tribu de ManasÃ©s reciben sus heredades al oriente del JordÃ¡nÂ â Hacen pacto de unirse a las otras tribus para conquistar CanaÃ¡n.",
+      "por": "RÃºben e Gade e metade da tribo de ManassÃ©s recebem a sua heranÃ§a a leste do JordÃ£oÂ â Eles fazem convÃªnio de unir-se Ã s outras tribos na conquista de CanaÃ£.",
+      "fra": "Ruben, Gad et la moitiÃ© de la tribu de ManassÃ© reÃ§oivent un hÃ©ritage Ã  lâest du Jourdain. Ils font alliance de se joindre aux autres tribus pour conquÃ©rir Canaan.",
+      "deu": "Ruben, Gad und der halbe Stamm Manasse erhalten ihren Erbbesitz Ã¶stlich des JordanÂ â Sie geloben, sich anderen StÃ¤mmen anzuschlieÃen, um Kanaan zu erobern.",
+      "ita": "Ruben, Gad e metÃ  della tribÃ¹ di Manasse ricevono le proprie ereditÃ  a est del GiordanoÂ â Fanno alleanza di unirsi alle altre tribÃ¹ nella conquista di Canaan."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place <span class=\"clarity-word\">was</span> a place for cattle;",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙÙÙØ§ÙÙ ÙÙØ³ÙØ¨ÙØ·ÙÙÙ Ø±ÙØ£ÙÙØ¨ÙÙÙÙÙ ÙÙØ¬ÙØ§Ø¯Ù ÙÙÙÙØ§Ø´Ù ÙÙØ«ÙÙØ±ÙØ©Ù Ø¬ÙØ¯ÙØ§Ù. ÙÙÙÙÙÙÙØ§ Ø£ÙÙÙØ¨ÙÙÙÙØ§ Ø¹ÙÙÙÙ Ø£ÙØ±ÙØ¶Ù ÙÙØ¹ÙØ²ÙÙØ±Ù ÙÙØ£ÙØ±ÙØ¶Ù Ø¬ÙÙÙØ¹ÙØ§Ø¯Ù ÙÙØ¬ÙØ¯ÙÙØ§ Ø£ÙÙÙÙÙÙØ§ ØµÙØ§ÙÙØ­ÙØ©Ù ÙÙØ±ÙØ¹ÙÙÙ Ø§ÙÙÙÙÙÙØ§Ø´ÙÙ.",
+      "jpn": "<span class=\"verse-number\">1</span> ã«ãã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ã¬ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ã¯<ruby><rb>éå¸¸</rb><rt>ã²ããã</rt></ruby>ã«<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>å®¶ç</rb><rt>ãã¡ã</rt></ruby>ã®<ruby><rb>ç¾¤</rb><rt>ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã£ã¦ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ããã¤ã¼ã«ã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã¨ãã®ã¬ã¢ãã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã¨ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã¨ãããã¯<ruby><rb>å®¶ç</rb><rt>ãã¡ã</rt></ruby>ã<ruby><rb>é£¼</rb><rt>ã</rt></ruby>ãã®ã«<ruby><rb>é©</rb><rt>ã¦ã</rt></ruby>ãã¦ããã®ã§ã",
+      "zhs": "<span class=\"verse-number\">1ã</span>åä¾¿å­å­åè¿¦å¾å­å­çç²çæå¶ä¼å¤ï¼ä»ä»¬çè§<u>éè°¢</u>å°å<u>åºå</u>å°æ¯å¯ç§æ¾ç²çä¹å°ï¼",
+      "zht": "<span class=\"verse-number\">1ã</span>åä¾¿å­å­«åè¿¦å¾å­å­«çç²çæ¥µå¶ç¾å¤ï¼ä»åçè¦<u>éè¬</u>å°å<u>åºå</u>å°æ¯å¯ç§æ¾ç²çä¹å°ï¼",
+      "spa": "<span class=\"verse-number\">1 </span>Y los hijos de RubÃ©n y los hijos de Gad tenÃ­an una cantidad muy grande de ganado; y ellos, al ver la tierra de Jazer y de Galaad, y he aquÃ­ que les pareciÃ³ la regiÃ³n lugar para ganado.",
+      "por": "<span class=\"verse-number\">1</span> E os filhos de RÃºben e os filhos <span class=\"page-break\" data-page=\"293\"></span>de Gade tinham muito gado, em grande quantidade; e viram a terra de Jazer, e a terra de Gileade, e eis que o lugar <span class=\"clarity-word\">era</span> lugar de gado.",
+      "fra": "<span class=\"verse-number\">1</span> Les fils de Ruben et les fils de Gad avaient une quantitÃ© considÃ©rable de troupeaux et ils virent que le pays de Jaezer et le pays de Galaad Ã©taient un lieu appropriÃ© pour des troupeaux.",
+      "deu": "<span class=\"verse-number\">1Â </span>Die StÃ¤mme Ruben und Gad besaÃen aber auÃerordentlich viel Vieh. Als sie sich nun das Gebiet Jaser und das Gebiet Gilead ansahen, erkannten sie, dass die Gegend zur Viehzucht geeignet war.",
+      "kor": "<span class=\"verse-number\">1</span> ë¥´ì°ë²¤ ììê³¼ ê° ììì ì¬í ë§ì ê°ì¶ ë¼ë¥¼ ê°ì¡ëë¼ ê·¸ë¤ì´ ì¼ì ëê³¼ ê¸¸ë¥´ì ëì ë³¸ì¦ ê·¸ ê³³ì ëª©ì¶í  ë§í ì¥ìì¸ì§ë¼",
+      "ita": "<span class=\"verse-number\">1</span> Ora, i figli di Ruben e i figli di Gad avevano del bestiame in grandissimo numero; e quando videro che il paese di Iazer e il paese di Galaad erano luoghi da bestiame,"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>The children of Gad and the children of Reuben came and spake unto Moses, and to Eleazar the priest, and unto the princes of the congregation, saying,",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙØ§ÙÙÙØ§ ÙÙÙÙÙØ³ÙÙ ÙÙØ£ÙÙÙØ¹ÙØ§Ø²ÙØ§Ø±Ù Ø§ÙÙÙÙØ§ÙÙÙÙ ÙÙØ±ÙØ¤ÙØ³ÙØ§Ø¡Ù Ø§ÙØ´ÙÙØ¹ÙØ¨Ù:",
+      "jpn": "<span class=\"verse-number\">2</span> ã¬ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ã«ãã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ããã¦ãã¢ã¼ã»ã¨ã<ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ã¨ã¬ã¢ã¶ã«ã¨ã<ruby><rb>ä¼è¡</rb><rt>ããããã</rt></ruby>ã®ã¤ãããã¡ã¨ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">2ã</span>å°±æ¥è§<u>æ©è¥¿</u>åç¥­å¸<u>ä»¥å©äºæ</u>ï¼å¹¶ä¼ä¼çé¦é¢ï¼è¯´ï¼",
+      "zht": "<span class=\"verse-number\">2ã</span>å°±ä¾è¦<u>æ©è¥¿</u>åç¥­å¸<u>ä»¥å©äºæ</u>ï¼ä¸¦æç¾çé¦é ï¼èªªï¼",
+      "spa": "<span class=\"verse-number\">2 </span>Y fueron los hijos de Gad y los hijos de RubÃ©n y hablaron a MoisÃ©s, y al sacerdote Eleazar y a los prÃ­ncipes de la congregaciÃ³n, diciendo:",
+      "por": "<span class=\"verse-number\">2</span> Foram, pois, os filhos de Gade e os filhos de RÃºben, e falaram a MoisÃ©s e a Eleazar, o sacerdote, e aos prÃ­ncipes da congregaÃ§Ã£o, dizendo:",
+      "fra": "<span class=\"verse-number\">2</span> Alors les fils de Gad et les fils de Ruben vinrent auprÃ¨s de MoÃ¯se, du prÃªtre ÃlÃ©azar et des princes de lâassemblÃ©e et ils leur direntÂ :",
+      "deu": "<span class=\"verse-number\">2Â </span>So gingen denn die StÃ¤mme Gad und Ruben hin und sagten zu Mose und zum Priester Eleasar und zu den HÃ¤uptern der Gemeinde:",
+      "kor": "<span class=\"verse-number\">2</span> ê° ììê³¼ ë¥´ì°ë²¤ ììì´ ìì ëª¨ì¸ì ì ì¬ì¥ ìë¥´ìì´ê³¼ íì¤ ì§íê´ë¤ìê² ë§íì¬ ì´ë¥´ë",
+      "ita": "<span class=\"verse-number\">2</span> i figli di Gad e i figli di Ruben vennero a parlare a MosÃ¨, al sacerdote Eleazar e ai capi della comunitÃ , e dissero:"
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,",
+      "ara": "<span class=\"verse-number\">Ù£ </span>âØ¥ÙÙÙÙ Ø£ÙØ±ÙØ§Ø¶ÙÙ Ø¹ÙØ·ÙØ§Ø±ÙÙØªÙ ÙÙØ¯ÙÙØ¨ÙÙÙÙ ÙÙÙÙØ¹ÙØ²ÙÙØ±Ù ÙÙÙÙÙÙØ±ÙØ©Ù ÙÙØ­ÙØ´ÙØ¨ÙÙÙÙ ÙÙØ£ÙÙÙØ¹ÙØ§ÙÙØ©Ù ÙÙØ´ÙØ¨ÙØ§ÙÙ ÙÙÙÙØ¨ÙÙ ÙÙØ¨ÙØ¹ÙÙÙÙ",
+      "jpn": "<span class=\"verse-number\">3</span> ãã¢ã¿ã­ããããã³ãã¤ã¼ã«ããã ã©ããã·ãã³ãã¨ã¬ã¢ã¬ãã·ãã ããããããªã³ã",
+      "zhs": "<span class=\"verse-number\">3ã</span><u>äºä»å½</u>ã<u>åºæ¬</u>ã<u>éè°¢</u>ã<u>å®æ</u>ã<u>å¸å®æ¬</u>ã<u>ä»¥å©äºå©</u>ã<u>ç¤ºç­</u>ã<u>å°¼æ³¢</u>ã<u>æ¯ç¨³</u>ï¼",
+      "zht": "<span class=\"verse-number\">3ã</span><u>äºä»é</u>ã<u>åºæ¬</u>ã<u>éè¬</u>ã<u>å¯§æ</u>ã<u>å¸å¯¦æ¬</u>ã<u>ä»¥å©äºå©</u>ã<u>ç¤ºç­</u>ã<u>å°¼æ³¢</u>ã<u>æ¯ç©©</u>ï¼",
+      "spa": "<span class=\"verse-number\">3 </span>Atarot, y DibÃ³n, y Jazer, y Nimra, y HesbÃ³n, y Eleale, y Sebam, y Nebo y BeÃ³n,",
+      "por": "<span class=\"verse-number\">3</span> Atarote, e Dibom, e Jazer, e Ninra, e Hesbom, e Eleale, e SebÃ£, e Nebo, e Beom,",
+      "fra": "<span class=\"verse-number\">3</span> Atharoth, Dibon, Jaezer, Nimra, Hesbon, Ãleale, Sebam, Nebo et Beon,",
+      "deu": "<span class=\"verse-number\">3Â </span>âAtarot, Dibon, Jaser, Nimra, Heschbon, Elale, Sibma, Nebo und Beon,",
+      "kor": "<span class=\"verse-number\">3</span> ìë¤ë¡¯ê³¼ ëë³¸ê³¼ ì¼ìê³¼ ëë¯ë¼ì í¤ì¤ë³¸ê³¼ ìë¥´ìë ì ì¤ë°¤ê³¼ ëë³´ì ë¸ì¨",
+      "ita": "<span class=\"verse-number\">3</span> âAtarot, Dibon, Iazer, Nimra, Eshbon, ElealÃ¨, Sebam, Nebo e Beon,"
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span><span class=\"clarity-word\">Even</span> the country which the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> smote before the congregation of Israel, <span class=\"clarity-word\">is</span> a land for cattle, and thy servants have cattle:",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø§ÙØ£ÙØ±ÙØ§Ø¶ÙÙ Ø§ÙÙÙØªÙÙ Ø£ÙØ®ÙØ¶ÙØ¹ÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ÙÙÙÙ ÙÙØ±ÙØ§Ø¹Ù ØµÙØ§ÙÙØ­ÙØ©Ù ÙÙØ±ÙØ¹ÙÙÙ ÙÙÙÙØ§Ø´ÙÙ Ø¹ÙØ¨ÙÙØ¯ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">4</span> ããªãã¡<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãã¤ã¹ã©ã¨ã«ã®<ruby><rb>ä¼è¡</rb><rt>ããããã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã¼ããã<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ã¯ã<ruby><rb>å®¶ç</rb><rt>ãã¡ã</rt></ruby>ã<ruby><rb>é£¼</rb><rt>ã</rt></ruby>ãã®ã«<ruby><rb>é©</rb><rt>ã¦ã</rt></ruby>ãã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã§ãããããã¹ãã¯<ruby><rb>å®¶ç</rb><rt>ãã¡ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã£ã¦ãã¾ããã",
+      "zhs": "<span class=\"verse-number\">4ã</span>å°±æ¯è¶ååå¨<u>ä»¥è²å</u>ä¼ä¼åé¢ææ»åä¹å°ï¼æ¯å¯ç§æ¾ç²çä¹å°ï¼ä½ ä»äººä¹æç²çã",
+      "zht": "<span class=\"verse-number\">4ã</span>å°±æ¯è¶åè¯å¨<u>ä»¥è²å</u>æç¾åé¢ææ»åä¹å°ï¼æ¯å¯ç§æ¾ç²çä¹å°ï¼ä½ åäººä¹æç²çã",
+      "spa": "<span class=\"verse-number\">4 </span>la tierra que JehovÃ¡ hiriÃ³ delante de la congregaciÃ³n de Israel es tierra para ganado, y tus siervos tienen ganado.",
+      "por": "<span class=\"verse-number\">4</span> A terra que o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> conquistou diante da congregaÃ§Ã£o de Israel, <span class=\"clarity-word\">Ã©</span> terra de gado, e os teus servos tÃªm gado.",
+      "fra": "<span class=\"verse-number\">4</span> ce pays que lâÃternel a frappÃ© devant lâassemblÃ©e dâIsraÃ«l est un lieu appropriÃ© pour des troupeaux, et tes serviteurs ont des troupeaux.",
+      "deu": "<span class=\"verse-number\">4Â </span>das Land, das der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> der Gemeinde Israel unterworfen hat, ist ein zur Viehzucht geeignetes Land, und deine Knechte besitzen viel Vieh.â",
+      "kor": "<span class=\"verse-number\">4</span> ê³§ ì¬í¸ìê»ì ì´ì¤ë¼ì íì¤ ììì ì³ì ë©¸íì  ëì ëª©ì¶í  ë§í ì¥ìì ë¹ì ì ì¢ë¤ìê²ë ê°ì¶ì´ ìëì´ë¤",
+      "ita": "<span class=\"verse-number\">4</span> terre che lâEterno ha colpito dinanzi alla comunitÃ  dâIsraele, sono terre da bestiame, e i tuoi servi hanno del bestiameâ."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, <span class=\"clarity-word\">and</span> bring us not over Jordan.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ¥ÙÙÙ Ø­ÙØ³ÙÙÙ ÙÙØ¯ÙÙÙÙÙØ Ø£ÙØ¹ÙØ·Ù ÙÙØ°ÙÙÙ Ø§ÙØ£ÙØ±ÙØ§Ø¶ÙÙ ÙÙØ¹ÙØ¨ÙÙØ¯ÙÙÙ ÙÙÙÙÙØ§ÙØ ÙÙÙØ§ ØªÙØ¯ÙØ¹ÙÙÙØ§ ÙÙØ¹ÙØ¨ÙØ±Ù ÙÙÙÙØ±Ù Ø§ÙØ£ÙØ±ÙØ¯ÙÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ã¾ã<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããã§ãããããªãã®<ruby><rb>æµ</rb><rt>ãã</rt></ruby>ã¿ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã¾ããªããã©ãããã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãããã¹ãã®<ruby><rb>é å°</rb><rt>ãããã¡</rt></ruby>ã«ãã¦ãããããã«ã¨ã«ãã³ã<ruby><rb>æ¸¡</rb><rt>ãã</rt></ruby>ãããªãã§ãã ãããã",
+      "zhs": "<span class=\"verse-number\">5ã</span>åè¯´ï¼æä»¬è¥å¨ä½ ç¼åèæ©ï¼æ±ä½ æè¿å°ç»æä»¬ä¸ºä¸ï¼ä¸è¦é¢æä»¬è¿<u>çº¦æ¦æ²³</u>ã",
+      "zht": "<span class=\"verse-number\">5ã</span>åèªªï¼æåè¥å¨ä½ ç¼åèæ©ï¼æ±ä½ æéå°çµ¦æåçºæ¥­ï¼ä¸è¦é æåé<u>ç´æ¦æ²³</u>ã",
+      "spa": "<span class=\"verse-number\">5 </span>Por tanto, dijeron, si hallamos gracia ante tus ojos, dÃ©se esta tierra a tus siervos en heredad, y no nos hagas pasar el JordÃ¡n.",
+      "por": "<span class=\"verse-number\">5</span> Disseram mais: Se achamos graÃ§a aos teus olhos, dÃª-se esta terra aos teus servos em possessÃ£o; <span class=\"clarity-word\">e</span> nÃ£o nos faÃ§as passar o JordÃ£o.",
+      "fra": "<span class=\"verse-number\">5</span> Ils ajoutÃ¨rentÂ : Si nous avons trouvÃ© grÃ¢ce Ã  tes yeux, que la possession de ce pays soit accordÃ©e Ã  tes serviteurs et ne nous fais pas passer le Jourdain.",
+      "deu": "<span class=\"verse-number\">5Â </span>Dann fuhren sie fort: âWenn wir Gnade in deinen Augen gefunden haben, so mÃ¶ge dieses Land deinen Knechten als Erbbesitz Ã¼bergeben werden. Lass uns nicht mit Ã¼ber den Jordan ziehen!â",
+      "kor": "<span class=\"verse-number\">5</span> ë ì´ë¥´ë ì°ë¦¬ê° ë§ì¼ ë¹ì ìê² ìíë¥¼ ììì¼ë©´ ì´ ëì ë¹ì ì ì¢ë¤ìê² <span class=\"clarity-word\">ê·¸ë¤ì ìì </span>ë¡ ì£¼ìê³  ì°ë¦¬ìê² ìë¨ ê°ì ê±´ëì§ ìê² íìì",
+      "ita": "<span class=\"verse-number\">5</span> E dissero ancora: âSe abbiamo trovato grazia agli occhi tuoi, sia concesso ai tuoi servi il possesso di questo paese, e non farci passare il Giordanoâ."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span><span class=\"para-mark\">Â¶ </span>And Moses said unto the children of Gad and to the children of <span class=\"page-break\" data-page=\"245\"></span>Reuben, Shall your brethren go to war, and shall ye sit here?",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙÙÙØ§ÙÙ ÙÙÙØ³ÙÙ ÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù Ø³ÙØ¨ÙØ·ÙÙÙ Ø¬ÙØ§Ø¯Ù ÙÙØ±ÙØ£ÙÙØ¨ÙÙÙÙÙ: âØ£ÙÙÙÙÙØ·ÙÙÙÙÙ Ø¥ÙØ®ÙÙÙØªÙÙÙÙÙ ÙÙØ®ÙÙÙØ¶Ù Ø§ÙÙØ­ÙØ±ÙØ¨Ù ÙÙØ£ÙÙÙØªÙÙÙ ÙÙÙÙØ§ ÙÙØ§Ø¹ÙØ¯ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">6</span> ã¢ã¼ã»ã¯ã¬ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ã«ãã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããªãããã¯<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã<ruby><rb>æ¦</rb><rt>ããã</rt></ruby>ãã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ãã®ã«ãããã«ããã£ã¦ãããã¨ããã®ãã",
+      "zhs": "<span class=\"verse-number\">6ã</span><u>æ©è¥¿</u>å¯¹<u>è¿¦å¾</u>å­å­å<u>åä¾¿</u>å­å­è¯´ï¼é¾éä½ ä»¬çå¼åå»æä»ï¼ä½ ä»¬ç«åå¨è¿éåï¼",
+      "zht": "<span class=\"verse-number\">6ã</span><u>æ©è¥¿</u>å°<u>è¿¦å¾</u>å­å­«å<u>åä¾¿</u>å­å­«èªªï¼é£éä½ åçå¼åå»æä»ï¼ä½ åç«åå¨éè£¡åï¼",
+      "spa": "<span class=\"verse-number\">6 </span>Y respondiÃ³ MoisÃ©s a los hijos de Gad y a los hijos de RubÃ©n: Â¿IrÃ¡n vuestros hermanos a la guerra, y vosotros os quedarÃ©is aquÃ­?",
+      "por": "<span class=\"verse-number\">6</span> PorÃ©m MoisÃ©s disse aos filhos de Gade e aos filhos de RÃºben: IrÃ£o vossos irmÃ£os Ã  peleja, e ficareis vÃ³s aqui?",
+      "fra": "<span class=\"verse-number\">6</span> MoÃ¯se rÃ©pondit aux fils de Gad et aux fils de RubenÂ : Vos frÃ¨res iront-ils Ã  la guerre et vous, resterez-vous iciÂ ?",
+      "deu": "<span class=\"verse-number\">6Â </span>Darauf antwortete Mose den StÃ¤mmen Gad und Ruben: âEure BrÃ¼der sollen also in den Krieg ziehen, und ihr wollt ruhig hierbleiben?",
+      "kor": "<span class=\"verse-number\">6</span> ëª¨ì¸ê° ê° ììê³¼ ë¥´ì°ë²¤ ìììê² ì´ë¥´ë ëí¬ íì ë¤ì ì¸ì°ë¬ ê°ê±°ë ëí¬ë ì¬ê¸° ìì ìê³ ì íëë",
+      "ita": "<span class=\"verse-number\">6</span> Ma MosÃ¨ rispose ai figli di Gad e ai figli di Ruben: âAndrebbero dunque i vostri fratelli in guerra e voi ve ne stareste qui?"
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>And wherefore discourage ye the heart of the children of Israel from going over into the land which the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> hath given them?",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙØ§Ø°ÙØ§ ØªÙØ¶ÙØ¹ÙÙÙÙÙÙ ÙÙÙÙÙØ¨Ù Ø§ÙØ¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙÙÙÙÙÙÙ Ø¹ÙÙÙ Ø§ÙÙØ¹ÙØ¨ÙÙØ±Ù Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø§ÙÙÙØªÙÙ ÙÙÙÙØ¨ÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">7</span> ã©ããã¦ããªãããã¯ã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ããããã¦ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã«<ruby><rb>æ¸¡</rb><rt>ãã</rt></ruby>ããã¨ãã§ããªãããã«ããã®ãã",
+      "zhs": "<span class=\"verse-number\">7ã</span>ä½ ä»¬ä¸ºä½ä½¿<u>ä»¥è²å</u>äººç°å¿ä¸§èï¼ä¸è¿å»è¿å¥è¶ååæèµç»ä»ä»¬çé£å°å¢ï¼",
+      "zht": "<span class=\"verse-number\">7ã</span>ä½ åçºä½ä½¿<u>ä»¥è²å</u>äººç°å¿åªè½ï¼ä¸éå»é²å¥è¶åè¯æè³çµ¦ä»åçé£å°å¢ï¼",
+      "spa": "<span class=\"verse-number\">7 </span>Â¿Y por quÃ© desalentÃ¡is a los hijos de Israel para que no pasen a la tierra que les ha dado JehovÃ¡?",
+      "por": "<span class=\"verse-number\">7</span> Por que, pois, desencorajais o coraÃ§Ã£o dos filhos de Israel, para que nÃ£o passem Ã  terra que o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> lhes deu?",
+      "fra": "<span class=\"verse-number\">7</span> Pourquoi voulez-vous dÃ©courager les enfants dâIsraÃ«l de passer dans le pays que lâÃternel leur donneÂ ?",
+      "deu": "<span class=\"verse-number\">7Â </span>Warum wollt ihr denn die <span class=\"clarity-word\">Ã¼brigen</span> Israeliten von dem Entschluss abbringen, in das Land hinÃ¼berzuziehen, das der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> fÃ¼r sie bestimmt hat?",
+      "kor": "<span class=\"verse-number\">7</span> ëí¬ê° ì´ì°íì¬ ì´ì¤ë¼ì ìììê² ëì¬íê² íì¬ì ì¬í¸ìê»ì ê·¸ë¤ìê² ì£¼ì  ëì¼ë¡ ê±´ëê° ì ìê² íë ¤ íëë",
+      "ita": "<span class=\"verse-number\">7</span> E perchÃ© volete scoraggiare i figli dâIsraele dal passare nel paese che lâEterno ha dato loro?"
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>Thus did your fathers, when I sent them from Kadesh-barnea to see the land.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø¥ÙÙÙÙ ÙÙØ°ÙØ§ ÙÙØ§ ÙÙØ¹ÙÙÙÙÙ Ø¢Ø¨ÙØ§Ø¤ÙÙÙÙÙ Ø­ÙÙÙÙ Ø£ÙØ±ÙØ³ÙÙÙØªÙÙÙÙÙ ÙÙÙÙ ÙÙØ§Ø¯ÙØ´Ù Ø¨ÙØ±ÙÙÙÙØ¹Ù ÙÙÙÙØªÙØ¬ÙØ³ÙÙØ³ÙÙØ§ Ø§ÙØ£ÙØ±ÙØ¶ÙØ",
+      "jpn": "<span class=\"verse-number\">8</span> ããªãããã®<ruby><rb>åç¥</rb><rt>ããã</rt></ruby>ããããããã«ãã·ã»ãã«ãã¢ããããã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããã«ã¤ãããã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã«ã<ruby><rb>å</rb><rt>ããª</rt></ruby>ããããªãã¨ãããã",
+      "zhs": "<span class=\"verse-number\">8ã</span>æååä»<u>å ä½æ¯Â·å·´å°¼äº</u>æåä½ ä»¬åç¥å»çª¥æ¢é£å°ï¼ä»ä»¬ä¹æ¯è¿æ ·è¡ã",
+      "zht": "<span class=\"verse-number\">8ã</span>æååå¾<u>å ä½æ¯Â·å·´å°¼äº</u>æç¼ä½ ååç¥å»çªºæ¢é£å°ï¼ä»åä¹æ¯éæ¨£è¡ã",
+      "spa": "<span class=\"verse-number\">8 </span>AsÃ­ hicieron vuestros padres cuando los enviÃ© desde Cades-barnea para que viesen la tierra.",
+      "por": "<span class=\"verse-number\">8</span> Assim fizeram vossos pais, quando os mandei de Cades-Barneia, para ver esta terra.",
+      "fra": "<span class=\"verse-number\">8</span> Ainsi firent vos pÃ¨res quand je les envoyai de KadÃ¨s-BarnÃ©a pour examiner le pays.",
+      "deu": "<span class=\"verse-number\">8Â </span>Ebenso haben es auch eure VÃ¤ter gemacht, als ich sie von Kadesch-Barnea zur Besichtigung des Landes aussandte.",
+      "kor": "<span class=\"verse-number\">8</span> ëí¬ ì¡°ìë¤ë ë´ê° ê°ë°ì¤ë°ë¤ììì ê·¸ ëì ë³´ë¼ê³  ë³´ëì ëì ê·¸ë¦¬ íììëë",
+      "ita": "<span class=\"verse-number\">8</span> CosÃ¬ fecero i vostri padri, quando li mandai da Cades-Barnea per esplorare il paese."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> had given them.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ¨ÙØ¹ÙØ¯Ù Ø£ÙÙÙ Ø¨ÙÙÙØºÙÙØ§ ÙÙØ§Ø¯ÙÙ Ø£ÙØ´ÙÙÙÙÙÙ ÙÙØªÙØ¬ÙØ³ÙÙØ³ÙÙØ§ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø£ÙØ¶ÙØ¹ÙÙÙÙØ§ ÙÙÙÙÙØ¨Ù Ø§ÙØ¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙÙÙÙÙÙÙ Ø¹ÙÙÙ Ø§ÙÙØ¹ÙØ¨ÙÙØ±Ù Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø§ÙÙÙØªÙÙ ÙÙÙÙØ¨ÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">9</span> ããªãã¡<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ã¨ã·ã³ã«ã®<ruby><rb>è°·</rb><rt>ãã«</rt></ruby>ã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ããã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã¨ããã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ããããã¦ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ããã¨ãã§ããªãããã«ããã",
+      "zhs": "<span class=\"verse-number\">9ã</span>ä»ä»¬ä¸<u>ä»¥å®åè°·</u>ï¼å»çª¥æ¢é£å°åæ¥çæ¶åï¼ä½¿<u>ä»¥è²å</u>äººç°å¿ä¸§èï¼ä¸è¿å¥è¶ååæèµç»ä»ä»¬çå°ã",
+      "zht": "<span class=\"verse-number\">9ã</span>ä»åä¸<u>ä»¥å¯¦åè°·</u>ï¼å»çªºæ¢é£å°åä¾çæåï¼ä½¿<u>ä»¥è²å</u>äººç°å¿åªè½ï¼ä¸é²å¥è¶åè¯æè³çµ¦ä»åçå°ã",
+      "spa": "<span class=\"verse-number\">9 </span>Pues subieron hasta el valle de Escol, y despuÃ©s que vieron la tierra, desalentaron a los hijos de Israel para que no fuesen a la tierra que JehovÃ¡ les habÃ­a dado.",
+      "por": "<span class=\"verse-number\">9</span> Chegando eles atÃ© o vale de Escol, e vendo esta terra, desencorajaram o coraÃ§Ã£o dos filhos de Israel, para que nÃ£o fossem Ã  terra que o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> lhes tinha dado.",
+      "fra": "<span class=\"verse-number\">9</span> Ils montÃ¨rent jusquâÃ  la vallÃ©e dâEschcol et, aprÃ¨s avoir examinÃ© le pays, ils dÃ©couragÃ¨rent les enfants dâIsraÃ«l dâaller dans le pays que lâÃternel leur donnait.",
+      "deu": "<span class=\"verse-number\">9Â </span>Als sie nÃ¤mlich bis zum Tal Eschkol hinaufgezogen waren und sich das Land angesehen hatten, brachten sie die Israeliten von ihrem Entschluss ab, sodass sie nicht in das Land ziehen wollten, das der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> fÃ¼r sie bestimmt hatte.",
+      "kor": "<span class=\"verse-number\">9</span> ê·¸ë¤ì´ ìì¤ê³¨ ê³¨ì§ê¸°ì ì¬ë¼ê°ì ê·¸ ëì ë³´ê³  ì´ì¤ë¼ì ììì ëì¬íê² íì¬ì ì¬í¸ìê»ì ê·¸ë¤ìê² ì£¼ì  ëì¼ë¡ ê° ì ìê² íììëëë¼",
+      "ita": "<span class=\"verse-number\">9</span> Salirono fino alla valle di Eshcol e, dopo aver esplorato il paese, scoraggiarono i figli dâIsraele dallâentrare nel paese che lâEterno aveva dato loro."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>And the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>âs anger was kindled the same time, and he sware, saying,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØ§Ø­ÙØªÙØ¯ÙÙÙ ÙÙÙ Ø°ÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ØºÙØ¶ÙØ¨Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙØ§ÙÙ:",
+      "jpn": "<span class=\"verse-number\">10</span> ããã§ãã®<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>çº</rb><rt>ã¯ã£</rt></ruby>ãã<ruby><rb>èª</rb><rt>ã¡ã</rt></ruby>ã£ã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">10ã</span>å½æ¥ï¼è¶ååçææ°åä½ï¼å°±èµ·èªè¯´ï¼",
+      "zht": "<span class=\"verse-number\">10ã</span>ç¶æ¥ï¼è¶åè¯çææ°£ç¼ä½ï¼å°±èµ·èªèªªï¼",
+      "spa": "<span class=\"verse-number\">10 </span>Y el furor de JehovÃ¡ se encendiÃ³ entonces y jurÃ³, diciendo:",
+      "por": "<span class=\"verse-number\">10</span> EntÃ£o a ira do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> se acendeu naquele mesmo dia, e jurou, dizendo:",
+      "fra": "<span class=\"verse-number\">10</span> La colÃ¨re de lâÃternel sâenflamma ce jour-lÃ  et il jura en disantÂ :",
+      "deu": "<span class=\"verse-number\">10Â </span>Da entbrannte aber der Zorn des <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> an jenem Tag, sodass er mit einem Schwur aussprach:",
+      "kor": "<span class=\"verse-number\">10</span> ê·¸ ëì ì¬í¸ìê»ì ì§ë¸íì¬ ë§¹ì¸íì¬ ì´ë¥´ìë",
+      "ita": "<span class=\"verse-number\">10</span> E lâira dellâEterno si accese in quel giorno, ed egli giurÃ² dicendo:"
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>Surely none of the men that came up out of Egypt, from twenty years old and upward, shall see the land which I sware unto Abraham, unto Isaac, and unto Jacob; because they have not wholly followed me:",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙØ£ÙÙÙÙÙÙÙÙ ÙÙÙÙ ÙÙØ·ÙÙØ¹ÙÙÙÙÙ ÙÙÙÙ ÙÙÙÙÙ ÙÙÙÙÙØ¨ÙÙÙÙÙ ÙÙØ¥ÙÙÙÙ Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ ÙÙÙÙ Ø§Ø¨ÙÙÙ Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙ ÙÙÙÙ Ø§ÙÙÙØ°ÙÙÙÙ Ø®ÙØ±ÙØ¬ÙÙØ§ ÙÙÙÙ ÙÙØµÙØ±Ù ÙÙÙÙ ÙÙØ±ÙÙÙØ§ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø§ÙÙÙØªÙÙ Ø£ÙÙÙØ³ÙÙÙØªÙ Ø£ÙÙÙ Ø£ÙÙÙØ¨ÙÙÙØ§ ÙÙÙÙØ³ÙÙÙ Ø¥ÙØ¨ÙØ±ÙØ§ÙÙÙÙÙ ÙÙØ¥ÙØ³ÙØ­ÙØ§ÙÙ ÙÙÙÙØ¹ÙÙÙÙØ¨ÙØ",
+      "jpn": "<span class=\"verse-number\">11</span> ãã¨ã¸ãããã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦ãã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã§äºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã²ã¨ããããããã¢ãã©ãã ãã¤ãµã¯ãã¤ã³ãã«<ruby><rb>èª</rb><rt>ã¡ã</rt></ruby>ã£ã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããã¨ã¯ã§ããªãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ãããã«<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ããªãã£ãããã§ããã",
+      "zhs": "<span class=\"verse-number\">11ã</span>å¡ä»<u>åå</u>ä¸æ¥ï¼äºåå²ä»¥ä¸çäººï¼æ­ä¸å¾çè§æå¯¹<u>äºä¼¯æç½</u>ã<u>ä»¥æ</u>ã<u>éå</u>èµ·èªåºè®¸ä¹å°ï¼å ä¸ºä»ä»¬æ²¡æä¸å¿è·ä»æã",
+      "zht": "<span class=\"verse-number\">11ã</span>å¡å¾<u>åå</u>ä¸ä¾ï¼äºåæ­²ä»¥ä¸çäººï¼æ·ä¸å¾çè¦æå°<u>äºä¼¯æç½</u>ã<u>ä»¥æ</u>ã<u>éå</u>èµ·èªæè¨±ä¹å°ï¼å çºä»åæ²æå°å¿è·å¾æã",
+      "spa": "<span class=\"verse-number\">11 </span>Los hombres que subieron de Egipto de veinte aÃ±os arriba no verÃ¡n la tierra que jurÃ© dar a Abraham, a Isaac y a Jacob, por cuanto no me siguieron fielmente,",
+      "por": "<span class=\"verse-number\">11</span> Os homens, que subiram do Egito, de vinte anos e acima, nÃ£o verÃ£o a terra que jurei a AbraÃ£o, a Isaque, e a JacÃ³! Porquanto nÃ£o perseveraram em seguir-me;",
+      "fra": "<span class=\"verse-number\">11</span> Ces hommes qui sont montÃ©s dâÃgypte, depuis lâÃ¢ge de vingt ans et au-dessus, ne verront pas le pays que jâai jurÃ© de donner Ã  Abraham, Ã  Isaac et Ã  Jacob, car ils nâont pas suivi pleinement ma voie,",
+      "deu": "<span class=\"verse-number\">11Â </span>âDie MÃ¤nner, die aus Ãgypten ausgezogen sind, von zwanzig Jahren an und darÃ¼ber, die sollen niemals das Land zu sehen bekommen, das ich Abraham, Isaak und Jakob zugeschworen habe, denn sie sind mir nicht in allen StÃ¼cken gehorsam gewesen,",
+      "kor": "<span class=\"verse-number\">11</span> ì êµ½ìì ëì¨ ìë¤ì´ ì´ì­ ì¸ ì´ìì¼ë¡ë í ì¬ëë ë´ê° ìë¸ë¼í¨ê³¼ ì´ì­ê³¼ ì¼ê³±ìê² ë§¹ì¸í ëì ê²°ì½ ë³´ì§ ëª»íë¦¬ë ì´ë ê·¸ë¤ì´ ëë¥¼ ì¨ì í ë°ë¥´ì§ ìëíììì´ëë¼",
+      "ita": "<span class=\"verse-number\">11</span> âGli uomini che sono usciti dallâEgitto, dallâetÃ  di ventâanni in su, non vedranno mai il paese che promisi con giuramento ad Abrahamo, a Isacco e a Giacobbe, perchÃ© non mi hanno seguito fedelmente,"
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>Save Caleb the son of Jephunneh the Kenezite, and Joshua the son of Nun: for they have wholly followed the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ§Ø¹ÙØ¯ÙØ§ ÙÙØ§ÙÙØ¨Ù Ø¨ÙÙÙ ÙÙÙÙÙÙÙØ©Ù Ø§ÙÙÙÙÙÙØ²ÙÙÙÙÙ ÙÙÙÙØ´ÙÙØ¹Ù Ø¨ÙÙÙ ÙÙÙÙÙØ ÙØ£ÙÙÙÙÙÙÙÙØ§ Ø£ÙØ·ÙØ§Ø¹ÙØ§ÙÙÙ ÙÙÙÙ ÙÙÙÙÙ ÙÙÙÙØ¨ÙÙÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">12</span> ãã ã±ããºã³ã¨ã¨ãã³ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã«ã¬ãã¨ãã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¨ã·ã¥ã¢ã¨ã¯ããã§ã¯ãªãããã®ãµããã¯<ruby><rb>å¨</rb><rt>ã¾ã£ã</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ã£ãããã§ãããã",
+      "zhs": "<span class=\"verse-number\">12ã</span>å¯æ<u>åºå°¼æ´</u>æ<u>è¶å­å°¼</u>çå¿å­è¿¦åå<u>å«©</u>çå¿å­<u>çº¦ä¹¦äº</u>å¯ä»¥çè§ï¼å ä¸ºä»ä»¬ä¸å¿è·ä»æã",
+      "zht": "<span class=\"verse-number\">12ã</span>å¯æ<u>åºå°¼æ´</u>æ<u>è¶å­å°¼</u>çåå­è¿¦åå<u>å«©</u>çåå­<u>ç´æ¸äº</u>å¯ä»¥çè¦ï¼å çºä»åå°å¿è·å¾æã",
+      "spa": "<span class=\"verse-number\">12 </span>excepto Caleb hijo de Jefone, el cenezeo, y JosuÃ© hijo de Nun, que siguieron fielmente a JehovÃ¡.",
+      "por": "<span class=\"verse-number\">12</span> Exceto Calebe, filho de JefonÃ©, o quenezeu, e JosuÃ©, filho de Num, porquanto perseveraram em seguir ao <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
+      "fra": "<span class=\"verse-number\">12</span> exceptÃ© Caleb, fils de JephunnÃ©, le Kenizien, et JosuÃ©, fils de Nun, qui ont pleinement suivi la voie de lâÃternel.",
+      "deu": "<span class=\"verse-number\">12Â </span>auÃer dem Kenasiter Kaleb, dem Sohn Jefunnes, und auÃer Josua, dem Sohn Nuns; denn diese beiden sind dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> in allen StÃ¼cken gehorsam gewesen.â",
+      "kor": "<span class=\"verse-number\">12</span> ê·¸ë¬ë ê·¸ëì¤ ì¬ë ì¬ë¶ë¤ì ìë¤ ê°ë ê³¼ ëì ìë¤ ì¬í¸ììë ì¬í¸ìë¥¼ ì¨ì í ë°ëëëë¼ íìê³",
+      "ita": "<span class=\"verse-number\">12</span> salvo Caleb, figlio di Gefunne, il Chenizeo, e GiosuÃ¨, figlio di Nun, che hanno seguito lâEterno fedelmenteâ."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>And the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>âs anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation, that had done evil in the sight of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, was consumed.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØ¥ÙØ°Ù Ø§Ø´ÙØªÙØ¯ÙÙ ØºÙØ¶ÙØ¨Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø¹ÙÙÙÙ Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø£ÙØªÙØ§ÙÙÙÙÙÙ ÙÙÙ Ø§ÙØµÙÙØ­ÙØ±ÙØ§Ø¡Ù Ø£ÙØ±ÙØ¨ÙØ¹ÙÙÙÙ Ø³ÙÙÙØ©ÙØ Ø­ÙØªÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙÙ Ø§ÙÙØ¬ÙÙÙÙ Ø§ÙÙÙØ°ÙÙ Ø§Ø±ÙØªÙÙÙØ¨Ù Ø§ÙØ´ÙÙØ±ÙÙ ÙÙÙ Ø¹ÙÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ.",
+      "jpn": "<span class=\"verse-number\">13</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ãã®ããã«ã¤ã¹ã©ã¨ã«ã«ããã£ã¦<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>çº</rb><rt>ã¯ã£</rt></ruby>ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ããåå<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby>ã®ããã <ruby><rb>èé</rb><rt>ããã®</rt></ruby>ã«ãã¾ãããããã®ã§ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã£ããã®<ruby><rb>ä¸ä»£</rb><rt>ãã ã</rt></ruby>ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã¯ãã¤ãã«ã¿ãª<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã³ãã",
+      "zhs": "<span class=\"verse-number\">13ã</span>è¶ååçææ°å<u>ä»¥è²å</u>äººåä½ï¼ä½¿ä»ä»¬å¨æ·éé£æµååå¹´ï¼ç­å°å¨è¶ååç¼åè¡æ¶çé£ä¸ä»£äººé½æ¶ç­äºã",
+      "zht": "<span class=\"verse-number\">13ã</span>è¶åè¯çææ°£å<u>ä»¥è²å</u>äººç¼ä½ï¼ä½¿ä»åå¨æ éé£æµååå¹´ï¼ç­å°å¨è¶åè¯ç¼åè¡æ¡çé£ä¸ä»£äººé½æ¶æ»äºã",
+      "spa": "<span class=\"verse-number\">13 </span>Y el furor de JehovÃ¡ se encendiÃ³ contra Israel, y los hizo andar errantes cuarenta aÃ±os por el desierto, hasta que fue acabada toda aquella generaciÃ³n que habÃ­a hecho mal delante de JehovÃ¡.",
+      "por": "<span class=\"verse-number\">13</span> Assim, se acendeu a ira do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> contra Israel, e fÃª-los andar errantes atÃ© que se consumiu toda aquela geraÃ§Ã£o, que fizera mal aos olhos do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
+      "fra": "<span class=\"verse-number\">13</span> La colÃ¨re de lâÃternel sâenflamma contre IsraÃ«l et il les fit errer dans les contrÃ©es inhabitÃ©es pendant quarante annÃ©es, jusquâÃ  lâanÃ©antissement de toute la gÃ©nÃ©ration qui avait fait le mal aux yeux de lâÃternel.",
+      "deu": "<span class=\"verse-number\">13Â </span>So entbrannte also der Zorn des <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> gegen Israel, und er lieÃ sie vierzig Jahre lang in der WÃ¼ste umherirren, bis die ganze Generation, die in den Augen des <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> Ã¼bel gehandelt hatte, ausgestorben war.",
+      "kor": "<span class=\"verse-number\">13</span> ì¬í¸ìê»ì ì´ì¤ë¼ììê² ì§ë¸íì¬ ê·¸ë¤ìê² ì¬ì­ ë ëì ê´ì¼ì ë°©í©íê² íì¨ì¼ë¯ë¡ ì¬í¸ìì ëª©ì ì ìì íí ê·¸ ì¸ëê° ë§ì¹¨ë´ë ë¤ ëì´ì¡ëëë¼",
+      "ita": "<span class=\"verse-number\">13</span> E lâira dellâEterno si accese contro Israele; ed egli lo fece vagare per il deserto per quarantâanni, finchÃ© tutta la generazione che aveva fatto quel male agli occhi dellâEterno fu consumata."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>And, behold, ye are risen up in your fathersâ stead, an increase of sinful men, to augment yet the fierce anger of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> toward Israel.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙÙÙØ§ Ø£ÙÙÙØªÙÙÙ ÙÙØªÙØ§Ø¬Ù ØªÙØ±ÙØ¨ÙÙÙØ©Ù ÙÙÙÙÙÙ Ø®ÙØ·ÙØ§Ø©ÙØ ØªÙØ±ÙØªÙÙÙØ¨ÙÙÙÙ ÙÙØ²ÙØ±Ù Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ ÙÙØªÙØ²ÙÙØ¯ÙÙØ§ ÙÙÙÙ Ø´ÙØ¯ÙÙØ©Ù ØºÙØ¶ÙØ¨ÙÙÙ Ø¹ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">14</span> ããªãããã¯ãã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã«<ruby><rb>ä»£</rb><rt>ãã</rt></ruby>ã£ã¦<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã£ã<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã³ã¨ã®ãããã§ãã£ã¦ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®ã¤ã¹ã©ã¨ã«ã«<ruby><rb>å¯¾</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ¿</rb><rt>ã¯ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããããã«<ruby><rb>å¢</rb><rt>ã¾</rt></ruby>ããã¨ãã¦ããã",
+      "zhs": "<span class=\"verse-number\">14ã</span>è°ç¥ï¼ä½ ä»¬èµ·æ¥æ¥ç»­åç¥ï¼å¢æ·»ç½ªäººçæ°ç®ï¼ä½¿è¶ååå<u>ä»¥è²å</u>å¤§åçæã",
+      "zht": "<span class=\"verse-number\">14ã</span>èª°ç¥ï¼ä½ åèµ·ä¾æ¥çºåç¥ï¼å¢æ·»ç½ªäººçæ¸ç®ï¼ä½¿è¶åè¯å<u>ä»¥è²å</u>å¤§ç¼çæã",
+      "spa": "<span class=\"verse-number\">14 </span>Y he aquÃ­, vosotros habÃ©is sucedido a vuestros padres, prole de hombres pecadores, para aÃ±adir aÃºn mÃ¡s a la ira de JehovÃ¡ contra Israel.",
+      "por": "<span class=\"verse-number\">14</span> E eis que vÃ³s, uma multidÃ£o de homens pecadores, vos levantastes em lugar de vossos pais, para ainda mais aumentar o furor da ira do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> contra Israel.",
+      "fra": "<span class=\"verse-number\">14</span> Et voici, vous prenez la place de vos pÃ¨res comme des rejetons dâhommes pÃ©cheurs pour rendre la colÃ¨re de lâÃternel encore plus ardente contre IsraÃ«l.",
+      "deu": "<span class=\"verse-number\">14Â </span>Und jetzt seid ihr anstelle eurer VÃ¤ter aufgetreten, ein Nachwuchs von SÃ¼ndern, um den lodernden Zorn des <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> gegen Israel noch zu mehren!",
+      "kor": "<span class=\"verse-number\">14</span> ë³´ë¼ ëí¬ë ëí¬ì ì¡°ìì ëë¥¼ ì´ì´ ì¼ì´ë ì£ì¸ì ë¬´ë¦¬ë¡ì ì´ì¤ë¼ìì í¥íì  ì¬í¸ìì ë¸ë¥¼ ëì± ì¬íê² íëëë¤",
+      "ita": "<span class=\"verse-number\">14</span> Ed ecco che voi sorgete al posto dei vostri padri, razza di uomini peccatori, per rendere lâira dellâEterno ancora piÃ¹ ardente contro Israele."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>For if ye turn away from after him, he will yet again leave them in the wilderness; and ye shall destroy all this people.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙØ£ÙÙÙÙÙÙÙÙ Ø¥ÙÙÙ ØªÙØ®ÙÙÙÙÙÙØªÙÙÙ Ø¹ÙÙÙ Ø·ÙØ§Ø¹ÙØªÙÙÙØ ÙÙØ¹ÙÙØ¯Ù ÙÙÙÙØªÙØ±ÙÙÙÙÙÙÙ ÙÙÙ Ø§ÙØµÙÙØ­ÙØ±ÙØ§Ø¡Ù ÙÙØªÙÙÙÙÙÙÙÙÙ Ø£ÙÙÙØªÙÙÙ Ø³ÙØ¨ÙØ¨Ù ÙÙÙØ§ÙÙÙÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">15</span> ããªãããããããããã¦<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ããªããªãã°ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã¾ããã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>èé</rb><rt>ããã®</rt></ruby>ã«ãã¦ããããã§ããããããããã°ããªãããã¯ãã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ããã¨ãã¨ã<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã¼ãã«<ruby><rb>è³</rb><rt>ãã</rt></ruby>ãã§ããããã",
+      "zhs": "<span class=\"verse-number\">15ã</span>ä½ ä»¬è¥éåä¸è·ä»ä»ï¼ä»è¿è¦æ<u>ä»¥è²å</u>äººæå¨æ·éï¼ä¾¿æ¯ä½ ä»¬ä½¿è¿ä¼æ°ç­äº¡ã",
+      "zht": "<span class=\"verse-number\">15ã</span>ä½ åè¥éå¾ä¸è·å¾ä»ï¼ä»éè¦æ<u>ä»¥è²å</u>äººæå¨æ éï¼ä¾¿æ¯ä½ åä½¿éç¾æ°æ»äº¡ã",
+      "spa": "<span class=\"verse-number\">15 </span>Si dejÃ¡is de ir en pos de Ã©l, Ã©l volverÃ¡ otra vez a dejaros en el desierto, y destruirÃ©is a todo este pueblo.",
+      "por": "<span class=\"verse-number\">15</span> Se vÃ³s vos desviardes de segui-lo, tambÃ©m ele os deixarÃ¡ de novo no deserto, e destruireis todo este povo.",
+      "fra": "<span class=\"verse-number\">15</span> Car si vous vous dÃ©tournez de lui, il continuera de laisser IsraÃ«l dans les contrÃ©es inhabitÃ©es et vous causerez la perte de tout ce peuple.",
+      "deu": "<span class=\"verse-number\">15Â </span>Wenn ihr euch vom Gehorsam gegen ihn abwendet, so wird er das Volk noch lÃ¤nger in der WÃ¼ste belassen, und ihr werdet so dieses ganze Volk zugrunde richten!â",
+      "kor": "<span class=\"verse-number\">15</span> ëí¬ê° ë§ì¼ ëì´ì¼ ì¬í¸ìë¥¼ ë ëë©´ ì¬í¸ìê»ì ë¤ì ì´ ë°±ì±ì ê´ì¼ì ë²ë¦¬ìë¦¬ë ê·¸ë¦¬íë©´ ëí¬ê° ì´ ëª¨ë  ë°±ì±ì ë©¸ë§ìí¤ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">15</span> PerchÃ©, se voi vi sviate da lui, egli continuerÃ  a lasciare Israele nel deserto, e voi farete perire tutto questo popoloâ."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span><span class=\"para-mark\">Â¶ </span>And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙØ§ÙÙØªÙØ±ÙØ¨ÙÙØ§ ÙÙÙÙÙÙ ÙÙÙÙØ§ÙÙÙØ§: âØ³ÙÙÙØ¨ÙÙÙÙ Ø­ÙØ¸ÙØ§Ø¦ÙØ±Ù ÙÙÙÙÙÙØ§Ø´ÙÙÙÙØ§ ÙÙÙÙØ¯ÙÙØ§Ù ÙØ£ÙØ·ÙÙÙØ§ÙÙÙÙØ§ ÙÙÙÙØ³ÙØ§Ø¦ÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">16</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ã¢ã¼ã»ã®ã¨ããã¸<ruby><rb>é²</rb><rt>ãã</rt></ruby>ã¿<ruby><rb>å¯</rb><rt>ã</rt></ruby>ã£ã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããããã¯ãã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã«ã<ruby><rb>ç¾¤</rb><rt>ã</rt></ruby>ãã®ããã«<ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ã®ããã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ãã¾ã<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ãã¡ã®ããã«<ruby><rb>çºã</rb><rt>ã¾ã¡ã¾ã¡</rt></ruby>ã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ããã¨<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¾ãã",
+      "zhs": "<span class=\"verse-number\">16ã</span>ä¸¤æ¯æ´¾çäººæ¨è¿<u>æ©è¥¿</u>ï¼è¯´ï¼æä»¬è¦å¨è¿éä¸ºç²çååï¼ä¸º<span class=\"clarity-word\">å¦äºº</span>å­©å­é åã",
+      "zht": "<span class=\"verse-number\">16ã</span>å©æ¯æ´¾çäººæ¨è¿<u>æ©è¥¿</u>ï¼èªªï¼æåè¦å¨éè£¡çºç²çå£åï¼çº<span class=\"clarity-word\">å©¦äºº</span>å­©å­é åã",
+      "spa": "<span class=\"verse-number\">16 </span>Entonces ellos se acercaron a Ã©l y le dijeron: Edificaremos aquÃ­ corrales para nuestro ganado y ciudades para nuestros niÃ±os;",
+      "por": "<span class=\"verse-number\">16</span> EntÃ£o chegaram-se a ele, e disseram: Edificaremos currais aqui para o nosso gado, e cidades para os nossos pequeninos;",
+      "fra": "<span class=\"verse-number\">16</span> Ils sâapprochÃ¨rent de MoÃ¯se et ils direntÂ : Nous construirons ici des parcs pour nos troupeaux et des villes pour nos petits enfantsÂ ;",
+      "deu": "<span class=\"verse-number\">16Â </span>Da traten sie an ihn heran und sagten: âWir wollen hier nur ViehhÃ¼rden fÃ¼r unsere Herden und feste Wohnorte fÃ¼r unsere <span class=\"clarity-word\">Frauen und</span> Kinder bauen;",
+      "kor": "<span class=\"verse-number\">16</span> ê·¸ë¤ì´ ëª¨ì¸ìê² ê°ê¹ì´ ëìì ì´ë¥´ë ì°ë¦¬ê° ì´ ê³³ì ì°ë¦¬ ê°ì¶ì ìíì¬ ì°ë¦¬ë¥¼ ì§ê³  ì°ë¦¬ ì´ë¦° ìì´ë¤ì ìíì¬ ì±ìì ê±´ì¶íê³",
+      "ita": "<span class=\"verse-number\">16</span> Ma quelli si accostarono a MosÃ¨ e gli dissero: âNoi edificheremo qui dei recinti per il nostro bestiame, e delle cittÃ  per i nostri figli;"
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>Ø£ÙÙÙÙØ§ ÙÙØ­ÙÙÙ ÙÙÙÙØªÙØ³ÙÙÙÙØ­Ù ÙÙÙÙÙÙØ·ÙÙÙÙÙ ÙÙØ³ÙØ±ÙØ¹ÙÙÙÙ Ø£ÙÙÙØ§ÙÙ Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø­ÙØªÙÙÙ ÙÙØ¨ÙÙÙØºÙÙØ§ Ø£ÙÙÙØ§ÙÙÙÙÙÙÙÙ Ø¨ÙÙÙÙÙÙÙØ§ ÙÙÙÙÙÙØ«Ù ÙÙØ³ÙØ§Ø¤ÙÙÙØ§ ÙÙØ£ÙØ·ÙÙÙØ§ÙÙÙÙØ§ ÙÙÙ ÙÙØ¯ÙÙÙ ÙÙØ­ÙØµÙÙÙÙØ©Ù ØªÙÙÙÙÙÙÙÙ ÙÙØ¬ÙÙÙØ§ØªÙ Ø£ÙÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶ÙØ",
+      "jpn": "<span class=\"verse-number\">17</span> ããããããããã¯<ruby><rb>æ­¦è£</rb><rt>ã¶ãã</rt></ruby>ãã¦ã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>é²</rb><rt>ãã</rt></ruby>ã¿ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãããã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã¸<ruby><rb>å°</rb><rt>ã¿ã¡ã³</rt></ruby>ãã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ãã¾ãããããã ããããã®<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ãã¡ã¯ããã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®<ruby><rb>ä½æ°</rb><rt>ãããã¿ã</rt></ruby>ã®<ruby><rb>å®³</rb><rt>ãã</rt></ruby>ãã®ãããããã<ruby><rb>å åº</rb><rt>ããã</rt></ruby>ãª<ruby><rb>çºã</rb><rt>ã¾ã¡ã¾ã¡</rt></ruby>ã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ã¾ãã¦ãããªããã°ãªãã¾ããã",
+      "zhs": "<span class=\"verse-number\">17ã</span>æä»¬èªå·±è¦å¸¦åµå¨è¡å¨<u>ä»¥è²å</u>äººçåå¤´ï¼å¥½æä»ä»¬é¢å°ä»ä»¬çå°æ¹ï¼ä½æä»¬ç<span class=\"clarity-word\">å¦äºº</span>å­©å­ï¼å è¿å°å±æ°çç¼æï¼è¦ä½å¨ååºçååã",
+      "zht": "<span class=\"verse-number\">17ã</span>æåèªå·±è¦å¸¶åµå¨è¡å¨<u>ä»¥è²å</u>äººçåé ­ï¼å¥½æä»åé å°ä»åçå°æ¹ï¼ä½æåç<span class=\"clarity-word\">å©¦äºº</span>å­©å­ï¼å éå°å±æ°çç·£æï¼è¦ä½å¨å åºçåå§ã",
+      "spa": "<span class=\"verse-number\">17 </span>y nosotros nos armaremos e iremos con diligencia delante de los hijos de Israel, hasta que los llevemos a su lugar; y nuestros niÃ±os quedarÃ¡n en ciudades fortificadas a causa de los moradores del paÃ­s.",
+      "por": "<span class=\"verse-number\">17</span> PorÃ©m nÃ³s nos armaremos, apressando-nos diante dos filhos de Israel, atÃ© que os levemos ao seu lugar; e ficarÃ£o os nossos pequeninos nas cidades fortificadas por causa dos moradores da terra.",
+      "fra": "<span class=\"verse-number\">17</span> puis nous nous armerons en hÃ¢te pour marcher devant les enfants dâIsraÃ«l jusquâÃ  ce que nous les ayons introduits dans le lieu qui leur est destinÃ©Â ; et nos petits enfants demeureront dans les villes fortifiÃ©es, Ã  cause des habitants du pays.",
+      "deu": "<span class=\"verse-number\">17Â </span>wir selbst aber wollen kampfgerÃ¼stet an der Spitze der Israeliten einherziehen, bis wir sie in ihre Wohnsitze gebracht haben; unterdessen sollen unsere <span class=\"clarity-word\">Frauen und</span> Kinder wegen der feindseligen Bewohner des Landes in den befestigten Ortschaften bleiben.",
+      "kor": "<span class=\"verse-number\">17</span> ì´ ëì ìì£¼ë¯¼ì´ ìì¼ë¯ë¡ ì°ë¦¬ ì´ë¦° ìì´ë¤ì ê·¸ ê²¬ê³ í ì±ìì ê±°ì£¼íê² í íì ì°ë¦¬ë ë¬´ì¥íê³  ì´ì¤ë¼ì ììì ê·¸ ê³³ì¼ë¡ ì¸ëíê¸°ê¹ì§ ê·¸ë¤ì ììì ê°ê³",
+      "ita": "<span class=\"verse-number\">17</span> ma, quanto a noi, ci terremo pronti, in armi, per marciare alla testa dei figli dâIsraele, finchÃ© li avremo condotti al luogo loro destinato; intanto, i nostri figli dimoreranno nelle cittÃ  forti a motivo degli abitanti del paese."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>We will not return unto our houses, until the children of Israel have inherited every man his inheritance.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙÙØ§ ÙÙØ±ÙØ¬ÙØ¹Ù Ø¥ÙÙÙÙ Ø¨ÙÙÙÙØªÙÙÙØ§ Ø­ÙØªÙÙÙ ÙÙÙÙØªÙÙÙÙÙ ÙÙÙÙÙ ÙÙØ§Ø­ÙØ¯Ù ÙÙÙÙ Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ÙÙØµÙÙØ¨ÙÙÙ ÙÙÙÙ Ø§ÙÙÙÙÙØ±ÙØ§Ø«Ù.",
+      "jpn": "<span class=\"verse-number\">18</span> ããããã¯ã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ãããã®ãã®ãã®<ruby><rb>å£</rb><rt>ã</rt></ruby><ruby><rb>æ¥­</rb><rt>ããã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¾ã§ã¯ã<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¸°</rb><rt>ãã</rt></ruby>ãã¾ããã",
+      "zhs": "<span class=\"verse-number\">18ã</span>æä»¬ä¸åå®¶ï¼ç´ç­å°<u>ä»¥è²å</u>äººåæ¿åèªå·±çäº§ä¸ã",
+      "zht": "<span class=\"verse-number\">18ã</span>æåä¸åå®¶ï¼ç´ç­å°<u>ä»¥è²å</u>äººåæ¿åèªå·±çç¢æ¥­ã",
+      "spa": "<span class=\"verse-number\">18 </span>No volveremos a nuestras casas hasta que cada uno de los hijos de Israel posea su heredad.",
+      "por": "<span class=\"verse-number\">18</span> NÃ£o voltaremos para nossas casas atÃ© que os filhos de Israel estejam de posse cada um da sua heranÃ§a.",
+      "fra": "<span class=\"verse-number\">18</span> Nous ne retournerons pas dans nos maisons avant que les enfants dâIsraÃ«l aient pris possession chacun de son hÃ©ritageÂ ;",
+      "deu": "<span class=\"verse-number\">18Â </span>Wir wollen nicht eher in unsere HÃ¤user zurÃ¼ckkehren, als bis sÃ¤mtliche Israeliten ihren Erbbesitz empfangen haben;",
+      "kor": "<span class=\"verse-number\">18</span> ì´ì¤ë¼ì ììì´ ê°ê¸° ê¸°ìì ë°ê¸°ê¹ì§ ì°ë¦¬ ì§ì¼ë¡ ëìì¤ì§ ìëíê² ì¬ì¤ë©°",
+      "ita": "<span class=\"verse-number\">18</span> Non torneremo alle nostre case finchÃ© ciascuno dei figli dâIsraele non abbia preso possesso della sua ereditÃ ;"
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØ¥ÙÙÙÙÙÙØ§ ÙÙØ§ ÙÙØ±ÙØ«Ù ÙÙØ¹ÙÙÙÙÙ Ø´ÙÙÙØ¦Ø§Ù ÙÙÙ ØºÙØ±ÙØ¨ÙÙÙÙ ÙÙÙÙØ±Ù Ø§ÙØ£ÙØ±ÙØ¯ÙÙÙÙØ ÙØ£ÙÙÙÙÙÙØ§ ÙÙØ¯Ù Ø­ÙØµÙÙÙÙÙØ§ Ø¹ÙÙÙÙ ÙÙØµÙÙØ¨ÙÙÙØ§ ÙÙÙ Ø§ÙØ£ÙØ±ÙØ§Ø¶ÙÙ Ø§ÙÙÙÙØ§ÙÙØ¹ÙØ©Ù ÙÙÙ Ø´ÙØ±ÙÙÙÙÙÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">19</span> ã¾ãããããã¯ã¨ã«ãã³ã®ããªãã§<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¨ã¨ãã«ã¯<ruby><rb>å£</rb><rt>ã</rt></ruby><ruby><rb>æ¥­</rb><rt>ããã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã¾ãããããããã¯ã¨ã«ãã³ã®ããªããããªãã¡<ruby><rb>æ±</rb><rt>ã²ãã</rt></ruby>ã®<ruby><rb>æ¹</rb><rt>ã»ã</rt></ruby>ã§<ruby><rb>å£</rb><rt>ã</rt></ruby><ruby><rb>æ¥­</rb><rt>ããã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããããã§ããã",
+      "zhs": "<span class=\"verse-number\">19ã</span>æä»¬ä¸åä»ä»¬å¨<u>çº¦æ¦æ²³</u>é£è¾¹ä¸å¸¦ä¹å°ååäº§ä¸ï¼å ä¸ºæä»¬çäº§ä¸æ¯åè½å¨<u>çº¦æ¦æ²³</u>ä¸è¾¹è¿éã",
+      "zht": "<span class=\"verse-number\">19ã</span>æåä¸åä»åå¨<u>ç´æ¦æ²³</u>é£éä¸å¸¶ä¹å°ååç¢æ¥­ï¼å çºæåçç¢æ¥­æ¯åè½å¨<u>ç´æ¦æ²³</u>æ±ééè£¡ã",
+      "spa": "<span class=\"verse-number\">19 </span>Porque no tomaremos heredad con ellos al otro lado del JordÃ¡n ni mÃ¡s allÃ¡, por cuanto tendremos ya nuestra heredad en este lado del JordÃ¡n, al oriente.",
+      "por": "<span class=\"verse-number\">19</span> Porque nÃ£o herdaremos com eles alÃ©m do JordÃ£o, nem mais adiante; porquanto nÃ³s jÃ¡ teremos <span class=\"page-break\" data-page=\"294\"></span>a nossa heranÃ§a aquÃ©m do JordÃ£o ao oriente.",
+      "fra": "<span class=\"verse-number\">19</span> et nous ne possÃ©derons rien avec eux de lâautre cÃ´tÃ© du Jourdain, ni plus loin, puisque nous aurons notre hÃ©ritage de ce cÃ´tÃ©-ci du Jourdain, Ã  lâorient.",
+      "deu": "<span class=\"verse-number\">19Â </span>denn wir beanspruchen keinen Besitz neben ihnen jenseits des Jordan und weiterhin, wenn uns unser Erbbesitz diesseits des Jordan gegen Osten zuteilgeworden ist.â",
+      "kor": "<span class=\"verse-number\">19</span> ì°ë¦¬ë ìë¨ ì´ìª½ ê³§ ëìª½ìì ê¸°ìì ë°ìì¬ì¤ë ê·¸ë¤ê³¼ í¨ê» ìë¨ ì ìª½ììë ê¸°ìì ë°ì§ ìëíê² ëì´ë¤",
+      "ita": "<span class=\"verse-number\">19</span> e non possiederemo nulla con loro al di lÃ  del Giordano e piÃ¹ oltre, poichÃ© la nostra ereditÃ  ci Ã¨ toccata da questa parte del Giordano, a orienteâ."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span><span class=\"para-mark\">Â¶ </span>And Moses said unto them, If ye will do this thing, if ye will go armed before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> to war,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙÙÙØ§ÙÙ ÙÙÙÙÙÙ ÙÙÙØ³ÙÙ: âØ¥ÙÙÙ ÙÙÙÙÙÙØªÙÙÙ Ø¨ÙØ¹ÙÙÙØ¯ÙÙÙÙÙ ÙÙØ­ÙÙÙÙÙØªÙÙÙ Ø§ÙØ³ÙÙÙØ§Ø­Ù ÙÙØ®ÙÙÙØ¶Ù Ø§ÙÙØ­ÙØ±ÙØ¨Ù Ø£ÙÙÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙØ",
+      "jpn": "<span class=\"verse-number\">20</span> ã¢ã¼ã»ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ããããããããªãããããã®ããã«ããã¿ãª<ruby><rb>æ­¦è£</rb><rt>ã¶ãã</rt></ruby>ãã¦<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦<ruby><rb>æ¦</rb><rt>ããã</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">20ã</span><u>æ©è¥¿</u>å¯¹ä»ä»¬è¯´ï¼ä½ ä»¬è¥è¿æ ·è¡ï¼å¨è¶ååé¢åå¸¦çåµå¨åºå»æä»ï¼",
+      "zht": "<span class=\"verse-number\">20ã</span><u>æ©è¥¿</u>å°ä»åèªªï¼ä½ åè¥éæ¨£è¡ï¼å¨è¶åè¯é¢åå¸¶èåµå¨åºå»æä»ï¼",
+      "spa": "<span class=\"verse-number\">20 </span>Entonces les respondiÃ³ MoisÃ©s: Si lo hacÃ©is asÃ­, si os preparÃ¡is para ir delante de JehovÃ¡ a la guerra,",
+      "por": "<span class=\"verse-number\">20</span> EntÃ£o MoisÃ©s lhes disse: Se assim o fizerdes, se vos armardes para a guerra perante o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>,",
+      "fra": "<span class=\"verse-number\">20</span> MoÃ¯se leur ditÂ : Si vous faites cela, si vous vous armez pour combattre devant lâÃternel,",
+      "deu": "<span class=\"verse-number\">20Â </span>Da sagte Mose zu ihnen: âWenn ihr das wirklich tut, dass ihr euch vor dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> zum Kriege rÃ¼stet",
+      "kor": "<span class=\"verse-number\">20</span> ëª¨ì¸ê° ê·¸ë¤ìê² ì´ë¥´ë ëí¬ê° ë§ì¼ ì´ ì¼ì ííì¬ ë¬´ì¥íê³  ì¬í¸ì ììì ê°ì ì¸ì°ë",
+      "ita": "<span class=\"verse-number\">20</span> E MosÃ¨ disse loro: âSe fate questo, se vi armate per andare a combattere davanti allâEterno,"
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>And will go all of you armed over Jordan before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, until he hath driven out his enemies from before him,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØ¹ÙØ¨ÙØ±Ù ÙÙÙÙÙ ÙÙØªÙØ³ÙÙÙÙØ­Ù ÙÙÙÙÙÙÙÙ ÙÙÙÙØ±Ù Ø§ÙØ£ÙØ±ÙØ¯ÙÙÙÙ ÙÙÙÙØ­ÙØ§Ø±ÙØ¨Ù Ø£ÙÙÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø­ÙØªÙÙÙ ÙÙØªÙÙÙÙ Ø·ÙØ±ÙØ¯Ù Ø£ÙØ¹ÙØ¯ÙØ§Ø¦ÙÙÙ ÙÙÙÙ Ø£ÙÙÙØ§ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">21</span> ã¿ãª<ruby><rb>æ­¦è£</rb><rt>ã¶ãã</rt></ruby>ãã¦<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ã¨ã«ãã³<ruby><rb>å·</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ¸¡</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããã®<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ãã<ruby><rb>è¿½</rb><rt>ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¯ã</rt></ruby>ããã¦ã",
+      "zhs": "<span class=\"verse-number\">21ã</span>ææå¸¦åµå¨çäººé½è¦å¨è¶ååé¢åè¿<u>çº¦æ¦æ²³</u>ï¼ç­ä»èµ¶åºä»çä»æï¼",
+      "zht": "<span class=\"verse-number\">21ã</span>ææå¸¶åµå¨çäººé½è¦å¨è¶åè¯é¢åé<u>ç´æ¦æ²³</u>ï¼ç­ä»è¶åºä»çä»æµï¼",
+      "spa": "<span class=\"verse-number\">21 </span>y todos vosotros pasÃ¡is armados el JordÃ¡n delante de JehovÃ¡, hasta que haya echado a sus enemigos de delante de sÃ­,",
+      "por": "<span class=\"verse-number\">21</span> E cada um de vÃ³s, armado, passar o JordÃ£o perante o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, atÃ© que haja lanÃ§ado fora os seus inimigos de diante dele,",
+      "fra": "<span class=\"verse-number\">21</span> si tous ceux de vous qui sâarmeront passent le Jourdain devant lâÃternel jusquâÃ  ce quâil ait chassÃ© ses ennemis loin de sa face,",
+      "deu": "<span class=\"verse-number\">21Â </span>und ihr alle gerÃ¼stet vor den Augen des <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> Ã¼ber den Jordan zieht, bis er seine Feinde vor sich her vertrieben hat,",
+      "kor": "<span class=\"verse-number\">21</span> ëí¬ê° ë¤ ë¬´ì¥íê³  ì¬í¸ì ììì ìë¨ì ê±´ëê°ì ì¬í¸ìê»ì ê·¸ì ììë¥¼ ìê¸° ììì ì«ìë´ìê³",
+      "ita": "<span class=\"verse-number\">21</span> se tutti quelli di voi che si armeranno passeranno il Giordano davanti allâEterno finchÃ© avrÃ  cacciato i suoi nemici dal suo cospetto,"
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>And the land be subdued before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>: then afterward ye shall return, and be guiltless before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, and before Israel; and this land shall be your possession before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙØªÙØ®ÙØ¶ÙØ¹Ù Ø§ÙØ£ÙØ±ÙØ¶Ù Ø¨ÙÙÙÙÙ ÙÙØ¯ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙØ ÙÙØ¨ÙØ¹ÙØ¯ÙÙÙØ§ ØªÙØ±ÙØ¬ÙØ¹ÙÙÙÙØ Ø¹ÙÙÙØ¯ÙØ¦ÙØ°Ù ØªÙÙÙÙÙÙÙÙÙ Ø£ÙØ¨ÙØ±ÙÙÙØ§Ø¡Ù Ø¹ÙÙÙØ¯Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¹ÙÙÙØ¯Ù Ø´ÙØ¹ÙØ¨Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙØ ÙÙØªÙØµÙØ¨ÙØ­Ù ÙÙØ°ÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù ÙÙÙÙÙØ§Ù ÙÙÙÙÙÙ Ø£ÙÙÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ.",
+      "jpn": "<span class=\"verse-number\">22</span> ãã®<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>å¾æ</rb><rt>ãããµã</rt></ruby>ããã¦<ruby><rb>å¾</rb><rt>ã®ã¡</rt></ruby>ã<ruby><rb>å¸°</rb><rt>ãã</rt></ruby>ã£ã¦ãããªãã°ãããªãããã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ããã¤ã¹ã©ã¨ã«ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ããã¨ããã¯ãªãã§ããããããã¦ãã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ããªãããã®<ruby><rb>ææ</rb><rt>ãããã</rt></ruby>ã¨ãªãã§ãããã",
+      "zhs": "<span class=\"verse-number\">22ã</span>é£å°è¢«è¶ååå¶ä¼äºï¼ç¶åä½ ä»¬å¯ä»¥åæ¥ï¼åè¶ååå<u>ä»¥è²å</u>æä¸ºæ ç½ªï¼è¿å°ä¹å¿å¨è¶ååé¢åå½ä½ ä»¬ä¸ºä¸ã",
+      "zht": "<span class=\"verse-number\">22ã</span>é£å°è¢«è¶åè¯å¶ä¼äºï¼ç¶å¾ä½ åå¯ä»¥åä¾ï¼åè¶åè¯å<u>ä»¥è²å</u>æçºç¡ç½ªï¼éå°ä¹å¿å¨è¶åè¯é¢åæ­¸ä½ åçºæ¥­ã",
+      "spa": "<span class=\"verse-number\">22 </span>y sea la tierra sojuzgada delante de JehovÃ¡, luego volverÃ©is y serÃ©is libres de culpa para con JehovÃ¡ y para con Israel; y esta tierra serÃ¡ vuestra en heredad delante de JehovÃ¡.",
+      "por": "<span class=\"verse-number\">22</span> E a terra esteja subjugada perante o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, entÃ£o voltareis depois, e sereis inculpÃ¡veis perante o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> e perante Israel; e esta terra vos serÃ¡ por possessÃ£o perante o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
+      "fra": "<span class=\"verse-number\">22</span> et si vous revenez seulement aprÃ¨s que le pays aura Ã©tÃ© soumis devant lâÃternel, vous serez alors sans reproche vis-Ã -vis de lâÃternel et vis-Ã -vis dâIsraÃ«l, et cette contrÃ©e-ci sera votre propriÃ©tÃ© devant lâÃternel.",
+      "deu": "<span class=\"verse-number\">22Â </span>und ihr erst dann wieder heimkehrt, nachdem das Land vor dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> unterworfen ist, so sollt ihr eurer Verpflichtungen gegen den <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> und gegen Israel ledig sein, und dieses Land soll euch als Erbbesitz vor dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> zuteilwerden.",
+      "kor": "<span class=\"verse-number\">22</span> ê·¸ ëì´ ì¬í¸ì ìì ë³µì¢íê² íìê¸°ê¹ì§ ì¸ì°ë©´ ì¬í¸ì ìììë ì´ì¤ë¼ì ìììë ë¬´ì£íì¬ ëìì¤ê² ê³  ì´ ëì ì¬í¸ì ììì ëí¬ì ìì ê° ëë¦¬ë¼ë§ë",
+      "ita": "<span class=\"verse-number\">22</span> e se tornate solo quando il paese vi sarÃ  sottomesso davanti allâEterno, voi non sarete colpevoli di fronte allâEterno e di fronte a Israele, e questo paese sarÃ  vostra proprietÃ  davanti allâEterno."
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>But if ye will not do so, behold, ye have sinned against the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>: and be sure your sin will find you out.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙÙÙÙÙÙÙ Ø¥ÙÙÙ ÙÙÙÙØ«ÙØªÙÙÙ Ø¨ÙØªÙØ¹ÙÙÙÙØ¯ÙÙÙÙÙ ÙÙØ¥ÙÙÙÙÙÙÙÙ ØªÙØ®ÙØ·ÙØ¦ÙÙÙÙ Ø¥ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ. ÙÙØ«ÙÙÙÙØ§ Ø£ÙÙÙÙ Ø®ÙØ·ÙÙØ¦ÙØªÙÙÙÙÙ Ø³ÙØªÙÙØ§Ø­ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">23</span> ããããããããªããªãã°ãããªãããã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«ããã£ã¦<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¨ãªãããã®<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã¯<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ã<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã«<ruby><rb>å</rb><rt>ãã</rt></ruby>ã¶ãã¨ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">23ã</span>åè¥ä½ ä»¬ä¸è¿æ ·è¡ï¼å°±å¾ç½ªè¶ååï¼è¦ç¥éä½ ä»¬çç½ªå¿è¿½ä¸ä½ ä»¬ã",
+      "zht": "<span class=\"verse-number\">23ã</span>åè¥ä½ åä¸éæ¨£è¡ï¼å°±å¾ç½ªè¶åè¯ï¼è¦ç¥éä½ åçç½ªå¿è¿½ä¸ä½ åã",
+      "spa": "<span class=\"verse-number\">23 </span>Pero si asÃ­ no lo hacÃ©is, he aquÃ­, habrÃ©is pecado ante JehovÃ¡; y sabed que vuestro pecado os alcanzarÃ¡.",
+      "por": "<span class=\"verse-number\">23</span> E se nÃ£o fizerdes assim, eis que pecastes contra o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; porÃ©m sabei que o vosso pecado vos hÃ¡ de achar.",
+      "fra": "<span class=\"verse-number\">23</span> Mais si vous ne faites pas ainsi, vous pÃ©chez contre lâÃternelÂ ; sachez que votre pÃ©chÃ© vous atteindra.",
+      "deu": "<span class=\"verse-number\">23Â </span>Wenn ihr aber nicht so handelt, so habt ihr euch damit gegen den <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> versÃ¼ndigt und werdet die Folgen eurer VersÃ¼ndigung zu fÃ¼hlen bekommen!",
+      "kor": "<span class=\"verse-number\">23</span> ëí¬ê° ë§ì¼ ê·¸ê°ì´ ìëíë©´ ì¬í¸ìê» ë²ì£í¨ì´ë ëí¬ ì£ê° ë°ëì ëí¬ë¥¼ ì°¾ìë¼ ì¤ ìë¼",
+      "ita": "<span class=\"verse-number\">23</span> Ma, se non fate cosÃ¬, voi avrete peccato contro lâEterno; e sappiate che il vostro peccato vi ritroverÃ ."
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>Ø§Ø¨ÙÙÙÙØ§ ÙÙØ¯ÙÙØ§Ù ÙÙÙÙØ³ÙØ§Ø¦ÙÙÙÙÙ ÙÙØ£ÙØ·ÙÙÙØ§ÙÙÙÙÙÙØ ÙÙØ­ÙØ¸ÙØ§Ø¦ÙØ±Ù ÙÙØºÙÙÙÙÙÙÙÙÙØ ÙÙÙÙÙÙÙØ°ÙÙØ§ ÙÙØ§ ØªÙØ¹ÙÙÙÙØ¯ÙØªÙÙÙ Ø¨ÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">24</span> ããªãããã¯<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ãã¡ã®ããã«<ruby><rb>çºã</rb><rt>ã¾ã¡ã¾ã¡</rt></ruby>ã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ã<ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ã®ããã«ãããã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ãªãããããããããªãããã¯<ruby><rb>ç´æ</rb><rt>ãããã</rt></ruby>ãããã¨ã¯<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ããªããã°ãªããªããã",
+      "zhs": "<span class=\"verse-number\">24ã</span>å¦ä»ä½ ä»¬å£ä¸­æåºçï¼åªç®¡å»è¡ï¼ä¸ºä½ ä»¬ç<span class=\"clarity-word\">å¦äºº</span>å­©å­é åï¼ä¸ºä½ ä»¬çç¾ç¾¤ååã",
+      "zht": "<span class=\"verse-number\">24ã</span>å¦ä»ä½ åå£ä¸­æåºçï¼åªç®¡å»è¡ï¼çºä½ åç<span class=\"clarity-word\">å©¦äºº</span>å­©å­é åï¼çºä½ åçç¾ç¾¤å£åã",
+      "spa": "<span class=\"verse-number\">24 </span>Edificaos ciudades para vuestros niÃ±os y corrales para vuestras ovejas, y haced lo que ha salido de vuestra boca.",
+      "por": "<span class=\"verse-number\">24</span> Edificai cidades para os vossos pequeninos, e currais para as vossas ovelhas; e fazei o que saiu da vossa boca.",
+      "fra": "<span class=\"verse-number\">24</span> Construisez des villes pour vos petits enfants et des parcs pour vos troupeaux, et faites ce que vous avez dÃ©clarÃ©.",
+      "deu": "<span class=\"verse-number\">24Â </span>Baut euch also StÃ¤dte fÃ¼r eure Frauen und Kinder und HÃ¼rden fÃ¼r euer Kleinvieh, tut aber auch, was ihr versprochen habt!â",
+      "kor": "<span class=\"verse-number\">24</span> ëí¬ë ì´ë¦° ìì´ë¤ì ìíì¬ ì±ìì ê±´ì¶íê³  ìì ìíì¬ ì°ë¦¬ë¥¼ ì§ì¼ë¼ ê·¸ë¦¬íê³  ëí¬ì ìì´ ë§í ëë¡ ííë¼",
+      "ita": "<span class=\"verse-number\">24</span> Edificatevi delle cittÃ  per i vostri figli e dei recinti per i vostri greggi, e fate quello che la vostra bocca ha proferitoâ."
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>And the children of Gad and the children of Reuben spake unto Moses, saying, Thy servants will do as my lord commandeth.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>ÙÙØ£ÙØ¬ÙØ§Ø¨Ù Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø³ÙØ¨ÙØ·ÙÙÙ Ø¬ÙØ§Ø¯Ù ÙÙØ±ÙØ£ÙÙØ¨ÙÙÙÙÙ ÙÙÙØ³ÙÙ: âØ³ÙÙÙÙÙØ¹ÙÙÙ Ø¹ÙØ¨ÙÙØ¯ÙÙÙ ÙÙØ£ÙÙÙØ±Ù Ø³ÙÙÙÙØ¯ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">25</span> ã¬ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ã«ãã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ã¯ãã¢ã¼ã»ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããã¹ãã¯ããªãã®<ruby><rb>å½</rb><rt>ãã</rt></ruby>ããããã¨ããã«ãããã¾ãã",
+      "zhs": "<span class=\"verse-number\">25ã</span><u>è¿¦å¾</u>å­å­å<u>åä¾¿</u>å­å­å¯¹<u>æ©è¥¿</u>è¯´ï¼ä»äººè¦ç§æä¸»æå©åçå»è¡ã",
+      "zht": "<span class=\"verse-number\">25ã</span><u>è¿¦å¾</u>å­å­«å<u>åä¾¿</u>å­å­«å°<u>æ©è¥¿</u>èªªï¼åäººè¦ç§æä¸»æå©åçå»è¡ã",
+      "spa": "<span class=\"verse-number\">25 </span>Y hablaron los hijos de Gad <span class=\"page-break\" data-page=\"294\"></span>y los hijos de RubÃ©n a MoisÃ©s, diciendo: Tus siervos harÃ¡n como mi seÃ±or ha mandado.",
+      "por": "<span class=\"verse-number\">25</span> EntÃ£o falaram os filhos de Gade, e os filhos de RÃºben a MoisÃ©s, dizendo: Como ordena meu senhor, assim farÃ£o teus servos.",
+      "fra": "<span class=\"verse-number\">25</span> Les fils de Gad et les fils de Ruben dirent Ã  MoÃ¯seÂ : Tes serviteurs feront ce que mon seigneur ordonne.",
+      "deu": "<span class=\"verse-number\">25Â </span>Da gaben die StÃ¤mme Gad und Ruben Mose folgende Zusicherung: âDeine Knechte werden tun, wie du, Herr, gebietest:",
+      "kor": "<span class=\"verse-number\">25</span> ê° ììê³¼ ë¥´ì°ë²¤ ììì´ ëª¨ì¸ìê² ëëµíì¬ ì´ë¥´ë ì£¼ì ì¢ë¤ì¸ ì°ë¦¬ë ì°ë¦¬ ì£¼ì ëªë ¹ëë¡ íí  ê²ì´ë¼",
+      "ita": "<span class=\"verse-number\">25</span> E i figli di Gad e i figli di Ruben parlarono a MosÃ¨, dicendo: âI tuoi servi faranno quello che il mio signore comanda."
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span>Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead:",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>Ø¥ÙØ°Ù ÙÙÙÙÙÙØ«Ù Ø£ÙØ·ÙÙÙØ§ÙÙÙÙØ§ ÙÙÙÙØ³ÙØ§Ø¤ÙÙÙØ§ ÙÙÙÙÙÙØ§Ø´ÙÙÙÙØ§ ÙÙÙÙÙÙÙ Ø¨ÙÙÙØ§Ø¦ÙÙÙÙÙØ§ ÙÙÙ ÙÙØ¯ÙÙÙ Ø¬ÙÙÙØ¹ÙØ§Ø¯ÙØ",
+      "jpn": "<span class=\"verse-number\">26</span> ããããã®<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ãã¡ã¨<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã¨<ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ã¨ããã¹ã¦ã®<ruby><rb>å®¶ç</rb><rt>ãã¡ã</rt></ruby>ã¨ã¯ããã®ã®ã¬ã¢ãã®<ruby><rb>çºã</rb><rt>ã¾ã¡ã¾ã¡</rt></ruby>ã«<ruby><rb>æ®</rb><rt>ã®ã</rt></ruby>ãã¾ãã",
+      "zhs": "<span class=\"verse-number\">26ã</span>æä»¬çå¦»å­ãå­©å­ãç¾ç¾¤ï¼åææçç²çé½è¦çå¨<u>åºå</u>çååã",
+      "zht": "<span class=\"verse-number\">26ã</span>æåçå¦»å­ãå­©å­ãç¾ç¾¤ï¼åææçç²çé½è¦çå¨<u>åºå</u>çååã",
+      "spa": "<span class=\"verse-number\">26 </span>Nuestros niÃ±os, nuestras mujeres, nuestros ganados y todas nuestras bestias estarÃ¡n allÃ­ en las ciudades de Galaad;",
+      "por": "<span class=\"verse-number\">26</span> Os nossos pequeninos, as nossas mulheres, os nossos rebanhos, e todos os nossos animais estarÃ£o aÃ­ nas cidades de Gileade.",
+      "fra": "<span class=\"verse-number\">26</span> Nos petits enfants, nos femmes, nos troupeaux et tout notre bÃ©tail, resteront dans les villes de GalaadÂ ;",
+      "deu": "<span class=\"verse-number\">26Â </span>Unsere Kinder, unsere Frauen, unsere Herden und all unser Nutzvieh sollen hier in den Ortschaften Gileads bleiben,",
+      "kor": "<span class=\"verse-number\">26</span> ì°ë¦¬ì ì´ë¦° ìì´ë¤ê³¼ ìë´ì ì ë¼ì ëª¨ë  ê°ì¶ì ì´ê³³ ê¸¸ë¥´ì ì±ìë¤ì ëê³",
+      "ita": "<span class=\"verse-number\">26</span> I nostri fanciulli, le nostre mogli, le nostre greggi e tutto il nostro bestiame rimarranno qui nelle cittÃ  di Galaad;"
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>But thy servants will pass over, every man armed for war, before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> to battle, as my lord saith.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>Ø¨ÙÙÙÙÙÙÙØ§ ÙÙØ¹ÙØ¨ÙØ±Ù ÙÙÙÙÙ ÙÙÙÙØ®ÙØ±ÙØ·Ù ÙÙÙ Ø§ÙÙØ¬ÙÙÙØ´Ù ÙÙÙÙ Ø¹ÙØ¨ÙÙØ¯ÙÙÙ ÙÙÙÙØ±Ù Ø§ÙØ£ÙØ±ÙØ¯ÙÙÙÙ ÙÙÙÙØ­ÙØ±ÙØ¨Ù Ø£ÙÙÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙØ§ Ø£ÙÙÙØ±Ù Ø³ÙÙÙÙØ¯ÙÙÙØ§â.",
+      "jpn": "<span class=\"verse-number\">27</span> ããããããã¹ãã¯ã¿ãª<ruby><rb>æ­¦è£</rb><rt>ã¶ãã</rt></ruby>ãã¦ãããªãã®<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã¨ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>æ¸¡</rb><rt>ãã</rt></ruby>ã£ã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦<ruby><rb>æ¦</rb><rt>ããã</rt></ruby>ãã¾ããã",
+      "zhs": "<span class=\"verse-number\">27ã</span>ä½ä½ çä»äººï¼å¡å¸¦åµå¨çï¼é½è¦ç§æä¸»æè¯´çè¯ï¼å¨è¶ååé¢åè¿å»æä»ã",
+      "zht": "<span class=\"verse-number\">27ã</span>ä½ä½ çåäººï¼å¡å¸¶åµå¨çï¼é½è¦ç§æä¸»æèªªçè©±ï¼å¨è¶åè¯é¢åéå»æä»ã",
+      "spa": "<span class=\"verse-number\">27 </span>y tus siervos, armados todos para la guerra, pasarÃ¡n delante de JehovÃ¡ a la guerra, de la manera que mi seÃ±or dice.",
+      "por": "<span class=\"verse-number\">27</span> Mas os teus servos passarÃ£o, cada um armado para a guerra, perante o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, para pelejar, como disse meu senhor.",
+      "fra": "<span class=\"verse-number\">27</span> et tes serviteurs, tous armÃ©s pour la guerre, iront combattre devant lâÃternel, comme dit mon seigneur.",
+      "deu": "<span class=\"verse-number\">27Â </span>wir aber, deine Knechte, werden alle, fÃ¼r den Krieg gerÃ¼stet, vor dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> her zum Kampf hinÃ¼berziehen, wie du, Herr, geboten hast.â",
+      "kor": "<span class=\"verse-number\">27</span> ì¢ë¤ì ì°ë¦¬ ì£¼ì ë§ìëë¡ ë¬´ì¥íê³  ì¬í¸ì ììì ë¤ ê±´ëê°ì ì¸ì°ë¦¬ì´ë¤",
+      "ita": "<span class=\"verse-number\">27</span> ma i tuoi servi, tutti quanti armati per la guerra, andranno a combattere davanti allâEterno, come dice il mio signoreâ."
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span>So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙØ£ÙÙÙØµÙÙ Ø¨ÙÙÙÙÙ ÙÙÙØ³ÙÙ Ø£ÙÙÙØ¹ÙØ§Ø²ÙØ§Ø±Ù Ø§ÙÙÙÙØ§ÙÙÙÙ ÙÙÙÙØ´ÙÙØ¹Ù Ø¨ÙÙÙ ÙÙÙÙÙ ÙÙØ±ÙØ¤ÙØ³ÙØ§Ø¡Ù Ø£ÙØ³ÙØ¨ÙØ§Ø·Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ",
+      "jpn": "<span class=\"verse-number\">28</span> ã¢ã¼ã»ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®ãã¨ã«ã¤ãã¦ã<ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ã¨ã¬ã¢ã¶ã«ã¨ããã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¨ã·ã¥ã¢ã¨ãã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã®ããããã¡ã¨ã«<ruby><rb>å½</rb><rt>ãã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">28ã</span>äºæ¯ï¼<u>æ©è¥¿</u>ä¸ºä»ä»¬å±åç¥­å¸<u>ä»¥å©äºæ</u>å<u>å«©</u>çå¿å­<u>çº¦ä¹¦äº</u>ï¼å¹¶<u>ä»¥è²å</u>ä¼æ¯æ´¾çæé¿ï¼",
+      "zht": "<span class=\"verse-number\">28ã</span>æ¼æ¯ï¼<u>æ©è¥¿</u>çºä»åååç¥­å¸<u>ä»¥å©äºæ</u>å<u>å«©</u>çåå­<u>ç´æ¸äº</u>ï¼ä¸¦<u>ä»¥è²å</u>ç¾æ¯æ´¾çæé·ï¼",
+      "spa": "<span class=\"verse-number\">28 </span>Entonces MoisÃ©s los encomendÃ³ al sacerdote Eleazar, y a JosuÃ© hijo de Nun y a los prÃ­ncipes de las casas paternas de los padres de las tribus de los hijos de Israel.",
+      "por": "<span class=\"verse-number\">28</span> EntÃ£o MoisÃ©s deu ordem acerca deles a Eleazar, o sacerdote, e a JosuÃ©, filho de Num, e aos cabeÃ§as das casas dos pais das tribos dos filhos de Israel;",
+      "fra": "<span class=\"verse-number\">28</span> MoÃ¯se donna des ordres Ã  leur sujet au prÃªtre ÃlÃ©azar, Ã  JosuÃ©, fils de Nun, et aux chefs de famille dans les tribus des enfants dâIsraÃ«l.",
+      "deu": "<span class=\"verse-number\">28Â </span>Darauf gab Mose ihretwegen dem Priester Eleasar und Josua, dem Sohn Nuns, und den StammeshÃ¤uptern der Israeliten Anweisung,",
+      "kor": "<span class=\"verse-number\">28</span> ì´ì ëª¨ì¸ê° ê·¸ë¤ì ëíì¬ ì ì¬ì¥ ìë¥´ìì´ê³¼ ëì ìë¤ ì¬í¸ììì ì´ì¤ë¼ì ìì ì§íì ìë ¹ë¤ìê² ëªë ¹íëë¼",
+      "ita": "<span class=\"verse-number\">28</span> Allora MosÃ¨ dette per loro degli ordini al sacerdote Eleazar, a GiosuÃ¨ figlio di Nun e ai capifamiglia delle tribÃ¹ dei figli dâIsraele."
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙØ§Ø¦ÙÙØ§Ù: âØ¥ÙÙÙ Ø¹ÙØ¨ÙØ±Ù ÙÙØ¹ÙÙÙÙÙ ÙÙÙÙØ±Ù Ø§ÙØ£ÙØ±ÙØ¯ÙÙÙÙ ÙÙÙÙÙ ÙÙØªÙØ¬ÙØ±ÙÙØ¯Ù ÙÙÙÙØ­ÙØ±ÙØ¨Ù Ø¨ÙÙÙÙÙ ÙÙØ¯ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø³ÙØ¨ÙØ·ÙÙÙ Ø¬ÙØ§Ø¯Ù ÙÙØ±ÙØ£ÙÙØ¨ÙÙÙÙÙØ ÙÙØªÙÙÙÙ Ø§ÙØ§Ø³ÙØªÙÙÙØ§Ø¡Ù Ø¹ÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶ÙØ ØªÙÙÙØ±ÙÙØ«ÙÙÙÙÙÙÙÙ Ø£ÙØ±ÙØ¶Ù Ø¬ÙÙÙØ¹ÙØ§Ø¯Ù ÙÙÙÙÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">29</span> ããã¦ã¢ã¼ã»ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããã¬ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ãã«ãã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ãããã®ãã®<ruby><rb>æ­¦è£</rb><rt>ã¶ãã</rt></ruby>ãã¦ããªãããã¨<ruby><rb>ä¸ç·</rb><rt>ãã£ãã</rt></ruby>ã«ã¨ã«ãã³ã<ruby><rb>æ¸¡</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>æ¦</rb><rt>ããã</rt></ruby>ã£ã¦ããã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãããªãããã<ruby><rb>å¾æ</rb><rt>ãããµã</rt></ruby>ãããªãã°ãããªãããã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«ã®ã¬ã¢ãã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã<ruby><rb>é å°</rb><rt>ãããã¡</rt></ruby>ã¨ãã¦<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">29ã</span>è¯´ï¼<u>è¿¦å¾</u>å­å­å<u>åä¾¿</u>å­å­ï¼å¡å¸¦åµå¨å¨è¶ååé¢åå»æä»çï¼è¥ä¸ä½ ä»¬ä¸åè¿<u>çº¦æ¦æ²³</u>ï¼é£å°è¢«ä½ ä»¬å¶ä¼äºï¼ä½ ä»¬å°±è¦æ<u>åºå</u>å°ç»ä»ä»¬ä¸ºä¸ã",
+      "zht": "<span class=\"verse-number\">29ã</span>èªªï¼<u>è¿¦å¾</u>å­å­«å<u>åä¾¿</u>å­å­«ï¼å¡å¸¶åµå¨å¨è¶åè¯é¢åå»æä»çï¼è¥èä½ åä¸åé<u>ç´æ¦æ²³</u>ï¼é£å°è¢«ä½ åå¶ä¼äºï¼ä½ åå°±è¦æ<u>åºå</u>å°çµ¦ä»åçºæ¥­ã",
+      "spa": "<span class=\"verse-number\">29 </span>Y les dijo MoisÃ©s: Si los hijos de Gad y los hijos de RubÃ©n pasan con vosotros el JordÃ¡n, armados todos para la guerra delante de JehovÃ¡, luego que la tierra sea sojuzgada delante de vosotros, les darÃ©is la tierra de Galaad en posesiÃ³n;",
+      "por": "<span class=\"verse-number\">29</span> E disse-lhes MoisÃ©s: Se os filhos de Gade, e os filhos de RÃºben passarem convosco o JordÃ£o, armado cada um para a guerra perante o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, e a terra estiver subjugada diante de vÃ³s, em possessÃ£o lhes dareis a terra de Gileade;",
+      "fra": "<span class=\"verse-number\">29</span> Il leur ditÂ : Si les fils de Gad et les fils de Ruben passent avec vous le Jourdain, tous armÃ©s pour combattre devant lâÃternel, et si le pays est soumis devant vous, vous leur donnerez en propriÃ©tÃ© la contrÃ©e de Galaad.",
+      "deu": "<span class=\"verse-number\">29Â </span>indem er ihnen auftrug: âWenn die Gaditer und Rubeniter, alle WaffenfÃ¤higen, mit euch zum Krieg vor dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> her Ã¼ber den Jordan ziehen, so sollt ihr, wenn das Land unterworfen vor euch daliegt, ihnen das Gebiet Gilead zum Erbbesitz geben;",
+      "kor": "<span class=\"verse-number\">29</span> ëª¨ì¸ê° ê·¸ë¤ìê² ì´ë¥´ë ê° ììê³¼ ë¥´ì°ë²¤ ììì´ ë§ì¼ ê°ê° ë¬´ì¥íê³  ëí¬ì í¨ê» ìë¨ì ê±´ëê°ì ì¬í¸ì ììì ì¸ìì ê·¸ ëì´ ëí¬ ìì í­ë³µíê¸°ì ì´ë¥´ë©´ ê¸¸ë¥´ì ëì ê·¸ë¤ì ìì ë¡ ì¤ ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">29</span> MosÃ¨ disse loro: âSe i figli di Gad e i figli di Ruben passano con voi il Giordano tutti armati per combattere davanti allâEterno, e se il paese sarÃ  sottomesso davanti a voi, darete loro come proprietÃ  il paese di Galaad."
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span>But if they will not pass over <span class=\"page-break\" data-page=\"246\"></span>with you armed, they shall have possessions among you in the land of Canaan.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>ÙÙÙÙÙÙÙÙ Ø¥ÙÙÙ ØªÙÙÙØ§Ø¹ÙØ³ÙÙØ§ Ø¹ÙÙÙ Ø§ÙÙØ¹ÙØ¨ÙÙØ±Ù ÙÙØ®ÙÙÙØ¶Ù Ø§ÙÙØ­ÙØ±ÙØ¨Ù ÙÙØ¹ÙÙÙÙÙØ ÙÙØ¥ÙÙÙÙÙÙÙÙ ØªÙÙÙØ±ÙÙØ«ÙÙÙÙÙÙÙÙ ÙÙÙ ÙÙØ³ÙØ·ÙÙÙÙÙ ÙÙÙ Ø£ÙØ±ÙØ¶Ù ÙÙÙÙØ¹ÙØ§ÙÙâ.",
+      "jpn": "<span class=\"verse-number\">30</span> ãããããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ­¦è£</rb><rt>ã¶ãã</rt></ruby>ãã¦ããªãããã¨<ruby><rb>ä¸ç·</rb><rt>ãã£ãã</rt></ruby>ã«<ruby><rb>æ¸¡</rb><rt>ãã</rt></ruby>ã£ã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ããªããªãã°ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ã«ãã³ã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã§ããªãããã®ãã¡ã«<ruby><rb>é å°</rb><rt>ãããã¡</rt></ruby>ã<ruby><rb>ç²</rb><rt>ã</rt></ruby>ãªããã°ãªããªããã",
+      "zhs": "<span class=\"verse-number\">30ã</span>åè¥ä»ä»¬ä¸å¸¦åµå¨åä½ ä»¬ä¸åè¿å»ï¼å°±è¦å¨<u>è¿¦å</u>å°ä½ ä»¬ä¸­é´å¾äº§ä¸ã",
+      "zht": "<span class=\"verse-number\">30ã</span>åè¥ä»åä¸å¸¶åµå¨åä½ åä¸åéå»ï¼å°±è¦å¨<u>è¿¦å</u>å°ä½ åä¸­éå¾ç¢æ¥­ã",
+      "spa": "<span class=\"verse-number\">30 </span>mas si no pasan armados con vosotros, entonces tendrÃ¡n posesiÃ³n entre vosotros en la tierra de CanaÃ¡n.",
+      "por": "<span class=\"verse-number\">30</span> PorÃ©m se nÃ£o passarem armados convosco, entÃ£o terÃ£o possessÃµes entre vÃ³s na terra de CanaÃ£.",
+      "fra": "<span class=\"verse-number\">30</span> Mais sâils ne marchent pas en armes avec vous, quâils sâÃ©tablissent au milieu de vous dans le pays de Canaan.",
+      "deu": "<span class=\"verse-number\">30Â </span>wenn sie aber nicht kampfgerÃ¼stet mit euch hinÃ¼berziehen, so sollen sie unter euch im Land Kanaan angesiedelt werden.â",
+      "kor": "<span class=\"verse-number\">30</span> ê·¸ë¬ë ë§ì¼ ê·¸ë¤ì´ ëí¬ì í¨ê» ë¬´ì¥íê³  ê±´ëì§ ìëíë©´ ê·¸ë¤ì ê°ëì ëìì ëí¬ì í¨ê» <span class=\"clarity-word\">ëì</span> ìì í  ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">30</span> Ma se non passano armati con voi, avranno la loro proprietÃ  tra voi nel paese di Canaanâ."
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span>And the children of Gad and the children of Reuben answered, saying, As the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> hath said unto thy servants, so will we do.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙØ£ÙØ¬ÙØ§Ø¨Ù Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø³ÙØ¨ÙØ·ÙÙÙ Ø¬ÙØ§Ø¯Ù ÙÙØ±ÙØ£ÙÙØ¨ÙÙÙÙÙ: âÙÙÙÙÙ ÙÙØ§ ØªÙÙÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¨ÙÙÙ ÙÙÙÙ ÙÙØ­ÙÙÙ Ø¹ÙØ¨ÙÙØ¯ÙÙÙ ÙÙÙÙØªÙØ²ÙÙÙ Ø¨ÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">31</span> ã¬ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ãã«ãã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ã¯<ruby><rb>ç­</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããã¹ãã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã¨ããã«ãããã¾ãã",
+      "zhs": "<span class=\"verse-number\">31ã</span><u>è¿¦å¾</u>å­å­å<u>åä¾¿</u>å­å­åç­è¯´ï¼è¶ååææ ·å©åä»äººï¼ä»äººå°±ææ ·è¡ã",
+      "zht": "<span class=\"verse-number\">31ã</span><u>è¿¦å¾</u>å­å­«å<u>åä¾¿</u>å­å­«åç­èªªï¼è¶åè¯ææ¨£å©ååäººï¼åäººå°±ææ¨£è¡ã",
+      "spa": "<span class=\"verse-number\">31 </span>Y los hijos de Gad y los hijos de RubÃ©n respondieron, diciendo: Haremos lo que JehovÃ¡ ha dicho a tus siervos.",
+      "por": "<span class=\"verse-number\">31</span> E responderam os filhos de Gade e os filhos de RÃºben, dizendo: O que o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> falou a teus servos, isso faremos.",
+      "fra": "<span class=\"verse-number\">31</span> Les fils de Gad et les fils de Ruben rÃ©pondirentÂ : Nous ferons ce que lâÃternel a dit Ã  tes serviteurs.",
+      "deu": "<span class=\"verse-number\">31Â </span>Da gaben die Gaditer und Rubeniter folgende ErklÃ¤rung ab: âWie der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> deinen Knechten geboten hat, so wollen wir tun.",
+      "kor": "<span class=\"verse-number\">31</span> ê° ììê³¼ ë¥´ì°ë²¤ ììì´ ëëµíì¬ ì´ë¥´ë ì¬í¸ìê»ì ë¹ì ì ì¢ë¤ìê² ëªë ¹íì  ëë¡ ì°ë¦¬ê° íí  ê²ì´ë¼",
+      "ita": "<span class=\"verse-number\">31</span> E i figli di Gad e i figli di Ruben risposero dicendo: âFaremo come lâEterno ha detto ai tuoi servi."
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span>We will pass over armed before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> into the land of Canaan, that the possession of our inheritance on this side Jordan <span class=\"clarity-word\">may be</span> ours.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØ¥ÙÙÙÙÙÙØ§ ÙÙØ¹ÙØ¨ÙØ±Ù Ø¨ÙÙÙØ§ÙÙÙÙ Ø£ÙØ³ÙÙÙØ­ÙØªÙÙÙØ§ ÙÙÙÙØ­ÙØ§Ø±ÙØ¨Ù Ø¨ÙÙÙÙÙ ÙÙØ¯ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙ Ø£ÙØ±ÙØ¶Ù ÙÙÙÙØ¹ÙØ§ÙÙØ ÙÙÙÙÙÙÙÙÙÙÙØ§ ÙÙØ§ ÙÙØ±ÙØ«Ù ÙÙØµÙÙØ¨Ø§Ù ÙÙÙ ØºÙØ±ÙØ¨ÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¯ÙÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">32</span> ããããã¯<ruby><rb>æ­¦è£</rb><rt>ã¶ãã</rt></ruby>ãã¦ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ã«ãã³ã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã¸<ruby><rb>æ¸¡</rb><rt>ãã</rt></ruby>ã£ã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ãã¾ãããã¨ã«ãã³ã®ããªãã§ãããããã®<ruby><rb>å£</rb><rt>ã</rt></ruby><ruby><rb>æ¥­</rb><rt>ããã</rt></ruby>ããã¤ãã¨ã«ãã¾ããã",
+      "zhs": "<span class=\"verse-number\">32ã</span>æä»¬è¦å¸¦åµå¨ï¼å¨è¶ååé¢åè¿å»ï¼è¿å¥è¿¦åå°ï¼åªæ¯<u>çº¦æ¦æ²³</u>è¿è¾¹ï¼æä»¬æå¾ä¸ºä¸ä¹å°<span class=\"clarity-word\">ä»å½</span>æä»¬ã",
+      "zht": "<span class=\"verse-number\">32ã</span>æåè¦å¸¶åµå¨ï¼å¨è¶åè¯é¢åéå»ï¼é²å¥è¿¦åå°ï¼åªæ¯<u>ç´æ¦æ²³</u>ééï¼æåæå¾çºæ¥­ä¹å°<span class=\"clarity-word\">ä»æ­¸</span>æåã",
+      "spa": "<span class=\"verse-number\">32 </span>Nosotros pasaremos armados delante de JehovÃ¡ a la tierra de CanaÃ¡n, y la posesiÃ³n de nuestra heredad estarÃ¡ en este lado del JordÃ¡n.",
+      "por": "<span class=\"verse-number\">32</span> NÃ³s passaremos armados perante o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> Ã  terra de CanaÃ£, e teremos a possessÃ£o de nossa heranÃ§a aquÃ©m do JordÃ£o.",
+      "fra": "<span class=\"verse-number\">32</span> Nous passerons en armes devant lâÃternel au pays de CanaanÂ ; mais que nous possÃ©dions notre hÃ©ritage de ce cÃ´tÃ©-ci du Jourdain.",
+      "deu": "<span class=\"verse-number\">32Â </span>Wir wollen kampfgerÃ¼stet vor dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> her in das Land Kanaan hinÃ¼berziehen, damit uns unser Erbbesitz diesseits des Jordan verbleibt.â",
+      "kor": "<span class=\"verse-number\">32</span> ì°ë¦¬ê° ë¬´ì¥íê³  ì¬í¸ì ììì ê°ëì ëì ê±´ëê°ì ìë¨ ì´ìª½ì ì°ë¦¬ê° ìì í  ê¸°ìì´ ëê² íë¦¬ì´ë¤",
+      "ita": "<span class=\"verse-number\">32</span> Passeremo in armi, davanti allâEterno, nel paese di Canaan; ma il possesso della nostra ereditÃ  resti per noi di qua dal Giordanoâ."
+    },
+    "33": {
+      "eng": "<span class=\"verse-number\">33 </span>And Moses gave unto them, <span class=\"clarity-word\">even</span> to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, <span class=\"clarity-word\">even</span> the cities of the country round about.",
+      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>ÙÙÙÙÙÙØ¨Ù ÙÙÙØ³ÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø³ÙØ¨ÙØ·ÙÙÙ Ø¬ÙØ§Ø¯Ù ÙÙØ±ÙØ£ÙÙØ¨ÙÙÙÙÙ ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙØµÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙØ³ÙÙÙ Ø¨ÙÙÙ ÙÙÙØ³ÙÙÙ ÙÙÙÙÙÙÙÙØ©Ù Ø³ÙÙØ­ÙÙÙÙ ÙÙÙÙÙÙ Ø§ÙØ£ÙÙÙÙØ±ÙÙÙÙÙÙÙØ ÙÙÙÙÙÙÙÙÙÙØ©Ù Ø¹ÙÙØ¬Ù ÙÙÙÙÙÙ Ø¨ÙØ§Ø´ÙØ§ÙÙ Ø¨ÙÙÙØ§ ÙÙÙÙÙÙÙØ§ ÙÙÙÙ Ø£ÙØ±ÙØ§Ø¶Ù ÙÙÙÙØ¯ÙÙÙ ÙÙØ§ÙÙØ¹ÙØ©Ù Ø¶ÙÙÙÙÙ Ø­ÙØ¯ÙÙØ¯ÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">33</span> ããã§ã¢ã¼ã»ã¯ã¬ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ãã«ãã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ãã¨ã»ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããã»ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ãªã</rt></ruby>ã°ã¨ã«ãã¢ã¢ãªã³ã¨ã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã·ãã³ã®<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ã¨ããã·ã£ã³ã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ãªã°ã®<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ã¨ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããããªãã¡ããã®<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ããã³ãã®<ruby><rb>é å</rb><rt>ããããªã</rt></ruby>ã®<ruby><rb>çºã</rb><rt>ã¾ã¡ã¾ã¡</rt></ruby>ã¨ãã®<ruby><rb>çºã</rb><rt>ã¾ã¡ã¾ã¡</rt></ruby>ã®<ruby><rb>å¨å²</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã¨ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">33ã</span><u>æ©è¥¿</u>å°<u>äºæ©å©</u>ç<u>è¥¿å®</u>çå½å<u>å·´ç</u>ç<u>å©</u>çå½ï¼è¿é£å°åå¨å´çåéï¼é½ç»äº<u>è¿¦å¾</u>å­å­å<u>åä¾¿</u>å­å­ï¼å¹¶<u>çº¦ç</u>çå¿å­<u>çæ¿è¥¿</u>åä¸ªæ¯æ´¾ã",
+      "zht": "<span class=\"verse-number\">33ã</span><u>æ©è¥¿</u>å°<u>äºæ©å©</u>ç<u>è¥¿å®</u>çåå<u>å·´ç</u>ç<u>å©</u>çåï¼é£é£å°åå¨åçåéï¼é½çµ¦äº<u>è¿¦å¾</u>å­å­«å<u>åä¾¿</u>å­å­«ï¼ä¸¦<u>ç´ç</u>çåå­<u>çªæ¿è¥¿</u>ååæ¯æ´¾ã",
+      "spa": "<span class=\"verse-number\">33 </span>AsÃ­ les dio MoisÃ©s a los hijos de Gad, y a los hijos de RubÃ©n y a la media tribu de ManasÃ©s hijo de JosÃ©, el reino de SehÃ³n, rey amorreo, y el reino de Og, rey de BasÃ¡n: la tierra con sus ciudades, y con sus territorios y con las ciudades alrededor.",
+      "por": "<span class=\"verse-number\">33</span> Assim, deu-lhes MoisÃ©s, aos filhos de Gade, e aos filhos de RÃºben, e Ã  meia tribo de ManassÃ©s, filho de JosÃ©, o reino de Siom, rei dos amorreus, e o reino de Ogue, rei de BasÃ£; a terra com as suas cidades nos <span class=\"clarity-word\">seus</span> termos, as cidades do seu entorno.",
+      "fra": "<span class=\"verse-number\">33</span> MoÃ¯se donna aux fils de Gad, aux fils de Ruben et Ã  la moitiÃ© de la tribu de ManassÃ©, fils de Joseph, le royaume de Sihon, roi des AmorÃ©ens, et le royaume dâOg, roi de Basan, le pays avec ses villes, avec les territoires des villes du pays tout alentour.",
+      "deu": "<span class=\"verse-number\">33Â </span>Darauf wies Mose ihnenÂ â den StÃ¤mmen Gad und Ruben und dem halben Stamm Manasses, des Sohnes Josefs,Â â das Reich des AmoriterkÃ¶nigs Sihon und das Reich des KÃ¶nigs Og vom Baschan zu, das Land mit den darin liegenden StÃ¤dten samt den dazugehÃ¶rigen Gebieten ringsum.",
+      "kor": "<span class=\"verse-number\">33</span> ëª¨ì¸ê° ê° ììê³¼ ë¥´ì°ë²¤ ììê³¼ ììì ìë¤ ë¯ë«ì¸ ë° ì§íìê² ìëª¨ë¦¬ì¸ì ì ìí¼ì ëë¼ì ë°ì° ì ì¥ì ëë¼ë¥¼ ì£¼ë ê³§ ê·¸ ëê³¼ ê·¸ ê²½ë´ì ì±ìë¤ê³¼ ê·¸ ì±ìë¤ì ì¬ë°© ëì ê·¸ë¤ìê² ì£¼ë§¤",
+      "ita": "<span class=\"verse-number\">33</span> MosÃ¨ dunque dette ai figli di Gad, ai figli di Ruben e alla metÃ  della tribÃ¹ di Manasse, figlio di Giuseppe, il regno di Sicon, re degli Amorei, e il regno di Og, re di Basan: il paese, le sue cittÃ  e i territori delle cittÃ  del paese dâintorno."
+    },
+    "34": {
+      "eng": "<span class=\"verse-number\">34 </span><span class=\"para-mark\">Â¶ </span>And the children of Gad built Dibon, and Ataroth, and Aroer,",
+      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>ÙÙØ±ÙÙÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø³ÙØ¨ÙØ·Ù Ø¬ÙØ§Ø¯Ù ÙÙØ¯ÙÙÙ Ø¯ÙÙØ¨ÙÙÙÙ ÙÙØ¹ÙØ·ÙØ§Ø±ÙÙØªÙ ÙÙØ¹ÙØ±ÙÙØ¹ÙÙØ±ÙØ",
+      "jpn": "<span class=\"verse-number\">34</span> ãããã¦ã¬ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ãããã³ãã¢ã¿ã­ããã¢ã­ã¨ã«ã",
+      "zhs": "<span class=\"verse-number\">34ã</span><u>è¿¦å¾</u>å­å­å»ºé <u>åºæ¬</u>ã<u>äºä»å½</u>ã<u>äºç½ç¥</u>ã",
+      "zht": "<span class=\"verse-number\">34ã</span><u>è¿¦å¾</u>å­å­«å»ºé <u>åºæ¬</u>ã<u>äºä»é</u>ã<u>äºç¾ç¥</u>ã",
+      "spa": "<span class=\"verse-number\">34 </span>Y los hijos de Gad edificaron DibÃ³n, y Atarot, y Aroer,",
+      "por": "<span class=\"verse-number\">34</span> E os filhos de Gade edificaram Dibom, e Atarote, e Aroer;",
+      "fra": "<span class=\"verse-number\">34</span> Les fils de Gad bÃ¢tirent Dibon, Atharoth, AroÃ«r,",
+      "deu": "<span class=\"verse-number\">34Â </span>Da bauten die Gaditer Dibon, Atarot, AroÃ«r,",
+      "kor": "<span class=\"verse-number\">34</span> ê° ììì ëë³¸ê³¼ ìë¤ë¡¯ê³¼ ìë¡ìê³¼",
+      "ita": "<span class=\"verse-number\">34</span> E i figli di Gad edificarono Dibon, Atarot, Aroer, Atrot-Shofan,"
+    },
+    "35": {
+      "eng": "<span class=\"verse-number\">35 </span>And Atroth, Shophan, and Jaazer, and Jogbehah,",
+      "ara": "<span class=\"verse-number\">Ù£Ù¥ </span>ÙÙØ¹ÙØ·ÙØ±ÙÙØªÙ Ø´ÙÙÙÙØ§ÙÙ ÙÙÙÙØ¹ÙØ²ÙÙØ±Ù ÙÙÙÙØ¬ÙØ¨ÙÙÙØ©ÙØ",
+      "jpn": "<span class=\"verse-number\">35</span> ã¢ãã­ãã»ã·ã§ãã³ãã¤ã¼ã«ãã¨ã°ããã",
+      "zhs": "<span class=\"verse-number\">35ã</span><u>äºä»å½Â·æå</u>ã<u>éè°¢</u>ã<u>çº¦æ¯å</u>ã",
+      "zht": "<span class=\"verse-number\">35ã</span><u>äºä»éÂ·æå</u>ã<u>éè¬</u>ã<u>ç´æ¯å</u>ã",
+      "spa": "<span class=\"verse-number\">35 </span>y Atarot-sofÃ¡n, y Jazer, y Jogbeha,",
+      "por": "<span class=\"verse-number\">35</span> E Atarote-SofÃ£, e Jazer, e JogbeÃ¡;",
+      "fra": "<span class=\"verse-number\">35</span> Athroth-Schophan, Jaezer, Jogbeha,",
+      "deu": "<span class=\"verse-number\">35Â </span>Atrot-Schofan, Jaser, Jogboha,",
+      "kor": "<span class=\"verse-number\">35</span> ìë¤ë¡¯ìë°ê³¼ ì¼ìê³¼ ìë¸íì",
+      "ita": "<span class=\"verse-number\">35</span> Iazer, Iogbea,"
+    },
+    "36": {
+      "eng": "<span class=\"verse-number\">36 </span>And Beth-nimrah, and Beth-haran, fenced cities: and folds for sheep.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¦ </span>ÙÙØ¨ÙÙÙØªÙ ÙÙÙÙØ±ÙØ©Ù ÙÙØ¨ÙÙÙØªÙ ÙÙØ§Ø±ÙØ§ÙÙØ ÙÙØ¬ÙØ¹ÙÙÙÙÙÙØ§ ÙÙØ¯ÙÙØ§Ù ÙÙØ­ÙØµÙÙÙÙØ©Ù ÙÙØ¨ÙÙÙÙÙØ§ Ø£ÙÙÙØ¶Ø§Ù Ø­ÙØ¸ÙØ§Ø¦ÙØ±Ù ÙÙØºÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">36</span> ãããã ã©ããããã©ã³ãªã©ã®<ruby><rb>å åº</rb><rt>ããã</rt></ruby>ãª<ruby><rb>çºã</rb><rt>ã¾ã¡ã¾ã¡</rt></ruby>ã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ã<ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ã®ããã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ãã",
+      "zhs": "<span class=\"verse-number\">36ã</span><u>ä¼¯Â·å®æ</u>ã<u>ä¼¯Â·åå°</u>ï¼é½æ¯ååºåãä»ä»¬ååç¾åã",
+      "zht": "<span class=\"verse-number\">36ã</span><u>ä¼¯Â·å¯§æ</u>ã<u>ä¼¯Â·åè­</u>ï¼é½æ¯å åºåãä»ååå£ç¾åã",
+      "spa": "<span class=\"verse-number\">36 </span>y Bet-nimra y Bet-arÃ¡n, ciudades fortificadas, y tambiÃ©n hicieron corrales para ovejas.",
+      "por": "<span class=\"verse-number\">36</span> E Bete-Ninra, e Bete-HarÃ£, cidades fortificadas; e currais de ovelhas.",
+      "fra": "<span class=\"verse-number\">36</span> Beth-Nimra et Beth-Haran, villes fortifiÃ©es, et ils firent des parcs pour les troupeaux.",
+      "deu": "<span class=\"verse-number\">36Â </span>Bet-Nimra und Bet-Haran wieder auf, feste StÃ¤dte und HÃ¼rden fÃ¼r das Kleinvieh.",
+      "kor": "<span class=\"verse-number\">36</span> ë²§ëë¯ë¼ì ë²§íëë¤ì ê²¬ê³ í ì±ìì ê±´ì¶íìê³  ë ìì ìíì¬ ì°ë¦¬ë¥¼ ì§ìì¼ë©°",
+      "ita": "<span class=\"verse-number\">36</span> Bet-Nimra e Bet-Aran, cittÃ  fortificate, e fecero dei recinti per i greggi."
+    },
+    "37": {
+      "eng": "<span class=\"verse-number\">37 </span>And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,",
+      "ara": "<span class=\"verse-number\">Ù£Ù§ </span>ÙÙØ¨ÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø±ÙØ£ÙÙØ¨ÙÙÙÙÙ ÙÙØ¯ÙÙÙ Ø­ÙØ´ÙØ¨ÙÙÙÙ ÙÙØ£ÙÙÙØ¹ÙØ§ÙÙØ©Ù ÙÙÙÙØ±ÙÙÙØªÙØ§ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">37</span> ã¾ãã«ãã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ããã·ãã³ãã¨ã¬ã¢ã¬ãã­ãªã¤ã¿ã¤ã ã",
+      "zhs": "<span class=\"verse-number\">37ã</span><u>åä¾¿</u>å­å­å»ºé <u>å¸å®æ¬</u>ã<u>ä»¥å©äºå©</u>ã<u>åºåäº­</u>ã",
+      "zht": "<span class=\"verse-number\">37ã</span><u>åä¾¿</u>å­å­«å»ºé <u>å¸å¯¦æ¬</u>ã<u>ä»¥å©äºå©</u>ã<u>åºåäº­</u>ã",
+      "spa": "<span class=\"verse-number\">37 </span>Y los hijos de RubÃ©n edificaron HesbÃ³n, y Eleale, y Quiriataim,",
+      "por": "<span class=\"verse-number\">37</span> E os filhos de RÃºben edificaram Hesbom, e Eleal, e Quiriataim;",
+      "fra": "<span class=\"verse-number\">37</span> Les fils de Ruben bÃ¢tirent Hesbon, ÃlealÃ© et KirjathaÃ¯m,",
+      "deu": "<span class=\"verse-number\">37Â </span>Die Rubeniter aber bauten Heschbon, Elale, Kirjatajim,",
+      "kor": "<span class=\"verse-number\">37</span> ë¥´ì°ë²¤ ììì í¤ì¤ë³¸ê³¼ ìë¥´ìë ì ê¸°ë´ë¤ìê³¼",
+      "ita": "<span class=\"verse-number\">37</span> E i figli di Ruben edificarono Eshbon, ElealÃ¨, Chiriataim, Nebo e Baal-Meon,"
+    },
+    "38": {
+      "eng": "<span class=\"verse-number\">38 </span>And Nebo, and Baal-meon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¨ </span>ÙÙÙÙØ¨ÙÙ ÙÙØ¨ÙØ¹ÙÙÙ ÙÙØ¹ÙÙÙÙ Ø§ÙÙÙÙØªÙÙÙÙÙ ØªÙÙÙÙ ØªÙØºÙÙÙÙØ±Ù Ø§Ø³ÙÙÙÙÙÙÙÙÙØ§Ø ÙÙØ³ÙØ¨ÙÙÙØ©Ù ÙÙØ£ÙØ·ÙÙÙÙÙÙØ§ Ø£ÙØ³ÙÙÙØ§Ø¡Ù Ø£ÙØ®ÙØ±ÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØ¯ÙÙÙ Ø§ÙÙÙØªÙÙ Ø¨ÙÙÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">38</span> ããã³<ruby><rb>å¾</rb><rt>ã®ã¡</rt></ruby>ã«<ruby><rb>å</rb><rt>ãª</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ããããã¨ããã¢ã«ã»ã¡ãªã³ã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ãã¾ãã·ããã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ã<ruby><rb>çºã</rb><rt>ã¾ã¡ã¾ã¡</rt></ruby>ã«<ruby><rb>æ°</rb><rt>ããã</rt></ruby>ãã<ruby><rb>å</rb><rt>ãª</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">38ã</span><u>å°¼æ³¢</u>ã<u>å·´åÂ·å</u>ã<u>è¥¿æ¯ç</u>ï¼<u>å°¼æ³¢</u>ã<u>å·´åÂ·å</u>ï¼åå­æ¯æ¹äºçï¼ï¼åç»ä»ä»¬æå»ºé çåå¦èµ·å«åã",
+      "zht": "<span class=\"verse-number\">38ã</span><u>å°¼æ³¢</u>ã<u>å·´åÂ·å</u>ã<u>è¥¿æ¯çª</u>ï¼<u>å°¼æ³¢</u>ã<u>å·´åÂ·å</u>ï¼åå­æ¯æ¹äºçï¼ï¼åçµ¦ä»åæå»ºé çåå¦èµ·å¥åã",
+      "spa": "<span class=\"verse-number\">38 </span>y Nebo, y Baal-meÃ³n (con los nombres cambiados) y Sibma; y pusieron otros nombres a las ciudades que edificaron.",
+      "por": "<span class=\"verse-number\">38</span> E Nebo, e Baal-Meom, mudando-lhes o nome, e Sibma; e os nomes das cidades que edificaram chamaram por <span class=\"clarity-word\">outros</span> nomes.",
+      "fra": "<span class=\"verse-number\">38</span> Nebo et Baal-Meon, dont les noms furent changÃ©s, et Sibma, et ils donnÃ¨rent des noms aux villes quâils bÃ¢tirent.",
+      "deu": "<span class=\"verse-number\">38Â </span>Nebo, Baal-Meon [deren Namen geÃ¤ndert wurden] und Sibma wieder auf; sie gaben aber den StÃ¤dten, die sie wieder aufgebaut hatten, andere Namen.",
+      "kor": "<span class=\"verse-number\">38</span> ëë³´ì ë°ìë¯ì¨ë¤ì ê±´ì¶íê³  ê·¸ ì´ë¦ì ë°ê¾¸ìê³  ë ì­ë§ë¥¼ ê±´ì¶íê³  ê±´ì¶í ì±ìë¤ì ì ì´ë¦ì ì£¼ìê³",
+      "ita": "<span class=\"verse-number\">38</span> i cui nomi furono cambiati, e Sibma, e dettero dei nomi alle cittÃ  che edificarono."
+    },
+    "39": {
+      "eng": "<span class=\"verse-number\">39 </span>And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which <span class=\"clarity-word\">was</span> in it.",
+      "ara": "<span class=\"verse-number\">Ù£Ù© </span>ÙÙØªÙÙÙØ¬ÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙØ§ÙÙÙØ±Ù ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙØ³ÙÙÙ ÙÙØ­ÙÙÙ Ø¬ÙÙÙØ¹ÙØ§Ø¯Ù ÙÙØ§Ø³ÙØªÙÙÙÙÙÙÙØ§ Ø¹ÙÙÙÙÙÙÙØ§Ø ÙÙØ·ÙØ±ÙØ¯ÙÙØ§ Ø§ÙØ£ÙÙÙÙØ±ÙÙÙÙÙÙÙ ÙÙÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">39</span> ã¾ãããã»ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã­ã«ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ã®ã¬ã¢ãã«<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ãããã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ãããã®<ruby><rb>ä½æ°</rb><rt>ãããã¿ã</rt></ruby>ã¢ã¢ãªã³ã¨ã<ruby><rb>è¿½</rb><rt>ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¯ã</rt></ruby>ã£ãã®ã§ã",
+      "zhs": "<span class=\"verse-number\">39ã</span>çæ¿è¥¿çå¿å­<u>çå</u>ï¼ä»çå­å­å¾<u>åºå</u>å»ï¼å äºé£å°ï¼èµ¶åºé£éç<u>äºæ©å©</u>äººã",
+      "zht": "<span class=\"verse-number\">39ã</span>çªæ¿è¥¿çåå­<u>çªå</u>ï¼ä»çå­å­«å¾<u>åºå</u>å»ï¼ä½äºé£å°ï¼è¶åºé£è£¡ç<u>äºæ©å©</u>äººã",
+      "spa": "<span class=\"verse-number\">39 </span>Y los hijos de Maquir hijo de ManasÃ©s fueron a Galaad y la tomaron, y echaron al amorreo que estaba en ella.",
+      "por": "<span class=\"verse-number\">39</span> E os filhos de Maquir, filho de ManassÃ©s, foram para Gileade, e a tomaram, e desapossaram os amorreus, que <span class=\"clarity-word\">estavam</span> nela.",
+      "fra": "<span class=\"verse-number\">39</span> Les fils de Makir, fils de ManassÃ©, marchÃ¨rent contre Galaad et sâen emparÃ¨rentÂ ; ils chassÃ¨rent les AmorÃ©ens qui y Ã©taient.",
+      "deu": "<span class=\"verse-number\">39Â </span>Die SÃ¶hne Machirs aber, des Sohnes Manasses, zogen nach Gilead, eroberten es und trieben die Amoriter aus, die darin wohnten.",
+      "kor": "<span class=\"verse-number\">39</span> ë¯ë«ì¸ì ìë¤ ë§ê¸¸ì ììì ê°ì ê¸¸ë¥´ìì ì³ì ë¹¼ìê³  ê±°ê¸° ìë ìëª¨ë¦¬ì¸ì ì«ìë´ë§¤",
+      "ita": "<span class=\"verse-number\">39</span> E i figli di Machir, figlio di Manasse, andarono nel paese di Galaad, lo presero, e ne cacciarono gli Amorei che vi stavano."
+    },
+    "40": {
+      "eng": "<span class=\"verse-number\">40 </span>And Moses gave Gilead unto Machir the son of Manasseh; and he dwelt therein.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù  </span>ÙÙÙÙÙÙØ¨Ù ÙÙÙØ³ÙÙ Ø¬ÙÙÙØ¹ÙØ§Ø¯Ù ÙÙÙÙØ³ÙÙÙ ÙÙØ§ÙÙÙØ±Ù Ø¨ÙÙÙ ÙÙÙÙØ³ÙÙÙ ÙÙØ£ÙÙÙØ§ÙÙÙØ§ ÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">40</span> ã¢ã¼ã»ã¯ã®ã¬ã¢ããããã»ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã­ã«ã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãã¦ããã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ã¾ãããã",
+      "zhs": "<span class=\"verse-number\">40ã</span><u>æ©è¥¿</u>å°åºåèµç»<u>çæ¿è¥¿</u>çå¿å­<u>çå</u>ï¼ä»<span class=\"clarity-word\">å­å­</span>å°±ä½å¨é£éã",
+      "zht": "<span class=\"verse-number\">40ã</span><u>æ©è¥¿</u>å°åºåè³çµ¦<u>çªæ¿è¥¿</u>çåå­<u>çªå</u>ï¼ä»<span class=\"clarity-word\">å­å­«</span>å°±ä½å¨é£è£¡ã",
+      "spa": "<span class=\"verse-number\">40 </span>Y MoisÃ©s dio Galaad a Maquir hijo de ManasÃ©s, el cual habitÃ³ en ella.",
+      "por": "<span class=\"verse-number\">40</span> Assim, MoisÃ©s deu Gileade a Maquir, filho de ManassÃ©s, o qual habitou nela.",
+      "fra": "<span class=\"verse-number\">40</span> MoÃ¯se donna Galaad Ã  Makir, fils de ManassÃ©, qui sây Ã©tablit.",
+      "deu": "<span class=\"verse-number\">40Â </span>Mose verlieh dann Gilead Machir, dem Sohn Manasses, und dieser siedelte sich dort an.",
+      "kor": "<span class=\"verse-number\">40</span> ëª¨ì¸ê° ê¸¸ë¥´ìì ë¯ë«ì¸ì ìë¤ ë§ê¸¸ìê² ì£¼ë§¤ ê·¸ê° ê±°ê¸° ê±°ì£¼íìê³",
+      "ita": "<span class=\"verse-number\">40</span> MosÃ¨ dunque dette Galaad a Machir, figlio di Manasse, che vi si stabilÃ¬."
+    },
+    "41": {
+      "eng": "<span class=\"verse-number\">41 </span>And Jair the son of Manasseh went and took the small towns thereof, and called them Havoth-jair.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¡ </span>ÙÙØ§Ø³ÙØªÙÙÙÙÙÙ ÙÙØ§Ø¦ÙÙØ±Ù ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙØ³ÙÙÙ Ø¹ÙÙÙÙ ÙÙØ²ÙØ§Ø±ÙØ¹Ù Ø¬ÙÙÙØ¹ÙØ§Ø¯ÙØ ÙÙØ¯ÙØ¹ÙØ§ÙÙØ§ Ø­ÙÙÙÙÙØ«Ù ÙÙØ§Ø¦ÙÙØ±Ù (ÙÙÙÙØ¹ÙÙÙØ§ÙÙØ§ ÙÙØ±ÙÙ ÙÙØ§Ø¦ÙÙØ±Ù).",
+      "jpn": "<span class=\"verse-number\">41</span> ã¾ãããã»ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¤ã¤ã«ã¯<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦<ruby><rb>æã</rb><rt>ãããã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ãããããããªãã¤ã¤ã«ã¨<ruby><rb>å</rb><rt>ãª</rt></ruby>ã¥ããã",
+      "zhs": "<span class=\"verse-number\">41ã</span><u>çæ¿è¥¿</u>çå­å­<u>çç¥</u>å»å äº<u>åºå</u>çæåºï¼å°±ç§°è¿äºæåºä¸º<u>åå­ç¹Â·çç¥</u>ã",
+      "zht": "<span class=\"verse-number\">41ã</span><u>çªæ¿è¥¿</u>çå­å­«<u>çç¥</u>å»ä½äº<u>åºå</u>çæèï¼å°±ç¨±éäºæèçº<u>åå­ç¹Â·çç¥</u>ã",
+      "spa": "<span class=\"verse-number\">41 </span>TambiÃ©n Jair hijo de ManasÃ©s fue y tomÃ³ sus aldeas, y les puso por nombre Havot-jair.",
+      "por": "<span class=\"verse-number\">41</span> E foi Jair, filho de ManassÃ©s, e tomou as suas aldeias; e chamou-as Havote-Jair.",
+      "fra": "<span class=\"verse-number\">41</span> JaÃ¯r, fils de ManassÃ©, se mit en marche, prit les bourgs et les appela bourgs de JaÃ¯r.",
+      "deu": "<span class=\"verse-number\">41Â </span>JaÃ¯r aber, der Sohn Manasses, zog hin, bemÃ¤chtigte sich ihrer ZeltdÃ¶rfer und gab ihnen den Namen Hawot-JaÃ¯r.",
+      "kor": "<span class=\"verse-number\">41</span> ë¯ë«ì¸ì ìë¤ ì¼ì¼ì ê°ì ê·¸ ì´ë½ë¤ì ë¹¼ìê³  íë´ì¼ì¼ì´ë¼ ë¶ë ì¼ë©°",
+      "ita": "<span class=\"verse-number\">41</span> Iair, figlio di Manasse, andÃ² anchâegli e prese i loro borghi, e li chiamÃ² Avvot-Iair."
+    },
+    "42": {
+      "eng": "<span class=\"verse-number\">42 </span>And Nobah went and took Kenath, and the villages thereof, and called it Nobah, after his own name.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¢ </span>ÙÙÙÙØ§ Ø§ÙÙØ·ÙÙÙÙÙ ÙÙÙØ¨ÙØ­Ù ÙÙØªÙÙÙÙÙÙÙÙ ÙÙÙÙØ§Ø©Ù ÙÙØ§ÙÙÙÙØ±ÙÙ Ø§ÙÙÙÙØ­ÙÙØ·ÙØ©Ù Ø¨ÙÙØ§ ÙÙØ£ÙØ·ÙÙÙÙÙ Ø¹ÙÙÙÙÙÙÙØ§ Ø§Ø³ÙÙÙÙÙ âÙÙÙØ¨ÙØ­Ùâ.",
+      "jpn": "<span class=\"verse-number\">42</span> ã¾ãããã¯<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ã±ããã¨ãã®<ruby><rb>æã</rb><rt>ãããã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ãã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã«ãããã£ã¦ããããããã¨<ruby><rb>å</rb><rt>ãª</rt></ruby>ã¥ããã",
+      "zhs": "<span class=\"verse-number\">42ã</span><u>æªå·´</u>å»å äº<u>åºçº³</u>å<u>åºçº³</u>çä¹¡æï¼å°±æèªå·±çåç§°<u>åºçº³</u>ä¸º<u>æªå·´</u>ã",
+      "zht": "<span class=\"verse-number\">42ã</span><u>æªå·´</u>å»ä½äº<u>åºç´</u>å<u>åºç´</u>çéæï¼å°±æèªå·±çåç¨±<u>åºç´</u>çº<u>æªå·´</u>ã",
+      "spa": "<span class=\"verse-number\">42 </span>Asimismo Noba fue y tomÃ³ Kenat y sus aldeas, y la llamÃ³ Noba, conforme a su nombre.",
+      "por": "<span class=\"verse-number\">42</span> E foi NobÃ¡, e tomou Quenate com as suas aldeias; e chamou-a NobÃ¡, segundo o seu nome.",
+      "fra": "<span class=\"verse-number\">42</span> Nobach se mit en marche, prit Kenath avec les villes de son ressort et lâappela Nobach, dâaprÃ¨s son nom.",
+      "deu": "<span class=\"verse-number\">42Â </span>Auch Nobach zog hin, nahm Kenat und die dazugehÃ¶rigen Ortschaften ein und benannte es nach seinem Namen Nobach.",
+      "kor": "<span class=\"verse-number\">42</span> ë¸ë°ë ê°ì ê·¸ë«ê³¼ ê·¸ ë§ìë¤ì ë¹¼ìê³  ìê¸° ì´ë¦ì ë°ë¼ì ë¸ë°ë¼ ë¶ë ëë¼",
+      "ita": "<span class=\"verse-number\">42</span> E Noba andÃ² e prese Chenat coi suoi villaggi, e le diede il suo nome di Noba."
+    }
+  }
+}

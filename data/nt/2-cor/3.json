@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "volume": "nt",
+    "book": "2-cor",
+    "chapter": 3,
+    "headings": {
+      "eng": "The gospel surpasses the law of MosesâWhere the Spirit of the Lord is, there is liberty.",
+      "zhs": "ç¦é³è¶è¶<u>æ©è¥¿</u>å¾æ³ââä¸»ççµå¨åªéï¼é£éå°±æèªç±ã",
+      "zht": "ç¦é³è¶è¶<u>æ©è¥¿</u>å¾æ³ââä¸»çéå¨åªè£¡ï¼é£è£¡å°±æèªç±ã",
+      "spa": "El Evangelio sobrepasa a la ley de MoisÃ©sÂ â Donde estÃ¡ el EspÃ­ritu del SeÃ±or, hay libertad.",
+      "por": "O evangelho supera a lei de MoisÃ©sÂ â Onde estÃ¡ o EspÃ­rito do Senhor, aÃ­ hÃ¡ liberdade.",
+      "fra": "LâÃvangile surpasse la loi de MoÃ¯se. LÃ  oÃ¹ est lâEsprit du Seigneur, lÃ  est la libertÃ©.",
+      "ita": "Il Vangelo Ã¨ superiore alla legge di MosÃ¨ â Dove câÃ¨ lo Spirito del Signore câÃ¨ libertÃ ."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Do we begin again to commend ourselves? or need we, as some <span class=\"clarity-word\">others,</span> epistles of commendation to you, or <span class=\"clarity-word\">letters</span> of commendation from you?",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ØªÙØ±ÙÙØ ÙÙÙÙ ÙÙØ¨ÙØªÙØ¯ÙØ¦Ù ÙÙÙÙØ¯ÙØ­Ù Ø£ÙÙÙÙÙØ³ÙÙÙØ§ ÙÙÙÙ Ø¬ÙØ¯ÙÙØ¯ÙØ Ø£ÙÙÙ ØªÙØ±ÙØ§ÙÙØ§ ÙÙØ­ÙØªÙØ§Ø¬Ù ÙÙØ¨ÙØ¹ÙØ¶ÙÙÙÙÙ Ø¥ÙÙÙÙ Ø±ÙØ³ÙØ§Ø¦ÙÙÙ ØªÙÙÙØµÙÙÙØ©Ù ÙÙØ­ÙÙÙÙÙÙÙØ§ Ø¥ÙÙÙÙÙÙÙÙÙ Ø£ÙÙÙ ÙÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">1</span> ããããã¡ã¯ãã¾ãããã<ruby><rb>èªå·±</rb><rt>ãã</rt></ruby><ruby><rb>æ¨è¦</rb><rt>ãããã</rt></ruby>ãã<ruby><rb>å§</rb><rt>ã¯ã</rt></ruby>ãã¦ããã®ã ããããããã¨ãããã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®ããã«ãããªãããã«ãã¦ãããããã¯ãããªãããããã®<ruby><rb>æ¨è¦</rb><rt>ãããã</rt></ruby><ruby><rb>ç¶</rb><rt>ããã</rt></ruby>ã<ruby><rb>å¿è¦</rb><rt>ã²ã¤ãã</rt></ruby>ãªã®ã ãããã",
+      "zhs": "<span class=\"verse-number\">1ã</span>æä»¬å²æ¯åä¸¾èèªå·±åï¼å²åå«äººç¨äººçèä¿¡ç»ä½ ä»¬ï¼æç¨ä½ ä»¬çèä¿¡ç»äººåï¼",
+      "zht": "<span class=\"verse-number\">1ã</span>æåè±æ¯åèè¦èªå·±åï¼è±åå¥äººç¨äººçè¦ä¿¡çµ¦ä½ åï¼æç¨ä½ åçè¦ä¿¡çµ¦äººåï¼",
+      "spa": "<span class=\"verse-number\">1</span> Â¿Comenzamos otra vez a recomendarnos a nosotros mismos? <span class=\"page-break\" data-page=\"1837\"></span>Â¿O tenemos necesidad, como algunos, de cartas de recomendaciÃ³n para vosotros, o de recomendaciÃ³n de vosotros?",
+      "por": "<span class=\"verse-number\">1</span> Porventura comeÃ§amos outra vez a recomendar-nos a nÃ³s mesmos? Ou necessitamos, como alguns, de cartas de recomendaÃ§Ã£o para vÃ³s, ou de recomendaÃ§Ã£o de vÃ³s?",
+      "fra": "<span class=\"verse-number\">1 </span>CommenÃ§ons-nous de nouveau Ã  nous recommander nous-mÃªmesÂ ? Ou avons-nous besoin, comme quelques-uns, de lettres de recommandation auprÃ¨s de vous ou de votre partÂ ?",
+      "deu": "<span class=\"verse-number\">1</span> Fangen wir schon wieder an, âuns selbst zu empfehlen (= Empfehlungsbriefe auszustellen)â? Nein; oder haben wir etwa, wie gewisse Leute, Empfehlungsbriefe an euch oder von euch nÃ¶tig?",
+      "kor": "<span class=\"verse-number\">1</span> ì°ë¦¬ê° ë¤ì ìì²íê¸°ë¥¼ ììíê² ëë ì°ë¦¬ê° ì´ì° ì´ë¤ ì¬ëì²ë¼ ì¶ì²ìë¥¼ ëí¬ìê² ë¶ì¹ê±°ë í¹ì ëí¬ìê² ë°ê±°ë í  íìê° ìëë",
+      "ita": "<span class=\"verse-number\">1</span> Cominciamo noi di nuovo a raccomandare noi stessi? O abbiamo noi bisogno, come alcuni, di lettere di raccomandazione presso di voi o da voi?"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>Ye are our epistle written in our hearts, known and read of all men:",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØ£ÙÙÙØªÙÙÙ Ø§ÙØ±ÙÙØ³ÙØ§ÙÙØ©Ù Ø§ÙÙÙØªÙÙ ØªÙÙØµÙÙ Ø¨ÙÙÙØ§Ø ÙÙÙÙØ¯Ù ÙÙØªÙØ¨ÙØªÙ ÙÙÙ ÙÙÙÙÙØ¨ÙÙÙØ§Ø Ø­ÙÙÙØ«Ù ÙÙØ³ÙØªÙØ·ÙÙØ¹Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙÙÙÙØ§Ø³Ù Ø£ÙÙÙ ÙÙØ¹ÙØ±ÙÙÙÙÙÙØ§ ÙÙÙÙÙÙØ±ÙØ£ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">2</span> ããããã¡ã®<ruby><rb>æ¨è¦</rb><rt>ãããã</rt></ruby><ruby><rb>ç¶</rb><rt>ããã</rt></ruby>ã¯ãããªããããªã®ã§ãããããã¯ãããããã¡ã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã«ããããã¦ãã¦ããã¹ã¦ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã«<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ããããã¤<ruby><rb>èª­</rb><rt>ã</rt></ruby>ã¾ãã¦ããã",
+      "zhs": "<span class=\"verse-number\">2ã</span>ä½ ä»¬å°±æ¯æä»¬çèä¿¡ï¼åå¨æä»¬çå¿éï¼è¢«ä¼äººæç¥éãæå¿µè¯µçã",
+      "zht": "<span class=\"verse-number\">2ã</span>ä½ åå°±æ¯æåçè¦ä¿¡ï¼å¯«å¨æåçå¿è£¡ï¼è¢«ç¾äººæç¥éãæå¿µèª¦çã",
+      "spa": "<span class=\"verse-number\">2</span> Nuestra carta sois vosotros, escrita en nuestros corazones, conocida y leÃ­da por todos los hombres;",
+      "por": "<span class=\"verse-number\">2</span> VÃ³s sois a nossa carta, escrita em nosso coraÃ§Ã£o, conhecida e lida por todos os homens.",
+      "fra": "<span class=\"verse-number\">2 </span>Câest vous qui Ãªtes notre lettre, Ã©crite dans nos cÅurs, connue et lue de tous les hommes.",
+      "deu": "<span class=\"verse-number\">2</span> Nein, unser Empfehlungsbrief seid ihr: der ist uns ins Herz hineingeschrieben, der wird von aller Welt zur Kenntnis genommen (oder: anerkannt) und gelesen;",
+      "kor": "<span class=\"verse-number\">2</span> ëí¬ë ì°ë¦¬ì í¸ì§ë¼ ì°ë¦¬ ë§ìì ì¼ê³  ë­ ì¬ëì´ ìê³  ì½ë ë°ë¼",
+      "ita": "<span class=\"verse-number\">2</span> Siete voi la nostra lettera, scritta nei nostri cuori, conosciuta e letta da tutti gli uomini;"
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span><span class=\"clarity-word\">Forasmuch as ye are</span> manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙÙÙØ°ÙØ§ ÙÙØªÙØ¨ÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙÙÙ Ø±ÙØ³ÙØ§ÙÙØ©Ù ÙÙÙÙ Ø§ÙÙÙÙØ³ÙÙØ­Ù Ø®ÙØ¯ÙÙÙÙÙØ§ÙÙØ§ ÙÙØ­ÙÙÙØ ÙÙÙÙØ¯Ù ÙÙØªÙØ¨ÙØªÙ ÙÙØ§ Ø¨ÙØ­ÙØ¨ÙØ±Ù Ø¨ÙÙÙ Ø¨ÙØ±ÙÙØ­Ù Ø§ÙÙÙÙ°ÙÙ Ø§ÙÙØ­ÙÙÙÙØ ÙÙÙØ§ ÙÙÙ Ø£ÙÙÙÙÙØ§Ø­Ù Ø­ÙØ¬ÙØ±ÙÙÙÙØ©Ù Ø¨ÙÙÙ ÙÙÙ Ø£ÙÙÙÙÙØ§Ø­Ù Ø§ÙÙÙÙÙÙØ¨Ù Ø§ÙÙØ¨ÙØ´ÙØ±ÙÙÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">3</span> ããã¦ãããªãããã¯<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby><ruby><rb>èªèº«</rb><rt>ããã</rt></ruby>ããããããã¡ãã<ruby><rb>é</rb><rt>ãã</rt></ruby>ãããã­ãªã¹ãã®<ruby><rb>æç´</rb><rt>ã¦ãã¿</rt></ruby>ã§ãã£ã¦ã<ruby><rb>å¢¨</rb><rt>ãã¿</rt></ruby>ã«ããã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>é</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>æ¸</rb><rt>ã</rt></ruby>ããã<ruby><rb>ç³</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ¿</rb><rt>ãã</rt></ruby>ã«ã§ã¯ãªã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æ¿</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ¸</rb><rt>ã</rt></ruby>ããããã®ã§ãããã¨ããã¯ã£ããã¨ããããã¦ããã",
+      "zhs": "<span class=\"verse-number\">3ã</span>ä½ ä»¬ææ¾æ¯åºç£çä¿¡ï¼åçæä»¬ä¿®æçãä¸æ¯ç¨å¢¨åçï¼ä¹æ¯ç¨æ°¸çç¥ççµåçï¼ä¸æ¯åå¨ç³çä¸ï¼ä¹æ¯åå¨å¿çä¸ã",
+      "zht": "<span class=\"verse-number\">3ã</span>ä½ åæé¡¯æ¯åºç£çä¿¡ï¼èèæåä¿®æçãä¸æ¯ç¨å¢¨å¯«çï¼ä¹æ¯ç¨æ°¸çç¥çéå¯«çï¼ä¸æ¯å¯«å¨ç³çä¸ï¼ä¹æ¯å¯«å¨å¿çä¸ã",
+      "spa": "<span class=\"verse-number\">3</span> siendo manifiesto que sois carta de Cristo expedida por nosotros, escrita no con tinta, sino con el EspÃ­ritu del Dios vivo; no en tablas de piedra, sino en tablas de carne del corazÃ³n.",
+      "por": "<span class=\"verse-number\">3</span> Porque <span class=\"clarity-word\">jÃ¡</span> Ã© manifesto que vÃ³s sois a carta de Cristo, ministrada por nÃ³s, e escrita, nÃ£o com tinta, mas com o EspÃ­rito do Deus vivo, nÃ£o em tÃ¡buas de pedra, mas nas tÃ¡buas de carne do coraÃ§Ã£o.",
+      "fra": "<span class=\"verse-number\">3 </span>Vous Ãªtes manifestement une lettre de Christ, Ã©crite, par notre ministÃ¨re, non avec de lâencre, mais avec lâEsprit du Dieu vivant, non sur des tables de pierre, mais sur des tables de chair, sur les cÅurs.",
+      "deu": "<span class=\"verse-number\">3</span> bei euch liegt es ja klar zu Tage, daÃ ihr ein Brief Christi seid, der von uns in seinem Dienst ausgefertigt ist, geschrieben nicht mit Tinte, sondern mit dem Geiste des lebendigen Gottes, nicht auf Tafeln von Stein, sondern auf Herzenstafeln von Fleisch.",
+      "kor": "<span class=\"verse-number\">3</span> ëí¬ë ì°ë¦¬ë¡ ë§ë¯¸ìì ëíë ê·¸ë¦¬ì¤ëì í¸ì§ë ì´ë ë¨¹ì¼ë¡ ì´ ê²ì´ ìëì ì¤ì§ ì´ì ê³ì  íëëì ìì¼ë¡ ì´ ê²ì´ë©° ë ëíì ì´ ê²ì´ ìëì ì¤ì§ ì¡ì ë§ìíì ì´ ê²ì´ë¼",
+      "ita": "<span class=\"verse-number\">3</span> essendo manifesto che voi siete una lettera di Cristo, scritta mediante il nostro ministero, scritta non con inchiostro, ma con lo Spirito del Dio vivente; non su tavole di pietra, ma su tavole che sono cuori di carne."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>And such trust have we through Christ to God-ward:",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙØ°ÙÙÙ ÙÙÙÙ Ø«ÙÙÙØªÙÙÙØ§ Ø§ÙÙØ¹ÙØ¸ÙÙÙÙØ©Ù ÙÙÙÙ Ø¬ÙÙÙØ©Ù Ø§ÙÙÙÙ°ÙÙ Ø¨ÙØ§ÙÙÙÙØ³ÙÙØ­Ù:",
+      "jpn": "<span class=\"verse-number\">4</span> ãããã<ruby><rb>ç¢ºä¿¡</rb><rt>ãããã</rt></ruby>ããããããã¡ã¯ã­ãªã¹ãã«ãã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>å¯¾</rb><rt>ãã</rt></ruby>ãã¦ãã ãã¦ããã",
+      "zhs": "<span class=\"verse-number\">4ã</span>æä»¬å åºç£ï¼æä»¥å¨ç¥é¢åææè¿æ ·çä¿¡å¿ã",
+      "zht": "<span class=\"verse-number\">4ã</span>æåå åºç£ï¼æä»¥å¨ç¥é¢åææéæ¨£çä¿¡å¿ã",
+      "spa": "<span class=\"verse-number\">4</span> Y tal confianza tenemos mediante Cristo para con Dios.",
+      "por": "<span class=\"verse-number\">4</span> E Ã© por Cristo que temos tal confianÃ§a em Deus;",
+      "fra": "<span class=\"verse-number\">4 </span>Cette assurance-lÃ , nous lâavons par Christ auprÃ¨s de Dieu.",
+      "deu": "<span class=\"verse-number\">4</span> Solche Zuversicht haben wir aber durch Christus zu Gott;",
+      "kor": "<span class=\"verse-number\">4</span> ì°ë¦¬ê° ê·¸ë¦¬ì¤ëë¡ ë§ë¯¸ìì íëëì í¥íì¬ ì´ê°ì íì ì´ ìì¼ë",
+      "ita": "<span class=\"verse-number\">4</span> E una tale fiducia noi lâabbiamo per mezzo di Cristo presso Dio."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency <span class=\"clarity-word\">is</span> of God;",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙØ³Ù Ø£ÙÙÙÙÙÙØ§ Ø£ÙØµÙØ­ÙØ§Ø¨Ù ÙÙÙÙØ§Ø¡ÙØ©Ù Ø°ÙØ§ØªÙÙÙÙØ©Ù ÙÙÙÙØ¯ÙÙØ¹ÙÙÙ Ø´ÙÙÙØ¦Ø§Ù ÙØ£ÙÙÙÙÙØ³ÙÙÙØ§Ø Ø¨ÙÙÙ Ø¥ÙÙÙÙ ÙÙÙÙØ§Ø¡ÙØªÙÙÙØ§ ÙÙÙÙ Ø§ÙÙÙÙ°ÙÙØ",
+      "jpn": "<span class=\"verse-number\">5</span> ãã¡ããã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby><ruby><rb>èªèº«</rb><rt>ããã</rt></ruby>ã§<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãã<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã«ãããã¨<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãã®ã§ã¯ãªããããããã¡ã®ãããã<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã¯ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãããã¦ããã",
+      "zhs": "<span class=\"verse-number\">5ã</span>å¹¶ä¸æ¯æä»¬å­èªå·±è½æ¿æä»ä¹äºï¼æä»¬æè½æ¿æçï¼ä¹æ¯åºäºç¥ã",
+      "zht": "<span class=\"verse-number\">5ã</span>ä¸¦ä¸æ¯æåæèªå·±è½æ¿æä»éº¼äºï¼æåæè½æ¿æçï¼ä¹æ¯åºæ¼ç¥ã",
+      "spa": "<span class=\"verse-number\">5</span> No que seamos capaces por nosotros mismos para pensar algo de nosotros mismos, sino que nuestra capacidad es de Dios;",
+      "por": "<span class=\"verse-number\">5</span> NÃ£o que sejamos capazes, por nÃ³s, de pensar alguma coisa, como de nÃ³s mesmos; mas a nossa capacidade <span class=\"clarity-word\">vem</span> de Deus;",
+      "fra": "<span class=\"verse-number\">5 </span>Ce nâest pas Ã  dire que nous soyons par nous-mÃªmes capables de concevoir quelque chose comme venant de nous-mÃªmes. Notre capacitÃ©, au contraire, vient de Dieu.",
+      "deu": "<span class=\"verse-number\">5</span> nicht als ob wir von uns selbst aus tÃ¼chtig wÃ¤ren, etwas auszudenken (oder: Ã¼ber etwas zu urteilen), als stamme es von uns selbst; nein, unsere TÃ¼chtigkeit stammt von Gott.",
+      "kor": "<span class=\"verse-number\">5</span> ì°ë¦¬ê° ë¬´ì¨ ì¼ì´ë ì§ ì°ë¦¬ìê²ì ë ê² ê°ì´ ì¤ì¤ë¡ ë§ì¡±í  ê²ì´ ìëë ì°ë¦¬ì ë§ì¡±ì ì¤ì§ íëëì¼ë¡ë¶í° ëëëë¼",
+      "ita": "<span class=\"verse-number\">5</span> Non che siamo di per noi stessi capaci di pensare alcunchÃ©, come venendo da noi,"
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø§ÙÙÙØ°ÙÙ Ø¬ÙØ¹ÙÙÙÙÙØ§ Ø£ÙØµÙØ­ÙØ§Ø¨Ù ÙÙÙÙØ§Ø¡ÙØ©Ù ÙÙÙÙÙÙÙÙÙ Ø®ÙØ¯ÙÙØ§ÙØ§Ù ÙÙØ¹ÙÙÙØ¯Ù Ø¬ÙØ¯ÙÙØ¯Ù ÙÙØ§Ø¦ÙÙÙ ÙÙØ§ Ø¹ÙÙÙÙ Ø§ÙÙØ­ÙØ±ÙÙÙ Ø¨ÙÙÙ Ø¹ÙÙÙÙ Ø§ÙØ±ÙÙÙØ­Ù. ÙÙØ§ÙÙØ­ÙØ±ÙÙÙ ÙÙØ¤ÙØ¯ÙÙÙ Ø¥ÙÙÙÙ Ø§ÙÙÙÙÙÙØªÙØ Ø£ÙÙÙÙØ§ Ø§ÙØ±ÙÙÙØ­Ù ÙÙÙÙØ¹ÙØ·ÙÙ Ø§ÙÙØ­ÙÙÙØ§Ø©Ù.",
+      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã¯ããããã¡ã«<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãã¦ã<ruby><rb>æ°</rb><rt>ããã</rt></ruby>ãã<ruby><rb>å¥ç´</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¨ãããã®ã§ãããããã¯ã<ruby><rb>æå­</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã§ã¯ãªãã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã§ããã<ruby><rb>æå­</rb><rt>ããã</rt></ruby>ã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">6ã</span>ä»å«æä»¬è½æ¿å½è¿æ°çº¦çæ§äºï¼ä¸æ¯å­çå­å¥ï¼ä¹æ¯å­çç²¾æï¼å ä¸ºé£å­å¥æ¯å«äººæ­»ï¼ç²¾ææ¯å«äººæ´»ã",
+      "zht": "<span class=\"verse-number\">6ã</span>ä»å«æåè½æ¿ç¶éæ°ç´çå·äºï¼ä¸æ¯æèå­å¥ï¼ä¹æ¯æèç²¾æï¼å çºé£å­å¥æ¯å«äººæ­»ï¼ç²¾ææ¯å«äººæ´»ã",
+      "spa": "<span class=\"verse-number\">6</span> el que asimismo nos hizo siervos capaces de un nuevo convenio, no de la letra, sino del espÃ­ritu, porque la letra mata, pero el espÃ­ritu vivifica.",
+      "por": "<span class=\"verse-number\">6</span> O qual nos fez tambÃ©m capazes <span class=\"clarity-word\">de ser</span> ministros do novo testamento, nÃ£o da letra, mas do EspÃ­rito; porque a letra mata, e o EspÃ­rito vivifica.",
+      "fra": "<span class=\"verse-number\">6 </span>Il nous a aussi rendus capables dâÃªtre ministres dâune nouvelle alliance, non de la lettre, mais de lâespritÂ ; car la lettre tue, mais lâesprit vivifie.",
+      "deu": "<span class=\"verse-number\">6</span> <span class=\"para-mark\">Â¶</span> Er ist es auch, der uns tÃ¼chtig gemacht hat zu Dienern des neuen Bundes, (der ein Bund) nicht des Buchstabens, sondern des Geistes (ist); denn der Buchstabe (des Gesetzes) tÃ¶tet, der Geist aber macht lebendig.",
+      "kor": "<span class=\"verse-number\">6</span> ê·¸ê° ëí ì°ë¦¬ë¥¼ ì ì¸ì½ì ì¼ê¾¼ ëê¸°ì ë§ì¡±íê² íì¨ì¼ë ì¨ë² ì¡°ë¬¸ì¼ë¡ íì§ ìëíê³  ì¤ì§ ìì¼ë¡ í¨ì´ë ì¨ë² ì¡°ë¬¸ì ì£½ì´ë ê²ì´ì ìì ì´ë¦¬ë ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">6</span> ma la nostra capacitÃ  viene da Dio, che ci ha anche resi capaci di essere ministri di una nuova alleanza, non di lettera, ma di spirito; perchÃ© la lettera uccide, ma lo spirito vivifica."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>But if the ministration of death, written <span class=\"clarity-word\">and</span> engraven in stones, was glorious, so that the children of Israel could not steadfastly behold the face of Moses for the glory of his countenance; which <span class=\"clarity-word\">glory</span> was to be done away:",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙÙÙÙØ ÙÙØ§Ø¯ÙØ§ÙÙØªÙ Ø®ÙØ¯ÙÙÙØ©Ù Ø§ÙÙÙÙÙÙØªÙ Ø§ÙÙÙØªÙÙ ÙÙÙÙØ´ÙØªÙ Ø­ÙØ±ÙÙÙÙÙÙØ§ ÙÙÙ ÙÙÙÙØ­Ù Ø­ÙØ¬ÙØ±ÙØ ÙÙØ¯Ù Ø§Ø¨ÙØªÙØ¯ÙØ£ÙØªÙ Ø¨ÙÙÙØ¬ÙØ¯ÙØ Ø­ÙØªÙÙÙ Ø¥ÙÙÙÙ Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ÙÙÙÙ ÙÙÙÙØ¯ÙØ±ÙÙØ§ Ø£ÙÙÙ ÙÙØ«ÙØ¨ÙÙØªÙÙØ§ Ø£ÙÙÙØ¸ÙØ§Ø±ÙÙÙÙÙ Ø¹ÙÙÙÙ ÙÙØ¬ÙÙÙ ÙÙÙØ³ÙÙØ Ø¨ÙØ³ÙØ¨ÙØ¨Ù ÙÙØ¬ÙØ¯Ù ÙÙØ¬ÙÙÙÙÙØ Ø°ÙÙÙÙÙ Ø§ÙÙÙÙØ¬ÙØ¯Ù Ø§ÙØ²ÙÙØ§Ø¦ÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">7</span> ãã<ruby><rb>ç³</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å½«</rb><rt>ã»</rt></ruby>ãã¤ãã<ruby><rb>æå­</rb><rt>ããã</rt></ruby>ã«ãã<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¤ã¨ã</rt></ruby>ã<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã®ãã¡ã«<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ããããã®ããã¤ã¹ã©ã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ãã¢ã¼ã»ã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ¶</rb><rt>ã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ãã¹ã<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã®ããã«ããã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ã¤ãããã¨ãã§ããªãã£ãã¨ããã°ã",
+      "zhs": "<span class=\"verse-number\">7ã</span>é£ç¨å­å»å¨ç³å¤´ä¸å±æ­»çèäºå°ä¸æè£åï¼çè³<u>ä»¥è²å</u>äººå <u>æ©è¥¿</u>é¢ä¸çè£åï¼ä¸è½å®ççä»çè¸ï¼è¿è£ååæ¯æ¸æ¸éå»çï¼",
+      "zht": "<span class=\"verse-number\">7ã</span>é£ç¨å­å»å¨ç³é ­ä¸å±¬æ­»çè·äºå°ä¸ææ¦®åï¼çè³<u>ä»¥è²å</u>äººå <u>æ©è¥¿</u>é¢ä¸çæ¦®åï¼ä¸è½å®ççä»çèï¼éæ¦®ååæ¯æ¼¸æ¼¸éå»çï¼",
+      "spa": "<span class=\"verse-number\">7</span> Y si el ministerio de muerte grabado con letras en piedras fue con gloria, tanto que los hijos de Israel no pudieron fijar la vista en la faz de MoisÃ©s a causa de la gloria de su rostro, la cual iba desvaneciÃ©ndose,",
+      "por": "<span class=\"verse-number\">7</span> E se o ministÃ©rio da morte, gravado com letras em pedras, foi para glÃ³ria, de maneira que os filhos de Israel nÃ£o podiam fitar os olhos na face de MoisÃ©s, por causa da glÃ³ria do seu rosto, a qual era transitÃ³ria,",
+      "fra": "<span class=\"verse-number\">7 </span>Or, si le ministÃ¨re de la mort, gravÃ© avec des lettres sur des pierres, a Ã©tÃ© glorieux au point que les fils dâIsraÃ«l ne pouvaient fixer les regards sur le visage de MoÃ¯se, Ã  cause de la gloire de son visage, bien que cette gloire fÃ»t passagÃ¨re,",
+      "deu": "<span class=\"verse-number\">7</span> Wenn nun aber (schon) der Dienst, der den Tod bringt, mit seiner auf Stein eingegrabenen Buchstabenschrift solche Herrlichkeit besaÃ, daÃ die Israeliten das Angesicht Moseâs nicht anzuschauen vermochten wegen des auf seinem Antlitz liegenden Glanzes, der doch wieder verschwand (2. Mos. 34,29â35):",
+      "kor": "<span class=\"verse-number\">7</span> ëì ì¨ì ìê¸´ ì£½ê² íë ì¨ë² ì¡°ë¬¸ì ì§ë¶ë ìê´ì´ ìì´ ì´ì¤ë¼ì ììë¤ì ëª¨ì¸ì ì¼êµ´ì ìì´ì§ ìê´ ëë¬¸ìë ê·¸ ì¼êµ´ì ì£¼ëª©íì§ ëª»íìê±°ë",
+      "ita": "<span class=\"verse-number\">7</span> Ora se il ministero della morte scolpito in lettere su pietre fu circondato di gloria, tanto che i figli dâIsraele non potevano fissare lo sguardo sul volto di MosÃ¨ a motivo della gloria, che pur svaniva, del suo volto,"
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>How shall not the ministration of the spirit be rather glorious?",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø£ÙÙÙÙÙÙÙØ³Ù Ø£ÙØ­ÙØ±ÙÙ Ø£ÙÙÙ ØªÙÙÙÙÙÙ Ø®ÙØ¯ÙÙÙØ©Ù Ø§ÙØ±ÙÙÙØ­Ù Ø±ÙØ§Ø³ÙØ®ÙØ©Ù ÙÙÙ Ø§ÙÙÙÙØ¬ÙØ¯ÙØ",
+      "jpn": "<span class=\"verse-number\">8</span> ã¾ãã¦<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¤ã¨ã</rt></ruby>ã¯ãã¯ããã«<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ãããã®ã§ã¯ãªããããã",
+      "zhs": "<span class=\"verse-number\">8ã</span>ä½åµé£å±çµçèäºå²ä¸æ´æè£ååï¼",
+      "zht": "<span class=\"verse-number\">8ã</span>ä½æ³é£å±¬éçè·äºè±ä¸æ´ææ¦®ååï¼",
+      "spa": "<span class=\"verse-number\">8</span> Â¿cÃ³mo no serÃ¡ mÃ¡s bien con gloria el ministerio del espÃ­ritu?",
+      "por": "<span class=\"verse-number\">8</span> Como nÃ£o serÃ¡ de maior glÃ³ria o ministÃ©rio do EspÃ­rito?",
+      "fra": "<span class=\"verse-number\">8 </span>combien le ministÃ¨re de lâesprit ne sera-t-il pas plus glorieuxÂ !",
+      "deu": "<span class=\"verse-number\">8</span> wie sollte da der Dienst des Geistes (= der im Geiste geschieht) nicht eine noch weit grÃ¶Ãere Herrlichkeit besitzen?",
+      "kor": "<span class=\"verse-number\">8</span> íë¬¼ë©° ìì ì§ë¶ì ëì± ìê´ì´ ìì§ ìëíê² ëë",
+      "ita": "<span class=\"verse-number\">8</span> non sarÃ  il ministero dello Spirito circondato di molta piÃ¹ gloria?"
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>For if the ministration of condemnation <span class=\"clarity-word\">be</span> glory, much more doth the ministration of righteousness exceed in glory.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ¨ÙÙÙØ§ Ø£ÙÙÙÙ Ø§ÙÙØ®ÙØ¯ÙÙÙØ©Ù Ø§ÙÙÙØªÙÙ Ø£ÙØ¯ÙÙØªÙ Ø¥ÙÙÙÙ Ø§ÙØ¯ÙÙÙÙÙÙÙÙÙØ©Ù ÙÙØ§ÙÙØªÙ ÙÙØ¬ÙÙØ¯ÙØ©ÙØ ÙÙØ£ÙØ­ÙØ±ÙÙ ÙÙØ«ÙÙØ±Ø§Ù Ø£ÙÙÙ ØªÙÙÙÙÙÙÙÙØ§ ÙÙÙ Ø§ÙÙÙÙØ¬ÙØ¯Ù Ø§ÙÙØ®ÙØ¯ÙÙÙØ©Ù Ø§ÙÙÙØªÙÙ ØªÙØ¤ÙØ¯ÙÙÙ Ø¥ÙÙÙÙ Ø§ÙÙØ¨ÙØ±ÙÙ.",
+      "jpn": "<span class=\"verse-number\">9</span> ãã<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>å®£å</rb><rt>ãããã</rt></ruby>ãã<ruby><rb>å</rb><rt>ã¤ã¨ã</rt></ruby>ã<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ãããã®ã ã¨ããã°ã<ruby><rb>ç¾©</rb><rt>ã</rt></ruby>ã<ruby><rb>å®£å</rb><rt>ãããã</rt></ruby>ãã<ruby><rb>å</rb><rt>ã¤ã¨ã</rt></ruby>ã¯ãã¯ããã«<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>æº</rb><rt>ã¿</rt></ruby>ã¡ããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">9ã</span>è¥æ¯å®ç½ªçèäºæè£åï¼é£ç§°ä¹çèäºè£åå°±è¶åå¤§äºã",
+      "zht": "<span class=\"verse-number\">9ã</span>è¥æ¯å®ç½ªçè·äºææ¦®åï¼é£ç¨±ç¾©çè·äºæ¦®åå°±è¶ç¼å¤§äºã",
+      "spa": "<span class=\"verse-number\">9</span> Porque si el ministerio de condenaciÃ³n fue <span class=\"clarity-word\">con</span> gloria, mucho mÃ¡s abundarÃ¡ en gloria el ministerio de la justicia.",
+      "por": "<span class=\"verse-number\">9</span> Porque, se o ministÃ©rio da condenaÃ§Ã£o <span class=\"clarity-word\">foi</span> glorioso, muito mais excederÃ¡ em glÃ³ria o ministÃ©rio da justiÃ§a.",
+      "fra": "<span class=\"verse-number\">9 </span>Si le ministÃ¨re de la condamnation a Ã©tÃ© glorieux, le ministÃ¨re de la justice est de beaucoup supÃ©rieur en gloire.",
+      "deu": "<span class=\"verse-number\">9</span> Denn wenn (schon) der Dienst, der die Verurteilung (zum Tode) bringt, Herrlichkeit besitzt (oder: besessen hat), so muÃ der Dienst, der die Gerechtsprechung vermittelt, in noch viel hÃ¶herem Grade Ã¼berreich an Herrlichkeit sein;",
+      "kor": "<span class=\"verse-number\">9</span> ì ì£ì ì§ë¶ë ìê´ì´ ììì¦ ìì ì§ë¶ì ìê´ì´ ëì± ëì¹ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">9</span> Se, infatti, il ministero della condanna fu con gloria, molto piÃ¹ abbonda in gloria il ministero della rettitudine."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>Ø­ÙØªÙÙÙ Ø¥ÙÙÙÙ ÙÙØ§ ÙÙØ¯Ù ÙÙØ¬ÙÙØ¯Ù Ø³ÙØ§Ø¨ÙÙØ§Ù ÙÙØ§ ÙÙÙÙÙÙÙ ÙÙØ¯Ù ÙÙØ¬ÙÙØ¯Ù Ø¹ÙÙÙÙ ÙÙØ°ÙØ§ Ø§ÙÙÙÙØ­ÙÙÙ Ø¨ÙØ§ÙÙÙÙØ¸ÙØ±Ù Ø¥ÙÙÙÙ Ø§ÙÙÙÙØ¬ÙØ¯Ù Ø§ÙÙÙÙØ§Ø¦ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">10</span> ããã¦ããã§ã«<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãããã®ãããã®<ruby><rb>å ´å</rb><rt>ã°ãã</rt></ruby>ãã¯ããã«ã¾ãã£ã<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã®ã¾ãã«ããã®<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã<ruby><rb>å¤±</rb><rt>ãããª</rt></ruby>ã£ãã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">10ã</span>é£ä»åæè£åçï¼å è¿æå¤§çè£åå°±ç®ä¸å¾æè£åäºï¼",
+      "zht": "<span class=\"verse-number\">10ã</span>é£å¾åææ¦®åçï¼å éæ¥µå¤§çæ¦®åå°±ç®ä¸å¾ææ¦®åäºï¼",
+      "spa": "<span class=\"verse-number\">10</span> Porque aun lo que fue glorioso, no es glorioso en este respecto, en comparaciÃ³n con la excelsa gloria.",
+      "por": "<span class=\"verse-number\">10</span> Porque tambÃ©m o que foi glorificado nesta parte nÃ£o foi glorificado, por causa desta excelente glÃ³ria.",
+      "fra": "<span class=\"verse-number\">10 </span>Et, sous ce rapport, ce qui a Ã©tÃ© glorieux ne lâa pas Ã©tÃ©, Ã  cause de cette gloire qui lui est supÃ©rieure.",
+      "deu": "<span class=\"verse-number\">10</span> ja, die auch dort vorhandene Herrlichkeit verschwindet in dieser Beziehung vÃ¶llig gegenÃ¼ber der Ã¼berschwenglichen Herrlichkeit (dieses Dienstes).",
+      "kor": "<span class=\"verse-number\">10</span> ìê´ëìë ê²ì´ ë í° ìê´ì¼ë¡ ë§ë¯¸ìì ì´ì ìê´ë  ê²ì´ ìì¼ë",
+      "ita": "<span class=\"verse-number\">10</span> Anzi, quello che nel primo fu reso glorioso non fu reso veramente glorioso, quando lo si confronta con la gloria di tanto superiore del secondo;"
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>For if that which is done away <span class=\"clarity-word\">was</span> glorious, much more that which remaineth <span class=\"clarity-word\">is</span> glorious.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙØ¥ÙØ°ÙØ§ ÙÙØ§ÙÙ Ø§ÙØ²ÙÙØ§Ø¦ÙÙÙ ÙÙØ¯Ù ØµÙØ§Ø­ÙØ¨ÙÙÙ Ø§ÙÙÙÙØ¬ÙØ¯ÙØ ÙÙØ£ÙØ­ÙØ±ÙÙ ÙÙØ«ÙÙØ±Ø§Ù Ø£ÙÙÙ ÙÙØµÙØ§Ø­ÙØ¨Ù Ø§ÙÙÙÙØ¬ÙØ¯Ù ÙÙØ§ ÙÙÙÙ Ø¨ÙØ§ÙÙ Ø¯ÙØ§Ø¦ÙÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">11</span> ãã<ruby><rb>æ¶</rb><rt>ã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ãã¹ããã®ã<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ããã£ã¦<ruby><rb>ç¾</rb><rt>ããã</rt></ruby>ããã®ãªããã¾ãã¦<ruby><rb>æ°¸å­</rb><rt>ãããã</rt></ruby>ãã¹ããã®ã¯ããã£ã¨<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã®ããã¹ããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">11ã</span>è¥é£åºæçæè£åï¼è¿é¿å­çå°±æ´æè£åäºã",
+      "zht": "<span class=\"verse-number\">11ã</span>è¥é£å»¢æçææ¦®åï¼éé·å­çå°±æ´ææ¦®åäºã",
+      "spa": "<span class=\"verse-number\">11</span> Porque si lo que perece <span class=\"clarity-word\">tuvo</span> gloria, mucho mÃ¡s serÃ¡ la gloria de lo que permanece.",
+      "por": "<span class=\"verse-number\">11</span> Porque, se o que era transitÃ³rio <span class=\"clarity-word\">foi</span> para glÃ³ria, muito mais Ã© em glÃ³ria o que permanece.",
+      "fra": "<span class=\"verse-number\">11 </span>En effet, si ce qui Ã©tait passager a Ã©tÃ© glorieux, ce qui est permanent est bien plus glorieux.",
+      "deu": "<span class=\"verse-number\">11</span> Denn wenn (schon) das VergÃ¤ngliche Herrlichkeit besitzt (oder: besessen hat), so muÃ das Bleibende in einer noch viel grÃ¶Ãeren Herrlichkeit dastehen.",
+      "kor": "<span class=\"verse-number\">11</span> ìì´ì§ ê²ë ìê´ì¼ë¡ ë§ë¯¸ìììì¦ ê¸¸ì´ ìì ê²ì ëì± ìê´ ê°ì´ë° ìëëë¼",
+      "ita": "<span class=\"verse-number\">11</span> perchÃ©, se ciÃ² che doveva sparire fu circondato di gloria, molto piÃ¹ sarÃ  glorioso ciÃ² che Ã¨ duraturo."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>Seeing then that we have such hope, we use great plainness of speech:",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ¥ÙØ°Ù ÙÙÙÙØ§ ÙÙØ°ÙØ§ Ø§ÙØ±ÙÙØ¬ÙØ§Ø¡Ù Ø§ÙÙÙÙØ·ÙÙØ¯ÙØ ÙÙØ¹ÙÙÙÙÙ Ø¨ÙÙÙØ«ÙÙØ±Ù ÙÙÙÙ Ø§ÙÙØ¬ÙØ±ÙØ£ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">12</span> ãããã<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ã¿ããã ãã¦ããã®ã§ãããããã¡ã¯<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããã£ã¦<ruby><rb>å¤§è</rb><rt>ã ããã</rt></ruby>ã«<ruby><rb>èª</rb><rt>ãã</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">12ã</span>æä»¬æ¢æè¿æ ·çç¼æï¼å°±å¤§èè®²è¯´ï¼",
+      "zht": "<span class=\"verse-number\">12ã</span>æåæ¢æéæ¨£çç¼æï¼å°±å¤§è½è¬èªªï¼",
+      "spa": "<span class=\"verse-number\">12</span> AsÃ­ que, teniendo tal esperanza, hablamos con mucha franqueza;",
+      "por": "<span class=\"verse-number\">12</span> Tendo, pois, tal esperanÃ§a, usamos de muita ousadia no falar.",
+      "fra": "<span class=\"verse-number\">12 </span>Ayant donc cette espÃ©rance, nous usons dâune grande libertÃ©,",
+      "deu": "<span class=\"verse-number\">12</span> <span class=\"para-mark\">Â¶</span> Weil wir nun eine solche Hoffnung haben, treten wir auch mit rÃ¼ckhaltlosem Freimut auf",
+      "kor": "<span class=\"verse-number\">12</span> ì°ë¦¬ê° ì´ê°ì ìë§ì´ ìì¼ë¯ë¡ ë´ëí ë§íë¸ë",
+      "ita": "<span class=\"verse-number\">12</span> Avendo dunque una tale speranza, noi usiamo grande franchezza,"
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>And not as Moses, <span class=\"clarity-word\">which</span> put a veil over his face, that the children <span class=\"page-break\" data-page=\"1463\"></span>of Israel could not steadfastly look to the end of that which is abolished:",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙÙÙØ³ÙÙÙØ§ ÙÙÙÙÙØ³ÙÙ Ø§ÙÙÙØ°ÙÙ ÙÙØ¶ÙØ¹Ù Ø­ÙØ¬ÙØ§Ø¨Ø§Ù Ø¹ÙÙÙÙ ÙÙØ¬ÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙØ§ ÙÙØ«ÙØ¨ÙÙØªÙ Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø£ÙÙÙØ¸ÙØ§Ø±ÙÙÙÙÙ Ø¹ÙÙÙÙ ÙÙÙÙØ§ÙÙØ©Ù Ø§ÙØ²ÙÙØ§Ø¦ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">13</span> ããã¦ã¢ã¼ã»ãã<ruby><rb>æ¶</rb><rt>ã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ã£ã¦ãããã®ã®<ruby><rb>æå¾</rb><rt>ããã</rt></ruby>ãã¤ã¹ã©ã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã«<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããã¾ãã¨ãã¦ã<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã«ããããããããããªãã¨ã¯ããªãã",
+      "zhs": "<span class=\"verse-number\">13ã</span>ä¸å<u>æ©è¥¿</u>å°å¸å­èå¨è¸ä¸ï¼å«<u>ä»¥è²å</u>äººä¸è½å®ççå°é£å°åºè<span class=\"clarity-word\">ç</span>ç»å±ã",
+      "zht": "<span class=\"verse-number\">13ã</span>ä¸å<u>æ©è¥¿</u>å°å¸å­èå¨èä¸ï¼å«<u>ä»¥è²å</u>äººä¸è½å®ççå°é£å°å»¢è<span class=\"clarity-word\">ç</span>çµå±ã",
+      "spa": "<span class=\"verse-number\">13</span> y no como MoisÃ©s, <span class=\"clarity-word\">que</span> se ponÃ­a un velo sobre su faz, para que los hijos de Israel no fijasen la vista en el fin de lo que iba desvaneciÃ©ndose.",
+      "por": "<span class=\"verse-number\">13</span> E nÃ£o somos como MoisÃ©s, <span class=\"clarity-word\">que</span> punha um vÃ©u sobre a sua face, para que os filhos de Israel nÃ£o fitassem os olhos no fim do que era transitÃ³rio.",
+      "fra": "<span class=\"verse-number\">13 </span>et nous ne faisons pas comme MoÃ¯se qui mettait un voile sur son visage pour que les fils dâIsraÃ«l ne fixent pas les regards sur la fin de ce qui Ã©tait passager.",
+      "deu": "<span class=\"verse-number\">13</span> und (machen es) nicht wie Mose, (der) eine Decke auf sein Gesicht legte, damit die Israeliten nicht das Ende des verschwindenden (Glanzes) wahrnehmen kÃ¶nnten (2. Mos. 34,29â35).",
+      "kor": "<span class=\"verse-number\">13</span> ì°ë¦¬ë ëª¨ì¸ê° ì´ì¤ë¼ì ììë¤ìê² ì¥ì°¨ ìì´ì§ ê²ì ê²°êµ­ì ì£¼ëª©íì§ ëª»íê² íë ¤ê³  ìê±´ì ê·¸ ì¼êµ´ì ì´ ê² ê°ì´ ìëíë¸ë¼",
+      "ita": "<span class=\"verse-number\">13</span> e non facciamo come MosÃ¨, che si metteva un velo sulla faccia, perchÃ© i figli dâIsraele non fissassero lo sguardo sulla fine di ciÃ² che doveva sparire."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>But their minds were blinded: for until this day remaineth the same veil untaken away in the reading of the old testament; which veil is done away in Christ.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙÙÙÙÙÙÙÙ Ø£ÙØ°ÙÙÙØ§ÙÙÙÙÙÙ ÙÙØ¯Ù Ø£ÙØ¹ÙÙÙÙÙØªÙØ ÙØ£ÙÙÙÙ Ø°ÙÙÙÙÙ Ø§ÙÙØ­ÙØ¬ÙØ§Ø¨Ù ÙÙØ§Ø²ÙØ§ÙÙ ÙÙØ³ÙØ¯ÙÙØ§Ù Ø­ÙØªÙÙÙ Ø§ÙÙÙÙÙÙÙÙ Ø¹ÙÙÙØ¯ÙÙÙØ§ ÙÙÙÙØ±ÙØ£Ù Ø§ÙÙØ¹ÙÙÙØ¯Ù Ø§ÙÙÙÙØ¯ÙÙÙÙØ ÙÙÙÙÙÙ ÙØ§ÙÙØ²ÙØ§ÙÙ Ø¥ÙÙÙØ§ ÙÙÙ Ø§ÙÙÙÙØ³ÙÙØ­Ù",
+      "jpn": "<span class=\"verse-number\">14</span> <ruby><rb>å®é</rb><rt>ãã£ãã</rt></ruby>ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>é</rb><rt>ã«ã¶</rt></ruby>ããªã£ã¦ããã<ruby><rb>ä»æ¥</rb><rt>ããã«ã¡</rt></ruby>ã«<ruby><rb>è³</rb><rt>ãã</rt></ruby>ãã¾ã§ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å¤</rb><rt>ãµã</rt></ruby>ã<ruby><rb>å¥ç´</rb><rt>ãããã</rt></ruby>ã<ruby><rb>æèª­</rb><rt>ããã©ã</rt></ruby>ãã<ruby><rb>å ´å</rb><rt>ã°ãã</rt></ruby>ããã®<ruby><rb>å</rb><rt>ããª</rt></ruby>ããããã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ãããªãã¾ã¾ã§<ruby><rb>æ®</rb><rt>ã®ã</rt></ruby>ã£ã¦ãããããã¯ãã­ãªã¹ãã«ãã£ã¦ã¯ããã¦<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>é¤</rb><rt>ã®ã</rt></ruby>ãããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">14ã</span>ä½ä»ä»¬çå¿å°åç¡¬ï¼ç´å°ä»æ¥è¯µè¯»æ§çº¦çæ¶åï¼è¿å¸å­è¿æ²¡ææ­å»ï¼è¿å¸å­å¨åºç£éå·²ç»åºå»äºã",
+      "zht": "<span class=\"verse-number\">14ã</span>ä½ä»åçå¿å°åç¡¬ï¼ç´å°ä»æ¥èª¦è®èç´çæåï¼éå¸å­éæ²ææ­å»ï¼éå¸å­å¨åºç£è£¡å·²ç¶å»¢å»äºã",
+      "spa": "<span class=\"verse-number\">14</span> Pero el entendimiento de ellos se embotÃ³, porque hasta el dÃ­a de hoy, cuando leen el antiguo testamento, <span class=\"clarity-word\">les</span> queda el mismo velo sin descubrir, el cual por Cristo es quitado.",
+      "por": "<span class=\"verse-number\">14</span> PorÃ©m os seus sentidos foram endurecidos; porque atÃ© <span class=\"clarity-word\">o dia de</span> hoje o mesmo vÃ©u permanece sem ser retirado na leitura do velho testamento, o qual foi por Cristo abolido;",
+      "fra": "<span class=\"verse-number\">14 </span>Mais ils sont devenus durs dâentendement. Car jusquâÃ  ce jour le mÃªme voile demeure quand ils font la lecture de lâAncien Testament, et il ne se lÃ¨ve pas parce que câest en Christ quâil disparaÃ®t.",
+      "deu": "<span class=\"verse-number\">14</span> Indessen ihr geistliches Denken ist verhÃ¤rtet worden; denn bis auf den heutigen Tag ist dieselbe Decke immer noch da, wenn die Schriften des Alten Bundes vorgelesen (oder: von ihnen gelesen) werden, und wird nicht abgetan (= aufgedeckt), weil sie nur in Christus weggenommen wird.",
+      "kor": "<span class=\"verse-number\">14</span> ê·¸ë¬ë ê·¸ë¤ì ë§ìì´ ìê³ íì¬ ì¤ëê¹ì§ë êµ¬ì½ì ì½ì ëì ê·¸ ìê±´ì´ ë²ê²¨ì§ì§ ìëíê³  ìì¼ë ê·¸ ìê±´ì ê·¸ë¦¬ì¤ë ììì ìì´ì§ ê²ì´ë¼",
+      "ita": "<span class=\"verse-number\">14</span> Ma le loro menti furono rese ottuse; infatti, sino al dÃ¬ dâoggi, quando fanno la lettura dellâantica alleanza, lo stesso velo rimane, senza essere rimosso, perchÃ© Ã¨ in Cristo che esso Ã¨ abolito."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>But even unto this day, when Moses is read, the veil is upon their heart.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ØºÙÙÙØ±Ù Ø£ÙÙÙÙ Ø°ÙÙÙÙÙ Ø§ÙÙØ­ÙØ¬ÙØ§Ø¨Ù ÙÙØ§Ø²ÙØ§ÙÙ Ø­ÙØªÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙÙÙÙØ¶ÙÙØ¹Ø§Ù Ø¹ÙÙÙÙ ÙÙÙÙÙØ¨ÙÙÙÙÙ Ø¹ÙÙÙØ¯ÙÙÙØ§ ÙÙÙÙØ±ÙØ£Ù ÙÙØªÙØ§Ø¨Ù ÙÙÙØ³ÙÙ.",
+      "jpn": "<span class=\"verse-number\">15</span> <ruby><rb>ä»æ¥</rb><rt>ããã«ã¡</rt></ruby>ã«<ruby><rb>è³</rb><rt>ãã</rt></ruby>ãããªããã¢ã¼ã»ã®<ruby><rb>æ¸</rb><rt>ãã</rt></ruby>ã<ruby><rb>æèª­</rb><rt>ããã©ã</rt></ruby>ããããã³ã«ããããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã«ããã£ã¦ããã",
+      "zhs": "<span class=\"verse-number\">15ã</span>ç¶èç´å°ä»æ¥ï¼æ¯é¢è¯µè¯»<u>æ©è¥¿</u><span class=\"clarity-word\">ä¹¦</span>çæ¶åï¼å¸å­è¿å¨ä»ä»¬å¿ä¸ã",
+      "zht": "<span class=\"verse-number\">15ã</span>ç¶èç´å°ä»æ¥ï¼æ¯é¢èª¦è®<u>æ©è¥¿</u><span class=\"clarity-word\">æ¸</span>çæåï¼å¸å­éå¨ä»åå¿ä¸ã",
+      "spa": "<span class=\"verse-number\">15</span> Y aun hasta el dÃ­a de hoy, cuando se lee a MoisÃ©s, el velo estÃ¡ puesto sobre el corazÃ³n de ellos.",
+      "por": "<span class=\"verse-number\">15</span> Mas atÃ© <span class=\"clarity-word\">o dia de</span> hoje, quando Ã© lido MoisÃ©s, o vÃ©u estÃ¡ posto sobre o coraÃ§Ã£o deles.",
+      "fra": "<span class=\"verse-number\">15 </span>JusquâÃ  ce jour, quand on lit MoÃ¯se, un voile est jetÃ© sur leurs coeursÂ ;",
+      "deu": "<span class=\"verse-number\">15</span> Ja, bis heute liegt, so oft Mose vorgelesen wird, eine Decke Ã¼ber ihrem Herzen.",
+      "kor": "<span class=\"verse-number\">15</span> ì¤ëê¹ì§ ëª¨ì¸ì ê¸ì ì½ì ëì ìê±´ì´ ê·¸ ë§ìì ë®ìëë¤",
+      "ita": "<span class=\"verse-number\">15</span> Ma fino ad oggi, quando si legge MosÃ¨, un velo rimane steso sul loro cuore;"
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>Nevertheless when it shall turn to the Lord, the veil shall be taken away.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙÙÙÙÙÙ Ø¹ÙÙÙØ¯ÙÙÙØ§ ØªÙØ±ÙØ¬ÙØ¹Ù ÙÙÙÙÙØ¨ÙÙÙÙÙ Ø¥ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙØ ÙÙÙÙØ²ÙØ¹Ù Ø§ÙÙØ­ÙØ¬ÙØ§Ø¨Ù.",
+      "jpn": "<span class=\"verse-number\">16</span> ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å</rb><rt>ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã«ã¯ããã®ãããã¯<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>é¤</rb><rt>ã®ã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">16ã</span>ä½ä»ä»¬çå¿å æ¶å½åä¸»ï¼å¸å­å°±å æ¶é¤å»äºã",
+      "zht": "<span class=\"verse-number\">16ã</span>ä½ä»åçå¿å¹¾ææ­¸åä¸»ï¼å¸å­å°±å¹¾æé¤å»äºã",
+      "spa": "<span class=\"verse-number\">16</span> Pero cuando se conviertan al SeÃ±or, el velo se les quitarÃ¡.",
+      "por": "<span class=\"verse-number\">16</span> PorÃ©m, quando se converterem ao Senhor, <span class=\"clarity-word\">entÃ£o</span> o vÃ©u serÃ¡ retirado.",
+      "fra": "<span class=\"verse-number\">16 </span>mais lorsque les cÅurs se convertissent au Seigneur, le voile est Ã´tÃ©.",
+      "deu": "<span class=\"verse-number\">16</span> Sobald Israel sich aber zum Herrn bekehrt, wird die Decke weggezogen (2. Mos. 34,34).",
+      "kor": "<span class=\"verse-number\">16</span> ê·¸ë¬ë ì¸ì ë ì§ ì£¼ê»ë¡ ëìê°ë©´ ê·¸ ìê±´ì´ ë²ê²¨ì§ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">16</span> quando perÃ² si convertiranno al Signore, il velo sarÃ  rimosso."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>Now the Lord is that Spirit: and where the Spirit of the Lord <span class=\"clarity-word\">is,</span> there <span class=\"clarity-word\">is</span> liberty.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØ¥ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙ Ø§ÙØ±ÙÙÙØ­ÙØ ÙÙØ­ÙÙÙØ«Ù ÙÙÙÙÙÙÙ Ø±ÙÙØ­Ù Ø§ÙØ±ÙÙØ¨ÙÙØ ÙÙÙÙÙÙØ§ÙÙ Ø§ÙÙØ­ÙØ±ÙÙÙÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">17</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>é</rb><rt>ãã</rt></ruby>ã§ãããããã¦ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®ããã¨ããã«ã¯ã<ruby><rb>èªç±</rb><rt>ããã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">17ã</span>ä¸»å°±æ¯é£çµï¼ä¸»ççµå¨åªéï¼é£éå°±å¾ä»¥èªç±ã",
+      "zht": "<span class=\"verse-number\">17ã</span>ä¸»å°±æ¯é£éï¼ä¸»çéå¨åªè£¡ï¼é£è£¡å°±å¾ä»¥èªç±ã",
+      "spa": "<span class=\"verse-number\">17</span> Porque el SeÃ±or es el EspÃ­ritu; y donde estÃ¡ el EspÃ­ritu del SeÃ±or, <span class=\"clarity-word\">allÃ­</span> hay libertad.",
+      "por": "<span class=\"verse-number\">17</span> Ora, o Senhor Ã© o EspÃ­rito; e onde <span class=\"clarity-word\">estÃ¡</span> o EspÃ­rito do Senhor, aÃ­ hÃ¡ liberdade.",
+      "fra": "<span class=\"verse-number\">17 </span>Or, le Seigneur câest lâEspritÂ ; et lÃ  oÃ¹ est lâEsprit du Seigneur, lÃ  est la libertÃ©.",
+      "deu": "<span class=\"verse-number\">17</span> Der Herr aber ist der Geist; wo aber der Geist des Herrn ist, da ist Freiheit.",
+      "kor": "<span class=\"verse-number\">17</span> ì£¼ë ìì´ìë ì£¼ì ìì´ ê³ì  ê³³ìë ìì ê° ìëëë¼",
+      "ita": "<span class=\"verse-number\">17</span> Ora, il Signore Ã¨ lo Spirito; e dove câÃ¨ lo Spirito del Signore, câÃ¨ libertÃ ."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, <span class=\"clarity-word\">even</span> as by the Spirit of the Lord.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙÙÙØ­ÙÙÙ Ø¬ÙÙÙÙØ¹Ø§Ù ÙÙÙÙÙØ§ ÙÙÙÙØ¸ÙØ±Ù Ø¥ÙÙÙÙ ÙÙØ¬ÙØ¯Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø¨ÙÙÙØ¬ÙÙÙÙ ÙÙØ§ÙÙÙÙØ±ÙØ¢Ø©Ù ÙÙØ§ Ø­ÙØ¬ÙØ§Ø¨Ù Ø¹ÙÙÙÙÙÙÙØ§Ø ÙÙØªÙØ¬ÙÙÙÙÙ ÙÙÙÙ ÙÙØ¬ÙØ¯Ù Ø¥ÙÙÙÙ ÙÙØ¬ÙØ¯Ù ÙÙÙÙØ´ÙØ§Ø¨ÙÙÙ Ø§ÙØµÙÙÙØ±ÙØ©Ù Ø§ÙÙÙÙØ§Ø­ÙØ¯ÙØ©Ù Ø¹ÙÙÙÙÙÙÙØ§Ø ÙÙØ°ÙÙÙÙÙ Ø¨ÙÙÙØ¹ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø§ÙØ±ÙÙÙØ­Ù.",
+      "jpn": "<span class=\"verse-number\">18</span> ããããã¡ã¯ã¿ãªã<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ããããªãã«ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã<ruby><rb>é¡</rb><rt>ããã¿</rt></ruby>ã«<ruby><rb>æ </rb><rt>ãã¤</rt></ruby>ãããã«<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ã¤ã¤ã<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ãã<ruby><rb>æ å</rb><rt>ãããã</rt></ruby>ã¸ã¨ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¨<ruby><rb>å</rb><rt>ããª</rt></ruby>ã<ruby><rb>å§¿</rb><rt>ããã</rt></ruby>ã«<ruby><rb>å¤</rb><rt>ã</rt></ruby>ãããã¦ãããããã¯<ruby><rb>é</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¯ãã</rt></ruby>ãã«ããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">18ã</span>æä»¬ä¼äººæ¢ç¶æçè¸å¾ä»¥çè§ä¸»çè£åï¼å¥½åä»éå­éè¿ç§ï¼å°±åæä¸»çå½¢ç¶ï¼è£ä¸å è£ï¼å¦åä»ä¸»ççµåæçã",
+      "zht": "<span class=\"verse-number\">18ã</span>æåç¾äººæ¢ç¶æèèå¾ä»¥çè¦ä¸»çæ¦®åï¼å¥½åå¾é¡å­è£¡è¿ç§ï¼å°±è®æä¸»çå½¢çï¼æ¦®ä¸å æ¦®ï¼å¦åå¾ä¸»çéè®æçã",
+      "spa": "<span class=\"verse-number\">18</span> Por tanto, nosotros todos, mirando a cara descubierta como en un espejo la gloria del SeÃ±or, somos transformados de gloria <span class=\"page-break\" data-page=\"1838\"></span>en gloria en la misma semejanza, como por el EspÃ­ritu del SeÃ±or.",
+      "por": "<span class=\"verse-number\">18</span> Mas todos nÃ³s, com rosto descoberto, refletindo como um espelho a glÃ³ria do Senhor, somos transformados de glÃ³ria em glÃ³ria na mesma imagem, como pelo EspÃ­rito do Senhor.",
+      "fra": "<span class=\"verse-number\">18 </span>Nous tous qui, le visage dÃ©couvert, contemplons comme dans un miroir la gloire du Seigneur, nous sommes transformÃ©s en la mÃªme image, de gloire en gloire, comme par lâEsprit du Seigneur.",
+      "deu": "<span class=\"verse-number\">18</span> Wir alle aber, die wir mit unverhÃ¼lltem Angesicht die Herrlichkeit des Herrn widerspiegeln (oder: sich in uns spiegeln lassen), werden dadurch in das gleiche Bild (oder: in sein Ebenbild) umgestaltet von Herrlichkeit zu Herrlichkeit (= von einer Herrlichkeit zur anderen), wie das (oder: da es ja) vom Herrn des Geistes geschieht.",
+      "kor": "<span class=\"verse-number\">18</span> ì°ë¦¬ê° ë¤ ìê±´ì ë²ì ì¼êµ´ë¡ ê±°ì¸ì ë³´ë ê² ê°ì´ ì£¼ì ìê´ì ë³´ë§¤ ê·¸ì ê°ì íìì¼ë¡ ë³ííì¬ ìê´ìì ìê´ì ì´ë¥´ë ê³§ ì£¼ì ìì¼ë¡ ë§ë¯¸ììì´ëë¼",
+      "ita": "<span class=\"verse-number\">18</span> E noi tutti contemplando a viso scoperto, come in uno specchio, la gloria del Signore, siamo trasformati nella sua stessa immagine, di gloria in gloria, secondo come opera il Signore, che Ã¨ Spirito."
+    }
+  }
+}

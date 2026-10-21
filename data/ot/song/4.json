@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "song",
+    "chapter": 4,
+    "headings": {
+      "eng": "A song describes the beauty of the poetâs beloved.",
+      "spa": "CanciÃ³n que describe la belleza de la amada del poeta.",
+      "por": "CanÃ§Ã£o que descreve a beleza da bem-amada do poeta.",
+      "fra": "Un chant dÃ©crit la beautÃ© de la bien-aimÃ©e du poÃ¨te.",
+      "ita": "Un canto descrive la bellezza dellâamata del poeta."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Behold, thou <span class=\"clarity-word\">art</span> fair, my love; behold, thou <span class=\"clarity-word\">art</span> fair; thou <span class=\"clarity-word\">hast</span> dovesâ eyes within thy locks: thy hair <span class=\"clarity-word\">is</span> as a flock of goats, that appear from mount Gilead.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>(Ø§ÙÙÙÙØ­ÙØ¨ÙÙ): ÙÙØ´ÙÙØ¯Ù ÙÙØ§ Ø£ÙÙÙØªÙ Ø¬ÙÙÙÙÙÙØ©Ù ÙÙØ§ Ø­ÙØ¨ÙÙØ¨ÙØªÙÙØ ÙÙØ´ÙÙØ¯Ù ÙÙØ§ Ø£ÙÙÙØªÙ Ø¬ÙÙÙÙÙÙØ©Ù! Ø¹ÙÙÙÙÙØ§ÙÙ ÙÙÙÙ ÙÙØ±ÙØ§Ø¡Ù ÙÙÙÙØ§Ø¨ÙÙÙ ÙÙØ­ÙÙÙØ§ÙÙØªÙÙÙÙÙØ ÙÙØ´ÙØ¹ÙØ±ÙÙÙ ÙÙØ³ÙÙÙØ§Ø¯ÙÙÙ ÙÙÙÙØ·ÙÙØ¹Ù ÙÙØ¹ÙØ²Ù ÙÙÙÙØ­ÙØ¯ÙØ±Ù ÙÙÙÙ Ø¬ÙØ¨ÙÙÙ Ø¬ÙÙÙØ¹ÙØ§Ø¯Ù.",
+      "jpn": "<span class=\"verse-number\">1 </span>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããããªãã¯<ruby><rb>ç¾</rb><rt>ãã¤ã</rt></ruby>ããã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããããªãã¯<ruby><rb>ç¾</rb><rt>ãã¤ã</rt></ruby>ãããããªãã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã¯ã<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ãããã®ãããã«ãã£ã¦ãã¯ã¨ã®ããã ãããªãã®<ruby><rb>é«ª</rb><rt>ãã¿</rt></ruby>ã¯ã®ã¬ã¢ãã®<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã </rt></ruby>ãããã®<ruby><rb>ç¾¤</rb><rt>ã</rt></ruby>ãã®ããã ã",
+      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">He aquÃ­, Â¡quÃ© hermosa eres, amada mÃ­a!,</span><span class=\"line\">he aquÃ­, Â¡quÃ© hermosa eres!</span><span class=\"line\">Tus ojos son <span class=\"clarity-word\">como</span> de paloma detrÃ¡s de tu velo;</span><span class=\"line\">tus cabellos, como manada de cabras</span><span class=\"line\">que se recuestan en el monte de Galaad.</span>",
+      "por": "<span class=\"verse-number\">1 </span>Eis que <span class=\"clarity-word\">Ã©s</span> formosa, amada minha, eis que <span class=\"clarity-word\">Ã©s</span> formosa; os teus olhos <span class=\"clarity-word\">sÃ£o como os</span> das pombas por detrÃ¡s do teu vÃ©u; o teu cabelo <span class=\"clarity-word\">Ã©</span> como o rebanho de cabras que pastam no monte de Gileade.",
+      "fra": "<span class=\"verse-number\">1 </span>Que tu es belle, mon amie, que tu es belleÂ ! Tes yeux sont des colombes, DerriÃ¨re ton voile. Tes cheveux sont comme un troupeau de chÃ¨vres, Suspendues aux flancs de la montagne de Galaad.",
+      "deu": "<span class=\"verse-number\">1Â </span>O du bist schÃ¶n, meine Freundin, ja schÃ¶n bist du! Deine Augen sind Taubenaugen hinter deinem Schleier hervor; dein Haar gleicht einer Ziegenherde, die vom Gileadberge herabwallt.",
+      "kor": "<span class=\"verse-number\">1 </span>ë´ ì¬ë ëë ì´ì¬ìê³ ë ì´ì¬ìë¤ ëì¸ ìì ìë ë¤ ëì´ ë¹ëê¸° ê°ê³  ë¤ ë¨¸ë¦¬í¸ì ê¸¸ë¥´ì ì° ê¸°ì­ì ëì´ ì¼ì ë¼ ê°êµ¬ë",
+      "ita": "<span class=\"verse-number\">1</span> Come sei bella, amica mia, come sei bella! I tuoi occhi, dietro al tuo velo, somigliano a quelli delle colombe; i tuoi capelli sono come un gregge di capre sospese ai fianchi del monte di Galaad."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>Thy teeth <span class=\"clarity-word\">are</span> like a flock <span class=\"clarity-word\">of sheep that are even</span> shorn, which came up from the washing; whereof every one bear twins, and none <span class=\"clarity-word\">is</span> barren among them.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø£ÙØ³ÙÙÙØ§ÙÙÙÙ ÙÙÙÙØ·ÙÙØ¹Ù ÙÙØ¬ÙØ²ÙÙØ²Ù Ø®ÙØ§Ø±ÙØ¬Ù ÙÙÙÙ Ø§ÙØ§ØºÙØªÙØ³ÙØ§ÙÙØ ÙÙÙÙÙ ÙÙØ§Ø­ÙØ¯ÙØ©Ù Ø°ÙØ§ØªÙ ØªÙÙÙØ£ÙÙÙØ ÙÙÙÙØ§ ÙÙÙÙÙØ§ Ø¹ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">2 </span>ããªãã®<ruby><rb>æ­¯</rb><rt>ã¯</rt></ruby>ã¯<ruby><rb>æ´</rb><rt>ãã</rt></ruby>ã<ruby><rb>å ´</rb><rt>ã°</rt></ruby>ãã<ruby><rb>ä¸</rb><rt>ã®ã¼</rt></ruby>ã£ã¦ãã<ruby><rb>æ¯</rb><rt>ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã<ruby><rb>é</rb><rt>ã</rt></ruby><ruby><rb>ç¾</rb><rt>ã²ã¤ã</rt></ruby>ã®<ruby><rb>ç¾¤</rb><rt>ã</rt></ruby>ãã®ããã ãã¿ãª<ruby><rb>äºå­</rb><rt>ãµãã</rt></ruby>ã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã§ãä¸<ruby><rb>å¹</rb><rt>ã´ã</rt></ruby>ã<ruby><rb>å­</rb><rt>ã</rt></ruby>ã®ãªããã®ã¯ãªãã",
+      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Tus dientes, como manada de <span class=\"clarity-word\">ovejas</span> trasquiladas</span><span class=\"line\">que suben del lavadero,</span><span class=\"line\">todas con crÃ­as gemelas,</span><span class=\"line\">y ninguna de ellas ha perdido su crÃ­a.</span>",
+      "por": "<span class=\"verse-number\">2 </span>Os teus dentes <span class=\"clarity-word\">sÃ£o</span> como o rebanho das <span class=\"clarity-word\">ovelhas</span> tosquiadas, que sobem do lavadouro, e todas elas produzem gÃªmeos, e nenhuma hÃ¡ estÃ©ril entre elas.",
+      "fra": "<span class=\"verse-number\">2 </span>Tes dents sont comme un troupeau de brebis tondues, Qui remontent de lâabreuvoirÂ ; Toutes portent des jumeaux, Aucune dâelles nâest stÃ©rile.",
+      "deu": "<span class=\"verse-number\">2Â </span>Deine ZÃ¤hne sind gleich einer Herde von Schafen, die frischgeschoren der Schwemme entsteigen, allesamt zwillingstrÃ¤chtig und keins von ihnen kinderlos.",
+      "kor": "<span class=\"verse-number\">2 </span>ë¤ ì´ë ëª©ìì¥ìì ëì¤ë í¸ ê¹ì¸ ìì ê³§ ìë¼ ìë ê²ì íëë ìì´ ê°ê° ìíë¥¼ ë³ì ì ê°êµ¬ë",
+      "ita": "<span class=\"verse-number\">2</span> I tuoi denti sono come un branco di pecore tosate che tornano dal lavatoio; tutte hanno dei gemelli, non ve nâÃ¨ alcuna che sia sterile."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>Thy lips <span class=\"clarity-word\">are</span> like a thread of scarlet, and thy speech <span class=\"clarity-word\">is</span> comely: thy temples <span class=\"clarity-word\">are</span> like a piece of a pomegranate within thy locks.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>Ø´ÙÙÙØªÙØ§ÙÙ ÙÙØ®ÙÙÙØ·Ù ÙÙÙÙ Ø§ÙÙÙÙØ±ÙÙÙØ²ÙØ ÙÙØ­ÙØ¯ÙÙØ«Ù ÙÙÙÙÙÙ Ø¹ÙØ°ÙØ¨ÙØ ÙÙØ®ÙØ¯ÙÙØ§ÙÙ ÙÙÙÙÙÙÙÙØªÙÙÙ Ø±ÙÙÙÙØ§ÙÙØ©Ù Ø®ÙÙÙÙÙ ÙÙÙÙØ§Ø¨ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">3 </span>ããªãã®ãã¡ã³ãã¯<ruby><rb>ç´</rb><rt>ãããªã</rt></ruby>ã®<ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã®ããã§ããã®<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã¯<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããããããªãã®ã»ãã¯<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ãããã®ãããã«ãã£ã¦ããããã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ããã®ããã ã",
+      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Tus labios, como hilo de grana,</span><span class=\"line\">y tu boca hermosa;</span><span class=\"line\"><span class=\"page-break\" data-page=\"1106\"></span>tus sienes, como gajos de granada</span><span class=\"line\">detrÃ¡s de tu velo.</span>",
+      "por": "<span class=\"verse-number\">3 </span>Os teus lÃ¡bios <span class=\"clarity-word\">sÃ£o</span> como <span class=\"clarity-word\">um</span> fio de escarlata, e o teu falar <span class=\"clarity-word\">Ã©</span> doce; a fonte da tua cabeÃ§a <span class=\"clarity-word\">Ã©</span> como <span class=\"clarity-word\">um</span> pedaÃ§o de romÃ£ por detrÃ¡s do teu vÃ©u.",
+      "fra": "<span class=\"verse-number\">3 </span>Tes lÃ¨vres sont comme un fil cramoisi, Et ta bouche est charmanteÂ ; Ta joue est comme une moitiÃ© de grenade, DerriÃ¨re ton voile.",
+      "deu": "<span class=\"verse-number\">3Â </span>Deine Lippen gleichen einer Purpurschnur, und dein Mund ist voll Anmut; wie der Spalt (oder: die Schnitte) eines Granatapfels schimmern die SchlÃ¤fen dir hinter dem Schleier hervor.",
+      "kor": "<span class=\"verse-number\">3 </span>ë¤ ìì ì íì ì¤ ê°ê³  ë¤ ìì ì´ì¬ìê³  ëì¸ ìì ë¤ ëº¨ì ìë¥ í ìª½ ê°êµ¬ë",
+      "ita": "<span class=\"verse-number\">3</span> Le tue labbra somigliano a un filo di scarlatto, e la tua bocca Ã¨ graziosa; le tue guance, dietro al tuo velo, sono come un pezzo di melagrana."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>Thy neck <span class=\"clarity-word\">is</span> like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø¹ÙÙÙÙÙÙÙ ÙÙÙÙØ§Ø«ÙÙÙ ÙÙØ¨ÙØ±ÙØ¬Ù Ø¯ÙØ§ÙÙØ¯Ù Ø§ÙÙÙÙØ´ÙÙÙÙØ¯Ù ÙÙÙÙÙÙÙÙÙ ÙÙÙÙØ¹ÙØ©Ù ÙÙÙØ³ÙÙÙØ§Ø­ÙØ Ø­ÙÙÙØ«Ù Ø¹ÙÙÙÙÙÙ ÙÙÙÙÙ Ø£ÙÙÙÙÙ ØªÙØ±ÙØ³Ù ÙÙÙÙ ØªÙØ±ÙÙØ³Ù Ø§ÙÙÙÙØ­ÙØ§Ø±ÙØ¨ÙÙÙÙ Ø§ÙØµÙÙÙÙØ§Ø¯ÙÙØ¯Ù.",
+      "jpn": "<span class=\"verse-number\">4 </span>ããªãã®<ruby><rb>é¦</rb><rt>ãã³</rt></ruby>ã¯<ruby><rb>æ­¦å¨</rb><rt>ã¶ã</rt></ruby><ruby><rb>å</rb><rt>ãã</rt></ruby>ã®ããã«<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ããããã®ãããã®ããã ããã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ã¯ä¸åã®<ruby><rb>ç¾</rb><rt>ãã¦</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ãã¤ãã­ãã¿ãª<ruby><rb>åå£«</rb><rt>ããã</rt></ruby>ã®<ruby><rb>å¤§ç¾</rb><rt>ããã ã¦</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Tu cuello, como la torre de David,</span><span class=\"line\">edificada para armerÃ­a;</span><span class=\"line\">de ella cuelgan mil escudos,</span><span class=\"line\">escudos todos de valientes.</span>",
+      "por": "<span class=\"verse-number\">4 </span>O teu pescoÃ§o <span class=\"clarity-word\">Ã©</span> como a torre de Davi, edificada para pendurar armas; mil escudos pendem dela, todos broquÃ©is de valorosos.",
+      "fra": "<span class=\"verse-number\">4 </span>Ton cou est comme la tour de David, BÃ¢tie pour Ãªtre un arsenalÂ ; Mille boucliers y sont suspendus, Tous les boucliers des hÃ©ros.",
+      "deu": "<span class=\"verse-number\">4Â </span>Wie Davids Turm ragt dein Hals, zur Fernsicht gebaut: tausend Schilde hangen an ihm, lauter Wehren von Helden.",
+      "kor": "<span class=\"verse-number\">4 </span>ë¤ ëª©ì ë¬´ê¸°ë¥¼ ëë ¤ê³  ê±´ì¶í ë¤ìì ë§ë ê³§ ë°©í¨ ì² ê°, ì©ì¬ì ëª¨ë  ë°©í¨ê° ë¬ë¦° ë§ë ê°ê³",
+      "ita": "<span class=\"verse-number\">4</span> Il tuo collo Ã¨ come la torre di Davide, edificata per essere unâarmeria; mille scudi vi sono appesi, tutte le targhe dei prodi."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>Thy two breasts <span class=\"clarity-word\">are</span> like two young roes that are twins, which feed among the lilies.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙØ¯ÙØ§ÙÙ ÙÙØªÙÙÙØ£ÙÙÙÙÙ Ø¸ÙØ¨ÙÙÙØ©ÙØ ØªÙÙÙØ£ÙÙÙÙÙÙÙ ÙÙØ±ÙØ¹ÙÙÙØ§ÙÙ Ø¨ÙÙÙÙÙ Ø§ÙØ³ÙÙÙÙØ³ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">5 </span>ããªãã®<ruby><rb>ä¸¡</rb><rt>ããã</rt></ruby><ruby><rb>ä¹³</rb><rt>ã¡</rt></ruby>ã¶ãã¯ãããããã®<ruby><rb>äºå­</rb><rt>ãµãã</rt></ruby>ã§ããäº<ruby><rb>å¹</rb><rt>ã²ã</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããããããã®<ruby><rb>è±</rb><rt>ã¯ãª</rt></ruby>ã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã«<ruby><rb>è</rb><rt>ãã</rt></ruby>ã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã¦ããããã ã",
+      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">Tus dos pechos, como crÃ­as gemelas de gacela</span><span class=\"line\">que se apacientan entre lirios.</span>",
+      "por": "<span class=\"verse-number\">5 </span>Os teus dois seios <span class=\"clarity-word\">sÃ£o</span> como dois filhotes gÃªmeos da corÃ§a, que se apascentam entre os lÃ­rios.",
+      "fra": "<span class=\"verse-number\">5 </span>Tes deux seins sont comme deux faons, Comme les jumeaux dâune gazelle, Qui paissent au milieu des lis.",
+      "deu": "<span class=\"verse-number\">5Â </span>Deine BrÃ¼ste sind gleich einem Zwillingspaar junger Gazellen, die unter den Lilien (oder: auf Lilienauen) weiden.",
+      "kor": "<span class=\"verse-number\">5 </span>ë¤ ë ì ë°©ì ë°±í©í ê°ì´ë°ì ê¼´ì ë¨¹ë ìí ì´ë¦° ì¬ì´ ê°êµ¬ë",
+      "ita": "<span class=\"verse-number\">5</span> Le tue due mammelle sono due gemelli di gazzella che pasturano fra i gigli."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙÙÙØ§ ÙÙÙÙØ§Ø¯Ù ÙÙØªÙÙÙÙÙÙØ³Ù Ø§ÙÙÙÙÙÙØ§Ø±Ù ÙÙØªÙÙÙÙÙØ²ÙÙÙ Ø§ÙØ¸ÙÙÙØ§ÙÙ Ø­ÙØªÙÙÙ Ø£ÙÙÙØ·ÙÙÙÙÙ Ø¥ÙÙÙÙ Ø¬ÙØ¨ÙÙÙ Ø§ÙÙÙÙØ±ÙÙ ÙÙØ¥ÙÙÙÙ ØªÙÙÙÙ Ø§ÙÙÙÙØ¨ÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">6 </span><ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã®<ruby><rb>æ¶¼</rb><rt>ãã</rt></ruby>ãããªãã¾ã§ã<ruby><rb>å½±</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ¶</rb><rt>ã</rt></ruby>ããã¾ã§ããããã¯<ruby><rb>æ²¡è¬</rb><rt>ãã¤ãã</rt></ruby>ã®<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ããã³<ruby><rb>ä¹³é¦</rb><rt>ã«ãããã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã¸<ruby><rb>æ¥</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Hasta que despunte el dÃ­a y huyan las sombras,</span><span class=\"line\">me irÃ© al monte de la mirra,</span><span class=\"line\">y al collado del incienso.</span>",
+      "por": "<span class=\"verse-number\">6 </span>Antes que rompa o dia, e fujam <span class=\"page-break\" data-page=\"1049\"></span>as sombras, irei ao monte da mirra e ao outeiro do incenso.",
+      "fra": "<span class=\"verse-number\">6 </span>Avant que le jour rafraÃ®chisse, Et que les ombres fuient, Jâirai Ã  la montagne de la myrrhe Et Ã  la colline de lâencens.",
+      "deu": "<span class=\"verse-number\">6Â </span>Bis der Abendwind haucht und die Schatten entfliehn, will zum Myrrhenberge ich gehn und zum WeihrauchhÃ¼gel.",
+      "kor": "<span class=\"verse-number\">6 </span>ë ì´ ì ë¬¼ê³  ê·¸ë¦¼ìê° ì¬ë¼ì§ê¸° ì ì ë´ê° ëª°ì½ ì°ê³¼ ì í¥ì ìì ì°ì¼ë¡ ê°ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">6</span> Prima che soffi la brezza del giorno e che le ombre fuggano, io me ne andrÃ² al monte della mirra e al colle dellâincenso."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>Thou <span class=\"clarity-word\">art</span> all fair, my love; <span class=\"clarity-word\">there is</span> no spot in thee.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙÙÙÙ Ø¬ÙÙÙÙÙÙØ©Ù ÙÙØ§ Ø­ÙØ¨ÙÙØ¨ÙØªÙÙ ÙÙÙØ§ Ø¹ÙÙÙØ¨Ù ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">7 </span>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããããªãã¯ãã¨ãã¨ã<ruby><rb>ç¾</rb><rt>ãã¤ã</rt></ruby>ããã<ruby><rb>å°</rb><rt>ãã</rt></ruby>ãã®ããããªãã",
+      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Toda tÃº eres hermosa, amada mÃ­a,</span><span class=\"line\">y en ti no hay mancha.</span>",
+      "por": "<span class=\"verse-number\">7 </span>Tu <span class=\"clarity-word\">Ã©s</span> toda formosa, amada minha, e em ti nÃ£o hÃ¡ mancha.",
+      "fra": "<span class=\"verse-number\">7 </span>Tu es toute belle, mon amie, Et il nây a pas en toi de dÃ©faut.",
+      "deu": "<span class=\"verse-number\">7Â </span>WunderschÃ¶n bist du, meine Freundin; nichts, nichts fehlt deinen Reizen!",
+      "kor": "<span class=\"verse-number\">7 </span>ëì ì¬ë ëë ì´ì¬ìê³  ìë¬´ í ì´ ìêµ¬ë",
+      "ita": "<span class=\"verse-number\">7</span> Tu sei tutta bella, amica mia, e non vâÃ¨ difetto alcuno in te."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span><span class=\"para-mark\">Â¶ </span>Come with me from Lebanon, <span class=\"clarity-word\">my</span> spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lionsâ dens, from the mountains of the leopards.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ØªÙØ¹ÙØ§ÙÙÙÙ ÙÙØ¹ÙÙ ÙÙÙÙ ÙÙØ¨ÙÙÙØ§ÙÙ ÙÙØ§ Ø¹ÙØ±ÙÙØ³ÙÙ. ØªÙØ¹ÙØ§ÙÙÙÙ ÙÙØ¹ÙÙ ÙÙÙÙ ÙÙØ¨ÙÙÙØ§ÙÙ! Ø§ÙÙØ¸ÙØ±ÙÙ ÙÙÙÙ ÙÙÙÙÙØ©Ù Ø¬ÙØ¨ÙÙÙ Ø£ÙÙÙØ§ÙÙØ©ÙØ ÙÙÙÙ Ø±ÙØ£ÙØ³Ù Ø³ÙÙÙÙØ±Ù ÙÙØ­ÙØ±ÙÙÙÙÙÙØ ÙÙÙ Ø¹ÙØ±ÙÙÙÙ Ø§ÙØ£ÙØ³ÙÙØ¯ÙØ ÙÙÙÙ Ø¬ÙØ¨ÙØ§ÙÙ Ø§ÙÙÙÙÙÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">8 </span>ãã<ruby><rb>è±å«</rb><rt>ã¯ãªãã</rt></ruby>ããã¬ããã³ãããããã¨<ruby><rb>ä¸ç·</rb><rt>ãã£ãã</rt></ruby>ã«ããªãããã¬ããã³ãããããã¨<ruby><rb>ä¸ç·</rb><rt>ãã£ãã</rt></ruby>ã«ããªãããã¢ããã®<ruby><rb>é </rb><rt>ããã ã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ããã»ãã«ããã³ãã«ã¢ã³ã®<ruby><rb>é </rb><rt>ããã ã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ããããã®<ruby><rb>ç©´</rb><rt>ããª</rt></ruby>ãã²ããã®<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ããªããã",
+      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">Ven conmigo del LÃ­bano, oh esposa <span class=\"clarity-word\">mÃ­a,</span></span><span class=\"line\">del LÃ­bano conmigo <span class=\"clarity-word\">ven.</span></span><span class=\"line\">Mira desde la cumbre del Amana,</span><span class=\"line\">desde la cumbre del Senir y del HermÃ³n,</span><span class=\"line\">desde las guaridas de los leones,</span><span class=\"line\">desde los montes de los leopardos.</span>",
+      "por": "<span class=\"verse-number\">8 </span><span class=\"clarity-word\">Vem</span> comigo do LÃ­bano, Ã³ esposa, comigo do LÃ­bano vem; olha desde o cume de Amana, desde o cume de Senir e de Hermom, desde as moradas dos leÃµes, desde os montes dos leopardos.",
+      "fra": "<span class=\"verse-number\">8 </span>Viens avec moi du Liban, ma fiancÃ©e, Viens avec moi du LibanÂ ! Regarde du sommet de lâAmana, Du sommet du Senir et de lâHermon, Des taniÃ¨res des lions, Des montagnes des lÃ©opards.",
+      "deu": "<span class=\"verse-number\">8Â </span><span class=\"para-mark\">Â¶ </span>Komm mit mir vom Libanon, Braut, mit mir vom Libanon, o komm! Steig herab vom Gipfel des Amana, vom Gipfel des Senir (vgl. Hesek. 27,5) und Hermon, von den LagerstÃ¤tten der LÃ¶wen, von den Bergen der Panther.",
+      "kor": "<span class=\"verse-number\">8 </span>ë´ ì ë¶ì¼ ëë ë ë°ë¼ììë¶í° ëì í¨ê» íê³  ë ë°ë¼ììë¶í° ëì í¨ê» ê°ì ìë§ëì ì¤ëê³¼ í¤ë¥´ëª¬ ê¼­ëê¸°ìì ì¬ì êµ´ê³¼ íë² ì°ìì ë´ë ¤ì¤ëë¼",
+      "ita": "<span class=\"verse-number\">8</span> Vieni con me dal Libano, o mia sposa, vieni con me dal Libano! Guarda dalla sommitÃ  dellâAmana, dalla sommitÃ  del Senir e dellâHermon, dalle grotte dei leoni, dai monti dei leopardi."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>Thou hast ravished my heart, my sister, <span class=\"clarity-word\">my</span> spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ¯Ù Ø³ÙÙÙØ¨ÙØªÙ ÙÙÙÙØ¨ÙÙØ ÙÙØ§ Ø£ÙØ®ÙØªÙÙ ÙÙØ§ Ø¹ÙØ±ÙÙØ³ÙÙ! ÙÙØ¯Ù Ø³ÙÙÙØ¨ÙØªÙ ÙÙÙÙØ¨ÙÙ Ø¨ÙÙÙØ¸ÙØ±ÙØ©Ù Ø¹ÙÙÙÙÙÙÙÙÙ ÙÙÙÙÙØ§Ø¯ÙØ©Ù Ø¹ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">9 </span>ãã<ruby><rb>å¦¹</rb><rt>ãããã¨</rt></ruby>ããã<ruby><rb>è±å«</rb><rt>ã¯ãªãã</rt></ruby>ããããªãã¯ãããã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã<ruby><rb>å¥ª</rb><rt>ãã°</rt></ruby>ã£ããããªãã¯ãã ã²ã¨<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã§ãããªãã®<ruby><rb>é¦</rb><rt>ãã³</rt></ruby><ruby><rb>é£¾</rb><rt>ããã</rt></ruby>ã®ã²ã¨<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ã§ããããã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã<ruby><rb>å¥ª</rb><rt>ãã°</rt></ruby>ã£ãã",
+      "spa": "<span class=\"verse-number\">9 </span><span class=\"line\">Has cautivado mi corazÃ³n, hermana mÃ­a, esposa mÃ­a<span class=\"clarity-word\">;</span></span><span class=\"line\">has cautivado mi corazÃ³n con una mirada de tus ojos,</span><span class=\"line\">con un solo dije de tu gargantilla.</span>",
+      "por": "<span class=\"verse-number\">9 </span>Arrebataste-me o coraÃ§Ã£o, minha irmÃ£, Ã³ esposa; arrebataste-me o coraÃ§Ã£o com um dos teus olhos, com um colar do teu pescoÃ§o.",
+      "fra": "<span class=\"verse-number\">9 </span>Tu me ravis le cÅur, ma sÅur, ma fiancÃ©e, Tu me ravis le cÅur par lâun de tes regards, Par lâun des colliers de ton cou.",
+      "deu": "<span class=\"verse-number\">9Â </span>Du hast mich bezaubert, meine brÃ¤utliche Schwester, du hast mich bezaubert mit einem deiner Blicke, mit einem der Kettchen an deinem Halsschmuck!",
+      "kor": "<span class=\"verse-number\">9 </span>ë´ ëì´, ë´ ì ë¶ì¼ ë¤ê° ë´ ë§ìì ë¹¼ììêµ¬ë ë¤ ëì¼ë¡ í ë² ë³´ë ê²ê³¼ ë¤ ëª©ì êµ¬ì¬ í ê¿°ë¯¸ë¡ ë´ ë§ìì ë¹¼ììêµ¬ë",
+      "ita": "<span class=\"verse-number\">9</span> Tu mi hai rapito il cuore, o mia sorella, o sposa mia! Tu mi hai rapito il cuore con uno solo dei tuoi sguardi, con uno solo dei monili del tuo collo."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>How fair is thy love, my sister, <span class=\"clarity-word\">my</span> spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØ§ Ø£ÙØ¹ÙØ°ÙØ¨Ù Ø­ÙØ¨ÙÙÙÙ ÙÙØ§ Ø£ÙØ®ÙØªÙÙ ÙÙØ§ Ø¹ÙØ±ÙÙØ³ÙÙ! ÙÙÙÙÙÙ Ø­ÙØ¨ÙÙÙÙ Ø£ÙÙÙØ°ÙÙ ÙÙÙÙ Ø§ÙÙØ®ÙÙÙØ±ÙØ ÙÙØ£ÙØ±ÙÙØ¬Ù Ø£ÙØ·ÙÙÙØ§Ø¨ÙÙÙ Ø£ÙØ²ÙÙÙÙ ÙÙÙÙ ÙÙÙÙÙ Ø§ÙÙØ¹ÙØ·ÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">10 </span>ãã<ruby><rb>å¦¹</rb><rt>ãããã¨</rt></ruby>ããã<ruby><rb>è±å«</rb><rt>ã¯ãªãã</rt></ruby>ããããªãã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã¯ããªãã¨<ruby><rb>éº</rb><rt>ããã</rt></ruby>ãããã¨ã§ããããããªãã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã¯ã¶ã©ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ããããããªãã®<ruby><rb>é¦æ²¹</rb><rt>ããã</rt></ruby>ã®ãããã¯ãã¹ã¦ã®<ruby><rb>é¦æ</rb><rt>ããããã</rt></ruby>ããããããã«ãããã¦ãããã¨ã§ãããã",
+      "spa": "<span class=\"verse-number\">10 </span><span class=\"line\">Â¡CuÃ¡n hermosos son tus amores, hermana mÃ­a, esposa <span class=\"clarity-word\">mÃ­a!</span></span><span class=\"line\">Â¡CuÃ¡nto mejores que el vino tus amores,</span><span class=\"line\">y la fragancia de tus ungÃ¼entos</span><span class=\"line\">mejor que todas las especias aromÃ¡ticas!</span>",
+      "por": "<span class=\"verse-number\">10 </span>Que belos <span class=\"clarity-word\">sÃ£o</span> os teus amores, minha irmÃ£! Ã, esposa minha, quÃ£o melhores <span class=\"clarity-word\">sÃ£o</span> os teus amores do que o vinho! e o aroma dos teus unguentos, do que <span class=\"clarity-word\">o de</span> todas as especiarias!",
+      "fra": "<span class=\"verse-number\">10 </span>Que de charmes dans ton amour, ma sÅur, ma fiancÃ©eÂ ! Comme ton amour vaut mieux que le vin, Et combien tes parfums sont plus suaves que tous les aromatesÂ !",
+      "deu": "<span class=\"verse-number\">10Â </span>Wie schÃ¶n ist deine Liebe, meine brÃ¤utliche Schwester, viel sÃ¼Ãer (oder: kÃ¶stlicher) ist deine Liebe als Wein, und deiner Salben Duft geht Ã¼ber alle WohlgerÃ¼che!",
+      "kor": "<span class=\"verse-number\">10 </span>ë´ ëì´, ë´ ì ë¶ì¼ ë¤ ì¬ëì´ ì´ì° ê·¸ë¦¬ ìë¦ë¤ì´ì§ ë¤ ì¬ëì í¬ëì£¼ë³´ë¤ ì§íê³  ë¤ ê¸°ë¦ì í¥ê¸°ë ê°ì í¥íë³´ë¤ í¥ê¸°ë¡­êµ¬ë",
+      "ita": "<span class=\"verse-number\">10</span> Quanto sono dolci le tue carezze, o mia sorella, o sposa mia! Quanto sono migliori del vino le tue carezze, quanto Ã¨ piÃ¹ soave di tutti gli aromi lâodore dei tuoi profumi!"
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>Thy lips, O <span class=\"clarity-word\">my</span> spouse, drop <span class=\"clarity-word\">as</span> the honeycomb: honey and milk <span class=\"clarity-word\">are</span> under thy tongue; and the smell of thy garments <span class=\"clarity-word\">is</span> like the smell of Lebanon.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>Ø´ÙÙÙØªÙØ§ÙÙ ØªÙÙÙØ·ÙØ±ÙØ§ÙÙ Ø´ÙÙÙØ¯Ø§Ù Ø£ÙÙÙÙØªÙÙÙØ§ Ø§ÙÙØ¹ÙØ±ÙÙØ³ÙØ ÙÙØªÙØ­ÙØªÙ ÙÙØ³ÙØ§ÙÙÙÙ Ø¹ÙØ³ÙÙÙ ÙÙÙÙØ¨ÙÙÙØ ÙÙØ±ÙØ§Ø¦ÙØ­ÙØ©Ù Ø«ÙÙÙØ§Ø¨ÙÙÙ ÙÙØ´ÙØ°ÙÙ ÙÙØ¨ÙÙÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">11 </span>ãã<ruby><rb>è±å«</rb><rt>ã¯ãªãã</rt></ruby>ããããªãã®ãã¡ã³ãã¯<ruby><rb>çé²</rb><rt>ããã</rt></ruby>ãããããããããªãã®<ruby><rb>è</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ã¯ã<ruby><rb>è</rb><rt>ã¿ã¤</rt></ruby>ã¨<ruby><rb>ä¹³</rb><rt>ã¡ã¡</rt></ruby>ã¨ããããããªãã®<ruby><rb>è¡£</rb><rt>ããã</rt></ruby>ã®ãããã¯ã¬ããã³ã®ãããã®ããã ã",
+      "spa": "<span class=\"verse-number\">11 </span><span class=\"line\"><span class=\"clarity-word\">Como</span> panal de miel destilan tus labios, oh esposa;</span><span class=\"line\">miel y leche hay debajo de tu lengua;</span><span class=\"line\">y la fragancia de tus vestidos como el olor del LÃ­bano.</span>",
+      "por": "<span class=\"verse-number\">11 </span>Favos de mel <span class=\"clarity-word\">estÃ£o</span> manando dos teus lÃ¡bios, Ã³ esposa! mel e leite estÃ£o debaixo da tua lÃ­ngua, e o cheiro dos teus vestidos <span class=\"clarity-word\">Ã©</span> como o cheiro do LÃ­bano.",
+      "fra": "<span class=\"verse-number\">11 </span>Tes lÃ¨vres distillent le miel, ma fiancÃ©eÂ ; Il y a sous ta langue du miel et du lait, Et lâodeur de tes vÃªtements est comme lâodeur du Liban.",
+      "deu": "<span class=\"verse-number\">11Â </span>Von Honigseim triefen deine Lippen, meine Braut; Honig und Milch birgst du unter deiner Zunge, und deiner GewÃ¤nder Duft ist wie der Duft des Libanons!",
+      "kor": "<span class=\"verse-number\">11 </span>ë´ ì ë¶ì¼ ë¤ ìì ììë ê¿ ë°©ì¸ì´ ë¨ì´ì§ê³  ë¤ í ë°ìë ê¿ê³¼ ì ì´ ìê³  ë¤ ìë³µì í¥ê¸°ë ë ë°ë¼ì í¥ê¸° ê°êµ¬ë",
+      "ita": "<span class=\"verse-number\">11</span> O sposa mia, le tue labbra stillano miele, miele e latte sono sotto la tua lingua, e lâodore delle tue vesti Ã¨ come lâodore del Libano."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>A garden inclosed <span class=\"clarity-word\">is</span> my sister, <span class=\"page-break\" data-page=\"859\"></span><span class=\"clarity-word\">my</span> spouse; a spring shut up, a fountain sealed.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>Ø£ÙÙÙØªÙ Ø¬ÙÙÙÙØ©Ù ÙÙØºÙÙÙÙÙØ©Ù ÙÙØ§ Ø£ÙØ®ÙØªÙÙ Ø§ÙÙØ¹ÙØ±ÙÙØ³Ù. Ø£ÙÙÙØªÙ Ø¹ÙÙÙÙÙ ÙÙÙÙÙÙÙÙØ©Ù ÙÙÙÙÙÙØ¨ÙÙØ¹Ù ÙÙØ®ÙØªÙÙÙÙ!",
+      "jpn": "<span class=\"verse-number\">12 </span>ãã<ruby><rb>å¦¹</rb><rt>ãããã¨</rt></ruby>ããã<ruby><rb>è±å«</rb><rt>ã¯ãªãã</rt></ruby>ã¯<ruby><rb>é</rb><rt>ã¨</rt></ruby>ãã<ruby><rb>å</rb><rt>ãã®</rt></ruby>ã<ruby><rb>é</rb><rt>ã¨</rt></ruby>ãã<ruby><rb>å</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å°</rb><rt>ãµã</rt></ruby>ãã<ruby><rb>æ³</rb><rt>ããã¿</rt></ruby>ã®ããã ã",
+      "spa": "<span class=\"verse-number\">12 </span><span class=\"line\">Huerto cerrado eres, hermana mÃ­a, esposa <span class=\"clarity-word\">mÃ­a;</span></span><span class=\"line\">fuente cerrada, fuente sellada.</span>",
+      "por": "<span class=\"verse-number\">12 </span>Jardim fechado <span class=\"clarity-word\">Ã©s</span> tu, minha irmÃ£, esposa minha, manancial fechado, fonte selada.",
+      "fra": "<span class=\"verse-number\">12 </span>Tu es un jardin fermÃ©, ma sÅur, ma fiancÃ©e, Une source fermÃ©e, une fontaine scellÃ©e.",
+      "deu": "<span class=\"verse-number\">12Â </span><span class=\"para-mark\">Â¶ </span>Ein wohlverschloÃâner Garten ist meine brÃ¤utliche Schwester, ein verschloÃâner Born, ein versiegelter Quell.",
+      "kor": "<span class=\"verse-number\">12 </span>ë´ ëì´, ë´ ì ë¶ë ì ê·¼ ëì°ì´ì ë®ì ì°ë¬¼ì´ì ë´í ìì´ë¡êµ¬ë",
+      "ita": "<span class=\"verse-number\">12</span> O mia sorella, o sposa mia, tu sei un giardino serrato, una sorgente chiusa, una fonte sigillata."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>Thy plants <span class=\"clarity-word\">are</span> an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>Ø£ÙØºÙØ±ÙØ§Ø³ÙÙÙ ÙÙØ±ÙØ¯ÙÙÙØ³Ù Ø±ÙÙÙÙØ§ÙÙ ÙÙØ¹Ù Ø®ÙÙØ±ÙØ©Ù Ø§ÙØ£ÙØ«ÙÙÙØ§Ø±Ù ÙÙØ§ÙØ­ÙÙÙÙØ§Ø¡Ù ÙÙØ§ÙÙÙÙØ§Ø±ÙØ¯ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">13 </span>ããªãã®<ruby><rb>ç£</rb><rt>ã</rt></ruby>ã¿<ruby><rb>åº</rb><rt>ã </rt></ruby>ã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã¯ãããããã®<ruby><rb>è¯</rb><rt>ã</rt></ruby>ã<ruby><rb>å®</rb><rt>ã¿</rt></ruby>ããã¤ãããã®<ruby><rb>å</rb><rt>ãã®</rt></ruby>ããã³ãããã³ãã«ãã",
+      "spa": "<span class=\"verse-number\">13 </span><span class=\"line\">Tus renuevos paraÃ­so de granados,</span><span class=\"line\">con frutos exquisitos,</span><span class=\"line\">de alheÃ±a y de nardos,</span>",
+      "por": "<span class=\"verse-number\">13 </span>Os teus renovos <span class=\"clarity-word\">sÃ£o um</span> pomar de romÃ£s, com frutos excelentes, a hena com o nardo,",
+      "fra": "<span class=\"verse-number\">13 </span>Tes jets forment un jardin, oÃ¹ sont des grenadiers, Avec les fruits les plus excellents, Les troÃ«nes avec le nardÂ ;",
+      "deu": "<span class=\"verse-number\">13Â </span>Alles, was an dir sproÃt, ist ein Lusthain (oder: Paradies) von Granaten mit den kÃ¶stlichsten FrÃ¼chten, Zyperblumen samt Narden,",
+      "kor": "<span class=\"verse-number\">13 </span>ë¤ê²ì ëë ê²ì ìë¥ëë¬´ì ê°ì¢ ìë¦ë¤ì´ ê³¼ìì ê³ ë²¨íì ëëíê³¼",
+      "ita": "<span class=\"verse-number\">13</span> I tuoi germogli sono un giardino di melograni e di alberi di frutti deliziosi, di piante di cipro e di nardo;"
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ§Ø±ÙØ¯ÙÙÙÙ ÙÙØ²ÙØ¹ÙÙÙØ±ÙØ§ÙÙØ ÙÙØµÙØ¨Ù Ø§ÙØ°ÙÙØ±ÙÙØ±ÙØ©Ù ÙÙÙÙØ±ÙÙÙØ©Ù ÙÙØ¹Ù ÙÙÙÙÙ Ø£ÙØµÙÙÙØ§ÙÙ Ø§ÙÙÙÙØ¨ÙØ§ÙÙ ÙÙØ§ÙÙÙÙØ±ÙÙ ÙÙØ§ÙÙØ¹ÙÙØ¯Ù ÙÙØ¹Ù Ø£ÙÙÙØ®ÙØ±Ù Ø§ÙÙØ¹ÙØ·ÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">14 </span>ãã«ããããµããããããã¶ã<ruby><rb>èæ¡</rb><rt>ã«ã£ãã</rt></ruby>ããã¾ãã¾ã®<ruby><rb>ä¹³é¦</rb><rt>ã«ãããã</rt></ruby>ã®<ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã<ruby><rb>æ²¡è¬</rb><rt>ãã¤ãã</rt></ruby>ãããããããã³ãã¹ã¦ã®<ruby><rb>å°</rb><rt>ãã£ã¨</rt></ruby>ã<ruby><rb>é¦æ</rb><rt>ããããã</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">14 </span><span class=\"line\">nardo y azafrÃ¡n,</span><span class=\"line\">caÃ±a aromÃ¡tica y canela,</span><span class=\"line\">con todos los Ã¡rboles de incienso;</span><span class=\"line\">mirra y Ã¡loes,</span><span class=\"line\">con todas las principales especias aromÃ¡ticas.</span>",
+      "por": "<span class=\"verse-number\">14 </span>O nardo, e o aÃ§afrÃ£o, o cÃ¡lamo, e a canela, com toda a sorte de Ã¡rvores de incenso, a mirra e aloÃ©s, com todas as principais especiarias.",
+      "fra": "<span class=\"verse-number\">14 </span>Le nard et le safran, le roseau aromatique et le cinnamome, Avec tous les arbres qui donnent lâencensÂ ; La myrrhe et lâaloÃ¨s, Avec tous les principaux aromatesÂ ;",
+      "deu": "<span class=\"verse-number\">14Â </span>Narde und Safran, WÃ¼rzrohr und Zimt samt allerlei Weihrauchstauden, Myrrhe und Aloe nebst allen edelsten BalsamgewÃ¤chsen.",
+      "kor": "<span class=\"verse-number\">14 </span>ëëì ë²ííì ì°½í¬ì ê³ìì ê°ì¢ ì í¥ëª©ê³¼ ëª°ì½ê³¼ ì¹¨í¥ê³¼ ëª¨ë  ê·í í¥íì´ì",
+      "ita": "<span class=\"verse-number\">14</span> di nardo e di croco, di canna odorosa e di cinnamomo, e di ogni albero da incenso; di mirra e di aloe, e di ogni piÃ¹ squisito aroma."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>A fountain of gardens, a well of living waters, and streams from Lebanon.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>Ø£ÙÙÙØªÙ ÙÙÙÙØ¨ÙÙØ¹Ù Ø¬ÙÙÙÙØ§ØªÙ ÙÙØ¨ÙØ¦ÙØ±Ù ÙÙÙÙØ§ÙÙ Ø­ÙÙÙÙØ©Ù ÙÙØ¬ÙØ¯ÙØ§ÙÙÙÙ Ø¯ÙØ§ÙÙÙÙØ©Ù ÙÙÙÙ ÙÙØ¨ÙÙÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">15 </span>ããªãã¯<ruby><rb>å</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æ³</rb><rt>ããã¿</rt></ruby>ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã<ruby><rb>æ°´</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>äº</rb><rt>ã</rt></ruby>ãã¾ãã¬ããã³ãã<ruby><rb>æµ</rb><rt>ãªã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã<ruby><rb>å·</rb><rt>ãã</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">15 </span><span class=\"line\">Fuente de huertos,</span><span class=\"line\">pozo de aguas vivas,</span><span class=\"line\">y corrientes del LÃ­bano.</span>",
+      "por": "<span class=\"verse-number\">15 </span>Ãs a fonte dos jardins, poÃ§o das Ã¡guas vivas, que correm do LÃ­bano!",
+      "fra": "<span class=\"verse-number\">15 </span>Une fontaine des jardins, Une source dâeaux vives, Des ruisseaux du Liban.",
+      "deu": "<span class=\"verse-number\">15Â </span>Eine Quelle im Garten bist du, ein Born voll sprudelnden Wassers, und BÃ¤che, die vom Libanon rieseln.",
+      "kor": "<span class=\"verse-number\">15 </span>ëë ëì°ì ìì´ì ììì ì°ë¬¼ì´ì ë ë°ë¼ììë¶í° íë¥´ë ìë´ë¡êµ¬ë",
+      "ita": "<span class=\"verse-number\">15</span> Tu sei una fontana di giardino, una sorgente dâacqua viva, un ruscello che scende giÃ¹ dal Libano."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span><span class=\"para-mark\">Â¶ </span>Awake, O north wind; and come, thou south; blow upon my garden, <span class=\"clarity-word\">that</span> the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>(Ø§ÙÙÙÙØ­ÙØ¨ÙÙØ¨ÙØ©Ù): Ø§Ø³ÙØªÙÙÙÙÙØ¸ÙÙ ÙÙØ§ Ø±ÙÙØ­Ù Ø§ÙØ´ÙÙÙÙØ§ÙÙØ ÙÙÙÙØ¨ÙÙÙ ÙÙØ§ Ø±ÙÙØ­Ù Ø§ÙÙØ¬ÙÙÙÙØ¨ÙØ ÙÙØ¨ÙÙÙ Ø¹ÙÙÙÙ Ø¬ÙÙÙÙØªÙÙ ÙÙÙÙÙÙØªÙØ´ÙØ±Ù Ø¹ÙØ¨ÙÙØ±ÙÙÙØ§. ÙÙÙÙÙÙØ¨ÙÙÙ Ø­ÙØ¨ÙÙØ¨ÙÙ Ø¥ÙÙÙÙ Ø¬ÙÙÙÙØªÙÙÙ ÙÙÙÙØªÙØ°ÙÙÙÙÙÙ Ø£ÙØ·ÙÙÙØ¨Ù Ø£ÙØ«ÙÙÙØ§Ø±ÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">16 </span><ruby><rb>åé¢¨</rb><rt>ãããã</rt></ruby>ãã<ruby><rb>èµ·</rb><rt>ãã</rt></ruby>ãã<ruby><rb>åé¢¨</rb><rt>ã¿ãªã¿ãã</rt></ruby>ãããããããã<ruby><rb>å</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å¹</rb><rt>ãµ</rt></ruby>ãã¦ããã®ãããã<ruby><rb>åº</rb><rt>ã²ã</rt></ruby>ã<ruby><rb>æ£</rb><rt>ã¡</rt></ruby>ããããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããã®<ruby><rb>å</rb><rt>ãã®</rt></ruby>ã«ã¯ãã£ã¦ãã¦ããã®<ruby><rb>è¯</rb><rt>ã</rt></ruby>ã<ruby><rb>å®</rb><rt>ã¿</rt></ruby>ã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ãããã«ã",
+      "spa": "<span class=\"verse-number\">16 </span><span class=\"line\">Despierta, AquilÃ³n,</span><span class=\"line\">y ven, Austro;</span><span class=\"line\">soplad en mi huerto; desprÃ©ndanse sus aromas.</span><span class=\"line\">Venga mi amado a su huerto</span><span class=\"line\">y coma de su dulce fruta.</span>",
+      "por": "<span class=\"verse-number\">16 </span>Levanta-te, vento norte, e vem tu, vento sul; assopra no meu jardim, <span class=\"clarity-word\">para que</span> destilem os seus aromas. Ah, se viesse o meu amado para o seu jardim, e comesse os seus frutos excelentes!",
+      "fra": "<span class=\"verse-number\">16 </span>LÃ¨ve-toi, aquilonÂ ! viens, autanÂ ! Soufflez sur mon jardin, et que les parfums sâen exhalentÂ ! Que mon bien-aimÃ© entre dans son jardin, Et quâil mange de ses fruits excellentsÂ !",
+      "deu": "<span class=\"verse-number\">16Â </span>Erwache, du Nordwind, und komm, du SÃ¼dwind! durchhauche meinen Garten, daÃ seine DÃ¼fte zerflieÃen!",
+      "kor": "<span class=\"verse-number\">16 </span>ë¶íì ì¼ì´ëë¼ ë¨íì ì¤ë¼ ëì ëì°ì ë¶ì´ì í¥ê¸°ë¥¼ ë ë¦¬ë¼ ëì ì¬ëíë ìê° ê·¸ ëì°ì ë¤ì´ê°ì ê·¸ ìë¦ë¤ì´ ì´ë§¤ ë¨¹ê¸°ë¥¼ ìíë¸ë¼",
+      "ita": "<span class=\"verse-number\">16</span> Alzati, vento del nord, e vieni, o vento del sud! Soffiate sul mio giardino, cosÃ¬ che se ne spandano gli aromi! Venga il mio amato nel suo giardino, e ne mangi i frutti deliziosi!"
+    },
+    "17": {
+      "deu": "<span class=\"verse-number\">17Â </span>Mein Geliebter komme in seinen Garten und genieÃe seine kÃ¶stlichen FrÃ¼chte! â"
+    }
+  }
+}

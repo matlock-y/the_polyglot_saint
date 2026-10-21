@@ -1,0 +1,371 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "prov",
+    "chapter": 10,
+    "headings": {
+      "eng": "A wise son makes a glad fatherâThe mouth of a righteous man is a well of lifeâHe who utters slander is a foolâThe desire of the righteous will be granted.",
+      "spa": "El hijo sabio alegra al padreÂ â La boca del justo es un manantial de vidaÂ â El que difama es insensatoÂ â El deseo de los justos serÃ¡ concedido.",
+      "por": "O filho sÃ¡bio alegra seu paiÂ â A boca do justo Ã© fonte de vidaÂ â Aquele que divulga mÃ¡ fama Ã© insensatoÂ â O desejo dos justos serÃ¡ concedido.",
+      "fra": "Un fils sage fait la joie de son pÃ¨re. La bouche du juste est une source de vie. Celui qui rÃ©pand la calomnie est un insensÃ©. Ce que dÃ©sirent les justes leur est accordÃ©.",
+      "ita": "Un figlio saggio rallegra suo padreÂ â La bocca del giusto Ã¨ una fonte di vitaÂ â Chi spande la calunnia Ã¨ uno stoltoÂ â Ai giusti Ã¨ concesso quel che desiderano."
+    },
+    "intros": {
+      "spa": "Proverbios de SalomÃ³n."
+    }
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>The proverbs of Solomon. A wise son maketh a glad father: but a foolish son <span class=\"clarity-word\">is</span> the heaviness of his mother.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ°ÙÙÙ Ø£ÙÙÙØ«ÙØ§ÙÙ Ø³ÙÙÙÙÙÙÙØ§ÙÙ: Ø§ÙØ§Ø¨ÙÙÙ Ø§ÙÙØ­ÙÙÙÙÙÙ ÙÙØ³ÙØ±ÙÙØ©Ù ÙØ£ÙØ¨ÙÙÙÙØ ÙÙØ§ÙØ§Ø¨ÙÙÙ Ø§ÙÙØ¬ÙØ§ÙÙÙÙ Ø­ÙØ³ÙØ±ÙØ©Ù ÙØ£ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">1</span> ã½ã­ã¢ã³ã®<ruby><rb>ç®´è¨</rb><rt>ãããã</rt></ruby>ã<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ãã<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã<ruby><rb>å</rb><rt>ããã</rt></ruby>ã°ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããª<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯<ruby><rb>æ¯</rb><rt>ã¯ã¯</rt></ruby>ã®<ruby><rb>æ²</rb><rt>ããª</rt></ruby>ãã¿ã¨ãªãã",
+      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">El hijo sabio alegra al padre,</span><span class=\"line\">pero el hijo necio es la tristeza de su madre.</span>",
+      "por": "<span class=\"verse-number\">1</span> ProvÃ©rbios de SalomÃ£o. O filho sÃ¡bio alegra seu pai, mas o filho tolo <span class=\"clarity-word\">Ã©</span> a tristeza de sua mÃ£e.",
+      "fra": "<span class=\"verse-number\">1</span> Proverbes de Salomon. Un fils sage fait la joie dâun pÃ¨re, Et un fils insensÃ© le chagrin de sa mÃ¨re.",
+      "deu": "<span class=\"verse-number\">1Â </span>Die SprÃ¼che Salomoâs. Ein weiser Sohn macht seinem Vater Freude, aber ein tÃ¶richter Sohn ist seiner Mutter Kummer. â",
+      "kor": "<span class=\"verse-number\">1</span> ìë¡ëª¬ì ì ì¸ì´ë¼ ì§íë¡ì´ ìë¤ì ìë¹ë¥¼ ê¸°ìê² íê±°ëì ë¯¸ë ¨í ìë¤ì ì´ë¯¸ì ê·¼ì¬ì´ëë¼",
+      "ita": "<span class=\"verse-number\">1</span> Proverbi di Salomone. Un figlio saggio rallegra suo padre, ma un figlio stolto Ã¨ il cordoglio di sua madre."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>Treasures of wickedness profit nothing: but righteousness delivereth from death.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙÙØ²Ù Ø§ÙÙÙÙØ§ÙÙ Ø§ÙÙØ­ÙØ±ÙØ§ÙÙ ÙÙØ§ ØªÙØ¬ÙØ¯ÙÙØ ÙÙÙÙÙÙÙÙÙ Ø§ÙÙØ­ÙÙÙÙ ÙÙÙÙØ¬ÙÙÙ ÙÙÙÙ Ø§ÙÙÙÙÙÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">2</span> <ruby><rb>ä¸ç¾©</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®</rb><rt>ããã</rt></ruby>ã¯<ruby><rb>ç</rb><rt>ãã</rt></ruby>ãªãã<ruby><rb>æ­£ç¾©</rb><rt>ããã</rt></ruby>ã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦ã<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¾ã¬ã</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Los tesoros de la maldad no serÃ¡n de provecho,</span><span class=\"line\">mas la justicia libra de la muerte.</span>",
+      "por": "<span class=\"verse-number\">2</span> Os tesouros da impiedade de nada aproveitam, porÃ©m a justiÃ§a livra da morte.",
+      "fra": "<span class=\"verse-number\">2</span> Les trÃ©sors de la mÃ©chancetÃ© ne profitent pas, Mais la justice dÃ©livre de la mort.",
+      "deu": "<span class=\"verse-number\">2Â </span>Ungerecht erworbene SchÃ¤tze bringen keinen Segen, aber Gerechtigkeit (oder: WohltÃ¤tigkeit) errettet vom Tode. â",
+      "kor": "<span class=\"verse-number\">2</span> ë¶ìì ì¬ë¬¼ì ë¬´ìµíì¬ë ê³µìë ì£½ììì ê±´ì§ëëë¼",
+      "ita": "<span class=\"verse-number\">2</span> I tesori dellâempietÃ  non giovano, ma la rettitudine libera dalla morte."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>The <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØ§ ÙÙØ¬ÙÙØ¹Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙØ³Ù Ø§ÙØµÙÙØ¯ÙÙÙÙÙØ Ø£ÙÙÙÙØ§ ÙÙÙÙÙ Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù ÙÙÙÙÙÙØ¨ÙØ°ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">3</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>é£¢</rb><rt>ã</rt></ruby>ããããã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æ¬²æ</rb><rt>ããã¼ã</rt></ruby>ããããããã",
+      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">JehovÃ¡ no dejarÃ¡ padecer hambre al alma del justo,</span><span class=\"line\">mas rechazarÃ¡ la codicia de los malvados.</span>",
+      "por": "<span class=\"verse-number\">3</span> O <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> nÃ£o deixa ter fome a alma do justo, mas a aspiraÃ§Ã£o dos Ã­mpios rechaÃ§a.",
+      "fra": "<span class=\"verse-number\">3</span> LâÃternel ne laisse pas le juste souffrir de la faim, Mais il repousse lâaviditÃ© des mÃ©chants.",
+      "deu": "<span class=\"verse-number\">3Â </span>Den Hunger des Frommen lÃ¤Ãt der HErr nicht ungestillt, aber die Gier der Gottlosen stÃ¶Ãt er zurÃ¼ck. â",
+      "kor": "<span class=\"verse-number\">3</span> ì¬í¸ìê»ì ìì¸ì ìí¼ì ì£¼ë¦¬ì§ ìê² íìë ìì¸ì ììì ë¬¼ë¦¬ì¹ìëëë¼",
+      "ita": "<span class=\"verse-number\">3</span> LâEterno non permette che il giusto soffra la fame, ma respinge lâaviditÃ  degli empi."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>He becometh poor that dealeth <span class=\"clarity-word\">with</span> a slack hand: but the hand of the diligent maketh rich.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø§ÙÙØ¹ÙØ§ÙÙÙÙ Ø¨ÙÙÙØ¯Ù ÙÙØ³ÙØªÙØ±ÙØ®ÙÙÙØ©Ù ÙÙÙÙØªÙÙÙØ±ÙØ Ø£ÙÙÙÙØ§ Ø§ÙÙÙÙØ¯Ù Ø§ÙÙÙÙØ§Ø¯ÙØ­ÙØ©Ù ÙÙØªÙØºÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">4</span> <ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãããã¨ã<ruby><rb>æ </rb><rt>ããã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>è²§</rb><rt>ã¾ã</rt></ruby>ãããªãã<ruby><rb>å¤</rb><rt>ã¤ã¨</rt></ruby>ã<ruby><rb>å</rb><rt>ã¯ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã¯<ruby><rb>å¯</rb><rt>ã¨ã¿</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">La mano negligente empobrece,</span><span class=\"line\">pero la mano de los diligentes enriquece.</span>",
+      "por": "<span class=\"verse-number\">4</span> O que trabalha com mÃ£o displicente empobrece, mas a mÃ£o dos diligentes enriquece.",
+      "fra": "<span class=\"verse-number\">4</span> Celui qui agit dâune main nonchalante sâappauvrit, Mais la main des diligents les enrichit.",
+      "deu": "<span class=\"verse-number\">4Â </span>Wer mit lÃ¤ssiger Hand arbeitet, verarmt, aber die Hand der FleiÃigen schafft Reichtum.",
+      "kor": "<span class=\"verse-number\">4</span> ìì ê²ì¼ë¥´ê² ëë¦¬ë ìë ê°ëíê² ëê³  ìì´ ë¶ì§ë°í ìë ë¶íê² ëëëë¼",
+      "ita": "<span class=\"verse-number\">4</span> Chi lavora con mano pigra si impoverisce, ma la mano dei diligenti fa arricchire."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>He that gathereth in summer <span class=\"clarity-word\">is</span> a wise son: <span class=\"clarity-word\">but</span> he that sleepeth in harvest <span class=\"clarity-word\">is</span> a son that causeth shame.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙ ÙÙØ¬ÙÙÙØ¹Ù ÙÙÙ Ø§ÙØµÙÙÙÙÙÙ ÙÙØ¤ÙÙÙÙØªÙÙÙ ÙÙÙÙ Ø§Ø¨ÙÙÙ Ø¹ÙØ§ÙÙÙÙØ Ø£ÙÙÙÙØ§ Ø§ÙÙÙØ°Ù ÙÙÙÙØ§ÙÙ ÙÙÙ ÙÙÙÙØ³ÙÙÙ Ø§ÙÙØ­ÙØµÙØ§Ø¯Ù ÙÙÙÙÙÙ Ø§Ø¨ÙÙÙ ÙÙØ®ÙØ²Ù.",
+      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>å¤</rb><rt>ãªã¤</rt></ruby>ã®ãã¡ã«<ruby><rb>é</rb><rt>ãã¤</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>è³¢</rb><rt>ããã</rt></ruby>ã<ruby><rb>å­</rb><rt>ã</rt></ruby>ã§ããã<ruby><rb>åå¥</rb><rt>ããã</rt></ruby>ãã®<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>ç </rb><rt>ã­ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>æ¥</rb><rt>ã¯ã</rt></ruby>ãããããã<ruby><rb>å­</rb><rt>ã</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">El que recoge en verano es hijo prudente;</span><span class=\"line\">el que duerme en el tiempo de la siega es hijo que avergÃ¼enza.</span>",
+      "por": "<span class=\"verse-number\">5</span> O que ajunta no verÃ£o <span class=\"clarity-word\">Ã©</span> filho sÃ¡bio, <span class=\"clarity-word\">mas</span> o que dorme na ceifa <span class=\"clarity-word\">Ã©</span> filho que faz envergonhar.",
+      "fra": "<span class=\"verse-number\">5</span> Celui qui amasse pendant lâÃ©tÃ© est un fils prudent, Celui qui dort pendant la moisson est un fils qui fait honte.",
+      "deu": "<span class=\"verse-number\">5Â </span>Wer im Sommer einsammelt, handelt verstÃ¤ndig; wer aber in der Erntezeit schlÃ¤ft, handelt schÃ¤ndlich. â",
+      "kor": "<span class=\"verse-number\">5</span> ì¬ë¦ì ê±°ëë ìë ì§íë¡ì´ ìë¤ì´ë ì¶ì ëì ìë ìë ë¶ëë¬ìì ë¼ì¹ë ìë¤ì´ëë¼",
+      "ita": "<span class=\"verse-number\">5</span> Chi raccoglie dâestate Ã¨ un figlio prudente, ma chi dorme durante la raccolta Ã¨ un figlio che fa vergogna."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Blessings <span class=\"clarity-word\">are</span> upon the head of the just: but violence covereth the mouth of the wicked.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ØªÙØªÙÙÙÙØ¬Ù Ø§ÙÙØ¨ÙØ±ÙÙÙØ§ØªÙ Ø±ÙØ£ÙØ³Ù Ø§ÙØµÙÙØ¯ÙÙÙÙÙØ Ø£ÙÙÙÙØ§ ÙÙÙÙ Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù ÙÙÙÙØ·ÙØºÙÙ Ø¹ÙÙÙÙÙÙÙ Ø§ÙØ¸ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ããã¹ã«ã¯<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ãããã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã¯<ruby><rb>æ´è</rb><rt>ã¼ãããã</rt></ruby>ã<ruby><rb>é </rb><rt>ãã</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Hay bendiciones sobre la cabeza del justo,</span><span class=\"line\">pero la boca de los malvados oculta violencia.</span>",
+      "por": "<span class=\"verse-number\">6</span> BÃªnÃ§Ã£os <span class=\"clarity-word\">hÃ¡</span> sobre a cabeÃ§a do justo, mas a violÃªncia cobre a boca dos Ã­mpios.",
+      "fra": "<span class=\"verse-number\">6</span> Il y a des bÃ©nÃ©dictions sur la tÃªte du juste, Mais la violence couvre la bouche des mÃ©chants.",
+      "deu": "<span class=\"verse-number\">6Â </span>Reicher Segen kommt auf das Haupt des Gerechten, aber der Mund der Gottlosen birgt Gewalttat (vgl. V. 11 b). â",
+      "kor": "<span class=\"verse-number\">6</span> ìì¸ì ë¨¸ë¦¬ìë ë³µì´ ìíë ìì¸ì ìì ëì ë¨¸ê¸ìëëë¼",
+      "ita": "<span class=\"verse-number\">6</span> Benedizioni vengono sul capo dei giusti, ma la violenza copre la bocca degli empi."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>The memory of the just <span class=\"clarity-word\">is</span> blessed: but the name of the wicked shall rot.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>Ø°ÙÙÙØ±Ù Ø§ÙØµÙÙØ¯ÙÙÙÙÙ Ø¨ÙØ±ÙÙÙØ©ÙØ ÙÙØ§Ø³ÙÙÙ Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù ÙÙØ¹ÙØªÙØ±ÙÙÙÙ Ø§ÙÙØ¨ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã¯ã»ãããã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã¯<ruby><rb>æ½</rb><rt>ã</rt></ruby>ã¡ãã",
+      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">La memoria del justo serÃ¡ bendecida,</span><span class=\"line\">pero el nombre de los malvados se pudrirÃ¡.</span>",
+      "por": "<span class=\"verse-number\">7</span> A memÃ³ria do justo Ã© abenÃ§oada, mas o nome dos Ã­mpios apodrecerÃ¡.",
+      "fra": "<span class=\"verse-number\">7</span> Se souvenir du juste est une bÃ©nÃ©diction, Mais le nom des mÃ©chants tombe en pourriture.",
+      "deu": "<span class=\"verse-number\">7Â </span>Das Andenken des Gerechten bleibt im Segen, aber der Name der Gottlosen vermodert (oder: erstirbt). â",
+      "kor": "<span class=\"verse-number\">7</span> ìì¸ì ê¸°ëí  ëìë ì¹­ì°¬íê±°ëì ìì¸ì ì´ë¦ì ì©ê² ëëëë¼",
+      "ita": "<span class=\"verse-number\">7</span> La memoria del giusto Ã¨ una benedizione, ma il nome degli empi marcisce."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>The wise in heart will receive commandments: but a prating fool shall fall.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø§ÙÙØ­ÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙØ¨Ù ÙÙØªÙÙÙØ¨ÙÙÙÙ Ø§ÙÙÙÙØµÙØ§ÙÙØ§Ø ÙÙØ§ÙÙÙÙØªÙØ¨ÙØ¬ÙÙØ­Ù Ø§ÙØ´ÙÙÙÙØªÙÙÙÙÙ ÙÙØµÙÙØ±ÙÙÙ Ø§ÙÙØ®ÙØ±ÙØ§Ø¨Ù.",
+      "jpn": "<span class=\"verse-number\">8</span> <ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã®ãã¨ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>æ</rb><rt>ãã¾ã</rt></ruby>ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ããããã <ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ãããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã¼ãããã",
+      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">El sabio de corazÃ³n recibirÃ¡ los mandamientos,</span><span class=\"line\">pero el necio de labios caerÃ¡.</span>",
+      "por": "<span class=\"verse-number\">8</span> O sÃ¡bio de coraÃ§Ã£o aceita os mandamentos, mas o tolo de lÃ¡bios cairÃ¡.",
+      "fra": "<span class=\"verse-number\">8</span> Celui qui est sage de cÅur reÃ§oit les prÃ©ceptes, Mais celui qui est insensÃ© des lÃ¨vres court Ã  sa perte.",
+      "deu": "<span class=\"verse-number\">8Â </span>Wer weisen Sinnes ist, nimmt RatschlÃ¤ge an, aber ein nÃ¤rrischer SchwÃ¤tzer kommt zu Fall. â",
+      "kor": "<span class=\"verse-number\">8</span> ë§ìì´ ì§íë¡ì´ ìë ê³ëªì ë°ê±°ëì ìì´ ë¯¸ë ¨í ìë ë©¸ë§íë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">8</span> Il saggio di cuore accetta i precetti, ma lo stolto di labbra cade."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>He that walketh uprightly walketh surely: but he that perverteth his ways shall be known.",
+      "ara": "<span class=\"verse-number\">Ù© </span>Ø§ÙÙÙØ°Ù ÙÙØ³ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙØªÙÙÙØ§ÙÙØ©Ù ÙÙØ³ÙÙØ±Ù ÙÙØ·ÙÙÙØ¦ÙÙÙØ§ÙØ ÙÙØ°ÙÙ Ø§ÙØ·ÙÙØ±ÙÙÙ Ø§ÙÙÙÙÙÙØ­ÙØ±ÙÙÙØ©Ù ÙÙÙÙØªÙØ¶ÙØ­Ù.",
+      "jpn": "<span class=\"verse-number\">9</span> ã¾ã£ããã«<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ã¿ã¯<ruby><rb>å®å¨</rb><rt>ãããã</rt></ruby>ã§ããããããããã®<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã<ruby><rb>æ²</rb><rt>ã¾</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>ç½</rb><rt>ãããã</rt></ruby>ã«ããã",
+      "spa": "<span class=\"verse-number\">9 </span><span class=\"line\">El que camina en integridad anda seguro,</span><span class=\"line\">pero el que pervierte sus caminos serÃ¡ descubierto.</span>",
+      "por": "<span class=\"verse-number\">9</span> Quem anda em integridade, anda seguro, mas o que perverte os seus caminhos serÃ¡ conhecido.",
+      "fra": "<span class=\"verse-number\">9</span> Celui qui marche dans lâintÃ©gritÃ© marche avec assurance, Mais celui qui prend des voies tortueuses sera dÃ©couvert.",
+      "deu": "<span class=\"verse-number\">9Â </span>Wer in Unschuld wandelt, der wandelt sicher; wer aber krumme Wege einschlÃ¤gt, der wird durchschaut (oder: ertappt). â",
+      "kor": "<span class=\"verse-number\">9</span> ë°ë¥¸ ê¸¸ë¡ ííë ìë ê±¸ìì´ íìíë ¤ëì êµ½ì ê¸¸ë¡ ííë ìë ëë¬ëë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">9</span> Chi cammina nellâintegritÃ  cammina sicuro, ma chi va per vie tortuose sarÃ  scoperto."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>He that winketh with the eye causeth sorrow: but a prating fool shall fall.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙÙÙ ÙÙØºÙÙÙØ²Ù Ø¨ÙØ¹ÙÙÙÙÙÙÙ ÙÙÙÙØ±Ø§Ù ÙÙÙÙÙÙÙØ¯Ù ØºÙÙÙØ§Ù. ÙÙØ§ÙÙÙÙÙÙØ¨ÙÙØ®Ù Ø¨ÙØ¬ÙØ±ÙØ£ÙØ©Ù ÙÙØµÙÙÙØ¹Ù Ø³ÙÙØ§ÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">10</span> <ruby><rb>ç®</rb><rt>ã</rt></ruby>ã§ãããã°ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããããããããããã¾ã«ã<ruby><rb>æ</rb><rt>ãã¾ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>å¹³å</rb><rt>ã¸ãã</rt></ruby>ããããããã",
+      "spa": "<span class=\"verse-number\">10 </span><span class=\"line\">El que guiÃ±a el ojo acarrea tristeza,</span><span class=\"line\">pero el necio de labios caerÃ¡.</span>",
+      "por": "<span class=\"verse-number\">10</span> O que acena com os olhos causa dores, e o tolo de lÃ¡bios cairÃ¡.",
+      "fra": "<span class=\"verse-number\">10</span> Celui qui cligne les yeux est une cause de chagrin, Et celui qui est insensÃ© des lÃ¨vres court Ã  sa perte.",
+      "deu": "<span class=\"verse-number\">10Â </span>Wer mit den Augen blinzelt, verursacht KrÃ¤nkung, und ein nÃ¤rrischer SchwÃ¤tzer kommt zu Fall. â",
+      "kor": "<span class=\"verse-number\">10</span> ëì§íë ìë ê·¼ì¬ì ë¼ì¹ê³  ìì´ ë¯¸ë ¨í ìë ë©¸ë§íëëë¼",
+      "ita": "<span class=\"verse-number\">10</span> Chi ammicca con lâocchio causa dolore, e lo stolto di labbra cade."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>The mouth of a righteous <span class=\"clarity-word\">man is</span> a well of life: but violence covereth the mouth of the wicked.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙ Ø§ÙØµÙÙØ¯ÙÙÙÙÙ ÙÙÙÙØ¨ÙØ¹Ù Ø¨ÙÙÙÙØ§ÙÙ Ø§ÙÙØ­ÙÙÙØ§Ø©ÙØ Ø£ÙÙÙÙØ§ ÙÙÙÙ Ø§ÙØ´ÙÙØ±ÙÙÙØ±Ù ÙÙÙÙØ·ÙØºÙÙ Ø¹ÙÙÙÙÙÙÙ Ø§ÙØ¸ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">11</span> <ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã¯<ruby><rb>å½</rb><rt>ãã®ã¡</rt></ruby>ã®<ruby><rb>æ³</rb><rt>ããã¿</rt></ruby>ã§ããã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã¯<ruby><rb>æ´è</rb><rt>ã¼ãããã</rt></ruby>ã<ruby><rb>é </rb><rt>ãã</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">11 </span><span class=\"line\">Manantial de vida es la boca del justo,</span><span class=\"line\">pero la boca de los malvados oculta violencia.</span>",
+      "por": "<span class=\"verse-number\">11</span> A boca do justo Ã© fonte de vida, mas a violÃªncia cobre a boca dos Ã­mpios.",
+      "fra": "<span class=\"verse-number\">11</span> La bouche du juste est une source de vie, Mais la violence couvre la bouche des mÃ©chants.",
+      "deu": "<span class=\"verse-number\">11Â </span>Der Mund des Gerechten ist ein Quell des Lebens, aber der Mund der Gottlosen birgt Gewalttat (oder: Unheil). â",
+      "kor": "<span class=\"verse-number\">11</span> ìì¸ì ìì ìëªì ìì´ë¼ë ìì¸ì ìì ëì ë¨¸ê¸ìëëë¼",
+      "ita": "<span class=\"verse-number\">11</span> La bocca del giusto Ã¨ una fonte di vita, ma la bocca degli empi nasconde violenza."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>Hatred stirreth up strifes: but love covereth all sins.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>Ø§ÙÙØ¨ÙØºÙØ¶ÙØ§Ø¡Ù ØªÙØ«ÙÙØ±Ù Ø§ÙÙØ®ÙØµÙÙÙÙØ§ØªÙØ ÙÙØ§ÙÙÙÙØ­ÙØ¨ÙÙØ©Ù ØªÙØ³ÙØªÙØ±Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ°ÙÙÙÙÙØ¨Ù.",
+      "jpn": "<span class=\"verse-number\">12</span> <ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ãã¿ã¯ã<ruby><rb>äº</rb><rt>ããã</rt></ruby>ãã<ruby><rb>èµ·</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã¯ãã¹ã¦ã®ã¨ãããããã",
+      "spa": "<span class=\"verse-number\">12 </span><span class=\"line\">El odio despierta rencillas,</span><span class=\"line\">pero el amor cubrirÃ¡ todas las transgresiones.</span>",
+      "por": "<span class=\"verse-number\">12</span> O Ã³dio excita contendas, mas o amor cobre todas as transgressÃµes.",
+      "fra": "<span class=\"verse-number\">12</span> La haine excite les querelles, Mais lâamour couvre toutes les fautes.",
+      "deu": "<span class=\"verse-number\">12Â </span>HaÃ ruft Streit hervor, aber die Liebe deckt alle Verfehlungen zu. â",
+      "kor": "<span class=\"verse-number\">12</span> ë¯¸ìì ë¤í¼ì ì¼ì¼ì¼ë ì¬ëì ëª¨ë  íë¬¼ì ê°ë¦¬ëëë¼",
+      "ita": "<span class=\"verse-number\">12</span> Lâodio provoca liti, ma lâamore copre ogni colpa."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>In the lips of him that hath understanding wisdom is found: but a rod <span class=\"clarity-word\">is</span> for the back of him that is void of understanding.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙÙ Ø´ÙÙÙØªÙÙÙ Ø§ÙÙØ¹ÙØ§ÙÙÙÙ ØªÙÙÙÙÙÙÙ Ø­ÙÙÙÙÙØ©Ù Ø£ÙÙÙÙØ§ Ø§ÙÙØ¹ÙØµÙØ§ ÙÙÙÙÙÙ ÙÙØµÙÙØ¨Ù Ø¸ÙÙÙØ±Ù Ø§ÙØ£ÙØ­ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">13</span> ãã¨ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ãã¡ã³ãã«ã¯<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ãããã<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ã®ãªã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>è</rb><rt>ã</rt></ruby>ã«ã¯ãã¡ãããã",
+      "spa": "<span class=\"verse-number\">13 </span><span class=\"line\">En los labios del entendido se halla sabidurÃ­a,</span><span class=\"line\">pero la vara es para las espaldas del falto de entendimiento.</span>",
+      "por": "<span class=\"verse-number\">13</span> Nos lÃ¡bios do que tem discernimento se acha a sabedoria, mas a vara Ã© para as costas do falto de entendimento.",
+      "fra": "<span class=\"verse-number\">13</span> Sur les lÃ¨vres de lâhomme intelligent se trouve la sagesse, Mais le bÃ¢ton est pour le dos de celui qui est dÃ©pourvu de sens.",
+      "deu": "<span class=\"verse-number\">13Â </span>Auf den Lippen des VerstÃ¤ndigen findet man Weisheit, aber auf den RÃ¼cken des UnverstÃ¤ndigen gehÃ¶rt der Stock. â",
+      "kor": "<span class=\"verse-number\">13</span> ëªì² í ìì ìì ìë ì§íê° ìì´ë ì§í ìë ìì ë±ì ìíì¬ë ì±ì°ì´ ìëëë¼",
+      "ita": "<span class=\"verse-number\">13</span> Sulle labbra dellâuomo assennato si trova la saggezza, ma il bastone Ã¨ per il dorso di chi Ã¨ privo di senno."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>Wise <span class=\"clarity-word\">men</span> lay up knowledge: but the mouth of the foolish <span class=\"clarity-word\">is</span> near destruction.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>Ø§ÙÙØ­ÙÙÙÙÙØ§Ø¡Ù ÙÙØ°ÙØ®ÙØ±ÙÙÙÙ Ø§ÙÙÙÙØ¹ÙØ±ÙÙÙØ©ÙØ Ø£ÙÙÙÙØ§ ÙÙÙÙ Ø§ÙÙØºÙØ¨ÙÙÙÙ ÙÙÙÙØ¬ÙÙÙØ¨Ù Ø§ÙØ¯ÙÙÙÙØ§Ø±Ù.",
+      "jpn": "<span class=\"verse-number\">14</span> <ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>ç¥è­</rb><rt>ã¡ãã</rt></ruby>ããããããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ãã <ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã¯ã<ruby><rb>ä»</rb><rt>ãã¾</rt></ruby>ã«ã<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã³ããããããã",
+      "spa": "<span class=\"verse-number\">14 </span><span class=\"line\">Los sabios atesoran conocimiento,</span><span class=\"line\">pero la boca del necio es ruina cercana.</span>",
+      "por": "<span class=\"verse-number\">14</span> Os sÃ¡bios entesouram a sabedoria, mas a boca do tolo <span class=\"clarity-word\">estÃ¡</span> perto da ruÃ­na.",
+      "fra": "<span class=\"verse-number\">14</span> Les sages tiennent la connaissance en rÃ©serve, Mais la bouche de lâinsensÃ© est une ruine prochaine.",
+      "deu": "<span class=\"verse-number\">14Â </span>Die Weisen halten mit ihrer Erkenntnis zurÃ¼ck, aber der Mund des Toren ist herannahendes Verderben. â",
+      "kor": "<span class=\"verse-number\">14</span> ì§íë¡ì´ ìë ì§ìì ê°ì§íê±°ëì ë¯¸ë ¨í ìì ìì ë©¸ë§ì ê°ê¹ì°ëë¼",
+      "ita": "<span class=\"verse-number\">14</span> I saggi tengono in serbo la conoscenza, ma la bocca dello stolto Ã¨ una rovina imminente."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>The rich manâs wealth <span class=\"clarity-word\">is</span> his strong city: the destruction of the poor <span class=\"clarity-word\">is</span> their poverty.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>Ø«ÙØ±ÙÙÙØ©Ù Ø§ÙÙØºÙÙÙÙÙÙ ÙÙÙÙØ¹ÙØªÙÙÙ Ø§ÙÙØ­ÙØµÙÙÙÙØ©ÙØ ÙÙÙÙÙ ÙÙÙÙØ±Ù Ø§ÙÙÙÙØ³ÙØ§ÙÙÙÙÙ ÙÙÙØ§ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">15</span> <ruby><rb>å¯</rb><rt>ã¨</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å®</rb><rt>ããã</rt></ruby>ã¯ããã®<ruby><rb>å </rb><rt>ãã</rt></ruby>ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ã§ããã<ruby><rb>è²§</rb><rt>ã¾ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>ä¹</rb><rt>ã¨ã¼</rt></ruby>ããã¯ããã®<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã³ã§ããã",
+      "spa": "<span class=\"verse-number\">15 </span><span class=\"line\">Las riquezas del rico son su ciudad fortificada;</span><span class=\"line\">y la ruina de los pobres es su pobreza.</span>",
+      "por": "<span class=\"verse-number\">15</span> Os bens do rico <span class=\"clarity-word\">sÃ£o</span> a sua cidade forte; a pobreza dos pobres <span class=\"clarity-word\">Ã©</span> a sua ruÃ­na.",
+      "fra": "<span class=\"verse-number\">15</span> La fortune est pour le riche une ville fortifiÃ©eÂ ; La ruine des misÃ©rables, câest leur pauvretÃ©.",
+      "deu": "<span class=\"verse-number\">15Â </span>Des Reichen Besitz ist fÃ¼r ihn eine feste Burg, aber fÃ¼r die DÃ¼rftigen ist ihre Armut ein Unheil. â",
+      "kor": "<span class=\"verse-number\">15</span> ë¶ìì ì¬ë¬¼ì ê·¸ì ê²¬ê³ í ì±ì´ì ê°ëí ìì ê¶íì ê·¸ì ë©¸ë§ì´ëë¼",
+      "ita": "<span class=\"verse-number\">15</span> I beni del ricco sono la sua cittÃ  forte; la rovina dei poveri Ã¨ la loro povertÃ ."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>The labour of the righteous <span class=\"clarity-word\">tendeth</span> to life: the fruit of the wicked to sin.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>Ø¹ÙÙÙÙÙ Ø§ÙØµÙÙØ¯ÙÙÙÙÙ ÙÙÙÙØ¶ÙÙ Ø¥ÙÙÙÙ Ø§ÙÙØ­ÙÙÙØ§Ø©ÙØ ÙÙØ±ÙØ¨ÙØ­Ù Ø§ÙØ´ÙÙØ±ÙÙÙØ±Ù ÙÙØ¤ÙØ¯ÙÙÙ Ø¥ÙÙÙÙ Ø§ÙÙØ®ÙØ·ÙÙØ¦ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">16</span> <ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>è³é</rb><rt>ã¡ããã</rt></ruby>ã¯<ruby><rb>å½</rb><rt>ãã®ã¡</rt></ruby>ã«<ruby><rb>å°</rb><rt>ã¿ã¡ã³</rt></ruby>ãã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å©å¾</rb><rt>ãã¨ã</rt></ruby>ã¯<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã«<ruby><rb>è³</rb><rt>ãã</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">16 </span><span class=\"line\">El salario del justo es para vida;</span><span class=\"line\">la ganancia del malvado es para pecado.</span>",
+      "por": "<span class=\"verse-number\">16</span> A obra do justo <span class=\"clarity-word\">conduz</span> Ã  vida; os ganhos do Ã­mpio, ao pecado.",
+      "fra": "<span class=\"verse-number\">16</span> LâÅuvre du juste est pour la vie, Le gain du mÃ©chant est pour le pÃ©chÃ©.",
+      "deu": "<span class=\"verse-number\">16Â </span>Der Erwerb des Gerechten dient zum Leben (oder: Segen), das Einkommen des Gottlosen zur SÃ¼nde. â",
+      "kor": "<span class=\"verse-number\">16</span> ìì¸ì ìê³ ë ìëªì ì´ë¥´ê³  ìì¸ì ìëì ì£ì ì´ë¥´ëëë¼",
+      "ita": "<span class=\"verse-number\">16</span> Il lavoro del giusto serve alla vita, le entrate dellâempio servono al peccato."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>He <span class=\"clarity-word\">is in</span> the way of life that keepeth instruction: but he that refuseth reproof erreth.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙÙÙ ÙÙØ¹ÙÙÙÙÙ Ø¨ÙÙÙÙÙØªÙØ¶ÙÙ Ø§ÙØªÙÙØ¹ÙÙÙÙÙÙ ÙÙØ³ÙØ±Ù ÙÙÙ Ø¯ÙØ±ÙØ¨Ù Ø§ÙÙØ­ÙÙÙØ§Ø©ÙØ ÙÙÙÙÙÙ ÙÙØ±ÙÙÙØ¶Ù Ø§ÙØªÙÙØ£ÙØ¯ÙÙØ¨Ù ÙÙØ¶ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">17</span> <ruby><rb>æè¨</rb><rt>ããããã</rt></ruby>ã<ruby><rb>å®</rb><rt>ã¾ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>å½</rb><rt>ãã®ã¡</rt></ruby>ã®<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã«ããã<ruby><rb>æ²</rb><rt>ãã</rt></ruby>ããã<ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã¦ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ããµã¿<ruby><rb>è¿·</rb><rt>ã¾ã</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">17 </span><span class=\"line\">El que guarda la instrucciÃ³n estÃ¡ en el camino a la vida,</span><span class=\"line\">pero el que desecha la reprensiÃ³n, yerra.</span>",
+      "por": "<span class=\"verse-number\">17</span> O caminho para a vida <span class=\"clarity-word\">Ã©</span> daquele que guarda a correÃ§Ã£o, mas o que deixa a repreensÃ£o erra.",
+      "fra": "<span class=\"verse-number\">17</span> Celui qui se souvient de la correction prend le chemin de la vie, Mais celui qui oublie la rÃ©primande sâÃ©gare.",
+      "deu": "<span class=\"verse-number\">17Â </span>Wer Zurechtweisung (oder: die Mahnung) beachtet, befindet sich auf dem Wege zum Leben; wer aber Warnungen unbeachtet lÃ¤Ãt, geht irre. â",
+      "kor": "<span class=\"verse-number\">17</span> íê³ë¥¼ ì§í¤ë ìë ìëª ê¸¸ë¡ ííì¬ë ì§ê³ë¥¼ ë²ë¦¬ë ìë ê·¸ë¦ ê°ëëë¼",
+      "ita": "<span class=\"verse-number\">17</span> Chi tiene conto della correzione segue il cammino della vita; ma chi ignora il rimprovero si smarrisce."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>He that hideth hatred <span class=\"clarity-word\">with</span> lying lips, and he that uttereth a slander, <span class=\"clarity-word\">is</span> a fool.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙÙÙ ÙÙØ¶ÙÙÙØ±Ù Ø§ÙÙØ¨ÙØºÙØ¶ÙØ§Ø¡Ù ØªÙÙÙØ·ÙÙÙ Ø´ÙÙÙØªÙØ§ÙÙ Ø¨ÙØ§ÙÙÙÙØ°ÙØ¨ÙØ ÙÙÙÙÙÙ Ø¬ÙØ§ÙÙØ±Ù Ø¨ÙØ§ÙÙÙÙØ°ÙÙÙÙØ©Ù ÙÙÙÙÙÙ Ø£ÙØ­ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">18</span> <ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ãã¿ã<ruby><rb>é </rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ã¯<ruby><rb>å½</rb><rt>ãã¤ã</rt></ruby>ãã®ãã¡ã³ããããããããã<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã </rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">18 </span><span class=\"line\">El que encubre el odio es de labios mentirosos,</span><span class=\"line\">y el que difama es insensato.</span>",
+      "por": "<span class=\"verse-number\">18</span> O que encobre o Ã³dio <span class=\"clarity-word\">tem</span> lÃ¡bios falsos, e o que divulga mÃ¡ fama Ã© <span class=\"clarity-word\">um</span> insensato.",
+      "fra": "<span class=\"verse-number\">18</span> Celui qui dissimule la haine a des lÃ¨vres menteuses, Et celui qui rÃ©pand la calomnie est un insensÃ©.",
+      "deu": "<span class=\"verse-number\">18Â </span>Wer HaÃ (oder: GehÃ¤ssiges) in sich verbirgt, hat LÃ¼genlippen, und wer Ã¼ble Nachrede verbreitet, ist ein Tor. â",
+      "kor": "<span class=\"verse-number\">18</span> ë¯¸ìì ê°ì¶ë ìë ê±°ì§ë ìì ì ê°ì§ ìì ì¤ìíë ìë ë¯¸ë ¨í ìì´ëë¼",
+      "ita": "<span class=\"verse-number\">18</span> Chi dissimula lâodio ha labbra bugiarde, e chi spande la calunnia Ã¨ uno stolto."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>In the multitude of words there wanteth not sin: but he that refraineth his lips <span class=\"clarity-word\">is</span> wise.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙÙ ÙÙØ«ÙØ±ÙØ©Ù Ø§ÙÙÙÙÙØ§ÙÙ Ø²ÙÙÙØ§ØªÙ ÙÙØ³ÙØ§ÙÙØ ÙÙÙÙÙÙ ÙÙØ¶ÙØ¨ÙØ·Ù Ø´ÙÙÙØªÙÙÙÙÙ ÙÙÙÙÙÙ Ø¹ÙØ§ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">19</span> <ruby><rb>è¨è</rb><rt>ãã¨ã°</rt></ruby>ã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ããã°ãã¨ãã<ruby><rb>å</rb><rt>ã¾ã¬ã</rt></ruby>ããªãã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®ãã¡ã³ãã<ruby><rb>å¶</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ãããã",
+      "spa": "<span class=\"verse-number\">19 </span><span class=\"line\">En las muchas palabras no falta pecado,</span><span class=\"line\">pero el que refrena sus labios es prudente.</span>",
+      "por": "<span class=\"verse-number\">19</span> Na multidÃ£o de palavras nÃ£o hÃ¡ falta de transgressÃ£o, mas o que modera os seus lÃ¡bios <span class=\"clarity-word\">Ã©</span> prudente.",
+      "fra": "<span class=\"verse-number\">19</span> Celui qui parle beaucoup ne manque pas de pÃ©cher, Mais celui qui retient ses lÃ¨vres est un homme prudent.",
+      "deu": "<span class=\"verse-number\">19Â </span>Wo viele Worte sind, da geht es ohne Verfehlung nicht ab; wer aber seine Lippen im Zaume hÃ¤lt, handelt klug. â",
+      "kor": "<span class=\"verse-number\">19</span> ë§ì´ ë§ì¼ë©´ íë¬¼ì ë©´íê¸° ì´ë ¤ì°ë ê·¸ ìì ì ì ì´íë ìë ì§íê° ìëëë¼",
+      "ita": "<span class=\"verse-number\">19</span> Nella moltitudine delle parole non manca la colpa, ma chi frena le sue labbra Ã¨ prudente."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>The tongue of the just <span class=\"clarity-word\">is as</span> choice silver: the heart of the wicked <span class=\"clarity-word\">is</span> little worth.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙÙØ§ÙÙ Ø§ÙØµÙÙØ¯ÙÙÙÙÙ ÙÙØ§ÙÙÙÙØ¶ÙÙØ©Ù Ø§ÙÙÙÙØµÙÙÙÙØ§Ø©ÙØ ÙÙÙÙÙÙØ¨Ù Ø§ÙØ´ÙÙØ±ÙÙÙØ±Ù ÙÙØ®ÙÙÙÙ ÙÙÙÙ ÙÙÙÙÙ ÙÙÙÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">20</span> <ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç²¾</rb><rt>ãã</rt></ruby><ruby><rb>é</rb><rt>ãã</rt></ruby>ã§ããã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã¯<ruby><rb>ä¾¡å¤</rb><rt>ãã¡</rt></ruby>ã<ruby><rb>å°</rb><rt>ãã</rt></ruby>ãªãã",
+      "spa": "<span class=\"verse-number\">20 </span><span class=\"line\">Plata escogida es la lengua del justo;</span><span class=\"line\">pero el corazÃ³n de los malvados es de poco <span class=\"clarity-word\">valor.</span></span>",
+      "por": "<span class=\"verse-number\">20</span> Prata escolhida <span class=\"clarity-word\">Ã©</span> a lÃ­ngua do justo; o coraÃ§Ã£o dos Ã­mpios <span class=\"clarity-word\">Ã©</span> de nenhum valor.",
+      "fra": "<span class=\"verse-number\">20</span> La langue du juste est un argent de choixÂ ; Le cÅur des mÃ©chants est peu de chose.",
+      "deu": "<span class=\"verse-number\">20Â </span>Kostbares Silber ist die Zunge (= Rede) des Gerechten, der Verstand der Gottlosen (aber) ist wenig wert. â",
+      "kor": "<span class=\"verse-number\">20</span> ìì¸ì íë ììê³¼ ê°ê±°ëì ìì¸ì ë§ìì ê°ì¹ê° ì ì¼ëë¼",
+      "ita": "<span class=\"verse-number\">20</span> La lingua del giusto Ã¨ argento scelto; il cuore degli empi vale poco."
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>The lips of the righteous feed many: but fools die for want of wisdom.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙÙØ§ÙÙ Ø§ÙØµÙÙØ¯ÙÙÙÙÙ ÙÙÙÙÙØ¯Ù ÙÙØ«ÙÙØ±ÙÙÙÙØ Ø£ÙÙÙÙØ§ Ø§ÙÙØ­ÙÙÙÙÙÙ ÙÙÙÙÙÙÙØªÙÙÙÙ ÙÙÙÙ Ø³ÙÙØ¡Ù Ø§ÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">21</span> <ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ãã¡ã³ãã¯<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>é¤</rb><rt>ãããª</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ããªãã¦<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ã¬ã",
+      "spa": "<span class=\"verse-number\">21 </span><span class=\"line\">Los labios del justo apacientan a muchos,</span><span class=\"line\">pero los necios mueren por falta de entendimiento.</span>",
+      "por": "<span class=\"verse-number\">21</span> Os lÃ¡bios do justo apascentam muitos, mas os tolos, por falta de entendimento, morrem.",
+      "fra": "<span class=\"verse-number\">21</span> Les lÃ¨vres du juste dirigent beaucoup dâhommes, Et les insensÃ©s meurent par manque de bon sens.",
+      "deu": "<span class=\"verse-number\">21Â </span>Die Lippen des Gerechten schaffen vielen eine Erquickung, aber die Toren gehen durch Unverstand zugrunde. â",
+      "kor": "<span class=\"verse-number\">21</span> ìì¸ì ìì ì ì¬ë¬ ì¬ëì êµì¡íë ë¯¸ë ¨í ìë ì§ìì´ ìì´ ì£½ëëë¼",
+      "ita": "<span class=\"verse-number\">21</span> Le labbra del giusto nutrono molti, ma gli stolti muoiono per mancanza di senno."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>The blessing of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, it maketh rich, and he addeth no sorrow with it.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙÙ Ø¨ÙØ±ÙÙÙØ©Ù Ø§ÙØ±ÙÙØ¨ÙÙ ØºÙÙÙÙ ÙÙÙØ§ ØªÙØ¶ÙÙÙÙ Ø¥ÙÙÙÙÙÙÙØ§ Ø§ÙÙÙÙØ´ÙÙÙÙØ©Ù ØªÙØ¹ÙØ¨Ø§Ù.",
+      "jpn": "<span class=\"verse-number\">22</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>å¯</rb><rt>ã¨</rt></ruby>ã¾ããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ããã«ãªãã®<ruby><rb>æ²</rb><rt>ããª</rt></ruby>ãã¿ãã<ruby><rb>å </rb><rt>ãã</rt></ruby>ããªãã",
+      "spa": "<span class=\"verse-number\">22 </span><span class=\"line\">La bendiciÃ³n de JehovÃ¡ es la que enriquece,</span><span class=\"line\">y no aÃ±ade tristeza con ella.</span>",
+      "por": "<span class=\"verse-number\">22</span> A bÃªnÃ§Ã£o do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> Ã© a que enriquece, e ele nÃ£o lhe acrescenta dores.",
+      "fra": "<span class=\"verse-number\">22</span> Câest la bÃ©nÃ©diction de lâÃternel qui enrichit, Et il ne la fait suivre dâaucun chagrin.",
+      "deu": "<span class=\"verse-number\">22Â </span>Der Segen des HErrn istâs, der reich macht, und neben ihm fÃ¼gt (eigene) Anstrengung nichts hinzu. â",
+      "kor": "<span class=\"verse-number\">22</span> ì¬í¸ìê»ì ì£¼ìë ë³µì <span class=\"clarity-word\">ì¬ëì</span> ë¶íê² íê³  ê·¼ì¬ì ê²¸íì¬ ì£¼ì§ ìëíìëëë¼",
+      "ita": "<span class=\"verse-number\">22</span> Quel che fa ricchi Ã¨ la benedizione dellâEterno e il tormento che uno si dÃ  non le aggiunge nulla."
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span><span class=\"clarity-word\">It is</span> as sport to a fool to do mischief: but a man of understanding hath wisdom.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>Ø§Ø±ÙØªÙÙÙØ§Ø¨Ù Ø§ÙÙÙÙØ§Ø­ÙØ´ÙØ©Ù Ø¹ÙÙÙØ¯Ù Ø§ÙÙØ¬ÙØ§ÙÙÙÙ ÙÙØ§ÙÙÙÙØ¹ÙØ¨ÙØ Ø£ÙÙÙÙØ§ Ø­ÙØ³ÙÙÙ Ø§ÙØªÙÙØµÙØ±ÙÙÙÙ ÙÙÙÙØ³ÙØ±ÙÙØ©Ù ÙÙÙÙØ­ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">23</span> <ruby><rb>æ</rb><rt>ãã</rt></ruby>ããª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã<ruby><rb>æ¯</rb><rt>ããã</rt></ruby>ã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã®ããã«<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãããã¨ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã«ã¯<ruby><rb>è³¢</rb><rt>ããã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãã<ruby><rb>æ¥½</rb><rt>ãã®</rt></ruby>ãã¿ã§ããã",
+      "spa": "<span class=\"verse-number\">23 </span><span class=\"line\">El hacer maldad es como una diversiÃ³n para el insensato,</span><span class=\"line\">pero el hombre entendido tiene sabidurÃ­a.</span>",
+      "por": "<span class=\"verse-number\">23</span> Como brincadeira <span class=\"clarity-word\">Ã©</span> para o tolo fazer abominaÃ§Ã£o, mas a sabedoria <span class=\"clarity-word\">Ã© deleite</span> para o homem de entendimento.",
+      "fra": "<span class=\"verse-number\">23</span> Commettre le crime paraÃ®t un jeu Ã  lâinsensÃ©, Mais la sagesse appartient Ã  lâhomme intelligent.",
+      "deu": "<span class=\"verse-number\">23Â </span>Dem Toren machen Schandtaten VergnÃ¼gen, dem verstÃ¤ndigen Manne aber die (BetÃ¤tigung der) Weisheit. â",
+      "kor": "<span class=\"verse-number\">23</span> ë¯¸ë ¨í ìë íìì¼ë¡ ëì ì¼ë ê² ê°ì´ ëªì² í ìë ì§íë¡ <span class=\"clarity-word\">ëì ì¼ëëë¼</span>",
+      "ita": "<span class=\"verse-number\">23</span> Commettere un delitto, per lo stolto, Ã¨ come uno spasso; tale Ã¨ la saggezza per lâuomo accorto."
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙØ§ ÙÙØ®ÙØ´ÙÙ ÙÙÙÙÙÙ Ø§ÙØ´ÙÙØ±ÙÙÙØ±Ù ÙÙÙÙØ¨ÙÙÙ Ø¥ÙÙÙÙÙÙÙØ ÙÙØ´ÙÙÙÙÙØ©Ù Ø§ÙØµÙÙØ¯ÙÙÙÙÙÙÙÙ ØªÙÙÙÙÙØ­Ù ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">24</span> <ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã¨ã¯<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã«<ruby><rb>æ¥</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>é¡</rb><rt>ã­ã</rt></ruby>ããã¨ã¯<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">24 </span><span class=\"line\">Lo que el malvado teme, eso le vendrÃ¡,</span><span class=\"line\">pero a los justos les serÃ¡ concedido lo que desean.</span>",
+      "por": "<span class=\"verse-number\">24</span> O temor do Ã­mpio virÃ¡ sobre ele, mas o desejo dos justos serÃ¡ concedido.",
+      "fra": "<span class=\"verse-number\">24</span> Ce que redoute le mÃ©chant, câest ce qui lui arriveÂ ; Et ce que dÃ©sirent les justes leur est accordÃ©.",
+      "deu": "<span class=\"verse-number\">24Â </span>Wovor dem Gottlosen graut, das kommt Ã¼ber ihn; was aber die Gerechten sich wÃ¼nschen, gewÃ¤hrt er (d. h. der HErr) ihnen. â",
+      "kor": "<span class=\"verse-number\">24</span> ìì¸ìê²ë ê·¸ì ëë ¤ìíë ê²ì´ ìíê±°ëì ìì¸ì ê·¸ ìíë ê²ì´ ì´ë£¨ì´ì§ëëë¼",
+      "ita": "<span class=\"verse-number\">24</span> Allâempio succede quello che teme, ma ai giusti Ã¨ concesso quel che desiderano."
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>As the whirlwind passeth, so <span class=\"clarity-word\">is</span> the wicked no <span class=\"clarity-word\">more:</span> but the righteous <span class=\"clarity-word\">is</span> an everlasting foundation.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>ÙÙØªÙÙØ§Ø´ÙÙ Ø§ÙØ´ÙÙØ±ÙÙÙØ±Ù ÙÙÙÙØ§ ØªÙØªÙÙØ§Ø´ÙÙ Ø§ÙØ²ÙÙÙÙØ¨ÙØ¹ÙØ©ÙØ Ø£ÙÙÙÙØ§ Ø§ÙØµÙÙØ¯ÙÙÙÙÙ ÙÙÙÙØ®ÙÙÙØ¯Ù Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯Ù.",
+      "jpn": "<span class=\"verse-number\">25</span> ãããã<ruby><rb>é</rb><rt>ã¨ã</rt></ruby>ãããã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ããã¯ããããªããªãã<ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>æ°¸ä¹</rb><rt>ããããã</rt></ruby>ã«<ruby><rb>å </rb><rt>ãã</rt></ruby>ã<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¦ãããã",
+      "spa": "<span class=\"verse-number\">25 </span><span class=\"line\">AsÃ­ como pasa el torbellino, asÃ­ el malo no permanece,</span><span class=\"line\">mas el justo permanece para siempre.</span>",
+      "por": "<span class=\"verse-number\">25</span> Como passa a tempestade, assim o Ã­mpio desaparece, mas o justo <span class=\"clarity-word\">tem</span> perpÃ©tuo fundamento.",
+      "fra": "<span class=\"verse-number\">25</span> Comme passe le tourbillon, ainsi disparaÃ®t le mÃ©chantÂ ; Mais le juste a des fondements Ã©ternels.",
+      "deu": "<span class=\"verse-number\">25Â </span>Sobald der Sturmwind daherfÃ¤hrt, ist der Gottlose nicht mehr da, der Gerechte aber ist fÃ¼r die Ewigkeit fest gegrÃ¼ndet. â",
+      "kor": "<span class=\"verse-number\">25</span> íì¤ë¦¬ë°ëì´ ì§ëê°ë©´ ìì¸ì ìì´ì ¸ë ìì¸ì ììí ê¸°ì´ ê°ì¼ëë¼",
+      "ita": "<span class=\"verse-number\">25</span> Come tempesta che passa, lâempio non Ã¨ piÃ¹, ma il giusto ha un fondamento eterno."
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span>As vinegar to the teeth, and as smoke to the eyes, so <span class=\"clarity-word\">is</span> the sluggard to them that send him.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>Ø§ÙÙÙÙØ³ÙÙÙÙ ÙÙÙÙÙÙ Ø£ÙØ±ÙØ³ÙÙÙÙÙ ÙÙØ§ÙÙØ®ÙÙÙÙ ÙÙÙØ£ÙØ³ÙÙÙØ§ÙÙ Ø£ÙÙÙ ÙÙØ§ÙØ¯ÙÙØ®ÙØ§ÙÙ ÙÙÙÙØ¹ÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">26</span> ãªã¾ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ããããã¤ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ã¨ã£ã¦ã¯ã<ruby><rb>é¢</rb><rt>ã</rt></ruby>ã<ruby><rb>æ­¯</rb><rt>ã¯</rt></ruby>ããããã<ruby><rb>ç</rb><rt>ããã</rt></ruby>ã<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã<ruby><rb>æ©</rb><rt>ãªã</rt></ruby>ã¾ããããªãã®ã ã",
+      "spa": "<span class=\"verse-number\">26 </span><span class=\"line\">Como el vinagre para los dientes y como el humo para los ojos,</span><span class=\"line\">asÃ­ es el perezoso para los que lo envÃ­an.</span>",
+      "por": "<span class=\"verse-number\">26</span> Como vinagre para os dentes, como a fumaÃ§a para os olhos, assim <span class=\"clarity-word\">Ã©</span> o preguiÃ§oso para aqueles que o mandam.",
+      "fra": "<span class=\"verse-number\">26</span> Ce que le vinaigre est aux dents et la fumÃ©e aux yeux, Tel est le paresseux pour celui qui lâenvoie.",
+      "deu": "<span class=\"verse-number\">26Â </span>Was der Essig fÃ¼r die ZÃ¤hne und der Rauch fÃ¼r die Augen, das ist der Faule fÃ¼r den, der ihn ausgesandt (oder: beauftragt) hat. â",
+      "kor": "<span class=\"verse-number\">26</span> ê²ì¼ë¥¸ ìë ê·¸ ë¶ë¦¬ë ì¬ëìê² ë§ì¹ ì´ì ìì´ ê°ê³  ëì ì°ê¸° ê°ì¼ëë¼",
+      "ita": "<span class=\"verse-number\">26</span> Come lâaceto per i denti e il fumo per gli occhi, cosÃ¬ Ã¨ il pigro per chi lo manda."
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>The fear of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> prolongeth days: but the years of the wicked shall be shortened.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ØªÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ØªÙØ·ÙÙÙÙ Ø£ÙÙÙÙØ§ÙÙ Ø§ÙÙØ­ÙÙÙØ§Ø©ÙØ Ø£ÙÙÙÙØ§ Ø³ÙÙÙÙ Ø§ÙØ´ÙÙØ±ÙÙÙØ±Ù ÙÙØªÙÙÙØµÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">27</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã¨ã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å½</rb><rt>ãã®ã¡</rt></ruby>ã®<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å¹´</rb><rt>ã¨ã</rt></ruby>ã¯<ruby><rb>ç¸®</rb><rt>ã¡ã¢</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">27 </span><span class=\"line\">El temor de JehovÃ¡ aumentarÃ¡ los dÃ­as,</span><span class=\"line\">pero los aÃ±os de los malvados serÃ¡n acortados.</span>",
+      "por": "<span class=\"verse-number\">27</span> O temor do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> aumenta os dias, mas os anos dos Ã­mpios serÃ£o abreviados.",
+      "fra": "<span class=\"verse-number\">27</span> La crainte de lâÃternel augmente les jours, Mais les annÃ©es des mÃ©chants sont abrÃ©gÃ©es.",
+      "deu": "<span class=\"verse-number\">27Â </span>Die Furcht des HErrn verlÃ¤ngert die Lebenstage, aber die Jahre der Gottlosen werden verkÃ¼rzt. â",
+      "kor": "<span class=\"verse-number\">27</span> ì¬í¸ìë¥¼ ê²½ì¸íë©´ ì¥ìíëëë¼ ê·¸ë¬ë ìì¸ì ìëªì ì§§ìì§ëëë¼",
+      "ita": "<span class=\"verse-number\">27</span> Il timore dellâEterno accresce i giorni, ma gli anni degli empi saranno accorciati."
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span>The hope of the righteous <span class=\"clarity-word\">shall be</span> gladness: but the expectation of the wicked shall perish.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>Ø§ÙÙØ¨ÙÙÙØ¬ÙØ©Ù ÙÙÙÙ Ø£ÙÙÙÙÙ Ø§ÙØµÙÙØ¯ÙÙÙÙÙØ ÙÙØ±ÙØ¬ÙØ§Ø¡Ù Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù ÙÙØ¢ÙÙÙÙ Ø§ÙÙÙÙÙØ§Ø¡Ù.",
+      "jpn": "<span class=\"verse-number\">28</span> <ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ã¿ã¯<ruby><rb>å</rb><rt>ããã</rt></ruby>ã³ã«<ruby><rb>çµ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ã¿ã¯<ruby><rb>çµ¶</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">28 </span><span class=\"line\">La esperanza de los justos es alegrÃ­a,</span><span class=\"line\">pero la esperanza de los malvados perecerÃ¡.</span>",
+      "por": "<span class=\"verse-number\">28</span> A esperanÃ§a dos justos <span class=\"clarity-word\">Ã©</span> alegria, mas a expectaÃ§Ã£o dos Ã­mpios perecerÃ¡.",
+      "fra": "<span class=\"verse-number\">28</span> Lâattente des justes nâest que joie, Mais lâespÃ©rance des mÃ©chants pÃ©rira.",
+      "deu": "<span class=\"verse-number\">28Â </span>Das Harren der Gerechten endet in Freude, aber die Hoffnung der Gottlosen wird vereitelt. â",
+      "kor": "<span class=\"verse-number\">28</span> ìì¸ì ìë§ì ì¦ê±°ìì ì´ë£¨ì´ë ìì¸ì ìë§ì ëì´ì§ëëë¼",
+      "ita": "<span class=\"verse-number\">28</span> Lâattesa dei giusti Ã¨ letizia, ma la speranza degli empi perirÃ ."
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>The way of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> <span class=\"clarity-word\">is</span> strength to the upright: but destruction <span class=\"clarity-word\">shall be</span> to the workers of iniquity.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>Ø·ÙØ±ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙ ÙÙÙØ§Ø°Ù ÙÙÙÙÙÙØ³ÙØªÙÙÙÙÙÙÙÙÙØ ÙÙØ¯ÙÙÙØ§Ø±Ù ÙÙÙÙØ§Ø¹ÙÙÙÙ Ø§ÙØ¥ÙØ«ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">29</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ãã¾ã£ããã«<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ã¯<ruby><rb>å</rb><rt>ãã</rt></ruby>ã§ããã<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ã¯<ruby><rb>æ»</rb><rt>ã»ã</rt></ruby>ã³ã§ããã",
+      "spa": "<span class=\"verse-number\">29 </span><span class=\"line\">El camino de JehovÃ¡ es fortaleza para el Ã­ntegro,</span><span class=\"line\">pero destrucciÃ³n para los que cometen maldad.</span>",
+      "por": "<span class=\"verse-number\">29</span> O caminho do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">Ã©</span> fortaleza para os retos, mas ruÃ­na serÃ¡ para os que praticam iniquidade.",
+      "fra": "<span class=\"verse-number\">29</span> La voie de lâÃternel est un rempart pour lâintÃ©gritÃ©, Mais elle est une ruine pour ceux qui font le mal.",
+      "deu": "<span class=\"verse-number\">29Â </span>Das Walten des HErrn ist eine Schutzwehr fÃ¼r den Unschuldigen, aber ein Schrecken (oder: Verderben) fÃ¼r die ÃbeltÃ¤ter. â",
+      "kor": "<span class=\"verse-number\">29</span> ì¬í¸ìì ëê° ì ì§í ììê²ë ì°ì±ì´ì íìíë ììê²ë ë©¸ë§ì´ëë¼",
+      "ita": "<span class=\"verse-number\">29</span> La via dellâEterno Ã¨ una fortezza per lâuomo integro, ma una rovina per gli operatori dâiniquitÃ ."
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span>The righteous shall never be removed: but the wicked shall not inhabit the earth.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>ÙÙØ§ ÙÙØ²ÙØ­ÙØ²ÙØ­Ù Ø§ÙØµÙÙØ¯ÙÙÙÙÙ Ø£ÙØ¨ÙØ¯Ø§ÙØ Ø£ÙÙÙÙØ§ Ø§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù ÙÙÙØ§ ÙÙØ³ÙÙÙÙÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù.",
+      "jpn": "<span class=\"verse-number\">30</span> <ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ãã¤ã¾ã§ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãããããã¨ã¯ãªãã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ããã¨ãã§ããªãã",
+      "spa": "<span class=\"verse-number\">30 </span><span class=\"line\">El justo jamÃ¡s serÃ¡ removido,</span><span class=\"line\">pero los malvados no habitarÃ¡n la tierra.</span>",
+      "por": "<span class=\"verse-number\">30</span> O justo jamais serÃ¡ abalado, mas os Ã­mpios nÃ£o habitarÃ£o a terra.",
+      "fra": "<span class=\"verse-number\">30</span> Le juste ne chancellera jamais, Mais les mÃ©chants nâhabiteront pas le pays.",
+      "deu": "<span class=\"verse-number\">30Â </span>Der Gerechte wird nimmermehr wanken, aber die Gottlosen werden im Lande nicht wohnen bleiben. â",
+      "kor": "<span class=\"verse-number\">30</span> ìì¸ì ììí ì´ëëì§ ìëíì¬ë ìì¸ì ëì ê±°íì§ ëª»íê² ëëëë¼",
+      "ita": "<span class=\"verse-number\">30</span> Il giusto non sarÃ  mai smosso, ma gli empi non abiteranno la terra."
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span>The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙÙÙ ÙÙÙÙ Ø§ÙØµÙÙØ¯ÙÙÙÙÙ ØªÙÙÙÙØ¶Ù Ø§ÙÙØ­ÙÙÙÙÙØ©ÙØ ÙÙØ§ÙÙÙÙØ³ÙØ§ÙÙ Ø§ÙÙÙÙØ®ÙØ§ØªÙÙÙ ÙÙÙÙØ·ÙØ¹Ù.",
+      "jpn": "<span class=\"verse-number\">31</span> <ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã¯<ruby><rb>ç¥æµ</rb><rt>ã¡ã</rt></ruby>ããã ãã<ruby><rb>å½</rb><rt>ãã¤ã</rt></ruby>ãã®<ruby><rb>è</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>æ</rb><rt>ã¬</rt></ruby>ãããã",
+      "spa": "<span class=\"verse-number\">31 </span><span class=\"line\">La boca del justo produce sabidurÃ­a,</span><span class=\"line\">pero la lengua perversa serÃ¡ cortada.</span>",
+      "por": "<span class=\"verse-number\">31</span> A boca do justo em abundÃ¢ncia produz sabedoria, mas a lÃ­ngua da perversidade serÃ¡ desarraigada.",
+      "fra": "<span class=\"verse-number\">31</span> La bouche du juste produit la sagesse, Mais la langue perverse sera retranchÃ©e.",
+      "deu": "<span class=\"verse-number\">31Â </span>Der Mund des Gerechten lÃ¤Ãt Weisheit sprieÃen, aber die falsche Zunge wird ausgerottet (oder: verfÃ¤llt dem Untergang). â",
+      "kor": "<span class=\"verse-number\">31</span> ìì¸ì ìì ì§íë¥¼ ë´ì´ë í¨ì­í íë ë² ìì ë¹í  ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">31</span> La bocca del giusto sgorga saggezza, ma la lingua perversa sarÃ  soppressa."
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span>The lips of the righteous know what is acceptable: but the mouth of the wicked <span class=\"clarity-word\">speaketh</span> frowardness.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>Ø´ÙÙÙØªÙØ§ Ø§ÙØµÙÙØ¯ÙÙÙÙÙ ØªÙØ¯ÙØ±ÙÙÙØ§ÙÙ ÙÙØ§ ÙÙÙÙ Ø­ÙÙÙÙØ ÙÙØªÙÙÙØ·ÙÙÙØ§ÙÙ Ø¨ÙÙÙØ ÙÙÙÙÙÙ Ø§ÙØ´ÙÙØ±ÙÙÙØ±Ù ÙÙØ§ ÙÙØªÙÙÙÙÙÙÙÙ Ø¥ÙÙÙØ§ Ø¨ÙØ§ÙÙØ¨ÙØ§Ø·ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">32</span> <ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ãã¡ã³ãã¯<ruby><rb>å</rb><rt>ããã</rt></ruby>ã°ãã¹ããã¨ãããã¾ãã<ruby><rb>æª</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã¯<ruby><rb>å½</rb><rt>ãã¤ã</rt></ruby>ãã<ruby><rb>èª</rb><rt>ãã</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">32 </span><span class=\"line\">Los labios del justo saben <span class=\"clarity-word\">decir</span> lo que agrada,</span><span class=\"line\">pero la boca de los malvados <span class=\"clarity-word\">habla</span> perversidades.</span>",
+      "por": "<span class=\"verse-number\">32</span> Os lÃ¡bios do justo sabem o que agrada, mas a boca dos Ã­mpios <span class=\"clarity-word\">anda cheia de</span> perversidades.",
+      "fra": "<span class=\"verse-number\">32</span> Les lÃ¨vres du juste connaissent la grÃ¢ce, Et la bouche des mÃ©chants la perversitÃ©.",
+      "deu": "<span class=\"verse-number\">32Â </span>Die Lippen des Gerechten verstehen sich auf das, was wohlgefÃ¤llig ist, aber der Mund der Gottlosen nur auf Verkehrtes.",
+      "kor": "<span class=\"verse-number\">32</span> ìì¸ì ìì ì ê¸°ìê² í  ê²ì ìê±°ë ìì¸ì ìì í¨ì­ì <span class=\"clarity-word\">ë§íëëë¼</span>",
+      "ita": "<span class=\"verse-number\">32</span> Le labbra del giusto conoscono ciÃ² che Ã¨ accettevole, ma la bocca degli empi Ã¨ piena di perversitÃ ."
+    }
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "volume": "bom",
+    "book": "2-ne",
+    "chapter": 24,
+    "headings": {
+      "ara": "Ø¬ÙØ¹ Ø¥Ø³Ø±Ø§Ø¦ÙÙ ÙØªÙØªØ¹ÙØ§ Ø¨Ø§ÙØ±Ø§Ø­Ø© ÙÙ Ø§ÙØ£ÙÙÙØ©âØ·Ø±Ø¯ ÙÙØ³ÙÙØ± ÙÙ Ø§ÙØ³ÙØ§Ø¡ ÙØªÙØ±ÙÙØ¯ÙâØºÙØ¨Ø© Ø¥Ø³Ø±Ø§Ø¦ÙÙ Ø¹ÙÙ Ø¨Ø§Ø¨Ù (Ø§ÙØ¹Ø§ÙÙ)âØ±Ø§Ø¬Ø¹ Ø¥Ø´Ø¹ÙØ§Ø¡ Ù¡Ù¤. (ÙÙ Ù¥Ù¥Ù© Ø¥ÙÙ Ù¥Ù¤Ù¥Â Ù.Ù. ØªÙØ±ÙØ¨ÙØ§)",
+      "jpn": "イスラエルは<ruby><rb>集</rb><rt>あつ</rt></ruby>められ、<ruby><rb>福</rb><rt>ふく</rt></ruby><ruby><rb>千</rb><rt>せん</rt></ruby><ruby><rb>年</rb><rt>ねん</rt></ruby>の<ruby><rb>安</rb><rt>あん</rt></ruby><ruby><rb>息</rb><rt>そく</rt></ruby>を<ruby><rb>享</rb><rt>きょう</rt></ruby><ruby><rb>受</rb><rt>じゅ</rt></ruby>する。ルシフェルは<ruby><rb>背</rb><rt>そむ</rt></ruby>いたために<ruby><rb>天</rb><rt>てん</rt></ruby>から<ruby><rb>追</rb><rt>お</rt></ruby>い<ruby><rb>出</rb><rt>だ</rt></ruby>された。イスラエルはバビロン（<ruby><rb>世</rb><rt>よ</rt></ruby>）に<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>勝</rb><rt>か</rt></ruby>つ。<a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/14?lang=jpn\">イザヤ<ruby><rb>書</rb><rt>しょ</rt></ruby><ruby><rb>第</rb><rt>だい</rt></ruby>十四<ruby><rb>章</rb><rt>しょう</rt></ruby></a>と<ruby><rb>比</rb><rt>ひ</rt></ruby><ruby><rb>較</rb><rt>かく</rt></ruby>。<ruby><rb>紀</rb><rt>き</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>前</rb><rt>ぜん</rt></ruby><ruby><rb>約</rb><rt>やく</rt></ruby>五百五十九<ruby><rb>年</rb><rt>ねん</rt></ruby>から五百四十五<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>至</rb><rt>いた</rt></ruby>る。",
+      "zhs": "<u>以色列</u>會重聚，並得享千禧年的安息——<u>路西弗</u>因反叛從天墜落——<u>以色列</u>會勝過<u>巴比倫</u>（世界）——比照<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/ot/isa/14.html\">《以賽亞書》第14章</span>。約主前559年至545年。",
+      "zht": "<u>ä»¥è²å</u>æéèï¼ä¸¦å¾äº«åç¦§å¹´çå®æ¯ââ<u>è·¯è¥¿å¼</u>å ååå¾å¤©å¢è½ââ<u>ä»¥è²å</u>æåé<u>å·´æ¯å«</u>ï¼ä¸çï¼ââæ¯ç§<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/ot/isa/14.html\">ãä»¥è³½äºæ¸ãç¬¬14ç« </span>ãç´ä¸»å559å¹´è³545å¹´ã",
+      "spa": "Israel será recogido y disfrutará de reposo milenario — Lucifer fue echado del cielo por su rebelión — Israel triunfará sobre Babilonia (el mundo) — Compárese con <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/14?lang=spa\">Isaías 14</a>. Aproximadamente 559–545 a.C.",
+      "por": "Israel serÃ¡ coligada e desfrutarÃ¡ o descanso do milÃªnioÂ â LÃºcifer foi expulso do cÃ©u por rebeliÃ£oÂ â Israel triunfarÃ¡ sobre BabilÃ´nia (o mundo)Â â Comparar com IsaÃ­as 14. Aproximadamente 559â545Â a.C.",
+      "fra": "IsraÃ«l sera rassemblÃ© et jouira du repos millÃ©naireÂ â Lucifer chassÃ© du ciel pour rÃ©bellionÂ â IsraÃ«l triomphera de Babylone (le monde)Â â Comparez avec ÃsaÃ¯e 14. Vers 559â545Â av.Â J.-C.",
+      "deu": "Israel wird gesammelt werden und wird sich an der Ruhe des Millenniums erfreuenÂ â Luzifer wurde wegen Auflehnung aus dem Himmel ausgestoÃenÂ â Israel wird Ã¼ber Babylon (die Welt) triumphierenÂ â Vergleiche Jesaja 14. Um 559â545Â v.Â Chr.",
+      "kor": "ì´ì¤ë¼ìì ì§í©ëì´ ë³µì²ëì ììì ëë¦´ ê²ìâë£¨ìí¼ë ëª¨ë°ì¼ë¡ ì¸íì¬ íëìì ì«ê²¨ë¬ìâì´ì¤ë¼ìì ë°ë²¨ë¡ (ì¸ì)ì ì´ê¸¸ ê²ìâì´ì¬ì¼ 14ì¥ê³¼ ë¹êµíë¼. ì£¼ì  559~545ëê²½.",
+      "ita": "Israele sarÃ  radunata e godrÃ  di un riposo millenarioÂ â Lucifero fu scacciato dal cielo per ribellioneÂ â Israele trionferÃ  su Babilonia (il mondo)Â â Confrontare con Isaia 14. Circa 559â545Â a.C."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "For the Lord will have mercy on Jacob, and will yet choose Israel, and set them in their own land; and the strangers shall be joined with them, and they shall cleave to the house of Jacob.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ£ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø³ÙÙÙØ±ÙØ­ÙÙÙ ÙÙØ¹ÙÙÙØ¨Ù ÙÙÙÙØ®ÙØªØ§Ø±Ù Ø¥ÙØ³ÙØ±Ø§Ø¦ÙÙÙØ ÙÙÙÙØ¬ÙØ¹ÙÙÙÙÙÙÙ ÙÙØ³ÙØªÙÙÙØ±ÙÙÙÙ ÙÙ Ø£ÙØ±ÙØ¶ÙÙÙÙÙØ ÙÙÙÙÙÙØ¶ÙÙÙÙ Ø¥ÙÙÙÙÙÙÙÙÙ Ø§ÙÙØºÙØ±ÙØ¨Ø§Ø¡Ù ÙÙÙÙÙÙØªÙØµÙÙÙÙÙ Ø¨ÙØ¨ÙÙÙØªÙ ÙÙØ¹ÙÙÙØ¨Ù.",
+      "jpn": "「<ruby>主<rt>しゅ</rt></ruby>はヤコブを<ruby>憐<rt>あわ</rt></ruby>れみ、やがてイスラエルを<ruby>選<rt>えら</rt></ruby>んで、<ruby>彼<rt>かれ</rt></ruby>らを<ruby>彼<rt>かれ</rt></ruby>ら<ruby>自<rt>じ</rt></ruby><ruby>身<rt>しん</rt></ruby>の<ruby>地<rt>ち</rt></ruby>に<ruby>置<rt>お</rt></ruby>かれる。また、<ruby>見<rt>み</rt></ruby><ruby>知<rt>し</rt></ruby>らぬ<ruby>者<rt>もの</rt></ruby>たちが<ruby>彼<rt>かれ</rt></ruby>らに<ruby>連<rt>つら</rt></ruby>なり、ヤコブの<ruby>家<rt>いえ</rt></ruby>に<ruby>結<rt>むす</rt></ruby>びつく。",
+      "zhs": "主会怜恤雅各，必再拣选以色列，将他们安置在自己的土地，寄居的必与他们联合，依附雅各家。",
+      "zht": "<span class=\"verse-number\">1ã</span>ä¸»æææ¤<u>éå</u>ï¼å¿åæé¸<u>ä»¥è²å</u>ï¼å°ä»åå®ç½®å¨èªå·±çåå°ï¼å¯å±çå¿èä»åè¯åï¼ä¾é<u>éå</u>å®¶ã",
+      "spa": "Porque el Señor tendrá piedad de Jacob, y todavía escogerá a Israel, y lo establecerá en su propia tierra; y extranjeros se juntarán con ellos y se unirán a la casa de Jacob.",
+      "por": "<span class=\"verse-number\">1 </span>Porque o Senhor se compadecerÃ¡ de JacÃ³ e, ainda assim, elegerÃ¡ Israel e pÃ´-los-Ã¡ na sua prÃ³pria terra; e ajuntar-se-Ã£o com eles os estranhos e apegar-se-Ã£o Ã  casa de JacÃ³.",
+      "fra": "<span class=\"verse-number\">1Â </span>Car le Seigneur aura pitiÃ© de Jacob, il choisira encore IsraÃ«l, et il les rÃ©tablira dans leur paysÂ ; les Ã©trangers se joindront Ã  eux, et ils sâuniront Ã  la maison de Jacob.",
+      "deu": "<span class=\"verse-number\">1Â </span>Denn der Herr wird sich Jakobs erbarmen und wird doch noch Israel erwÃ¤hlen und sie setzen in ihr eigenes Land; und die Fremdlinge werden ihnen zugesellt werden, und sie werden am Haus Jakob festhalten.",
+      "kor": "<span class=\"verse-number\">1 </span>ì£¼ê»ì ì¼ê³±ì ê¸í¼í ì¬ê¸°ìê³  ì´ì¤ë¼ìì ë¤ì ííì¬, ê·¸ë¤ì ê·¸ë¤ ìì ì ëì ëìë¦¬ë, ì¸ì¸ë¤ì´ ê·¸ë¤ê³¼ ì°í©íê² ë  ê²ì´ë©°, ê·¸ë¤ì´ ì¼ê³±ì ì§ì ê°ìí  ê²ì´ë¼.",
+      "ita": "<span class=\"verse-number\">1 </span>PoichÃ© il Signore avrÃ  misericordia di Giacobbe, e sceglierÃ  ancora Israele, e li metterÃ  nel loro paese; e gli stranieri si uniranno ad essi, e aderiranno al casato di Giacobbe."
+    },
+    "2": {
+      "eng": "And the people shall take them and bring them to their place; yea, from far unto the ends of the earth; and they shall return to their lands of promise. And the house of Israel shall possess them, and the land of the Lord shall be for servants and handmaids; and they shall take them captives unto whom they were captives; and they shall rule over their oppressors.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØªÙØ£ÙØ®ÙØ°ÙÙÙÙÙ Ø§ÙØ´ÙÙØ¹ÙØ¨Ù ÙÙØªÙØ£ÙØªÙ Ø¨ÙÙÙÙÙ Ø¥ÙÙÙ ÙÙÙÙØ¶ÙØ¹ÙÙÙÙÙØ Ø£ÙØ¬ÙÙÙØ ÙÙÙÙ Ø¨ÙØ¹ÙØ¯Ù Ø¥ÙÙÙ Ø£ÙÙØ§ØµÙ Ø§ÙÙØ£ÙØ±ÙØ¶ÙØ ÙÙÙÙØ±ÙØ¬ÙØ¹ÙÙÙ Ø¥ÙÙÙ Ø£ÙØ±Ø§Ø¶Ù ÙÙÙÙØ¹ÙØ¯ÙÙÙÙÙ. ÙÙÙÙÙÙØªÙÙÙÙÙÙÙÙÙ Ø¨ÙÙÙØªÙ Ø¥ÙØ³ÙØ±Ø§Ø¦ÙÙÙØ ÙÙØ£ÙØ±ÙØ¶Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø³ÙØªÙÙÙÙÙ ÙÙÙÙØ¹ÙØ¨ÙØ¯Ù ÙÙØ§ÙÙØ¥ÙÙØ§Ø¡ÙØ ÙÙÙÙØ³ÙØ¨ÙÙÙ Ø§ÙÙÙØ°ÙÙÙ Ø³ÙØ¨ÙÙÙÙÙÙÙØ ÙÙÙÙØ­ÙÙÙÙÙÙÙ Ø¸Ø§ÙÙÙÙÙÙÙÙ.",
+      "jpn": "<ruby>人<rt>ひと</rt></ruby><ruby>々<rt>びと</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>らを<ruby>連<rt>つ</rt></ruby>れて、<ruby>彼<rt>かれ</rt></ruby>らの<ruby>地<rt>ち</rt></ruby>に<ruby>導<rt>みちび</rt></ruby>く。まことに、<ruby>遠<rt>とお</rt></ruby>くから<ruby>地<rt>ち</rt></ruby>の<ruby>果<rt>は</rt></ruby>てまで<ruby>彼<rt>かれ</rt></ruby>らを<ruby>導<rt>みちび</rt></ruby>く。そして、<ruby>彼<rt>かれ</rt></ruby>らは<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>たちの<ruby>約<rt>やく</rt></ruby><ruby>束<rt>そく</rt></ruby>の<ruby>地<rt>ち</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>る。イスラエルの<ruby>家<rt>いえ</rt></ruby>はそれらを<ruby>所<rt>しょ</rt></ruby><ruby>有<rt>ゆう</rt></ruby>し、<ruby>主<rt>しゅ</rt></ruby>の<ruby>地<rt>ち</rt></ruby>は<ruby>僕<rt>しもべ</rt></ruby>のものとなり、はしためのものとなる。そして<ruby>彼<rt>かれ</rt></ruby>らは、かつて<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>たちをとりこにした<ruby>者<rt>もの</rt></ruby>をとりこにし、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>たちを<ruby>虐<rt>しいた</rt></ruby>げた<ruby>者<rt>もの</rt></ruby>を<ruby>治<rt>おさ</rt></ruby>める。",
+      "zhs": "人民必带着他们，将他们带回本土，是的，远自大地各端带回；他们必回到他们的应许地上。以色列家必拥有他们，主的地必是为了众仆婢；也会掳掠先前掳掠他们的，辖制欺压他们的。",
+      "zht": "<span class=\"verse-number\">2ã</span>äººæ°å¿å¸¶èä»åï¼å°ä»åå¸¶åæ¬åï¼æ¯çï¼é èªå¤§å°åç«¯å¸¶åï¼ä»åå¿åå°ä»åçæè¨±å°ä¸ã<u>ä»¥è²å</u>å®¶å¿ææä»åï¼ä¸»çå°å¿æ¯çºäºç¾åå©¢ï¼ä¹æææ ååææ ä»åçï¼è½å¶æ¬ºå£ä»åçã",
+      "spa": "Y los pueblos los tomarán y los llevarán a su lugar; sí, desde lejos hasta los extremos de la tierra; y retornarán a sus tierras de promisión. Y la casa de Israel los poseerá, y la tierra del Señor será para siervos y siervas; y cautivarán a aquellos de quienes fueron cautivos; y regirán a sus opresores.",
+      "por": "<span class=\"verse-number\">2 </span>E o povo tomÃ¡-los-Ã¡ e levÃ¡-los-Ã¡ ao seu lugar; sim, desde os confins da Terra; e voltarÃ£o para as suas terras de promissÃ£o. E a casa de Israel possuÃ­-las-Ã¡, e a terra do Senhor serÃ¡ para servos e servas; e cativarÃ£o aqueles que os cativaram, e dominarÃ£o os seus opressores.",
+      "fra": "<span class=\"verse-number\">2Â </span>Les peuples les prendront, et les ramÃ¨neront Ã  leur demeureÂ ; oui, des lointaines extrÃ©mitÃ©s de la terreÂ ; et ils retourneront dans leurs terres promises. Et la maison dâIsraÃ«l les possÃ©dera, et le pays du Seigneur sera pour les serviteurs et les servantesÂ ; et ils retiendront captifs ceux qui les avaient faits captifsÂ ; et ils domineront sur leurs oppresseurs.",
+      "deu": "<span class=\"verse-number\">2Â </span>Und die VÃ¶lker werden sie nehmen und sie an ihren Ort bringen, ja, von weither, bis hin an die Enden der Erde; und sie werden in ihre LÃ¤nder der VerheiÃung zurÃ¼ckkehren. Und das Haus Israel wird sie besitzen, und das Land des Herrn wird fÃ¼r Diener und MÃ¤gde sein; und sie werden diejenigen gefangen nehmen, bei denen sie gefangen waren, und sie werden Ã¼ber ihre BedrÃ¼cker herrschen.",
+      "kor": "<span class=\"verse-number\">2 </span>ë ë°±ì±ë¤ì´ ê·¸ë¤ì ì·¨íê³  ì°¸ì¼ë¡ ë©ë¦¬ ë ëììë¶í° ê·¸ë¤ì ì²ìë¡ ë°ë ¤ì¤ë¦¬ë, ê·¸ë¤ì´ ê·¸ë¤ì ì½ìì ëì¼ë¡ ëìì¬ ê²ì´ì, ì´ì¤ë¼ìì ì§ì ê·¸ ëì ìì íê² ê³ , ì£¼ì ëì ë¨ì¢ê³¼ ì¬ì¢ì ìí ê²ì´ ë  ê²ì´ë©°, ê·¸ë¤ì ìê¸°ë¥¼ ì¬ë¡ì¡ìë ìë¤ì ì¬ë¡ì¡ì ê²ì´ë©°, ê·¸ë¤ì ìê¸°ì ìì ìë¤ì ë¤ì¤ë¦¬ë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">2 </span>E i popoli li prenderanno e li condurranno al loro luogo, sÃ¬, da lungi fino alle estremitÃ  della terra; ed essi ritorneranno alle loro terre di promessa. E il casato dâIsraele le possederÃ  e il paese del Signore sarÃ  per i servi e le serve; ed essi terranno schiavi coloro dei quali erano schiavi; e governeranno sui loro oppressori."
+    },
+    "3": {
+      "eng": "And it shall come to pass in that day that the Lord shall give thee rest, from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙÙÙÙÙÙ ÙÙ Ø°Ù°ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ Ø£ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ±ÙØ­ÙÙÙ ÙÙÙÙ Ø­ÙØ²ÙÙÙÙÙ ÙÙÙÙÙÙ Ø®ÙÙÙÙÙÙØ ÙÙÙÙÙÙ Ø§ÙÙØ¹ÙØ¨ÙØ¯ÙÙÙÙØ©Ù Ø§ÙØ´ÙØ§ÙÙÙØ©Ù Ø§ÙÙÙØªÙ Ø§Ø³ÙØªÙØ¹ÙØ¨ÙØ¯ÙØªÙ Ø¨ÙÙØ§.",
+      "jpn": "そしてその<ruby>日<rt>ひ</rt></ruby>、<ruby>主<rt>しゅ</rt></ruby>はあなたの<ruby>悲<rt>かな</rt></ruby>しみと<ruby>恐<rt>おそ</rt></ruby>れを<ruby>取<rt>と</rt></ruby>り<ruby>除<rt>のぞ</rt></ruby>き、またあなたが<ruby>服<rt>ふく</rt></ruby>したつらい<ruby>苦<rt>く</rt></ruby><ruby>役<rt>えき</rt></ruby>を<ruby>解<rt>と</rt></ruby>いて、あなたに<ruby>安<rt>あん</rt></ruby><ruby>息<rt>そく</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えられる。",
+      "zhs": "事情将是这样，在那日，主会使你得享安息，脱离愁苦、脱离恐惧、脱离使你在其中服役的苦役。",
+      "zht": "<span class=\"verse-number\">3ã</span>äºæå°æ¯éæ¨£ï¼å¨é£æ¥ï¼ä¸»æä½¿ä½ å¾äº«å®æ¯ï¼è«é¢æè¦ãè«é¢ææ¼ãè«é¢ä½¿ä½ å¨å¶ä¸­æå½¹çè¦å½¹ã",
+      "spa": "Y sucederá en aquel día, que el Señor te hará descansar de tu angustia y de tu temor, y del duro cautiverio en el que te viste obligado a servir.",
+      "por": "<span class=\"verse-number\">3 </span>E acontecerÃ¡ que naquele dia o Senhor te darÃ¡ descanso da tua tristeza e do teu temor e da dura servidÃ£o pela qual te fizeram servir.",
+      "fra": "<span class=\"verse-number\">3Â </span>Et quand le Seigneur tâaura donnÃ© du repos, aprÃ¨s tes fatigues et tes agitations, et aprÃ¨s la dure servitude qui te fut imposÃ©e,",
+      "deu": "<span class=\"verse-number\">3Â </span>Und es wird sich begeben: An jenem Tag wird der Herr dir Ruhe geben von deiner MÃ¼hsal und von deiner Furcht und von der harten Knechtschaft, worin man dich dienstbar gemacht hat.",
+      "kor": "<span class=\"verse-number\">3 </span>ë ê·¸ ë ì ì´ë ê² ëë¦¬ë, ì£¼ê»ì ë¤ ì¬íììì, ë¤ ëë ¤ììì, ê·¸ë¦¬ê³  ë¤ê° ì¬ê¸°ê² ëìë ê³ ë ìë°ìì ììì ë¤ê² ì£¼ì¤ ê²ì´ë¼.",
+      "ita": "<span class=\"verse-number\">3 </span>E avverrÃ  in quel giorno che il Signore ti darÃ  riposo, dal tuo dolore e dalla tua paura, e dalla dura schiavitÃ¹ in cui ti facevano servire."
+    },
+    "4": {
+      "eng": "And it shall come to pass in that day, that thou shalt take up this proverb against the king of Babylon, and say: How hath the oppressor ceased, the golden city ceased!",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙÙÙÙÙÙ ÙÙ Ø°Ù°ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙ ØªÙØºÙÙÙÙ ÙÙ°Ø°ÙÙÙ Ø§ÙÙØ£ÙØºÙÙÙÙÙØ©Ù Ø¹ÙÙÙ ÙÙÙÙÙÙ Ø¨Ø§Ø¨ÙÙÙ ÙÙØªÙÙÙÙÙ: ÙÙÙÙÙÙ Ø¨Ø§Ø¯Ù Ø§ÙØ¸ÙØ§ÙÙÙÙØ Ø¨Ø§Ø¯ÙØªÙ Ø§ÙÙÙÙØ¯ÙÙÙØ©Ù Ø§ÙØ°ÙÙÙÙØ¨ÙÙÙÙØ©Ù!",
+      "jpn": "そしてその<ruby>日<rt>ひ</rt></ruby>、あなたはバビロンの<ruby>王<rt>おう</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>次<rt>つぎ</rt></ruby>の<ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>を<ruby>告<rt>つ</rt></ruby>げて<ruby>言<rt>い</rt></ruby>う。『<ruby>虐<rt>しいた</rt></ruby>げる<ruby>者<rt>もの</rt></ruby>がどうして<ruby>果<rt>は</rt></ruby>てたのか。<ruby>黄<rt>おう</rt></ruby><ruby>金<rt>ごん</rt></ruby>の<ruby>都<rt>みやこ</rt></ruby>がどうして<ruby>滅<rt>ほろ</rt></ruby>びたのか。",
+      "zhs": "事情将是这样，在那日，你必以这谚语讥刺巴比伦王说：欺压者何竟罢手，金城何竟止息！",
+      "zht": "<span class=\"verse-number\">4ã</span>äºæå°æ¯éæ¨£ï¼å¨é£æ¥ï¼ä½ å¿ä»¥éè«ºèªè­åºå·´æ¯å«çèªªï¼æ¬ºå£èä½ç«ç½·æï¼éåä½ç«æ­¢æ¯ï¼",
+      "spa": "Y acontecerá en aquel día, que tomarás este proverbio contra el rey de Babilonia, y dirás: ¡Cómo ha cesado el opresor, cómo ha fenecido la ciudad de oro!",
+      "por": "<span class=\"verse-number\">4 </span>E acontecerÃ¡ naquele dia que proferirÃ¡s este dito contra o rei de BabilÃ´nia e dirÃ¡s: Como cessou o opressor, acabou a cidade dourada!",
+      "fra": "<span class=\"verse-number\">4Â </span>il arrivera en ce jour-lÃ  que tu prononceras ce chant sur le roi de Babylone, et tu dirasÂ : Eh quoiÂ ! le tyran nâest plusÂ ! lâoppression a cessÃ©Â !",
+      "deu": "<span class=\"verse-number\">4Â </span>Und es wird sich begeben: An jenem Tag wirst du gegen den KÃ¶nig von Babylon diesen Spruch erheben und sagen: Wie hat doch der BedrÃ¼cker aufgehÃ¶rt, die goldene Stadt aufgehÃ¶rt!",
+      "kor": "<span class=\"verse-number\">4 </span>ê·¸ë¦¬ê³  ê·¸ ë ì ì´ë ê² ëë¦¬ë, ë¤ê° ë°ë²¨ë¡  ììê² ëíì¬ ì´ ìë´ì ì·¨íì¬ ì´ë¥´ê¸°ë¥¼, íëíë ìê° ì´ì° ê·¸ë¦¬ ê·¸ì³¤ì¼ë©° ê¸ë¹ ì°¬ëíë ëì±ì´ ì´ì° ê·¸ë¦¬ ê·¸ì³¤ëê³ !",
+      "ita": "<span class=\"verse-number\">4 </span>E avverrÃ  in quel giorno che tu pronuncerai questo detto contro il re di Babilonia e dirai: Come Ã¨ finito lâoppressore, come Ã¨ finita la cittÃ  dorata!"
+    },
+    "5": {
+      "eng": "The Lord hath broken the staff of the wicked, the scepters of the rulers.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ¯Ù ÙÙØ³ÙÙØ±Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø¹ÙØµØ§ Ø§ÙØ´ÙÙØ±ÙÙØ±ÙØ ÙÙØµÙÙÙÙÙØ¬Ø§ÙØ§ØªÙ Ø§ÙÙØ­ÙÙÙØ§ÙÙ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>は<ruby>悪<rt>あく</rt></ruby><ruby>人<rt>にん</rt></ruby>の<ruby>杖<rt>つえ</rt></ruby>、<ruby>支<rt>し</rt></ruby><ruby>配<rt>はい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちの<ruby>笏<rt>しゃく</rt></ruby>を<ruby>折<rt>お</rt></ruby>られた。",
+      "zhs": "主折断了恶人的杖，统治者的权杖。",
+      "zht": "<span class=\"verse-number\">5ã</span>ä¸»ææ·äºæ¡äººçæï¼çµ±æ²»èçæ¬æã",
+      "spa": "El Señor ha quebrantado la vara de los impíos, el cetro de los gobernantes.",
+      "por": "<span class=\"verse-number\">5 </span>O Senhor quebrou o bastÃ£o dos inÃ­quos, os cetros dos governantes.",
+      "fra": "<span class=\"verse-number\">5Â </span>Le Seigneur a brisÃ© le bÃ¢ton des mÃ©chants, la verge des dominateurs.",
+      "deu": "<span class=\"verse-number\">5Â </span>Der Herr hat den Stab der Schlechten zerbrochen, die Zepter der Herrscher.",
+      "kor": "<span class=\"verse-number\">5 </span>ì£¼ê»ì ìì¸ì ëª½ë¥ì´ë¥¼ íµì¹ìë¤ì íì êº¾ì¼ì¨ëë¤.",
+      "ita": "<span class=\"verse-number\">5 </span>Il Signore ha spezzato il bastone dei malvagi, gli scettri dei governatori."
+    },
+    "6": {
+      "eng": "He who smote the people in wrath with a continual stroke, he that ruled the nations in anger, is persecuted, and none hindereth.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø³ÙÙÙØ¶ÙØ·ÙÙÙØ¯Ù Ø¨ÙÙØ§ Ø¥ÙÙÙØ³Ø§ÙÙ Ø°Ø§ÙÙ Ø§ÙÙÙØ°Ù Ø¶ÙØ±ÙØ¨Ù Ø§ÙØ´ÙÙØ¹ÙØ¨Ù Ø¨ÙØ³ÙØ®ÙØ·Ù ÙÙØ¨ÙÙØ§ ØªÙÙÙÙÙÙÙÙØ Ø§ÙÙÙÙØªÙØ³ÙÙÙÙØ·Ù Ø¨ÙØºÙØ¶ÙØ¨Ù Ø¹ÙÙÙ Ø§ÙÙØ£ÙÙÙÙÙ.",
+      "jpn": "<ruby>激<rt>はげ</rt></ruby>しい<ruby>怒<rt>いか</rt></ruby>りをもって<ruby>民<rt>たみ</rt></ruby>を<ruby>打<rt>う</rt></ruby>ち<ruby>続<rt>つづ</rt></ruby>けて<ruby>苦<rt>くる</rt></ruby>しめた<ruby>者<rt>もの</rt></ruby>、<ruby>怒<rt>いか</rt></ruby>りのうちに<ruby>国<rt>こく</rt></ruby><ruby>民<rt>みん</rt></ruby>を<ruby>治<rt>おさ</rt></ruby>めた<ruby>者<rt>もの</rt></ruby>は<ruby>今<rt>いま</rt></ruby><ruby>責<rt>せ</rt></ruby>められる。そして、それをとどめる<ruby>者<rt>もの</rt></ruby>はだれもいない。",
+      "zhs": "那在愤怒中连连攻击众民的，那在怒气中辖制列国的，如今被逼迫，而无人阻止。",
+      "zht": "<span class=\"verse-number\">6ã</span>é£å¨æ¤æä¸­é£é£æ»æç¾æ°çï¼é£å¨ææ°£ä¸­è½å¶ååçï¼å¦ä»è¢«é¼è¿«ï¼èç¡äººé»æ­¢ã",
+      "spa": "El que hería al pueblo en ira con golpe continuo, aquel que gobernaba a las naciones con saña, es perseguido, y nadie lo impide.",
+      "por": "<span class=\"verse-number\">6 </span>Aquele que feriu o povo com furor, com um golpe incessante, aquele que com ira dominou as naÃ§Ãµes Ã© perseguido, e ninguÃ©m impede.",
+      "fra": "<span class=\"verse-number\">6Â </span>Celui qui dans sa fureur frappait les peuples, par des coups sans relÃ¢che, celui qui dans sa colÃ¨re subjuguait les nations, est poursuivi sans mÃ©nagement.",
+      "deu": "<span class=\"verse-number\">6Â </span>Er, der im Grimm die VÃ¶lker geschlagen hat mit unablÃ¤ssigem Schlag, er, der im Zorn die Nationen beherrscht hat, wird verfolgt, und niemand tut Einhalt.",
+      "kor": "<span class=\"verse-number\">6 </span>ë¶ë¸íì¬ ë°±ì±ì ì¹ë ì¹ê¸°ë¥¼ ë§ì§ìë ì, ë¸íì¬ ì´êµ­ì ë¤ì¤ë¦¬ë ìê° íë°ì ë°ì¼ë, ìë¬´ë ë§ë ìê° ìëë¤.",
+      "ita": "<span class=\"verse-number\">6 </span>Colui che colpiva con ira il popolo con colpi incessanti, colui che tiranneggiava con collera le nazioni, Ã¨ perseguitato, e nessuno si oppone."
+    },
+    "7": {
+      "eng": "The whole earth is at rest, and is quiet; they break forth into singing.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ØªÙØ±ÙØªØ§Ø­Ù Ø§ÙÙØ£ÙØ±ÙØ¶Ù ÙÙØªÙÙÙØ¯ÙØ£ÙØ ÙÙÙÙØªÙÙÙÙÙ ØªÙØ±ÙÙÙÙÙÙØ§.",
+      "jpn": "<ruby>全<rt>ぜん</rt></ruby><ruby>地<rt>ち</rt></ruby>は<ruby>安<rt>あん</rt></ruby><ruby>息<rt>そく</rt></ruby>を<ruby>得<rt>え</rt></ruby>、<ruby>穏<rt>おだ</rt></ruby>やかになり、<ruby>人<rt>ひと</rt></ruby><ruby>々<rt>びと</rt></ruby>は<ruby>声<rt>こえ</rt></ruby>を<ruby>放<rt>はな</rt></ruby>って<ruby>歌<rt>うた</rt></ruby>う。",
+      "zhs": "现在全地得安息，享平静；他们发声歌唱。",
+      "zht": "<span class=\"verse-number\">7ã</span>ç¾å¨å¨å°å¾å®æ¯ï¼äº«å¹³éï¼ä»åç¼è²æ­å±ã",
+      "spa": "Toda la tierra descansa y está en paz; los hombres prorrumpen en cantos.",
+      "por": "<span class=\"verse-number\">7 </span>A Terra toda repousa e estÃ¡ quieta; eles rompem em cÃ¢nticos.",
+      "fra": "<span class=\"verse-number\">7Â </span>Toute la terre jouit du repos et de la paixÂ ; on Ã©clate en chants dâallÃ©gresse.",
+      "deu": "<span class=\"verse-number\">7Â </span>Die ganze Erde ruht und rastet; man bricht in Jauchzen aus.",
+      "kor": "<span class=\"verse-number\">7 </span>ì¨ ëì´ íìíê³  ê³ ìíë ê·¸ë¤ì´ ë¸ëë¥¼ ë°íëëë¤.",
+      "ita": "<span class=\"verse-number\">7 </span>La terra intera Ã¨ in riposo ed Ã¨ tranquilla; prorompono in canti."
+    },
+    "8": {
+      "eng": "Yea, the fir trees rejoice at thee, and also the cedars of Lebanon, saying: Since thou art laid down no feller is come up against us.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø­ÙØªÙÙ Ø£ÙØ´ÙØ¬Ø§Ø±Ù Ø§ÙØ³ÙÙØ±ÙÙÙ ÙÙØ£ÙØ±ÙØ²Ù ÙÙØ¨ÙÙØ§ÙÙ ÙÙØ±ÙØ­ÙØªÙ Ø¨ÙØ¯ÙÙØ§Ø±ÙÙÙØ ÙÙØªÙÙÙÙÙ: ÙÙÙÙØ°Ù Ø§Ø¶ÙØ·ÙØ¬ÙØ¹ÙØªÙØ ÙÙÙÙ ÙÙØµÙØ¹ÙØ¯Ù Ø¹ÙÙÙÙÙÙØ§ ÙØ§Ø·ÙØ¹Ù.",
+      "jpn": "まことに、もみの<ruby>木<rt>き</rt></ruby>も、レバノンの<ruby>杉<rt>すぎ</rt></ruby>の<ruby>木<rt>き</rt></ruby>もあなたのことを<ruby>喜<rt>よろこ</rt></ruby>んで<ruby>言<rt>い</rt></ruby>う。「あなたが<ruby>倒<rt>たお</rt></ruby>れてから、わたしたちを<ruby>切<rt>き</rt></ruby>りに<ruby>来<rt>く</rt></ruby>るきこりは<ruby>一人<rt>ひとり</rt></ruby>もいない。」",
+      "zhs": "是的，枞树和黎巴嫩的香柏树，都因你欢乐，说：自从你倒下，再无人上来砍伐我们。",
+      "zht": "<span class=\"verse-number\">8ã</span>æ¯çï¼æ¨æ¨¹å<u>é»å·´å«©</u>çé¦ææ¨¹ï¼é½å ä½ æ­¡æ¨ï¼èªªï¼èªå¾ä½ åä¸ï¼åç¡äººä¸ä¾ç ä¼æåã",
+      "spa": "Sí, los abetos se regocijan por causa de ti, y también los cedros del Líbano, diciendo: Desde que tú caíste, no ha subido cortador contra nosotros.",
+      "por": "<span class=\"verse-number\">8 </span>Sim, as faias se alegram em ti e tambÃ©m os cedros do LÃ­bano, dizendo: Desde que tu caÃ­ste, nenhum lenhador subiu contra nÃ³s.",
+      "fra": "<span class=\"verse-number\">8Â </span>Les cyprÃ¨s mÃªmes, les cÃ¨dres du Liban aussi, se rÃ©jouissent de ta chuteÂ : depuis que tu es tombÃ©, personne ne monte pour nous abattre.",
+      "deu": "<span class=\"verse-number\">8Â </span>Ja, die Zypressen freuen sich Ã¼ber dich und auch die Zedern des Libanon, nÃ¤mlich: Seit du daniederliegst, kommt kein HolzfÃ¤ller mehr gegen uns herauf.",
+      "kor": "<span class=\"verse-number\">8 </span>ì°¸ì¼ë¡ ì ëë¬´ê° ëë¥¼ ë³´ê³  ê¸°ë»íë©°, ë ë°ë¼ì ë°±í¥ëª©ë ê·¸ë¦¬íì¬ ì´ë¥´ê¸°ë¥¼, ë¤ê° ëíì ìì¦ ì¬ë¼ì ì°ë¦¬ë¥¼ ë²¨ ìê° ìëë¤ íëëë¤.",
+      "ita": "<span class=\"verse-number\">8 </span>SÃ¬, gli abeti gioiscono in te, e anche i cedri del Libano, e dicono: Da quando sei stato abbattuto, nessun taglialegna Ã¨ salito contro di noi."
+    },
+    "9": {
+      "eng": "Hell from beneath is moved for thee to meet thee at thy coming; it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.",
+      "ara": "<span class=\"verse-number\">Ù© </span>Ø§ÙÙÙÙØ§ÙÙÙÙØ©Ù ÙÙÙÙ Ø£ÙØ³ÙÙÙÙÙ ÙÙÙÙØªÙØ²ÙÙØ©Ù ÙÙÙÙØ ÙÙØ§Ø³ÙØªÙÙÙØ¨Ø§ÙÙÙÙ Ø¹ÙÙÙØ¯Ù ÙÙØ¬ÙØ¦ÙÙÙØ Ø³ÙØªÙÙÙØ¸Ù Ø£ÙØ±ÙÙØ§Ø­Ù Ø§ÙÙÙÙÙÙØªÙ ÙÙØ£ÙØ¬ÙÙÙÙÙØ Ø£ÙØ±ÙÙØ§Ø­Ù Ø¹ÙØ¸ÙÙØ§Ø¡Ù Ø§ÙÙØ£ÙØ±ÙØ¶ÙØ ØªÙØ¬ÙØ¹ÙÙÙ ÙÙÙÙÙ ÙÙÙÙÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù ÙÙÙÙÙÙÙÙ Ø¹ÙÙÙ Ø¹ÙØ±ÙØ´ÙÙÙÙÙ.",
+      "jpn": "<ruby>下<rt>した</rt></ruby>の<ruby>地<rt>じ</rt></ruby><ruby>獄<rt>ごく</rt></ruby>は、あなたが<ruby>来<rt>く</rt></ruby>るのを<ruby>迎<rt>むか</rt></ruby>えて<ruby>揺<rt>ゆ</rt></ruby>れ<ruby>動<rt>うご</rt></ruby>く。あなたのために<ruby>死<rt>し</rt></ruby><ruby>者<rt>しゃ</rt></ruby>を、すなわち<ruby>地<rt>ち</rt></ruby>のすべての<ruby>指<rt>し</rt></ruby><ruby>導<rt>どう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちを<ruby>揺<rt>ゆ</rt></ruby>り<ruby>起<rt>お</rt></ruby>こす。また、<ruby>国<rt>くに</rt></ruby><ruby>々<rt>ぐに</rt></ruby>のすべての<ruby>王<rt>おう</rt></ruby>たちをその<ruby>王<rt>おう</rt></ruby><ruby>座<rt>ざ</rt></ruby>から<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がらせる。",
+      "zhs": "下面的地狱为你而震动，要在你来时迎接你；又为你而惊动死者，就是所有在世曾为首领的；并使列国君王都离位站起。",
+      "zht": "<span class=\"verse-number\">9ã</span>ä¸é¢çå°ççºä½ èéåï¼è¦å¨ä½ ä¾æè¿æ¥ä½ ï¼åçºä½ èé©åæ­»èï¼å°±æ¯ææå¨ä¸æ¾çºé¦é çï¼ä¸¦ä½¿åååçé½é¢ä½ç«èµ·ã",
+      "spa": "El infierno abajo se conmueve para recibirte a tu llegada; te ha despertado a los muertos, sí, a todos los príncipes de la tierra; a todos los reyes de las naciones ha levantado de sus tronos.",
+      "por": "<span class=\"verse-number\">9 </span>O inferno desde a sua profundidade turba-se por ti, para sair ao teu encontro na tua vinda; ele desperta por ti os mortos, sim, todos os prÃ­ncipes da Terra, e fez levantar dos seus tronos todos os reis das naÃ§Ãµes.",
+      "fra": "<span class=\"verse-number\">9Â </span>Le sÃ©jour des morts sâÃ©meut jusque dans ses profondeurs, pour tâaccueillir Ã  ton arrivÃ©eÂ ; il rÃ©veille devant toi les ombres, tous les grands de la terre, il fait lever de leurs trÃ´nes tous les rois des nations.",
+      "deu": "<span class=\"verse-number\">9Â </span>Die HÃ¶lle da unten ist deinetwegen in Bewegung, um dich bei deiner Ankunft zu empfangen; sie stachelt dir die Toten auf, ja, all die Obersten der Erde; sie hat all die KÃ¶nige der Nationen von ihren Thronen aufstehen lassen.",
+      "kor": "<span class=\"verse-number\">9 </span>ì§ì¥ì´ ìëìì ëë¡ ì¸íì¬ ìëíì¬ ë¤ê° ì¬ ë ëë¥¼ ë§ì´íë, ê·¸ê²ì´ ì£½ì ìë¤ ê³§ ëì ëª¨ë  ëë ¹ë¤ì ëë¥¼ ìí´ íë¤ì´ ì¼ì¼í¤ê³ , ì´êµ­ì ëª¨ë  ìë¤ë¡ ê·¸ë¤ì ë³´ì¢ìì ì¼ì´ëê² íìëë¤.",
+      "ita": "<span class=\"verse-number\">9 </span>Lâinferno di laggiÃ¹ si Ã¨ mosso per te per venirti incontro al tuo arrivo; ha scosso i morti per te, sÃ¬ tutti i grandi della terra; ha fatto alzare dai loro troni tutti i re delle nazioni."
+    },
+    "10": {
+      "eng": "All they shall speak and say unto thee: Art thou also become weak as we? Art thou become like unto us?",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙÙÙÙÙÙÙÙ ÙÙØ¬ÙØ¨ÙÙÙ ÙÙÙÙÙÙÙÙÙÙ ÙÙÙÙ: Ø£ÙØµÙØ±ÙØªÙ Ø¶ÙØ¹ÙÙØ§Ù ÙÙØ«ÙÙÙÙØ§Ø ÙÙÙÙ Ø´Ø§Ø¨ÙÙÙØªÙÙØ§Ø",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らは<ruby>皆<rt>みな</rt></ruby>、あなたに<ruby>告<rt>つ</rt></ruby>げて<ruby>言<rt>い</rt></ruby>う。「あなたもまた、わたしたちのように<ruby>弱<rt>よわ</rt></ruby>くなったのか。あなたも、わたしたちと<ruby>同<rt>おな</rt></ruby>じようになったのか。」",
+      "zhs": "他们都要发言对你说：你也变得像我们一样软弱吗？你也成了我们的样子吗？",
+      "zht": "<span class=\"verse-number\">10ã</span>ä»åé½è¦ç¼è¨å°ä½ èªªï¼ä½ ä¹è®å¾åæåä¸æ¨£è»å¼±åï¼ä½ ä¹æäºæåçæ¨£å­åï¼",
+      "spa": "Todos estos darán voces y te dirán: ¿También tú te debilitaste como nosotros? ¿Como nosotros has llegado a ser?",
+      "por": "<span class=\"verse-number\">10 </span>Todos falarÃ£o e dir-te-Ã£o: TambÃ©m ficaste fraco como nÃ³s? TambÃ©m te tornaste semelhante a nÃ³s?",
+      "fra": "<span class=\"verse-number\">10Â </span>Tous prennent la parole pour te direÂ : Toi aussi, tu es sans force comme nous, tu es devenu semblable Ã  nousÂ !",
+      "deu": "<span class=\"verse-number\">10Â </span>Sie alle werden anheben und zu dir sprechen: Bist du auch schwach geworden wie wir? Bist du uns gleich geworden?",
+      "kor": "<span class=\"verse-number\">10 </span>ê·¸ë¤ì´ ëª¨ë ë¤ê² ë§íì¬ ì´ë¥´ê¸°ë¥¼, ëë ì°ë¦¬ê°ì´ ì°ì½íê² ëìëë? ëë ì°ë¦¬ì²ë¼ ëìëë íë¦¬ë¡ë¤.",
+      "ita": "<span class=\"verse-number\">10 </span>Essi tutti parleranno e ti diranno: Sei tu pure divenuto debole come noi? Sei divenuto simile a noi?"
+    },
+    "11": {
+      "eng": "Thy pomp is brought down to the grave; the noise of thy viols is not heard; the worm is spread under thee, and the worms cover thee.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>Ø£ÙØ³ÙÙÙØ·Ù Ø¥ÙÙÙ Ø§ÙÙÙÙØ¨ÙØ±Ù ÙÙØ¨ÙØ±ÙÙØ§Ø¤ÙÙÙØ ÙØ§ ØªÙØ³ÙÙÙØ¹Ù Ø±ÙÙÙÙØ©Ù Ø£ÙØ¹ÙÙØ§Ø¯ÙÙÙØ ÙÙ ÙÙÙÙØªÙØ´ÙØ±Ù Ø§ÙØ¯ÙÙØ¯Ù ÙÙÙÙ ØªÙØ­ÙØªÙÙÙØ ÙÙÙÙØºÙØ·ÙÙÙÙ Ø§ÙØ¯ÙÙØ¯Ù.",
+      "jpn": "あなたの<ruby>華<rt>はな</rt></ruby>やかさは<ruby>墓<rt>はか</rt></ruby>に<ruby>葬<rt>ほうむ</rt></ruby>られ、あなたの<ruby>琴<rt>こと</rt></ruby>の<ruby>音<rt>ね</rt></ruby>は<ruby>聞<rt>き</rt></ruby>こえない。うじがあなたの<ruby>下<rt>した</rt></ruby>に<ruby>敷<rt>し</rt></ruby>かれ、またあなたを<ruby>覆<rt>おお</rt></ruby>う。",
+      "zhs": "你的威势被带下坟墓，你琴瑟的声音，不复听闻；你下铺的是虫，上盖的是蛆。",
+      "zht": "<span class=\"verse-number\">11ã</span>ä½ çå¨å¢è¢«å¸¶ä¸å¢³å¢ï¼ä½ ç´ççè²é³ï¼ä¸å¾©è½èï¼ä½ ä¸éªçæ¯è²ï¼ä¸èçæ¯èã",
+      "spa": "Tu pompa descendió al sepulcro; ya no se oye sonido de tus liras; gusanos son tu lecho, y gusanos te cubren.",
+      "por": "<span class=\"verse-number\">11 </span>A tua pompa Ã© baixada Ã  sepultura; o som dos teus alaÃºdes nÃ£o Ã© ouvido; os vermes espalham-se debaixo de ti e cobrem-te.",
+      "fra": "<span class=\"verse-number\">11Â </span>Ta magnificence est descendue dans le sÃ©jour des morts, avec le son de tes luthsÂ ; sous toi est une couche de vers et les vers sont ta couverture.",
+      "deu": "<span class=\"verse-number\">11Â </span>Dein Prunk ist in das Grab hinabgeworfen; der Klang deiner Violen ist nicht zu hÃ¶ren; der Wurm ist unter dir ausgebreitet, und die WÃ¼rmer bedecken dich.",
+      "kor": "<span class=\"verse-number\">11 </span>ë¤ ìíê° ë¬´ë¤ì ë´ë¦¬ì ìì´ì¬, ë¤ ë¹í ìë¦¬ê° ë¤ë¦¬ì§ ìëíëë¤. ë²ë ê° ë¤ ë°ì ê¹ë ¸ìì´ì¬ ë²ë ë¤ì´ ëë¥¼ ë®ëë¤.",
+      "ita": "<span class=\"verse-number\">11 </span>La tua pompa Ã¨ calata nel sepolcro; non si ode piÃ¹ il suono delle tue cetre; sotto di te câÃ¨ un letto di vermi e i vermi ti ricoprono."
+    },
+    "12": {
+      "eng": "How art thou fallen from heaven, O Lucifer, son of the morning! Art thou cut down to the ground, which did weaken the nations!",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙÙÙÙ Ø³ÙÙÙØ·ÙØªÙ ÙÙÙÙ Ø§ÙØ³ÙÙÙØ§Ø¡Ù ÙØ§ ÙÙØ³ÙÙÙØ±ÙØ Ø§Ø¨ÙÙÙ Ø§ÙØµÙÙØ¨ÙØ­ÙØ ÙÙÙÙÙÙ Ø£ÙØ³ÙÙÙØ·ÙØªÙ Ø¥ÙÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù ÙØ§ ÙØ§Ø²ÙÙÙ Ø§ÙÙØ£ÙÙÙÙÙ!",
+      "jpn": "おお、<ruby>暁<rt>あかつき</rt></ruby>の<ruby>子<rt>こ</rt></ruby>ルシフェルよ、あなたはどうして<ruby>天<rt>てん</rt></ruby>から<ruby>落<rt>お</rt></ruby>ちたのか。もろもろの<ruby>国<rt>くに</rt></ruby><ruby>々<rt>ぐに</rt></ruby>を<ruby>打<rt>う</rt></ruby>ちのめしたあなたが、<ruby>地<rt>ち</rt></ruby>に<ruby>切<rt>き</rt></ruby>り<ruby>倒<rt>たお</rt></ruby>されるとは。",
+      "zhs": "路西弗，早晨之子啊，你何竟从天坠落！你这攻败列国的，何竟被砍倒在地上！",
+      "zht": "<span class=\"verse-number\">12ã</span>è·¯è¥¿å¼ï¼æ©æ¨ä¹å­åï¼ä½ ä½ç«å¾å¤©å¢è½ï¼ä½ éæ»æååçï¼ä½ç«è¢«ç åå¨å°ä¸ï¼",
+      "spa": "¡Cómo caíste del cielo, oh Lucifer, hijo de la mañana! ¡Has sido cortado hasta el suelo, tú que debilitabas a las naciones!",
+      "por": "<span class=\"verse-number\">12 </span>Como caÃ­ste do cÃ©u, Ã³ LÃºcifer, filho da manhÃ£! Foste lanÃ§ado por terra, tu, que debilitavas as naÃ§Ãµes!",
+      "fra": "<span class=\"verse-number\">12Â </span>Te voilÃ  tombÃ© du ciel, astre brillant, fils de lâauroreÂ ! Tu es abattu Ã  terre, toi, le vainqueur des nationsÂ !",
+      "deu": "<span class=\"verse-number\">12Â </span>Wie bist du vom Himmel gefallen, o Luzifer, Sohn des Morgens! Bist du niedergehauen zur Erde, der du die Nationen schwÃ¤chtest!",
+      "kor": "<span class=\"verse-number\">12 </span>ìì¹¨ì ìë¤ ë£¨ìí¼ì¬! ì´ì° ê·¸ë¦¬ ë¤ê° íëìì ë¨ì´ì¡ëê³ , ì´êµ­ì ì½íê² í ë¤ê° ì°íì´ ëì ë¨ì´ì¡ëê³ !",
+      "ita": "<span class=\"verse-number\">12 </span>Come sei caduto dal cielo, o Lucifero, figlio del mattino! Sei abbattuto a terra, tu che fiaccavi le nazioni!"
+    },
+    "13": {
+      "eng": "For thou hast said in thy heart: I will ascend into heaven, I will exalt my throne above the stars of God; I will sit also upon the mount of the congregation, in the sides of the north;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØ£ÙÙÙØªÙ ÙÙÙÙØªÙ ÙÙ ÙÙÙÙØ¨ÙÙÙ: Ø£ÙØµÙØ¹ÙØ¯Ù Ø¥ÙÙÙ Ø§ÙØ³ÙÙÙØ§Ø¡Ù. Ø£ÙØ±ÙÙÙØ¹Ù Ø¹ÙØ±ÙØ´Ù ÙÙÙÙÙÙ ÙÙØ¬ÙÙÙ Ø§ÙÙÙÙ°ÙÙØ ÙÙØ£ÙØ¬ÙÙÙØ³Ù Ø¹ÙÙÙ Ø¬ÙØ¨ÙÙÙ Ø§ÙÙØ§Ø¬ÙØªÙÙØ§Ø¹Ù ÙÙ Ø£ÙÙØ§ØµÙ Ø§ÙØ´ÙÙÙØ§ÙÙØ",
+      "jpn": "あなたはかつて<ruby>心<rt>こころ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>言<rt>い</rt></ruby>った。「わたしは<ruby>天<rt>てん</rt></ruby>に<ruby>昇<rt>のぼ</rt></ruby>り、わたしの<ruby>王<rt>おう</rt></ruby><ruby>座<rt>ざ</rt></ruby>を<ruby>神<rt>かみ</rt></ruby>のもろもろの<ruby>星<rt>ほし</rt></ruby>よりも<ruby>高<rt>たか</rt></ruby>くしよう。また、<ruby>北<rt>きた</rt></ruby>の<ruby>果<rt>は</rt></ruby>てにある<ruby>集<rt>しゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>の<ruby>山<rt>やま</rt></ruby>に<ruby>座<rt>ざ</rt></ruby>そう。",
+      "zhs": "你曾在心里说：我要升到天上；我要高举我的宝座在神众星之上；我要坐在聚会的山上，在北方的极远之处。",
+      "zht": "<span class=\"verse-number\">13ã</span>ä½ æ¾å¨å¿è£¡èªªï¼æè¦åå°å¤©ä¸ï¼æè¦é«èæçå¯¶åº§å¨ç¥ç¾æä¹ä¸ï¼æè¦åå¨èæçå±±ä¸ï¼å¨åæ¹çæ¥µé ä¹èã",
+      "spa": "Porque dijiste en tu corazón: Ascenderé hasta el cielo; por encima de las estrellas de Dios levantaré mi trono, y me sentaré también sobre el monte de la congregación, hacia los lados del norte;",
+      "por": "<span class=\"verse-number\">13 </span>Pois disseste em teu coraÃ§Ã£o: Eu subirei ao cÃ©u, acima das estrelas de Deus exaltarei o meu trono; no monte da congregaÃ§Ã£o tambÃ©m me assentarei, nos lados do norte.",
+      "fra": "<span class=\"verse-number\">13Â </span>Tu disais en ton cÅurÂ : Je monterai au ciel, jâÃ©lÃ¨verai mon trÃ´ne au-dessus des Ã©toiles de DieuÂ ; je mâassiÃ©rai sur la montagne de lâassemblÃ©e, Ã  lâextrÃ©mitÃ© du septentrion.",
+      "deu": "<span class=\"verse-number\">13Â </span>Denn du hast in deinem Herzen gesprochen: Ich werde zum Himmel hinaufsteigen; ich werde meinen Thron hoch Ã¼ber die Sterne Gottes erhÃ¶hen; ich werde mich auch auf den Berg der Zusammenkunft im hohen Norden setzen.",
+      "kor": "<span class=\"verse-number\">13 </span>ì´ë ë¤ê° ë¤ ë§ìì ì´ë¥´ê¸°ë¥¼, ë´ê° íëì ì¬ë¼ê°ë¦¬ë¼. ë´ê° íëëì ë­ ë³ ìì ëì ë³´ì¢ë¥¼ ëì´ë¦¬ë¼. ë´ê° ëí ë¶ê·¹ ì§íì ì° ìì ì¢ì íë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">13 </span>PoichÃ© hai detto in cuor tuo: AscenderÃ² al cielo, eleverÃ² il mio trono al di sopra delle stelle di Dio; mi siederÃ² pure sul monte dellâassemblea, alle estremitÃ  del settentrione;"
+    },
+    "14": {
+      "eng": "I will ascend above the heights of the clouds; I will be like the Most High.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>Ø£ÙØµÙØ¹ÙØ¯Ù ÙÙÙÙÙÙ Ø£ÙØ¹Ø§ÙÙ Ø§ÙØ³ÙÙØ­Ø§Ø¨ÙØ ÙØ£ÙØµÙØ±Ù ÙÙØ«ÙÙÙ Ø§ÙÙØ¹ÙÙÙÙÙÙ.",
+      "jpn": "わたしは<ruby>雲<rt>くも</rt></ruby>の<ruby>頂<rt>いただき</rt></ruby>に<ruby>昇<rt>のぼ</rt></ruby>り、いと<ruby>高<rt>たか</rt></ruby>き<ruby>者<rt>もの</rt></ruby>のようになろう。」",
+      "zhs": "我要升到云顶之上；我要与至高者一样。",
+      "zht": "<span class=\"verse-number\">14ã</span>æè¦åå°é²é ä¹ä¸ï¼æè¦èè³é«èä¸æ¨£ã",
+      "spa": "ascenderé por encima de las alturas de las nubes; seré semejante al Altísimo.",
+      "por": "<span class=\"verse-number\">14 </span>Subirei acima das alturas das nuvens; serei semelhante ao AltÃ­ssimo.",
+      "fra": "<span class=\"verse-number\">14Â </span>Je monterai sur le sommet des nues, je serai semblable au TrÃ¨s-Haut.",
+      "deu": "<span class=\"verse-number\">14Â </span>Ich werde Ã¼ber die WolkenhÃ¶hen emporsteigen; ich werde dem AllerhÃ¶chsten gleich sein!",
+      "kor": "<span class=\"verse-number\">14 </span>ë´ê° êµ¬ë¦ë³´ë¤ ëì´ ì¬ë¼ ì§ê·¹í ëì ìì²ë¼ ëë¦¬ë¼ íììì´ëë¼.",
+      "ita": "<span class=\"verse-number\">14 </span>AscenderÃ² al di sopra della sommitÃ  delle nuvole; sarÃ² simile allâAltissimo."
+    },
+    "15": {
+      "eng": "Yet thou shalt be brought down to hell, to the sides of the pit.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙ°ÙÙÙÙÙÙÙ Ø³ÙØªÙÙÙØ¨ÙØ·Ù Ø¥ÙÙÙ Ø§ÙÙÙØ§ÙÙÙÙØ©ÙØ ÙÙØ¥ÙÙÙ Ø£ÙØ¹ÙÙØ§ÙÙ Ø§ÙÙØ¬ÙØ¨ÙÙ.",
+      "jpn": "しかし、あなたは<ruby>地<rt>じ</rt></ruby><ruby>獄<rt>ごく</rt></ruby>に<ruby>落<rt>お</rt></ruby>とされ、<ruby>穴<rt>あな</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れられる。",
+      "zhs": "然而你必被带下地狱，到坑中极深之处。",
+      "zht": "<span class=\"verse-number\">15ã</span>ç¶èä½ å¿è¢«å¸¶ä¸å°çï¼å°åä¸­æ¥µæ·±ä¹èã",
+      "spa": "Mas tú precipitado serás hasta el infierno, a los lados del abismo.",
+      "por": "<span class=\"verse-number\">15 </span>Contudo, serÃ¡s precipitado no inferno, para os lados do abismo.",
+      "fra": "<span class=\"verse-number\">15Â </span>Mais tu as Ã©tÃ© prÃ©cipitÃ© dans le sÃ©jour des morts, dans les profondeurs de la fosse.",
+      "deu": "<span class=\"verse-number\">15Â </span>Doch wirst du in die HÃ¶lle hinabgeworfen, in die allertiefste Grube.",
+      "kor": "<span class=\"verse-number\">15 </span>ê·¸ë¬ë ë¤ê° ì§ì¥ ê³§ êµ¬ë©ì´ì ë§¨ ë°ì ë´ë¦¬ì°ë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">15 </span>Invece sarai calato in inferno, nelle estremitÃ  della fossa."
+    },
+    "16": {
+      "eng": "They that see thee shall narrowly look upon thee, and shall consider thee, and shall say: Is this the man that made the earth to tremble, that did shake kingdoms?",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>Ø§ÙÙÙÙØ°ÙÙÙ ÙÙØ±ÙÙÙÙÙÙÙ ÙÙØ­ÙØ¯ÙÙÙÙÙÙ Ø¨ÙÙÙ ÙÙÙÙØªÙØ¹ÙØ¬ÙÙØ¨ÙÙÙ ÙØ§Ø¦ÙÙÙÙÙ: Ø£ÙÙÙÙÙØ³Ù ÙÙ°Ø°Ø§ ÙÙÙÙ Ø§ÙØ±ÙÙØ¬ÙÙÙ Ø§ÙÙÙØ°Ù Ø¬ÙØ¹ÙÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù ØªÙÙÙØªÙØ²ÙÙ ÙÙØ§ÙÙÙÙÙØ§ÙÙÙÙ ØªÙØ±ÙØªÙØ¬ÙÙÙØ",
+      "jpn": "あなたを<ruby>見<rt>み</rt></ruby>る<ruby>者<rt>もの</rt></ruby>はつくづくとあなたを<ruby>見<rt>み</rt></ruby>、あなたに<ruby>目<rt>め</rt></ruby>を<ruby>留<rt>と</rt></ruby>めて<ruby>言<rt>い</rt></ruby>う。「これが<ruby>地<rt>ち</rt></ruby>を<ruby>震<rt>ふる</rt></ruby>わせ、もろもろの<ruby>王<rt>おう</rt></ruby><ruby>国<rt>こく</rt></ruby>を<ruby>揺<rt>ゆ</rt></ruby>り<ruby>動<rt>うご</rt></ruby>かした<ruby>者<rt>もの</rt></ruby>か。",
+      "zhs": "凡看见你的，都要定睛看你，打量你，说：是这个人使大地颤抖，使列国震动，",
+      "zht": "<span class=\"verse-number\">16ã</span>å¡çè¦ä½ çï¼é½è¦å®ççä½ ï¼æéä½ ï¼èªªï¼æ¯éåäººä½¿å¤§å°é¡«æï¼ä½¿ååéåï¼",
+      "spa": "Te mirarán de cerca los que te vieren, y te contemplarán y dirán: ¿Es este el hombre que hizo temblar la tierra, que sacudió los reinos;",
+      "por": "<span class=\"verse-number\">16 </span>Os que te virem te contemplarÃ£o e considerar-te-Ã£o e dirÃ£o: Ã este o homem que fez estremecer a Terra e que fez tremer reinos?",
+      "fra": "<span class=\"verse-number\">16Â </span>Ceux qui te voient fixent sur toi leurs regards, ils te considÃ¨rent attentivement et disentÂ : Est-ce lÃ  cet homme qui faisait trembler la terre, qui Ã©branlait les royaumes,",
+      "deu": "<span class=\"verse-number\">16Â </span>Die dich sehen, werden dich scharf anblicken und werden dich wÃ¤gend betrachten und werden sprechen: Ist dies der Mann, der die Erde hat erzittern lassen, der KÃ¶nigreiche erschÃ¼ttert hat?",
+      "kor": "<span class=\"verse-number\">16 </span>ëë¥¼ ë³´ë ìë¤ì´ ëë¥¼ ìì¸í ì´í´ë³´ë©° ëë¥¼ ê³°ê³°ì´ ìê°íì¬ ì´ë¥´ê¸°ë¥¼, ì´ ìê° ëì ì§ëìí¤ê³  ë­ ìêµ­ì ë¤íë  ê·¸ ìì´ë?",
+      "ita": "<span class=\"verse-number\">16 </span>Coloro che ti vedranno ti guarderanno attentamente e ti esamineranno, e diranno: Ã questo lâuomo che faceva tremar la terra, che scuoteva i regni?"
+    },
+    "17": {
+      "eng": "And made the world as a wilderness, and destroyed the cities thereof, and opened not the house of his prisoners?",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>Ø§ÙÙÙÙØ°Ù Ø¬ÙØ¹ÙÙÙ Ø§ÙÙØ¹Ø§ÙÙÙÙ ÙÙÙÙÙÙØ±ÙØ ÙÙØ¯ÙÙÙÙØ±Ù ÙÙØ¯ÙÙÙÙÙØ ÙÙØ§ÙÙÙØ°Ù ÙÙÙÙ ÙÙÙÙØªÙØ­Ù Ø¨ÙÙÙØªÙ Ø³ÙØ¬ÙÙØ§Ø¦ÙÙÙØ",
+      "jpn": "<ruby>世<rt>せ</rt></ruby><ruby>界<rt>かい</rt></ruby>を<ruby>荒<rt>あ</rt></ruby>れ<ruby>野<rt>の</rt></ruby>のようにし、そのもろもろの<ruby>町<rt>まち</rt></ruby>を<ruby>滅<rt>ほろ</rt></ruby>ぼし、<ruby>捕<rt>と</rt></ruby>らえた<ruby>者<rt>もの</rt></ruby>たちを<ruby>釈<rt>しゃく</rt></ruby><ruby>放<rt>ほう</rt></ruby>しなかった<ruby>者<rt>もの</rt></ruby>か。」",
+      "zhs": "使世界如同荒野，使其中的城邑倾覆，不打开被掳者的房屋吗？",
+      "zht": "<span class=\"verse-number\">17ã</span>ä½¿ä¸çå¦åèéï¼ä½¿å¶ä¸­çåéå¾è¦ï¼ä¸æéè¢«æèçæ¿å±åï¼",
+      "spa": "que hizo del mundo un desierto, y destruyó sus ciudades, y nunca abrió la cárcel a sus presos?",
+      "por": "<span class=\"verse-number\">17 </span>E que fez do mundo um deserto, e destruiu as suas cidades, e nÃ£o abriu a casa dos seus cativos?",
+      "fra": "<span class=\"verse-number\">17Â </span>qui rÃ©duisait le monde en dÃ©sert, qui ravageait les villes, et ne relÃ¢chait point ses prisonniersÂ ?",
+      "deu": "<span class=\"verse-number\">17Â </span>Und die Welt zur Wildnis gemacht und die StÃ¤dte darin zerstÃ¶rt hat und das Haus seiner Gefangenen nicht geÃ¶ffnet hat?",
+      "kor": "<span class=\"verse-number\">17 </span>ë ì¸ìì ê´ì¼ê°ì´ ë§ë¤ê³ , ê·¸ ê³³ì ì±ìë¤ì íê´´íë©°, ê·¸ì ì¬ë¡ì¡í ìë¤ì ì¥ì ì´ì§ ìë ê·¸ ì¬ëì´ë íë¦¬ë¡ë¤.",
+      "ita": "<span class=\"verse-number\">17 </span>E che rendeva il mondo come un deserto, e ne devastava le cittÃ  e non apriva la casa dei suoi prigionieri?"
+    },
+    "18": {
+      "eng": "All the kings of the nations, yea, all of them, lie in glory, every one of them in his own house.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙÙÙÙ ÙÙÙÙÙÙ Ø§ÙÙØ£ÙÙÙÙÙ ÙÙØ¯ÙÙÙÙÙÙÙ Ø¨ÙÙÙØ±Ø§ÙÙØ©ÙØ ÙÙÙÙÙ ÙØ§Ø­ÙØ¯Ù ÙÙÙÙÙÙÙÙ ÙÙ Ø¨ÙÙÙØªÙÙÙ.",
+      "jpn": "もろもろの<ruby>国<rt>くに</rt></ruby>の<ruby>王<rt>おう</rt></ruby>たちは<ruby>皆<rt>みな</rt></ruby>、まことにすべての<ruby>王<rt>おう</rt></ruby>たちはそれぞれ、<ruby>尊<rt>とうと</rt></ruby>い<ruby>有<rt>あり</rt></ruby><ruby>様<rt>さま</rt></ruby>で<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>に<ruby>横<rt>よこ</rt></ruby>たわっている。",
+      "zhs": "列国的君王都各在自己的阴宅中荣耀安睡。",
+      "zht": "<span class=\"verse-number\">18ã</span>ååçåçé½åå¨èªå·±çé°å®ä¸­æ¦®èå®ç¡ã",
+      "spa": "Todos los reyes de las naciones, sí, todos yacen en gloria, cada uno en su propia casa;",
+      "por": "<span class=\"verse-number\">18 </span>Todos os reis das naÃ§Ãµes, sim, todos eles, repousam em glÃ³ria, cada um deles na sua prÃ³pria casa.",
+      "fra": "<span class=\"verse-number\">18Â </span>Tous les rois des nations, oui, tous, reposent avec honneur, chacun dâeux dans son tombeau.",
+      "deu": "<span class=\"verse-number\">18Â </span>Alle KÃ¶nige der Nationen, ja, sie alle liegen herrlich da, ein jeder von ihnen in seinem eigenen Haus.",
+      "kor": "<span class=\"verse-number\">18 </span>ì´êµ­ì ëª¨ë  ìë¤, ì°¸ì¼ë¡ ê·¸ë¤ì ëª¨ë ê°ê¸° ìê¸° ì§ìì ìê´ ì¤ì ëì ëë¤.",
+      "ita": "<span class=\"verse-number\">18 </span>Tutti i re delle nazioni, sÃ¬, tutti, riposano in gloria, ognuno di essi nella propria dimora."
+    },
+    "19": {
+      "eng": "But thou art cast out of thy grave like an abominable branch, and the remnant of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcass trodden under feet.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØ£ÙÙÙØ§ Ø£ÙÙÙØªÙ ÙÙÙÙØ¯Ù Ø·ÙØ±ÙØ­ÙØªÙ ÙÙÙÙ ÙÙØ¨ÙØ±ÙÙÙ ÙÙØºÙØµÙÙÙ ÙÙÙÙØ¨ÙØ°ÙØ ÙÙÙÙØ¬ÙØ«ÙØ«Ù Ø§ÙÙÙÙØªÙÙÙ Ø§ÙÙÙÙØ·ÙØ¹ÙÙÙÙÙ Ø¨ÙØ§ÙØ³ÙÙÙÙÙÙØ Ø§ÙÙÙØ§Ø¨ÙØ·ÙÙÙ Ø¥ÙÙÙ Ø­ÙØ¬Ø§Ø±ÙØ©Ù Ø§ÙÙØ¬ÙØ¨ÙÙØ ÙÙØ¬ÙØ«ÙÙØ©Ù ÙÙØ¯ÙØ³ÙØ©Ù ØªÙØ­ÙØªÙ Ø§ÙÙØ£ÙÙÙØ¯Ø§ÙÙ.",
+      "jpn": "しかし、あなたは<ruby>忌<rt>い</rt></ruby>み<ruby>嫌<rt>きら</rt></ruby>われる<ruby>枝<rt>えだ</rt></ruby>のように<ruby>墓<rt>はか</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>投<rt>な</rt></ruby>げ<ruby>出<rt>だ</rt></ruby>される。また、<ruby>剣<rt>つるぎ</rt></ruby>で<ruby>刺<rt>さ</rt></ruby>し<ruby>殺<rt>ころ</rt></ruby>された<ruby>者<rt>もの</rt></ruby>の<ruby>残<rt>のこ</rt></ruby>りは、<ruby>穴<rt>あな</rt></ruby>の<ruby>底<rt>そこ</rt></ruby>に<ruby>投<rt>な</rt></ruby>げ<ruby>落<rt>お</rt></ruby>とされる。まるで、<ruby>足<rt>あし</rt></ruby>で<ruby>踏<rt>ふ</rt></ruby>みつけられるしかばねのようである。",
+      "zhs": "唯独你被抛弃，不得入你的坟墓，好像可憎的枝子；又好像被杀的、被刀刺透的，坠向坑中石头的那些人中的存留者；你又像在脚下践踏的尸首一样。",
+      "zht": "<span class=\"verse-number\">19ã</span>å¯ç¨ä½ è¢«ææ£ï¼ä¸å¾å¥ä½ çå¢³å¢ï¼å¥½åå¯æçæå­ï¼åå¥½åè¢«æ®ºçãè¢«ååºéçï¼å¢ååä¸­ç³é ­çé£äºäººä¸­çå­çèï¼ä½ ååå¨è³ä¸è¸è¸çå±é¦ä¸æ¨£ã",
+      "spa": "mas tú echado eres de tu sepulcro como rama abominable, como residuo de aquellos que fueron muertos, atravesados por la espada, que descienden a las piedras del abismo; como cadáver hollado bajo los pies.",
+      "por": "<span class=\"verse-number\">19 </span>Tu, porÃ©m, Ã©s lanÃ§ado da tua sepultura como um ramo abominÃ¡vel e como o remanescente dos que sÃ£o mortos, atravessados Ã  espada, que descem Ã s pedras do abismo como uma carcaÃ§a pisada.",
+      "fra": "<span class=\"verse-number\">19Â </span>Mais toi, tu as Ã©tÃ© jetÃ© loin de ton sÃ©pulcre, comme un rameau quâon dÃ©daigne, comme le reste de ceux qui ont Ã©tÃ© tuÃ©s Ã  coups dâÃ©pÃ©e, et prÃ©cipitÃ©s sur les pierres dâune fosse, comme un cadavre foulÃ© aux pieds.",
+      "deu": "<span class=\"verse-number\">19Â </span>Du aber bist ausgestoÃen aus deinem Grab wie ein verabscheuter Zweig und der Ãberrest derer, die getÃ¶tet sind, vom Schwert durchbohrt, die hinabmÃ¼ssen zu den Steinen der Grube, wie ein zertretenes Aas.",
+      "kor": "<span class=\"verse-number\">19 </span>ê·¸ë¬ë ëë ë¤ ë¬´ë¤ìì ë´ì´ ì«ê²¼ì¼ë, ê°ì¦í ê°ì§ ê°ê³  ì¹¼ì ì°ë ¤ ì´ì¡ë¹íì¬ êµ¬ë©ì´ì ëë¡ ë´ë ¤ê°ë ìë¤ì ë¨ì ì ê°ì¼ë, ë° ìë ë°íë ì£¼ê²ê³¼ ê°ëë¤.",
+      "ita": "<span class=\"verse-number\">19 </span>Ma tu sei gettato fuori dalla tua tomba come un ramo abominevole, e come i resti di coloro che son uccisi, trafitti con la spada, che scendono nelle pietre della fossa; come un cadavere calpestato sotto i piedi."
+    },
+    "20": {
+      "eng": "Thou shalt not be joined with them in burial, because thou hast destroyed thy land and slain thy people; the seed of evil-doers shall never be renowned.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙÙÙ ØªÙØ¯ÙÙÙÙÙ ÙÙØ¹Ù Ø§ÙÙÙÙÙÙÙÙØ ÙÙØ£ÙÙÙÙÙÙ Ø®ÙØ±ÙÙØ¨ÙØªÙ Ø¨ÙÙÙØ¯ÙÙÙØ ÙÙÙÙØªÙÙÙØªÙ Ø´ÙØ¹ÙØ¨ÙÙÙØ ÙØ§ ÙÙØ°ÙÙÙØ±Ù Ø§Ø³ÙÙÙ ÙÙØ³ÙÙÙ ÙØ§Ø¹ÙÙÙ Ø§ÙØ´ÙÙØ±ÙÙ Ø¥ÙÙÙ Ø§ÙÙØ£ÙØ¨ÙØ¯Ù.",
+      "jpn": "あなたは<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>国<rt>くに</rt></ruby>を<ruby>滅<rt>ほろ</rt></ruby>ぼし、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>民<rt>たみ</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>したので、<ruby>彼<rt>かれ</rt></ruby>らとともには<ruby>葬<rt>ほうむ</rt></ruby>られない。<ruby>悪<rt>あく</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>者<rt>もの</rt></ruby>の<ruby>子<rt>し</rt></ruby><ruby>孫<rt>そん</rt></ruby>は、<ruby>決<rt>けっ</rt></ruby>して<ruby>名<rt>な</rt></ruby>を<ruby>知<rt>し</rt></ruby>られることがない。",
+      "zhs": "你不得与他们同葬，因为你毁坏你的地，杀戮你的民；恶人的后裔必永不会有名声。",
+      "zht": "<span class=\"verse-number\">20ã</span>ä½ ä¸å¾èä»ååè¬ï¼å çºä½ æ¯å£ä½ çå°ï¼æ®ºæ®ä½ çæ°ï¼æ¡äººçå¾è£å¿æ°¸ä¸ææåè²ã",
+      "spa": "No serás sepultado junto con ellos, porque has desolado tu tierra y has hecho perecer a tu pueblo; la posteridad de los malhechores para siempre no será reconocida.",
+      "por": "<span class=\"verse-number\">20 </span>Com eles nÃ£o te reunirÃ¡s na sepultura, porque destruÃ­ste a tua terra e mataste o teu povo; a descendÃªncia dos malfeitores nunca serÃ¡ reconhecida.",
+      "fra": "<span class=\"verse-number\">20Â </span>Tu nâes pas rÃ©uni Ã  eux dans le sÃ©pulcre, car tu as dÃ©truit ton pays, tu as fait pÃ©rir ton peupleÂ : on ne parlera plus jamais de la race des mÃ©chants.",
+      "deu": "<span class=\"verse-number\">20Â </span>Du wirst mit ihnen im BegrÃ¤bnis nicht vereint sein; denn du hast dein Land zerschlagen und dein Volk getÃ¶tet; die Nachkommen von MissetÃ¤tern werden nimmermehr gerÃ¼hmt.",
+      "kor": "<span class=\"verse-number\">20 </span>ëë ê·¸ë¤ê³¼ í¨ê» ì¥ì¬ëì§ ëª»íë¦¬ë, ì´ë ë¤ê° ë¤ ëì ë©¸íê³  ë¤ ë°±ì±ì ì£½ì¸ ì°ê³ ëë¼. íììë¤ì ì¨ë ê²°ì½ ëªì±ì´ ëì§ ëª»íë¦¬ë¡ë¤ í ì§ëë¼.",
+      "ita": "<span class=\"verse-number\">20 </span>Non sarai unito a loro nella sepoltura, perchÃ© hai distrutto il tuo paese e hai ucciso il tuo popolo; alla posteritÃ  dei malfattori non sarÃ  mai piÃ¹ data rinomanza."
+    },
+    "21": {
+      "eng": "Prepare slaughter for his children for the iniquities of their fathers, that they do not rise, nor possess the land, nor fill the face of the world with cities.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>Ø£ÙØ¹ÙØ¯ÙÙØ§ ÙÙØ°ÙØ¨ÙØ­ÙØ©Ù ÙÙØ£ÙØ¨ÙÙØ§Ø¦ÙÙÙ Ø¨ÙØ³ÙØ¨ÙØ¨Ù Ø¢Ø«Ø§ÙÙ Ø¢Ø¨Ø§Ø¦ÙÙÙÙÙØ ÙÙÙÙÙÙ ÙÙÙÙÙÙØ§ ÙÙÙÙÙÙØªÙÙÙÙÙØ§ Ø§ÙÙØ£ÙØ±ÙØ¶Ù ÙÙÙÙÙÙ ÙÙÙÙÙÙØ£ÙØ§ ÙÙØ¬ÙÙÙ Ø§ÙÙØ¹Ø§ÙÙÙÙ ÙÙØ¯ÙÙÙØ§.",
+      "jpn": "<ruby>先<rt>せん</rt></ruby><ruby>祖<rt>ぞ</rt></ruby>が<ruby>罪<rt>ざい</rt></ruby><ruby>悪<rt>あく</rt></ruby>を<ruby>犯<rt>おか</rt></ruby>したので、<ruby>彼<rt>かれ</rt></ruby>の<ruby>子<rt>し</rt></ruby><ruby>孫<rt>そん</rt></ruby>が<ruby>立<rt>た</rt></ruby>って<ruby>地<rt>ち</rt></ruby>を<ruby>占<rt>せん</rt></ruby><ruby>領<rt>りょう</rt></ruby>して、<ruby>世<rt>せ</rt></ruby><ruby>界<rt>かい</rt></ruby>の<ruby>面<rt>おもて</rt></ruby>をもろもろの<ruby>町<rt>まち</rt></ruby>で<ruby>満<rt>み</rt></ruby>たすことのないように、<ruby>子<rt>し</rt></ruby><ruby>孫<rt>そん</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>す<ruby>備<rt>そな</rt></ruby>えをしなさい。』",
+      "zhs": "因先人的罪孽，要预备杀戮他的子孙，免得他们兴起来，得了那地，在世上修满城邑。",
+      "zht": "<span class=\"verse-number\">21ã</span>å åäººçç½ªå­½ï¼è¦é åæ®ºæ®ä»çå­å­«ï¼åå¾ä»åèèµ·ä¾ï¼å¾äºé£å°ï¼å¨ä¸ä¸ä¿®æ»¿åéã",
+      "spa": "Preparad matanza para sus hijos por las iniquidades de sus padres; para que no se levanten, ni posean la tierra, ni llenen de ciudades la faz del mundo.",
+      "por": "<span class=\"verse-number\">21 </span>Preparai a matanÃ§a para os seus filhos, por causa da iniquidade de seus pais, para que nÃ£o se levantem, nem possuam a terra nem encham a face do mundo de cidades.",
+      "fra": "<span class=\"verse-number\">21Â </span>PrÃ©parez le massacre des fils, Ã  cause des iniquitÃ©s de leurs pÃ¨resÂ ! Quâils ne se relÃ¨vent pas pour conquÃ©rir la terre, et remplir le monde dâennemisÂ !",
+      "deu": "<span class=\"verse-number\">21Â </span>Bereitet seinen Kindern ein Gemetzel um der Ãbeltaten ihrer VÃ¤ter willen, damit sie nicht aufstehen noch das Land besitzen noch das Antlitz der Welt mit StÃ¤dten fÃ¼llen.",
+      "kor": "<span class=\"verse-number\">21 </span>ê·¸ë¤ ì¡°ìë¤ì ì£ìì¼ë¡ ì¸íì¬ ê·¸ì ìì ëë¥íê¸°ë¥¼ ìë¹íì¬, ê·¸ë¤ë¡ ì¼ì´ëì§ë, ëì ìì íì§ë, ì±ìë¤ë¡ ì¸ìì ì±ì°ì§ë ëª»íê² íë¼.",
+      "ita": "<span class=\"verse-number\">21 </span>Si prepari la strage dei suoi figlioli per lâiniquitÃ  dei loro padri, affinchÃ© non si alzino, nÃ© posseggano il paese, e non riempiano di cittÃ  la faccia della terra."
+    },
+    "22": {
+      "eng": "For I will rise up against them, saith the Lord of Hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the Lord.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙØ£ÙÙÙÙÙ Ø¹ÙÙÙÙÙÙÙÙÙØ ÙÙÙÙÙÙ Ø±ÙØ¨ÙÙ Ø§ÙÙØ¬ÙÙÙØ¯ÙØ ÙÙØ£ÙÙÙØ·ÙØ¹Ù ÙÙÙÙ Ø¨Ø§Ø¨ÙÙÙ Ø§ÙÙØ§Ø³ÙÙÙ ÙÙØ§ÙÙØ¨ÙÙÙÙÙÙØ©Ù ÙÙØ§ÙÙØ§Ø¨ÙÙÙ ÙÙØ§Ø¨ÙÙÙ Ø§ÙÙØ£ÙØ®ÙØ ÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ.",
+      "jpn": "<ruby>万<rt>ばん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>の<ruby>主<rt>しゅ</rt></ruby>は<ruby>言<rt>い</rt></ruby>われる。『わたしは<ruby>彼<rt>かれ</rt></ruby>らに<ruby>逆<rt>さか</rt></ruby>らって<ruby>立<rt>た</rt></ruby>ち、バビロンからその<ruby>名<rt>な</rt></ruby>と、<ruby>残<rt>のこ</rt></ruby>りの<ruby>者<rt>もの</rt></ruby>と、<ruby>息子<rt>むすこ</rt></ruby>と、<ruby>孫<rt>まご</rt></ruby>とを<ruby>絶<rt>た</rt></ruby>とう。』そう<ruby>主<rt>しゅ</rt></ruby>は<ruby>言<rt>い</rt></ruby>われる。",
+      "zhs": "万军之主说：我必兴起攻击他们，将巴比伦的名号，和所余剩的人，和子侄一并剪除；这是主说的。",
+      "zht": "<span class=\"verse-number\">22ã</span>è¬è»ä¹ä¸»èªªï¼æå¿èèµ·æ»æä»åï¼å°<u>å·´æ¯å«</u>çåèï¼åæé¤å©çäººï¼åå­å§ªä¸ä½µåªé¤ï¼éæ¯ä¸»èªªçã",
+      "spa": "Porque yo me levantaré contra ellos, dice el Señor de los Ejércitos; y raeré de Babilonia el nombre y residuo, hijo y sobrino, dice el Señor.",
+      "por": "<span class=\"verse-number\">22 </span>Pois levantar-me-ei contra eles, diz o Senhor dos ExÃ©rcitos, e desarraigarei de BabilÃ´nia o nome e os remanescentes e o filho e o neto, diz o Senhor.",
+      "fra": "<span class=\"verse-number\">22Â </span>Je me lÃ¨verai contre eux, dit le Seigneur des armÃ©esÂ ; jâanÃ©antirai le nom et la trace de Babylone, ses descendants et sa postÃ©ritÃ©, dit le Seigneur.",
+      "deu": "<span class=\"verse-number\">22Â </span>Denn ich werde gegen sie aufstehen, spricht der Herr der Heerscharen, und aus Babylon auslÃ¶schen den Namen und Ãberrest und Sohn und Neffen, spricht der Herr.",
+      "kor": "<span class=\"verse-number\">22 </span>ë§êµ°ì ì£¼ê»ì ë§ìíìëëë¼, ì´ë ë´ê° ê·¸ë¤ì ëì íì¬ ì¼ì´ë, ë°ë²¨ë¡ ìì ê·¸ ì´ë¦ê³¼ ë¨ì ìì ìë¤ê³¼ ì¡°ì¹´ë¥¼ ëì ê²ìì´ëë¼, ì£¼ê»ì ë§ìíìëëë¼.",
+      "ita": "<span class=\"verse-number\">22 </span>PoichÃ© io mi alzerÃ² contro di essi, dice il Signore degli eserciti, e reciderÃ² da Babilonia il nome e il residuo, i figli e i nipoti, dice il Signore."
+    },
+    "23": {
+      "eng": "I will also make it a possession for the bittern, and pools of water; and I will sweep it with the besom of destruction, saith the Lord of Hosts.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙØ£ÙØ¬ÙØ¹ÙÙÙÙØ§ ÙÙØ±Ø§Ø«ÙØ§ ÙÙÙÙÙÙÙØ§ÙÙØ°ÙØ ÙÙÙÙØ³ÙØªÙÙÙÙÙØ¹Ø§ØªÙ ÙÙÙØ§ÙÙØ ÙÙØ£ÙÙÙÙÙÙØ³ÙÙØ§ Ø¨ÙÙÙÙÙÙÙØ³ÙØ©Ù Ø§ÙÙÙÙÙØ§ÙÙÙØ ÙÙÙÙÙÙ Ø±ÙØ¨ÙÙ Ø§ÙÙØ¬ÙÙÙØ¯Ù.",
+      "jpn": "『わたしはバビロンをさぎの<ruby>住<rt>す</rt></ruby>みかとし、<ruby>水<rt>みず</rt></ruby>の<ruby>池<rt>いけ</rt></ruby>とする。また、<ruby>滅<rt>ほろ</rt></ruby>びのほうきでそれを<ruby>掃<rt>は</rt></ruby>こう。』<ruby>万<rt>ばん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>の<ruby>主<rt>しゅ</rt></ruby>はそう<ruby>言<rt>い</rt></ruby>われる。",
+      "zhs": "我必使它为麻鸦所得，又变为水池；我要用灭亡的扫帚扫净它；这是万军之主说的。",
+      "zht": "<span class=\"verse-number\">23ã</span>æå¿ä½¿å®çºéº»é´æå¾ï¼åè®çºæ°´æ± ï¼æè¦ç¨æ»äº¡çæå¸ææ·¨å®ï¼éæ¯è¬è»ä¹ä¸»èªªçã",
+      "spa": "Y la convertiré en morada de avetoros y en lagunas de agua; y la barreré con escoba de destrucción, dice el Señor de los Ejércitos.",
+      "por": "<span class=\"verse-number\">23 </span>E tambÃ©m a reduzirei a possessÃ£o de garÃ§as e a lagoas de Ã¡gua; e varrÃª-la-ei com a vassoura da destruiÃ§Ã£o, diz o Senhor dos ExÃ©rcitos.",
+      "fra": "<span class=\"verse-number\">23Â </span>Jâen ferai le gÃ®te du hÃ©risson et un marÃ©cage, et je la balaierai avec le balai de la destruction, dit le Seigneur des armÃ©es.",
+      "deu": "<span class=\"verse-number\">23Â </span>Ich werde es auch zum Besitz fÃ¼r die Reiher machen und zu WassersÃ¼mpfen, und ich werde es mit dem Besen der Vernichtung wegfegen, spricht der Herr der Heerscharen.",
+      "kor": "<span class=\"verse-number\">23 </span>ë´ê° ëí ê·¸ê²ì¼ë¡ í´ì¤ë¼ê¸° ì°¨ì§ê° ëê³ , ë¬¼ìë©ì´ê° ëê² í  ê²ì´ë©°, ë´ê° ë ë©¸ë§ì ë¹ë¡ ê·¸ê²ì ìì íë¦¬ë¼, ë§êµ°ì ì£¼ê»ì ë§ìíìëëë¼.",
+      "ita": "<span class=\"verse-number\">23 </span>Ne farÃ² pure un possesso per le civette e le pozze dâacqua; e la spazzerÃ² con la scopa della distruzione, dice il Signore degli eserciti."
+    },
+    "24": {
+      "eng": "The Lord of Hosts hath sworn, saying: Surely as I have thought, so shall it come to pass; and as I have purposed, so shall it stand—",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>Ø£ÙÙÙØ³ÙÙÙ Ø±ÙØ¨ÙÙ Ø§ÙÙØ¬ÙÙÙØ¯Ù ÙØ§Ø¦ÙÙÙØ§: Ø¥ÙÙÙÙÙÙ ÙÙÙØ§ ÙÙØµÙØ¯ÙØªÙ ÙÙØµÙØ±ÙØ ÙÙÙÙÙØ§ ÙÙÙÙÙÙØªÙ ÙÙØ«ÙØ¨ÙØªÙâ",
+      "jpn": "<ruby>万<rt>ばん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>の<ruby>主<rt>しゅ</rt></ruby>は<ruby>誓<rt>ちか</rt></ruby>って<ruby>言<rt>い</rt></ruby>われた。『わたしが<ruby>思<rt>おも</rt></ruby>ったように<ruby>必<rt>かなら</rt></ruby>ず<ruby>事<rt>こと</rt></ruby>は<ruby>成<rt>な</rt></ruby>り、わたしが<ruby>定<rt>さだ</rt></ruby>めたように<ruby>必<rt>かなら</rt></ruby>ず<ruby>立<rt>た</rt></ruby>つ。",
+      "zhs": "万军之主起誓说：我怎样思想，必照样成就；我怎样定意，必照样成立。",
+      "zht": "<span class=\"verse-number\">24ã</span>è¬è»ä¹ä¸»èµ·èªèªªï¼æææ¨£ææ³ï¼å¿ç§æ¨£æå°±ï¼æææ¨£å®æï¼å¿ç§æ¨£æç«ã",
+      "spa": "El Señor de los Ejércitos ha jurado, diciendo: Ciertamente como lo he pensado, así sucederá; y como lo he propuesto, así será confirmado;",
+      "por": "<span class=\"verse-number\">24 </span>O Senhor dos ExÃ©rcitos jurou, dizendo: Como pensei, assim hÃ¡ de suceder; como determinei, assim serÃ¡Â â",
+      "fra": "<span class=\"verse-number\">24Â </span>Le Seigneur des armÃ©es lâa jurÃ©, en disantÂ : Oui, ce que jâai dÃ©cidÃ© arrivera, ce que jâai rÃ©solu sâaccomplira.",
+      "deu": "<span class=\"verse-number\">24Â </span>Der Herr der Heerscharen hat geschworen, nÃ¤mlich: Gewiss, wie ich es bedacht habe, so wird es geschehen; und wie ich es mir vorgenommen habe, so wird es bestehenÂ â",
+      "kor": "<span class=\"verse-number\">24 </span>ë§êµ°ì ì£¼ê»ì ë§¹ì¸íê³  ì´ë¥´ìë, ë°ëì ë´ê° ìê°í ëë¡ ëë©°, ë´ê° ìì í ëë¡ ìë¦¬ë¼â",
+      "ita": "<span class=\"verse-number\">24 </span>Il Signore degli eserciti ha giurato dicendo: Sicuramente, come ho pensato, cosÃ¬ avverrÃ ; e come mi son proposto cosÃ¬ sarÃ Â â"
+    },
+    "25": {
+      "eng": "That I will bring the Assyrian in my land, and upon my mountains tread him under foot; then shall his yoke depart from off them, and his burden depart from off their shoulders.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>Ø£ÙÙÙ Ø£ÙØ­ÙØ·ÙÙÙÙ Ø£ÙØ´ÙØ±Ù ÙÙ Ø£ÙØ±ÙØ¶Ù ÙÙØ£ÙØ¯ÙØ³ÙÙÙ Ø¹ÙÙÙ Ø¬ÙØ¨Ø§ÙÙØ ÙÙÙÙØ²ÙÙÙ Ø¹ÙÙÙÙÙÙÙ ÙÙØ±ÙÙÙØ ÙÙØ­ÙÙÙÙÙÙÙ Ø¹ÙÙÙ Ø£ÙÙÙØªØ§ÙÙÙÙÙÙ.",
+      "jpn": "わたしはアッスリヤ<ruby>人<rt>びと</rt></ruby>をわたしの<ruby>地<rt>ち</rt></ruby>に<ruby>入<rt>はい</rt></ruby>らせ、わたしの<ruby>山<rt>やま</rt></ruby><ruby>々<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>で<ruby>踏<rt>ふ</rt></ruby>みにじろう。そのとき、アッスリヤ<ruby>人<rt>びと</rt></ruby>のくびきはイスラエルから<ruby>取<rt>と</rt></ruby>り<ruby>去<rt>さ</rt></ruby>られ、その<ruby>重<rt>おも</rt></ruby><ruby>荷<rt>に</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>らの<ruby>肩<rt>かた</rt></ruby>から<ruby>取<rt>と</rt></ruby>り<ruby>除<rt>のぞ</rt></ruby>かれる。』",
+      "zhs": "就是我要带亚述人进我的地，在我山上将他在脚下践踏；那时他的轭必离开他们，他的重担，必离开他们的肩头。",
+      "zht": "<span class=\"verse-number\">25ã</span>å°±æ¯æè¦å¸¶äºè¿°äººé²æçå°ï¼å¨æå±±ä¸å°ä»å¨è³ä¸è¸è¸ï¼é£æä»çè»å¿é¢éä»åï¼ä»çéæï¼å¿é¢éä»åçè©é ­ã",
+      "spa": "que al asirio traeré a mi tierra, y en mis collados lo hollaré; entonces será apartado de ellos el yugo de él, y la carga de él será quitada de sus hombros.",
+      "por": "<span class=\"verse-number\">25 </span>Que o assÃ­rio trarei Ã  minha terra, e nas minhas montanhas o pisarei; entÃ£o o seu jugo se apartarÃ¡ deles, e a sua carga apartar-se-Ã¡ dos seus ombros.",
+      "fra": "<span class=\"verse-number\">25Â </span>JâamÃ¨nerai lâAssyrien dans mon pays, je le foulerai aux pieds sur mes montagnesÂ ; et son joug leur sera Ã´tÃ©, et son fardeau sera Ã´tÃ© de leurs Ã©paules.",
+      "deu": "<span class=\"verse-number\">25Â </span>dass ich den Assyrer in mein Land bringen werde und auf meinen Bergen ihn zertreten; dann wird sein Joch von ihnen weichen, und seine BÃ¼rde wird von ihren Schultern weichen.",
+      "kor": "<span class=\"verse-number\">25 </span>ê³§ ë´ê° ììë¥´ ì¬ëì ë´ ëì ë°ë ¤ì ë´ ì° ììì ê·¸ë¥¼ ë° ìë ë°ì¼ë¦¬ë, ê·¸ëì ê·¸ì ë©ìê° ê·¸ë¤ìê²ì ë ëê³ , ê·¸ì ì§ì´ ê·¸ë¤ì ì´ê¹¨ìì ë ë  ê²ì´ë¼.",
+      "ita": "<span class=\"verse-number\">25 </span>Che porterÃ² lâAssiro nel mio paese, e sulle mie montagne lo calpesterÃ² sotto i piedi; allora il suo giogo se ne andrÃ  via da loro, e il suo fardello se ne andrÃ  via dalle loro spalle."
+    },
+    "26": {
+      "eng": "This is the purpose that is purposed upon the whole earth; and this is the hand that is stretched out upon all nations.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙ°Ø°Ø§ ÙÙÙÙ Ø§ÙÙÙÙØ¶Ø§Ø¡Ù Ø§ÙÙÙØ°Ù Ø£ÙØ¹ÙØ¯ÙÙ ÙÙÙÙÙÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶ÙØ ÙÙÙÙ°Ø°ÙÙÙ ÙÙÙÙ Ø§ÙÙÙÙØ¯Ù Ø§ÙÙÙÙÙÙØ¯ÙØ¯ÙØ©Ù Ø¹ÙÙÙ ÙÙÙÙÙ Ø§ÙÙØ£ÙÙÙÙÙ.",
+      "jpn": "これは<ruby>全<rt>ぜん</rt></ruby><ruby>地<rt>ち</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>定<rt>さだ</rt></ruby>められたことであり、またこれは、すべての<ruby>国<rt>くに</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>伸<rt>の</rt></ruby>ばされた<ruby>御<rt>み</rt></ruby><ruby>手<rt>て</rt></ruby>である。",
+      "zhs": "这是向全地所定的旨意；这是向万国所伸出的手。",
+      "zht": "<span class=\"verse-number\">26ã</span>éæ¯åå¨å°æå®çæ¨æï¼éæ¯åè¬åæä¼¸åºçæã",
+      "spa": "Este es el propósito que se ha determinado sobre toda la tierra; y esta, la mano que se extiende sobre todas las naciones.",
+      "por": "<span class=\"verse-number\">26 </span>Este Ã© o propÃ³sito que foi determinado sobre toda a Terra; e esta Ã© a mÃ£o que estÃ¡ estendida sobre todas as naÃ§Ãµes.",
+      "fra": "<span class=\"verse-number\">26Â </span>VoilÃ  la rÃ©solution prise contre toute la terre, voilÃ  la main Ã©tendue sur toutes les nations.",
+      "deu": "<span class=\"verse-number\">26Â </span>Dies ist der Beschluss, der beschlossen ist Ã¼ber die ganze Erde; und dies ist die Hand, die ausgestreckt ist Ã¼ber alle Nationen.",
+      "kor": "<span class=\"verse-number\">26 </span>ì´ê²ì´ ì¨ ë ìì ìëë ëª©ì ì´ì, ì´ê²ì´ ëª¨ë  ëë¼ ìì ë»ì´ìë ìì´ë¼ íì¨ëë,",
+      "ita": "<span class=\"verse-number\">26 </span>Questo Ã¨ il proposito che Ã¨ stabilito su tutta la terra; e questa Ã¨ la mano che Ã¨ stesa su tutte le nazioni."
+    },
+    "27": {
+      "eng": "For the Lord of Hosts hath purposed, and who shall disannul? And his hand is stretched out, and who shall turn it back?",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙØ¥ÙÙÙÙ Ø±ÙØ¨ÙÙ Ø§ÙÙØ¬ÙÙÙØ¯Ù ÙÙØ¯Ù ÙÙØ¶ÙØ ÙÙÙÙÙÙ ÙÙØ¨ÙØ·ÙÙÙÙØ ÙÙÙÙØ¯ÙÙÙ ÙÙÙÙØ¯ÙØ¯ÙØ©ÙØ ÙÙÙÙÙÙ ÙÙØ±ÙØ¯ÙÙÙØ§Ø",
+      "jpn": "<ruby>万<rt>ばん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>の<ruby>主<rt>しゅ</rt></ruby>が<ruby>定<rt>さだ</rt></ruby>められたものを、だれが<ruby>取<rt>と</rt></ruby>り<ruby>消<rt>け</rt></ruby>せようか。<ruby>主<rt>しゅ</rt></ruby>の<ruby>手<rt>て</rt></ruby>が<ruby>伸<rt>の</rt></ruby>ばされているのを、だれが<ruby>押<rt>お</rt></ruby>し<ruby>戻<rt>もど</rt></ruby>せようか。",
+      "zhs": "万军之主既然定意，谁能废弃呢？祂的手已经伸出，谁能使之转回呢？",
+      "zht": "<span class=\"verse-number\">27ã</span>è¬è»ä¹ä¸»æ¢ç¶å®æï¼èª°è½å»¢æ£å¢ï¼ç¥çæå·²ç¶ä¼¸åºï¼èª°è½ä½¿ä¹è½åå¢ï¼",
+      "spa": "Porque el Señor de los Ejércitos ha propuesto y, ¿quién lo abrogará? Su mano está extendida y, ¿quién la hará tornar atrás?",
+      "por": "<span class=\"verse-number\">27 </span>Pois o Senhor dos ExÃ©rcitos determinou; e quem invalidarÃ¡? E a sua mÃ£o estÃ¡ estendida; e quem a farÃ¡ voltar atrÃ¡s?",
+      "fra": "<span class=\"verse-number\">27Â </span>Le Seigneur des armÃ©es a pris cette rÃ©solutionÂ : qui sây opposeraÂ ? Sa main est Ã©tendueÂ : qui la dÃ©tourneraÂ ?",
+      "deu": "<span class=\"verse-number\">27Â </span>Denn der Herr der Heerscharen hat beschlossen, und wer wird vereiteln? Und seine Hand ist ausgestreckt, und wer wird sie abwenden?",
+      "kor": "<span class=\"verse-number\">27 </span>ë§êµ°ì ì£¼ê»ì ìì íì¨ìì¦ ëê° ííê² ëë? ë ê·¸ì ìì´ ë»ì´ììì¦ ëê° ê·¸ê²ì ëì´í¤ê² ëë?",
+      "ita": "<span class=\"verse-number\">27 </span>PoichÃ© il Signore degli eserciti se lâÃ¨ proposto, e chi lâannullerÃ ? E la sua mano Ã¨ stesa, e chi la respingerÃ ?"
+    },
+    "28": {
+      "eng": "In the year that king Ahaz died was this burden.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙØ§ÙÙ ÙÙ°Ø°Ø§ Ø§ÙÙØ¹ÙØ¨ÙØ¡Ù ÙÙ Ø³ÙÙÙØ©Ù ÙÙÙØ§Ø©Ù Ø§ÙÙÙÙÙÙÙÙ Ø¢Ø­Ø§Ø²Ù.",
+      "jpn": "アハズ<ruby>王<rt>おう</rt></ruby>の<ruby>死<rt>し</rt></ruby>んだ<ruby>年<rt>とし</rt></ruby>に、この<ruby>託<rt>たく</rt></ruby><ruby>宣<rt>せん</rt></ruby>があった。",
+      "zhs": "亚哈斯王崩的那年，有这重担。",
+      "zht": "<span class=\"verse-number\">28ã</span>äºåæ¯çå´©çé£å¹´ï¼æééæã",
+      "spa": "El año en que murió el rey Acaz fue esta carga.",
+      "por": "<span class=\"verse-number\">28 </span>No ano em que morreu o rei Acaz, foi dada a sentenÃ§a.",
+      "fra": "<span class=\"verse-number\">28Â </span>LâannÃ©e de la mort du roi Achaz, cet oracle fut prononcÃ©Â :",
+      "deu": "<span class=\"verse-number\">28Â </span>In dem Jahr, da KÃ¶nig Ahas starb, erging diese BÃ¼rde.",
+      "kor": "<span class=\"verse-number\">28 </span>ìíì¤ ìì´ ì£½ë í´ì ì´ ê²½ê³ ê° ììëëë¼.",
+      "ita": "<span class=\"verse-number\">28 </span>Nellâanno in cui morÃ¬ re Achaz ci fu questa condanna:"
+    },
+    "29": {
+      "eng": "Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken; for out of the serpent’s root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙØ§Ù ØªÙÙÙØ±ÙØ­Ù ÙØ§ Ø¬ÙÙÙØ¹Ù ÙÙÙÙØ³ÙØ·ÙÙÙØ ÙÙØ£ÙÙÙÙ Ø¹ÙØµØ§ÙÙ Ø§ÙÙÙØªÙ Ø¶ÙØ±ÙØ¨ÙØªÙÙÙÙÙ ÙÙØ³ÙØ±ÙØªÙØ ÙÙÙÙÙÙ ÙÙ°Ø°ÙÙÙ Ø§ÙÙØ­ÙÙÙÙØ©Ù Ø³ÙØªÙØ®ÙØ±ÙØ¬Ù Ø£ÙÙÙØ¹ÙØ ÙÙØ«ÙÙÙØ±ÙØªÙÙÙ ØªÙÙÙÙÙ Ø«ÙØ¹ÙØ¨Ø§ÙÙØ§ ÙÙØ³ÙÙÙÙØ§ Ø·ÙÙÙØ§Ø±ÙØ§.",
+      "jpn": "『ペリシテの<ruby>全<rt>ぜん</rt></ruby><ruby>地<rt>ち</rt></ruby>よ、あなたを<ruby>打<rt>う</rt></ruby>った<ruby>者<rt>もの</rt></ruby>の<ruby>鞭<rt>むち</rt></ruby>が<ruby>折<rt>お</rt></ruby>れたからといって<ruby>喜<rt>よろこ</rt></ruby>んではならない。<ruby>蛇<rt>へび</rt></ruby>の<ruby>根<rt>ね</rt></ruby>からまむしが<ruby>出<rt>で</rt></ruby>、その<ruby>実<rt>み</rt></ruby>は<ruby>火<rt>ひ</rt></ruby>の<ruby>飛<rt>と</rt></ruby>ぶ<ruby>蛇<rt>へび</rt></ruby>となるからである。",
+      "zhs": "非利士全地啊，不要因击打你的杖折断就喜乐；因为从蛇的根，必生出毒蛇；他所生的，是会飞的火蛇。",
+      "zht": "<span class=\"verse-number\">29ã</span><u>éå©å£«</u>å¨å°åï¼ä¸è¦å ææä½ çæææ·å°±åæ¨ï¼å çºå¾èçæ ¹ï¼å¿çåºæ¯èï¼ä»æççï¼æ¯æé£çç«èã",
+      "spa": "No te regocijes tú, Filistea toda, por haberse quebrado la vara del que te hería; porque de la raíz de la culebra saldrá el áspid, y su fruto será una ardiente serpiente voladora.",
+      "por": "<span class=\"verse-number\">29 </span>NÃ£o te alegres tu, Palestina toda, porque estÃ¡ quebrada a vara que te feria; pois da raiz da cobra sairÃ¡ um basilisco, e o seu fruto serÃ¡ uma serpente voadora flamejante.",
+      "fra": "<span class=\"verse-number\">29Â </span>Ne te rÃ©jouis pas, pays des Philistins, de ce que la verge qui te frappait est brisÃ©eÂ ! Car de la racine du serpent sortira un basilic, et son fruit sera un dragon volant.",
+      "deu": "<span class=\"verse-number\">29Â </span>Freue dich nicht, ganz PhilistÃ¤a, dass die Rute dessen zerbrochen ist, der dich geschlagen hat; denn aus der Wurzel der Schlange wird eine Viper kommen, und seine Frucht wird eine feurige fliegende Schlange sein.",
+      "kor": "<span class=\"verse-number\">29 </span>ë ì¨ ë¸ë ìì´ì¬, ëë¥¼ ì¹ë ìì ë§ëê¸°ê° ë¶ë¬ì¡ë¤ê³  ê¸°ë»íì§ ë§ë¼. ì´ë ë±ì ë¿ë¦¬ììë ëì¬ê° ëê² ê³ , ê·¸ì ì´ë§¤ë ë ìë¤ëë ë¶ë±ì´ ëê² ìì´ë¼.",
+      "ita": "<span class=\"verse-number\">29 </span>Non gioire, tu Palestina tutta, perchÃ© Ã¨ spezzato il bastone di colui che ti colpiva; poichÃ© dalla radice del serpente uscirÃ  un basilisco, e il suo frutto sarÃ  un ardente serpente volante."
+    },
+    "30": {
+      "eng": "And the firstborn of the poor shall feed, and the needy shall lie down in safety; and I will kill thy root with famine, and he shall slay thy remnant.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>ÙÙØªÙØ±ÙØ¹Ù Ø£ÙØ¨ÙÙØ§Ø±Ù Ø§ÙÙÙÙØ³Ø§ÙÙÙÙØ ÙÙÙÙØ±ÙØ¨ÙØ¶Ù Ø§ÙÙØ¨Ø§Ø¦ÙØ³ÙÙÙ Ø¨ÙØ§ÙÙØ£ÙÙØ§ÙÙØ ÙÙØ£ÙÙÙØªÙ Ø£ÙØµÙÙÙÙÙ Ø¨ÙØ§ÙÙØ¬ÙØ¹ÙØ ÙÙÙÙØµÙØ±ÙØ¹Ù Ø¨ÙÙÙÙÙÙØªÙÙÙ.",
+      "jpn": "<ruby>貧<rt>まず</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>の<ruby>初<rt>うい</rt></ruby><ruby>子<rt>ご</rt></ruby>は<ruby>食<rt>しょく</rt></ruby><ruby>物<rt>もつ</rt></ruby>を<ruby>得<rt>え</rt></ruby>て、<ruby>乏<rt>とぼ</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>は<ruby>安<rt>やす</rt></ruby>らかに<ruby>伏<rt>ふ</rt></ruby>す。わたしはあなたの<ruby>根<rt>ね</rt></ruby>を<ruby>飢<rt>き</rt></ruby><ruby>饉<rt>きん</rt></ruby>で<ruby>枯<rt>か</rt></ruby>らし、<ruby>彼<rt>かれ</rt></ruby>はあなたの<ruby>残<rt>のこ</rt></ruby>りの<ruby>者<rt>もの</rt></ruby>を<ruby>殺<rt>ころ</rt></ruby>す。",
+      "zhs": "贫寒人的长子，必有所食，穷乏人必安然躺卧；我必以饥荒治死你的根，他必杀戮你所余剩的人。",
+      "zht": "<span class=\"verse-number\">30ã</span>è²§å¯äººçé·å­ï¼å¿ææé£ï¼çª®ä¹äººå¿å®ç¶èººè¥ï¼æå¿ä»¥é£¢èæ²»æ­»ä½ çæ ¹ï¼ä»å¿æ®ºæ®ä½ æé¤å©çäººã",
+      "spa": "Y los primogénitos de los pobres comerán, y los menesterosos reposarán seguros; y haré morir de hambre a tu raíz, y él matará a tu residuo.",
+      "por": "<span class=\"verse-number\">30 </span>E os primogÃªnitos dos pobres comerÃ£o, e os necessitados repousarÃ£o seguros; e matarei de fome a tua raiz, e ele destruirÃ¡ os teus remanescentes.",
+      "fra": "<span class=\"verse-number\">30Â </span>Alors les plus pauvres pourront paÃ®tre, et les malheureux reposer en sÃ©curitÃ©Â ; mais je ferai mourir ta racine par la faim, et ce qui reste de toi sera tuÃ©.",
+      "deu": "<span class=\"verse-number\">30Â </span>Und die Erstgeborenen der Armen werden weiden, und die BedÃ¼rftigen werden in Sicherheit lagern; und ich werde deine Wurzel durch Hungersnot umbringen, und jener wird deinen Ãberrest tÃ¶ten.",
+      "kor": "<span class=\"verse-number\">30 </span>ë ê°ëí ìì ì¥ìë ë¨¹ê² ê³  ê¶íí ìë ìì í ê°ì´ë° ëì¸ ê²ì´ë¡ë, ë´ê° ê¸°ê·¼ì¼ë¡ ëì ë¿ë¦¬ë¥¼ ì£½ì¼ ê²ì´ì, ê·¸ë ë¤ ë¨ì ìë¥¼ ëë¥íë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">30 </span>E i primogeniti dei poveri si nutriranno e i bisognosi giaceranno al sicuro; io ucciderÃ² la tua radice con la carestia, ed egli ucciderÃ  il tuo residuo."
+    },
+    "31": {
+      "eng": "Howl, O gate; cry, O city; thou, whole Palestina, art dissolved; for there shall come from the north a smoke, and none shall be alone in his appointed times.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙÙÙÙÙÙÙ Ø£ÙÙÙÙØªÙÙØ§ Ø§ÙÙØ¨ÙÙÙØ§Ø¨ÙØ©ÙØ Ø§ØµÙØ±ÙØ®Ù Ø£ÙÙÙÙØªÙÙØ§ Ø§ÙÙÙÙØ¯ÙÙÙØ©ÙØ ÙÙØ¯Ù Ø°Ø§Ø¨Ù Ø¬ÙÙÙØ¹ÙÙÙ ÙØ§ ÙÙÙÙØ³ÙØ·ÙÙÙØ ÙÙØ£ÙÙÙÙÙÙ ÙÙÙÙ Ø§ÙØ´ÙÙÙØ§ÙÙ ÙÙØ£ÙØªÙ Ø¯ÙØ®Ø§ÙÙØ ÙÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙØ­ÙØ¯Ù ÙÙ Ø£ÙÙÙÙØ§ØªÙÙÙ Ø§ÙÙÙÙØ¹ÙÙÙÙÙÙØ©Ù.",
+      "jpn": "おお、<ruby>門<rt>もん</rt></ruby>よ、<ruby>泣<rt>な</rt></ruby>きわめけ。おお、<ruby>町<rt>まち</rt></ruby>よ、<ruby>叫<rt>さけ</rt></ruby>べ。ペリシテの<ruby>全<rt>ぜん</rt></ruby><ruby>地<rt>ち</rt></ruby>よ、<ruby>崩<rt>くず</rt></ruby>れよ。<ruby>北<rt>きた</rt></ruby>から<ruby>煙<rt>けむり</rt></ruby>が<ruby>来<rt>く</rt></ruby>るからである。<ruby>定<rt>さだ</rt></ruby>められたときに<ruby>独<rt>ひと</rt></ruby>りでいる<ruby>者<rt>もの</rt></ruby>はだれもいない。』",
+      "zhs": "门啊，应当哀号；城啊，应当呼喊；非利士全地啊，你都瓦解了；因为有烟会从北方出来，在指定的时间，没有人孤单。",
+      "zht": "<span class=\"verse-number\">31ã</span>éåï¼æç¶åèï¼ååï¼æç¶å¼åï¼<u>éå©å£«</u>å¨å°åï¼ä½ é½ç¦è§£äºï¼å çºæçæå¾åæ¹åºä¾ï¼å¨æå®çæéï¼æ²æäººå­¤å®ã",
+      "spa": "¡Aúlla, oh puerta! ¡Clama, oh ciudad! Tú, Filistea entera, disuelta estás; porque del norte vendrá un humo, y ninguno quedará solo en su tiempo determinado.",
+      "por": "<span class=\"verse-number\">31 </span>Uiva, Ã³ porta! Grita, Ã³ cidade! Tu, Palestina toda, estÃ¡s dissolvida! Pois do norte vem uma fumaÃ§a, e ninguÃ©m ficarÃ¡ solitÃ¡rio no tempo que lhe foi designado.",
+      "fra": "<span class=\"verse-number\">31Â </span>Porte, gÃ©misÂ ! ville, lamente-toiÂ ! tremble, pays tout entier des PhilistinsÂ ! Car du nord vient une fumÃ©e, et les rangs de lâennemi sont serrÃ©s.",
+      "deu": "<span class=\"verse-number\">31Â </span>Heule, o Tor! Schreie, o Stadt! Du, ganz PhilistÃ¤a, wirst aufgelÃ¶st; denn von Norden her wird ein Qualm kommen, und keiner wird allein sein zu den ihm bestimmten Zeiten.",
+      "kor": "<span class=\"verse-number\">31 </span>ì±ë¬¸ì´ì¬ ì¬í¼ ì¸ì§ì´ë¤, ì±ìì´ì¬ ë¶ë¥´ì§ìì§ì´ë¤, ë ì¨ ë¸ë ìì´ í´ì²´ëìëë¤. ì´ë í ì°ê¸°ê° ë¶ìª½ìì ì¬ ê²ì´ì, ê·¸ì ì í ìê°ì ìë¬´ë íë¡ ìì§ ìì ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">31 </span>Urla, o porta; grida, o cittÃ ; tu, Palestina tutta, sarai dissolta; poichÃ© verrÃ  un fumo da settentrione, e nessuno sarÃ  solo nei suoi tempi stabiliti."
+    },
+    "32": {
+      "eng": "What shall then answer the messengers of the nations? That the Lord hath founded Zion, and the poor of his people shall trust in it.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØ¨ÙÙØ§Ø°Ø§ ÙÙØ¬ÙØ¨Ù Ø±ÙØ³ÙÙÙ Ø§ÙÙØ£ÙÙÙÙÙØ Ø¥ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø£ÙØ³ÙÙØ³Ù ØµÙÙÙÙÙÙÙÙÙØ ÙÙØ¨ÙÙØ§ ÙÙØ«ÙÙÙ ÙÙØ³Ø§ÙÙÙÙ Ø´ÙØ¹ÙØ¨ÙÙÙ.",
+      "jpn": "そのとき、<ruby>国<rt>くに</rt></ruby><ruby>々<rt>ぐに</rt></ruby>の<ruby>使<rt>し</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちは<ruby>何<rt>なん</rt></ruby>と<ruby>答<rt>こた</rt></ruby>えるだろうか。『<ruby>主<rt>しゅ</rt></ruby>はシオンを<ruby>築<rt>きず</rt></ruby>かれた。<ruby>主<rt>しゅ</rt></ruby>の<ruby>民<rt>たみ</rt></ruby>の<ruby>貧<rt>まず</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>はそれに<ruby>頼<rt>たよ</rt></ruby>る』と<ruby>答<rt>こた</rt></ruby>える。」",
+      "zhs": "可怎样回答各国的使者呢？必说，主建立了锡安，祂人民中的困苦人，必信赖锡安。",
+      "zht": "<span class=\"verse-number\">32ã</span>å¯ææ¨£åç­ååçä½¿èå¢ï¼å¿èªªï¼ä¸»å»ºç«äºé«å®ï¼ç¥äººæ°ä¸­çå°è¦äººï¼å¿ä¿¡è³´é«å®ã",
+      "spa": "¿Qué responderán entonces los mensajeros de las naciones? Que el Señor fundó a Sion, y que los pobres de su pueblo se acogerán a ella.",
+      "por": "<span class=\"verse-number\">32 </span>Que responderÃ£o, pois, os mensageiros das naÃ§Ãµes? Que o Senhor fundou SiÃ£o, e que os pobres do seu povo confiarÃ£o nela.",
+      "fra": "<span class=\"verse-number\">32Â </span>Et que rÃ©pondront les envoyÃ©s du peupleÂ ? Que le Seigneur a fondÃ© Sion, et que les malheureux de son peuple y trouvent un refuge.",
+      "deu": "<span class=\"verse-number\">32Â </span>Was werden dann die Boten der Nationen antworten? Dass der Herr Zion gegrÃ¼ndet hat, und die Armen seines Volkes werden darauf vertrauen.",
+      "kor": "<span class=\"verse-number\">32 </span>ë¬´ìì´ ê·¸ë¬ë©´ ì´êµ­ì ì¬ì ë¤ìê² ëëµíê² ëë? ì£¼ê»ì ìì¨ì ì¸ì°ì¨ì¼ë, ê·¸ì ë°±ì±ì ê°ëí ìë¤ì´ ê·¸ê²ì ìë¢°íë¦¬ë¼ í¨ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">32 </span>Che risponderanno allora i messaggeri delle nazioni? Che il Signore ha fondato Sion, e i poveri del suo popolo confideranno in essa."
+    }
+  }
+}

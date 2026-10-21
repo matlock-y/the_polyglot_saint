@@ -1,0 +1,657 @@
+{
+  "meta": {
+    "volume": "nt",
+    "book": "luke",
+    "chapter": 6,
+    "headings": {
+      "eng": "Jesus heals on the SabbathâHe chooses the Twelve ApostlesâHe pronounces blessings upon the obedient and woes upon the wicked.",
+      "zhs": "è¶ç¨£å¨å®æ¯æ¥æ²»çââç¥æ£éåäºä½¿å¾ââç¥å®£åæä»çäººæç¦äºï¼éªæ¶çäººæç¥¸äºã",
+      "zht": "è¶ç©å¨å®æ¯æ¥æ²»çââç¥æé¸åäºä½¿å¾ââç¥å®£åæå¾çäººæç¦äºï¼éªæ¡çäººæç¦äºã",
+      "spa": "JesÃºs sana en el dÃ­a de reposoÂ â Escoge a los Doce ApÃ³stolesÂ â Pronuncia bendiciones sobre los obedientes y ayes sobre los inicuos.",
+      "por": "Jesus cura no SÃ¡badoÂ â Ele escolhe os Doze ApÃ³stolosÂ â Ele profere bÃªnÃ§Ã£os sobre os obedientes e desgraÃ§as, sobre os Ã­mpios.",
+      "fra": "JÃ©sus guÃ©rit un homme le jour de sabbat. Il choisit les douze apÃ´tres. Il Ã©nonce des bÃ©nÃ©dictions sur ceux qui obÃ©issent et des malÃ©dictions sur les mÃ©chants.",
+      "deu": "Jesus heilt am SabbatÂ â Er wÃ¤hlt die zwÃ¶lf Apostel ausÂ â Er sagt den Gehorsamen Segnungen voraus und den Schlechten Weh.",
+      "ita": "GesÃ¹ guarisce di sabato â Sceglie i Dodici Apostoli â Pronuncia benedizioni sugli obbedienti e dice âguai a voiâ ai malvagi."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing <span class=\"clarity-word\">them</span> in <span class=\"clarity-word\">their</span> hands.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ°ÙØ§ØªÙ Ø³ÙØ¨ÙØªÙ ÙÙØ±ÙÙ ÙÙØ³ÙÙØ¹Ù Ø¨ÙÙÙÙÙ Ø§ÙÙØ­ÙÙÙÙÙÙØ ÙÙØ£ÙØ®ÙØ°Ù ØªÙÙØ§ÙÙÙØ°ÙÙÙ ÙÙÙÙØ·ÙÙÙÙÙÙ Ø³ÙÙÙØ§Ø¨ÙÙÙ Ø§ÙÙÙÙÙÙØ­Ù ÙÙÙÙÙÙØ±ÙÙÙÙÙÙÙÙØ§ Ø¨ÙØ£ÙÙÙØ¯ÙÙÙÙÙÙ Ø«ÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">1</span> ãã<ruby><rb>å®æ¯æ¥</rb><rt>ããããã«ã¡</rt></ruby>ã«ã¤ã¨ã¹ã<ruby><rb>éº¦ç</rb><rt>ããã°ãã</rt></ruby>ã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ãã¨ãã£ã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ãããã¨ãã<ruby><rb>å¼å­</rb><rt>ã§ã</rt></ruby>ãã¡ã<ruby><rb>ç©</rb><rt>ã»</rt></ruby>ãã¤ã¿ã<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã§ãã¿ãªãã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã¦ããã",
+      "zhs": "<span class=\"verse-number\">1ã</span>æä¸ä¸ªå®æ¯æ¥ï¼è¶ç¨£ä»éº¦å°ç»è¿ãä»çé¨å¾æäºéº¦ç©ï¼ç¨ææçåã",
+      "zht": "<span class=\"verse-number\">1ã</span>æä¸åå®æ¯æ¥ï¼è¶ç©å¾éº¥å°ç¶éãä»çéå¾æäºéº¥ç©ï¼ç¨ææèåã",
+      "spa": "<span class=\"verse-number\">1</span> Y aconteciÃ³ que, pasando <span class=\"clarity-word\">JesÃºs</span> por los sembrados en un dÃ­a de reposo, el segundo despuÃ©s del primero, sus discÃ­pulos arrancaban espigas y, restregÃ¡ndolas con las manos, las comÃ­an.",
+      "por": "<span class=\"verse-number\">1</span> E aconteceu que, num sÃ¡bado, passou pelas searas, e os seus discÃ­pulos iam arrancando espigas e, esfregando-as com as mÃ£os, <span class=\"clarity-word\">as</span> comiam.",
+      "fra": "<span class=\"verse-number\">1</span> Il arriva, un jour de sabbat, que JÃ©sus traversait des champs de blÃ©. Ses disciples arrachaient des Ã©pis et les mangeaient, aprÃ¨s les avoir froissÃ©s dans leurs mains.",
+      "deu": "<span class=\"verse-number\">1 </span>Es begab sich aber an einem Sabbat, dass er durch die Kornfelder wanderte; dabei pflÃ¼ckten seine JÃ¼nger Ãhren ab, zerrieben sie in den HÃ¤nden und aÃen sie.",
+      "kor": "<span class=\"verse-number\">1</span> ììì¼ì ììê»ì ë°ë°­ ì¬ì´ë¡ ì§ëê°ì¤ì ì ìë¤ì´ ì´ì­ì ìë¼ ìì¼ë¡ ë¹ë¹ì´ ë¨¹ì¼ë",
+      "ita": "<span class=\"verse-number\">1</span> Ora avvenne che in un giorno di sabato egli passava per i seminati; e i suoi discepoli coglievano delle spighe e, sfregandole con le mani, mangiavano."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days?",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙØ§ÙÙ ÙÙÙÙÙÙ Ø¨ÙØ¹ÙØ¶Ù Ø§ÙÙÙÙØ±ÙÙÙØ³ÙÙÙÙÙÙÙ: âÙÙÙÙØ§Ø°ÙØ§ ØªÙÙÙØ¹ÙÙÙÙÙÙ ÙÙØ§ ÙÙØ§ ÙÙØ­ÙÙÙÙ ÙÙØ¹ÙÙÙÙÙ ÙÙÙ Ø§ÙØ³ÙÙØ¨ÙØªÙØâ",
+      "jpn": "<span class=\"verse-number\">2</span> ããã¨ãããããªãµã¤<ruby><rb>äºº</rb><rt>ã³ã¨</rt></ruby>ãã¡ã<ruby><rb>è¨</rb><rt>ã</rt></ruby>ã£ãããããªãããã¯ãªãã<ruby><rb>å®æ¯æ¥</rb><rt>ããããã«ã¡</rt></ruby>ã«ãã¦ã¯ãªãã¬ãã¨ãããã®ããã",
+      "zhs": "<span class=\"verse-number\">2ã</span>æå ä¸ªæ³å©èµäººè¯´ï¼ä½ ä»¬ä¸ºä»ä¹åå®æ¯æ¥ä¸å¯åçäºå¢ï¼",
+      "zht": "<span class=\"verse-number\">2ã</span>æå¹¾åæ³å©è³½äººèªªï¼ä½ åçºä»éº¼åå®æ¯æ¥ä¸å¯åçäºå¢ï¼",
+      "spa": "<span class=\"verse-number\">2</span> Y algunos de los fariseos les dijeron: Â¿Por quÃ© hacÃ©is lo que no es lÃ­cito hacer en los dÃ­as de reposo?",
+      "por": "<span class=\"verse-number\">2</span> E alguns dos fariseus lhes disseram: Por que fazeis o que nÃ£o Ã© lÃ­cito fazer nos sÃ¡bados?",
+      "fra": "<span class=\"verse-number\">2</span> Quelques pharisiens leur direntÂ : Pourquoi faites-vous ce quâil nâest pas permis de faire pendant le sabbatÂ ?",
+      "deu": "<span class=\"verse-number\">2 </span>Da sagten einige von den PharisÃ¤ern zu ihnen: âWarum tut ihr da etwas, was man am Sabbat nicht tun darf?â",
+      "kor": "<span class=\"verse-number\">2</span> ì´ë¤ ë°ë¦¬ìì¸ë¤ì´ ë§íë ì´ì°íì¬ ììì¼ì íì§ ëª»í  ì¼ì íëë",
+      "ita": "<span class=\"verse-number\">2</span> E alcuni dei Farisei dissero: âPerchÃ© fate quello che non Ã¨ lecito nel giorno del sabato?â."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØ±ÙØ¯ÙÙ Ø¹ÙÙÙÙÙÙÙÙÙ ÙÙØ³ÙÙØ¹Ù ÙÙØ§Ø¦ÙÙØ§Ù: âØ£ÙÙÙØ§ ÙÙØ±ÙØ£ÙØªÙÙÙ ÙÙØ§ ÙÙØ¹ÙÙÙÙÙ Ø¯ÙØ§ÙÙØ¯Ù Ø­ÙÙÙÙÙÙØ§ Ø¬ÙØ§Ø¹Ù ÙÙØ¹Ù ÙÙØ±ÙØ§ÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">3</span> ããã§ã¤ã¨ã¹ã<ruby><rb>ç­</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããããããªãããã¯ããããã¨ãã®<ruby><rb>ä¾</rb><rt>ã¨ã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãã¡ã¨ã<ruby><rb>é£¢</rb><rt>ã</rt></ruby>ãã¦ããã¨ãããããã®ãããã¨ã«ã¤ãã¦ã<ruby><rb>èª­</rb><rt>ã</rt></ruby>ãã ãã¨ããªãã®ãã",
+      "zhs": "<span class=\"verse-number\">3ã</span>è¶ç¨£å¯¹ä»ä»¬è¯´ï¼<span class=\"clarity-word\">ç»ä¸è®°ç</span><u>å¤§å«</u>åè·ä»ä»çäººé¥¥é¥¿ä¹æ¶æåçäºï¼è¿è¿ä¸ªä½ ä»¬ä¹æ²¡æå¿µè¿åï¼",
+      "zht": "<span class=\"verse-number\">3ã</span>è¶ç©å°ä»åèªªï¼<span class=\"clarity-word\">ç¶ä¸è¨è</span><u>å¤§è¡</u>åè·å¾ä»çäººé£¢é¤ä¹ææåçäºï¼é£éåä½ åä¹æ²æå¿µéåï¼",
+      "spa": "<span class=\"verse-number\">3</span> Y respondiendo JesÃºs, les dijo: Â¿Ni aun esto habÃ©is leÃ­do, lo que hizo David cuando Ã©l y los que con Ã©l estaban tuvieron hambre;",
+      "por": "<span class=\"verse-number\">3</span> E Jesus, respondendo-lhes, disse: Nunca lestes o que fez Davi quando teve fome, ele e os que com ele estavam?",
+      "fra": "<span class=\"verse-number\">3</span> JÃ©sus leur rÃ©ponditÂ : Nâavez-vous pas lu ce que fit David, lorsquâil eut faim, lui et ceux qui Ã©taient avec luiÂ ;",
+      "deu": "<span class=\"verse-number\">3 </span>Jesus antwortete ihnen: âHabt ihr denn nichts davon gelesen, was David getan hat, als ihn samt seinen Begleitern hungerte?",
+      "kor": "<span class=\"verse-number\">3</span> ììê»ì ëëµíì¬ ì´ë¥´ìë ë¤ìì´ ìê¸° ë° ìê¸°ì í¨ê» í ìë¤ì´ ìì¥í  ëì í ì¼ì ì½ì§ ëª»íìëë",
+      "ita": "<span class=\"verse-number\">3</span> E GesÃ¹, rispondendo, disse loro: âNon avete letto neppure quello che fece Davide, quando ebbe fame, lui e coloro che erano con lui?"
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙÙÙÙ Ø¯ÙØ®ÙÙÙ Ø¨ÙÙÙØªÙ Ø§ÙÙÙÙ°ÙÙ ÙÙØ£ÙØ®ÙØ°Ù Ø®ÙØ¨ÙØ²Ù Ø§ÙØªÙÙÙÙØ¯ÙÙÙØ©Ù ÙÙØ£ÙÙÙÙÙ ÙÙÙÙÙÙØ ÙÙØ£ÙØ¹ÙØ·ÙÙ ÙÙØ±ÙØ§ÙÙÙÙÙÙÙØ ÙÙØ¹Ù Ø£ÙÙÙÙ Ø§ÙØ£ÙÙÙÙÙ ÙÙÙÙ ÙÙØ°ÙØ§ Ø§ÙÙØ®ÙØ¨ÙØ²Ù ÙÙØ§ ÙÙØ­ÙÙÙÙ Ø¥ÙÙÙØ§ ÙÙÙÙÙÙÙÙÙÙØ©Ù ÙÙØ­ÙØ¯ÙÙÙÙÙØâ",
+      "jpn": "<span class=\"verse-number\">4</span> ããªãã¡ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ã¯ãã£ã¦ã<ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ãã¡ã®ã»ãã ãã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã¦ã¯ãªãã¬<ruby><rb>ä¾</rb><rt>ããª</rt></ruby>ãã®ãã³ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã£ã¦<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ãã¾ã<ruby><rb>ä¾</rb><rt>ã¨ã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãã¡ã«ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããã§ã¯ãªãããã",
+      "zhs": "<span class=\"verse-number\">4ã</span>ä»æä¹è¿äºç¥çæ®¿ï¼æ¿éè®¾é¥¼åï¼åç»è·ä»çäººåï¼è¿é¥¼é¤äºç¥­å¸ä»¥å¤ï¼å«äººé½ä¸å¯åã",
+      "zht": "<span class=\"verse-number\">4ã</span>ä»æéº¼é²äºç¥çæ®¿ï¼æ¿é³è¨­é¤åï¼åçµ¦è·å¾çäººåï¼éé¤é¤äºç¥­å¸ä»¥å¤ï¼å¥äººé½ä¸å¯åã",
+      "spa": "<span class=\"verse-number\">4</span> cÃ³mo entrÃ³ en la casa de Dios y tomÃ³ los panes de la proposiciÃ³n, los cuales no es lÃ­cito comer, sino solo a los sacerdotes, y comiÃ³, y dio tambiÃ©n a los que estaban con Ã©l?",
+      "por": "<span class=\"verse-number\">4</span> Como entrou na casa de Deus, e tomou os pÃ£es da proposiÃ§Ã£o, e os comeu, e deu tambÃ©m aos que estavam com ele, os quais nÃ£o Ã© lÃ­cito comer senÃ£o sÃ³ aos sacerdotes?",
+      "fra": "<span class=\"verse-number\">4</span> comment il entra dans la maison de Dieu, prit les pains de proposition, en mangea et en donna Ã  ceux qui Ã©taient avec lui, bien quâil ne soit permis quâaux prÃªtres de les mangerÂ ?",
+      "deu": "<span class=\"verse-number\">4 </span>Wie er da ins Haus Gottes hineinging, dort die Schaubrote nahm und sie aÃ und auch seinen Begleitern davon gab, obgleich doch niemand auÃer den Priestern sie essen darf?â",
+      "kor": "<span class=\"verse-number\">4</span> ê·¸ê° íëëì ì ì ë¤ì´ê°ì ë¤ë§ ì ì¬ì¥ ì¸ìë ë¨¹ì´ìë ì ëë ì§ì¤ë³ì ë¨¹ê³  í¨ê» í ìë¤ìê²ë ì£¼ì§ ìëíìëë",
+      "ita": "<span class=\"verse-number\">4</span> Come entrÃ² nella casa di Dio, e prese i pani di presentazione, e ne mangiÃ² e ne diede anche a coloro che erano con lui, nonostante non sia lecito mangiarne se non ai soli sacerdoti?â."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>And he said unto them, That the Son of man is Lord also of the sabbath.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>Ø«ÙÙÙÙ ÙÙØ§ÙÙ ÙÙÙÙÙÙ: âØ¥ÙÙÙÙ Ø§Ø¨ÙÙÙ Ø§ÙØ¥ÙÙÙØ³ÙØ§ÙÙ ÙÙÙÙ Ø±ÙØ¨ÙÙ Ø§ÙØ³ÙÙØ¨ÙØªÙ!â",
+      "jpn": "<span class=\"verse-number\">5</span> ã¾ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ããããã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯<ruby><rb>å®æ¯æ¥</rb><rt>ããããã«ã¡</rt></ruby>ã®<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã§ãããã",
+      "zhs": "<span class=\"verse-number\">5ã</span>åå¯¹ä»ä»¬è¯´ï¼äººå­æ¯å®æ¯æ¥çä¸»ã",
+      "zht": "<span class=\"verse-number\">5ã</span>åå°ä»åèªªï¼äººå­æ¯å®æ¯æ¥çä¸»ã",
+      "spa": "<span class=\"verse-number\">5</span> Y les decÃ­a: El Hijo del Hombre es SeÃ±or aun del dÃ­a de reposo.",
+      "por": "<span class=\"verse-number\">5</span> E dizia-lhes: O Filho do Homem Ã© Senhor atÃ© do sÃ¡bado.",
+      "fra": "<span class=\"verse-number\">5</span> Et il leur ditÂ : Le Fils de lâhomme est rÃ©ellement Seigneur du sabbat.",
+      "deu": "<span class=\"verse-number\">5 </span>Er schloss mit den Worten: âDer Menschensohn ist Herr <span class=\"clarity-word\">auch</span> Ã¼ber den Sabbat.â",
+      "kor": "<span class=\"verse-number\">5</span> ë ì´ë¥´ìë ì¸ìë ììì¼ì ì£¼ì¸ì´ëë¼ íìëë¼",
+      "ita": "<span class=\"verse-number\">5</span> E disse loro: âIl Figlio dellâuomo Ã¨ Signore del sabatoâ."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙÙÙÙ Ø³ÙØ¨ÙØªÙ Ø¢Ø®ÙØ±ÙØ Ø¯ÙØ®ÙÙÙ Ø§ÙÙÙÙØ¬ÙÙÙØ¹Ù ÙÙØ£ÙØ®ÙØ°Ù ÙÙØ¹ÙÙÙÙÙÙ. ÙÙÙÙØ§ÙÙ ÙÙÙÙØ§ÙÙÙÙ Ø±ÙØ¬ÙÙÙ ÙÙØ¯ÙÙÙ Ø§ÙÙÙÙÙÙÙÙÙ ÙÙØ§Ø¨ÙØ³ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">6</span> ã¾ããã»ãã®<ruby><rb>å®æ¯æ¥</rb><rt>ããããã«ã¡</rt></ruby>ã«<ruby><rb>ä¼å </rb><rt>ããã©ã</rt></ruby>ã«ã¯ãã£ã¦<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¦ããããã¨ãããããã«<ruby><rb>å³æ</rb><rt>ã¿ãã¦</rt></ruby>ã®ãªãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">6ã</span>åæä¸ä¸ªå®æ¯æ¥ï¼è¶ç¨£è¿äºä¼å æå¯¼äººï¼å¨é£éæä¸ä¸ªäººå³ææ¯å¹²äºã",
+      "zht": "<span class=\"verse-number\">6ã</span>åæä¸åå®æ¯æ¥ï¼è¶ç©é²äºæå æå°äººï¼å¨é£è£¡æä¸åäººå³ææ¯ä¹¾äºã",
+      "spa": "<span class=\"verse-number\">6</span> Y aconteciÃ³ tambiÃ©n en otro dÃ­a de reposo que Ã©l entrÃ³ en la sinagoga y enseÃ±aba; y habÃ­a allÃ­ un hombre que tenÃ­a seca la mano derecha.",
+      "por": "<span class=\"verse-number\">6</span> E aconteceu tambÃ©m noutro sÃ¡bado que entrou na sinagoga, e estava ensinando; e estava ali um homem que tinha a mÃ£o direita ressequida.",
+      "fra": "<span class=\"verse-number\">6</span> Il arriva, un autre jour de sabbat, que JÃ©sus entra dans la synagogue et il enseigna. LÃ  se trouvait un homme dont la main droite Ã©tait paralysÃ©e.",
+      "deu": "<span class=\"verse-number\">6 </span>An einem anderen Sabbat aber ging er in die Synagoge und lehrte. Dort war ein Mann, dessen rechter Arm verdorrt war.",
+      "kor": "<span class=\"verse-number\">6</span> ë ë¤ë¥¸ ììì¼ì ììê»ì íë¹ì ë¤ì´ê°ì¬ ê°ë¥´ì¹ì¤ì ê±°ê¸° ì¤ë¥¸ì ë§ë¥¸ ì¬ëì´ ìëì§ë¼",
+      "ita": "<span class=\"verse-number\">6</span> Ora avvenne in un altro sabato che egli entrÃ² nella sinagoga, e si mise ad insegnare. E lÃ¬ câera un uomo che aveva la mano destra secca."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙØ£ÙØ®ÙØ°Ù Ø§ÙÙÙÙØªÙØ¨ÙØ©Ù ÙÙØ§ÙÙÙÙØ±ÙÙÙØ³ÙÙÙÙÙÙÙ ÙÙØ±ÙØ§ÙÙØ¨ÙÙÙÙ ÙÙØ³ÙÙØ¹Ù: ÙÙÙÙ ÙÙØ´ÙÙÙÙ ÙÙÙ Ø§ÙØ³ÙÙØ¨ÙØªÙØ ÙÙÙÙÙÙ ÙÙØ¬ÙØ¯ÙÙØ§ ÙÙØ§ ÙÙØªÙÙÙÙÙÙÙÙÙÙÙ Ø¨ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>å¾æ³</rb><rt>ãã£ã½ã</rt></ruby><ruby><rb>å­¦è</rb><rt>ãããã</rt></ruby>ãããªãµã¤<ruby><rb>äºº</rb><rt>ã³ã¨</rt></ruby>ãã¡ã¯ãã¤ã¨ã¹ã<ruby><rb>è¨´</rb><rt>ãã£ã</rt></ruby>ãã<ruby><rb>å£å®</rb><rt>ãããã¤</rt></ruby>ã<ruby><rb>è¦ä»</rb><rt>ã¿ã¤</rt></ruby>ãããã¨<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã£ã¦ã<ruby><rb>å®æ¯æ¥</rb><rt>ããããã«ã¡</rt></ruby>ã«ããããããã©ããããããã£ã¦ããã",
+      "zhs": "<span class=\"verse-number\">7ã</span>æå£«åæ³å©èµäººçª¥æ¢è¶ç¨£å¨å®æ¯æ¥æ²»çä¸æ²»çï¼è¦å¾ææå»åä»ã",
+      "zht": "<span class=\"verse-number\">7ã</span>æå£«åæ³å©è³½äººçªºæ¢è¶ç©å¨å®æ¯æ¥æ²»çä¸æ²»çï¼è¦å¾ææå»åä»ã",
+      "spa": "<span class=\"verse-number\">7</span> Y le acechaban los escribas y los fariseos para ver si sanarÃ­a en el dÃ­a de reposo, a fin de hallar de quÃ© acusarle.",
+      "por": "<span class=\"verse-number\">7</span> E os escribas e fariseus observavam-no, se <span class=\"clarity-word\">o</span> curaria no sÃ¡bado, para acharem de que o acusar.",
+      "fra": "<span class=\"verse-number\">7</span> Les scribes et les pharisiens observaient JÃ©sus pour voir sâil ferait une guÃ©rison le jour du sabbatÂ : câÃ©tait afin dâavoir un motif pour lâaccuser.",
+      "deu": "<span class=\"verse-number\">7 </span>Da lauerten die Schriftgelehrten und PharisÃ¤er ihm auf, ob er wohl am Sabbat heilen wÃ¼rde, um dann einen Grund zu einer Anklage gegen ihn zu haben:",
+      "kor": "<span class=\"verse-number\">7</span> ìê¸°ê´ê³¼ ë°ë¦¬ìì¸ë¤ì´ ììë¥¼ ê³ ë°í  ì¦ê±°ë¥¼ ì°¾ì¼ë ¤ íì¬ ììì¼ì ë³ì ê³ ì¹ìëê° ì¿ë³´ë",
+      "ita": "<span class=\"verse-number\">7</span> Ora, gli scribi e i Farisei lo osservavano per vedere se avrebbe fatto una guarigione in giorno di sabato, per trovare di che accusarlo."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø¥ÙÙÙØ§ Ø£ÙÙÙÙÙÙ Ø¹ÙÙÙÙÙ ÙÙÙÙÙØ§ØªÙÙÙÙÙØ ÙÙÙÙØ§ÙÙ ÙÙÙØ±ÙÙØ¬ÙÙÙ Ø§ÙÙÙØ°ÙÙ ÙÙØ¯ÙÙÙ ÙÙØ§Ø¨ÙØ³ÙØ©Ù: âÙÙÙÙØ ÙÙÙÙÙÙ ÙÙÙ Ø§ÙÙÙÙØ³ÙØ·Ù!â ÙÙÙÙØ§ÙÙØ ÙÙÙÙÙÙÙÙ ÙÙÙÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">8</span> ã¤ã¨ã¹ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã£ã¦ãããã¨ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã£ã¦ããã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã®ãªãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã«ãã<ruby><rb>èµ·</rb><rt>ã</rt></ruby>ãã¦ãã¾ã<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã«<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¡ãªãããã¨<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã¨ã<ruby><rb>èµ·</rb><rt>ã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ãã£ã¦<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">8ã</span>è¶ç¨£å´ç¥éä»ä»¬çæå¿µï¼å°±å¯¹é£æ¯å¹²ä¸åªæçäººè¯´ï¼èµ·æ¥ï¼ç«å¨å½ä¸­ãé£äººå°±èµ·æ¥ï¼ç«çã",
+      "zht": "<span class=\"verse-number\">8ã</span>è¶ç©å»ç¥éä»åçæå¿µï¼å°±å°é£æ¯ä¹¾ä¸é»æçäººèªªï¼èµ·ä¾ï¼ç«å¨ç¶ä¸­ãé£äººå°±èµ·ä¾ï¼ç«èã",
+      "spa": "<span class=\"verse-number\">8</span> Pero Ã©l, que conocÃ­a los pensamientos de ellos, dijo al hombre que tenÃ­a la mano seca: LevÃ¡ntate y ponte en medio. Y Ã©l, levantÃ¡ndose, se puso de pie.",
+      "por": "<span class=\"verse-number\">8</span> Mas ele bem conhecia os seus pensamentos; e disse ao homem que tinha a mÃ£o ressequida: Levanta-te, e pÃµe-te em pÃ© no meio. E levantando-se ele, pÃ´s-se em pÃ©.",
+      "fra": "<span class=\"verse-number\">8</span> Mais il connaissait leurs pensÃ©es et il dit Ã  lâhomme qui avait la main paralysÃ©eÂ : LÃ¨ve-toi, et tiens-toi lÃ  au milieu. Il se leva et se tint debout.",
+      "deu": "<span class=\"verse-number\">8 </span>Er aber kannte ihre Gedanken wohl. Er sagte nun zu dem Mann mit dem verdorrten Arm: âStehe auf und tritt vor in die Mitte!â Jener stand auf und trat hin.",
+      "kor": "<span class=\"verse-number\">8</span> ììê»ì ê·¸ë¤ì ìê°ì ììê³  ì ë§ë¥¸ ì¬ëìê² ì´ë¥´ìë ì¼ì´ë íê°ì´ë° ìë¼ íìë ê·¸ê° ì¼ì´ë ìê±°ë",
+      "ita": "<span class=\"verse-number\">8</span> Ma egli conosceva i loro pensieri, e disse allâuomo che aveva la mano secca: âAlzati, e staâ su nel mezzoâ. Ed egli, alzatosi, stette su."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>Then said Jesus unto them, I will ask you one thing; Is it lawful on the <span class=\"page-break\" data-page=\"1284\"></span>sabbath days to do good, or to do evil? to save life, or to destroy <span class=\"clarity-word\">it?</span>",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙÙÙØ§ÙÙ ÙÙÙÙÙÙ ÙÙØ³ÙÙØ¹Ù: âØ£ÙØ³ÙØ£ÙÙÙÙÙÙÙ Ø³ÙØ¤ÙØ§ÙØ§Ù: Ø£ÙÙÙØ­ÙÙÙÙ ÙÙÙ Ø§ÙØ³ÙÙØ¨ÙØªÙ ÙÙØ¹ÙÙÙ Ø§ÙÙØ®ÙÙÙØ±Ù Ø£ÙÙÙ ÙÙØ¹ÙÙÙ Ø§ÙØ´ÙÙØ±ÙÙØ ØªÙØ®ÙÙÙÙØµÙ Ø§ÙÙÙÙÙÙØ³Ù Ø£ÙÙÙ Ø¥ÙÙÙÙØ§ÙÙÙÙØ§Øâ",
+      "jpn": "<span class=\"verse-number\">9</span> ããã§ã¤ã¨ã¹ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«ããã£ã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããããããªãããã«<ruby><rb>è</rb><rt>ã</rt></ruby>ããã<ruby><rb>å®æ¯æ¥</rb><rt>ããããã«ã¡</rt></ruby>ã«<ruby><rb>å</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãã®ã¨<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãã®ã¨ã<ruby><rb>å½</rb><rt>ãã®ã¡</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã®ã¨<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãã®ã¨ãã©ã¡ããããããã",
+      "zhs": "<span class=\"verse-number\">9ã</span>è¶ç¨£å¯¹ä»ä»¬è¯´ï¼æé®ä½ ä»¬ï¼å¨å®æ¯æ¥è¡åè¡æ¶ï¼æå½å®³å½ï¼åªæ ·æ¯å¯ä»¥çå¢ï¼",
+      "zht": "<span class=\"verse-number\">9ã</span>è¶ç©å°ä»åèªªï¼æåä½ åï¼å¨å®æ¯æ¥è¡åè¡æ¡ï¼æå½å®³å½ï¼åªæ¨£æ¯å¯ä»¥çå¢ï¼",
+      "spa": "<span class=\"verse-number\">9</span> Entonces JesÃºs les dijo: Os preguntarÃ© <span class=\"clarity-word\">una cosa:</span> Â¿Es lÃ­cito en los dÃ­as de reposo hacer bien o hacer mal? Â¿Salvar la vida o quitarla?",
+      "por": "<span class=\"verse-number\">9</span> EntÃ£o Jesus lhes disse: Uma <span class=\"clarity-word\">coisa</span> vos hei de perguntar: Ã lÃ­cito nos sÃ¡bados fazer o bem, ou fazer o mal? salvar a vida, ou matar?",
+      "fra": "<span class=\"verse-number\">9</span> Et JÃ©sus leur ditÂ : Je vous demande sâil est permis, le jour du sabbat, de faire du bien ou de faire du mal, de sauver une personne ou de la tuer.",
+      "deu": "<span class=\"verse-number\">9 </span>Dann sagte Jesus zu ihnen: âIch frage euch: Darf man am Sabbat Gutes tun, oder soll man BÃ¶ses tun? Darf man ein Leben erhalten, oder soll man es zugrunde gehen lassen?â",
+      "kor": "<span class=\"verse-number\">9</span> ììê»ì ê·¸ë¤ìê² ì´ë¥´ìë ë´ê° ëí¬ìê² ë¬»ë¸ë ììì¼ì ì ì ííë ê²ê³¼ ìì ííë ê², ìëªì êµ¬íë ê²ê³¼ ì£½ì´ë ê², ì´ë ê²ì´ ì³ì¼ë íìë©°",
+      "ita": "<span class=\"verse-number\">9</span> Poi GesÃ¹ disse loro: âIo domando a voi: Ã¨ lecito, in giorno di sabato, fare del bene o fare del male? Salvare una persona o ucciderla?â."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØ¨ÙØ¹ÙØ¯ÙÙÙØ§ Ø£ÙØ¯ÙØ§Ø±Ù ÙÙØ¸ÙØ±ÙÙÙ ÙÙÙÙÙÙÙ Ø¬ÙÙÙÙØ¹Ø§ÙØ ÙÙØ§ÙÙ ÙÙÙÙ: âÙÙØ¯ÙÙ ÙÙØ¯ÙÙÙ!â ÙÙÙÙØ¯ÙÙ ÙÙØ¯ÙÙÙØ ÙÙØ¹ÙØ§Ø¯ÙØªÙ ØµÙØ­ÙÙØ­ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">10</span> ããã¦<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä¸å</rb><rt>ãã¡ã©ã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ã¾ããã¦ããã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã«ã<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã<ruby><rb>ä¼¸</rb><rt>ã®</rt></ruby>ã°ããªãããã¨<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããããã®ã¨ããã«ããã¨ããã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã¯<ruby><rb>å</rb><rt>ãã¨</rt></ruby>ã©ããã«ãªã£ãã",
+      "zhs": "<span class=\"verse-number\">10ã</span>ä»å°±å¨å´ççä»ä»¬ä¼äººï¼å¯¹é£äººè¯´ï¼ä¼¸åºææ¥ï¼ä»ææä¸ä¼¸ï¼æå°±å¤äºåã",
+      "zht": "<span class=\"verse-number\">10ã</span>ä»å°±å¨åçèä»åç¾äººï¼å°é£äººèªªï¼ä¼¸åºæä¾ï¼ä»ææä¸ä¼¸ï¼æå°±å¾©äºåã",
+      "spa": "<span class=\"verse-number\">10</span> Y, mirÃ¡ndolos a todos alrededor, dijo al hombre: Extiende tu mano. Y Ã©l lo hizo asÃ­, y su mano fue restaurada.",
+      "por": "<span class=\"verse-number\">10</span> E olhando para todos em redor, disse ao homem: Estende a tua mÃ£o. E ele assim o fez, e a <span class=\"page-break\" data-page=\"1560\"></span>mÃ£o lhe foi restituÃ­da sÃ£ como a outra.",
+      "fra": "<span class=\"verse-number\">10</span> Alors, promenant ses regards sur eux tous, il dit Ã  lâhommeÂ : Ãtends ta main. Il le fit, et sa main fut guÃ©rie.",
+      "deu": "<span class=\"verse-number\">10 </span>Nachdem er sie dann alle ringsum angeblickt hatte, sagte er zu ihm: âStrecke deinen Arm aus!â Jener tat es, und sein Arm wurde wiederhergestellt.",
+      "kor": "<span class=\"verse-number\">10</span> ë¬´ë¦¬ë¥¼ ëë¬ë³´ìê³  ê·¸ ì¬ëìê² ì´ë¥´ìë ë¤ ìì ë´ë°ë¼ íìë ê·¸ê° ê·¸ë¦¬íë§¤ ê·¸ ìì´ íë³µëì§ë¼",
+      "ita": "<span class=\"verse-number\">10</span> E girato lo sguardo intorno su tutti loro, disse a quellâuomo: âStendi la manoâ. Egli fece cosÃ¬, e la sua mano tornÃ² sana."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>And they were filled with madness; and communed one with another what they might do to Jesus.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙÙÙÙÙ Ø§ÙÙØ­ÙÙÙØ§ÙÙØ©Ù Ø§Ø³ÙØªÙÙÙÙÙØªÙ Ø¹ÙÙÙÙÙÙÙÙÙ Ø­ÙØªÙÙÙ Ø£ÙØ®ÙØ°ÙÙØ§ ÙÙØªÙØ´ÙØ§ÙÙØ±ÙÙÙÙ ÙÙÙ ÙÙØ§ Ø¨ÙÙÙÙÙÙÙÙÙ ÙÙØ§Ø°ÙØ§ ÙÙÙÙØ¹ÙÙÙÙÙÙ Ø¨ÙÙÙØ³ÙÙØ¹Ù.",
+      "jpn": "<span class=\"verse-number\">11</span> ããã§<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>æ¿</rb><rt>ã¯ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã£ã¦ãã¤ã¨ã¹ãã©ãããã¦ãããã¨ã<ruby><rb>äº</rb><rt>ããã</rt></ruby>ã«<ruby><rb>è©±å</rb><rt>ã¯ãªãã</rt></ruby>ããã¯ãããã",
+      "zhs": "<span class=\"verse-number\">11ã</span>ä»ä»¬å°±æ»¡å¿å¤§æï¼å½¼æ­¤åè®®ææ ·å¤æ²»è¶ç¨£ã",
+      "zht": "<span class=\"verse-number\">11ã</span>ä»åå°±æ»¿å¿å¤§æï¼å½¼æ­¤åè­°ææ¨£èæ²»è¶ç©ã",
+      "spa": "<span class=\"verse-number\">11</span> Y ellos se llenaron de ira y hablaban entre sÃ­ quÃ© podrÃ­an hacer contra JesÃºs.",
+      "por": "<span class=\"verse-number\">11</span> E ficaram cheios de furor, e discutiam uns com os outros sobre o que fariam a Jesus.",
+      "fra": "<span class=\"verse-number\">11</span> Ils furent remplis de fureur et ils se consultÃ¨rent pour savoir ce quâils feraient Ã  JÃ©sus.",
+      "deu": "<span class=\"verse-number\">11 </span>Jene aber waren ganz von Sinnen vor Wut und besprachen sich miteinander, was sie Jesus antun kÃ¶nnten.",
+      "kor": "<span class=\"verse-number\">11</span> ê·¸ë¤ì ë¸ê¸°ê° ê°ëíì¬ ììë¥¼ ì´ë»ê² í ê¹ íê³  ìë¡ ìë¼íëë¼",
+      "ita": "<span class=\"verse-number\">11</span> Ed essi furono ripieni di furore e discorrevano fra loro di quello che avrebbero potuto fare a GesÃ¹."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙÙÙ ØªÙÙÙÙÙ Ø§ÙØ£ÙÙÙÙØ§ÙÙØ Ø®ÙØ±ÙØ¬Ù Ø¥ÙÙÙÙ Ø§ÙÙØ¬ÙØ¨ÙÙÙ ÙÙÙÙØµÙÙÙÙÙÙØ ÙÙÙÙØ¶ÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙÙ ÙÙÙ Ø§ÙØµÙÙÙØ§Ø©Ù ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">12</span> ãã®ãããã¤ã¨ã¹ã¯<ruby><rb>ç¥</rb><rt>ãã®</rt></ruby>ãããã«<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ã¸<ruby><rb>è¡</rb><rt>ã</rt></ruby>ãã<ruby><rb>å¤</rb><rt>ã</rt></ruby>ã<ruby><rb>å¾¹</rb><rt>ã¦ã£</rt></ruby>ãã¦<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>ç¥</rb><rt>ãã®</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">12ã</span>é£æ¶ï¼è¶ç¨£åºå»ï¼ä¸å±±ç¥·åï¼æ´å¤ç¥·åç¥ã",
+      "zht": "<span class=\"verse-number\">12ã</span>é£æï¼è¶ç©åºå»ï¼ä¸å±±ç¦±åï¼æ´å¤ç¦±åç¥ã",
+      "spa": "<span class=\"verse-number\">12</span> Y aconteciÃ³ en aquellos dÃ­as que Ã©l fue al monte a orar, y pasÃ³ la noche orando a Dios.",
+      "por": "<span class=\"verse-number\">12</span> E aconteceu que naqueles dias subiu ao monte para orar, e passou a noite orando a Deus.",
+      "fra": "<span class=\"verse-number\">12</span> En ce temps-lÃ , JÃ©sus se rendit sur la montagne pour prier, et il passa toute la nuit Ã  prier Dieu.",
+      "deu": "<span class=\"verse-number\">12 </span>Es begab sich aber in diesen Tagen, dass er hinausging auf den Berg, um zu beten, und er verbrachte dort die <span class=\"clarity-word\">ganze</span> Nacht im Gebet zu Gott.",
+      "kor": "<span class=\"verse-number\">12</span> ì´ ëì ììê»ì ê¸°ëíìë¬ ì°ì¼ë¡ ê°ì¬ ë°¤ì´ ìëë¡ íëëê» ê¸°ëíìê³",
+      "ita": "<span class=\"verse-number\">12</span> Ora avvenne in quei giorni che egli se ne andÃ² sul monte a pregare, e passÃ² la notte in preghiera a Dio."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span><span class=\"para-mark\">Â¶ </span>And when it was day, he called <span class=\"clarity-word\">unto him</span> his disciples: and of them he chose twelve, whom also he named apostles;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙÙÙÙÙÙØ§ Ø·ÙÙÙØ¹Ù Ø§ÙÙÙÙÙÙØ§Ø±ÙØ Ø§Ø³ÙØªÙØ¯ÙØ¹ÙÙ ØªÙÙØ§ÙÙÙØ°ÙÙÙØ ÙÙØ§Ø®ÙØªÙØ§Ø±Ù ÙÙÙÙÙÙÙÙ Ø§Ø«ÙÙÙÙÙ Ø¹ÙØ´ÙØ±Ù Ø³ÙÙÙÙØ§ÙÙÙÙ Ø£ÙÙÙØ¶Ø§Ù Ø±ÙØ³ÙÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">13</span> <ruby><rb>å¤</rb><rt>ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ããã¨ã<ruby><rb>å¼å­</rb><rt>ã§ã</rt></ruby>ãã¡ã<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã³<ruby><rb>å¯</rb><rt>ã</rt></ruby>ãããã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ããåäº<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã<ruby><rb>é¸</rb><rt>ãã</rt></ruby>ã³<ruby><rb>åº</rb><rt>ã </rt></ruby>ããããã«<ruby><rb>ä½¿å¾</rb><rt>ãã¨</rt></ruby>ã¨ãã<ruby><rb>å</rb><rt>ãª</rt></ruby>ãã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãã«ãªã£ãã",
+      "zhs": "<span class=\"verse-number\">13ã</span>å°äºå¤©äº®ï¼å«ä»çé¨å¾æ¥ï¼å°±ä»ä»ä»¬ä¸­é´æéåäºä¸ªäººï¼ç§°ä»ä»¬ä¸ºä½¿å¾ã",
+      "zht": "<span class=\"verse-number\">13ã</span>å°äºå¤©äº®ï¼å«ä»çéå¾ä¾ï¼å°±å¾ä»åä¸­éæé¸åäºåäººï¼ç¨±ä»åçºä½¿å¾ã",
+      "spa": "<span class=\"verse-number\">13</span> Y cuando fue de dÃ­a, llamÃ³ a sus discÃ­pulos y escogiÃ³ a doce de ellos, a los cuales tambiÃ©n llamÃ³ apÃ³stoles:",
+      "por": "<span class=\"verse-number\">13</span> E quando <span class=\"clarity-word\">jÃ¡</span> era dia, chamou a si os seus discÃ­pulos, e escolheu doze deles, a quem tambÃ©m nomeou apÃ³stolos, <span class=\"clarity-word\">a saber:</span>",
+      "fra": "<span class=\"verse-number\">13</span> Quand le jour parut, il appela ses disciples et il en choisit douze auxquels il donna le nom dâapÃ´tresÂ :",
+      "deu": "<span class=\"verse-number\">13 </span>Als es dann Tag geworden war, rief er seine JÃ¼nger zu sich und wÃ¤hlte zwÃ¶lf aus ihnen aus, die er auch Apostel nannte:",
+      "kor": "<span class=\"verse-number\">13</span> ë°ì¼ë§¤ ê·¸ ì ìë¤ì ë¶ë¥´ì¬ ê·¸ ì¤ìì ì´ëì ííì¬ ì¬ëë¼ ì¹­íì¨ì¼ë",
+      "ita": "<span class=\"verse-number\">13</span> E quando fu giorno, chiamÃ² a sÃ© i suoi discepoli, e ne scelse dodici, ai quali dette anche il nome di apostoli:"
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>Simon, (whom he also named Peter,) and Andrew his brother, James and John, Philip and Bartholomew,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙÙÙÙÙ: Ø³ÙÙÙØ¹ÙØ§ÙÙØ ÙÙÙÙØ¯Ù Ø³ÙÙÙÙØ§ÙÙ Ø£ÙÙÙØ¶Ø§Ù Ø¨ÙØ·ÙØ±ÙØ³ÙØ ÙÙØ£ÙÙÙØ¯ÙØ±ÙØ§ÙÙØ³Ù Ø£ÙØ®ÙÙÙÙØ ÙÙØ¹ÙÙÙÙØ¨ÙØ ÙÙÙÙÙØ­ÙÙÙÙØ§Ø ÙÙÙÙÙØ¨ÙÙØ³ÙØ ÙÙØ¨ÙØ±ÙØ«ÙÙÙÙÙØ§ÙÙØ³ÙØ",
+      "jpn": "<span class=\"verse-number\">14</span> ããªãã¡ãããã­ã¨ã<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã°ããã·ã¢ã³ã¨ãã®<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã¢ã³ãã¬ãã¤ã³ãã¨ã¨ãããããªãã¨ãã«ãã­ãã¤ã",
+      "zhs": "<span class=\"verse-number\">14ã</span><span class=\"clarity-word\">è¿åäºä¸ªäºº</span>æ<u>è¥¿é¨</u>ï¼è¶ç¨£åç»ä»èµ·åå«å½¼å¾ï¼è¿æä»åå¼<u>å®å¾ç</u>ï¼åæ<u>éå</u>å<u>çº¦ç¿°</u>ï¼<u>èå</u>å<u>å·´å¤ç½ä¹°</u>ï¼",
+      "zht": "<span class=\"verse-number\">14ã</span><span class=\"clarity-word\">éåäºåäºº</span>æ<u>è¥¿é</u>ï¼è¶ç©åçµ¦ä»èµ·åå«å½¼å¾ï¼éæä»åå¼<u>å®å¾ç</u>ï¼åæ<u>éå</u>å<u>ç´ç¿°</u>ï¼<u>èå</u>å<u>å·´å¤ç¾è²·</u>ï¼",
+      "spa": "<span class=\"verse-number\">14</span> a SimÃ³n, a quien tambiÃ©n llamÃ³ Pedro, y a su hermano AndrÃ©s, a Jacobo y a Juan, a Felipe y a BartolomÃ©,",
+      "por": "<span class=\"verse-number\">14</span> SimÃ£o, ao qual tambÃ©m chamou Pedro, e AndrÃ©, seu irmÃ£o; Tiago e JoÃ£o; Filipe e Bartolomeu;",
+      "fra": "<span class=\"verse-number\">14</span> Simon, quâil nomma PierreÂ ; AndrÃ©, son frÃ¨reÂ ; JacquesÂ ; JeanÂ ; PhilippeÂ ; BarthÃ©lemyÂ ;",
+      "deu": "<span class=\"verse-number\">14 </span>Simon, den er auch Petrus nannte, und dessen Bruder Andreas; ferner Jakobus und Johannes, Philippus und BartholomÃ¤us,",
+      "kor": "<span class=\"verse-number\">14</span> ê³§ ë² ëë¡ë¼ê³ ë ì´ë¦ì ì£¼ì  ìëª¬ê³¼ ê·¸ì ëì ìëë ì ì¼ê³ ë³´ì ìíê³¼ ë¹ë¦½ê³¼ ë°ëë¡ë§¤ì",
+      "ita": "<span class=\"verse-number\">14</span> Simone, che nominÃ² anche Pietro, e Andrea, suo fratello, e Giacomo e Giovanni, e Filippo e Bartolomeo,"
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>Matthew and Thomas, James the <span class=\"clarity-word\">son</span> of AlphÃ¦us, and Simon called Zelotes,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙØªÙÙÙØ ÙÙØªÙÙÙÙØ§Ø ÙÙØ¹ÙÙÙÙØ¨Ù Ø¨ÙÙÙ Ø­ÙÙÙÙÙÙØ ÙÙØ³ÙÙÙØ¹ÙØ§ÙÙ Ø§ÙÙÙÙØ¹ÙØ±ÙÙÙÙ Ø¨ÙØ§ÙÙØºÙÙÙÙØ±ÙØ",
+      "jpn": "<span class=\"verse-number\">15</span> ãã¿ã¤ã¨ããã¹ãã¢ã«ãã¨ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¤ã³ãã¨ã<ruby><rb>ç±å¿</rb><rt>ã­ã£ãã</rt></ruby><ruby><rb>å</rb><rt>ã¨ã</rt></ruby>ã¨<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã°ããã·ã¢ã³ã",
+      "zhs": "<span class=\"verse-number\">15ã</span><u>é©¬å¤ª</u>å<u>å¤é©¬</u>ï¼<u>äºåè</u>çå¿å­<u>éå</u>ï¼åå¥éåç<u>è¥¿é¨</u>ï¼",
+      "zht": "<span class=\"verse-number\">15ã</span><u>é¦¬å¤ª</u>å<u>å¤é¦¬</u>ï¼<u>äºåè</u>çåå­<u>éå</u>ï¼åå¥®é³é»¨ç<u>è¥¿é</u>ï¼",
+      "spa": "<span class=\"verse-number\">15</span> a Mateo y a TomÃ¡s, a Jacobo <span class=\"page-break\" data-page=\"1620\"></span><span class=\"clarity-word\">hijo</span> de Alfeo y a SimÃ³n llamado Zelote,",
+      "por": "<span class=\"verse-number\">15</span> E Mateus e TomÃ©; Tiago, <span class=\"clarity-word\">filho</span> de Alfeu, e SimÃ£o, chamado Zelote;",
+      "fra": "<span class=\"verse-number\">15</span> MatthieuÂ ; ThomasÂ ; Jacques, fils dâAlphÃ©eÂ ; Simon, appelÃ© le zÃ©loteÂ ;",
+      "deu": "<span class=\"verse-number\">15 </span>MatthÃ¤us und Thomas, Jakobus, den Sohn des AlphÃ¤us, und Simon mit dem Beinamen âder Eifererâ,",
+      "kor": "<span class=\"verse-number\">15</span> ë§íì ëë§ì ìí¨ì¤ì <span class=\"clarity-word\">ìë¤</span>ì¼ê³ ë³´ì ìë¡¯ì´ë¼ë ìëª¬ê³¼",
+      "ita": "<span class=\"verse-number\">15</span> e Matteo e Tommaso, e Giacomo di Alfeo e Simone chiamato Zelota,"
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>And Judas <span class=\"clarity-word\">the brother</span> of James, and Judas Iscariot, which also was the traitor.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙÙÙØ°ÙØ§ Ø£ÙØ®ÙÙ ÙÙØ¹ÙÙÙÙØ¨ÙØ ÙÙÙÙÙÙÙØ°ÙØ§ Ø§ÙØ¥ÙØ³ÙØ®ÙØ±ÙÙÙÙØ·ÙÙÙÙ Ø§ÙÙÙØ°ÙÙ Ø®ÙØ§ÙÙÙÙ ÙÙÙ ÙÙØ§ Ø¨ÙØ¹ÙØ¯Ù.",
+      "jpn": "<span class=\"verse-number\">16</span> ã¤ã³ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¦ããããããã¤ã¹ã«ãªãªãã®ã¦ãããã®ã¦ãã<ruby><rb>è£åè</rb><rt>ãããããã®</rt></ruby>ã¨ãªã£ãã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">16ã</span><u>éå</u>çå¿å­ç¹å¤§ï¼ååä¸»ç<u>å ç¥</u>äºº<u>ç¹å¤§</u>ã",
+      "zht": "<span class=\"verse-number\">16ã</span><u>éå</u>çåå­ç¶å¤§ï¼åè³£ä¸»ç<u>å ç¥</u>äºº<u>ç¶å¤§</u>ã",
+      "spa": "<span class=\"verse-number\">16</span> a Judas hermano de Jacobo, y a Judas Iscariote, que llegÃ³ a ser el traidor.",
+      "por": "<span class=\"verse-number\">16</span> E Judas, <span class=\"clarity-word\">irmÃ£o</span> de Tiago; e Judas Iscariotes, que foi o traidor.",
+      "fra": "<span class=\"verse-number\">16</span> Jude, fils de JacquesÂ ; et Judas Iscariot, qui devint traÃ®tre.",
+      "deu": "<span class=\"verse-number\">16 </span>Judas, den Sohn des Jakobus, und Judas Iskariot, der <span class=\"clarity-word\">spÃ¤ter</span> zum VerrÃ¤ter an ihm wurde.",
+      "kor": "<span class=\"verse-number\">16</span> ì¼ê³ ë³´ì <span class=\"clarity-word\">ìë¤</span>ì ë¤ì ììë¥¼ íë ì ë  ê°ë£ì ë¤ë¼",
+      "ita": "<span class=\"verse-number\">16</span> e Giuda di Giacomo, e Giuda Iscariota che divenne poi traditore."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span><span class=\"para-mark\">Â¶ </span>And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all JudÃ¦a and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>Ø«ÙÙÙÙ ÙÙØ²ÙÙÙ ÙÙØ¹ÙÙÙÙÙØ ÙÙÙÙÙÙÙÙ ÙÙÙ ÙÙÙÙØ§ÙÙ Ø³ÙÙÙÙÙØ ÙÙÙÙ ÙÙØ¬ÙÙÙØ§Ø¹ÙØ©Ù ÙÙÙÙ ØªÙÙØ§ÙÙÙØ°ÙÙÙØ ÙÙØ¬ÙÙÙÙÙÙØ±Ù ÙÙØ¨ÙÙØ±Ù ÙÙÙÙ Ø§ÙØ´ÙÙØ¹ÙØ¨ÙØ ÙÙÙÙ Ø¬ÙÙÙÙØ¹Ù Ø§ÙÙÙÙÙÙÙØ¯ÙÙÙÙØ©Ù ÙÙØ£ÙÙØ±ÙØ´ÙÙÙÙÙÙ ÙÙØ³ÙØ§Ø­ÙÙÙ ØµÙÙØ±Ù ÙÙØµÙÙÙØ¯ÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">17</span> ããã¦ãã¤ã¨ã¹ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¨<ruby><rb>ä¸ç·</rb><rt>ãã£ãã</rt></ruby>ã«<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã </rt></ruby>ã£ã¦<ruby><rb>å¹³å°</rb><rt>ã²ãã¡</rt></ruby>ã«<ruby><rb>ç«</rb><rt>ã</rt></ruby>ããããã<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããã®<ruby><rb>å¼å­</rb><rt>ã§ã</rt></ruby>ãã¡ããã¦ãã¤<ruby><rb>å¨å</rb><rt>ããã©</rt></ruby>ãã¨ã«ãµã¬ã ããã­ã¨ã·ãã³ã®<ruby><rb>æµ·å²¸</rb><rt>ãããã</rt></ruby><ruby><rb>å°æ¹</rb><rt>ã¡ã»ã</rt></ruby>ãªã©ããã®<ruby><rb>å¤§</rb><rt>ã ã</rt></ruby><ruby><rb>ç¾¤è¡</rb><rt>ããããã</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">17ã</span>è¶ç¨£åä»ä»¬ä¸äºå±±ï¼ç«å¨ä¸åå¹³å°ä¸ï¼åç«çæè®¸å¤é¨å¾ï¼åæè®¸å¤ç¾å§ï¼ä»<u>ç¹å¤ª</u>å¨å°å<u>è¶è·¯æå·</u>ï¼å¹¶<u>æ³°å°</u>ã<u>è¥¿é¡¿</u>çæµ·è¾¹æ¥ï¼é½è¦å¬ä»<span class=\"clarity-word\">è®²é</span>ï¼åææå»æ²»ä»ä»¬ççï¼",
+      "zht": "<span class=\"verse-number\">17ã</span>è¶ç©åä»åä¸äºå±±ï¼ç«å¨ä¸å¡å¹³å°ä¸ï¼åç«çæè¨±å¤éå¾ï¼åæè¨±å¤ç¾å§ï¼å¾<u>ç¶å¤ª</u>å¨å°å<u>è¶è·¯æå·</u>ï¼ä¸¦<u>æ³°ç¾</u>ã<u>è¥¿é </u>çæµ·éä¾ï¼é½è¦è½ä»<span class=\"clarity-word\">è¬é</span>ï¼åææé«æ²»ä»åççï¼",
+      "spa": "<span class=\"verse-number\">17</span> Y descendiÃ³ con ellos y se detuvo en un lugar llano, en compaÃ±Ã­a de sus discÃ­pulos y de una gran multitud del pueblo de toda Judea, y de JerusalÃ©n y de la costa de Tiro y de SidÃ³n, que habÃ­an venido para oÃ­rle y para ser sanados de sus enfermedades;",
+      "por": "<span class=\"verse-number\">17</span> E descendo com eles, parou num lugar plano, e tambÃ©m um grande nÃºmero de seus discÃ­pulos, e grande multidÃ£o do povo de toda a Judeia, e de JerusalÃ©m, e da costa marÃ­tima de Tiro e de Sidom,",
+      "fra": "<span class=\"verse-number\">17</span> Il descendit avec eux, et sâarrÃªta sur un plateau oÃ¹ se trouvaient une foule de ses disciples et une multitude de gens venus de toute la JudÃ©e, de JÃ©rusalem, et de la contrÃ©e maritime de Tyr et de Sidon. Ils Ã©taient venus pour lâentendre et pour Ãªtre guÃ©ris de leurs maladies.",
+      "deu": "<span class=\"verse-number\">17 </span>Als er dann mit ihnen <span class=\"clarity-word\">vom Berg</span> wieder hinabgestiegen war, blieb er auf einem ebenen Platz stehen samt einer groÃen Schar seiner JÃ¼nger und einer groÃen Menschenmenge aus dem ganzen jÃ¼dischen Land, aus Jerusalem und auch aus dem KÃ¼stenland von Tyrus und Sidon.",
+      "kor": "<span class=\"verse-number\">17</span> ììê»ì ê·¸ë¤ê³¼ í¨ê» ë´ë ¤ì¤ì¬ íì§ì ììë ê·¸ ì ìì ë§ì ë¬´ë¦¬ì ììì ë§ìë ë£ê³  ë³ ê³ ì¹¨ì ë°ì¼ë ¤ê³  ì ë ì¬ë°©ê³¼ ìë£¨ì´ë ê³¼ ëë¡ì ìëì í´ìì¼ë¡ë¶í° ì¨ ë§ì ë°±ì±ë ìëë¼",
+      "ita": "<span class=\"verse-number\">17</span> E sceso con loro, si fermÃ² sopra un luogo pianeggiante, insieme con una grande folla dei suoi discepoli e una grande quantitÃ  di persone da tutta la Giudea e da Gerusalemme e dal litorale di Tiro e di Sidone,"
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>And they that were vexed with unclean spirits: and they were healed.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>Ø¬ÙØ§Ø¡ÙÙØ§ ÙÙÙÙØ³ÙÙÙØ¹ÙÙÙÙ ÙÙÙÙÙÙØ§ÙÙÙØ§ Ø§ÙØ´ÙÙÙÙØ§Ø¡Ù ÙÙÙÙ Ø£ÙÙÙØ±ÙØ§Ø¶ÙÙÙÙÙ. ÙÙØ§ÙÙÙØ°ÙÙÙÙ ÙÙØ§ÙÙØªÙ ØªÙØ¹ÙØ°ÙÙØ¨ÙÙÙÙÙ Ø§ÙØ£ÙØ±ÙÙÙØ§Ø­Ù Ø§ÙÙÙÙØ¬ÙØ³ÙØ©Ù ÙÙØ§ÙÙÙØ§ ÙÙØ´ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">18</span> <ruby><rb>æ</rb><rt>ããã</rt></ruby>ã<ruby><rb>è</rb><rt>ã</rt></ruby>ããã¨ããã¾ã<ruby><rb>çæ°</rb><rt>ã³ããã</rt></ruby>ããªããã¦ããããã¨ãã¦ãããã«ãã¦ãããããã¦<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ©</rb><rt>ãªã</rt></ruby>ã¾ããã¦ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãã¡ãããããããã",
+      "zhs": "<span class=\"verse-number\">18ã</span>è¿æè¢«æ±¡é¬¼ç¼ ç£¨çï¼ä¹å¾äºå»æ²»ã",
+      "zht": "<span class=\"verse-number\">18ã</span>éæè¢«æ±¡é¬¼çºç£¨çï¼ä¹å¾äºé«æ²»ã",
+      "spa": "<span class=\"verse-number\">18</span> y los que habÃ­an sido atormentados por espÃ­ritus inmundos eran sanados.",
+      "por": "<span class=\"verse-number\">18</span> Que tinham vindo para o ouvir, e serem curados das suas enfermidades, como tambÃ©m os atormentados dos espÃ­ritos imundos; e eram curados.",
+      "fra": "<span class=\"verse-number\">18</span> Ceux qui Ã©taient tourmentÃ©s par des esprits impurs Ã©taient guÃ©ris.",
+      "deu": "<span class=\"verse-number\">18 </span>Alle diese waren gekommen, um ihn zu hÃ¶ren und sich von ihren Krankheiten heilen zu lassen; auch die von unreinen Geistern Geplagten fanden Heilung;",
+      "kor": "<span class=\"verse-number\">18</span> ëë¬ì´ ê·ì ìê² ê³ ë ë°ë ìë¤ë ê³ ì¹¨ì ë°ìì§ë¼",
+      "ita": "<span class=\"verse-number\">18</span> i quali erano venuti per udirlo e per essere guariti delle loro infermitÃ ."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>And the whole multitude sought to touch him: for there went virtue out of him, and healed <span class=\"clarity-word\">them</span> all.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙÙÙØ§ÙÙ Ø§ÙÙØ¬ÙÙÙØ¹Ù ÙÙÙÙÙÙÙ ÙÙØ³ÙØ¹ÙÙÙÙÙ Ø¥ÙÙÙÙ ÙÙÙÙØ³ÙÙÙØ ÙØ£ÙÙÙÙ ÙÙÙÙÙØ©Ù ÙÙØ§ÙÙØªÙ ØªÙØ®ÙØ±ÙØ¬Ù ÙÙÙÙÙÙ ÙÙØªÙØ´ÙÙÙÙÙÙÙÙ Ø¬ÙÙÙÙØ¹Ø§Ù.",
+      "jpn": "<span class=\"verse-number\">19</span> ã¾ã<ruby><rb>ç¾¤è¡</rb><rt>ããããã</rt></ruby>ã¯ã¤ã¨ã¹ã«ããããã¨<ruby><rb>åª</rb><rt>ã¤ã¨</rt></ruby>ãããããã¯<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ãã¤ã¨ã¹ã®<ruby><rb>å</rb><rt>ãã¡</rt></ruby>ãã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦ãã¿ããªã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>æ¬¡ã</rb><rt>ã¤ãã¤ã</rt></ruby>ã«ããããããã§ããã",
+      "zhs": "<span class=\"verse-number\">19ã</span>ä¼äººé½æ³è¦æ¸ä»ï¼å ä¸ºæè½åä»ä»èº«ä¸ååºæ¥ï¼å»å¥½äºä»ä»¬ã",
+      "zht": "<span class=\"verse-number\">19ã</span>ç¾äººé½æ³è¦æ¸ä»ï¼å çºæè½åå¾ä»èº«ä¸ç¼åºä¾ï¼é«å¥½äºä»åã",
+      "spa": "<span class=\"verse-number\">19</span> Y toda la gente procuraba tocarle, porque salÃ­a poder de Ã©l y sanaba a todos.",
+      "por": "<span class=\"verse-number\">19</span> E toda a multidÃ£o procurava tocÃ¡-lo; porque saÃ­a dele poder, e curava todos.",
+      "fra": "<span class=\"verse-number\">19</span> Et toute la foule cherchait Ã  le toucher, parce quâune force sortait de lui et les guÃ©rissait tous.",
+      "deu": "<span class=\"verse-number\">19 </span>und die ganze Menschenmenge versuchte, ihn zu berÃ¼hren, denn eine Kraft ging von ihm aus und heilte alle.",
+      "kor": "<span class=\"verse-number\">19</span> ì¨ ë¬´ë¦¬ê° ììë¥¼ ë§ì§ë ¤ê³  íì°ë ì´ë ë¥ë ¥ì´ ììê»ë¡ë¶í° ëìì ëª¨ë  ì¬ëì ë«ê² í¨ì´ë¬ë¼",
+      "ita": "<span class=\"verse-number\">19</span> E quelli che erano tormentati da spiriti impuri erano guariti; e tutta la moltitudine cercava di toccarlo, perchÃ© usciva da lui una virtÃ¹ che sanava tutti."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span><span class=\"para-mark\">Â¶ </span>And he lifted up his eyes on his disciples, and said, Blessed <span class=\"clarity-word\">be ye</span> poor: for yours is the kingdom of God.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>Ø«ÙÙÙÙ Ø±ÙÙÙØ¹Ù Ø¹ÙÙÙÙÙÙÙÙÙ Ø¥ÙÙÙÙ ØªÙÙØ§ÙÙÙØ°ÙÙÙ ÙÙÙÙØ§ÙÙ: âØ·ÙÙØ¨ÙÙ ÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙØ§ Ø§ÙÙÙÙØ³ÙØ§ÙÙÙÙÙØ ÙÙØ¥ÙÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙÙÙÙØªÙ Ø§ÙÙÙÙ°ÙÙ!",
+      "jpn": "<span class=\"verse-number\">20</span> ãã®ã¨ããã¤ã¨ã¹ã¯<ruby><rb>ç®</rb><rt>ã</rt></ruby>ãããã<ruby><rb>å¼å­</rb><rt>ã§ã</rt></ruby>ãã¡ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããããããªããã<ruby><rb>è²§</rb><rt>ã¾ã</rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãã¡ã¯ãããããã ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ã¯ããªãããã®ãã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">20ã</span>è¶ç¨£ä¸¾ç®ççé¨å¾ï¼è¯´ï¼ä½ ä»¬è´«ç©·çäººæç¦äºï¼å ä¸ºç¥çå½æ¯ä½ ä»¬çã",
+      "zht": "<span class=\"verse-number\">20ã</span>è¶ç©èç®çèéå¾ï¼èªªï¼ä½ åè²§çª®çäººæç¦äºï¼å çºç¥çåæ¯ä½ åçã",
+      "spa": "<span class=\"verse-number\">20</span> Y alzando Ã©l los ojos hacia sus discÃ­pulos, decÃ­a: Bienaventurados <span class=\"clarity-word\">vosotros</span> los pobres, porque vuestro es el reino de Dios.",
+      "por": "<span class=\"verse-number\">20</span> E levantando ele os olhos para os seus discÃ­pulos, dizia: Bem-aventurados vÃ³s, os pobres, porque vosso Ã© o reino de Deus.",
+      "fra": "<span class=\"verse-number\">20</span> Alors JÃ©sus, levant les yeux sur ses disciples, ditÂ : Heureux vous qui Ãªtes pauvres car le royaume de Dieu est Ã  vousÂ !",
+      "deu": "<span class=\"verse-number\">20 </span>Da richtete er seine Augen auf seine JÃ¼nger und sagte: âSelig seid ihr Armen, denn euer ist das Reich Gottes!",
+      "kor": "<span class=\"verse-number\">20</span> ììê»ì ëì ë¤ì´ ì ìë¤ì ë³´ìê³  ì´ë¥´ìë ëí¬ ê°ëí ìë ë³µì´ ìëë íëëì ëë¼ê° ëí¬ ê²ìì´ì",
+      "ita": "<span class=\"verse-number\">20</span> Ed egli, alzati gli occhi verso i suoi discepoli, disse: âBeati voi che siete poveri, perchÃ© il Regno di Dio Ã¨ vostro."
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>Blessed <span class=\"clarity-word\">are ye</span> that hunger now: for ye shall be filled. Blessed <span class=\"clarity-word\">are ye</span> that weep now: for ye shall laugh.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>Ø·ÙÙØ¨ÙÙ ÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙØ§ Ø§ÙÙØ¬ÙØ§Ø¦ÙØ¹ÙÙÙÙ Ø§ÙØ¢ÙÙØ ÙÙØ¥ÙÙÙÙÙÙÙÙ Ø³ÙÙÙÙÙ ØªÙØ´ÙØ¨ÙØ¹ÙÙÙÙ. Ø·ÙÙØ¨ÙÙ ÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙØ§ Ø§ÙÙØ¨ÙØ§ÙÙÙÙÙ Ø§ÙØ¢ÙÙØ ÙÙØ¥ÙÙÙÙÙÙÙÙ Ø³ÙÙÙÙÙ ØªÙØ¶ÙØ­ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">21</span> ããªããããã¾<ruby><rb>é£¢</rb><rt>ã</rt></ruby>ãã¦ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãã¡ã¯ãããããã ã<ruby><rb>é£½</rb><rt>ã</rt></ruby>ã<ruby><rb>è¶³</rb><rt>ã</rt></ruby>ããããã«ãªãããã§ãããããªããããã¾<ruby><rb>æ³£</rb><rt>ãª</rt></ruby>ãã¦ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãã¡ã¯ãããããã ã<ruby><rb>ç¬</rb><rt>ãã</rt></ruby>ãããã«ãªãããã§ããã",
+      "zhs": "<span class=\"verse-number\">21ã</span>ä½ ä»¬é¥¥é¥¿çäººæç¦äºï¼å ä¸ºä½ ä»¬å°è¦é¥±è¶³ãä½ ä»¬åå­çäººæç¦äºï¼å ä¸ºä½ ä»¬å°è¦åç¬ã",
+      "zht": "<span class=\"verse-number\">21ã</span>ä½ åé£¢é¤çäººæç¦äºï¼å çºä½ åå°è¦é£½è¶³ãä½ ååå­çäººæç¦äºï¼å çºä½ åå°è¦åç¬ã",
+      "spa": "<span class=\"verse-number\">21</span> Bienaventurados los que ahora tenÃ©is hambre, porque serÃ©is saciados. Bienaventurados los que ahora llorÃ¡is, porque reirÃ©is.",
+      "por": "<span class=\"verse-number\">21</span> Bem-aventurados vÃ³s, que agora tendes fome, porque sereis fartos. Bem-aventurados vÃ³s, que agora chorais, porque haveis de rir.",
+      "fra": "<span class=\"verse-number\">21</span> Heureux vous qui avez faim maintenant, car vous serez rassasiÃ©sÂ ! Heureux vous qui pleurez maintenant, car vous serez dans la joieÂ !",
+      "deu": "<span class=\"verse-number\">21 </span>Selig seid ihr, die ihr jetzt hungert, denn ihr werdet gesÃ¤ttigt werden! Selig seid ihr, die ihr jetzt weint, denn ihr werdet lachen!",
+      "kor": "<span class=\"verse-number\">21</span> ì§ê¸ ì£¼ë¦° ìë ë³µì´ ìëë ëí¬ê° ë°°ë¶ë¦ì ì»ì ê²ìì´ì ì§ê¸ ì°ë ìë ë³µì´ ìëë ëí¬ê° ìì ê²ìì´ì",
+      "ita": "<span class=\"verse-number\">21</span> Beati voi che ora avete fame, perchÃ© sarete saziati. Beati voi che ora piangete, perchÃ© riderete."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>Blessed are ye, when men shall hate you, and when they shall separate you <span class=\"clarity-word\">from their company,</span> and shall reproach <span class=\"clarity-word\">you,</span> and cast out your name as evil, for the Son of manâs sake.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>Ø·ÙÙØ¨ÙÙ ÙÙÙÙÙÙ ÙÙØªÙÙ Ø£ÙØ¨ÙØºÙØ¶ÙÙÙÙÙ Ø§ÙÙÙÙØ§Ø³ÙØ ÙÙØ¹ÙØ²ÙÙÙÙÙÙÙÙØ ÙÙØ£ÙÙÙØ§ÙÙÙØ§ Ø§Ø³ÙÙÙÙÙÙÙ ÙÙÙÙØ¨ÙØ°ÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙ Ø´ÙØ±ÙÙÙØ±ÙØ ÙÙÙÙ Ø£ÙØ¬ÙÙÙ Ø§Ø¨ÙÙÙ Ø§ÙØ¥ÙÙÙØ³ÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">22</span> <ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ãããªãããã<ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ãã¨ããã¾ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã®ããã«ããªãããã<ruby><rb>ææ¥</rb><rt>ã¯ããã</rt></ruby>ããã®ã®ããã<ruby><rb>æ±å</rb><rt>ããã</rt></ruby>ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ããã¨ãã¯ãããªãããã¯ããããã ã",
+      "zhs": "<span class=\"verse-number\">22ã</span>äººä¸ºäººå­æ¨æ¶ä½ ä»¬ãæç»ä½ ä»¬ãè¾±éªä½ ä»¬ãå¼æä½ ä»¬çåï¼ä»¥ä¸ºæ¯æ¶ï¼ä½ ä»¬å°±æç¦äºã",
+      "zht": "<span class=\"verse-number\">22ã</span>äººçºäººå­æ¨æ¡ä½ åãæçµä½ åãè¾±ç½µä½ åãæ£æä½ åçåï¼ä»¥çºæ¯æ¡ï¼ä½ åå°±æç¦äºã",
+      "spa": "<span class=\"verse-number\">22</span> Bienaventurados serÃ©is cuando los hombres os aborrezcan, y cuando os aparten de sÃ­, y os vituperen y desechen vuestro nombre como malo por causa del Hijo del Hombre.",
+      "por": "<span class=\"verse-number\">22</span> Bem-aventurados sereis quando os homens vos odiarem, e quando vos excluÃ­rem, e injuriarem, e rejeitarem o vosso nome como mau, por causa do Filho do Homem.",
+      "fra": "<span class=\"verse-number\">22</span> Heureux serez-vous, lorsque les hommes vous haÃ¯ront, lorsquâils vous chasseront, vous insulteront et rejetteront votre nom comme infÃ¢me, Ã  cause du Fils de lâhommeÂ !",
+      "deu": "<span class=\"verse-number\">22 </span>Selig seid ihr, wenn die Menschen euch hassen und wenn sie euch ausschlieÃen und euch schmÃ¤hen und euren Namen als bÃ¶se verwerfen um des Menschensohnes willen!",
+      "kor": "<span class=\"verse-number\">22</span> ì¸ìë¡ ë§ë¯¸ìì ì¬ëë¤ì´ ëí¬ë¥¼ ë¯¸ìíë©° ë©ë¦¬íê³  ìíê³  ëí¬ ì´ë¦ì ìíë¤ íì¬ ë²ë¦´ ëìë ëí¬ìê² ë³µì´ ìëë¤",
+      "ita": "<span class=\"verse-number\">22</span> Beati voi, quando gli uomini vi odieranno, e quando vi scacceranno, e vi vitupereranno e ripudieranno il vostro nome come malvagio, a motivo del Figlio dellâuomo."
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>Rejoice ye in that day, and leap for joy: for, behold, your reward <span class=\"clarity-word\">is</span> great in heaven: for in the like manner did their fathers unto the prophets.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>Ø§ÙÙØ±ÙØ­ÙÙØ§ ÙÙÙ Ø°ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙÙØªÙÙÙÙÙÙÙÙÙØ§Ø ÙÙÙÙØ§ Ø¥ÙÙÙÙ ÙÙÙÙØ§ÙÙØ£ÙØªÙÙÙÙÙ ÙÙÙ Ø§ÙØ³ÙÙÙÙØ§Ø¡Ù Ø¹ÙØ¸ÙÙÙÙØ©Ù: ÙØ£ÙÙÙÙÙÙ ÙÙÙØ°ÙØ§ Ø¹ÙØ§ÙÙÙÙ Ø¢Ø¨ÙØ§Ø¤ÙÙÙÙÙ Ø§ÙØ£ÙÙÙØ¨ÙÙÙØ§Ø¡Ù.",
+      "jpn": "<span class=\"verse-number\">23</span> ãã®<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã«ã¯<ruby><rb>å</rb><rt>ããã</rt></ruby>ã³ãã©ãã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã<ruby><rb>å¤©</rb><rt>ã¦ã</rt></ruby>ã«ããã¦ããªãããã®<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>å ±</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããã®ã ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>ç¥å</rb><rt>ããã</rt></ruby>ãã<ruby><rb>é è¨è</rb><rt>ããããã</rt></ruby>ãã¡ã«<ruby><rb>å¯¾</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>å</rb><rt>ããª</rt></ruby>ããã¨ãããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">23ã</span>å½é£æ¥ï¼ä½ ä»¬è¦æ¬¢åè·³è·ï¼å ä¸ºä½ ä»¬å¨å¤©ä¸çèµèµæ¯å¤§çï¼ä»ä»¬çç¥å®å¾åç¥ä¹æ¯è¿æ ·ã",
+      "zht": "<span class=\"verse-number\">23ã</span>ç¶é£æ¥ï¼ä½ åè¦æ­¡åè·³èºï¼å çºä½ åå¨å¤©ä¸çè³è³æ¯å¤§çï¼ä»åçç¥å®å¾åç¥ä¹æ¯éæ¨£ã",
+      "spa": "<span class=\"verse-number\">23</span> Gozaos en aquel dÃ­a y alegraos, porque he aquÃ­ vuestro galardÃ³n es grande en los cielos; porque asÃ­ hacÃ­an sus padres a los profetas.",
+      "por": "<span class=\"verse-number\">23</span> Regozijai-vos naquele dia, exultai; porque, eis que Ã© grande o vosso galardÃ£o no cÃ©u, porque assim faziam os seus pais aos profetas.",
+      "fra": "<span class=\"verse-number\">23</span> RÃ©jouissez-vous en ce jour-lÃ  et tressaillez de joie, parce que votre rÃ©compense sera grande dans le cielÂ ; car câest ainsi que leurs pÃ¨res traitaient les prophÃ¨tes.",
+      "deu": "<span class=\"verse-number\">23 </span>Freut euch alsdann und jubelt! Denn wisst wohl: Euer Lohn ist groÃ im Himmel. Ihre VÃ¤ter haben ja an den Propheten ebenso gehandelt.",
+      "kor": "<span class=\"verse-number\">23</span> ê·¸ ë ì ê¸°ë»íê³  ë°ëë¼ íëìì ëí¬ ìì´ í¼ì´ë¼ ê·¸ë¤ì ì¡°ìë¤ì´ ì ì§ìë¤ìê² ì´ì ê°ì´ íìëëë¼",
+      "ita": "<span class=\"verse-number\">23</span> Rallegratevi in quel giorno e saltate di letizia, perchÃ©, ecco, il vostro premio Ã¨ grande nei cieli; poichÃ© i loro padri facevano lo stesso ai profeti."
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>But woe unto you that are rich! for ye have received your consolation.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙ Ø£ÙÙÙØªÙÙÙ Ø§ÙØ£ÙØºÙÙÙÙÙØ§Ø¡ÙØ ÙÙØ¥ÙÙÙÙÙÙÙÙ ÙÙØ¯Ù ÙÙÙÙØªÙÙÙ Ø¹ÙØ²ÙØ§Ø¡ÙÙÙÙÙ!",
+      "jpn": "<span class=\"verse-number\">24</span> ãããããªããã<ruby><rb>å¯</rb><rt>ã¨</rt></ruby>ãã§ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãã¡ã¯ãããããã ã<ruby><rb>æ°</rb><rt>ãªãã</rt></ruby>ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã¦ãã¾ã£ã¦ããããã§ããã",
+      "zhs": "<span class=\"verse-number\">24ã</span>ä½ä½ ä»¬å¯è¶³çäººæç¥¸äºï¼å ä¸ºä½ ä»¬åè¿ä½ ä»¬çå®æ°ã",
+      "zht": "<span class=\"verse-number\">24ã</span>ä½ä½ åå¯è¶³çäººæç¦äºï¼å çºä½ ååéä½ åçå®æ°ã",
+      "spa": "<span class=\"verse-number\">24</span> Pero, Â¡ay de vosotros, ricos!, porque ya tenÃ©is vuestro consuelo.",
+      "por": "<span class=\"verse-number\">24</span> Mas ai de vÃ³s, ricos! porque <span class=\"clarity-word\">jÃ¡</span> tendes a vossa consolaÃ§Ã£o.",
+      "fra": "<span class=\"verse-number\">24</span> Mais, malheur Ã  vous, riches, car vous avez votre consolationÂ !",
+      "deu": "<span class=\"verse-number\">24 </span>Doch wehe euch Reichen, denn ihr habt euren Trost bereits empfangen!",
+      "kor": "<span class=\"verse-number\">24</span> ê·¸ë¬ë í ììì§ì  ëí¬ ë¶ìí ìì¬ ëí¬ë ëí¬ì ìë¡ë¥¼ ì´ë¯¸ ë°ìëë¤",
+      "ita": "<span class=\"verse-number\">24</span> Ma guai a voi, ricchi, perchÃ© avete giÃ  la vostra consolazione."
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>Woe unto you that are full! for ye shall hunger. Woe unto you that laugh now! for ye shall mourn and weep.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>Ø§ÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙØ§ Ø§ÙÙÙÙØ´ÙØ¨ÙØ¹ÙÙÙÙ Ø§ÙØ¢ÙÙØ ÙÙØ¥ÙÙÙÙÙÙÙÙ Ø³ÙÙÙÙÙ ØªÙØ¬ÙÙØ¹ÙÙÙÙ. Ø§ÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙØ§ Ø§ÙØ¶ÙÙØ§Ø­ÙÙÙÙÙÙ Ø§ÙØ¢ÙÙØ ÙÙØ¥ÙÙÙÙÙÙÙÙ Ø³ÙÙÙÙÙ ØªÙÙÙÙØ­ÙÙÙÙ ÙÙØªÙØ¨ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">25</span> ããªããã<ruby><rb>ä»</rb><rt>ãã¾</rt></ruby><ruby><rb>æºè¹</rb><rt>ã¾ãã·ã</rt></ruby>ãã¦ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãã¡ã¯ãããããã ã<ruby><rb>é£¢</rb><rt>ã</rt></ruby>ããããã«ãªãããã§ãããããªããã<ruby><rb>ä»</rb><rt>ãã¾</rt></ruby><ruby><rb>ç¬</rb><rt>ãã</rt></ruby>ã£ã¦ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãã¡ã¯ãããããã ã<ruby><rb>æ²</rb><rt>ããª</rt></ruby>ãã¿<ruby><rb>æ³£</rb><rt>ãª</rt></ruby>ãããã«ãªãããã§ããã",
+      "zhs": "<span class=\"verse-number\">25ã</span>ä½ ä»¬é¥±è¶³çäººæç¥¸äºï¼å ä¸ºä½ ä»¬å°è¦é¥¥é¥¿ãä½ ä»¬åç¬çäººæç¥¸äºï¼å ä¸ºä½ ä»¬å°è¦åæ¸å­æ³£ã",
+      "zht": "<span class=\"verse-number\">25ã</span>ä½ åé£½è¶³çäººæç¦äºï¼å çºä½ åå°è¦é£¢é¤ãä½ ååç¬çäººæç¦äºï¼å çºä½ åå°è¦åæå­æ³£ã",
+      "spa": "<span class=\"verse-number\">25</span> Â¡Ay de vosotros, los que estÃ¡is saciados!, porque tendrÃ©is hambre. Â¡Ay de vosotros, los que ahora reÃ­s!, porque lamentarÃ©is y llorarÃ©is.",
+      "por": "<span class=\"verse-number\">25</span> Ai de vÃ³s, que estais fartos! porque tereis fome. Ai de vÃ³s, que agora rides! porque lamentareis e chorareis.",
+      "fra": "<span class=\"verse-number\">25</span> Malheur Ã  vous qui Ãªtes rassasiÃ©s, car vous aurez faimÂ ! Malheur Ã  vous qui riez maintenant, car vous serez dans le deuil et dans les larmesÂ !",
+      "deu": "<span class=\"verse-number\">25 </span>Wehe euch, die ihr jetzt satt seid, denn ihr werdet Hunger leiden! Wehe euch, die ihr jetzt lacht, denn ihr werdet trauern und weinen!",
+      "kor": "<span class=\"verse-number\">25</span> í ììì§ì  ëí¬ ì§ê¸ ë°°ë¶ë¥¸ ìì¬ ëí¬ë ì£¼ë¦¬ë¦¬ë¡ë¤ í ììì§ì  ëí¬ ì§ê¸ ìë ìì¬ ëí¬ê° ì íµíë©° ì¸ë¦¬ë¡ë¤",
+      "ita": "<span class=\"verse-number\">25</span> Guai a voi che siete ora sazi, perchÃ© avrete fame. Guai a voi che ora ridete, perchÃ© farete cordoglio e piangerete."
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span>Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>Ø§ÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙ Ø¥ÙØ°ÙØ§ Ø§ÙÙØªÙØ¯ÙØ­ÙÙÙÙÙ Ø¬ÙÙÙÙØ¹Ù Ø§ÙÙÙÙØ§Ø³ÙØ ÙÙØ¥ÙÙÙÙÙÙ ÙÙÙØ°ÙØ§ Ø¹ÙØ§ÙÙÙÙ Ø¢Ø¨ÙØ§Ø¤ÙÙÙÙÙ Ø§ÙØ£ÙÙÙØ¨ÙÙÙØ§Ø¡Ù Ø§ÙØ¯ÙÙØ¬ÙÙØ§ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">26</span> <ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>ç</rb><rt>ã¿ãª</rt></ruby>ããªããããã»ããã¨ãã¯ãããªãããã¯ããããã ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>ç¥å</rb><rt>ããã</rt></ruby>ããã«ã<ruby><rb>é è¨è</rb><rt>ããããã</rt></ruby>ãã¡ã«<ruby><rb>å¯¾</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>å</rb><rt>ããª</rt></ruby>ããã¨ãããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">26ã</span>äººé½è¯´ä½ ä»¬å¥½çæ¶åï¼ä½ ä»¬å°±æç¥¸äºï¼å ä¸ºä»ä»¬çç¥å®å¾ååç¥ä¹æ¯è¿æ ·ã",
+      "zht": "<span class=\"verse-number\">26ã</span>äººé½èªªä½ åå¥½çæåï¼ä½ åå°±æç¦äºï¼å çºä»åçç¥å®å¾ååç¥ä¹æ¯éæ¨£ã",
+      "spa": "<span class=\"verse-number\">26</span> Â¡Ay de vosotros, cuando todos los hombres hablen bien de vosotros!, porque asÃ­ hacÃ­an sus padres con los falsos profetas.",
+      "por": "<span class=\"verse-number\">26</span> Ai de vÃ³s quando todos os homens de vÃ³s falarem bem, porque assim faziam seus pais aos falsos profetas.",
+      "fra": "<span class=\"verse-number\">26</span> Malheur, lorsque tous les hommes diront du bien de vous car câest ainsi quâagissaient leurs pÃ¨res Ã  lâÃ©gard des faux prophÃ¨tesÂ !",
+      "deu": "<span class=\"verse-number\">26 </span>Wehe euch, wenn alle Welt mit Lobesworten von euch redet! Ihre VÃ¤ter haben ja an den falschen Propheten ebenso gehandelt.",
+      "kor": "<span class=\"verse-number\">26</span> ëª¨ë  ì¬ëì´ ëí¬ë¥¼ ì¹­ì°¬íë©´ íê° ìëë¤ ê·¸ë¤ì ì¡°ìë¤ì´ ê±°ì§ ì ì§ìë¤ìê² ì´ì ê°ì´ íìëëë¼",
+      "ita": "<span class=\"verse-number\">26</span> Guai a voi quando tutti gli uomini diranno bene di voi, perchÃ© i loro padri facevano lo stesso con i falsi profeti."
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span><span class=\"para-mark\">Â¶ </span>But I say unto you which hear, Love your enemies, do good to them which hate you,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙØ£ÙÙÙÙØ§ ÙÙÙÙÙÙ Ø£ÙÙÙÙÙÙØ§ Ø§ÙØ³ÙÙØ§ÙÙØ¹ÙÙÙÙØ ÙÙØ£ÙÙÙÙÙÙ: Ø£ÙØ­ÙØ¨ÙÙÙØ§ Ø£ÙØ¹ÙØ¯ÙØ§Ø¡ÙÙÙÙÙØ Ø£ÙØ­ÙØ³ÙÙÙÙØ§ ÙÙØ¹ÙØ§ÙÙÙÙØ©Ù Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ¨ÙØºÙØ¶ÙÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">27</span> ãããã<ruby><rb>è</rb><rt>ã</rt></ruby>ãã¦ããããªãããã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãã<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ã«ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«<ruby><rb>è¦ªå</rb><rt>ãããã¤</rt></ruby>ã«ããã",
+      "zhs": "<span class=\"verse-number\">27ã</span>åªæ¯æåè¯ä½ ä»¬è¿å¬éçäººï¼ä½ ä»¬çä»æï¼è¦ç±ä»ï¼æ¨ä½ ä»¬çï¼è¦å¾ä»å¥½ã",
+      "zht": "<span class=\"verse-number\">27ã</span>åªæ¯æåè¨´ä½ åéè½éçäººï¼ä½ åçä»æµï¼è¦æä»ï¼æ¨ä½ åçï¼è¦å¾ä»å¥½ã",
+      "spa": "<span class=\"verse-number\">27</span> Pero a vosotros los que oÃ­s, os digo: Amad a vuestros enemigos, haced bien a los que os aborrecen;",
+      "por": "<span class=\"verse-number\">27</span> Mas a vÃ³s, que ouvis <span class=\"clarity-word\">isso,</span> digo: Amai aos vossos inimigos, fazei o bem aos que vos odeiam;",
+      "fra": "<span class=\"verse-number\">27</span> Mais je vous dis, Ã  vous qui mâÃ©coutezÂ : Aimez vos ennemis, faites du bien Ã  ceux qui vous haÃ¯ssent,",
+      "deu": "<span class=\"verse-number\">27 </span>Euch aber, die ihr zuhÃ¶rt, sage ich: Liebt eure Feinde, tut denen Gutes, die euch hassen,",
+      "kor": "<span class=\"verse-number\">27</span> ê·¸ë¬ë ëí¬ ë£ë ììê² ë´ê° ì´ë¥´ë¸ë ëí¬ ììë¥¼ ì¬ëíë©° ëí¬ë¥¼ ë¯¸ìíë ìë¥¼ ì ëíë©°",
+      "ita": "<span class=\"verse-number\">27</span> Ma a voi che ascoltate, io dico: amate i vostri nemici; fate del bene a quelli che vi odiano;"
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span>Bless them that curse you, and pray for them which despitefully use you.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>Ø¨ÙØ§Ø±ÙÙÙÙØ§ ÙØ§Ø¹ÙÙÙÙÙÙÙÙØ ØµÙÙÙÙÙØ§ ÙØ£ÙØ¬ÙÙÙ Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ³ÙÙØ¦ÙÙÙÙ Ø¥ÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">28</span> ã®ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ããã¯ããããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®ããã«<ruby><rb>ç¥</rb><rt>ãã®</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">28ã</span>åè¯ä½ ä»¬çï¼è¦ä¸ºä»ç¥ç¦ï¼åè¾±ä½ ä»¬çï¼è¦ä¸ºä»ç¥·åã",
+      "zht": "<span class=\"verse-number\">28ã</span>åè©ä½ åçï¼è¦çºä»ç¥ç¦ï¼åè¾±ä½ åçï¼è¦çºä»ç¦±åã",
+      "spa": "<span class=\"verse-number\">28</span> bendecid a los que os maldicen y orad por los que os calumnian.",
+      "por": "<span class=\"verse-number\">28</span> Bendizei os que vos maldizem, e orai pelos que vos caluniam.",
+      "fra": "<span class=\"verse-number\">28</span> bÃ©nissez ceux qui vous maudissent, priez pour ceux qui vous maltraitent.",
+      "deu": "<span class=\"verse-number\">28 </span>segnet diejenigen, die euch fluchen, betet fÃ¼r diejenigen, die euch anfeinden!",
+      "kor": "<span class=\"verse-number\">28</span> ëí¬ë¥¼ ì ì£¼íë ìë¥¼ ìíì¬ ì¶ë³µíë©° ëí¬ë¥¼ ëª¨ìíë ìë¥¼ ìíì¬ ê¸°ëíë¼",
+      "ita": "<span class=\"verse-number\">28</span> benedite quelli che vi maledicono, pregate per quelli che vi oltraggiano."
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>And unto him that smiteth thee on the <span class=\"clarity-word\">one</span> cheek offer also the other; and him that taketh away thy cloak forbid not <span class=\"clarity-word\">to take thy</span> coat also.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙÙÙÙÙ Ø¶ÙØ±ÙØ¨ÙÙÙ Ø¹ÙÙÙÙ Ø®ÙØ¯ÙÙÙÙØ ÙÙØ§Ø¹ÙØ±ÙØ¶Ù ÙÙÙÙ Ø§ÙÙØ®ÙØ¯ÙÙ Ø§ÙØ¢Ø®ÙØ±Ù Ø£ÙÙÙØ¶Ø§Ù. ÙÙÙÙÙÙ Ø§ÙÙØªÙØ²ÙØ¹Ù Ø±ÙØ¯ÙØ§Ø¡ÙÙÙØ ÙÙÙØ§ ØªÙÙÙÙÙØ¹Ù Ø¹ÙÙÙÙÙ Ø«ÙÙÙØ¨ÙÙÙ Ø£ÙÙÙØ¶Ø§Ù.",
+      "jpn": "<span class=\"verse-number\">29</span> ããªãã®<ruby><rb>é ¬</rb><rt>ã»ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¤<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ã¯ã»ãã®<ruby><rb>é ¬</rb><rt>ã»ã</rt></ruby>ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã¦ãããããªãã®<ruby><rb>ä¸ç</rb><rt>ããã</rt></ruby>ã<ruby><rb>å¥ª</rb><rt>ãã°</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ã¯<ruby><rb>ä¸ç</rb><rt>ããã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã°</rt></ruby>ããªã",
+      "zhs": "<span class=\"verse-number\">29ã</span>æäººæä½ è¿è¾¹çè¸ï¼è¿é£è¾¹çè¸ä¹ç±ä»æï¼æäººå¤ºä½ çå¤è¡£ï¼è¿éè¡£ä¹ç±ä»æ¿å»ã",
+      "zht": "<span class=\"verse-number\">29ã</span>æäººæä½ ééçèï¼é£é£éçèä¹ç±ä»æï¼æäººå¥ªä½ çå¤è¡£ï¼é£è£¡è¡£ä¹ç±ä»æ¿å»ã",
+      "spa": "<span class=\"verse-number\">29</span> Y al que te golpee en la mejilla, presÃ©ntale tambiÃ©n la otra; y al que te quite la capa, ni aun la tÃºnica le niegues.",
+      "por": "<span class=\"verse-number\">29</span> Ao que te ferir numa face, oferece-lhe tambÃ©m a outra; e ao que te houver tirado a capa, nem a tÃºnica recuses;",
+      "fra": "<span class=\"verse-number\">29</span> Si quelquâun te frappe sur une joue, prÃ©sente-lui aussi lâautre. Si quelquâun prend ton manteau, ne lâempÃªche pas de prendre en plus ta tunique.",
+      "deu": "<span class=\"verse-number\">29 </span>Wer dich auf die Wange schlÃ¤gt, dem halte auch die andere hin, und wer dir den Mantel wegnimmt, dem verweigere auch den Rock nicht!",
+      "kor": "<span class=\"verse-number\">29</span> ëì ì´ ëº¨ì ì¹ë ììê² ì  ëº¨ë ëë ¤ëë©° ë¤ ê²ì·ì ë¹¼ìë ììê² ìì·ë ê±°ì íì§ ë§ë¼",
+      "ita": "<span class=\"verse-number\">29</span> A chi ti percuote su una guancia, porgigli anche lâaltra; e a chi ti toglie il mantello non impedire di prenderti anche la tunica."
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span>Give to every man that asketh of thee; and of him that taketh away thy goods ask <span class=\"clarity-word\">them</span> not again.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>Ø£ÙÙÙÙ ÙÙÙÙ Ø·ÙÙÙØ¨Ù ÙÙÙÙÙÙ Ø´ÙÙÙØ¦Ø§Ù ÙÙØ£ÙØ¹ÙØ·ÙÙÙØ ÙÙÙÙÙÙ Ø§ØºÙØªÙØµÙØ¨Ù ÙÙØ§ÙÙÙÙØ ÙÙÙØ§ ØªÙØ·ÙØ§ÙÙØ¨ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">30</span> ããªãã«<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ã¯<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãã¦ãããããªãã®<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å¥ª</rb><rt>ãã°</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããã¯<ruby><rb>å</rb><rt>ã¨</rt></ruby>ããã©ããã¨ãããªã",
+      "zhs": "<span class=\"verse-number\">30ã</span>å¡æ±ä½ çï¼å°±ç»ä»ï¼æäººå¤ºä½ çä¸è¥¿å»ï¼ä¸ç¨åè¦åæ¥ã",
+      "zht": "<span class=\"verse-number\">30ã</span>å¡æ±ä½ çï¼å°±çµ¦ä»ï¼æäººå¥ªä½ çæ±è¥¿å»ï¼ä¸ç¨åè¦åä¾ã",
+      "spa": "<span class=\"verse-number\">30</span> Y a cualquiera que te pida, dale; y al que tome lo que es tuyo, no se lo reclames.",
+      "por": "<span class=\"verse-number\">30</span> E dÃ¡ a qualquer que te pedir; e ao que tomar o <span class=\"clarity-word\">que Ã©</span> teu, nÃ£o lho tornes a pedir.",
+      "fra": "<span class=\"verse-number\">30</span> Donne Ã  quiconque te demande, et ne rÃ©clame pas ton bien Ã  celui qui sâen empare.",
+      "deu": "<span class=\"verse-number\">30 </span>Jedem, der dich <span class=\"clarity-word\">um etwas</span> bittet, dem gib, und wer dir das Deine nimmt, von dem fordere es nicht zurÃ¼ck!",
+      "kor": "<span class=\"verse-number\">30</span> ë¤ê² êµ¬íë ììê² ì£¼ë©° ë¤ ê²ì ê°ì ¸ê°ë ììê² ë¤ì ë¬ë¼ íì§ ë§ë©°",
+      "ita": "<span class=\"verse-number\">30</span> Daâ a chiunque ti chiede; e a chi ti toglie il tuo, non glielo ridomandare."
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span>And as ye would that men should do to you, do ye also to them likewise.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙØ¨ÙÙÙØ«ÙÙÙ ÙÙØ§ ØªÙØ±ÙÙØ¯ÙÙÙÙ Ø£ÙÙÙ ÙÙØ¹ÙØ§ÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙØ§Ø³Ù Ø¹ÙØ§ÙÙÙÙÙÙÙÙÙ Ø£ÙÙÙØªÙÙÙ Ø£ÙÙÙØ¶Ø§Ù.",
+      "jpn": "<span class=\"verse-number\">31</span> <ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã«ãã¦ã»ããã¨ãããªãããã®<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ããã¨ãã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã«ããã®ã¨ããã«ããã",
+      "zhs": "<span class=\"verse-number\">31ã</span>ä½ ä»¬æ¿æäººææ ·å¾ä½ ä»¬ï¼ä½ ä»¬ä¹è¦ææ ·å¾äººã",
+      "zht": "<span class=\"verse-number\">31ã</span>ä½ åé¡æäººææ¨£å¾ä½ åï¼ä½ åä¹è¦ææ¨£å¾äººã",
+      "spa": "<span class=\"verse-number\">31</span> Y asÃ­ como querÃ©is que los hombres hagan con vosotros, asÃ­ tambiÃ©n haced vosotros con ellos.",
+      "por": "<span class=\"verse-number\">31</span> E como vÃ³s quereis que os homens vos faÃ§am, da mesma maneira fazei-lhes vÃ³s tambÃ©m.",
+      "fra": "<span class=\"verse-number\">31</span> Ce que vous voulez que les hommes fassent pour vous, faites-le de mÃªme pour eux.",
+      "deu": "<span class=\"verse-number\">31 </span>Und wie ihr von den Leuten behandelt werden wollt, behandelt auch ihr sie ebenso!",
+      "kor": "<span class=\"verse-number\">31</span> ë¨ìê² ëì ì ë°ê³ ì íë ëë¡ ëí¬ë ë¨ì ëì íë¼",
+      "ita": "<span class=\"verse-number\">31</span> E come volete che gli uomini facciano a voi, fate voi pure a loro."
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span>For if ye love them which love you, what thank have ye? for sinners also love those that love them.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØ¥ÙÙÙ Ø£ÙØ­ÙØ¨ÙØ¨ÙØªÙÙÙ Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ­ÙØ¨ÙÙÙÙÙÙÙÙÙØ ÙÙØ£ÙÙÙÙ ÙÙØ¶ÙÙÙ ÙÙÙÙÙÙØ ÙÙØ¥ÙÙÙÙ Ø§ÙÙØ®ÙØ§Ø·ÙØ¦ÙÙÙÙ Ø£ÙÙÙØ¶Ø§Ù ÙÙØ­ÙØ¨ÙÙÙÙÙ Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ­ÙØ¨ÙÙÙÙÙÙÙÙÙ!",
+      "jpn": "<span class=\"verse-number\">32</span> <ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¦ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããããã¨ã¦ãã©ãã»ã©ã®<ruby><rb>ææ</rb><rt>ã¦ãã</rt></ruby>ã«ãªãããã<ruby><rb>ç½ªäºº</rb><rt>ã¤ã¿ã³ã¨</rt></ruby>ã§ããã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¦ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¦ããã",
+      "zhs": "<span class=\"verse-number\">32ã</span>ä½ ä»¬è¥åç±é£ç±ä½ ä»¬çäººï¼æä»ä¹å¯é¬è°¢çå¢ï¼å°±æ¯ç½ªäººä¹ç±é£ç±ä»ä»¬çäººã",
+      "zht": "<span class=\"verse-number\">32ã</span>ä½ åè¥å®æé£æä½ åçäººï¼æä»éº¼å¯é¬è¬çå¢ï¼å°±æ¯ç½ªäººä¹æé£æä»åçäººã",
+      "spa": "<span class=\"verse-number\">32</span> Porque si amÃ¡is a los que os aman, Â¿quÃ© mÃ©rito tenÃ©is?, pues tambiÃ©n los pecadores aman a los que los aman.",
+      "por": "<span class=\"verse-number\">32</span> E se amardes aos que vos amam, que recompensa tereis? Porque tambÃ©m os pecadores amam aos que os amam.",
+      "fra": "<span class=\"verse-number\">32</span> Si vous aimez ceux qui vous aiment, quelle reconnaissance vous doit-onÂ ? Les pÃ©cheurs aussi aiment ceux qui les aiment.",
+      "deu": "<span class=\"verse-number\">32 </span>Denn wenn ihr <span class=\"clarity-word\">nur</span> die liebt, die euch lieben: Welchen <span class=\"clarity-word\">Anspruch auf</span> Dank habt ihr dann? Auch die SÃ¼nder lieben ja diejenigen, die ihnen Liebe erweisen.",
+      "kor": "<span class=\"verse-number\">32</span> ëí¬ê° ë§ì¼ ëí¬ë¥¼ ì¬ëíë ìë§ì ì¬ëíë©´ ì¹­ì°¬ ë°ì ê²ì´ ë¬´ìì´ë ì£ì¸ë¤ë ì¬ëíë ìë ì¬ëíëëë¼",
+      "ita": "<span class=\"verse-number\">32</span> E se amate quelli che vi amano, quale grazia ve ne viene? PoichÃ© anche i peccatori amano quelli che li amano."
+    },
+    "33": {
+      "eng": "<span class=\"verse-number\">33 </span>And if ye do good to them which do good to you, what thank have ye? for sinners also do even the same.",
+      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>ÙÙØ¥ÙÙÙ Ø£ÙØ­ÙØ³ÙÙÙØªÙÙÙ ÙÙØ¹ÙØ§ÙÙÙÙØ©Ù Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ­ÙØ³ÙÙÙÙÙÙ ÙÙØ¹ÙØ§ÙÙÙÙØªÙÙÙÙÙØ ÙÙØ£ÙÙÙÙ ÙÙØ¶ÙÙÙ ÙÙÙÙÙÙØ ÙÙØ¥ÙÙÙÙ Ø§ÙÙØ®ÙØ§Ø·ÙØ¦ÙÙÙÙ Ø£ÙÙÙØ¶Ø§Ù ÙÙÙÙØ¹ÙÙÙÙÙÙ ÙÙÙØ°ÙØ§!",
+      "jpn": "<span class=\"verse-number\">33</span> <ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã«ãããã¦ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ããããã¨ã¦ãã©ãã»ã©ã®<ruby><rb>ææ</rb><rt>ã¦ãã</rt></ruby>ã«ãªãããã<ruby><rb>ç½ªäºº</rb><rt>ã¤ã¿ã³ã¨</rt></ruby>ã§ããããããããã®<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ã¯ãã¦ããã",
+      "zhs": "<span class=\"verse-number\">33ã</span>ä½ ä»¬è¥åå¾é£åå¾ä½ ä»¬çäººï¼æä»ä¹å¯é¬è°¢çå¢ï¼å°±æ¯ç½ªäººä¹æ¯è¿æ ·è¡ã",
+      "zht": "<span class=\"verse-number\">33ã</span>ä½ åè¥åå¾é£åå¾ä½ åçäººï¼æä»éº¼å¯é¬è¬çå¢ï¼å°±æ¯ç½ªäººä¹æ¯éæ¨£è¡ã",
+      "spa": "<span class=\"verse-number\">33</span> Y si hacÃ©is bien a los que os hacen bien, Â¿quÃ© mÃ©rito tenÃ©is?, porque tambiÃ©n los pecadores hacen lo mismo.",
+      "por": "<span class=\"verse-number\">33</span> E se fizerdes o bem aos que vos fazem o bem, que recompensa tereis? Porque tambÃ©m os pecadores fazem o mesmo.",
+      "fra": "<span class=\"verse-number\">33</span> Si vous faites du bien Ã  ceux qui vous font du bien, quelle reconnaissance vous doit-onÂ ? Les pÃ©cheurs aussi agissent de mÃªme.",
+      "deu": "<span class=\"verse-number\">33 </span>Und wenn ihr <span class=\"clarity-word\">nur</span> denen Gutes erweist, die euch Gutes tun: Welchen <span class=\"clarity-word\">Anspruch auf</span> Dank habt ihr dann? Auch die SÃ¼nder tun dasselbe.",
+      "kor": "<span class=\"verse-number\">33</span> ëí¬ê° ë§ì¼ ì ëíë ìë§ì ì ëíë©´ ì¹­ì°¬ ë°ì ê²ì´ ë¬´ìì´ë ì£ì¸ë¤ë ì´ë ê² íëëë¼",
+      "ita": "<span class=\"verse-number\">33</span> E se fate del bene a quelli che vi fanno del bene, quale grazia ve ne viene? Anche i peccatori fanno lo stesso."
+    },
+    "34": {
+      "eng": "<span class=\"verse-number\">34 </span>And if ye lend <span class=\"clarity-word\">to them</span> of whom ye hope to receive, what thank have ye? for sinners also lend to sinners, to receive as much again.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>ÙÙØ¥ÙÙÙ Ø£ÙÙÙØ±ÙØ¶ÙØªÙÙÙ Ø§ÙÙÙØ°ÙÙÙÙ ØªÙØ£ÙÙÙÙÙÙÙÙ Ø£ÙÙÙ ØªÙØ³ÙØªÙÙÙÙÙÙØ§ ÙÙÙÙÙÙÙÙØ ÙÙØ£ÙÙÙÙ ÙÙØ¶ÙÙÙ ÙÙÙÙÙÙØ ÙÙØ¥ÙÙÙÙ Ø§ÙÙØ®ÙØ§Ø·ÙØ¦ÙÙÙÙ Ø£ÙÙÙØ¶Ø§Ù ÙÙÙÙØ±ÙØ¶ÙÙÙÙ Ø§ÙÙØ®ÙØ§Ø·ÙØ¦ÙÙÙÙ ÙÙÙÙÙÙ ÙÙØ³ÙØªÙÙÙÙÙÙØ§ ÙÙÙÙÙÙÙÙ ÙÙØ§ ÙÙØ³ÙØ§ÙÙÙ ÙÙØ±ÙØ¶ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">34</span> ã¾ã<ruby><rb>è¿</rb><rt>ãã</rt></ruby>ãã¦ãããã¤ããã§<ruby><rb>è²¸</rb><rt>ã</rt></ruby>ããã¨ã¦ãã©ãã»ã©ã®<ruby><rb>ææ</rb><rt>ã¦ãã</rt></ruby>ã«ãªãããã<ruby><rb>ç½ªäºº</rb><rt>ã¤ã¿ã³ã¨</rt></ruby>ã§ãã<ruby><rb>å</rb><rt>ããª</rt></ruby>ãã ãã®ãã®ã<ruby><rb>è¿</rb><rt>ãã</rt></ruby>ãã¦ããããã¨ãã¦ã<ruby><rb>ä»²é</rb><rt>ãªãã¾</rt></ruby>ã«<ruby><rb>è²¸</rb><rt>ã</rt></ruby>ãã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">34ã</span>ä½ ä»¬è¥åç»äººï¼ææä»ä»æ¶åï¼æä»ä¹å¯é¬è°¢çå¢ï¼å°±æ¯ç½ªäººä¹åç»ç½ªäººï¼è¦å¦æ°æ¶åã",
+      "zht": "<span class=\"verse-number\">34ã</span>ä½ åè¥åçµ¦äººï¼ææå¾ä»æ¶åï¼æä»éº¼å¯é¬è¬çå¢ï¼å°±æ¯ç½ªäººä¹åçµ¦ç½ªäººï¼è¦å¦æ¸æ¶åã",
+      "spa": "<span class=\"verse-number\">34</span> Y si prestÃ¡is a aquellos de <span class=\"page-break\" data-page=\"1621\"></span>quienes esperÃ¡is recibir, Â¿quÃ© mÃ©rito tenÃ©is?, pues tambiÃ©n los pecadores prestan a los pecadores, para recibir otro tanto.",
+      "por": "<span class=\"verse-number\">34</span> E se emprestardes <span class=\"clarity-word\">Ã queles</span> de quem esperais tornar a receber, que recompensa tereis? Porque tambÃ©m os pecadores emprestam aos pecadores, para tornarem a receber outro tanto.",
+      "fra": "<span class=\"verse-number\">34</span> Et si vous prÃªtez Ã  ceux de qui vous espÃ©rez recevoir, quelle reconnaissance vous doit-onÂ ? Les pÃ©cheurs aussi prÃªtent aux pÃ©cheurs, afin de recevoir la pareille.",
+      "deu": "<span class=\"verse-number\">34 </span>Und wenn ihr denen leiht, von denen ihr <span class=\"clarity-word\">das Geliehene</span> zurÃ¼ckzuerhalten hofft: Welchen <span class=\"clarity-word\">Anspruch auf</span> Dank habt ihr dann? Auch die SÃ¼nder leihen den SÃ¼ndern, um ebenso viel zurÃ¼ckzuerhalten.",
+      "kor": "<span class=\"verse-number\">34</span> ëí¬ê° ë°ê¸°ë¥¼ ë°ë¼ê³  ì¬ëë¤ìê² ê¾¸ì´ ì£¼ë©´ ì¹­ì°¬ ë°ì ê²ì´ ë¬´ìì´ë ì£ì¸ë¤ë ê·¸ë§í¼ ë°ê³ ì íì¬ ì£ì¸ìê² ê¾¸ì´ ì£¼ëëë¼",
+      "ita": "<span class=\"verse-number\">34</span> E se prestate a quelli dai quali sperate di ricevere, quale grazia ne avete? Anche i peccatori prestano ai peccatori per riceverne altrettanto."
+    },
+    "35": {
+      "eng": "<span class=\"verse-number\">35 </span>But love ye your enemies, and do good, and lend, hoping for nothing again; and your reward shall be great, and ye shall be the children of the Highest: for he is kind unto the unthankful and <span class=\"clarity-word\">to</span> the evil.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¥ </span>ÙÙÙÙÙÙÙØ Ø£ÙØ­ÙØ¨ÙÙÙØ§ Ø£ÙØ¹ÙØ¯ÙØ§Ø¡ÙÙÙÙÙØ ÙÙØ£ÙØ­ÙØ³ÙÙÙÙØ§ Ø§ÙÙÙÙØ¹ÙØ§ÙÙÙÙØ©ÙØ ÙÙØ£ÙÙÙØ±ÙØ¶ÙÙØ§ Ø¯ÙÙÙÙ Ø£ÙÙÙ ØªÙØ£ÙÙÙÙÙÙØ§ Ø§Ø³ÙØªÙÙÙÙØ§Ø¡Ù Ø§ÙÙÙÙØ±ÙØ¶ÙØ ÙÙØªÙÙÙÙÙÙ ÙÙÙÙØ§ÙÙØ£ÙØªÙÙÙÙÙ Ø¹ÙØ¸ÙÙÙÙØ©ÙØ ÙÙØªÙÙÙÙÙÙÙØ§ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø§ÙÙØ¹ÙÙÙÙÙÙØ ÙØ£ÙÙÙÙÙÙ ÙÙÙÙØ¹ÙÙÙ Ø¹ÙÙÙÙ ÙÙØ§ÙÙØ±ÙÙ Ø§ÙÙØ¬ÙÙÙÙÙÙ ÙÙØ§ÙØ£ÙØ´ÙØ±ÙØ§Ø±Ù.",
+      "jpn": "<span class=\"verse-number\">35</span> ããããããªãããã¯ã<ruby><rb>æµ</rb><rt>ã¦ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã«ãããã¦ãããã¾ã<ruby><rb>ä½</rb><rt>ãªã«</rt></ruby>ã<ruby><rb>å½</rb><rt>ã</rt></ruby>ã¦ã«ããªãã§<ruby><rb>è²¸</rb><rt>ã</rt></ruby>ãã¦ãããããããã°<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>å ±</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ãããããªãããã¯ãã¨<ruby><rb>é«</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¨ãªãã§ãããããã¨<ruby><rb>é«</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã<ruby><rb>æ©</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãã¬<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«ã<ruby><rb>æªäºº</rb><rt>ããã«ã</rt></ruby>ã«ãããªãã<ruby><rb>æ·±</rb><rt>ã¶ã</rt></ruby>ãããã§ããã",
+      "zhs": "<span class=\"verse-number\">35ã</span>ä½ ä»¬åè¦ç±ä»æï¼ä¹è¦åå¾ä»ä»¬ï¼å¹¶è¦åç»äººä¸ææå¿è¿ï¼ä½ ä»¬çèµèµå°±å¿å¤§äºï¼ä½ ä»¬ä¹å¿ä½è³é«èçå¿å­ï¼å ä¸ºä»æ©å¾é£å¿æ©çåä½æ¶çã",
+      "zht": "<span class=\"verse-number\">35ã</span>ä½ ååè¦æä»æµï¼ä¹è¦åå¾ä»åï¼ä¸¦è¦åçµ¦äººä¸ææåéï¼ä½ åçè³è³å°±å¿å¤§äºï¼ä½ åä¹å¿ä½è³é«èçåå­ï¼å çºä»æ©å¾é£å¿æ©çåä½æ¡çã",
+      "spa": "<span class=\"verse-number\">35</span> Amad, pues, a vuestros enemigos, y haced bien y prestad, no esperando de ello nada; y vuestro galardÃ³n serÃ¡ grande, y serÃ©is hijos del AltÃ­simo, porque Ã©l es benigno para con los ingratos y los malos.",
+      "por": "<span class=\"verse-number\">35</span> Amai, pois, a vossos inimigos, e fazei o bem, e emprestai, sem nada esperardes, e serÃ¡ grande o vosso galardÃ£o, e sereis filhos do AltÃ­ssimo; porque ele Ã© benigno <span class=\"clarity-word\">atÃ©</span> para com os ingratos e maus.",
+      "fra": "<span class=\"verse-number\">35</span> Mais aimez vos ennemis, faites du bien et prÃªtez sans rien espÃ©rer. Et votre rÃ©compense sera grande, et vous serez fils du TrÃ¨s-Haut, car il est bon pour les ingrats et pour les mÃ©chants.",
+      "deu": "<span class=\"verse-number\">35 </span>Nein, liebt eure Feinde, tut Gutes und leiht, ohne etwas zurÃ¼ckzuerwarten! Dann wird euer Lohn groÃ sein, und ihr werdet SÃ¶hne des HÃ¶chsten sein; denn er ist gÃ¼tig <span class=\"clarity-word\">auch</span> zu den Undankbaren und den BÃ¶sen.",
+      "kor": "<span class=\"verse-number\">35</span> ì¤ì§ ëí¬ë ììë¥¼ ì¬ëíê³  ì ëíë©° ìë¬´ ê²ë ë°ë¼ì§ ë§ê³  ê¾¸ì´ ì£¼ë¼ ê·¸ë¦¬íë©´ ëí¬ ìì´ í´ ê²ì´ì ë ì§ê·¹í ëì¼ì  ì´ì ìë¤ì´ ëë¦¬ë ê·¸ë ìíë¥¼ ëª¨ë¥´ë ìì ìí ììê²ë ì¸ìíìëë¼",
+      "ita": "<span class=\"verse-number\">35</span> Ma amate i vostri nemici, e fate del bene e prestate senza sperarne alcunchÃ©, e il vostro premio sarÃ  grande e sarete figli dellâAltissimo; poichÃ© Egli Ã¨ benigno verso gli ingrati e i malvagi."
+    },
+    "36": {
+      "eng": "<span class=\"verse-number\">36 </span>Be ye therefore merciful, as your Father also is merciful.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¦ </span>ÙÙÙÙÙÙÙÙØ§ Ø£ÙÙÙØªÙÙÙ Ø±ÙØ­ÙÙÙØ§Ø¡ÙØ ÙÙÙÙØ§ Ø£ÙÙÙÙ Ø£ÙØ¨ÙØ§ÙÙÙÙ Ø±ÙØ­ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">36</span> ããªãããã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ãªã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>ææ²</rb><rt>ãã²</rt></ruby><ruby><rb>æ·±</rb><rt>ã¶ã</rt></ruby>ãããã«ãããªãããã<ruby><rb>ææ²</rb><rt>ãã²</rt></ruby><ruby><rb>æ·±</rb><rt>ã¶ã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¨ãªãã",
+      "zhs": "<span class=\"verse-number\">36ã</span>ä½ ä»¬è¦ææ²ï¼åä½ ä»¬çç¶ææ²ä¸æ ·ã",
+      "zht": "<span class=\"verse-number\">36ã</span>ä½ åè¦ææ²ï¼åä½ åçç¶ææ²ä¸æ¨£ã",
+      "spa": "<span class=\"verse-number\">36</span> Sed, pues, misericordiosos, como tambiÃ©n vuestro Padre es misericordioso.",
+      "por": "<span class=\"verse-number\">36</span> Sede, pois, misericordiosos, como tambÃ©m vosso Pai Ã© misericordioso.",
+      "fra": "<span class=\"verse-number\">36</span> Soyez donc misÃ©ricordieux, comme votre PÃ¨re est misÃ©ricordieux.",
+      "deu": "<span class=\"verse-number\">36 </span>Seid barmherzig, wie euer Vater barmherzig ist!",
+      "kor": "<span class=\"verse-number\">36</span> ëí¬ ìë²ì§ì ìë¹ë¡ì°ì¬ ê°ì´ ëí¬ë ìë¹ë¡ì´ ìê° ëë¼",
+      "ita": "<span class=\"verse-number\">36</span> Siate misericordiosi come Ã¨ misericordioso vostro Padre."
+    },
+    "37": {
+      "eng": "<span class=\"verse-number\">37 </span>Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven:",
+      "ara": "<span class=\"verse-number\">Ù£Ù§ </span>ÙÙÙØ§ ØªÙØ¯ÙÙÙÙÙØ§Ø ÙÙÙØ§ ØªÙØ¯ÙØ§ÙÙÙØ§. ÙÙØ§ ØªÙØ­ÙÙÙÙÙÙØ§ Ø¹ÙÙÙÙ Ø£ÙØ­ÙØ¯ÙØ ÙÙÙØ§ ÙÙØ­ÙÙÙÙÙ Ø¹ÙÙÙÙÙÙÙÙÙ. Ø§ØºÙÙÙØ±ÙÙØ§Ø ÙÙØºÙÙÙØ±Ù ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">37</span> <ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ããã°ããªãããããã°ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ããã°ããããã¨ããªãã§ããããã¾ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã«<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãããªãããããã°ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã«<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãããããã¨ããªãã§ãããããããã¦ãããããããã°ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ããããããã§ãããã",
+      "zhs": "<span class=\"verse-number\">37ã</span>ä½ ä»¬ä¸è¦è®ºæ­äººï¼å°±ä¸è¢«è®ºæ­ï¼ä½ ä»¬ä¸è¦å®äººçç½ªï¼å°±ä¸è¢«å®ç½ªï¼ä½ ä»¬è¦é¥¶æäººï¼å°±å¿èé¥¶æï¼",
+      "zht": "<span class=\"verse-number\">37ã</span>ä½ åä¸è¦è«æ·äººï¼å°±ä¸è¢«è«æ·ï¼ä½ åä¸è¦å®äººçç½ªï¼å°±ä¸è¢«å®ç½ªï¼ä½ åè¦é¥æäººï¼å°±å¿èé¥æï¼",
+      "spa": "<span class=\"verse-number\">37</span> No juzguÃ©is, y no serÃ©is juzgados; no condenÃ©is, y no serÃ©is condenados; perdonad, y serÃ©is perdonados.",
+      "por": "<span class=\"verse-number\">37</span> NÃ£o julgueis, e nÃ£o sereis julgados; nÃ£o condeneis, e nÃ£o sereis condenados; perdoai, e sereis perdoados.",
+      "fra": "<span class=\"verse-number\">37</span> Ne jugez pas, et vous ne serez pas jugÃ©sÂ ; ne condamnez pas, et vous ne serez pas condamnÃ©sÂ ; pardonnez, et vous serez pardonnÃ©s.",
+      "deu": "<span class=\"verse-number\">37 </span>Und richtet nicht, dann werdet ihr auch nicht gerichtet werden; und verurteilt nicht, dann werdet ihr auch nicht verurteilt werden; sprecht <span class=\"clarity-word\">eure Schuldner</span> frei, dann werdet ihr auch freigesprochen werden.",
+      "kor": "<span class=\"verse-number\">37</span> ë¹ííì§ ë§ë¼ ê·¸ë¦¬íë©´ ëí¬ê° ë¹íì ë°ì§ ìì ê²ì´ì ì ì£íì§ ë§ë¼ ê·¸ë¦¬íë©´ ëí¬ê° ì ì£ë¥¼ ë°ì§ ìì ê²ì´ì ì©ìíë¼ ê·¸ë¦¬íë©´ ëí¬ê° ì©ìë¥¼ ë°ì ê²ì´ì",
+      "ita": "<span class=\"verse-number\">37</span> Non giudicate, e non sarete giudicati; non condannate, e non sarete condannati; perdonate, e vi sarÃ  perdonato."
+    },
+    "38": {
+      "eng": "<span class=\"verse-number\">38 </span>Give, and it shall be given unto you; good measure, pressed down, and shaken together, and running over, shall men give into your bosom. For with the same measure that ye mete withal it shall be measured to you again.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¨ </span>Ø£ÙØ¹ÙØ·ÙÙØ§Ø ØªÙØ¹ÙØ·ÙÙÙØ§: ÙÙØ¥ÙÙÙÙÙÙÙÙ ØªÙØ¹ÙØ·ÙÙÙÙÙ ÙÙÙ Ø£ÙØ­ÙØ¶ÙØ§ÙÙÙÙÙÙ ÙÙÙÙÙØ§Ù Ø¬ÙÙÙÙØ¯Ø§Ù ÙÙÙÙØ¨ÙÙØ¯Ø§Ù ÙÙÙÙØ²ÙÙØ²Ø§Ù ÙÙØ§Ø¦ÙØ¶Ø§ÙØ ÙØ£ÙÙÙÙÙÙ Ø¨ÙØ§ÙÙÙÙÙÙÙÙ Ø§ÙÙÙØ°ÙÙ Ø¨ÙÙÙ ØªÙÙÙÙÙÙÙÙÙØ ÙÙÙÙØ§ÙÙ ÙÙÙÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">38</span> <ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããããããã°ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã«ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããã§ãããã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã¯ãã<ruby><rb>å¥</rb><rt>ã</rt></ruby>ããããã<ruby><rb>å¥</rb><rt>ã</rt></ruby>ããããµã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ãã¾ã§ã«<ruby><rb>é</rb><rt>ããã</rt></ruby>ããããã¦ãããªãããã®ãµã¨ããã«<ruby><rb>å¥</rb><rt>ã</rt></ruby>ãã¦ãããã§ããããããªãããã®<ruby><rb>é</rb><rt>ã¯ã</rt></ruby>ããã®<ruby><rb>é</rb><rt>ã¯ã</rt></ruby>ãã§ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã«ã<ruby><rb>é</rb><rt>ã¯ã</rt></ruby>ããããããã§ããããããã",
+      "zhs": "<span class=\"verse-number\">38ã</span>ä½ ä»¬è¦ç»äººï¼å°±å¿æç»ä½ ä»¬çï¼å¹¶ä¸ç¨åè¶³çåæï¼è¿æå¸¦æï¼ä¸å°ä¸æµå°åå¨ä½ ä»¬æéï¼å ä¸ºä½ ä»¬ç¨ä»ä¹éå¨éç»äººï¼ä¹å¿ç¨ä»ä¹éå¨éç»ä½ ä»¬ã",
+      "zht": "<span class=\"verse-number\">38ã</span>ä½ åè¦çµ¦äººï¼å°±å¿æçµ¦ä½ åçï¼ä¸¦ä¸ç¨åè¶³çåæï¼é£æå¸¶æï¼ä¸å°ä¸æµå°åå¨ä½ åæ·è£¡ï¼å çºä½ åç¨ä»éº¼éå¨éçµ¦äººï¼ä¹å¿ç¨ä»éº¼éå¨éçµ¦ä½ åã",
+      "spa": "<span class=\"verse-number\">38</span> Dad, y se os darÃ¡; medida buena, apretada, remecida y rebosante se os darÃ¡ en vuestro regazo, porque con la misma medida con que midiereis, se os volverÃ¡ a medir.",
+      "por": "<span class=\"verse-number\">38</span> Dai, e ser-vos-Ã¡ dado; boa medida, recalcada, sacudida e transbordando vos porÃ£o no vosso regaÃ§o; porque com a mesma medida com que medirdes vos tornarÃ£o a medir.",
+      "fra": "<span class=\"verse-number\">38</span> Donnez, et il vous sera donnÃ©Â : on versera dans le pan de votre vÃªtement une bonne mesure, tassÃ©e, secouÃ©e et qui dÃ©bordeÂ ; car on vous mesurera avec la mesure dont vous vous serez servis.",
+      "deu": "<span class=\"verse-number\">38 </span>Gebt, dann wird auch euch gegeben werden: Ein reichliches, festgedrÃ¼cktes, gerÃ¼tteltes und Ã¼bervolles MaÃ wird man euch in den SchoÃ schÃ¼tten; denn mit demselben MaÃ, mit dem ihr zumesst, wird euch auch zugemessen werden.â",
+      "kor": "<span class=\"verse-number\">38</span> ì£¼ë¼ ê·¸ë¦¬íë©´ ëí¬ìê² ì¤ ê²ì´ë ê³§ íí ëì´ ëë¥´ê³  íë¤ì´ ëì¹ëë¡ íì¬ ëí¬ìê² ìê²¨ ì£¼ë¦¬ë¼ ëí¬ê° í¤ìë¦¬ë ê·¸ í¤ìë¦¼ì¼ë¡ ëí¬ë í¤ìë¦¼ì ëë¡ ë°ì ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">38</span> Date, e vi sarÃ  dato: vi sarÃ  versata in seno buona misura, pigiata, scossa, traboccante; perchÃ© con la misura con cui misurate sarÃ  rimisurato a voiâ."
+    },
+    "39": {
+      "eng": "<span class=\"verse-number\">39 </span>And he spake a parable unto them, Can the blind lead the blind? shall they not both fall into the ditch?",
+      "ara": "<span class=\"verse-number\">Ù£Ù© </span>ÙÙØ£ÙØ®ÙØ°Ù ÙÙØ¶ÙØ±ÙØ¨Ù ÙÙÙÙÙÙ Ø§ÙÙÙÙØ«ÙÙÙØ ÙÙÙÙØ§ÙÙ: âÙÙÙÙ ÙÙÙÙØ¯ÙØ±Ù Ø§ÙØ£ÙØ¹ÙÙÙÙ Ø£ÙÙÙ ÙÙÙÙÙØ¯Ù Ø£ÙØ¹ÙÙÙÙØ Ø£ÙÙØ§ ÙÙØ³ÙÙÙØ·ÙØ§ÙÙ ÙÙØ¹Ø§Ù ÙÙÙ Ø­ÙÙÙØ±ÙØ©ÙØ",
+      "jpn": "<span class=\"verse-number\">39</span> ã¤ã¨ã¹ã¯ã¾ãä¸ã¤ã®<ruby><rb>è­¬</rb><rt>ãã¨ã</rt></ruby>ã<ruby><rb>èª</rb><rt>ãã</rt></ruby>ããããã<ruby><rb>ç²äºº</rb><rt>ãããã</rt></ruby>ã¯<ruby><rb>ç²äºº</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>æå¼</rb><rt>ã¦ã³ã</rt></ruby>ãã§ããããããµããã¨ã<ruby><rb>ç©´</rb><rt>ããª</rt></ruby>ã«<ruby><rb>è½</rb><rt>ã</rt></ruby>ã¡<ruby><rb>è¾¼</rb><rt>ã</rt></ruby>ã¾ãªãã ãããã",
+      "zhs": "<span class=\"verse-number\">39ã</span>è¶ç¨£åç¨æ¯å»å¯¹ä»ä»¬è¯´ï¼çå­å²è½é¢çå­ï¼ä¸¤ä¸ªäººä¸æ¯é½è¦æå¨åéåï¼",
+      "zht": "<span class=\"verse-number\">39ã</span>è¶ç©åç¨æ¯å»å°ä»åèªªï¼çå­è±è½é çå­ï¼å©åäººä¸æ¯é½è¦æå¨åè£¡åï¼",
+      "spa": "<span class=\"verse-number\">39</span> Y les dijo una parÃ¡bola: Â¿Puede un ciego guiar a otro ciego? Â¿No caerÃ¡n ambos en el hoyo?",
+      "por": "<span class=\"verse-number\">39</span> E contou-lhes uma parÃ¡bola: Pode porventura o cego guiar o cego? nÃ£o cairÃ£o ambos na cova?",
+      "fra": "<span class=\"verse-number\">39</span> Il leur dit aussi cette paraboleÂ : Un aveugle peut-il conduire un aveugleÂ ? Ne tomberont-ils pas tous deux dans une fosseÂ ?",
+      "deu": "<span class=\"verse-number\">39 </span>Er legte ihnen dann auch ein Gleichnis vor: âKann wohl ein Blinder einen Blinden fÃ¼hren? Werden sie nicht beide in die Grube fallen?",
+      "kor": "<span class=\"verse-number\">39</span> ë ë¹ì ë¡ ë§ìíìë ë§¹ì¸ì´ ë§¹ì¸ì ì¸ëí  ì ìëë ëì´ ë¤ êµ¬ë©ì´ì ë¹ ì§ì§ ìëíê² ëë",
+      "ita": "<span class=\"verse-number\">39</span> Poi disse loro anche una parabola: âUn cieco puÃ² forse guidare un cieco? Non cadranno tutti e due nella fossa?"
+    },
+    "40": {
+      "eng": "<span class=\"verse-number\">40 </span>The disciple is not above his master: but every one that is perfect shall be as his master.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù  </span>ÙÙÙÙØ³Ù Ø§ÙØªÙÙÙÙÙÙÙØ°Ù Ø£ÙÙÙØ¶ÙÙÙ ÙÙÙÙ ÙÙØ¹ÙÙÙÙÙÙÙÙØ Ø¨ÙÙÙ ÙÙÙÙÙ ÙÙÙÙ ÙÙØªÙÙÙÙÙÙÙÙ ÙÙØµÙÙØ±Ù ÙÙØ«ÙÙÙ ÙÙØ¹ÙÙÙÙÙÙÙÙ!",
+      "jpn": "<span class=\"verse-number\">40</span> <ruby><rb>å¼å­</rb><rt>ã§ã</rt></ruby>ã¯ãã®<ruby><rb>å¸«</rb><rt>ã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®ãã®ã§ã¯ãªããã<ruby><rb>ä¿®æ¥­</rb><rt>ãããããã</rt></ruby>ãã¤ãã°ãã¿ãªãã®<ruby><rb>å¸«</rb><rt>ã</rt></ruby>ã®ããã«ãªããã",
+      "zhs": "<span class=\"verse-number\">40ã</span>å­¦çä¸è½é«è¿åçï¼å¡å­¦æäºçä¸è¿ååçä¸æ ·ã",
+      "zht": "<span class=\"verse-number\">40ã</span>å­¸çä¸è½é«éåçï¼å¡å­¸æäºçä¸éååçä¸æ¨£ã",
+      "spa": "<span class=\"verse-number\">40</span> El discÃ­pulo no es superior a su maestro; pero todo el que sea perfeccionado serÃ¡ como su maestro.",
+      "por": "<span class=\"verse-number\">40</span> O discÃ­pulo nÃ£o estÃ¡ acima do seu mestre, mas todo o que for perfeito serÃ¡ como o seu mestre.",
+      "fra": "<span class=\"verse-number\">40</span> Le disciple nâest pas au-dessus de son maÃ®treÂ ; mais tout disciple accompli sera comme son maÃ®tre.",
+      "deu": "<span class=\"verse-number\">40 </span>Der JÃ¼nger steht nicht Ã¼ber seinem Meister: Jeder <span class=\"clarity-word\">JÃ¼nger</span> wird, wenn er alles gelernt hat, immer nur wie sein Meister sein.",
+      "kor": "<span class=\"verse-number\">40</span> ì ìê° ê·¸ ì ìë³´ë¤ ëì§ ëª»íë ë¬´ë¦ ì¨ì íê² ë ìë ê·¸ ì ìê³¼ ê°ì¼ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">40</span> Un discepolo non Ã¨ da piÃ¹ del maestro; ma ogni discepolo perfetto sarÃ  come il suo maestro."
+    },
+    "41": {
+      "eng": "<span class=\"verse-number\">41 </span>And why beholdest thou the mote that is in thy brotherâs eye, but perceivest not the beam that is in thine own eye?",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¡ </span>ÙÙÙÙÙÙØ§Ø°ÙØ§ ØªÙÙØ§Ø­ÙØ¸Ù Ø§ÙÙÙÙØ´ÙÙØ©Ù ÙÙÙ Ø¹ÙÙÙÙÙ Ø£ÙØ®ÙÙÙÙØ ÙÙÙÙÙÙÙÙÙÙ ÙÙØ§ ØªÙØªÙÙÙØ¨ÙÙÙÙ Ø¥ÙÙÙÙ Ø§ÙÙØ®ÙØ´ÙØ¨ÙØ©Ù Ø§ÙÙÙÙØ¨ÙÙØ±ÙØ©Ù ÙÙÙ Ø¹ÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">41</span> ãªãã<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã«ããã¡ãã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãªããã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã«ãã<ruby><rb>æ¢</rb><rt>ã¯ã</rt></ruby>ã<ruby><rb>èª</rb><rt>ã¿ã¨</rt></ruby>ããªãã®ãã",
+      "zhs": "<span class=\"verse-number\">41ã</span>ä¸ºä»ä¹çè§ä½ å¼åç¼ä¸­æåºï¼å´ä¸æ³èªå·±ç¼ä¸­ææ¢æ¨å¢ï¼",
+      "zht": "<span class=\"verse-number\">41ã</span>çºä»éº¼çè¦ä½ å¼åç¼ä¸­æåºï¼å»ä¸æ³èªå·±ç¼ä¸­ææ¨æ¨å¢ï¼",
+      "spa": "<span class=\"verse-number\">41</span> Â¿Por quÃ© miras la paja que estÃ¡ en el ojo de tu hermano y no consideras la viga que estÃ¡ en tu propio ojo?",
+      "por": "<span class=\"verse-number\">41</span> E por que atentas tu no argueiro que estÃ¡ no olho do teu irmÃ£o, e nÃ£o reparas na trave que estÃ¡ no teu prÃ³prio olho?",
+      "fra": "<span class=\"verse-number\">41</span> Pourquoi vois-tu la paille qui est dans lâ Åil de ton frÃ¨re, et nâaperÃ§ois-tu pas la poutre qui est dans ton ÅilÂ ?",
+      "deu": "<span class=\"verse-number\">41 </span>Was siehst du aber den Splitter im Auge deines Bruders, wÃ¤hrend du den Balken in deinem eigenen Auge nicht wahrnimmst?",
+      "kor": "<span class=\"verse-number\">41</span> ì´ì°íì¬ íì ì ë ìì ìë í°ë ë³´ê³  ë¤ ë ìì ìë ë¤ë³´ë ê¹¨ë«ì§ ëª»íëë",
+      "ita": "<span class=\"verse-number\">41</span> Ora, perchÃ© guardi tu il bruscolo che Ã¨ nellâocchio di tuo fratello, mentre non scorgi la trave che Ã¨ nel tuo proprio occhio?"
+    },
+    "42": {
+      "eng": "<span class=\"verse-number\">42 </span>Either how canst thou say to thy brother, Brother, let me pull out the mote that is in thine eye, when thou thyself beholdest not the beam that is in thine own eye? Thou hypocrite, cast out first the beam out of thine own eye, and then shalt thou see clearly to pull out the mote that is in thy brotherâs eye.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¢ </span>Ø£ÙÙÙ ÙÙÙÙÙÙ ØªÙÙÙØ¯ÙØ±Ù Ø£ÙÙÙ ØªÙÙÙÙÙÙ ÙØ£ÙØ®ÙÙÙÙ: ÙÙØ§ Ø£ÙØ®ÙÙØ Ø¯ÙØ¹ÙÙÙÙ Ø£ÙØ®ÙØ±ÙØ¬Ù Ø§ÙÙÙÙØ´ÙÙØ©Ù Ø§ÙÙÙØªÙÙ ÙÙÙ Ø¹ÙÙÙÙÙÙÙ! ÙÙØ£ÙÙÙØªÙ ÙÙØ§ ØªÙÙØ§Ø­ÙØ¸Ù Ø§ÙØ®ÙØ´ÙØ¨ÙØ©Ù Ø§ÙÙÙØªÙÙ ÙÙ Ø¹ÙÙÙÙÙÙÙ Ø£ÙÙÙØªÙ. ÙÙØ§ ÙÙÙÙØ§ÙÙÙÙØ Ø£ÙØ®ÙØ±ÙØ¬Ù Ø£ÙÙÙÙÙØ§Ù Ø§ÙÙØ®ÙØ´ÙØ¨ÙØ©Ù ÙÙÙÙ Ø¹ÙÙÙÙÙÙÙØ ÙÙØ¹ÙÙÙØ¯ÙØ¦ÙØ°Ù ØªÙØ¨ÙØµÙØ±Ù Ø¬ÙÙÙÙØ¯Ø§Ù ÙÙØªÙØ®ÙØ±ÙØ¬Ù Ø§ÙÙÙÙØ´ÙÙØ©Ù Ø§ÙÙÙØªÙÙ ÙÙÙ Ø¹ÙÙÙÙÙ Ø£ÙØ®ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">42</span> <ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã«ãã<ruby><rb>æ¢</rb><rt>ã¯ã</rt></ruby>ã¯<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãªãã§ãã¦ãã©ããã¦<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã«ããã£ã¦ã<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ããããªãã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã«ããã¡ãã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ããã¦ãã ãããã¨<ruby><rb>è¨</rb><rt>ã</rt></ruby>ããããã<ruby><rb>å½åè</rb><rt>ããããã</rt></ruby>ããã¾ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ãã<ruby><rb>æ¢</rb><rt>ã¯ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ãã®ããããããããããã°ãã¯ã£ãã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããããã«ãªã£ã¦ã<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã«ããã¡ãã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ãã®ãããã¨ãã§ããã ããã",
+      "zhs": "<span class=\"verse-number\">42ã</span>ä½ ä¸è§èªå·±ç¼ä¸­ææ¢æ¨ï¼æè½å¯¹ä½ å¼åè¯´ï¼å®¹æå»æä½ ç¼ä¸­çåºå¢ï¼ä½ è¿ååä¸ºåçäººï¼åå»æèªå·±ç¼ä¸­çæ¢æ¨ï¼ç¶åæè½çå¾æ¸æ¥ï¼å»æä½ å¼åç¼ä¸­çåºã",
+      "zht": "<span class=\"verse-number\">42ã</span>ä½ ä¸è¦èªå·±ç¼ä¸­ææ¨æ¨ï¼æè½å°ä½ å¼åèªªï¼å®¹æå»æä½ ç¼ä¸­çåºå¢ï¼ä½ éååçºåçäººï¼åå»æèªå·±ç¼ä¸­çæ¨æ¨ï¼ç¶å¾æè½çå¾æ¸æ¥ï¼å»æä½ å¼åç¼ä¸­çåºã",
+      "spa": "<span class=\"verse-number\">42</span> Â¿O cÃ³mo puedes decir a tu hermano: Hermano, dÃ©jame sacar la paja que estÃ¡ en tu ojo, no mirando tÃº la viga que estÃ¡ en tu ojo? Â¡HipÃ³crita!, saca primero la viga de tu propio ojo y entonces verÃ¡s bien para sacar la paja que estÃ¡ en el ojo de tu hermano.",
+      "por": "<span class=\"verse-number\">42</span> Ou como podes dizer a teu irmÃ£o: IrmÃ£o, deixa-me tirar o argueiro que estÃ¡ no teu olho; nÃ£o atentando tu mesmo na trave que estÃ¡ no teu olho? HipÃ³crita, tira primeiro a trave do teu olho, e entÃ£o verÃ¡s bem para tirar o argueiro que estÃ¡ no olho do teu irmÃ£o.",
+      "fra": "<span class=\"verse-number\">42</span> Ou comment peux-tu dire Ã  ton frÃ¨reÂ : FrÃ¨re, laisse-moi Ã´ter la paille qui est dans ton oeil, toi qui ne vois pas la poutre qui est dans le tienÂ ? Hypocrite, Ã´te dâabord la poutre de ton oeil, et alors tu verras clair pour Ã´ter la paille qui est dans lâoeil de ton frÃ¨re.",
+      "deu": "<span class=\"verse-number\">42 </span>Oder wie darfst du zu deinem Bruder sagen: âBruder, lass mich den Splitter, der in deinem Auge steckt, herausziehenâ, wÃ¤hrend du den Balken in deinem eigenen Auge nicht gewahrst? Du Heuchler! Ziehe zuerst den Balken aus deinem Auge, dann kannst du zusehen, dass du den Splitter herausziehst, der im Auge deines Bruders steckt.",
+      "kor": "<span class=\"verse-number\">42</span> ëë ë¤ ë ìì ìë ë¤ë³´ë¥¼ ë³´ì§ ëª»íë©´ì ì´ì°íì¬ íì ìê² ë§íê¸°ë¥¼ íì ì¬ ëë¡ ë¤ ë ìì ìë í°ë¥¼ ë¹¼ê² íë¼ í  ì ìëë ì¸ìíë ìì¬ ë¨¼ì  ë¤ ë ììì ë¤ë³´ë¥¼ ë¹¼ë¼ ê·¸ íìì¼ ë¤ê° ë°í ë³´ê³  íì ì ë ìì ìë í°ë¥¼ ë¹¼ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">42</span> Come puoi dire a tuo fratello: âFratello, lascia che io ti tolga il bruscolo che hai nellâocchioâ, mentre tu stesso non vedi la trave che Ã¨ nel tuo occhio? Ipocrita, togli prima dal tuo occhio la trave, e allora ci vedrai bene per togliere il bruscolo che Ã¨ nellâocchio di tuo fratello."
+    },
+    "43": {
+      "eng": "<span class=\"verse-number\">43 </span>For a good tree bringeth not forth corrupt fruit; neither doth a corrupt tree bring forth good fruit.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù£ </span>ÙÙØ¥ÙÙÙÙÙÙ ÙÙØ§ ÙÙÙÙ Ø´ÙØ¬ÙØ±ÙØ©Ù Ø¬ÙÙÙÙØ¯ÙØ©Ù ØªÙÙÙØªÙØ¬Ù Ø«ÙÙÙØ±Ø§Ù Ø±ÙØ¯ÙÙØ¦Ø§ÙØ ÙÙÙØ§ Ø´ÙØ¬ÙØ±ÙØ©Ù Ø±ÙØ¯ÙÙØ¦ÙØ©Ù ØªÙÙÙØªÙØ¬Ù Ø«ÙÙÙØ±Ø§Ù Ø¬ÙÙÙÙØ¯Ø§Ù:",
+      "jpn": "<span class=\"verse-number\">43</span> <ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>å®</rb><rt>ã¿</rt></ruby>ã®ãªã<ruby><rb>è¯</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã¯ãªãããã¾ã<ruby><rb>è¯</rb><rt>ã</rt></ruby>ã<ruby><rb>å®</rb><rt>ã¿</rt></ruby>ã®ãªã<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ¨</rb><rt>ã</rt></ruby>ããªãã",
+      "zhs": "<span class=\"verse-number\">43ã</span>å ä¸ºï¼æ²¡æå¥½æ ç»åæå­ï¼ä¹æ²¡æåæ ç»å¥½æå­ã",
+      "zht": "<span class=\"verse-number\">43ã</span>å çºï¼æ²æå¥½æ¨¹çµå£æå­ï¼ä¹æ²æå£æ¨¹çµå¥½æå­ã",
+      "spa": "<span class=\"verse-number\">43</span> Porque no es buen Ã¡rbol el que da malos frutos; ni Ã¡rbol malo el que da buen fruto.",
+      "por": "<span class=\"verse-number\">43</span> Porque nÃ£o hÃ¡ boa Ã¡rvore que dÃª mau fruto, nem mÃ¡ Ã¡rvore que dÃª bom fruto.",
+      "fra": "<span class=\"verse-number\">43</span> En effet, il nây a pas de bon arbre qui porte du mauvais fruit, ni de mauvais arbre qui porte du bon fruit.",
+      "deu": "<span class=\"verse-number\">43 </span>Denn es gibt keinen guten Baum, der schlechte FrÃ¼chte bringt, und umgekehrt keinen schlechten Baum, der gute FrÃ¼chte bringt.",
+      "kor": "<span class=\"verse-number\">43</span> ëª»ë ì´ë§¤ ë§ºë ì¢ì ëë¬´ê° ìê³  ë ì¢ì ì´ë§¤ ë§ºë ëª»ë ëë¬´ê° ìëëë¼",
+      "ita": "<span class=\"verse-number\">43</span> Non câÃ¨ infatti albero buono che faccia frutto cattivo, nÃ© câÃ¨ albero cattivo che faccia frutto buono;"
+    },
+    "44": {
+      "eng": "<span class=\"verse-number\">44 </span>For every tree is known by his own fruit. For of thorns men do not gather figs, nor of a bramble bush gather they grapes.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¤ </span>ÙØ£ÙÙÙÙ ÙÙÙÙÙ Ø´ÙØ¬ÙØ±ÙØ©Ù ØªÙØ¹ÙØ±ÙÙÙ ÙÙÙÙ Ø«ÙÙÙØ±ÙÙÙØ§. ÙÙÙØ§ ÙÙØ¬ÙÙÙÙ ÙÙÙÙ Ø§ÙØ´ÙÙÙÙÙÙ ØªÙÙÙÙØ ÙÙÙØ§ ÙÙÙÙØ·ÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙÙÙÙÙÙ Ø¹ÙÙÙØ¨Ù.",
+      "jpn": "<span class=\"verse-number\">44</span> <ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã¯ããããããã®<ruby><rb>å®</rb><rt>ã¿</rt></ruby>ã§ãããããã°ããããã¡ããã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ããã¨ã¯ãªããã<ruby><rb>é</rb><rt>ã®</rt></ruby>ã°ãããã¶ã©ãã<ruby><rb>æ</rb><rt>ã¤</rt></ruby>ããã¨ããªãã",
+      "zhs": "<span class=\"verse-number\">44ã</span>å¡æ æ¨çæå­ï¼å°±å¯ä»¥è®¤åºå®æ¥ãäººä¸æ¯ä»èæ£ä¸ææ è±æï¼ä¹ä¸æ¯ä»èºèéæè¡èã",
+      "zht": "<span class=\"verse-number\">44ã</span>å¡æ¨¹æ¨çæå­ï¼å°±å¯ä»¥èªåºå®ä¾ãäººä¸æ¯å¾èæ£ä¸æç¡è±æï¼ä¹ä¸æ¯å¾èºèè£¡æè¡èã",
+      "spa": "<span class=\"verse-number\">44</span> Porque cada Ã¡rbol se conoce por su fruto, pues no se recogen higos de los espinos, ni se vendimian uvas de las zarzas.",
+      "por": "<span class=\"verse-number\">44</span> Porque cada Ã¡rvore se conhece pelo seu prÃ³prio fruto; pois nÃ£o se colhem figos dos espinheiros, nem se vindimam uvas dos abrolhos.",
+      "fra": "<span class=\"verse-number\">44</span> Car chaque arbre se reconnaÃ®t Ã  son fruit. On ne cueille pas des figues sur des Ã©pines, et lâon ne vendange pas des raisins sur des ronces.",
+      "deu": "<span class=\"verse-number\">44 </span>Jeden Baum erkennt man ja an seinen FrÃ¼chten; denn von Disteln sammelt man keine Feigen, und von einem Dornbusch kann man keine Trauben lesen.",
+      "kor": "<span class=\"verse-number\">44</span> ëë¬´ë ê°ê° ê·¸ ì´ë§¤ë¡ ìëë ê°ìëë¬´ìì ë¬´íê³¼ë¥¼, ëë ì°ë ìì í¬ëë¥¼ ë°ì§ ëª»íëëë¼",
+      "ita": "<span class=\"verse-number\">44</span> poichÃ© ogni albero si riconosce dal suo proprio frutto; perchÃ© non si colgono fichi dalle spine, nÃ© si vendemmia uva dal pruno."
+    },
+    "45": {
+      "eng": "<span class=\"verse-number\">45 </span>A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¥ </span>Ø¥ÙÙÙÙ Ø§ÙØ¥ÙÙÙØ³ÙØ§ÙÙ Ø§ÙØµÙÙØ§ÙÙØ­ÙØ ÙÙÙÙ ÙÙÙÙØ²ÙÙÙ Ø§ÙØµÙÙØ§ÙÙØ­Ù ÙÙÙ ÙÙÙÙØ¨ÙÙÙ ÙÙØ·ÙÙÙØ¹Ù ÙÙØ§ ÙÙÙÙ ØµÙØ§ÙÙØ­Ù. Ø£ÙÙÙÙØ§ Ø§ÙØ´ÙÙØ±ÙÙÙØ±ÙØ ÙÙÙÙÙÙ ÙÙÙÙØ²ÙÙÙ Ø§ÙØ´ÙÙØ±ÙÙÙØ±Ù ÙÙØ·ÙÙÙØ¹Ù ÙÙØ§ ÙÙÙÙ Ø´ÙØ±ÙÙÙØ±Ù: ÙØ£ÙÙÙÙÙÙ ÙÙÙÙ ÙÙÙÙØ¶Ù Ø§ÙÙÙÙÙÙØ¨Ù ÙÙØªÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">45</span> <ruby><rb>åäºº</rb><rt>ããã«ã</rt></ruby>ã¯<ruby><rb>è¯</rb><rt>ã</rt></ruby>ã<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ã®<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è¯</rb><rt>ã</rt></ruby>ã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã<ruby><rb>æªäºº</rb><rt>ããã«ã</rt></ruby>ã¯<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æª</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ããããµã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ãã<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ã<ruby><rb>èª</rb><rt>ãã</rt></ruby>ããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">45ã</span>åäººä»ä»å¿éæå­çåå°±ååºåæ¥ï¼æ¶äººä»ä»<span class=\"clarity-word\">å¿é</span>æå­çæ¶å°±ååºæ¶æ¥ï¼å ä¸ºå¿éæåæ»¡çï¼å£éå°±è¯´åºæ¥ã",
+      "zht": "<span class=\"verse-number\">45ã</span>åäººå¾ä»å¿è£¡æå­çåå°±ç¼åºåä¾ï¼æ¡äººå¾ä»<span class=\"clarity-word\">å¿è£¡</span>æå­çæ¡å°±ç¼åºæ¡ä¾ï¼å çºå¿è£¡æåæ»¿çï¼å£è£¡å°±èªªåºä¾ã",
+      "spa": "<span class=\"verse-number\">45</span> El hombre bueno, del buen tesoro de su corazÃ³n saca el bien; y el hombre malo, del mal tesoro de su corazÃ³n saca el mal; porque de la abundancia del corazÃ³n habla la boca.",
+      "por": "<span class=\"verse-number\">45</span> O homem bom do bom <span class=\"page-break\" data-page=\"1562\"></span>tesouro do seu coraÃ§Ã£o tira o bem, e o homem mau do mau tesouro do seu coraÃ§Ã£o tira o mal, porque da abundÃ¢ncia do seu coraÃ§Ã£o fala a boca.",
+      "fra": "<span class=\"verse-number\">45</span> Lâhomme bon tire de bonnes choses du bon trÃ©sor de son cÅur, et le mÃ©chant tire de mauvaises choses de son mauvais trÃ©sorÂ ; car câest de lâabondance du cÅur que la bouche parle.",
+      "deu": "<span class=\"verse-number\">45 </span>Ein guter Mensch bringt aus der guten Schatzkammer seines Herzens das Gute hervor, wÃ¤hrend ein bÃ¶ser Mensch aus der bÃ¶sen <span class=\"clarity-word\">Schatzkammer seines Herzens</span> das BÃ¶se hervorbringt; denn wovon das Herz voll ist, davon redet sein Mund.",
+      "kor": "<span class=\"verse-number\">45</span> ì í ì¬ëì ë§ìì ìì ì ìì ì ì ë´ê³  ìí ìë ê·¸ ìì ììì ìì ë´ëë ì´ë ë§ìì ê°ëí ê²ì ìì¼ë¡ ë§í¨ì´ëë¼",
+      "ita": "<span class=\"verse-number\">45</span> Lâuomo buono dal buon tesoro del suo cuore tira fuori il bene; e lâuomo malvagio, dal malvagio tesoro tira fuori il male; poichÃ© dallâabbondanza del cuore parla la sua bocca."
+    },
+    "46": {
+      "eng": "<span class=\"verse-number\">46 </span><span class=\"para-mark\">Â¶ </span>And why call ye me, Lord, Lord, and do not the things which I say?",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¦ </span>ÙÙÙÙÙÙØ§Ø°ÙØ§ ØªÙØ¯ÙØ¹ÙÙÙÙÙÙÙ: âÙÙØ§ Ø±ÙØ¨ÙÙØ ÙÙØ§ Ø±ÙØ¨ÙÙâ ÙÙÙØ§ ØªÙØ¹ÙÙÙÙÙÙÙÙ Ø¨ÙÙÙØ§ Ø£ÙÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">46</span> ãããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããã¨<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã³ãªããããªããããã®<ruby><rb>è¨</rb><rt>ã</rt></ruby>ããã¨ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ããªãã®ãã",
+      "zhs": "<span class=\"verse-number\">46ã</span>ä½ ä»¬ä¸ºä»ä¹ç§°å¼æä¸»åä¸»åï¼å´ä¸éµæçè¯è¡å¢ï¼",
+      "zht": "<span class=\"verse-number\">46ã</span>ä½ åçºä»éº¼ç¨±å¼æä¸»åä¸»åï¼å»ä¸éµæçè©±è¡å¢ï¼",
+      "spa": "<span class=\"verse-number\">46</span> Â¿Por quÃ© me llamÃ¡is: SeÃ±or, SeÃ±or, y no hacÃ©is lo que yo digo?",
+      "por": "<span class=\"verse-number\">46</span> E por que me chamais, Senhor, Senhor, e nÃ£o fazeis o que eu digo?",
+      "fra": "<span class=\"verse-number\">46</span> Pourquoi mâappelez-vous Seigneur, SeigneurÂ ! et ne faites-vous pas ce que je disÂ ?",
+      "deu": "<span class=\"verse-number\">46 </span>Was nennt ihr mich aber âHerr, Herr!â und tut doch nicht, was ich <span class=\"clarity-word\">euch</span> sage?",
+      "kor": "<span class=\"verse-number\">46</span> ëí¬ë ëë¥¼ ë¶ë¬ ì£¼ì¬ ì£¼ì¬ íë©´ìë ì´ì°íì¬ ë´ê° ë§íë ê²ì ííì§ ìëíëë",
+      "ita": "<span class=\"verse-number\">46</span> PerchÃ© mi chiamate âSignore, Signoreâ, e non fate quello che dico?"
+    },
+    "47": {
+      "eng": "<span class=\"verse-number\">47 </span>Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like:",
+      "ara": "<span class=\"verse-number\">Ù¤Ù§ </span>ÙÙÙÙÙ ÙÙÙÙ ÙÙØ£ÙØªÙÙ Ø¥ÙÙÙÙÙÙØ ÙÙÙÙØ³ÙÙÙØ¹Ù ÙÙÙØ§ÙÙÙ ÙÙÙÙØ¹ÙÙÙÙÙ Ø¨ÙÙÙØ Ø£ÙØ±ÙÙÙÙÙÙ ÙÙÙÙ ÙÙØ´ÙØ¨ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">47</span> ãããã®ãã¨ã«ãã¦ããããã®<ruby><rb>è¨è</rb><rt>ãã¨ã°</rt></ruby>ã<ruby><rb>è</rb><rt>ã</rt></ruby>ãã¦<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãã<ruby><rb>ä½</rb><rt>ãªã«</rt></ruby>ã«<ruby><rb>ä¼¼</rb><rt>ã«</rt></ruby>ã¦ããããããªãããã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">47ã</span>å¡å°æè¿éæ¥ï¼å¬è§æçè¯å°±å»è¡çï¼æè¦åè¯ä½ ä»¬ä»åä»ä¹äººï¼",
+      "zht": "<span class=\"verse-number\">47ã</span>å¡å°æéè£¡ä¾ï¼è½è¦æçè©±å°±å»è¡çï¼æè¦åè¨´ä½ åä»åä»éº¼äººï¼",
+      "spa": "<span class=\"verse-number\">47</span> Todo aquel que viene a mÃ­ y oye mis palabras y las hace, os enseÃ±arÃ© a quiÃ©n es semejante:",
+      "por": "<span class=\"verse-number\">47</span> Qualquer que vem a mim e ouve as minhas palavras, e as observa, eu vos mostrarei a quem Ã© semelhante:",
+      "fra": "<span class=\"verse-number\">47</span> Je vous montrerai Ã  qui est comparable tout homme qui vient Ã  moi, entend mes paroles, et les met en pratique.",
+      "deu": "<span class=\"verse-number\">47 </span>Wer zu mir kommt und meine Worte hÃ¶rt und nach ihnen tutÂ â ich will euch zeigen, mit wem derjenige zu vergleichen ist:",
+      "kor": "<span class=\"verse-number\">47</span> ë´ê² ëìì ë´ ë§ì ë£ê³  ííë ìë§ë¤ ëêµ¬ì ê°ì ê²ì ëí¬ìê² ë³´ì´ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">47</span> Chiunque viene a me e ascolta le mie parole e le mette in pratica, io vi mostrerÃ² a chi somiglia."
+    },
+    "48": {
+      "eng": "<span class=\"verse-number\">48 </span>He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¨ </span>Ø¥ÙÙÙÙÙÙ ÙÙØ´ÙØ¨ÙÙÙ Ø¥ÙÙÙØ³ÙØ§ÙØ§Ù ÙÙØ¨ÙÙÙÙ Ø¨ÙÙÙØªØ§ÙØ ÙÙØ­ÙÙÙØ±Ù ÙÙØ¹ÙÙÙÙÙÙ ÙÙÙÙØ¶ÙØ¹Ù Ø§ÙØ£ÙØ³ÙØ§Ø³Ù Ø¹ÙÙÙÙ Ø§ÙØµÙÙØ®ÙØ±Ù. Ø«ÙÙÙÙ ÙÙØ·ÙÙÙ ÙÙØ·ÙØ±Ù ØºÙØ²ÙÙØ±Ù ÙÙØµÙØ¯ÙÙÙ Ø§ÙØ³ÙÙÙÙÙÙ Ø°ÙÙÙÙ Ø§ÙÙØ¨ÙÙÙØªÙØ ÙÙÙÙÙÙ ÙÙÙÙØ¯ÙØ±Ù Ø£ÙÙÙ ÙÙØ²ÙØ¹ÙØ²ÙØ¹ÙÙÙØ ÙØ£ÙÙÙÙÙÙ ÙÙØ§ÙÙ ÙÙØ¤ÙØ³ÙÙØ³Ø§Ù Ø¹ÙÙÙÙ Ø§ÙØµÙÙØ®ÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">48</span> ããã¯ã<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã<ruby><rb>æ·±</rb><rt>ãµã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã»</rt></ruby>ãã<ruby><rb>å²©</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>åå°</rb><rt>ã©ã ã</rt></ruby>ãããã¦<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã«<ruby><rb>ä¼¼</rb><rt>ã«</rt></ruby>ã¦ããã<ruby><rb>æ´ªæ°´</rb><rt>ãããã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦<ruby><rb>æ¿æµ</rb><rt>ããããã</rt></ruby>ããã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ¼</rb><rt>ã</rt></ruby>ã<ruby><rb>å¯</rb><rt>ã</rt></ruby>ãã¦ãã¦ããããã<ruby><rb>æº</rb><rt>ã</rt></ruby>ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãããã¨ã¯ã§ããªãããã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ã¦ããããã§ããã",
+      "zhs": "<span class=\"verse-number\">48ã</span>ä»åä¸ä¸ªäººçæ¿å­ï¼æ·±æ·±å°æå°ï¼ææ ¹åºå®å¨ç£ç³ä¸ï¼å°åå¤§æ°´çæ¶åï¼æ°´å²é£æ¿å­ï¼æ¿å­æ»ä¸è½æå¨ï¼å ä¸ºæ ¹åºç«å¨ç£ç³ä¸ã",
+      "zht": "<span class=\"verse-number\">48ã</span>ä»åä¸åäººèæ¿å­ï¼æ·±æ·±å°æå°ï¼ææ ¹åºå®å¨ç£ç³ä¸ï¼å°ç¼å¤§æ°´çæåï¼æ°´æ²é£æ¿å­ï¼æ¿å­ç¸½ä¸è½æåï¼å çºæ ¹åºç«å¨ç£ç³ä¸ã",
+      "spa": "<span class=\"verse-number\">48</span> Semejante es al hombre que, al edificar una casa, cavÃ³ y ahondÃ³ y puso el fundamento sobre la roca; y cuando vino una inundaciÃ³n, el rÃ­o dio con Ã­mpetu contra aquella casa, pero no la pudo mover, porque estaba fundada sobre la roca.",
+      "por": "<span class=\"verse-number\">48</span> Ã semelhante ao homem que edificou uma casa, e cavou, e abriu bem fundo, e pÃ´s os alicerces sobre a rocha, e vindo a enchente, bateu com Ã­mpeto a corrente naquela casa, e nÃ£o a pÃ´de abalar, porque estava fundada sobre a rocha.",
+      "fra": "<span class=\"verse-number\">48</span> Il est semblable Ã  un homme qui, pour bÃ¢tir une maison, a creusÃ©, creusÃ© profondÃ©ment, et a posÃ© les fondations sur le roc. Une inondation est venue, et le torrent sâest jetÃ© contre cette maison sans pouvoir lâÃ©branler, parce quâelle Ã©tait bien bÃ¢tie.",
+      "deu": "<span class=\"verse-number\">48 </span>Er gleicht einem Mann, der, als er ein Haus bauen wollte, bis in die Tiefe grub und den Grund auf den Felsen legte. Als nun Hochwasser kam, stieÃ die Flut an jenes Haus, vermochte es aber wegen seiner festen Bauart nicht zu erschÃ¼ttern.",
+      "kor": "<span class=\"verse-number\">48</span> ì§ì ì§ë ê¹ì´ íê³  ì£¼ì¶ë¥¼ ë°ì ìì ëì ì¬ëê³¼ ê°ì¼ë í° ë¬¼ì´ ëì íë¥ê° ê·¸ ì§ì ë¶ëªì¹ë ì ì§ìê¸° ëë¬¸ì ë¥í ìëíì§ ëª»íê² íìê±°ëì",
+      "ita": "<span class=\"verse-number\">48</span> Somiglia a un uomo il quale, edificando una casa, ha scavato e scavato profondo, e ha posto le fondamenta sulla roccia; e venuta una piena, la fiumana ha investito quella casa e non ha potuto smuoverla perchÃ© era stata edificata bene."
+    },
+    "49": {
+      "eng": "<span class=\"verse-number\">49 </span>But he that heareth, and doeth not, is like a man that without a foundation built an house upon the <span class=\"page-break\" data-page=\"1286\"></span>earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù© </span>ÙÙØ£ÙÙÙÙØ§ ÙÙÙÙ Ø³ÙÙÙØ¹Ù ÙÙÙÙÙÙ ÙÙØ¹ÙÙÙÙÙØ ÙÙÙÙÙÙ ÙÙØ´ÙØ¨ÙÙÙ Ø¥ÙÙÙØ³ÙØ§ÙØ§Ù Ø¨ÙÙÙÙ Ø¨ÙÙÙØªØ§Ù Ø¹ÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø¯ÙÙÙÙ Ø£ÙØ³ÙØ§Ø³Ù. ÙÙÙÙÙÙÙØ§ ØµÙØ¯ÙÙÙÙÙ Ø§ÙØ³ÙÙÙÙÙÙØ Ø§ÙÙÙÙØ§Ø±Ù ÙÙÙ Ø§ÙÙØ­ÙØ§ÙÙØ ÙÙÙÙØ§ÙÙ Ø®ÙØ±ÙØ§Ø¨Ù Ø°ÙÙÙÙ Ø§ÙÙØ¨ÙÙÙØªÙ Ø¬ÙØ³ÙÙÙØ§Ù!â",
+      "jpn": "<span class=\"verse-number\">49</span> ããã<ruby><rb>è</rb><rt>ã</rt></ruby>ãã¦ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ããªã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯ã<ruby><rb>åå°</rb><rt>ã©ã ã</rt></ruby>ãªãã§ã<ruby><rb>å</rb><rt>ã¤ã¡</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã«<ruby><rb>ä¼¼</rb><rt>ã«</rt></ruby>ã¦ããã<ruby><rb>æ¿æµ</rb><rt>ããããã</rt></ruby>ããã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ¼</rb><rt>ã</rt></ruby>ã<ruby><rb>å¯</rb><rt>ã</rt></ruby>ãã¦ãããããã¡ã¾ã¡<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã¦ãã¾ãããã®<ruby><rb>è¢«å®³</rb><rt>ã²ãã</rt></ruby>ã¯<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããã®ã§ãããã",
+      "zhs": "<span class=\"verse-number\">49ã</span>å¯æå¬è§ä¸å»è¡çï¼å°±åä¸ä¸ªäººå¨åå°ä¸çæ¿å­ï¼æ²¡ææ ¹åºï¼æ°´ä¸å²ï¼éå³åå¡äºï¼å¹¶ä¸é£æ¿å­åå¾å¾å¤§ã",
+      "zht": "<span class=\"verse-number\">49ã</span>å¯æè½è¦ä¸å»è¡çï¼å°±åä¸åäººå¨åå°ä¸èæ¿å­ï¼æ²ææ ¹åºï¼æ°´ä¸æ²ï¼é¨å³åå¡äºï¼ä¸¦ä¸é£æ¿å­å£å¾å¾å¤§ã",
+      "spa": "<span class=\"verse-number\">49</span> Pero el que las oyÃ³ y no las obedeciÃ³ es semejante al hombre <span class=\"page-break\" data-page=\"1622\"></span>que edificÃ³ su casa sobre tierra, sin fundamento; contra ella el rÃ­o dio con Ã­mpetu, y luego cayÃ³, y fue grande la ruina de aquella casa.",
+      "por": "<span class=\"verse-number\">49</span> Mas o que ouve e nÃ£o pratica Ã© semelhante ao homem que edificou uma casa sobre a terra, sem alicerces, na qual bateu com Ã­mpeto a corrente, e logo caiu; e foi grande a queda daquela casa.",
+      "fra": "<span class=\"verse-number\">49</span> Mais celui qui entend, et ne met pas en pratique, est semblable Ã  un homme qui a bÃ¢ti une maison sur la terre, sans fondations. Le torrent sâest jetÃ© contre elleÂ : aussitÃ´t elle sâest Ã©croulÃ©e et la ruine de cette maison a Ã©tÃ© grande.",
+      "deu": "<span class=\"verse-number\">49 </span>Wer aber <span class=\"clarity-word\">meine Worte</span> hÃ¶rt und nicht nach ihnen tut, der gleicht einem Mann, der ein Haus ohne feste Grundlage auf den <span class=\"clarity-word\">lockeren</span> Erdboden baute. Als dann die Flut dagegen stieÃ, stÃ¼rzte es sogleich in sich zusammen, und der Einsturz dieses Hauses war gewaltig.â",
+      "kor": "<span class=\"verse-number\">49</span> ë£ê³  ííì§ ìëíë ìë ì£¼ì¶ ìì´ í ìì ì§ ì§ì ì¬ëê³¼ ê°ì¼ë íë¥ê° ë¶ëªì¹ë§¤ ì§ì´ ê³§ ë¬´ëì ¸ íê´´ë¨ì´ ì¬íëë¼ íìëë¼",
+      "ita": "<span class=\"verse-number\">49</span> Ma chi ha udito e non ha messo in pratica somiglia a un uomo che ha edificato una casa sulla terra, senza fondamenta; la fiumana lâha investita, e subito Ã¨ crollata; e la rovina di quella casa Ã¨ stata grandeâ."
+    }
+  }
+}

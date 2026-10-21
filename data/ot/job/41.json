@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "job",
+    "chapter": 41,
+    "headings": {
+      "eng": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"study_summary1\" title=\"Associated Content\"><button aria-label=\"Associated Content\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span>The Lord points to His power in the leviathanâAll things under the whole heaven are the Lordâs.",
+      "spa": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"study_summary1\" title=\"Contenido relacionado\"><button aria-label=\"Contenido relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span>JehovÃ¡ da muestra de Su poder en el leviatÃ¡nÂ â Todo lo que hay debajo del cielo es de JehovÃ¡.",
+      "por": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"study_summary1\" title=\"ConteÃºdo relacionado\"><button aria-label=\"ConteÃºdo relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span>O Senhor dÃ¡ mostra de Seu poder no leviatÃ£Â â Todas as coisas debaixo de todo o cÃ©u sÃ£o do Senhor.",
+      "fra": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"study_summary1\" title=\"Contenu associÃ©\"><button aria-label=\"Contenu associÃ©\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span>LâÃternel donne le bÃ©hÃ©moth en exemple de son pouvoir. Sous le ciel, tout appartient Ã  lâÃternel.",
+      "deu": "Der Herr weist mittels des Leviatans auf seine Macht hinÂ â Alles unter dem ganzen Himmel gehÃ¶rt dem Herrn.",
+      "ita": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"study_summary1\" title=\"Contenuti collegati\"><button aria-label=\"Contenuti collegati\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span>Il Signore fa notare il Suo potere nel leviatanoÂ â Tutte le cose sotto i cieli sono del Signore."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Canst thou draw out leviathan with an hook? or his tongue with a cord <span class=\"clarity-word\">which</span> thou lettest down?",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø£ÙÙÙÙÙÙÙÙÙ Ø£ÙÙÙ ØªÙØµÙØ·ÙØ§Ø¯Ù ÙÙÙÙÙÙØ§Ø«ÙØ§ÙÙ (Ø§ÙÙØ­ÙÙÙÙÙØ§ÙÙ Ø§ÙÙØ¨ÙØ­ÙØ±ÙÙÙÙ) Ø¨ÙØ´ÙØµÙÙØ Ø£ÙÙÙ ØªÙØ±ÙØ¨ÙØ·Ù ÙÙØ³ÙØ§ÙÙÙÙ Ø¨ÙØ­ÙØ¨ÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">1</span> ããªãã¯ã¤ã<ruby><rb>é</rb><rt>ã°ã</rt></ruby>ã§ãã«ãã¤ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ããã¨ãã§ãããã<ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã§ãã®<ruby><rb>è</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ¼</rb><rt>ãã</rt></ruby>ãããã¨ãã§ãããã",
+      "spa": "<span class=\"verse-number\">1 </span><span class=\"line\">Â¿SacarÃ¡s tÃº al leviatÃ¡n con anzuelo,</span><span class=\"line\">o con cuerda sujetarÃ¡s su lengua?</span>",
+      "por": "<span class=\"verse-number\">1</span> PoderÃ¡s tirar com anzol o leviatÃ£? ou ligarÃ¡s a sua lÃ­ngua com a corda?",
+      "fra": "<span class=\"verse-number\">1</span> Nul nâest assez hardi pour lâexciterÂ ; Qui donc me rÃ©sisterait en faceÂ ?",
+      "deu": "<span class=\"verse-number\">1Â </span>âJa, eine solche Hoffnung erweist sich als Trug: Schon bei seinem Anblick bricht man zusammen.",
+      "kor": "<span class=\"verse-number\">1</span> ë¤ê° ëìë¡ ë¦¬ìì¼ë¨ì ëì´ë¼ ì ìê² ëë ë¸ëì¼ë¡ ê·¸ íë¥¼ ë§¬ ì ìê² ëë",
+      "ita": "<span class=\"verse-number\">1</span> âEcco, fallace Ã¨ la speranza di chi lo assale; basta scorgerlo e si cade a terra."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>Canst thou put an hook into his nose? or bore his jaw through with a thorn?",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø£ÙØªÙÙÙØ¯ÙØ±Ù Ø£ÙÙÙ ØªÙØ¶ÙØ¹Ù Ø®ÙØ²ÙØ§ÙÙØ©Ù ÙÙÙ Ø£ÙÙÙÙÙÙÙØ Ø£ÙÙÙ ØªÙØ«ÙÙÙØ¨Ù ÙÙÙÙÙÙÙ Ø¨ÙØ®ÙØ·ÙÙØ§ÙÙØ",
+      "jpn": "<span class=\"verse-number\">2</span> ããªãã¯<ruby><rb>è¦</rb><rt>ãã</rt></ruby>ã®ãªãããã®<ruby><rb>é¼»</rb><rt>ã¯ãª</rt></ruby>ã«<ruby><rb>é</rb><rt>ã¨ã</rt></ruby>ããã¨ãã§ããããã¤ã<ruby><rb>é</rb><rt>ã°ã</rt></ruby>ã§ãã®ããã<ruby><rb>çª</rb><rt>ã¤</rt></ruby>ã<ruby><rb>é</rb><rt>ã¨ã</rt></ruby>ããã¨ãã§ãããã",
+      "spa": "<span class=\"verse-number\">2 </span><span class=\"line\">Â¿PondrÃ¡s soga de juncos en sus narices,</span><span class=\"line\">y horadarÃ¡s con gancho su quijada?</span>",
+      "por": "<span class=\"verse-number\">2</span> Podes pÃ´r um junco no seu nariz? ou com um espinho furarÃ¡s a sua queixada?",
+      "fra": "<span class=\"verse-number\">2</span> De qui suis-je le dÃ©biteurÂ ? Je le paierai. Sous le ciel tout mâappartient.",
+      "deu": "<span class=\"verse-number\">2Â </span>Niemand ist so tollkÃ¼hn, dass er ihn aufstÃ¶rt; und wer ist es, der ihm entgegengetreten und heil davongekommen wÃ¤re?",
+      "kor": "<span class=\"verse-number\">2</span> ëë ë°§ì¤ë¡ ê·¸ ì½ë¥¼ ê¿¸ ì ìê² ëë ê°ê³ ë¦¬ë¡ ê·¸ ìê°ë¯¸ë¥¼ ê¿¸ ì ìê² ëë",
+      "ita": "<span class=\"verse-number\">2</span> Nessuno Ã¨ tanto ardito da provocarlo. E chi dunque oserÃ  starmi di fronte?"
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>Will he make many supplications unto thee? will he speak soft <span class=\"clarity-word\">words</span> unto thee?",
+      "ara": "<span class=\"verse-number\">Ù£ </span>Ø£ÙÙÙÙÙØ«ÙØ±Ù ÙÙÙÙ ØªÙØ¶ÙØ±ÙÙØ¹ÙØ§ØªÙÙÙ Ø¥ÙÙÙÙÙÙÙ Ø£ÙÙÙ ÙÙØ³ÙØªÙØ¹ÙØ·ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">3</span> ããã¯ãããã«ãããªãã«<ruby><rb>é¡</rb><rt>ã­ã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ããã§ããããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããª<ruby><rb>è¨è</rb><rt>ãã¨ã°</rt></ruby>ãããªãã«<ruby><rb>èª</rb><rt>ãã</rt></ruby>ãã§ããããã",
+      "spa": "<span class=\"verse-number\">3 </span><span class=\"line\">Â¿MultiplicarÃ¡ Ã©l ruegos para contigo?</span><span class=\"line\">Â¿Te hablarÃ¡ Ã©l palabras lisonjeras?</span>",
+      "por": "<span class=\"verse-number\">3</span> <span class=\"clarity-word\">Porventura</span> multiplicarÃ¡ as sÃºplicas para contigo? <span class=\"clarity-word\">ou</span> brandamente falarÃ¡?",
+      "fra": "<span class=\"verse-number\">3</span> Je veux encore parler de ses membres, Et de sa force, et de la beautÃ© de sa structure.",
+      "deu": "<span class=\"verse-number\">3Â </span>Wer unter dem ganzen Himmel ist es? Alles unter dem ganzen Himmel gehÃ¶rt mir.",
+      "kor": "<span class=\"verse-number\">3</span> ê·¸ê²ì´ ì´ì° ë¤ê² ê³ìíì¬ ê°ì²­íê² ëë ë¶ëë½ê² ë¤ê² ë§íê² ëë",
+      "ita": "<span class=\"verse-number\">3</span> Chi mi ha anticipato alcunchÃ© perchÃ© io glielo debba restituire? Sotto tutti i cieli, ogni cosa Ã¨ mia."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>Will he make a covenant with thee? wilt thou take him for a servant for ever?",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>Ø£ÙÙÙØ¨ÙØ±ÙÙÙ ÙÙØ¹ÙÙÙ Ø¹ÙÙÙØ¯Ø§Ù ÙÙØªÙØªÙÙØ®ÙØ°ÙÙÙ Ø¹ÙØ¨ÙØ¯Ø§Ù ÙÙØ¤ÙØ¨ÙÙØ¯Ø§Ù ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">4</span> ããã¯ããªãã¨<ruby><rb>å¥ç´</rb><rt>ãããã</rt></ruby>ã<ruby><rb>çµ</rb><rt>ãã</rt></ruby>ã¶ã§ãããããããªãã¯ããã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã£ã¦ããªããããªãã®ããã¹ã¨ãããã¨ãã§ããã§ããããã",
+      "spa": "<span class=\"verse-number\">4 </span><span class=\"line\">Â¿HarÃ¡ pacto contigo</span><span class=\"line\">para que lo tomes por siervo perpetuo?</span>",
+      "por": "<span class=\"verse-number\">4</span> FarÃ¡ ele alianÃ§a contigo? <span class=\"clarity-word\">ou</span> o tomarÃ¡s tu por escravo para sempre?",
+      "fra": "<span class=\"verse-number\">4</span> Qui soulÃ¨vera son vÃªtementÂ ? Qui pÃ©nÃ©trera entre ses mÃ¢choiresÂ ?",
+      "deu": "<span class=\"verse-number\">4Â </span>Nicht schweigen will ich von seinen GliedmaÃen, weder von seiner KraftfÃ¼lle noch von der SchÃ¶nheit seines Baues.",
+      "kor": "<span class=\"verse-number\">4</span> ì´ì° ê·¸ê²ì´ ëì ê³ì½ì ë§ºê³  ëë ê·¸ë¥¼ ììí ì¢ì¼ë¡ ì¼ê² ëë",
+      "ita": "<span class=\"verse-number\">4</span> E non tacerÃ² delle sue membra, della sua gran forza, della bellezza della sua armatura."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>Wilt thou play with him as <span class=\"clarity-word\">with</span> a bird? or wilt thou bind him for thy maidens?",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>Ø£ÙØªÙÙØ§Ø¹ÙØ¨ÙÙÙ ÙÙÙÙØ§ ØªÙÙØ§Ø¹ÙØ¨Ù Ø§ÙÙØ¹ÙØµÙÙÙÙØ±ÙØ Ø£ÙÙÙ ØªÙØ·ÙÙÙÙÙÙÙÙ Ø¨ÙØªÙØ±ÙØ³Ù ÙÙÙÙÙÙÙÙÙ ÙÙØ¹ÙØ¨ÙØ©Ù ÙÙÙÙØªÙÙÙØ§ØªÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">5</span> ããªãã¯<ruby><rb>é³¥</rb><rt>ã¨ã</rt></ruby>ã¨<ruby><rb>æ¯</rb><rt>ããã</rt></ruby>ããããã«ããã¨<ruby><rb>æ¯</rb><rt>ããã</rt></ruby>ããã¾ãããªãã®ãã¨ããã¡ã®ããã«ããããã¤ãªãã§ãããã¨ãã§ããã§ããããã",
+      "spa": "<span class=\"verse-number\">5 </span><span class=\"line\">Â¿JugarÃ¡s tÃº con Ã©l como con un pÃ¡jaro</span><span class=\"line\">o lo atarÃ¡s para tus niÃ±as?</span>",
+      "por": "<span class=\"verse-number\">5</span> BrincarÃ¡s com ele, como <span class=\"clarity-word\">com</span> um passarinho? ou o atarÃ¡s para tuas meninas?",
+      "fra": "<span class=\"verse-number\">5</span> Qui ouvrira les portes de sa gueuleÂ ? Autour de ses dents habite la terreur.",
+      "deu": "<span class=\"verse-number\">5Â </span>Wer hat je sein Panzerkleid oben aufgedeckt und wer sich in die Doppelreihe seines Gebisses hineingewagt?",
+      "kor": "<span class=\"verse-number\">5</span> ë¤ê° ì´ì° ê·¸ê²ì ìë¥¼ ê°ì§ê³  ë ë¯ íê² ì¼ë©° ë¤ ì¬ì¢ë¤ì ìíì¬ ê·¸ê²ì ë§¤ì´ëê² ëë",
+      "ita": "<span class=\"verse-number\">5</span> Chi lâha mai spogliato della sua corazza? Chi Ã¨ penetrato fra la doppia fila dei suoi denti?"
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Shall the companions make a banquet of him? shall they part him among the merchants?",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø£ÙÙÙØ³ÙØ§ÙÙÙÙ Ø¹ÙÙÙÙÙÙÙ Ø§ÙØªÙÙØ¬ÙÙØ§Ø±ÙØ Ø£ÙÙÙ ÙÙØªÙÙÙØ§Ø³ÙÙÙÙÙÙÙÙ Ø¨ÙÙÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>åäºº</rb><rt>ãããã«ã</rt></ruby>ã®<ruby><rb>ä»²é</rb><rt>ãªãã¾</rt></ruby>ã¯ããã<ruby><rb>åå</rb><rt>ãããã²ã</rt></ruby>ã¨ãã¦ã<ruby><rb>å°å£²</rb><rt>ããã</rt></ruby><ruby><rb>åäºº</rb><rt>ãããã«ã</rt></ruby>ã®<ruby><rb>é</rb><rt>ããã </rt></ruby>ã«<ruby><rb>å</rb><rt>ã</rt></ruby>ããã§ããããã",
+      "spa": "<span class=\"verse-number\">6 </span><span class=\"line\">Â¿HarÃ¡n de Ã©l banquete los compaÃ±eros?</span><span class=\"line\">Â¿Lo repartirÃ¡n entre los mercaderes?</span>",
+      "por": "<span class=\"verse-number\">6</span> Os <span class=\"clarity-word\">teus</span> companheiros farÃ£o dele um banquete? <span class=\"clarity-word\">ou</span> o repartirÃ£o entre os negociantes?",
+      "fra": "<span class=\"verse-number\">6</span> Ses magnifiques et puissants boucliers Sont unis ensemble comme par un sceauÂ ;",
+      "deu": "<span class=\"verse-number\">6Â </span>Wer hat je das Doppeltor seines Rachens geÃ¶ffnet? Rings um seine ZÃ¤hne herum lagert Schrecken.",
+      "kor": "<span class=\"verse-number\">6</span> ì´ì° ì¥ì¬ê¾¼ë¤ì´ ê·¸ê²ì ëê³  ê±°ëíê² ì¼ë©° ìì¸ë¤ì´ ê·¸ê²ì ëëì´ ê°ì§ê² ëë",
+      "ita": "<span class=\"verse-number\">6</span> Chi gli ha aperto i due battenti della gola? Intorno alla chiostra dei suoi denti sta il terrore."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>Canst thou fill his skin with barbed irons? or his head with fish spears?",
+      "ara": "<span class=\"verse-number\">Ù§ </span>Ø£ÙØªÙÙÙÙØ£Ù Ø¬ÙÙÙØ¯ÙÙÙ Ø¨ÙØ§ÙÙØ­ÙØ±ÙØ§Ø¨Ù ÙÙØ±ÙØ£ÙØ³ÙÙÙ Ø¨ÙØ£ÙØ³ÙÙÙÙØ©Ù Ø§ÙØ±ÙÙÙÙØ§Ø­ÙØ",
+      "jpn": "<span class=\"verse-number\">7</span> ããªãã¯ãããã§ãã®<ruby><rb>ç®</rb><rt>ãã</rt></ruby>ã<ruby><rb>æº</rb><rt>ã¿</rt></ruby>ãããããã§ãã®<ruby><rb>é ­</rb><rt>ããã¾</rt></ruby>ã<ruby><rb>çª</rb><rt>ã¤</rt></ruby>ã<ruby><rb>é</rb><rt>ã¨ã</rt></ruby>ããã¨ãã§ãããã",
+      "spa": "<span class=\"verse-number\">7 </span><span class=\"line\">Â¿LlenarÃ¡s tÃº de arpones su piel,</span><span class=\"line\">o con lanza de pescadores su cabeza?</span>",
+      "por": "<span class=\"verse-number\">7</span> EncherÃ¡s a sua pele de ganchos? ou a sua cabeÃ§a com arpÃ©us de pescadores?",
+      "fra": "<span class=\"verse-number\">7</span> Ils se serrent lâun contre lâautre, Et lâair ne passerait pas entre euxÂ ;",
+      "deu": "<span class=\"verse-number\">7Â </span>Prachtvoll sind die Zeilen seiner Schilde, jede Einzelne enganliegend wie durch ein festes SiegelÂ â",
+      "kor": "<span class=\"verse-number\">7</span> ë¤ê° ë¥í ë§ì ì°½ì¼ë¡ ê·¸ ê°ì£½ì ì°ë¥´ê±°ë ìì´ì ê·¸ ë¨¸ë¦¬ì ê½ì ì ìê² ëë",
+      "ita": "<span class=\"verse-number\">7</span> Superbe sono le file dei suoi scudi, strettamente uniti come da un sigillo."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>Lay thine hand upon him, remember the battle, do no more.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø¥ÙÙÙ Ø­ÙØ§ÙÙÙÙØªÙ Ø§ÙÙÙÙØ¨ÙØ¶Ù Ø¹ÙÙÙÙÙÙÙ Ø¨ÙÙÙØ¯ÙÙÙ ÙÙØ¥ÙÙÙÙÙÙ Ø³ÙØªÙØ°ÙÙÙØ±Ù Ø¶ÙØ±ÙØ§ÙÙØ©Ù ÙÙØªÙØ§ÙÙÙÙ ÙÙÙØ§ ØªÙØ¹ÙÙØ¯Ù ØªÙÙÙØ¯ÙÙÙ Ø¹ÙÙÙÙ Ø°ÙÙÙÙÙ Ø«ÙØ§ÙÙÙÙØ©Ù!",
+      "jpn": "<span class=\"verse-number\">8</span> ããªãã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ãããã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ããããªãã¯<ruby><rb>æ¦</rb><rt>ããã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦ã<ruby><rb>å</rb><rt>ãµãã</rt></ruby>ã³ãããããªãã§ãããã",
+      "spa": "<span class=\"verse-number\">8 </span><span class=\"line\">Pon tu mano sobre Ã©l;</span><span class=\"line\">te acordarÃ¡s de la batalla y nunca mÃ¡s volverÃ¡s a hacerlo.</span>",
+      "por": "<span class=\"verse-number\">8</span> PÃµe a tua mÃ£o sobre ele, lembra-te da peleja, <span class=\"clarity-word\">e</span> nunca mais <span class=\"clarity-word\">tal</span> intentarÃ¡s.",
+      "fra": "<span class=\"verse-number\">8</span> Ce sont des frÃ¨res qui sâembrassent, Se saisissent, demeurent insÃ©parables.",
+      "deu": "<span class=\"verse-number\">8Â </span>eine schlieÃt sich eng an die andere an, und kein LÃ¼ftchen dringt zwischen ihnen ein.",
+      "kor": "<span class=\"verse-number\">8</span> ë¤ ìì ê·¸ê²ìê² ì¹ì´ ë³´ë¼ ë¤ìë ì¸ì¸ ìê°ì ëª»íë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">8</span> Uno tocca lâaltro, e tra loro non passa lâaria."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>Behold, the hope of him is in vain: shall not <span class=\"clarity-word\">one</span> be cast down even at the sight of him?",
+      "ara": "<span class=\"verse-number\">Ù© </span>Ø£ÙÙÙÙ Ø£ÙÙÙÙÙ ÙÙÙ Ø¥ÙØ®ÙØ¶ÙØ§Ø¹ÙÙÙ ÙÙØ¯Ù Ø®ÙØ§Ø¨ÙØ ÙÙÙÙØ¬ÙØ±ÙÙØ¯Ù Ø§ÙÙÙÙØ¸ÙØ±Ù Ø¥ÙÙÙÙÙÙÙ ÙÙØ¨ÙØ¹ÙØ«Ù Ø¹ÙÙÙÙ Ø§ÙÙÙØ²ÙØ¹Ù.",
+      "jpn": "<span class=\"verse-number\">9</span> <ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããã®<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ã¿ã¯ããªãããªããããã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ã¦ãã<ruby><rb>å</rb><rt>ãã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">9 </span><span class=\"line\">He aquÃ­ que la esperanza acerca de Ã©l es en vano,</span><span class=\"line\">porque aun con solo verlo se desmayarÃ¡n.</span>",
+      "por": "<span class=\"verse-number\">9</span> Eis que a sua esperanÃ§a falharÃ¡; <span class=\"clarity-word\">porventura</span> tambÃ©m Ã  sua vista serÃ¡ derrubado?",
+      "fra": "<span class=\"verse-number\">9</span> Ses Ã©ternuements font briller la lumiÃ¨reÂ ; Ses yeux sont comme les paupiÃ¨res de lâaurore.",
+      "deu": "<span class=\"verse-number\">9Â </span>Jede haftet fest an der anderen, sie greifen untrennbar ineinander.",
+      "kor": "<span class=\"verse-number\">9</span> ì°¸ì¼ë¡ <span class=\"clarity-word\">ì¡ì¼ë ¤ë</span> ê·¸ì í¬ë§ì íë ê²ì´ëë¼ ê·¸ê²ì ëª¨ìµì ë³´ê¸°ë§ í´ë ê·¸ë ê¸°ê° êº¾ì´ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">9</span> Sono saldati assieme, si tengono stretti, sono inseparabili."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>None <span class=\"clarity-word\">is so</span> fierce that dare stir him up: who then is able to stand before me?",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØ§ Ø£ÙØ­ÙØ¯Ù ÙÙÙÙÙÙÙÙ Ø¬ÙØ±ÙØ£ÙØ©Ù ÙÙØ§ÙÙÙÙØ©Ù ÙÙÙÙØ³ÙØªÙØ«ÙÙØ±ÙÙÙ. ÙÙÙÙÙÙ Ø¥ÙØ°Ø§ÙØ ÙÙÙÙÙÙÙ Ø¹ÙÙÙÙ ÙÙØ¬ÙØ§Ø¨ÙÙÙØªÙÙØ",
+      "jpn": "<span class=\"verse-number\">10</span> ããã¦ããã<ruby><rb>æ¿</rb><rt>ãã</rt></ruby>ãã<ruby><rb>åæ°</rb><rt>ããã</rt></ruby>ã®ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã²ã¨ãããªããããã§ãã ãããããã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¤ãã¨ãã§ãããã",
+      "spa": "<span class=\"verse-number\">10 </span><span class=\"line\">Nadie hay tan osado que lo despierte.</span><span class=\"line\">Â¿QuiÃ©n, pues, podrÃ¡ estar delante de mÃ­?</span>",
+      "por": "<span class=\"verse-number\">10</span> NinguÃ©m <span class=\"clarity-word\">hÃ¡ tÃ£o</span> atrevido, que <span class=\"clarity-word\">se atreva</span> a despertÃ¡-lo; quem, pois, Ã© aquele que <span class=\"clarity-word\">ousa</span> pÃ´r-se <span class=\"clarity-word\">em pÃ©</span> diante de mim?",
+      "fra": "<span class=\"verse-number\">10</span> Des flammes jaillissent de sa bouche, Des Ã©tincelles de feu sâen Ã©chappent.",
+      "deu": "<span class=\"verse-number\">10Â </span>Sein Niesen lÃ¤sst einen Lichtschein erglÃ¤nzen, und seine Augen gleichen den Wimpern des Morgenrots.",
+      "kor": "<span class=\"verse-number\">10</span> ìë¬´ë ê·¸ê²ì ê²©ëìí¬ ë§í¼ ë´ëíì§ ëª»íê±°ë  ëê° ë´ê² ê°í ëí­í  ì ìê² ëë",
+      "ita": "<span class=\"verse-number\">10</span> I suoi starnuti danno sprazzi di luce; i suoi occhi son come le palpebre dellâaurora."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>Who hath prevented me, that I should repay <span class=\"clarity-word\">him? whatsoever is</span> under the whole heaven is mine.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙÙÙ Ø£ÙÙÙØ§ ÙÙØ¯ÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙÙÙØ ÙÙÙÙÙ ÙÙØ§ ØªÙØ­ÙØªÙ Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ³ÙÙÙÙØ§ÙÙØ§ØªÙ ÙÙÙÙ ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">11</span> ã ãã<ruby><rb>å</rb><rt>ãã</rt></ruby>ã«ãããã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããã®ã§ããããã¯ããã«<ruby><rb>å ±</rb><rt>ãã</rt></ruby>ããã®ãã<ruby><rb>å¤©</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ãããã®ã¯ããã¨ãã¨ããããã®ãã®ã ã",
+      "spa": "<span class=\"verse-number\">11 </span><span class=\"line\">Â¿QuiÃ©n me ha dado a mÃ­ primero, para que yo restituya?</span><span class=\"line\"><span class=\"clarity-word\">Todo lo que hay</span> debajo del cielo es mÃ­o.</span>",
+      "por": "<span class=\"verse-number\">11</span> Quem me preveniu, para que eu haja de retribuir-<span class=\"clarity-word\">lhe? Pois</span> o que <span class=\"clarity-word\">estÃ¡</span> debaixo de todos os cÃ©us Ã© meu.",
+      "fra": "<span class=\"verse-number\">11</span> Une fumÃ©e sort de ses narines, Comme dâun vase qui bout, dâune marmite ardente.",
+      "deu": "<span class=\"verse-number\">11Â </span>Aus seinem Rachen schieÃen Flammen, sprÃ¼hen Feuerfunken hervor.",
+      "kor": "<span class=\"verse-number\">11</span> ëê° ë¨¼ì  ë´ê² ì£¼ê³  ëë¡ íì¬ê¸ ê°ê² íê² ëë ì¨ ì²íì ìë ê²ì´ ë¤ ë´ ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">11</span> Dalla sua bocca partono vampe, ne scappano fuori scintille di fuoco."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>I will not conceal his parts, nor his power, nor his comely proportion.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>Ø¯ÙØ¹ÙÙÙÙ Ø£ÙØ­ÙØ¯ÙÙØ«ÙÙÙ Ø¹ÙÙÙ Ø£ÙØ·ÙØ±ÙØ§ÙÙ ÙÙÙÙÙÙØ§Ø«ÙØ§ÙÙ ÙÙØ¹ÙÙÙ ÙÙÙÙÙØªÙÙÙ ÙÙØªÙÙÙØ§Ø³ÙÙÙ ÙÙØ§ÙÙØªÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">12</span> ãããã¯ããã<ruby><rb>å¨èº«</rb><rt>ãããã</rt></ruby>ã¨ããã®<ruby><rb>è</rb><rt>ãã¡ãã</rt></ruby>ãã<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã¨ããã®<ruby><rb>ç¾</rb><rt>ãã¤ã</rt></ruby>ãã<ruby><rb>æ§é </rb><rt>ãããã</rt></ruby>ã«ã¤ãã¦<ruby><rb>é»</rb><rt>ã ã¾</rt></ruby>ã£ã¦ãããã¨ã¯ã§ããªãã",
+      "spa": "<span class=\"verse-number\">12 </span><span class=\"line\">No guardarÃ© silencio <span class=\"clarity-word\">acerca</span> de sus miembros,</span><span class=\"line\">ni de sus fuerzas ni de la gracia de su disposiciÃ³n.</span>",
+      "por": "<span class=\"verse-number\">12</span> NÃ£o me calarei a respeito dos seus membros, nem das <span class=\"clarity-word\">suas</span> forÃ§as, nem da graÃ§a da sua forma.",
+      "fra": "<span class=\"verse-number\">12</span> Son souffle allume les charbons, Sa gueule lance la flamme.",
+      "deu": "<span class=\"verse-number\">12Â </span>Aus seinen NÃ¼stern strÃ¶mt Rauch heraus wie aus einem siedenden Topf und wie aus Binsenfeuer.",
+      "kor": "<span class=\"verse-number\">12</span> ë´ê° ê·¸ê²ì ì§ì²´ì ê·¸ê²ì í° ì©ë§¹ê³¼ ë ë¦í ì²´êµ¬ì ëíì¬ ì ì íì§ ìëíë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">12</span> Dalle sue narici esce un fumo, come da una pentola che bolle o da una calderone."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>Who can discover the face of <span class=\"page-break\" data-page=\"713\"></span>his garment? <span class=\"clarity-word\">or</span> who can come <span class=\"clarity-word\">to him</span> with his double bridle?",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙÙÙ ÙÙØ®ÙÙÙØ¹Ù ÙÙØ³ÙØ§Ø¡ÙÙÙ Ø£ÙÙÙ ÙÙØ¯ÙÙÙÙ ÙÙÙÙ ÙÙØªÙÙÙØ§ÙÙÙÙ ØµÙÙÙÙÙÙ Ø£ÙØ¶ÙØ±ÙØ§Ø³ÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">13</span> ã ãããã®<ruby><rb>ä¸ç</rb><rt>ããã</rt></ruby>ãã¯ããã¨ãã§ããããã ãããã®<ruby><rb>äºé</rb><rt>ãµãã</rt></ruby>ã®ãããã®<ruby><rb>é</rb><rt>ããã </rt></ruby>ã«ã¯ãããã¨ãã§ãããã",
+      "spa": "<span class=\"verse-number\">13 </span><span class=\"line\">Â¿QuiÃ©n lo despojarÃ¡ de lo exterior de su vestidura?</span><span class=\"line\">Â¿QuiÃ©n penetrarÃ¡ su doble coraza?</span>",
+      "por": "<span class=\"verse-number\">13</span> Quem descobriria a superfÃ­cie da sua roupa? quem penetrarÃ¡ em sua couraÃ§a dupla?",
+      "fra": "<span class=\"verse-number\">13</span> La force a son cou pour demeure, Et lâeffroi bondit devant lui.",
+      "deu": "<span class=\"verse-number\">13Â </span>Sein Atem setzt Kohlen in Brand, und Flammen entfahren seinem Rachen.",
+      "kor": "<span class=\"verse-number\">13</span> ëê° ê·¸ê²ì ê²ê°ì£½ì ë²ê¸°ê² ì¼ë©° ê·¸ê²ìê² ê²¹ì¬ê°ì ë¬¼ë¦´ ì ìê² ëë",
+      "ita": "<span class=\"verse-number\">13</span> Il suo alito accende i carboni, e una fiamma gli erompe dalla gola."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>Who can open the doors of his face? his teeth <span class=\"clarity-word\">are</span> terrible round about.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙÙÙ ÙÙÙÙØªÙØ­Ù Ø´ÙØ¯ÙÙÙÙÙÙÙØ Ø¥ÙÙÙÙ Ø¯ÙØ§Ø¦ÙØ±ÙØ©Ù Ø£ÙØ³ÙÙÙØ§ÙÙÙÙ ÙÙØ±ÙØ¹ÙØ¨ÙØ©Ù!",
+      "jpn": "<span class=\"verse-number\">14</span> ã ãããã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ¸</rb><rt>ã¨</rt></ruby>ã<ruby><rb>é</rb><rt>ã²ã</rt></ruby>ããã¨ãã§ãããããã®ã¾ããã®<ruby><rb>æ­¯</rb><rt>ã¯</rt></ruby>ã¯<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã",
+      "spa": "<span class=\"verse-number\">14 </span><span class=\"line\">Â¿QuiÃ©n abrirÃ¡ las puertas de sus fauces?</span><span class=\"line\"><span class=\"page-break\" data-page=\"884\"></span>Las hileras de sus dientes espantan.</span>",
+      "por": "<span class=\"verse-number\">14</span> Quem abriria as portas do seu rosto? <span class=\"clarity-word\">Pois</span> em redor dos seus dentes <span class=\"clarity-word\">estÃ¡</span> o terror.",
+      "fra": "<span class=\"verse-number\">14</span> Ses parties charnues tiennent ensemble, CoulÃ©es sur lui, inÃ©branlables.",
+      "deu": "<span class=\"verse-number\">14Â </span>In seinem Nacken wohnt Kraft, und vor ihm her stÃ¼rmt bange Furcht dahin.",
+      "kor": "<span class=\"verse-number\">14</span> ëê° ê·¸ê²ì í±ì ë²ë¦´ ì ìê² ëë ê·¸ì ë¥ê·¼ ì´íì ì¬í ëë µêµ¬ë",
+      "ita": "<span class=\"verse-number\">14</span> Nel suo collo risiede la forza, dinanzi a lui si diletta il terrore."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span><span class=\"clarity-word\">His</span> scales <span class=\"clarity-word\">are his</span> pride, shut up together <span class=\"clarity-word\">as with</span> a close seal.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>Ø¸ÙÙÙØ±ÙÙÙ ÙÙØµÙÙÙÙØ¹Ù ÙÙÙÙ Ø­ÙØ±ÙØ§Ø´ÙÙÙ ÙÙØªÙØ±ÙÙØ³Ù ÙÙØµÙÙÙÙÙÙØ©Ù ÙÙØªÙÙØ§ØµÙÙÙØ©Ù Ø¨ÙØ¥ÙØ­ÙÙÙØ§ÙÙØ ÙÙÙÙØ£ÙÙÙÙÙÙØ§ ÙÙØ¶ÙØºÙÙØ·ÙØ©Ù Ø¨ÙØ®ÙØ§ØªÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">15</span> ãã®<ruby><rb>è</rb><rt>ã</rt></ruby>ã¯<ruby><rb>ç¾</rb><rt>ãã¦</rt></ruby>ã®<ruby><rb>å</rb><rt>ãã¤</rt></ruby>ã§ã§ãã¦ãã¦ããã®<ruby><rb>å </rb><rt>ãã</rt></ruby>ã<ruby><rb>é</rb><rt>ã¨</rt></ruby>ãããã¾ã¯<ruby><rb>å¯å°</rb><rt>ã¿ã£ã·ã</rt></ruby>ããããã«ã",
+      "spa": "<span class=\"verse-number\">15 </span><span class=\"line\">La gloria <span class=\"clarity-word\">de su vestido son</span> hileras de escudos fuertes,</span><span class=\"line\">sellados estrechamente.</span>",
+      "por": "<span class=\"verse-number\">15</span> As <span class=\"clarity-word\">suas</span> fortes escamas sÃ£o excelentÃ­ssimas, cada uma fechada <span class=\"clarity-word\">como</span> com selo apertado.",
+      "fra": "<span class=\"verse-number\">15</span> Son cÅur est dur comme la pierre, Dur comme la meule infÃ©rieure.",
+      "deu": "<span class=\"verse-number\">15Â </span>Die Wampen seines Leibes haften fest zusammen, sind wie angegossen an ihm, unbeweglich.",
+      "kor": "<span class=\"verse-number\">15</span> ê·¸ì ì¦ë¹í ë¹ëì ê·¸ì ìëì´ë¡ë¤ í¼í¼íê² ë´ì¸íë¯ì´ ë«í ìêµ¬ë",
+      "ita": "<span class=\"verse-number\">15</span> Compatte sono in lui le parti flosce della carne, gli stanno salde addosso, non si muovono."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>One is so near to another, that no air can come between them.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙØªÙÙØ§ØµÙÙÙØ©Ù ÙÙØ§ ÙÙÙÙÙÙØ°Ù ÙÙÙÙ Ø¨ÙÙÙÙÙÙÙØ§ Ø§ÙÙÙÙÙÙØ§Ø¡ÙØ",
+      "jpn": "<span class=\"verse-number\">16</span> <ruby><rb>ç¸äº</rb><rt>ããã</rt></ruby>ã«<ruby><rb>å¯æ¥</rb><rt>ã¿ã£ãã¤</rt></ruby>ãã¦ã<ruby><rb>é¢¨</rb><rt>ãã</rt></ruby>ããã®<ruby><rb>é</rb><rt>ããã </rt></ruby>ã«ãã¯ãããã¨ãã§ããã",
+      "spa": "<span class=\"verse-number\">16 </span><span class=\"line\">El uno se junta con el otro,</span><span class=\"line\">de modo que el viento no entra entre ellos.</span>",
+      "por": "<span class=\"verse-number\">16</span> Uma se chega <span class=\"clarity-word\">tÃ£o</span> perto Ã  outra, que nem um sopro passa por entre elas.",
+      "fra": "<span class=\"verse-number\">16</span> Quand il se lÃ¨ve, les plus vaillants ont peur, Et lâÃ©pouvante les fait fuir.",
+      "deu": "<span class=\"verse-number\">16Â </span>Sein Herz ist hart wie ein Stein und unbeweglich wie ein unterer MÃ¼hlstein.",
+      "kor": "<span class=\"verse-number\">16</span> ê·¸ê²ë¤ì´ ìë¡ ë¬ë¼ë¶ì´ ìì´ ë°ëì´ ê·¸ ì¬ì´ë¡ ì§ëê°ì§ ëª»íëêµ¬ë",
+      "ita": "<span class=\"verse-number\">16</span> Il suo cuore Ã¨ duro come il sasso, duro come la macina di sotto."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>They are joined one to another, they stick together, that they cannot be sundered.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØªÙÙØµÙÙÙØ©Ù Ø¨ÙØ¹ÙØ¶ÙÙÙØ§ Ø¨ÙØ¨ÙØ¹ÙØ¶ÙØ ÙÙØªÙÙÙØ¨ÙÙØ¯ÙØ©Ù ÙÙØ§ ØªÙÙÙÙÙØµÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">17</span> <ruby><rb>äº</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ç¸é£</rb><rt>ããã¤ã</rt></ruby>ãªãã<ruby><rb>åº</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç</rb><rt>ã¤</rt></ruby>ãã¦<ruby><rb>é¢</rb><rt>ã¯ãª</rt></ruby>ããã¨ãã§ããªãã",
+      "spa": "<span class=\"verse-number\">17 </span><span class=\"line\">Pegado estÃ¡ el uno con el otro;</span><span class=\"line\">estÃ¡n trabados entre sÃ­ y no se pueden separar.</span>",
+      "por": "<span class=\"verse-number\">17</span> Umas Ã s outras se apegam; <span class=\"clarity-word\">tanto</span> se travam entre si, que nÃ£o se podem separar.",
+      "fra": "<span class=\"verse-number\">17</span> Câest en vain quâon lâattaque avec lâÃ©pÃ©eÂ ; La lance, le javelot, la flÃ¨che, ne servent Ã  rien.",
+      "deu": "<span class=\"verse-number\">17Â </span>Wenn er auffÃ¤hrt, schaudern selbst Helden, geraten vor Entsetzen auÃer sich.",
+      "kor": "<span class=\"verse-number\">17</span> ìë¡ ì´ì´ì ¸ ë¶ìì¼ë ë¥í ëë ìë ìêµ¬ë",
+      "ita": "<span class=\"verse-number\">17</span> Quando si rizza, tremano i piÃ¹ forti, e dalla paura sono fuori di sÃ©."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>By his neesings a light doth shine, and his eyes <span class=\"clarity-word\">are</span> like the eyelids of the morning.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>Ø¹ÙØ·ÙØ§Ø³ÙÙÙ ÙÙÙÙÙÙØ¶Ù ÙÙÙØ±Ø§ÙØ ÙÙØ¹ÙÙÙÙÙØ§ÙÙ ÙÙØ£ÙØ¬ÙÙÙØ§ÙÙ Ø§ÙÙÙÙØ¬ÙØ±ÙØ",
+      "jpn": "<span class=\"verse-number\">18</span> ãããããããã¿ããã°<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã<ruby><rb>çº</rb><rt>ã¯ã£</rt></ruby>ãããã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã¯ããã¼ã®ã®ã¾ã¶ãã«<ruby><rb>ä¼¼</rb><rt>ã«</rt></ruby>ã¦ããã",
+      "spa": "<span class=\"verse-number\">18 </span><span class=\"line\">Sus estornudos dan destellos de luz,</span><span class=\"line\">y sus ojos son como los pÃ¡rpados del alba.</span>",
+      "por": "<span class=\"verse-number\">18</span> Cada um dos seus espirros faz resplandecer a luz, e os seus olhos <span class=\"clarity-word\">sÃ£o</span> como as pestanas da alva.",
+      "fra": "<span class=\"verse-number\">18</span> Il considÃ¨re le fer comme de la paille, Lâairain comme du bois pourri.",
+      "deu": "<span class=\"verse-number\">18Â </span>Trifft man ihn mit dem Schwert,Â das haftet ebenso wenig wie Speer, WurfspieÃ und Pfeil.",
+      "kor": "<span class=\"verse-number\">18</span> ê·¸ê²ì´ ì¬ì±ê¸°ë¥¼ íì¦ ë¹ì ë°íê³  ê·¸ê²ì ëì ìë²½ì ëêº¼í ë¹ ê°ì¼ë©°",
+      "ita": "<span class=\"verse-number\">18</span> Invano lo si attacca con la spada; a nulla valgono lancia, giavellotto, corazza."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>Out of his mouth go burning lamps, <span class=\"clarity-word\">and</span> sparks of fire leap out.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙÙÙ ÙÙÙÙÙÙ ØªÙØ®ÙØ±ÙØ¬Ù ÙÙØ´ÙØ§Ø¹ÙÙÙ ÙÙÙÙØªÙÙÙØ¨ÙØ©ÙØ ÙÙÙÙØªÙØ·ÙØ§ÙÙØ±Ù ÙÙÙÙÙÙ Ø´ÙØ±ÙØ§Ø±Ù ÙÙØ§Ø±ÙØ",
+      "jpn": "<span class=\"verse-number\">19</span> ãã®<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ããã¯ãããã¾ã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ããã§ã<ruby><rb>ç«è±</rb><rt>ã²ã°ãª</rt></ruby>ããã ãã",
+      "spa": "<span class=\"verse-number\">19 </span><span class=\"line\">De su boca salen llamaradas;</span><span class=\"line\">chispas de fuego saltan.</span>",
+      "por": "<span class=\"verse-number\">19</span> Da sua boca saem tochas, faÃ­scas de fogo arrebentam dela.",
+      "fra": "<span class=\"verse-number\">19</span> La flÃ¨che ne le met pas en fuite, Les pierres de la fronde sont pour lui du chaume.",
+      "deu": "<span class=\"verse-number\">19Â </span>Eisen achtet er gleich Stroh, Erz gleich morschem Holz.",
+      "kor": "<span class=\"verse-number\">19</span> ê·¸ê²ì ìììë íë¶ì´ ëì¤ê³  ë¶ê½ì´ íì´ ëì¤ë©°",
+      "ita": "<span class=\"verse-number\">19</span> Il ferro Ã¨ per lui come paglia; il rame, come legno tarlato."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>Out of his nostrils goeth smoke, as <span class=\"clarity-word\">out</span> of a seething pot or caldron.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙÙÙØ¨ÙØ¹ÙØ«Ù ÙÙÙÙ ÙÙÙÙØ®ÙØ±ÙÙÙÙÙ Ø¯ÙØ®ÙØ§ÙÙ ÙÙÙÙØ£ÙÙÙÙÙÙ ÙÙÙ ÙÙØ¯ÙØ±Ù ÙÙØºÙÙÙÙ Ø£ÙÙÙ ÙÙØ±ÙØ¬ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">20</span> ãã®<ruby><rb>é¼»</rb><rt>ã¯ãª</rt></ruby>ã®<ruby><rb>ç©´</rb><rt>ããª</rt></ruby>ããã¯<ruby><rb>ç</rb><rt>ããã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦ãã¦ãããªãã<ruby><rb>ç®</rb><rt>ã«</rt></ruby>ã<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¤ãªã¹ã®<ruby><rb>æ°´ç</rb><rt>ã¿ãããã</rt></ruby>ã®ãã¨ãã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã<ruby><rb>è¦</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ç</rb><rt>ããã</rt></ruby>ã®ããã ã",
+      "spa": "<span class=\"verse-number\">20 </span><span class=\"line\">De sus narices sale humo,</span><span class=\"line\">como de una olla o caldero que hierve.</span>",
+      "por": "<span class=\"verse-number\">20</span> Das suas narinas procede fumaÃ§a, como de uma panela fervente, ou de juncos ardentes.",
+      "fra": "<span class=\"verse-number\">20</span> Il ne voit dans la massue quâun brin de paille, Il rit au sifflement des dards.",
+      "deu": "<span class=\"verse-number\">20Â </span>Kein Pfeil des Bogens bringt ihn zum Fliehen; Schleudersteine verwandeln sich ihm in Spreu.",
+      "kor": "<span class=\"verse-number\">20</span> ê·¸ê²ì ì½§êµ¬ë©ììë ì°ê¸°ê° ëì¤ë ë§ì¹ ê°ëë¥¼ íì¸ ëì ì¥ì´ ëë ê²ê³¼ ê°êµ¬ë",
+      "ita": "<span class=\"verse-number\">20</span> La figlia dellâarco non lo mette in fuga; le pietre della fionda si mutano per lui in stoppia."
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>His breath kindleth coals, and a flame goeth out of his mouth.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØ¶ÙØ±ÙÙÙ ÙÙÙÙØ³ÙÙÙ Ø§ÙÙØ¬ÙÙÙØ±ÙØ ÙÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙØ·ÙÙÙÙÙ Ø§ÙÙÙÙÙÙØ¨Ù.",
+      "jpn": "<span class=\"verse-number\">21</span> ãã®<ruby><rb>æ¯</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç­ç«</rb><rt>ãã¿ã³</rt></ruby>ããããããã®<ruby><rb>å£</rb><rt>ãã¡</rt></ruby>ããã¯<ruby><rb>ç</rb><rt>ã»ã®ã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">21 </span><span class=\"line\">Su aliento enciende los carbones,</span><span class=\"line\">y de su boca salen llamas.</span>",
+      "por": "<span class=\"verse-number\">21</span> O seu hÃ¡lito faria inflamar os carvÃµes, e da sua boca sai chama.",
+      "fra": "<span class=\"verse-number\">21</span> Sous son ventre sont des pointes aiguÃ«sÂ : On dirait une herse quâil Ã©tend sur le limon.",
+      "deu": "<span class=\"verse-number\">21Â </span>Wie ein Strohhalm kommt ihm die Keule vor, und nur ein LÃ¤cheln hat er fÃ¼r den Anprall der Lanze.",
+      "kor": "<span class=\"verse-number\">21</span> ê·¸ì ìê¹ì ì¯ë¶ì ì§í¼ë©° ê·¸ì ìì ë¶ê¸¸ì ë¿ëêµ¬ë",
+      "ita": "<span class=\"verse-number\">21</span> Stoppia gli pare la mazza e ride del fremere della lancia."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>In his neck remaineth strength, and sorrow is turned into joy before him.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙÙ Ø¹ÙÙÙÙÙÙÙ ØªÙÙÙÙÙÙÙ ÙÙÙÙÙØ©ÙØ ÙÙØ£ÙÙÙØ§ÙÙ Ø¹ÙÙÙÙÙÙÙÙÙ ÙÙØ¹ÙØ¯ÙÙ Ø§ÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">22</span> ãã®<ruby><rb>é¦</rb><rt>ãã³</rt></ruby>ã«ã¯<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã<ruby><rb>å®¿</rb><rt>ãã©</rt></ruby>ã£ã¦ãã¦ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããããããã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>è¸</rb><rt>ãã©</rt></ruby>ã£ã¦ããã",
+      "spa": "<span class=\"verse-number\">22 </span><span class=\"line\">En su cerviz estÃ¡ la fuerza,</span><span class=\"line\">cunde el desaliento delante de Ã©l.</span>",
+      "por": "<span class=\"verse-number\">22</span> No seu pescoÃ§o reside a forÃ§a; perante ele <span class=\"clarity-word\">atÃ©</span> a tristeza salta de prazer.",
+      "fra": "<span class=\"verse-number\">22</span> Il fait bouillir le fond de la mer comme une marmite, Il lâagite comme un vase rempli de parfums.",
+      "deu": "<span class=\"verse-number\">22Â </span>Seine Unterseite bilden spitze Scherben; einen breiten Dreschschlitten drÃ¼ckt er in den Schlamm ein.",
+      "kor": "<span class=\"verse-number\">22</span> ê·¸ê²ì íì ê·¸ì ëª©ëë¯¸ì ìì¼ë ê·¸ ìììë ì ë§ë§ ê°ë ë¿ì´êµ¬ë",
+      "ita": "<span class=\"verse-number\">22</span> Il suo ventre Ã¨ armato di punte acute, e lascia come tracce dâerpice sul fango."
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>Ø«ÙÙÙØ§ÙÙØ§ ÙÙØ­ÙÙÙÙÙ ÙÙØ­ÙÙÙÙÙØ©Ù Ø§ÙØªÙÙÙÙØ§Ø³ÙÙÙØ ÙÙØ³ÙØ¨ÙÙÙÙØ©Ù Ø¹ÙÙÙÙÙÙÙ ÙÙØ§ ØªÙØªÙØ­ÙØ±ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">23</span> ãã®<ruby><rb>èç</rb><rt>ã«ãã¸ã</rt></ruby>ã¯<ruby><rb>å¯æ¥</rb><rt>ã¿ã£ãã¤</rt></ruby>ã«<ruby><rb>ç¸é£</rb><rt>ããã¤ã</rt></ruby>ãªãã<ruby><rb>åº</rb><rt>ãã</rt></ruby>ã<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã«<ruby><rb>ç</rb><rt>ã¤</rt></ruby>ãã¦<ruby><rb>å</rb><rt>ãã</rt></ruby>ãããã¨ãã§ããªãã",
+      "spa": "<span class=\"verse-number\">23 </span><span class=\"line\">Las partes mÃ¡s flojas de su carne estÃ¡n apretadas;</span><span class=\"line\">estÃ¡n en Ã©l firmes y no se mueven.</span>",
+      "por": "<span class=\"verse-number\">23</span> Os mÃºsculos da sua carne estÃ£o pegados <span class=\"clarity-word\">entre si;</span> cada um estÃ¡ firme nele, e nenhum se move.",
+      "fra": "<span class=\"verse-number\">23</span> Il laisse aprÃ¨s lui un sentier lumineuxÂ ; on dirait que lâabÃ®me a des cheveux blancs.",
+      "deu": "<span class=\"verse-number\">23Â </span>Er lÃ¤sst die tiefe Wasserflut wie einen Kochtopf sieden, rÃ¼hrt das Meer auf wie einen Salbenkessel.",
+      "kor": "<span class=\"verse-number\">23</span> ê·¸ê²ì ì´ê»ì§ì ìë¡ ë°ì°©ëì´ íííë©° ìì§ì´ì§ ìëêµ¬ë",
+      "ita": "<span class=\"verse-number\">23</span> Fa bollire lâabisso come una pentola, rende il mare simile a un gran vaso per profumi."
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>His heart is as firm as a stone; yea, as hard as a piece of the nether <span class=\"clarity-word\">millstone.</span>",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙÙÙØ¨ÙÙÙ ØµÙÙÙØ¨Ù ÙÙØ§ÙØµÙÙØ®ÙØ±ÙØ ØµÙÙÙØ¯Ù ÙÙØ§ÙØ±ÙÙØ­ÙÙ Ø§ÙØ³ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">24</span> ãã®<ruby><rb>å¿è</rb><rt>ãããã</rt></ruby>ã¯<ruby><rb>ç³</rb><rt>ãã</rt></ruby>ã®ããã«<ruby><rb>å </rb><rt>ãã</rt></ruby>ããããã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby><ruby><rb>ç³</rb><rt>ãã</rt></ruby>ã®ããã«<ruby><rb>å </rb><rt>ãã</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">24 </span><span class=\"line\">Su corazÃ³n es sÃ³lido como una piedra,</span><span class=\"line\">fuerte como la muela inferior de un molino.</span>",
+      "por": "<span class=\"verse-number\">24</span> O seu coraÃ§Ã£o Ã© firme como uma pedra, e firme como parte da <span class=\"clarity-word\">mÃ³</span> de baixo.",
+      "fra": "<span class=\"verse-number\">24</span> Sur la terre nul nâest son maÃ®treÂ ; Il a Ã©tÃ© crÃ©Ã© pour ne rien craindre.",
+      "deu": "<span class=\"verse-number\">24Â </span>Hinter ihm her leuchtet sein Pfad: Man kÃ¶nnte die Schaumflut fÃ¼r Silberhaar halten.",
+      "kor": "<span class=\"verse-number\">24</span> ê·¸ê²ì ê°ì´ì ëì²ë¼ í¼í¼íë©° ë§·ë ìëì§ ê°ì´ í¼í¼íêµ¬ë",
+      "ita": "<span class=\"verse-number\">24</span> Si lascia dietro una scia di luce; lâabisso pare coperto di bianca chioma."
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>Ø¹ÙÙÙØ¯ÙÙÙØ§ ÙÙÙÙÙÙØ¶Ù ÙÙØ¯ÙØ¨ÙÙ Ø§ÙÙÙÙØ²ÙØ¹Ù ÙÙÙ Ø§ÙØ£ÙÙÙÙÙÙÙØ§Ø¡ÙØ ÙÙÙÙÙÙ Ø¬ÙÙÙØ¨ÙØªÙÙÙ ÙÙØ¹ÙØªÙØ±ÙÙÙÙÙÙ Ø´ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">25</span> ãã®<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã<ruby><rb>èµ·</rb><rt>ãã</rt></ruby>ãã¨ãã¯<ruby><rb>åå£«</rb><rt>ããã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã®<ruby><rb>è¡æ</rb><rt>ããããã</rt></ruby>ã«ãã£ã¦ããã¦<ruby><rb>æ</rb><rt>ã¾ã©</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">25 </span><span class=\"line\">Cuando se levanta, tienen temor los fuertes,</span><span class=\"line\">y a causa de su quebrantamiento buscan purificarse.</span>",
+      "por": "<span class=\"verse-number\">25</span> Levantando-se ele, tremem os valentes; em razÃ£o dos <span class=\"clarity-word\">seus</span> abalos se purificam.",
+      "fra": "<span class=\"verse-number\">25</span> Il regarde avec dÃ©dain tout ce qui est Ã©levÃ©, Il est le roi des plus fiers animaux.",
+      "deu": "<span class=\"verse-number\">25Â </span>Auf Erden gibt es nicht seinesgleichen; er ist dazu geschaffen, sich nie zu fÃ¼rchten.",
+      "kor": "<span class=\"verse-number\">25</span> ê·¸ê²ì´ ì¼ì´ëë©´ ì©ì¬ë¼ë ëë ¤ìíë©° ë¬ìëë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">25</span> Non vâÃ¨ sulla terra chi lo domi; Ã¨ stato fatto per non aver paura."
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span>The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙØ§ ÙÙÙÙØ§ÙÙ ÙÙÙÙÙÙ Ø§ÙØ³ÙÙÙÙÙÙ Ø§ÙÙÙØ°ÙÙ ÙÙØµÙÙØ¨ÙÙÙØ ÙÙÙØ§ Ø§ÙØ±ÙÙÙÙØ­Ù ÙÙÙØ§ Ø§ÙØ³ÙÙÙÙÙÙ ÙÙÙØ§ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">26</span> ã¤ãããããã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã£ã¦ãããããªãããããã<ruby><rb>ç¢</rb><rt>ã</rt></ruby>ããããã<ruby><rb>ç¨</rb><rt>ãã</rt></ruby>ããªããªãã",
+      "spa": "<span class=\"verse-number\">26 </span><span class=\"line\">La espada que lo alcance, no prevalecerÃ¡,</span><span class=\"line\">ni lanza, ni dardo ni jabalina.</span>",
+      "por": "<span class=\"verse-number\">26</span> Se alguÃ©m lhe tocar com a espada, <span class=\"clarity-word\">essa</span> nÃ£o poderÃ¡ penetrar, nem lanÃ§a, dardo ou arpÃ£o.",
+      "deu": "<span class=\"verse-number\">26Â </span>Auf alles Hohe sieht er mit Verachtung hin. Der KÃ¶nig ist er Ã¼ber alle Stolzen.â",
+      "kor": "<span class=\"verse-number\">26</span> ì¹¼ì´ ê·¸ìê² ê½íë ìì©ì´ ìê³  ì°½ì´ë í¬ì°½ì´ë íì´ì´ë ê½íì§ ëª»íëêµ¬ë",
+      "ita": "<span class=\"verse-number\">26</span> Guarda in faccia tutto ciÃ² che Ã¨ eccelso, Ã¨ re su tutte le belve piÃ¹ superbeâ."
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>He esteemeth iron as straw, <span class=\"clarity-word\">and</span> brass as rotten wood.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙØ­ÙØ³ÙØ¨Ù Ø§ÙÙØ­ÙØ¯ÙÙØ¯Ù ÙÙØ§ÙÙÙÙØ´ÙÙ ÙÙØ§ÙÙÙÙØ­ÙØ§Ø³Ù ÙÙØ§ÙÙØ®ÙØ´ÙØ¨Ù Ø§ÙÙÙÙØ®ÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">27</span> ããã¯<ruby><rb>é</rb><rt>ã¦ã¤</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããã¨ãããã®ããã«ã<ruby><rb>éé</rb><rt>ããã©ã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããã¨<ruby><rb>æ½</rb><rt>ã</rt></ruby>ã¡<ruby><rb>æ¨</rb><rt>ã</rt></ruby>ã®ããã§ããã",
+      "spa": "<span class=\"verse-number\">27 </span><span class=\"line\">Al hierro estima como paja,</span><span class=\"line\">y al bronce como madera podrida.</span>",
+      "por": "<span class=\"verse-number\">27</span> Ele reputa o ferro por palha, e o bronze, por madeira podre.",
+      "kor": "<span class=\"verse-number\">27</span> ê·¸ê²ì´ ì ë¥¼ ì§í¸ë¼ê¸° ê°ì´, ëì ì©ì ëë¬´ ê°ì´ ì¬ê¸°ë"
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span>The arrow cannot make him flee: slingstones are turned with him into stubble.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙØ§ ÙÙØ±ÙØºÙÙÙÙÙ Ø§ÙØ³ÙÙÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØ±ÙØ§Ø±ÙØ ÙÙØ­ÙØ¬ÙØ§Ø±ÙØ©Ù Ø§ÙÙÙÙÙÙÙØ§Ø¹Ù ÙÙØ¯ÙÙÙÙÙ ÙÙØ§ÙÙÙÙØ´ÙÙ.",
+      "jpn": "<span class=\"verse-number\">28</span> <ruby><rb>å¼ç¢</rb><rt>ãã¿ã</rt></ruby>ãããã<ruby><rb>éã</rb><rt>ã«ã</rt></ruby>ããã¨ãã§ããªãã<ruby><rb>ç³</rb><rt>ãã</rt></ruby><ruby><rb>æ</rb><rt>ãª</rt></ruby>ãã®<ruby><rb>ç³</rb><rt>ãã</rt></ruby>ãããã«ã¯ãããããã¨ãªãã",
+      "spa": "<span class=\"verse-number\">28 </span><span class=\"line\">La saeta no lo hace huir;</span><span class=\"line\">las piedras de la honda son como paja para Ã©l.</span>",
+      "por": "<span class=\"verse-number\">28</span> A seta nÃ£o o farÃ¡ fugir; as pedras das fundas se lhe tornam em restolho.",
+      "kor": "<span class=\"verse-number\">28</span> íì´ì´ë¼ë ê·¸ê²ì ë¬¼ë¦¬ì¹ì§ ëª»íê² ê³  ë¬¼ë§·ëë ê·¸ê²ìê²ë ê²¨ ê°ì´ ëëêµ¬ë"
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>Darts are counted as stubble: he laugheth at the shaking of a spear.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>Ø§ÙÙÙÙØ±ÙØ§ÙÙØ©Ù ÙÙÙ Ø¹ÙÙÙÙÙÙÙÙÙ ÙÙØ§ÙÙØ¹ÙØµÙØ§ÙÙØ©ÙØ ÙÙÙÙÙÙØ²ÙØ£Ù Ø¨ÙØ§ÙÙØªÙØ²ÙØ§Ø²Ù Ø§ÙØ±ÙÙÙÙØ­Ù Ø§ÙÙÙÙØµÙÙÙÙØ¨Ù Ø¥ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">29</span> ãã<ruby><rb>æ£</rb><rt>ã¼ã</rt></ruby>ãããããã®ããã«ã¿ãªããã<ruby><rb>æ</rb><rt>ãª</rt></ruby>ãããã®<ruby><rb>é¿</rb><rt>ã²ã³</rt></ruby>ãããããã¯ãã<ruby><rb>ç¬</rb><rt>ãã</rt></ruby>ãã",
+      "spa": "<span class=\"verse-number\">29 </span><span class=\"line\">Estima toda arma como hojarasca,</span><span class=\"line\">y del blandir de la jabalina se burla.</span>",
+      "por": "<span class=\"verse-number\">29</span> Considera a clava como palha, e ri-se do brandir da lanÃ§a.",
+      "kor": "<span class=\"verse-number\">29</span> <span class=\"clarity-word\">ê·¸ê²ì</span> ëª½ë¥ì´ë ì§í¸ë¼ê¸° ê°ì´ ì¬ê¸°ê³  ì°½ì´ ë ìì¤ë ìë¦¬ë¥¼ ì°ìµê² ì¬ê¸°ë©°"
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span>Sharp stones <span class=\"clarity-word\">are</span> under him: he spreadeth sharp pointed things upon the mire.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>Ø¨ÙØ·ÙÙÙÙÙ ÙÙÙÙØ·ÙØ¹Ù Ø§ÙÙØ®ÙØ²ÙÙÙ Ø§ÙÙØ­ÙØ§Ø¯ÙÙØ©Ù. Ø¥ÙØ°ÙØ§ ØªÙÙÙØ¯ÙÙØ¯Ù Ø¹ÙÙÙÙ Ø§ÙØ·ÙÙÙÙÙ ÙÙØªÙØ±ÙÙÙ Ø¢Ø«ÙØ§Ø±Ø§Ù ÙÙÙÙØ§Ø«ÙÙÙØ©Ù ÙÙØ¢Ø«ÙØ§Ø±Ù Ø§ÙÙÙÙÙÙØ±ÙØ¬Ù.",
+      "jpn": "<span class=\"verse-number\">30</span> ãã®<ruby><rb>ä¸è¹</rb><rt>ããµã</rt></ruby>ã¯<ruby><rb>é­</rb><rt>ããã©</rt></ruby>ããããã®ãããã®ããã§ã<ruby><rb>éº¦</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ¿</rb><rt>ãã</rt></ruby>ã®ããã«ãã®<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã<ruby><rb>æ³¥</rb><rt>ã©ã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ä¼¸</rb><rt>ã®</rt></ruby>ã°ãã",
+      "spa": "<span class=\"verse-number\">30 </span><span class=\"line\">Por debajo <span class=\"clarity-word\">tiene</span> escamas puntiagudas;</span><span class=\"line\">deja huellas como un trillo en el barro.</span>",
+      "por": "<span class=\"verse-number\">30</span> Debaixo de si <span class=\"clarity-word\">tem</span> cacos pontiagudos; estende-se <span class=\"clarity-word\">sobre</span> coisas pontiagudas <span class=\"clarity-word\">como</span> na lama.",
+      "kor": "<span class=\"verse-number\">30</span> ê·¸ê²ì ìëìª½ìë ë ì¹´ë¡ì´ í ê¸° ì¡°ê° ê°ì ê²ì´ ë¬ë ¤ ìê³  ê·¸ê²ì´ ì§ëê° ëë ì§í ë°ë¥ì ëë¦¬ê¹¨ë¡ ì¹ ìêµ­ì ë¨ê¸°ëêµ¬ë"
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span>He maketh the deep to boil like a pot: he maketh the sea like a pot of ointment.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙØ¬ÙØ¹ÙÙÙ Ø§ÙÙÙÙØ¬ÙÙØ©Ù ØªÙØºÙÙÙÙ ÙÙØ§ÙÙÙÙØ¯ÙØ±ÙØ ÙÙØ§ÙÙØ¨ÙØ­ÙØ±Ù ÙÙØ¬ÙÙØ´Ù ÙÙÙÙØ¯ÙØ±Ù Ø§ÙØ·ÙÙÙØ¨Ù.",
+      "jpn": "<span class=\"verse-number\">31</span> ããã¯<ruby><rb>æ·µ</rb><rt>ãµã¡</rt></ruby>ãããªãã®ããã«<ruby><rb>æ²¸</rb><rt>ã</rt></ruby>ãããããã<ruby><rb>æµ·</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>é¦æ²¹</rb><rt>ããã</rt></ruby>ã®ãªã¹ã®ããã«ããã",
+      "spa": "<span class=\"verse-number\">31 </span><span class=\"line\">Hace hervir como una olla las profundidades,</span><span class=\"line\">y convierte el mar en una olla de ungÃ¼ento.</span>",
+      "por": "<span class=\"verse-number\">31</span> As profundezas faz ferver como uma panela; torna o mar como uma caldeira de unguento.",
+      "kor": "<span class=\"verse-number\">31</span> ê¹ì ë¬¼ì ì¥ì ë¬¼ì´ ëì ê°ê² íë©° ë°ë¤ë¥¼ ê¸°ë¦ë³ ê°ì´ ë¤ë£¨ëëë¤"
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span>He maketh a path to shine after him; <span class=\"clarity-word\">one</span> would think the deep <span class=\"clarity-word\">to be</span> hoary.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØªÙØ±ÙÙÙ Ø®ÙÙÙÙÙÙÙ Ø®ÙØ·ÙØ§Ù ÙÙÙÙ Ø²ÙØ¨ÙØ¯Ù Ø£ÙØ¨ÙÙÙØ¶ÙØ ÙÙÙÙØ®ÙØ§ÙÙ Ø£ÙÙÙÙ Ø§ÙÙØ¨ÙØ­ÙØ±Ù ÙÙØ¯Ù Ø£ÙØµÙØ§Ø¨ÙÙÙ Ø§ÙØ´ÙÙÙÙØ¨Ù.",
+      "jpn": "<span class=\"verse-number\">32</span> ããã¯<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®ãã¨ã«<ruby><rb>å</rb><rt>ã²ã</rt></ruby>ã<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã<ruby><rb>æ®</rb><rt>ã®ã</rt></ruby>ãã<ruby><rb>æ·µ</rb><rt>ãµã¡</rt></ruby>ããããã®ããã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã",
+      "spa": "<span class=\"verse-number\">32 </span><span class=\"line\">En pos de sÃ­ hace resplandecer una estela,</span><span class=\"line\">que hace que el abismo parezca canoso.</span>",
+      "por": "<span class=\"verse-number\">32</span> ApÃ³s ele alumia o caminho; parece o abismo tornado em brancura de cÃ£s.",
+      "kor": "<span class=\"verse-number\">32</span> ê·¸ê²ì ë¤ìì ë¹ëë ë¬¼ì¤ê¸°ê° ëì¤ë ê·¸ë ê¹ì ë°ë¤ë¥¼ ë°±ë°ë¡ ë§ëëêµ¬ë"
+    },
+    "33": {
+      "eng": "<span class=\"verse-number\">33 </span>Upon earth there is not his like, who is made without fear.",
+      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>ÙÙØ§ ÙÙØ¸ÙÙØ±Ù ÙÙÙÙ ÙÙÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù ÙØ£ÙÙÙÙÙÙ ÙÙØ®ÙÙÙÙÙÙ Ø¹ÙØ¯ÙÙÙÙ Ø§ÙÙØ®ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">33</span> <ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ã¯ããã¨<ruby><rb>ä¸¦</rb><rt>ãªã</rt></ruby>ã¶ãã®ãªããããã¯<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã®ãªã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã«<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãããã",
+      "spa": "<span class=\"verse-number\">33 </span><span class=\"line\">No hay nada sobre la tierra semejante a Ã©l;</span><span class=\"line\">estÃ¡ hecho exento de temor.</span>",
+      "por": "<span class=\"verse-number\">33</span> Na terra nÃ£o hÃ¡ coisa que se lhe possa comparar, <span class=\"clarity-word\">pois</span> foi feito para estar sem pavor.",
+      "kor": "<span class=\"verse-number\">33</span> ì¸ììë ê·¸ê²ê³¼ ë¹í  ê²ì´ ìì¼ë ê·¸ê²ì ëë ¤ìì´ ìë ê²ì¼ë¡ ì§ì ë°ìêµ¬ë"
+    },
+    "34": {
+      "eng": "<span class=\"verse-number\">34 </span>He beholdeth all high <span class=\"clarity-word\">things:</span> he <span class=\"clarity-word\">is</span> a king over all the children of pride.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>ÙÙØ­ÙØªÙÙÙØ±Ù ÙÙÙÙÙ ÙÙØ§ ÙÙÙÙ ÙÙØªÙØ¹ÙØ§ÙÙØ ÙÙÙÙÙÙ ÙÙÙÙÙÙ Ø¹ÙÙÙÙ Ø°ÙÙÙÙ Ø§ÙÙÙÙØ¨ÙØ±ÙÙÙØ§Ø¡Ùâ.",
+      "jpn": "<span class=\"verse-number\">34</span> ããã¯ãã¹ã¦ã®<ruby><rb>é«</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããããã¿ããã¹ã¦ã®<ruby><rb>èª</rb><rt>ã»ã</rt></ruby>ã<ruby><rb>é«</rb><rt>ãã</rt></ruby>ã¶ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã§ãããã",
+      "spa": "<span class=\"verse-number\">34 </span><span class=\"line\">Menosprecia toda cosa alta;</span><span class=\"line\">es rey sobre todos los hijos del orgullo.</span>",
+      "por": "<span class=\"verse-number\">34</span> Todo o alto vÃª; <span class=\"clarity-word\">Ã©</span> rei sobre todos os filhos de <span class=\"clarity-word\">animais</span> altivos.",
+      "kor": "<span class=\"verse-number\">34</span> ê·¸ê²ì ëª¨ë  ëì ìë¥¼ ë´ë ¤ë¤ë³´ë©° ëª¨ë  êµë§í ìë¤ìê² êµ°ë¦¼íë ìì´ëë¼"
+    }
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "gen",
+    "chapter": 10,
+    "headings": {
+      "eng": "The descendants of Noah are Japheth, whose descendants are Gentiles; Ham, whose descendants include the Canaanites; and Shem, of whom came Peleg (in whose days the earth was divided).",
+      "zhs": "<u>æªäº</u>çåä»£æï¼<u>éå¼</u>ï¼ä»çåä»£æ¯å¤é¦äººï¼<u>å«</u>ï¼ä»çåä»£åæ¬<u>è¿¦å</u>äººï¼<u>éª</u>ï¼ä»çåä»£æ¯<u>æ³å</u>ï¼é£æ¶äººå°±åå°å±ä½ï¼ã",
+      "zht": "<u>æªäº</u>çå¾ä»£æï¼<u>éå¼</u>ï¼ä»çå¾ä»£æ¯å¤é¦äººï¼<u>å«</u>ï¼ä»çå¾ä»£åæ¬<u>è¿¦å</u>äººï¼<u>é</u>ï¼ä»çå¾ä»£æ¯<u>æ³å</u>ï¼é£æäººå°±åå°å±ä½ï¼ã",
+      "spa": "Los descendientes de NoÃ© son: Jafet, cuyos descendientes son los gentiles; Cam, cuyos descendientes incluyen a los cananeos; y Sem, de quien vino Peleg, en cuyos dÃ­as se dividiÃ³ la tierra.",
+      "por": "Os descendentes de NoÃ© sÃ£o: JafÃ©, cujos descendentes sÃ£o os gentios; CÃ£o, cujos descendentes incluem os cananeus; e Sem, de quem procedeu Pelegue, em cujos dias foi dividida a Terra.",
+      "fra": "Les descendants de NoÃ© sont Japhet, de qui sont issus les Gentils, Cham, de qui sont issus les CananÃ©ens, et Sem, de qui est issu PÃ©leg (pendant la vie duquel la terre fut partagÃ©e).",
+      "deu": "Die Nachkommen Noachs sind Jafet, dessen Nachkommen zu den Anderen zÃ¤hlen, Ham, zu dessen Nachkommen die Kanaaniter gehÃ¶ren, sowie Sem, von dem Peleg abstammte (in dessen Tagen die Erde sich teilte).",
+      "ita": "I discendenti di NoÃ¨ sono Iafet, da cui discendono le nazioni Gentili; Cam, tra i cui discendenti vi sono i Cananei; e Sem, da cui nacque Peleg (ai cui giorni la terra fu divisa)."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Now these <span class=\"clarity-word\">are</span> the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ°ÙØ§ Ø³ÙØ¬ÙÙÙÙ ÙÙÙÙØ§ÙÙÙØ¯Ù Ø³ÙØ§ÙÙ ÙÙØ­ÙØ§ÙÙ ÙÙÙÙØ§ÙÙØ«Ù Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙÙØ­ÙØ ÙÙÙÙÙÙ ÙÙÙÙØ¯Ù ÙÙÙÙÙÙ ÙÙÙÙ Ø¨ÙØ¹ÙØ¯Ù Ø§ÙØ·ÙÙÙÙÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">1</span> ãã¢ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã»ã ããã ãã¤ããã®<ruby><rb>ç³»å³</rb><rt>ããã</rt></ruby>ã¯<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®ã¨ããã§ããã<ruby><rb>æ´ªæ°´</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>å¾</rb><rt>ã®ã¡</rt></ruby>ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>å­</rb><rt>ã</rt></ruby>ã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">1ã</span><u>æªäº</u>çå¿å­<u>éª</u>ã<u>å«</u>ã<u>éå¼</u>çåä»£è®°å¨ä¸é¢ãæ´ªæ°´ä»¥åï¼ä»ä»¬é½çäºå¿å­ã",
+      "zht": "<span class=\"verse-number\">1ã</span><u>æªäº</u>çåå­<u>é</u>ã<u>å«</u>ã<u>éå¼</u>çå¾ä»£è¨å¨ä¸é¢ãæ´ªæ°´ä»¥å¾ï¼ä»åé½çäºåå­ã",
+      "spa": "<span class=\"verse-number\">1 </span>Estas son las generaciones de los hijos de NoÃ©: Sem, Cam y Jafet, a quienes nacieron hijos despuÃ©s del diluvio.",
+      "por": "<span class=\"verse-number\">1</span> Estas pois sÃ£o as geraÃ§Ãµes dos filhos de NoÃ©: Sem, CÃ£o, e JafÃ©; e nasceram-lhes filhos depois do dilÃºvio.",
+      "fra": "<span class=\"verse-number\">1</span> Voici la postÃ©ritÃ© des fils de NoÃ©, Sem, Cham et JaphetÂ : Il leur naquit des fils aprÃ¨s le dÃ©luge.",
+      "deu": "<span class=\"verse-number\">1Â </span>Dies ist der Stammbaum der NoachsÃ¶hne Sem, Ham und Jafet; SÃ¶hne wurden ihnen erst nach der Sintflut geboren.",
+      "kor": "<span class=\"verse-number\">1</span> ë¸ìì ìë¤ ìê³¼ í¨ê³¼ ì¼ë²³ì ì¡±ë³´ë ì´ë¬íëë¼ íì íì ê·¸ë¤ì´ ìë¤ë¤ì ë³ìì¼ë",
+      "ita": "<span class=\"verse-number\">1</span> Questa Ã¨ la posteritÃ  dei figli di NoÃ¨: Sem, Cam e Iafet; e a loro nacquero dei figli, dopo il diluvio."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙØ§ÙÙØ«Ù: Ø¬ÙÙÙÙØ±Ù ÙÙÙÙØ§Ø¬ÙÙØ¬Ù ÙÙÙÙØ§Ø¯ÙØ§ÙÙ ÙÙÙÙØ§ÙÙØ§ÙÙ ÙÙØªÙÙØ¨ÙØ§ÙÙ ÙÙÙÙØ§Ø´ÙÙÙ ÙÙØªÙÙØ±ÙØ§Ø³Ù.",
+      "jpn": "<span class=\"verse-number\">2</span> ã¤ããã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ã´ã¡ã«ããã´ã°ãããã¤ãã¤ã¯ã³ãããã«ãã¡ã»ã¯ããã©ã¹ã§ãã£ãã",
+      "zhs": "<span class=\"verse-number\">2ã</span><u>éå¼</u>çå¿å­æ¯<u>æ­ç¯¾</u>ã<u>çå</u>ã<u>çä»£</u>ã<u>éå®</u>ã<u>åå·´</u>ã<u>ç±³è®¾</u>ã<u>ææ</u>ã",
+      "zht": "<span class=\"verse-number\">2ã</span><u>éå¼</u>çåå­æ¯<u>æ­ç¯¾</u>ã<u>çªå</u>ã<u>çªä»£</u>ã<u>éå®</u>ã<u>åå·´</u>ã<u>ç±³è¨­</u>ã<u>ææ</u>ã",
+      "spa": "<span class=\"verse-number\">2 </span>Los hijos de Jafet: Gomer, y Magog, y Madai, y JavÃ¡n, y Tubal, y Mesec y Tiras.",
+      "por": "<span class=\"verse-number\">2</span> Os filhos de JafÃ© <span class=\"clarity-word\">sÃ£o:</span> Gomer, e Magogue, e Madai, e JavÃ£, e Tubal, e Meseque, e Tiras.",
+      "fra": "<span class=\"verse-number\">2</span> Les fils de Japhet furentÂ : Gomer, Magog, MadaÃ¯, Javan, Tubal, MÃ©schec et Tiras.",
+      "deu": "<span class=\"verse-number\">2Â </span>Die SÃ¶hne Jafets waren: Gomer, Magog, Madai, Jawan, Tubal, Meschech und Tiras.",
+      "kor": "<span class=\"verse-number\">2</span> ì¼ë²³ì ìë¤ì ê³ ë©ê³¼ ë§ê³¡ê³¼ ë§ëì ì¼ìê³¼ ëë°ê³¼ ë©ì¹ê³¼ ëë¼ì¤ì",
+      "ita": "<span class=\"verse-number\">2</span> I figli di Jafet furono Gomer, Magog, Madai, Iavan, Tubal, Mescec e Tiras."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù Ø¬ÙÙÙÙØ±Ù: Ø£ÙØ´ÙÙÙÙÙØ§Ø²Ù ÙÙØ±ÙÙÙÙØ§Ø«Ù ÙÙØªÙÙØ¬ÙØ±ÙÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">3</span> ã´ã¡ã«ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ã¢ã·ã±ããºããªããããã¬ã«ãã",
+      "zhs": "<span class=\"verse-number\">3ã</span><u>æ­ç¯¾</u>çå¿å­æ¯<u>äºå®åºæ¿</u>ã<u>å©æ³</u>ã<u>éè¿¦ç</u>ã",
+      "zht": "<span class=\"verse-number\">3ã</span><u>æ­ç¯¾</u>çåå­æ¯<u>äºå¯¦åºæ¿</u>ã<u>å©æ³</u>ã<u>éè¿¦çª</u>ã",
+      "spa": "<span class=\"verse-number\">3 </span>Y los hijos de Gomer: Askenaz, y Rifat y Togarma.",
+      "por": "<span class=\"verse-number\">3</span> E os filhos de Gomer <span class=\"clarity-word\">sÃ£o:</span> Asquenaz, e Rifate, e Togarma.",
+      "fra": "<span class=\"verse-number\">3</span> Les fils de GomerÂ : Aschkenaz, Riphat et Togarma.",
+      "deu": "<span class=\"verse-number\">3Â </span>Die SÃ¶hne Gomers waren: Aschkenas, Rifat und Togarma.",
+      "kor": "<span class=\"verse-number\">3</span> ê³ ë©ì ìë¤ì ìì¤ê·¸ëì¤ì ë¦¬ë°§ê³¼ ëê°ë§ì",
+      "ita": "<span class=\"verse-number\">3</span> I figli di Gomer: Aschenaz, Rifat e Togarma."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙØ§ÙÙØ§ÙÙ: Ø£ÙÙÙÙØ´ÙØ©Ù ÙÙØªÙØ±ÙØ´ÙÙØ´Ù ÙÙÙÙØªÙÙÙÙÙ ÙÙØ¯ÙÙØ¯ÙØ§ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">4</span> ã¤ã¯ã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ã¨ãªã·ã£ãã¿ã«ã·ã·ãã­ããã ããããã ã§ãã£ãã",
+      "zhs": "<span class=\"verse-number\">4ã</span><u>éå®</u>çå¿å­æ¯<u>ä»¥å©æ²</u>ã<u>ä»æ½</u>ã<u>åºæ</u>ã<u>å¤å</u>ã",
+      "zht": "<span class=\"verse-number\">4ã</span><u>éå®</u>çåå­æ¯<u>ä»¥å©æ²</u>ã<u>ä»æ½</u>ã<u>åºæ</u>ã<u>å¤å®</u>ã",
+      "spa": "<span class=\"verse-number\">4 </span>Y los hijos de JavÃ¡n: Elisa, y Tarsis, Quitim y Dodanim.",
+      "por": "<span class=\"verse-number\">4</span> E os filhos de JavÃ£ <span class=\"clarity-word\">sÃ£o:</span> ElisÃ¡, e TÃ¡rsis, Quitim, e Dodanim.",
+      "fra": "<span class=\"verse-number\">4</span> Les fils de JavanÂ : Ãlischa, Tarsis, Kittim et Dodanim.",
+      "deu": "<span class=\"verse-number\">4Â </span>Und die SÃ¶hne Jawans: Elischa und Tarschisch, die KittÃ¤er und die Rodaniter.",
+      "kor": "<span class=\"verse-number\">4</span> ì¼ìì ìë¤ì ìë¦¬ì¬ì ë¬ìì¤ì ê¹ë¤ê³¼ ëë¤ëì´ë¼",
+      "ita": "<span class=\"verse-number\">4</span> I figli di Iavan: Elisha, Tarsis, Chittim e Dodanim."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØªÙÙÙØ±ÙÙØ¹Ù ÙÙÙÙ ÙÙØ¤ÙÙØ§Ø¡Ù Ø³ÙÙÙÙØ§ÙÙ Ø§ÙÙØ¬ÙØ²ÙØ§Ø¦ÙØ±Ù ÙÙØªÙÙÙØ±ÙÙÙÙÙØ§ ÙÙÙ ÙÙÙÙØ§Ø·ÙÙÙÙÙÙÙ Ø­ÙØ³ÙØ¨Ù ÙÙØ¨ÙØ§Ø¦ÙÙÙÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙÙÙÙØ ÙÙÙÙØºÙØ§ØªÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">5</span> ããããã<ruby><rb>æµ·æ²¿</rb><rt>ãã¿ã</rt></ruby>ãã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®<ruby><rb>å½æ°</rb><rt>ããã¿ã</rt></ruby>ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã¦ããã®ãã®ãã®<ruby><rb>åå°</rb><rt>ã¨ã¡</rt></ruby>ã«ããããã®<ruby><rb>è¨èª</rb><rt>ããã</rt></ruby>ã«ããããããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ãããã£ã¦ããã®<ruby><rb>å½ã</rb><rt>ãã«ãã«</rt></ruby>ã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ãã ã",
+      "zhs": "<span class=\"verse-number\">5ã</span>è¿äºäººçåè£å°åå½çå°åãæµ·å²åå¼å±ä½ï¼åéåçæ¹è¨ãå®æç«å½ã",
+      "zht": "<span class=\"verse-number\">5ã</span>éäºäººçå¾è£å°ååçå°åãæµ·å³¶åéå±ä½ï¼åé¨åçæ¹è¨ãå®æç«åã",
+      "spa": "<span class=\"verse-number\">5 </span>Por estos fueron repartidas las islas de las gentes en sus tierras, cada cual segÃºn su lengua, conforme a sus familias en sus naciones.",
+      "por": "<span class=\"verse-number\">5</span> Por estes foram repartidas as ilhas das naÃ§Ãµes nas suas terras, cada qual segundo a sua lÃ­ngua, segundo as suas famÃ­lias, entre as suas naÃ§Ãµes.",
+      "fra": "<span class=\"verse-number\">5</span> Câest par eux quâont Ã©tÃ© peuplÃ©es les rÃ©gions cÃ´tiÃ¨res des nations selon leurs terres, selon la langue de chacun, selon leurs familles, selon leurs nations.",
+      "deu": "<span class=\"verse-number\">5Â </span>Von diesen aus haben sich die Bewohner der MeereslÃ¤nder der VÃ¶lker abgezweigt. Dies sind die SÃ¶hne Jafets nach ihren LÃ¤ndern, jeder nach seiner Sprache, nach ihren StÃ¤mmen, nach ihren VÃ¶lkern.",
+      "kor": "<span class=\"verse-number\">5</span> ì´ë¤ë¡ë¶í° ì¬ë¬ ëë¼ ë°±ì±ì¼ë¡ ëëì´ì ê°ê¸° ì¸ì´ì ì¢ì¡±ê³¼ ëë¼ëë¡ ë°ë·ê°ì ëì ë¨¸ë¬¼ë ëë¼",
+      "ita": "<span class=\"verse-number\">5</span> Da essi vennero i popoli sparsi nelle isole delle nazioni, nei loro diversi paesi, ciascuno secondo la propria lingua, secondo le loro famiglie, nelle loro nazioni."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span><span class=\"para-mark\">Â¶ </span>And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù Ø­ÙØ§ÙÙ: ÙÙÙØ´Ù ÙÙÙÙØµÙØ±ÙØ§ÙÙÙÙ ÙÙÙÙÙØ·Ù ÙÙÙÙÙÙØ¹ÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">6</span> ãã ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ã¯ã·ãããã©ã¤ã ããããã«ãã³ã§ãã£ãã",
+      "zhs": "<span class=\"verse-number\">6ã</span>å«çå¿å­æ¯å¤å®ãéº¦è¥¿ã<u>å¼</u>ã<u>è¿¦å</u>ã",
+      "zht": "<span class=\"verse-number\">6ã</span>å«çåå­æ¯å¤å¯¦ãéº¥è¥¿ã<u>å¼</u>ã<u>è¿¦å</u>ã",
+      "spa": "<span class=\"verse-number\">6 </span>Los hijos de Cam: Cus, y Mizraim, y Fut y CanaÃ¡n.",
+      "por": "<span class=\"verse-number\">6</span> E os filhos de CÃ£o <span class=\"clarity-word\">sÃ£o:</span> Cuxe, e Mizraim, e Pute, e CanaÃ£.",
+      "fra": "<span class=\"verse-number\">6</span> Les fils de Cham furentÂ : Cusch, MitsraÃ¯m, Puth et Canaan.",
+      "deu": "<span class=\"verse-number\">6Â </span>Die SÃ¶hne Hams waren: Kusch, Mizraim, Put und Kanaan.",
+      "kor": "<span class=\"verse-number\">6</span> í¨ì ìë¤ì êµ¬ì¤ì ë¯¸ì¤ë¼ìê³¼ ë¶ê³¼ ê°ëìì´ì",
+      "ita": "<span class=\"verse-number\">6</span> I figli di Cam furono Cush, Mizraim, Put e Canaan."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙÙØ´Ù: Ø³ÙØ¨ÙØ§Ø ÙÙØ­ÙÙÙÙÙÙØ©ÙØ ÙÙØ³ÙØ¨ÙØªÙØ©Ù ÙÙØ±ÙØ¹ÙÙÙØ©Ù ÙÙØ³ÙØ¨ÙØªÙÙÙØ§. ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù Ø±ÙØ¹ÙÙÙØ©Ù: Ø³ÙØ¨ÙØ§ ÙÙØ¯ÙØ¯ÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">7</span> ã¯ã·ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ã»ããããã©ããµãã¿ãã©ã¢ãããµããã«ã§ãããã©ã¢ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ã·ãã¨ããã³ã§ãã£ãã",
+      "zhs": "<span class=\"verse-number\">7ã</span><u>å¤å®</u>çå¿å­æ¯<u>è¥¿å·´</u>ã<u>åèæ</u>ã<u>æå¼ä»</u>ã<u>æç</u>ã<u>æå¼æè¿¦</u>ã<u>æç</u>çå¿å­æ¯<u>ç¤ºå·´</u>ã<u>åºä½</u>ã",
+      "zht": "<span class=\"verse-number\">7ã</span><u>å¤å¯¦</u>çåå­æ¯<u>è¥¿å·´</u>ã<u>åèæ</u>ã<u>æå¼ä»</u>ã<u>æçª</u>ã<u>æå¼æè¿¦</u>ã<u>æçª</u>çåå­æ¯<u>ç¤ºå·´</u>ã<u>åºä½</u>ã",
+      "spa": "<span class=\"verse-number\">7 </span>Y los hijos de Cus: Seba, Havila, y Sabta, y Raama y Sabteca. Y los hijos de Raama: Seba y DedÃ¡n.",
+      "por": "<span class=\"verse-number\">7</span> E os filhos de Cuxe <span class=\"clarity-word\">sÃ£o:</span> SebÃ¡, e HavilÃ¡, e SabtÃ¡, e RaamÃ¡, e SabtecÃ¡; e os filhos de RaamÃ¡ sÃ£o: SabÃ¡ e DedÃ£.",
+      "fra": "<span class=\"verse-number\">7</span> Les fils de CuschÂ : Saba, Havila, Sabta, Raema et Sabteca. Les fils de RaemaÂ : SÃ©ba et Dedan.",
+      "deu": "<span class=\"verse-number\">7Â </span>Und die SÃ¶hne Kuschs: Seba, Hawila, Sabta, Ragma und Sabtecha; und die SÃ¶hne Ragmas: Saba und Dedan.",
+      "kor": "<span class=\"verse-number\">7</span> êµ¬ì¤ì ìë¤ì ì¤ë°ì íìë¼ì ì½ë¤ì ë¼ìë§ì ì½ëê°ì ë¼ìë§ì ìë¤ì ì¤ë°ì ëë¨ì´ë©°",
+      "ita": "<span class=\"verse-number\">7</span> I figli di Cush: Seba, Avila, Sabta, Raama e Sabteca; e i figli di Raama: Sceba e Dedan."
+    },
+    "8": {
+      "eng": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"Associated Content\"><button aria-label=\"Associated Content\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8 </span>And Cush begat Nimrod: he began to be a mighty one in the earth.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙÙÙØ´Ù ÙÙÙÙØ±ÙÙØ¯Ù Ø§ÙÙÙØ°ÙÙ ÙÙØ§ ÙÙØ¨ÙØ«Ù Ø£ÙÙÙ Ø£ÙØµÙØ¨ÙØ­Ù Ø¹ÙØ§ØªÙÙØ§Ù ÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù.",
+      "jpn": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"é¢é£ã³ã³ãã³ã\"><button aria-label=\"é¢é£ã³ã³ãã³ã\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8</span> ã¯ã·ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ãã ã­ãã§ãã£ã¦ããã®ãã ã­ãã¯<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ã®<ruby><rb>æ¨©åè</rb><rt>ããããããã</rt></ruby>ã¨ãªã£ã<ruby><rb>æå</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã§ããã",
+      "zhs": "<span class=\"verse-number\">8ã</span><u>å¤å®</u>åçå®å½ï¼ä»ä¸ºä¸ä¸è±éä¹é¦ã",
+      "zht": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"ç¸éå§å®¹\"><button aria-label=\"ç¸éå§å®¹\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8ã</span><u>å¤å¯¦</u>åçå¯§éï¼ä»çºä¸ä¸è±éä¹é¦ã",
+      "spa": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"Contenido relacionado\"><button aria-label=\"Contenido relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8 </span>Y Cus engendrÃ³ a Nimrod; este comenzÃ³ a ser poderoso en la tierra.",
+      "por": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"ConteÃºdo relacionado\"><button aria-label=\"ConteÃºdo relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8</span> E Cuxe gerou Ninrode; este comeÃ§ou a ser poderoso na terra.",
+      "fra": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"Contenu associÃ©\"><button aria-label=\"Contenu associÃ©\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8</span> Cusch engendra aussi NimrodÂ ; câest lui qui commenÃ§a Ã  Ãªtre puissant sur la terre.",
+      "deu": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"DazugehÃ¶riger Inhalt\"><button aria-label=\"DazugehÃ¶riger Inhalt\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8Â </span>Kusch war der Vater Nimrods; dieser wurde der erste Gewalthaber auf der Erde.",
+      "kor": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"ê´ë ¨ ì½íì¸ \"><button aria-label=\"ê´ë ¨ ì½íì¸ \" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8</span> êµ¬ì¤ê° ë ëë¯ë¡¯ì ë³ìì¼ë ê·¸ë ì¸ìì ì²« ì©ì¬ë¼",
+      "ita": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"Contenuti collegati\"><button aria-label=\"Contenuti collegati\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8</span> E Cush generÃ² Nimrod, che cominciÃ² a essere potente sulla terra."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>He was a mighty hunter before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>: wherefore it is said, Even as Nimrod the mighty hunter before the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ§ÙÙ ØµÙÙÙÙØ§Ø¯Ø§Ù Ø¹ÙØ§ØªÙÙØ§Ù Ø£ÙÙÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙØ ÙÙØ°ÙÙÙÙÙ ÙÙÙÙØ§ÙÙ: âÙÙÙÙÙÙØ±ÙÙØ¯Ù Ø¬ÙØ¨ÙÙØ§Ø±ÙÙ ØµÙÙÙØ¯Ù Ø£ÙÙÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙâ.",
+      "jpn": "<span class=\"verse-number\">9</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ãã<ruby><rb>ç©çè</rb><rt>ããããããã</rt></ruby>ã§ãã£ããããããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ãã<ruby><rb>ç©çè</rb><rt>ããããããã</rt></ruby>ãã ã­ãã®ãã¨ããã¨ãããã¨ããã<ruby><rb>èµ·</rb><rt>ã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">9ã</span>ä»å¨è¶ååé¢åæ¯ä¸ªè±åççæ·ï¼æä»¥ä¿è¯­è¯´ï¼å<u>å®å½</u>å¨è¶ååé¢åæ¯ä¸ªè±åççæ·ã",
+      "zht": "<span class=\"verse-number\">9ã</span>ä»å¨è¶åè¯é¢åæ¯åè±åççµæ¶ï¼æä»¥ä¿èªèªªï¼å<u>å¯§é</u>å¨è¶åè¯é¢åæ¯åè±åççµæ¶ã",
+      "spa": "<span class=\"verse-number\">9 </span>Este fue poderoso cazador delante de JehovÃ¡, por lo cual se dice: AsÃ­ como Nimrod, poderoso cazador delante de JehovÃ¡.",
+      "por": "<span class=\"verse-number\">9</span> E este foi poderoso caÃ§ador diante da face do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; pelo que se diz: Como Ninrode, poderoso caÃ§ador diante do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
+      "fra": "<span class=\"verse-number\">9</span> Il fut un vaillant chasseur devant lâÃternelÂ ; câest pourquoi lâon ditÂ : Comme Nimrod, vaillant chasseur devant lâÃternel.",
+      "deu": "<span class=\"verse-number\">9Â </span>Er war ein gewaltiger JÃ¤ger vor dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span>; darum pflegt man zu sagen: âEin gewaltiger JÃ¤ger vor dem <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> wie Nimrod.â",
+      "kor": "<span class=\"verse-number\">9</span> ê·¸ê° ì¬í¸ì ììì ì©ê°í ì¬ë¥ê¾¼ì´ ëìì¼ë¯ë¡ ìë´ì ì´ë¥´ê¸°ë¥¼ ìë¬´ë ì¬í¸ì ìì ëë¯ë¡¯ ê°ì´ ì©ê°í ì¬ë¥ê¾¼ì´ë¡ë¤ íëë¼",
+      "ita": "<span class=\"verse-number\">9</span> Egli fu un potente cacciatore nel cospetto dellâEterno; perciÃ² si dice: âCome Nimrod, potente cacciatore nel cospetto dellâEternoâ."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙÙÙØ¯Ù ØªÙÙÙÙÙÙÙÙØªÙ ÙÙÙÙÙÙÙÙØªÙÙÙ Ø£ÙÙÙÙÙÙ Ø§ÙØ£ÙÙÙØ±Ù ÙÙÙÙ Ø¨ÙØ§Ø¨ÙÙÙ ÙÙØ£ÙØ±ÙÙÙ ÙÙØ£ÙÙÙÙØ¯Ù ÙÙÙÙÙÙÙÙØ©Ù ÙÙÙ Ø£ÙØ±ÙØ¶Ù Ø´ÙÙÙØ¹ÙØ§Ø±Ù.",
+      "jpn": "<span class=\"verse-number\">10</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ã¯<ruby><rb>æå</rb><rt>ãããã</rt></ruby>ã·ãã«ã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã«ããããã«ãã¨ã¬ã¯ãã¢ã«ããã«ã«ãã§ãã£ãã",
+      "zhs": "<span class=\"verse-number\">10ã</span>ä»å½çèµ·å¤´æ¯å·´å«ã<u>ä»¥å</u>ã<u>äºç²</u>ã<u>ç²å°¼</u>ï¼é½å¨<u>ç¤ºæ¿</u>å°ã",
+      "zht": "<span class=\"verse-number\">10ã</span>ä»åçèµ·é ­æ¯å·´å¥ã<u>ä»¥å</u>ã<u>äºç²</u>ã<u>ç²å°¼</u>ï¼é½å¨<u>ç¤ºæ¿</u>å°ã",
+      "spa": "<span class=\"verse-number\">10 </span>Y fue el comienzo de su reino Babel, y Erec, y Acad y Calne, en la tierra de Sinar.",
+      "por": "<span class=\"verse-number\">10</span> E o princÃ­pio do seu reino foi Babel, e Ereque, e Acade, e CalnÃ©, na terra de Sinear.",
+      "fra": "<span class=\"verse-number\">10</span> Il rÃ©gna dâabord sur Babel, Ãrec, Accad et CalnÃ©, au pays de Schinear.",
+      "deu": "<span class=\"verse-number\">10Â </span>Den Anfang seines KÃ¶nigtums bildeten Babel, Erech, Akkad und Kalne im Land Schinar.",
+      "kor": "<span class=\"verse-number\">10</span> ê·¸ì ëë¼ë ìë  ëì ë°ë²¨ê³¼ ìë ê³¼ ìê°ê³¼ ê°ë ìì ììëìì¼ë©°",
+      "ita": "<span class=\"verse-number\">10</span> E il principio del suo regno fu Babel, Erec, Accad e Calne nel paese di Scinear."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙÙÙ ØªÙÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø®ÙØ±ÙØ¬Ù Ø£ÙØ´ÙÙÙØ±Ù ÙÙØ¨ÙÙÙÙ ÙÙØ¯ÙÙÙ ÙÙÙÙÙÙÙÙ ÙÙØ±ÙØ­ÙØ¨ÙÙØªÙ Ø¹ÙÙÙØ±Ù ÙÙÙÙØ§ÙÙØ­ÙØ",
+      "jpn": "<span class=\"verse-number\">11</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ãã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ããã¢ãã¹ãªã¤ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦ãããããã¬ãããã¤ãªãã«ã©ã",
+      "zhs": "<span class=\"verse-number\">11ã</span>ä»ä»é£å°åºæ¥å¾<u>äºè¿°</u>å»ï¼å»ºé <u>å°¼å°¼å¾®</u>ã<u>å©æ²³ä¼¯</u>ã<u>è¿¦æ</u>ï¼",
+      "zht": "<span class=\"verse-number\">11ã</span>ä»å¾é£å°åºä¾å¾<u>äºè¿°</u>å»ï¼å»ºé <u>å°¼å°¼å¾®</u>ã<u>å©æ²³ä¼¯</u>ã<u>è¿¦æ</u>ï¼",
+      "spa": "<span class=\"verse-number\">11 </span>De esta tierra saliÃ³ Asur y edificÃ³ NÃ­nive, y Rehobot, y Cala",
+      "por": "<span class=\"verse-number\">11</span> Desta mesma terra saiu Ã  AssÃ­ria e edificou NÃ­nive, e Reobote-Ir, e CalÃ¡,",
+      "fra": "<span class=\"verse-number\">11</span> De ce pays-lÃ  sortit AssurÂ ; il bÃ¢tit Ninive, Rehoboth Hir, Calach",
+      "deu": "<span class=\"verse-number\">11Â </span>Von diesem Land zog er nach Assur und erbaute Ninive, Rehobot-Ir und Kelach,",
+      "kor": "<span class=\"verse-number\">11</span> ê·¸ê° ê·¸ ëìì ììë¥´ë¡ ëìê° ëëì¨ì ë¥´í¸ë³´ëê³¼ ê°ë¼ì",
+      "ita": "<span class=\"verse-number\">11</span> Da quel paese andÃ² in Assiria ed edificÃ² Ninive, Reobot-Ir e Cala;"
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>And Resen between Nineveh and Calah: the same <span class=\"clarity-word\">is</span> a great city.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ±ÙØ³ÙÙÙ Ø§ÙÙÙÙØ§ÙÙØ¹ÙØ©Ù Ø¨ÙÙÙÙÙ ÙÙÙÙÙÙÙÙ ÙÙÙÙØ§ÙÙØ­Ù. ÙÙÙÙÙÙ Ø§ÙÙÙÙØ¯ÙÙÙÙØ©Ù Ø§ÙÙÙÙØ¨ÙÙØ±ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">12</span> ããã³ãããã¨ã«ã©ã¨ã®<ruby><rb>é</rb><rt>ããã </rt></ruby>ã«ãã<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããªã<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã¬ã»ã³ã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ãã",
+      "zhs": "<span class=\"verse-number\">12ã</span>å<u>å°¼å°¼å¾®</u>ã<u>è¿¦æ</u>ä¸­é´ç<u>å©é²</u>ï¼è¿å°±æ¯é£å¤§åã",
+      "zht": "<span class=\"verse-number\">12ã</span>å<u>å°¼å°¼å¾®</u>ã<u>è¿¦æ</u>ä¸­éç<u>å©é®®</u>ï¼éå°±æ¯é£å¤§åã",
+      "spa": "<span class=\"verse-number\">12 </span>y ResÃ©n entre NÃ­nive y Cala, la cual es ciudad grande.",
+      "por": "<span class=\"verse-number\">12</span> E ResÃ©m, entre NÃ­nive e CalÃ¡ (esta Ã© a grande cidade).",
+      "fra": "<span class=\"verse-number\">12</span> et RÃ©sen entre Ninive et CalachÂ ; câest la grande ville.",
+      "deu": "<span class=\"verse-number\">12Â </span>dazu Resen zwischen Ninive und Kelach, das ist die groÃe Stadt.",
+      "kor": "<span class=\"verse-number\">12</span> ë° ëëì¨ì ê°ë¼ ì¬ì´ì ë ì¼ì ê±´ì¤íìì¼ë ì´ë í° ì±ìì´ë¼",
+      "ita": "<span class=\"verse-number\">12</span> e, fra Ninive e Cala, Resen, la gran cittÃ ."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙÙÙÙÙ ÙÙØµÙØ±ÙØ§ÙÙÙÙ ØªÙØ­ÙØ¯ÙÙØ±ÙØªÙ ÙÙØ°ÙÙÙ Ø§ÙÙÙÙØ¨ÙØ§Ø¦ÙÙÙ: Ø§ÙÙÙÙÙØ¯ÙÙÙÙÙÙÙ ÙÙØ§ÙÙØ¹ÙÙÙØ§ÙÙÙÙÙÙÙÙØ ÙÙØ§ÙÙÙÙ°ÙÙØ§Ø¨ÙÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙÙÙØªÙÙØ­ÙÙÙÙÙÙÙ",
+      "jpn": "<span class=\"verse-number\">13</span> ããã©ã¤ã ããã«ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¢ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¬ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">13ã</span><u>éº¦è¥¿</u>ç<u>è·¯ä½</u>äººã<u>äºæ¿ç±³</u>äººã<u>å©åæ¯</u>äººã<u>æ¿å¼åå¸</u>äººã",
+      "zht": "<span class=\"verse-number\">13ã</span><u>éº¥è¥¿</u>ç<u>è·¯ä½</u>äººã<u>äºæ¿ç±³</u>äººã<u>å©åæ¯</u>äººã<u>æ¿å¼åå¸</u>äººã",
+      "spa": "<span class=\"verse-number\">13 </span>Y Mizraim engendrÃ³ a Ludim, y a Anamim, y a Lehabim, y a Naftuhim,",
+      "por": "<span class=\"verse-number\">13</span> E Mizraim gerou Ludim, e Anamim, e Leabim, e Naftuim,",
+      "fra": "<span class=\"verse-number\">13</span> MitsraÃ¯m engendra les Ludim, les Anamim, les Lehabim, les Naphtuhim,",
+      "deu": "<span class=\"verse-number\">13Â </span>Von Mizraim sodann stammen die Luditer, Anamiter, Lehabiter, Naftuhiter,",
+      "kor": "<span class=\"verse-number\">13</span> ë¯¸ì¤ë¼ìì ë£¨ë¤ê³¼ ìëë°ê³¼ ë¥´íë¹ê³¼ ë©ëíê³¼",
+      "ita": "<span class=\"verse-number\">13</span> Mizraim generÃ² i Ludim, gli Anamim, i Leabim, i Naftuim,"
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ§ÙÙÙÙØªÙØ±ÙÙØ³ÙÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙØ³ÙÙÙÙØ­ÙÙÙÙÙÙÙ. ÙÙÙÙÙÙÙÙÙÙ ØªÙØ­ÙØ¯ÙÙØ±Ù Ø§ÙÙÙÙÙÙØ³ÙØ·ÙÙÙÙÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙÙÙØªÙÙØ±ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">14</span> ããã­ã¹<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã«ã¹ã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã«ãããª<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã«ãããª<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããããªã·ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">14ã</span><u>å¸æ¯é²ç»</u>äººã<u>è¿¦æ¯è·¯å¸</u>äººã<u>è¿¦ææ</u>äººï¼ä»<u>è¿¦æ¯è·¯å¸</u>åºæ¥çæéå©å£«äººã",
+      "zht": "<span class=\"verse-number\">14ã</span><u>å¸æ¯é­¯ç´°</u>äººã<u>è¿¦æ¯è·¯å¸</u>äººã<u>è¿¦æè¨</u>äººï¼å¾<u>è¿¦æ¯è·¯å¸</u>åºä¾çæéå©å£«äººã",
+      "spa": "<span class=\"verse-number\">14 </span>y a Patrusim, y a Casluhim, de donde provinieron los filisteos, y a Caftorim.",
+      "por": "<span class=\"verse-number\">14</span> E Patrusim, e Casluim, (donde saÃ­ram os filisteus) e Caftorim.",
+      "fra": "<span class=\"verse-number\">14</span> les Patrusim, les Casluhim, dâoÃ¹ sont sortis les Philistins, et les Caphtorim.",
+      "deu": "<span class=\"verse-number\">14Â </span>Patrositer, Kasluhiter und Kaftoriter, von denen die Philister ausgegangen sind.",
+      "kor": "<span class=\"verse-number\">14</span> ë°ëë£¨ì¬ê³¼ ê°ì¬ë£¨íê³¼ ê°ëë¦¼ì ë³ìëë¼ (ê°ì¬ë£¨íìê²ì ë¸ë ìì´ ëìëë¼)",
+      "ita": "<span class=\"verse-number\">14</span> i Patrusim, i CasluimÂ (da cui uscirono i Filistei) e i Caftorim."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span><span class=\"para-mark\">Â¶ </span>And Canaan begat Sidon his firstborn, and Heth,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙÙÙØ¹ÙØ§ÙÙ ØµÙÙØ¯ÙÙÙÙ Ø§Ø¨ÙÙÙÙÙ Ø§ÙÙØ¨ÙÙÙØ±Ù Ø«ÙÙÙÙ Ø­ÙØ«ÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">15</span> ã«ãã³ãããã®<ruby><rb>é·å­</rb><rt>ã¡ããã</rt></ruby>ã·ãã³ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦ãã¾ãããã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">15ã</span><u>è¿¦å</u>çé¿å­<u>è¥¿é¡¿</u>ï¼åç<u>èµ«</u>ï¼",
+      "zht": "<span class=\"verse-number\">15ã</span><u>è¿¦å</u>çé·å­<u>è¥¿é </u>ï¼åç<u>èµ«</u>ï¼",
+      "spa": "<span class=\"verse-number\">15 </span>Y CanaÃ¡n engendrÃ³ a SidÃ³n, su primogÃ©nito, y a Het,",
+      "por": "<span class=\"verse-number\">15</span> E CanaÃ£ gerou Sidom, seu primogÃªnito, e Hete;",
+      "fra": "<span class=\"verse-number\">15</span> Canaan engendra Sidon, son premier-nÃ©, et HethÂ ;",
+      "deu": "<span class=\"verse-number\">15Â </span>Kanaan aber hatte zu SÃ¶hnen Sidon, seinen Erstgeborenen, und Het,",
+      "kor": "<span class=\"verse-number\">15</span> ê°ëìì ì¥ì ìëê³¼ í·ì ë³ê³",
+      "ita": "<span class=\"verse-number\">15</span> Canaan generÃ² Sidon, suo primogenito, e Het,"
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>And the Jebusite, and the Amorite, and the Girgasite,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙÙÙÙÙÙ ØªÙØ­ÙØ¯ÙÙØ±ÙØªÙ ÙÙØ¨ÙØ§Ø¦ÙÙÙ Ø§ÙÙÙÙØ¨ÙÙØ³ÙÙÙÙÙÙÙ ÙÙØ§ÙØ£ÙÙÙÙØ±ÙÙÙÙÙÙÙ ÙÙØ§ÙÙØ¬ÙØ±ÙØ¬ÙØ§Ø´ÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">16</span> ãã®<ruby><rb>ä»</rb><rt>ã</rt></ruby>ã¨ãã¹ã³ã¨ãã¢ã¢ãªã³ã¨ãã®ã«ã¬ã·ã³ã¨ã",
+      "zhs": "<span class=\"verse-number\">16ã</span>å<u>è¶å¸æ¯</u>äººã<u>äºæ©å©</u>äººã<u>é©è¿¦æ</u>äººã",
+      "zht": "<span class=\"verse-number\">16ã</span>å<u>è¶å¸æ¯</u>äººã<u>äºæ©å©</u>äººã<u>é©è¿¦æ</u>äººã",
+      "spa": "<span class=\"verse-number\">16 </span>y al jebuseo, y al amorreo, y al gergeseo,",
+      "por": "<span class=\"verse-number\">16</span> E o jebuseu, e o amorreu, e o girgaseu,",
+      "fra": "<span class=\"verse-number\">16</span> et les JÃ©busiens, les AmorÃ©ens, les Guirgasiens,",
+      "deu": "<span class=\"verse-number\">16Â </span>ferner die Jebusiter, Amoriter, Girgaschiter,",
+      "kor": "<span class=\"verse-number\">16</span> ë ì¬ë¶ì¤ ì¡±ìê³¼ ìëª¨ë¦¬ ì¡±ìê³¼ ê¸°ë¥´ê°ì¤ ì¡±ìê³¼",
+      "ita": "<span class=\"verse-number\">16</span> e i Gebusei, gli Amorei, i Ghirgasei,"
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>And the Hivite, and the Arkite, and the Sinite,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØ§ÙÙØ­ÙÙÙÙÙÙÙÙÙÙ ÙÙØ§ÙÙØ¹ÙØ±ÙÙÙÙÙÙÙÙÙ ÙÙØ§ÙØ³ÙÙÙÙÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">17</span> ããã³ã¨ãã¢ã«ã­ã³ã¨ãã»ãã³ã¨ã",
+      "zhs": "<span class=\"verse-number\">17ã</span><u>å¸æª</u>äººã<u>äºåº</u>äººã<u>è¥¿å°¼</u>äººã",
+      "zht": "<span class=\"verse-number\">17ã</span><u>å¸æª</u>äººã<u>äºåº</u>äººã<u>è¥¿å°¼</u>äººã",
+      "spa": "<span class=\"verse-number\">17 </span>y al heveo, y al araceo, y al sineo,",
+      "por": "<span class=\"verse-number\">17</span> E o heveu, e o arqueu, e o sineu,",
+      "fra": "<span class=\"verse-number\">17</span> les HÃ©viens, les Arkiens, les Siniens,",
+      "deu": "<span class=\"verse-number\">17Â </span>Hiwiter, Arkiter, Siniter,",
+      "kor": "<span class=\"verse-number\">17</span> íì ì¡±ìê³¼ ìê° ì¡±ìê³¼ ì  ì¡±ìê³¼",
+      "ita": "<span class=\"verse-number\">17</span> gli Ivvei, gli Archei, i Sinei,"
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙØ§ÙØ£ÙØ±ÙÙÙØ§Ø¯ÙÙÙÙÙÙÙ ÙÙØ§ÙØµÙÙÙÙØ§Ø±ÙÙÙÙÙÙÙ ÙÙØ§ÙÙØ­ÙÙÙØ§ØªÙÙÙÙÙÙÙØ ÙÙØ¨ÙØ¹ÙØ¯Ù Ø°ÙÙÙÙÙ Ø§ÙÙØªÙØ´ÙØ±ÙØªÙ Ø§ÙÙÙÙØ¨ÙØ§Ø¦ÙÙÙ Ø§ÙÙÙÙÙÙØ¹ÙØ§ÙÙÙÙÙØ©Ù",
+      "jpn": "<span class=\"verse-number\">18</span> ã¢ã«ã¯ãã³ã¨ãã¼ããªã³ã¨ããããã³ã¨ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ãã<ruby><rb>å¾</rb><rt>ã®ã¡</rt></ruby>ã«ãªã£ã¦ã«ãã³ã³ã¨ã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ãã²ããã£ãã",
+      "zhs": "<span class=\"verse-number\">18ã</span><u>äºç¦åº</u>äººã<u>æ´çå©</u>äººã<u>åé©¬</u>äººï¼åæ¥<u>è¿¦å</u>çè¯¸æåæ£äºã",
+      "zht": "<span class=\"verse-number\">18ã</span><u>äºç¦åº</u>äººã<u>æ´çªå©</u>äººã<u>åé¦¬</u>äººï¼å¾ä¾<u>è¿¦å</u>çè«¸æåæ£äºã",
+      "spa": "<span class=\"verse-number\">18 </span>y al arvadeo, y al zemareo y al hamateo; y despuÃ©s se dispersaron las familias de los cananeos.",
+      "por": "<span class=\"verse-number\">18</span> E o arvadeu, e o zemareu, e o hamateu; e depois se espalharam as famÃ­lias dos cananeus.",
+      "fra": "<span class=\"verse-number\">18</span> les Arvadiens, les Tsemariens, les Hamathiens. Ensuite, les familles des CananÃ©ens se dispersÃ¨rent.",
+      "deu": "<span class=\"verse-number\">18Â </span>Arwaditer, Zemariter und Hamatiter. SpÃ¤ter haben sich dann die StÃ¤mme der Kanaaniter zerstreut,",
+      "kor": "<span class=\"verse-number\">18</span> ìë¥´ì ì¡±ìê³¼ ì¤ë§ ì¡±ìê³¼ íë§ ì¡±ìì ë³ìëë ì´ íë¡ ê°ëì ììì ì¡±ìì´ í©ì´ì ¸ ëìê°ëë¼",
+      "ita": "<span class=\"verse-number\">18</span> gli Arvadei, gli Zemarei e gli Amattei. Poi le famiglie dei Cananei si sparsero."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙÙ Ø§ÙØ£ÙØ±ÙØ§Ø¶ÙÙ Ø§ÙÙÙÙØ§ÙÙØ¹ÙØ©Ù Ø¨ÙÙÙÙÙ ØµÙÙØ¯ÙÙÙÙ ÙÙØºÙØ²ÙÙØ©Ù ÙÙØ±ÙÙØ±Ø§Ù Ø¨ÙØ¬ÙØ±ÙØ§Ø±ÙØ ÙÙØ¨ÙÙÙÙÙ ØµÙÙØ¯ÙÙÙÙ ÙÙÙØ§Ø´ÙØ¹Ù ÙÙØ±ÙÙØ±Ø§Ù Ø¨ÙØ³ÙØ¯ÙÙÙÙ ÙÙØ¹ÙÙÙÙØ±ÙØ©Ù ÙÙØ£ÙØ¯ÙÙÙØ©Ù ÙÙØµÙØ¨ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">19</span> ã«ãã³ã³ã¨ã®<ruby><rb>å¢</rb><rt>ããã</rt></ruby>ã¯ã·ãã³ããã²ã©ã«ã<ruby><rb>çµ</rb><rt>ã¸</rt></ruby>ã¦ã¬ã¶ã«<ruby><rb>è³</rb><rt>ãã</rt></ruby>ããã½ãã ãã´ã¢ã©ãã¢ãããã¼ãã¤ã ã<ruby><rb>çµ</rb><rt>ã¸</rt></ruby>ã¦ãã¬ã·ã£ã«<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã ã",
+      "zhs": "<span class=\"verse-number\">19ã</span><u>è¿¦å</u>çå¢çæ¯ä»<u>è¥¿é¡¿</u>å<u>åºæè³</u>çè·¯ä¸ï¼ç´å°<u>è¿¦è¨</u>ï¼åå<u>æå¤ç</u>ã<u>è¾æ©æ</u>ã<u>æ¼ç</u>ã<u>æ´æ</u>çè·¯ä¸ï¼ç´å°<u>ææ²</u>ã",
+      "zht": "<span class=\"verse-number\">19ã</span><u>è¿¦å</u>çå¢çæ¯å¾<u>è¥¿é </u>å<u>åºæè³</u>çè·¯ä¸ï¼ç´å°<u>è¿¦è©</u>ï¼åå<u>æå¤çª</u>ã<u>è¾æ©æ</u>ã<u>æ¼çª</u>ã<u>æ´æ</u>çè·¯ä¸ï¼ç´å°<u>ææ²</u>ã",
+      "spa": "<span class=\"verse-number\">19 </span>Y fue el territorio de los cananeos desde SidÃ³n, viniendo a Gerar hasta Gaza, hasta entrar en Sodoma y Gomorra, Adma y Zeboim, hasta Lasa.",
+      "por": "<span class=\"verse-number\">19</span> E foi o termo dos cananeus desde Sidom, indo para Gerar, atÃ© Gaza; indo para Sodoma, e Gomorra, e AdmÃ¡, e Zeboim, atÃ© Lasa.",
+      "fra": "<span class=\"verse-number\">19</span> Les limites des CananÃ©ens allaient depuis Sidon du cÃ´tÃ© de GuÃ©rar jusquâÃ  Gaza, et du cÃ´tÃ© de Sodome, de Gomorrhe, dâAdma et de TseboÃ¯m jusquâÃ  LÃ©scha.",
+      "deu": "<span class=\"verse-number\">19Â </span>sodass das Gebiet der Kanaaniter von Sidon in Richtung Gerar bis Gaza, dann in Richtung Sodom und Gomorra, Adma und Zebojim bis Lescha reichte.",
+      "kor": "<span class=\"verse-number\">19</span> ê°ëìì ê²½ê³ë ìëììë¶í° ê·¸ëì ì§ë ê°ì¬ê¹ì§ì ìëê³¼ ê³ ëª¨ë¼ì ìëë§ì ì¤ë³´ìì ì§ë ë¼ì¬ê¹ì§ìëë¼",
+      "ita": "<span class=\"verse-number\">19</span> E i confini dei Cananei andarono da Sidon, in direzione di Gherar, fino a Gaza; e in direzione di Sodoma, Gomorra, Adma e Zeboim, fino a Lesha."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>These <span class=\"clarity-word\">are</span> the sons of Ham, after their families, after their tongues, in their countries, <span class=\"clarity-word\">and</span> in their nations.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙØ§ÙÙ ÙÙØ¤ÙÙØ§Ø¡Ù ÙÙÙÙ Ø§ÙÙÙÙÙÙØ­ÙØ¯ÙØ±ÙÙÙÙ ÙÙÙÙ Ø­ÙØ§ÙÙ Ø¨ÙØ­ÙØ³ÙØ¨Ù ÙÙØ¨ÙØ§Ø¦ÙÙÙÙÙÙÙ ÙÙÙÙØºÙØ§ØªÙÙÙÙÙ ÙÙØ¨ÙÙÙØ¯ÙØ§ÙÙÙÙÙÙ ÙÙØ´ÙØ¹ÙÙØ¨ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">20</span> ãããã¯ãã ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã§ãã£ã¦ããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã¨ãã®<ruby><rb>è¨èª</rb><rt>ããã</rt></ruby>ã¨ã«ãããã£ã¦ããã®<ruby><rb>åå°</rb><rt>ã¨ã¡</rt></ruby>ã¨ããã®<ruby><rb>å½ã</rb><rt>ãã«ãã«</rt></ruby>ã«ããã",
+      "zhs": "<span class=\"verse-number\">20ã</span>è¿å°±æ¯<u>å«</u>çåè£ï¼åéä»ä»¬çå®æãæ¹è¨ï¼æä½çå°åãé¦å½ã",
+      "zht": "<span class=\"verse-number\">20ã</span>éå°±æ¯<u>å«</u>çå¾è£ï¼åé¨ä»åçå®æãæ¹è¨ï¼æä½çå°åãé¦åã",
+      "spa": "<span class=\"verse-number\">20 </span>Estos son los hijos de Cam por sus familias, por sus lenguas, en sus tierras, en sus naciones.",
+      "por": "<span class=\"verse-number\">20</span> Esses sÃ£o os filhos de CÃ£o, segundo as suas famÃ­lias, segundo as suas lÃ­nguas, em suas terras, em suas naÃ§Ãµes.",
+      "fra": "<span class=\"verse-number\">20</span> Ce sont lÃ  les fils de Cham, selon leurs familles, selon leurs langues, selon leurs pays, selon leurs nations.",
+      "deu": "<span class=\"verse-number\">20Â </span>Dies sind die SÃ¶hne Hams nach ihren StÃ¤mmen, ihren Sprachen, ihren LÃ¤ndern, ihren VÃ¶lkern.",
+      "kor": "<span class=\"verse-number\">20</span> ì´ë¤ì í¨ì ììì´ë¼ ê°ê¸° ì¡±ìê³¼ ì¸ì´ì ì§ë°©ê³¼ ëë¼ëë¡ìëë¼",
+      "ita": "<span class=\"verse-number\">20</span> Questi sono i figli di Cam, secondo le loro famiglie, secondo le loro lingue, nei loro paesi, nelle loro nazioni."
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span><span class=\"para-mark\">Â¶ </span>Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were <span class=\"clarity-word\">children</span> born.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø³ÙØ§ÙÙØ Ø£ÙØ®ÙÙ ÙÙØ§ÙÙØ«Ù Ø§ÙØ£ÙÙÙØ¨ÙØ±ÙØ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù. ÙÙÙÙÙÙÙÙ ØªÙØ­ÙØ¯ÙÙØ±Ù Ø¬ÙÙÙÙØ¹Ù Ø¨ÙÙÙÙ Ø¹ÙØ§Ø¨ÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">21</span> ã»ã ã«ã<ruby><rb>å­</rb><rt>ã</rt></ruby>ã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã»ã ã¯ã¨ãã«ã®ãã¹ã¦ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã®<ruby><rb>åç¥</rb><rt>ããã</rt></ruby>ã§ãã£ã¦ãã¤ããã®<ruby><rb>å</rb><rt>ãã«</rt></ruby>ã§ãã£ãã",
+      "zhs": "<span class=\"verse-number\">21ã</span><u>éå¼</u>çå¥å¥<u>éª</u>æ¯<u>å¸ä¼¯</u>å­å­ä¹ç¥ï¼ä»ä¹çäºå¿å­ã",
+      "zht": "<span class=\"verse-number\">21ã</span><u>éå¼</u>çå¥å¥<u>é</u>æ¯<u>å¸ä¼¯</u>å­å­«ä¹ç¥ï¼ä»ä¹çäºåå­ã",
+      "spa": "<span class=\"verse-number\">21 </span>TambiÃ©n le nacieron hijos a Sem, padre de todos los hijos de Heber, y hermano mayor de Jafet.",
+      "por": "<span class=\"verse-number\">21</span> E a Sem nasceram <span class=\"clarity-word\">filhos,</span> e ele <span class=\"clarity-word\">Ã©</span> o pai de todos os filhos de Ãber, e o irmÃ£o mais velho de JafÃ©.",
+      "fra": "<span class=\"verse-number\">21</span> Il naquit aussi des fils Ã  Sem, pÃ¨re de tous les fils dâHÃ©ber et frÃ¨re de Japhet lâaÃ®nÃ©.",
+      "deu": "<span class=\"verse-number\">21Â </span>Aber auch Sem, dem Stammvater aller SÃ¶hne Ebers, dem Ã¤lteren Bruder Jafets, wurden SÃ¶hne geboren.",
+      "kor": "<span class=\"verse-number\">21</span> ìì ìë²¨ ì¨ ììì ì¡°ìì´ì ì¼ë²³ì íì´ë¼ ê·¸ìê²ë ìëê° ì¶ìíìì¼ë",
+      "ita": "<span class=\"verse-number\">21</span> Anche a Sem, padre di tutti i figli di Eber e fratello maggiore di Iafet, nacquero dei figli."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>Ø£ÙÙÙÙØ§ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø³ÙØ§ÙÙ ÙÙÙÙÙÙ: Ø¹ÙÙÙØ§ÙÙ ÙÙØ£ÙØ´ÙÙÙØ±Ù ÙÙØ£ÙØ±ÙÙÙÙÙØ´ÙØ§Ø¯Ù ÙÙÙÙÙØ¯Ù ÙÙØ£ÙØ±ÙØ§ÙÙ",
+      "jpn": "<span class=\"verse-number\">22</span> ã»ã ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ã¨ã©ã ãã¢ã·ã¥ã«ãã¢ã«ãã¯ãµããã«ããã¢ã©ã ã§ãã£ãã",
+      "zhs": "<span class=\"verse-number\">22ã</span><u>éª</u>çå¿å­æ¯<u>ä»¥æ¦</u>ã<u>äºè¿°</u>ã<u>äºæ³æ</u>ã<u>è·¯å¾·</u>ã<u>äºå°</u>ã",
+      "zht": "<span class=\"verse-number\">22ã</span><u>é</u>çåå­æ¯<u>ä»¥æ</u>ã<u>äºè¿°</u>ã<u>äºæ³æ</u>ã<u>è·¯å¾·</u>ã<u>äºè­</u>ã",
+      "spa": "<span class=\"verse-number\">22 </span>Y los hijos de Sem: Elam, y Asur, y Arfaxad, y Lud y Aram.",
+      "por": "<span class=\"verse-number\">22</span> Os filhos de Sem <span class=\"clarity-word\">sÃ£o:</span> ElÃ£o, e Assur, e Arfaxade, e Lude, e ArÃ£.",
+      "fra": "<span class=\"verse-number\">22</span> Les fils de Sem furentÂ : Ãlam, Assur, Arpacschad, Lud et Aram.",
+      "deu": "<span class=\"verse-number\">22Â </span>Die SÃ¶hne Sems waren: Elam, Assur, Arpachschad, Lud und Aram.",
+      "kor": "<span class=\"verse-number\">22</span> ìì ìë¤ì ìëê³¼ ììë¥´ì ìë¥´ë°ì¿ê³¼ ë£»ê³¼ ìëì´ì",
+      "ita": "<span class=\"verse-number\">22</span> I figli di Sem furono Elam, Assur, Arpacsad, Lud e Aram."
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>And the children of Aram; Uz, and Hul, and Gether, and Mash.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù Ø£ÙØ±ÙØ§ÙÙ: Ø¹ÙÙØµÙØ ÙÙØ­ÙÙÙÙØ ÙÙØ¬ÙØ§Ø«ÙØ±Ù ÙÙÙÙØ§Ø´Ù.",
+      "jpn": "<span class=\"verse-number\">23</span> ã¢ã©ã ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ã¦ãããã«ãã²ãã«ããã·ã§ãã£ãã",
+      "zhs": "<span class=\"verse-number\">23ã</span><u>äºå°</u>çå¿å­æ¯<u>ä¹æ¯</u>ã<u>æ·å</u>ã<u>åºå¸</u>ã<u>çæ½</u>ã",
+      "zht": "<span class=\"verse-number\">23ã</span><u>äºè­</u>çåå­æ¯<u>çæ¯</u>ã<u>æ¶å</u>ã<u>åºå¸</u>ã<u>çªæ½</u>ã",
+      "spa": "<span class=\"verse-number\">23 </span>Y los hijos de Aram: Uz, y Hul, y Geter y Mas.",
+      "por": "<span class=\"verse-number\">23</span> E os filhos de ArÃ£ <span class=\"clarity-word\">sÃ£o:</span> Uz, e Hul, e GÃ©ter, e MÃ¡s.",
+      "fra": "<span class=\"verse-number\">23</span> Les fils dâAramÂ : Uts, Hul, GuÃ©ter et Masch.",
+      "deu": "<span class=\"verse-number\">23Â </span>Und die SÃ¶hne Arams waren: Uz, Hul, Geter und Masch.",
+      "kor": "<span class=\"verse-number\">23</span> ìëì ìë¤ì ì°ì¤ì íê³¼ ê²ë¸ê³¼ ë§ì¤ë©°",
+      "ita": "<span class=\"verse-number\">23</span> I figli di Aram: Uz, Ul, Gheter e Mash."
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>And Arphaxad begat Salah; and Salah begat Eber.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø£ÙØ±ÙÙÙÙÙØ´ÙØ§Ø¯Ù Ø´ÙØ§ÙÙØ­ÙØ ÙÙÙÙÙÙØ¯Ù Ø´ÙØ§ÙÙØ­Ù Ø¹ÙØ§Ø¨ÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">24</span> ã¢ã«ãã¯ãµãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã·ã©ãã·ã©ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¨ãã«ã§ããã",
+      "zhs": "<span class=\"verse-number\">24ã</span><u>äºæ³æ</u>ç<u>æ²æ</u>ï¼<u>æ²æ</u>ç<u>å¸ä¼¯ã</u>",
+      "zht": "<span class=\"verse-number\">24ã</span><u>äºæ³æ</u>ç<u>æ²æ</u>ï¼<u>æ²æ</u>ç<u>å¸ä¼¯ã</u>",
+      "spa": "<span class=\"verse-number\">24 </span>Y Arfaxad engendrÃ³ a Sala, y Sala engendrÃ³ a Heber.",
+      "por": "<span class=\"verse-number\">24</span> E Arfaxade gerou SalÃ¡; e SalÃ¡ gerou Ãber.",
+      "fra": "<span class=\"verse-number\">24</span> Arpacschad engendra SchÃ©lachÂ ; et SchÃ©lach engendra HÃ©ber.",
+      "deu": "<span class=\"verse-number\">24Â </span>Arpachschad aber war der Vater Schelachs und Schelach der Vater Ebers.",
+      "kor": "<span class=\"verse-number\">24</span> ìë¥´ë°ì¿ì ìë¼ë¥¼ ë³ê³  ìë¼ë ìë²¨ì ë³ìì¼ë©°",
+      "ita": "<span class=\"verse-number\">24</span> E Arpacsad generÃ² Scela, e Scela generÃ² Eber."
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>And unto Eber were born two sons: the name of one <span class=\"clarity-word\">was</span> Peleg; for in his days was the earth divided; and his brotherâs name <span class=\"clarity-word\">was</span> Joktan.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>ÙÙÙÙÙÙØ¯Ù ÙÙØ¹ÙØ§Ø¨ÙØ±Ù Ø§Ø¨ÙÙÙØ§ÙÙ: Ø§Ø³ÙÙÙ Ø£ÙØ­ÙØ¯ÙÙÙÙÙØ§ ÙÙØ§ÙÙØ¬Ù (ÙÙÙÙØ¹ÙÙÙØ§ÙÙ Ø§ÙÙÙÙØ³ÙØ§ÙÙ) ÙØ£ÙÙÙÙ Ø£ÙÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø§ÙÙÙÙØ³ÙÙÙÙØ§ ÙÙÙ Ø£ÙÙÙÙØ§ÙÙÙÙ. ÙÙØ§Ø³ÙÙÙ Ø£ÙØ®ÙÙÙÙ ÙÙÙÙØ·ÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">25</span> ã¨ãã«ã«ãµããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ããããã®ã²ã¨ãã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ããã¬ã°ã¨ãã£ããããã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä»£</rb><rt>ã</rt></ruby>ã«<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ããããã§ããããã®<ruby><rb>å¼</rb><rt>ãã¨ãã¨</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ãã¨ã¯ã¿ã³ã¨ãã£ãã",
+      "zhs": "<span class=\"verse-number\">25ã</span><u>å¸ä¼¯</u>çäºä¸¤ä¸ªå¿å­ï¼ä¸ä¸ªåå«æ³åï¼å ä¸ºé£æ¶äººå°±åå°å±ä½ï¼<u>æ³å</u>çåå¼åå«<u>çº¦å</u>ã",
+      "zht": "<span class=\"verse-number\">25ã</span><u>å¸ä¼¯</u>çäºå©ååå­ï¼ä¸ååå«æ³åï¼å çºé£æäººå°±åå°å±ä½ï¼<u>æ³å</u>çåå¼åå«<u>ç´å</u>ã",
+      "spa": "<span class=\"verse-number\">25 </span>Y a Heber le nacieron dos hijos: el nombre de uno fue Peleg, porque en sus dÃ­as se dividiÃ³ la tierra; y el nombre de su hermano, JoctÃ¡n.",
+      "por": "<span class=\"verse-number\">25</span> E a Ãber nasceram dois filhos: o nome de um <span class=\"clarity-word\">foi</span> Pelegue, porquanto em seus dias se repartiu a terra, e o nome do seu irmÃ£o foi JoctÃ£.",
+      "fra": "<span class=\"verse-number\">25</span> Il naquit Ã  HÃ©ber deux filsÂ : le nom de lâun Ã©tait PÃ©leg, parce que de son temps la terre fut partagÃ©e, et le nom de son frÃ¨re Ã©tait Jokthan.",
+      "deu": "<span class=\"verse-number\">25Â </span>Eber aber wurden zwei SÃ¶hne geboren; der eine hieÃ Peleg, weil sich die Erde zu seiner Zeit teilte; und sein Bruder hieÃ Joktan.",
+      "kor": "<span class=\"verse-number\">25</span> ìë²¨ì ë ìë¤ì ë³ê³  íëì ì´ë¦ì ë²¨ë ì´ë¼ íìì¼ë ê·¸ ëì ì¸ìì´ ëëììì´ì ë²¨ë ì ìì°ì ì´ë¦ì ìë¨ì´ë©°",
+      "ita": "<span class=\"verse-number\">25</span> E ad Eber nacquero due figli; il nome dellâuno fu Peleg, perchÃ© ai suoi giorni la terra fu divisa; e il nome di suo fratello fu Ioctan."
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span>And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙÙÙØ·ÙØ§ÙÙ Ø£ÙÙÙÙÙÙØ¯ÙØ§Ø¯Ù ÙÙØ´ÙØ§ÙÙÙÙ ÙÙØ­ÙØ¶ÙØ±ÙÙÙÙÙØªÙ ÙÙÙÙØ§Ø±ÙØ­ÙØ",
+      "jpn": "<span class=\"verse-number\">26</span> ã¨ã¯ã¿ã³ã«ã¢ã«ã¢ãããã·ã£ã¬ãããã¶ã«ãã¦ããã¨ã©ã",
+      "zhs": "<span class=\"verse-number\">26ã</span><u>çº¦å</u>ç<u>äºæ©ç­</u>ã<u>æ²å</u>ã<u>åè¨çé</u>ã<u>è¶æ</u>ã",
+      "zht": "<span class=\"verse-number\">26ã</span><u>ç´å</u>ç<u>äºæ©ç­</u>ã<u>æ²å</u>ã<u>åè©çªé</u>ã<u>è¶æ</u>ã",
+      "spa": "<span class=\"verse-number\">26 </span>Y JoctÃ¡n engendrÃ³ a Almodad, y a Selef, y a Hazar-mavet, y a Jera,",
+      "por": "<span class=\"verse-number\">26</span> E JoctÃ£ gerou AlmodÃ¡, e Selefe, e HazarmavÃ©, e JerÃ¡;",
+      "fra": "<span class=\"verse-number\">26</span> Jokthan engendra Almodad, SchÃ©leph, Hatsarmaveth, JÃ©rach,",
+      "deu": "<span class=\"verse-number\">26Â </span>Joktan hatte zu SÃ¶hnen Almodad, Schelef, Hazarmawet, Jerach,",
+      "kor": "<span class=\"verse-number\">26</span> ìë¨ì ìëª¨ë·ê³¼ ìë ê³¼ íì´ë§ì»ê³¼ ìë¼ì",
+      "ita": "<span class=\"verse-number\">26</span> E Ioctan generÃ² Almodad, Scelef, Azarmavet,"
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>And Hadoram, and Uzal, and Diklah,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙÙÙØ¯ÙÙØ±ÙØ§ÙÙ ÙÙØ£ÙÙØ²ÙØ§ÙÙ ÙÙØ¯ÙÙÙÙÙØ©ÙØ",
+      "jpn": "<span class=\"verse-number\">27</span> ããã©ã ãã¦ã¶ã«ããã¯ã©ã",
+      "zhs": "<span class=\"verse-number\">27ã</span><u>åå¤å°</u>ã<u>ä¹è¨</u>ã<u>å¾·æ</u>ã",
+      "zht": "<span class=\"verse-number\">27ã</span><u>åå¤è­</u>ã<u>çè©</u>ã<u>å¾·æ</u>ã",
+      "spa": "<span class=\"verse-number\">27 </span>y a Adoram, y a Uzal, y a Dicla,",
+      "por": "<span class=\"verse-number\">27</span> E HadorÃ£o, e Uzal, e Dicla;",
+      "fra": "<span class=\"verse-number\">27</span> Hadoram, Uzal, Dikla,",
+      "deu": "<span class=\"verse-number\">27Â </span>Hadoram, Usal, Dikla,",
+      "kor": "<span class=\"verse-number\">27</span> íëëê³¼ ì°ì´ê³¼ ëê¸ë¼ì",
+      "ita": "<span class=\"verse-number\">27</span> Iera, Adoram, Uzal,"
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span>And Obal, and Abimael, and Sheba,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙØ¹ÙÙØ¨ÙØ§ÙÙ ÙÙØ£ÙØ¨ÙÙÙÙØ§ÙÙÙÙ ÙÙØ´ÙØ¨ÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">28</span> ãªãã«ãã¢ããã¨ã«ãã·ãã",
+      "zhs": "<span class=\"verse-number\">28ã</span><u>ä¿å·´è·¯</u>ã<u>äºæ¯çå©</u>ã<u>ç¤ºå·´</u>ã",
+      "zht": "<span class=\"verse-number\">28ã</span><u>ä¿å·´è·¯</u>ã<u>äºæ¯çªå©</u>ã<u>ç¤ºå·´</u>ã",
+      "spa": "<span class=\"verse-number\">28 </span>y a Obal, y a Abimael, y a Seba,",
+      "por": "<span class=\"verse-number\">28</span> E Obal, e Abimael, e SabÃ¡;",
+      "fra": "<span class=\"verse-number\">28</span> Obal, AbimaÃ«l, SÃ©ba,",
+      "deu": "<span class=\"verse-number\">28Â </span>Obal, AbimaÃ«l, Saba,",
+      "kor": "<span class=\"verse-number\">28</span> ì¤ë°ê³¼ ìë¹ë§ìê³¼ ì¤ë°ì",
+      "ita": "<span class=\"verse-number\">28</span> Dicla, Obal, Abimael, Sceba,"
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>And Ophir, and Havilah, and Jobab: all these <span class=\"clarity-word\">were</span> the sons of Joktan.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙØ£ÙÙÙÙÙØ±Ù ÙÙØ­ÙÙÙÙÙÙØ©Ù ÙÙÙÙÙØ¨ÙØ§Ø¨Ù. ÙÙÙÙØ¤ÙÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹ÙÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙÙÙØ·ÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">29</span> ãªãã«ãããã©ãã¨ããã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ããããããã¯<ruby><rb>ç</rb><rt>ã¿ãª</rt></ruby>ã¨ã¯ã¿ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã§ãã£ãã",
+      "zhs": "<span class=\"verse-number\">29ã</span><u>é¿æ</u>ã<u>åèæ</u>ã<u>çº¦å·´</u>ï¼è¿é½æ¯<u>çº¦å</u>çå¿å­ã",
+      "zht": "<span class=\"verse-number\">29ã</span><u>é¿æ</u>ã<u>åèæ</u>ã<u>ç´å·´</u>ï¼éé½æ¯<u>ç´å</u>çåå­ã",
+      "spa": "<span class=\"verse-number\">29 </span>y a Ofir, y a Havila y a Jobab; todos estos fueron hijos de JoctÃ¡n.",
+      "por": "<span class=\"verse-number\">29</span> E Ofir, e HavilÃ¡, e Jobabe; todos esses foram filhos de JoctÃ£.",
+      "fra": "<span class=\"verse-number\">29</span> Ophir, Havila et Jobab. Tous ceux-lÃ  furent fils de Jokthan.",
+      "deu": "<span class=\"verse-number\">29Â </span>Ofir, Hawila und Jobab; diese alle waren SÃ¶hne Joktans,",
+      "kor": "<span class=\"verse-number\">29</span> ì¤ë¹ê³¼ íìë¼ì ìë°¥ì ë³ìì¼ë ì´ë¤ì ë¤ ìë¨ì ìë¤ì´ë©°",
+      "ita": "<span class=\"verse-number\">29</span> Ofir, Avila e Iobab. Tutti questi furono figli di Ioctan."
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span>And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>ÙÙÙÙØ¯Ù Ø§Ø³ÙØªÙÙÙØ·ÙÙÙÙØ§ ÙÙÙ Ø§ÙØ£ÙØ±ÙØ§Ø¶ÙÙ Ø§ÙÙÙÙØ§ÙÙØ¹ÙØ©Ù Ø¨ÙÙÙÙÙ ÙÙÙØ´ÙØ§ ÙÙØ§ÙØªÙÙÙØ§ÙÙ Ø§ÙØ´ÙÙØ±ÙÙÙÙÙÙØ©Ù ÙÙÙÙ Ø¬ÙØ¨ÙÙÙ Ø³ÙÙÙØ§Ø±Ù.",
+      "jpn": "<span class=\"verse-number\">30</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ä½</rb><rt>ã</rt></ruby>ãã <ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã¯ã¡ã·ã£ãã<ruby><rb>æ±</rb><rt>ã²ãã</rt></ruby>ã®<ruby><rb>å±±å°</rb><rt>ããã¡</rt></ruby>ã»ãã«ã«<ruby><rb>å</rb><rt>ãã</rt></ruby>ãã ã",
+      "zhs": "<span class=\"verse-number\">30ã</span>ä»ä»¬æä½çå°æ¹æ¯ä»<u>ç±³æ²</u>ç´å°<u>è¥¿å</u>ä¸è¾¹çå±±ã",
+      "zht": "<span class=\"verse-number\">30ã</span>ä»åæä½çå°æ¹æ¯å¾<u>ç±³æ²</u>ç´å°<u>è¥¿ç¼</u>æ±éçå±±ã",
+      "spa": "<span class=\"verse-number\">30 </span>Y fue su habitaciÃ³n desde Mesa, camino a Sefar, hasta la regiÃ³n montaÃ±osa del oriente.",
+      "por": "<span class=\"verse-number\">30</span> E foi a sua habitaÃ§Ã£o desde Messa, indo para Sefar, montanha do oriente.",
+      "fra": "<span class=\"verse-number\">30</span> Ils habitaient depuis MÃ©scha, du cÃ´tÃ© de Sephar, jusquâÃ  la montagne de lâorient.",
+      "deu": "<span class=\"verse-number\">30Â </span>und ihre Wohnsitze erstreckten sich von Mescha in Richtung Sefar bis zum Ostgebirge.",
+      "kor": "<span class=\"verse-number\">30</span> ê·¸ë¤ì´ ê±°ì£¼íë ê³³ì ë©ì¬ììë¶í° ì¤ë°ë¡ ê°ë ê¸¸ì ëìª½ ì°ì´ìëë¼",
+      "ita": "<span class=\"verse-number\">30</span> E la loro dimora fu la montagna orientale, da Mesha, fin verso Sefar."
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span>These <span class=\"clarity-word\">are</span> the sons of Shem, after their families, after their tongues, in their lands, after their nations.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙØ¤ÙÙØ§Ø¡Ù ÙÙÙÙ Ø§ÙÙÙÙÙÙØ­ÙØ¯ÙØ±ÙÙÙÙ ÙÙÙÙ Ø³ÙØ§ÙÙ Ø­ÙØ³ÙØ¨Ù ÙÙØ¨ÙØ§Ø¦ÙÙÙÙÙÙÙ ÙÙÙÙØºÙØ§ØªÙÙÙÙÙ ÙÙØ¨ÙÙÙØ¯ÙØ§ÙÙÙÙÙÙ ÙÙØ´ÙØ¹ÙÙØ¨ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">31</span> ãããã¯ã»ã ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã§ãã£ã¦ããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã¨ãã®<ruby><rb>è¨èª</rb><rt>ããã</rt></ruby>ã¨ã«ãããã£ã¦ããã®<ruby><rb>åå°</rb><rt>ã¨ã¡</rt></ruby>ã¨ããã®<ruby><rb>å½ã</rb><rt>ãã«ãã«</rt></ruby>ã«ããã",
+      "zhs": "<span class=\"verse-number\">31ã</span>è¿å°±æ¯<u>éª</u>çå­å­ï¼åéä»ä»¬çå®æãæ¹è¨ï¼æä½çå°åãé¦å½ã",
+      "zht": "<span class=\"verse-number\">31ã</span>éå°±æ¯<u>é</u>çå­å­«ï¼åé¨ä»åçå®æãæ¹è¨ï¼æä½çå°åãé¦åã",
+      "spa": "<span class=\"verse-number\">31 </span>Estos fueron los hijos de Sem por sus familias, por sus lenguas, en sus tierras, en sus naciones.",
+      "por": "<span class=\"verse-number\">31</span> Esses <span class=\"clarity-word\">sÃ£o</span> os filhos de Sem, segundo as suas famÃ­lias, segundo as suas lÃ­nguas, nas suas terras, segundo as suas naÃ§Ãµes.",
+      "fra": "<span class=\"verse-number\">31</span> Ce sont lÃ  les fils de Sem, selon leurs familles, selon leurs langues, selon leurs pays, selon leurs nations.",
+      "deu": "<span class=\"verse-number\">31Â </span>Dies sind die SÃ¶hne Sems nach ihren StÃ¤mmen, nach ihren Sprachen, ihren LÃ¤ndern, ihren VÃ¶lkerschaften.",
+      "kor": "<span class=\"verse-number\">31</span> ì´ë¤ì ìì ììì´ë ê·¸ ì¡±ìê³¼ ì¸ì´ì ì§ë°©ê³¼ ëë¼ëë¡ìëë¼",
+      "ita": "<span class=\"verse-number\">31</span> Questi sono i figli di Sem, secondo le loro famiglie, secondo le loro lingue, nei loro paesi, secondo le loro nazioni."
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span>These <span class=\"clarity-word\">are</span> the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØ°ÙÙÙ ÙÙÙÙ Ø§ÙÙÙÙØ¨ÙØ§Ø¦ÙÙÙ Ø§ÙÙÙÙÙÙØ­ÙØ¯ÙØ±ÙØ©Ù ÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙÙØ­Ù Ø­ÙØ³ÙØ¨Ù Ø´ÙØ¹ÙÙØ¨ÙÙÙÙÙØ ÙÙÙÙÙÙÙÙÙÙ Ø§ÙÙØªÙØ´ÙØ±ÙØªÙ Ø§ÙØ£ÙÙÙÙÙ ÙÙÙ Ø§ÙØ£ÙØ±ÙØ¶Ù Ø¨ÙØ¹ÙØ¯Ù Ø§ÙØ·ÙÙÙÙÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">32</span> ãããã¯ãã¢ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã§ãã£ã¦ã<ruby><rb>è¡çµ±</rb><rt>ãã£ã¨ã</rt></ruby>ã«ãããã£ã¦<ruby><rb>å½ã</rb><rt>ãã«ãã«</rt></ruby>ã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ãã§ãããã<ruby><rb>æ´ªæ°´</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>å¾</rb><rt>ã®ã¡</rt></ruby>ãããããã<ruby><rb>å°ä¸</rb><rt>ã¡ããã</rt></ruby>ã®<ruby><rb>è«¸</rb><rt>ãã</rt></ruby><ruby><rb>å½æ°</rb><rt>ããã¿ã</rt></ruby>ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">32ã</span>è¿äºé½æ¯<u>æªäº</u>ä¸ä¸ªå¿å­çå®æï¼åéä»ä»¬çæ¯æ´¾ç«å½ãæ´ªæ°´ä»¥åï¼ä»ä»¬å¨å°ä¸åä¸ºé¦å½ã",
+      "zht": "<span class=\"verse-number\">32ã</span>éäºé½æ¯<u>æªäº</u>ä¸ååå­çå®æï¼åé¨ä»åçæ¯æ´¾ç«åãæ´ªæ°´ä»¥å¾ï¼ä»åå¨å°ä¸åçºé¦åã",
+      "spa": "<span class=\"verse-number\">32 </span>Estas son las familias de los hijos de NoÃ© por sus descendencias, en sus naciones; y de estos fueron divididas las naciones en la tierra despuÃ©s del diluvio.",
+      "por": "<span class=\"verse-number\">32</span> Essas <span class=\"clarity-word\">sÃ£o</span> as famÃ­lias dos filhos de NoÃ©, segundo as suas geraÃ§Ãµes, nas suas naÃ§Ãµes, e desses foram divididas as naÃ§Ãµes na terra depois do dilÃºvio.",
+      "fra": "<span class=\"verse-number\">32</span> Telles sont les familles des fils de NoÃ©, selon leurs gÃ©nÃ©rations, selon leurs nations. Et câest dâeux que sont sorties les nations qui se sont rÃ©pandues sur la terre aprÃ¨s le dÃ©luge.",
+      "deu": "<span class=\"verse-number\">32Â </span>Dies sind die StÃ¤mme der SÃ¶hne Noachs nach ihrer Abstammung, nach ihren VÃ¶lkerschaften; und von ihnen aus haben sich die VÃ¶lker auf der Erde nach der Sintflut abgezweigt.",
+      "kor": "<span class=\"verse-number\">32</span> ì´ë¤ì ê·¸ ë°±ì±ë¤ì ì¡±ë³´ì ë°ë¥´ë©´ ë¸ì ììì ì¡±ìë¤ì´ì íì íì ì´ë¤ìê²ì ê·¸ ëì ë°±ì±ë¤ì´ ëëìëë¼",
+      "ita": "<span class=\"verse-number\">32</span> Queste sono le famiglie dei figli di NoÃ¨, secondo le loro generazioni, nelle loro nazioni; e da essi uscirono le nazioni che si sparsero per la terra dopo il diluvio."
+    }
+  }
+}

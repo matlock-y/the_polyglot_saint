@@ -1,0 +1,491 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "ex",
+    "chapter": 21,
+    "headings": {
+      "eng": "The Lord reveals His laws pertaining to servants, marriage, the death penalty for various offenses, the giving of an eye for an eye and a tooth for a tooth, and the damage done by oxen.",
+      "zhs": "ä¸»æ­ç¤ºç¥çå¾æ³ï¼æå³å¥´ä»ãå«å¨¶ï¼ä»¥åå¤ä»¥æ­»åçåæ ·ç½ªè¡ï¼ä»¥ç¼è¿ç¼ãä»¥çè¿çï¼ä»¥åçæé æçæå®³ã",
+      "zht": "ä¸»æ­ç¤ºç¥çå¾æ³ï¼æéå¥´åãå«å¨¶ï¼ä»¥åèä»¥æ­»åçåæ¨£ç½ªè¡ï¼ä»¥ç¼éç¼ãä»¥çéçï¼ä»¥åçæé æçæå®³ã",
+      "spa": "JehovÃ¡ revela Sus leyes concernientes a los siervos, al matrimonio, a la pena de muerte por diversas ofensas, al dar ojo por ojo y diente por diente, y a los daÃ±os causados por bueyes.",
+      "por": "O Senhor revela as Suas leis concernentes a servos, casamento plural, pena de morte para vÃ¡rias ofensas, dar olho por olho, dente por dente, e lesÃµes causadas por bois.",
+      "fra": "LâÃternel rÃ©vÃ¨le ses lois relatives aux esclaves, au mariage, Ã  la peine de mort pour diverses offenses, Ã  la compensation Â«Â Åil pour Åil, dent pour dentÂ Â» et aux dommages causÃ©s par un bÅuf.",
+      "deu": "Der Herr offenbart seine Gesetze in Bezug auf Knechte, Ehe, Todesstrafe fÃ¼r unterschiedliche Vergehen, den Anspruch von Auge um Auge und Zahn um Zahn sowie SchadensfÃ¤lle durch Rinder.",
+      "ita": "Il Signore rivela le Sue leggi riguardanti i servi, il matrimonio, la pena di morte per vari reati, il dare occhio per occhio e dente per dente, e i danni causati dai buoi."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Now these <span class=\"clarity-word\">are</span> the judgments which thou shalt set before them.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙÙÙØ°ÙÙÙ ÙÙÙ Ø§ÙØ£ÙØ­ÙÙÙØ§ÙÙ Ø§ÙÙÙØªÙÙ ØªÙØ¶ÙØ¹ÙÙÙØ§ Ø£ÙÙÙØ§ÙÙÙÙÙÙ:",
+      "jpn": "<span class=\"verse-number\">1 </span>ããã¯ããªãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«<ruby><rb>ç¤º</rb><rt>ãã</rt></ruby>ãã¹ãããã¦ã§ããã",
+      "zhs": "<span class=\"verse-number\">1ã</span>ä½ å¨ç¾å§é¢åæè¦ç«çå¸ç« æ¯è¿æ ·ï¼",
+      "zht": "<span class=\"verse-number\">1ã</span>ä½ å¨ç¾å§é¢åæè¦ç«çå¸ç« æ¯éæ¨£ï¼",
+      "spa": "<span class=\"verse-number\">1 </span>Y estos son los estatutos que les propondrÃ¡s:",
+      "por": "<span class=\"verse-number\">1 </span>Estes <span class=\"clarity-word\">sÃ£o</span> os estatutos que lhes proporÃ¡s.",
+      "fra": "<span class=\"verse-number\">1 </span>Voici les lois que tu leur prÃ©senteras.",
+      "deu": "<span class=\"verse-number\">1Â </span>âUnd dies sind die Rechtssatzungen, die du ihnen vorlegen sollst:",
+      "kor": "<span class=\"verse-number\">1 </span>ë¤ê° ë°±ì± ìì ì¸ì¸ ë²ê·ë ì´ë¬íëë¼",
+      "ita": "<span class=\"verse-number\">1</span> âOra, queste sono le leggi che tu porrai dinanzi a loro:"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>If thou buy an Hebrew servant, six years he shall serve: and in the <span class=\"page-break\" data-page=\"111\"></span>seventh he shall go out free for nothing.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø¥ÙÙ Ø§Ø´ÙØªÙØ±ÙÙÙØªÙ Ø¹ÙØ¨ÙØ¯Ø§Ù Ø¹ÙØ¨ÙØ±ÙØ§ÙÙÙÙÙØ§ ÙÙÙÙÙÙØ®ÙØ¯ÙÙÙÙÙ Ø³ÙØªÙÙ Ø³ÙÙÙÙÙØ§ØªÙØ ÙÙÙÙÙ Ø§ÙØ³ÙÙÙÙØ©Ù Ø§ÙØ³ÙÙØ§Ø¨ÙØ¹ÙØ©Ù ØªÙØ·ÙÙÙÙÙÙÙ Ø­ÙØ±ÙØ§Ù ÙÙØ¬ÙÙØ§ÙØ§Ù",
+      "jpn": "<span class=\"verse-number\">2 </span>ããªããããã«ã³ã¨ã§ãã<ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã<ruby><rb>è²·</rb><rt>ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã¯ãå­<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby>ã®ããã <ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ããããä¸<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby><ruby><rb>ç®</rb><rt>ã</rt></ruby>ã«ã¯<ruby><rb>ç¡å</rb><rt>ãããã</rt></ruby>ã§<ruby><rb>èªç±</rb><rt>ããã</rt></ruby>ã®<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã¨ãã¦<ruby><rb>å»</rb><rt>ã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">2ã</span>ä½ è¥ä¹°<u>å¸ä¼¯æ¥</u>äººä½å¥´ä»ï¼ä»å¿æäºä½ å­å¹´ï¼ç¬¬ä¸å¹´ä»å¯ä»¥èªç±ï¼ç½ç½å°åºå»ã",
+      "zht": "<span class=\"verse-number\">2ã</span>ä½ è¥è²·<u>å¸ä¼¯ä¾</u>äººä½å¥´åï¼ä»å¿æäºä½ å­å¹´ï¼ç¬¬ä¸å¹´ä»å¯ä»¥èªç±ï¼ç½ç½å°åºå»ã",
+      "spa": "<span class=\"verse-number\">2 </span>Si compras siervo hebreo, seis aÃ±os servirÃ¡, mas al sÃ©ptimo saldrÃ¡ libre, de balde.",
+      "por": "<span class=\"verse-number\">2 </span>Se comprares um servo hebreu, seis anos servirÃ¡, mas ao sÃ©timo sairÃ¡ livre, de graÃ§a.",
+      "fra": "<span class=\"verse-number\">2 </span>Si tu achÃ¨tes un esclave hÃ©breu, il servira six annÃ©esÂ ; la septiÃ¨me, il sortira libre, sans rien payer.",
+      "deu": "<span class=\"verse-number\">2Â </span>Wenn du einen hebrÃ¤ischen Knecht kaufst, soll er dir sechs Jahre lang dienen; aber im siebten Jahr soll er unentgeltlich freigelassen werden.",
+      "kor": "<span class=\"verse-number\">2 </span>ë¤ê° íë¸ë¦¬ ì¢ì ì¬ë©´ ê·¸ë ì¬ì¯ í´ ëì ì¬ê¸¸ ê²ì´ì ì¼ê³±ì§¸ í´ìë ëª¸ê°ì ë¬¼ì§ ìê³  ëê° ìì ì¸ì´ ë  ê²ì´ë©°",
+      "ita": "<span class=\"verse-number\">2</span> Se compri un servo ebreo, egli ti servirÃ  per sei anni; ma il settimo se ne andrÃ  libero, senza pagar nulla."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØ¥Ø°ÙØ§ Ø§Ø´ÙØªÙØ±ÙÙÙØªÙÙÙ ÙÙÙÙÙÙ Ø£ÙØ¹ÙØ²ÙØ¨Ù ÙÙØ·ÙÙÙÙÙ ÙÙØ­ÙØ¯ÙÙÙ. ÙÙØ¥ÙÙÙ Ø§Ø´ÙØªÙØ±ÙÙÙØªÙÙÙ ÙÙÙÙÙÙ Ø¨ÙØ¹ÙÙÙ Ø§ÙÙØ±ÙØ£ÙØ©ÙØ ØªÙØ·ÙÙÙÙÙ Ø²ÙÙÙØ¬ÙØªÙÙÙ ÙÙØ¹ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">3 </span><ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ããã<ruby><rb>ç¬èº«</rb><rt>ã©ããã</rt></ruby>ã§ãããªãã°ã<ruby><rb>ç¬èº«</rb><rt>ã©ããã</rt></ruby>ã§<ruby><rb>å»</rb><rt>ã</rt></ruby>ããªããã°ãªããªãããã<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã£ã¦ãããªãã°ããã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¨<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>å»</rb><rt>ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">3ã</span>ä»è¥å­¤èº«æ¥ï¼å°±å¯ä»¥å­¤èº«å»ï¼ä»è¥æå¦»ï¼ä»çå¦»å°±å¯ä»¥åä»åºå»ã",
+      "zht": "<span class=\"verse-number\">3ã</span>ä»è¥å­¤èº«ä¾ï¼å°±å¯ä»¥å­¤èº«å»ï¼ä»è¥æå¦»ï¼ä»çå¦»å°±å¯ä»¥åä»åºå»ã",
+      "spa": "<span class=\"verse-number\">3 </span>Si entrÃ³ solo, solo saldrÃ¡; si tenÃ­a esposa, saldrÃ¡ Ã©l y su esposa con Ã©l.",
+      "por": "<span class=\"verse-number\">3 </span>Se entrou sozinho, sozinho sairÃ¡; se ele <span class=\"clarity-word\">era</span> homem casado, sairÃ¡ sua mulher com ele.",
+      "fra": "<span class=\"verse-number\">3 </span>Sâil est entrÃ© seul, il sortira seulÂ ; sâil avait une femme, sa femme sortira avec lui.",
+      "deu": "<span class=\"verse-number\">3Â </span>Ist er allein gekommen, so soll er auch allein wieder gehen; war er aber verheiratet, so soll auch seine Frau mit ihm freigelassen werden.",
+      "kor": "<span class=\"verse-number\">3 </span>ë§ì¼ ê·¸ê° ë¨ì ì¼ë¡ ìì¼ë©´ ë¨ì ì¼ë¡ ëê° ê²ì´ì ì¥ê° ë¤ìì¼ë©´ ê·¸ì ìë´ë ê·¸ì í¨ê» ëê°ë ¤ëì",
+      "ita": "<span class=\"verse-number\">3</span> Se Ã¨ venuto solo, se ne andrÃ  solo; se aveva moglie, la moglie se ne andrÃ  con lui."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her masterâs, and he shall go out by himself.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ¥ÙÙÙ ÙÙÙÙØ¨ÙÙÙ ÙÙÙÙÙØ§ÙÙ Ø²ÙÙÙØ¬ÙØ©Ù ÙÙØ£ÙÙÙØ¬ÙØ¨ÙØªÙ ÙÙÙÙ Ø¨ÙÙÙÙÙÙ ÙÙØ¨ÙÙÙØ§ØªÙØ ÙÙØ¥ÙÙÙÙ Ø²ÙÙÙØ¬ÙØªÙÙÙ ÙÙØ£ÙÙÙÙØ§Ø¯ÙÙÙØ§ ÙÙÙÙÙÙÙÙÙÙ ÙÙÙÙÙØ§Ù ÙÙØ³ÙÙÙÙØ¯ÙÙÙØ ÙÙÙÙÙÙ ÙÙØ·ÙÙÙÙÙ ÙÙØ­ÙØ¯ÙÙÙ Ø­ÙØ±ÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">4 </span>ãããã®<ruby><rb>ä¸»äºº</rb><rt>ãããã</rt></ruby>ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãã¦ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¾ã<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã<ruby><rb>ç£</rb><rt>ã</rt></ruby>ãã ãªãã°ã<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã¨ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby><ruby><rb>ä¾</rb><rt>ã¨ã</rt></ruby>ã¯<ruby><rb>ä¸»äºº</rb><rt>ãããã</rt></ruby>ã®ãã®ã¨ãªãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç¬èº«</rb><rt>ã©ããã</rt></ruby>ã§<ruby><rb>å»</rb><rt>ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">4ã</span>ä»ä¸»äººè¥ç»ä»å¦»å­ï¼å¦»å­ç»ä»çäºå¿å­æå¥³å¿ï¼å¦»å­åå¿å¥³è¦å½ä¸»äººï¼ä»è¦ç¬èªåºå»ã",
+      "zht": "<span class=\"verse-number\">4ã</span>ä»ä¸»äººè¥çµ¦ä»å¦»å­ï¼å¦»å­çµ¦ä»çäºåå­æå¥³åï¼å¦»å­ååå¥³è¦æ­¸ä¸»äººï¼ä»è¦ç¨èªåºå»ã",
+      "spa": "<span class=\"verse-number\">4 </span>Si su amo le ha dado esposa y ella le ha dado a luz hijos o hijas, la esposa y sus hijos serÃ¡n de su amo, y Ã©l saldrÃ¡ solo.",
+      "por": "<span class=\"verse-number\">4 </span>Se seu senhor lhe houver dado uma mulher, e ela lhe houver dado filhos ou filhas, a mulher e seus filhos serÃ£o de seu senhor, e ele sairÃ¡ sozinho.",
+      "fra": "<span class=\"verse-number\">4 </span>Si câest son maÃ®tre qui lui a donnÃ© une femme et sâil en a eu des fils ou des filles, la femme et ses enfants seront Ã  son maÃ®tre et il sortira seul.",
+      "deu": "<span class=\"verse-number\">4Â </span>Hat ihm dagegen sein Herr eine Frau gegeben und diese ihm SÃ¶hne oder TÃ¶chter geboren, so soll die Frau samt ihren Kindern ihrem Herrn verbleiben, und er soll allein entlassen werden.",
+      "kor": "<span class=\"verse-number\">4 </span>ë§ì¼ ìì ì´ ê·¸ìê² ìë´ë¥¼ ì£¼ì´ ê·¸ì ìë´ê° ìë¤ì´ë ë¸ì ë³ìì¼ë©´ ê·¸ì ìë´ì ê·¸ì ììë¤ì ìì ìê² ìí  ê²ì´ì ê·¸ë ë¨ì ì¼ë¡ ëê° ê²ì´ë¡ë",
+      "ita": "<span class=\"verse-number\">4</span> Se il suo padrone gli dÃ  moglie e questa gli partorisce figli e figlie, la moglie e i figli di lei saranno del padrone, ed egli se ne andrÃ  solo."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>And if the servant shall plainly say, I love my master, my wife, and my children; I will not go out free:",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙÙÙ Ø¥ÙÙÙ ÙÙØ§ÙÙ Ø§ÙÙØ¹ÙØ¨ÙØ¯Ù: âØ£ÙØ­ÙØ¨ÙÙ ÙÙÙÙÙØ§ÙÙ ÙÙØ²ÙÙÙØ¬ÙØªÙÙ ÙÙØ£ÙÙÙÙØ§Ø¯ÙÙØ ÙÙÙØ§ Ø£ÙØ±ÙÙØ¯Ù Ø£ÙÙÙ Ø£ÙØ®ÙØ±ÙØ¬Ù Ø­ÙØ±ÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">5 </span><ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ãããããããã¯ããããã®<ruby><rb>ä¸»äºº</rb><rt>ãããã</rt></ruby>ã¨ããããã®<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã¨<ruby><rb>å­ä¾</rb><rt>ãã©ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¾ãããããã¯<ruby><rb>èªç±</rb><rt>ããã</rt></ruby>ã®<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã¨ãªã£ã¦<ruby><rb>å»</rb><rt>ã</rt></ruby>ããã¨ã<ruby><rb>å¥½</rb><rt>ãã®</rt></ruby>ã¿ã¾ãããã¨<ruby><rb>æè¨</rb><rt>ãããã</rt></ruby>ãããªãã°ã",
+      "zhs": "<span class=\"verse-number\">5ã</span>åæå¥´ä»æè¯´ï¼æç±æçä¸»äººåæçå¦»å­å¿å¥³ï¼ä¸æ¿æèªç±åºå»ã",
+      "zht": "<span class=\"verse-number\">5ã</span>åæå¥´åæèªªï¼æææçä¸»äººåæçå¦»å­åå¥³ï¼ä¸é¡æèªç±åºå»ã",
+      "spa": "<span class=\"verse-number\">5 </span>Y si el siervo dice: Yo amo a mi seÃ±or, a mi esposa y a mis hijos, no saldrÃ© libre,",
+      "por": "<span class=\"verse-number\">5 </span>Mas se aquele servo expressamente disser: Eu amo meu senhor, e minha mulher, e meus filhos; nÃ£o quero sair livre;",
+      "fra": "<span class=\"verse-number\">5 </span>Si lâesclave ditÂ : Jâaime mon maÃ®tre, ma femme et mes enfants, je ne veux pas sortir libre,",
+      "deu": "<span class=\"verse-number\">5Â </span>ErklÃ¤rt aber der Knecht ausdrÃ¼cklich: âIch habe meinen Herrn, meine Frau und meine Kinder lieb, ich will nicht freigelassen werdenâ,",
+      "kor": "<span class=\"verse-number\">5 </span>ë§ì¼ ì¢ì´ ë¶ëªí ë§íê¸°ë¥¼ ë´ê° ìì ê³¼ ë´ ì²ìë¥¼ ì¬ëíë ëê°ì ìì ì¸ì´ ëì§ ìê² ë¸ë¼ íë©´",
+      "ita": "<span class=\"verse-number\">5</span> Ma se il servo fa questa dichiarazione: âIo amo il mio padrone, mia moglie e i miei figli; io non voglio andarmene liberoâ,"
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Then his master shall bring him unto the judges; he shall also bring him to the door, or unto the door post; and his master shall bore his ear through with an awl; and he shall serve him for ever.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ£ÙØ®ÙØ°ÙÙÙ Ø³ÙÙÙÙØ¯ÙÙÙ Ø¥ÙÙÙÙ ÙÙØ¶ÙØ§Ø©Ù Ø§ÙÙÙÙØ¯ÙÙÙÙØ©ÙØ Ø«ÙÙÙÙ ÙÙÙÙÙÙÙÙÙ ÙÙØµÙÙÙ Ø§ÙÙØ¨ÙØ§Ø¨Ù Ø£ÙÙÙ ÙÙØ§Ø¦ÙÙÙØªÙÙÙØ ÙÙÙÙØ«ÙÙÙØ¨Ù Ø£ÙØ°ÙÙÙÙÙ Ø¨ÙÙÙØ®ÙØ±ÙØ²ÙØ ÙÙÙÙØµÙØ¨ÙØ­Ù Ø®ÙØ§Ø¯ÙÙØ§Ù ÙÙÙÙ ÙÙØ¯ÙÙ Ø§ÙÙØ­ÙÙÙØ§Ø©Ù.",
+      "jpn": "<span class=\"verse-number\">6 </span>ãã®<ruby><rb>ä¸»äºº</rb><rt>ãããã</rt></ruby>ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®ãã¨ã«<ruby><rb>é£</rb><rt>ã¤</rt></ruby>ãã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ãã<ruby><rb>æ¸</rb><rt>ã¨</rt></ruby>ãããã¯<ruby><rb>æ±</rb><rt>ã¯ãã</rt></ruby>ã®ã¨ããã«<ruby><rb>é£</rb><rt>ã¤</rt></ruby>ãã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ã<ruby><rb>ä¸»äºº</rb><rt>ãããã</rt></ruby>ã¯ãããã§<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>è³</rb><rt>ã¿ã¿</rt></ruby>ã<ruby><rb>åº</rb><rt>ã</rt></ruby>ã<ruby><rb>é</rb><rt>ã¨ã</rt></ruby>ããªããã°ãªããªããããããã°<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ãã¤ã¾ã§ãããã«<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ããã§ãããã",
+      "zhs": "<span class=\"verse-number\">6ã</span>ä»çä¸»äººå°±è¦å¸¦ä»å°å®¡å¤å®é£éï¼åè¦å¸¦ä»å°é¨åï¼é è¿é¨æ¡ï¼ç¨é¥å­ç©¿ä»çè³æµï¼ä»å°±æ°¸è¿æäºä¸»äººã",
+      "zht": "<span class=\"verse-number\">6ã</span>ä»çä¸»äººå°±è¦å¸¶ä»å°å¯©å¤å®é£è£¡ï¼åè¦å¸¶ä»å°éåï¼é è¿éæ¡ï¼ç¨éå­ç©¿ä»çè³æµï¼ä»å°±æ°¸é æäºä¸»äººã",
+      "spa": "<span class=\"verse-number\">6 </span>entonces su amo le llevarÃ¡ ante los jueces, y le acercarÃ¡ a la puerta o al poste, y su amo le horadarÃ¡ la oreja con lezna, y serÃ¡ su siervo para siempre.",
+      "por": "<span class=\"verse-number\">6 </span>EntÃ£o seu senhor o levarÃ¡ aos juÃ­zes, e o farÃ¡ chegar Ã  porta, ou Ã  ombreira, e seu senhor lhe furarÃ¡ a orelha com uma sovela; e ele o servirÃ¡ para sempre.",
+      "fra": "<span class=\"verse-number\">6 </span>alors son maÃ®tre le conduira devant Dieu et le fera approcher de la porte ou du poteauÂ ; son maÃ®tre lui percera lâoreille avec un poinÃ§on et lâesclave sera pour toujours Ã  son service.",
+      "deu": "<span class=\"verse-number\">6Â </span>so soll sein Herr ihn vor Gott hintreten lassen und ihn an die TÃ¼r oder an den TÃ¼rpfosten stellen: Dort soll sein Herr ihm das Ohr mit einer Pfrieme durchbohren, und er soll dann zeitlebens sein Knecht bleiben.",
+      "kor": "<span class=\"verse-number\">6 </span>ìì ì´ ê·¸ë¥¼ ë°ë¦¬ê³  ì¬íì¥ìê²ë¡ ê° ê²ì´ì ë ê·¸ë¥¼ ë¬¸ì´ë ë¬¸ì¤ì£¼ ìì¼ë¡ ë°ë¦¬ê³  ê°ì ê·¸ê²ìë¤ê° ì¡ê³³ì¼ë¡ ê·¸ì ê·ë¥¼ ë«ì ê²ì´ë¼ ê·¸ë ì¢ì í ë¡ ê·¸ ìì ì ì¬ê¸°ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">6</span> allora il suo padrone lo farÃ  comparire davanti a Dio, e lo farÃ  accostare alla porta o allo stipite, e il suo padrone gli forerÃ  lâorecchio con un punteruolo; ed egli lo servirÃ  per sempre."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span><span class=\"para-mark\">Â¶ </span>And if a man sell his daughter to be a maidservant, she shall not go out as the menservants do.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙÙÙÙÙ Ø¥ÙØ°ÙØ§ Ø¨ÙØ§Ø¹Ù Ø±ÙØ¬ÙÙÙ Ø§Ø¨ÙÙÙØªÙÙÙ ÙÙØ£ÙÙÙØ©ÙØ ÙÙØ¥ÙÙÙÙÙÙØ§ ÙÙØ§ ØªÙØ·ÙÙÙÙÙ Ø­ÙØ±ÙÙØ©Ù ÙÙÙÙØ§ ÙÙØ·ÙÙÙÙÙ Ø§ÙÙØ¹ÙØ¨ÙØ¯Ù.",
+      "jpn": "<span class=\"verse-number\">7 </span>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ããã®<ruby><rb>å¨</rb><rt>ããã</rt></ruby>ã<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby><ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã¨ãã¦<ruby><rb>å£²</rb><rt>ã</rt></ruby>ããªãã°ããã®<ruby><rb>å¨</rb><rt>ããã</rt></ruby>ã¯<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby><ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã<ruby><rb>å»</rb><rt>ã</rt></ruby>ãããã«<ruby><rb>å»</rb><rt>ã</rt></ruby>ã£ã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">7ã</span>äººè¥åå¥³å¿ä½å©¢å¥³ï¼å©¢å¥³ä¸å¯åç·ä»é£æ ·åºå»ã",
+      "zht": "<span class=\"verse-number\">7ã</span>äººè¥è³£å¥³åä½å©¢å¥³ï¼å©¢å¥³ä¸å¯åç·åé£æ¨£åºå»ã",
+      "spa": "<span class=\"verse-number\">7 </span>Y cuando alguno venda a su hija como sierva, ella no saldrÃ¡ como suelen salir los siervos.",
+      "por": "<span class=\"verse-number\">7 </span>E se um homem vender sua filha por serva, ela nÃ£o sairÃ¡ como saem os servos.",
+      "fra": "<span class=\"verse-number\">7 </span>Si un homme vend sa fille pour Ãªtre esclave, elle ne sortira pas comme sortent les esclaves.",
+      "deu": "<span class=\"verse-number\">7Â </span>Wenn aber jemand seine Tochter als Magd verkauft, so darf sie nicht wie die Knechte freigelassen werden.",
+      "kor": "<span class=\"verse-number\">7 </span>ì¬ëì´ ìê¸°ì ë¸ì ì¬ì¢ì¼ë¡ íìì¼ë©´ ê·¸ë ë¨ì¢ ê°ì´ ëì¤ì§ ëª»í ì§ë©°",
+      "ita": "<span class=\"verse-number\">7</span> Se uno vende la propria figlia perchÃ© sia serva, ella non se ne andrÃ  come se ne vanno i servi."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØ¥ÙØ°ÙØ§ ÙÙÙÙ ØªÙØ±ÙÙÙ ÙÙÙÙÙÙÙØ§ÙÙØ§ Ø§ÙÙÙØ°ÙÙ Ø®ÙØ·ÙØ¨ÙÙÙØ§ ÙÙÙÙÙÙØ³ÙÙÙØ ÙÙØ³ÙÙÙØ­Ù Ø¨ÙØ§ÙÙØªÙØ¯ÙØ§Ø¦ÙÙÙØ§Ø ÙÙÙØ§ ÙÙØ­ÙÙÙÙ ÙÙÙÙ Ø£ÙÙÙ ÙÙØ¨ÙÙØ¹ÙÙÙØ§ ÙÙÙÙÙÙÙÙ Ø£ÙØ¬ÙØ§ÙÙØ¨Ù ÙØ£ÙÙÙÙÙÙ ØºÙØ¯ÙØ±Ù Ø¨ÙÙØ§ ÙÙÙÙÙÙ ÙÙØªÙØ²ÙÙÙÙØ¬ÙÙÙØ§",
+      "jpn": "<span class=\"verse-number\">8 </span><ruby><rb>å½¼å¥³</rb><rt>ãã®ãã</rt></ruby>ããã<ruby><rb>å½¼å¥³</rb><rt>ãã®ãã</rt></ruby>ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®ãã®ã¨<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãã<ruby><rb>ä¸»äºº</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ã</rt></ruby>ã«ãããªã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã¯ããã®<ruby><rb>ä¸»äºº</rb><rt>ãããã</rt></ruby>ã¯<ruby><rb>å½¼å¥³</rb><rt>ãã®ãã</rt></ruby>ãããããªããããã¨ããããã«<ruby><rb>è¨±</rb><rt>ãã</rt></ruby>ããªããã°ãªããªãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ããã<ruby><rb>æ¬º</rb><rt>ããã</rt></ruby>ããã®ã§ãããããããã<ruby><rb>ä»å½</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>å£²</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¨©å©</rb><rt>ããã</rt></ruby>ã¯ãªãã",
+      "zhs": "<span class=\"verse-number\">8ã</span>ä¸»äººéå®å¥¹å½èªå·±ï¼è¥ä¸åæ¬¢å¥¹ï¼å°±è¦è®¸å¥¹èµèº«ï¼ä¸»äººæ¢ç¶ç¨è¯¡è¯å¾å¥¹ï¼å°±æ²¡æææåç»å¤é¦äººã",
+      "zht": "<span class=\"verse-number\">8ã</span>ä¸»äººé¸å®å¥¹æ­¸èªå·±ï¼è¥ä¸åæ­¡å¥¹ï¼å°±è¦è¨±å¥¹è´èº«ï¼ä¸»äººæ¢ç¶ç¨è©­è©å¾å¥¹ï¼å°±æ²ææ¬æè³£çµ¦å¤é¦äººã",
+      "spa": "<span class=\"verse-number\">8 </span>Si ella no agrada a su seÃ±or, que la habÃ­a escogido para sÃ­, permitirÃ¡ que sea rescatada, y no la podrÃ¡ vender a pueblo <span class=\"page-break\" data-page=\"131\"></span>extraÃ±o por haberla tratado con engaÃ±o.",
+      "por": "<span class=\"verse-number\">8 </span>Se ela desagradar aos olhos de seu senhor, e ele nÃ£o se desposar com ela, farÃ¡ que se resgate; nÃ£o poderÃ¡ vendÃª-la a um povo estranho, agindo deslealmente com ela.",
+      "fra": "<span class=\"verse-number\">8 </span>Si elle dÃ©plaÃ®t Ã  son maÃ®tre qui sâÃ©tait proposÃ© de la prendre pour femme, il facilitera son rachatÂ ; mais il nâaura pas le droit de la vendre Ã  des Ã©trangers, ce serait la trahir.",
+      "deu": "<span class=\"verse-number\">8Â </span>Wenn sie ihrem Herrn, der sie fÃ¼r sich bestimmt hatte, missfÃ¤llt, so lasse er sie loskaufen; jedoch sie an fremde Leute zu verkaufen, dazu hat er kein Recht, weil er treulos an ihr gehandelt hat.",
+      "kor": "<span class=\"verse-number\">8 </span>ë§ì¼ ìì ì´ ê·¸ë¥¼ ê¸°ë»íì§ ìëíì¬ ìê´íì§ ìëíë©´ ê·¸ë¥¼ ìëíê² í  ê²ì´ë ìì ì´ ê·¸ ì¬ìë¥¼ ìì¸ ê²ì´ ëìì¼ë ì¸êµ­ì¸ìê²ë íì§ ëª»í  ê²ì´ì",
+      "ita": "<span class=\"verse-number\">8</span> Se ella non piace al suo padrone, che se lâera scelta per moglie, egli lascierÃ  che sia riscattata; ma non avrÃ  il diritto di venderla a gente straniera, poichÃ© le Ã¨ stato infedele."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>And if he have betrothed her unto his son, he shall deal with her after the manner of daughters.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ¥ÙÙÙ Ø®ÙØ·ÙØ¨ÙÙÙØ§ ÙØ§ÙØ¨ÙÙÙÙÙ ÙÙØ¥ÙÙÙÙÙÙ ÙÙØ¹ÙØ§ÙÙÙÙÙÙØ§ ÙÙØ§Ø¨ÙÙÙØ©Ù ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">9 </span><ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ããã<ruby><rb>å½¼å¥³</rb><rt>ãã®ãã</rt></ruby>ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã®ãã®ã¨<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãããªãã°ãããã<ruby><rb>å¨</rb><rt>ããã</rt></ruby>ã®ããã«<ruby><rb>æ±</rb><rt>ãã¤ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">9ã</span>ä¸»äººè¥éå®å¥¹ç»èªå·±çå¿å­ï¼å°±å½å¾å¥¹å¦åå¥³å¿ã",
+      "zht": "<span class=\"verse-number\">9ã</span>ä¸»äººè¥é¸å®å¥¹çµ¦èªå·±çåå­ï¼å°±ç¶å¾å¥¹å¦åå¥³åã",
+      "spa": "<span class=\"verse-number\">9 </span>Mas si la hubiere desposado con su hijo, harÃ¡ con ella segÃºn la costumbre de las hijas.",
+      "por": "<span class=\"verse-number\">9 </span>Mas se a desposar com seu filho, farÃ¡ com ela conforme o direito das filhas.",
+      "fra": "<span class=\"verse-number\">9 </span>Sâil la destine Ã  son fils, il agira envers elle selon le droit des filles.",
+      "deu": "<span class=\"verse-number\">9Â </span>Wenn er sie aber fÃ¼r seinen Sohn bestimmt, so hat er sie nach dem Recht der TÃ¶chter zu behandeln.",
+      "kor": "<span class=\"verse-number\">9 </span>ë§ì¼ ê·¸ë¥¼ ìê¸° ìë¤ìê² ì£¼ê¸°ë¡ íìì¼ë©´ ê·¸ë¥¼ ë¸ ê°ì´ ëì°í  ê²ì´ì",
+      "ita": "<span class=\"verse-number\">9</span> E se la dÃ  in sposa a suo figlio, la tratterÃ  secondo il diritto delle figlie."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>If he take him another <span class=\"clarity-word\">wife;</span> her food, her raiment, and her duty of marriage, shall he not diminish.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>Ø£ÙÙÙÙØ§ Ø¥ÙØ°ÙØ§ Ø£ÙØ¹ÙØ¬ÙØ¨ÙØªÙÙÙ ÙÙØªÙØ²ÙÙÙÙØ¬ÙÙÙØ§Ø Ø«ÙÙÙÙ Ø¹ÙØ§Ø¯Ù ÙÙØªÙØ²ÙÙÙÙØ¬Ù ÙÙÙÙ Ø£ÙØ®ÙØ±ÙÙØ ÙÙØ¥ÙÙÙÙÙÙ ÙÙØ§ ÙÙÙÙÙÙÙØµÙ Ø´ÙÙÙØ¦Ø§Ù ÙÙÙÙ Ø·ÙØ¹ÙØ§ÙÙÙÙØ§ ÙÙÙÙØ³ÙÙÙØªÙÙÙØ§ ÙÙÙÙØ¹ÙØ§Ø´ÙØ±ÙØªÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">10 </span><ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãããã¨ããã»ãã«<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã¨ããã¨ããã£ã¦ãã<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã«<ruby><rb>é£ç©</rb><rt>ããããã¤</rt></ruby>ã¨<ruby><rb>è¡£æ</rb><rt>ããµã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã¨ã¨ããã®<ruby><rb>å¤«å©¦</rb><rt>ãµããµ</rt></ruby>ã®<ruby><rb>é</rb><rt>ã¿ã¡</rt></ruby>ã¨ã<ruby><rb>çµ¶</rb><rt>ã</rt></ruby>ãããã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">10ã</span>è¥å¦å¨¶ä¸ä¸ªï¼é£å¥³å­çåé£ãè¡£æå¹¶å¥½åçäºï¼ä»ä¸å¯åå°ã",
+      "zht": "<span class=\"verse-number\">10ã</span>è¥å¦å¨¶ä¸åï¼é£å¥³å­çåé£ãè¡£æä¸¦å¥½åçäºï¼ä»ä¸å¯æ¸å°ã",
+      "spa": "<span class=\"verse-number\">10 </span>Si toma para sÃ­ otra esposa, no le disminuirÃ¡ su alimento, ni su vestido, ni el deber conyugal.",
+      "por": "<span class=\"verse-number\">10 </span>Se lhe tomar outra, nÃ£o diminuirÃ¡ o mantimento desta, nem as suas roupas, nem os seus direitos conjugais.",
+      "fra": "<span class=\"verse-number\">10 </span>Sâil prend une autre femme, il ne diminuera en rien la nourriture, le vÃªtement et le droit conjugal de la premiÃ¨re.",
+      "deu": "<span class=\"verse-number\">10Â </span>Nimmt er sich noch eine andere, so darf er ihr doch die Nahrung, die Kleidung und die Beiwohnung nicht verkÃ¼rzen.",
+      "kor": "<span class=\"verse-number\">10 </span>ë§ì¼ ìì ì´ ë¤ë¥¸ ì¬ììê² ì¥ê° ë¤ì§ë¼ë ê·¸ ì¬ìì ììê³¼ ìë³µê³¼ ëì¹¨íë ê²ì ëì§ ë§ ê²ì´ì",
+      "ita": "<span class=\"verse-number\">10</span> Se prende unâaltra moglie, non toglierÃ  alla prima nÃ© il vitto, nÃ© il vestire, nÃ© la coabitazione."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>And if he do not these three unto her, then shall she go out free without money.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙØ¥ÙØ°ÙØ§ ÙÙØµÙÙØ±Ù ÙÙÙ ÙÙØ§Ø­ÙØ¯Ù ÙÙÙÙ ÙÙØ°ÙÙÙ Ø§ÙØ£ÙØ´ÙÙÙØ§Ø¡Ù Ø§ÙØ«ÙÙÙØ§Ø«ÙØ©ÙØ Ø¹ÙÙÙÙÙÙÙ Ø£ÙÙÙ ÙÙØ·ÙÙÙÙÙÙÙØ§ Ø­ÙØ±ÙÙØ©Ù ÙÙØ¬ÙÙØ§ÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">11 </span><ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ããããã®ä¸ã¤ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ããªããªãã°ã<ruby><rb>å½¼å¥³</rb><rt>ãã®ãã</rt></ruby>ã¯<ruby><rb>é</rb><rt>ãã­</rt></ruby>ã<ruby><rb>å</rb><rt>ã¤ããª</rt></ruby>ããã«<ruby><rb>å»</rb><rt>ã</rt></ruby>ããã¨ãã§ããã",
+      "zhs": "<span class=\"verse-number\">11ã</span>è¥ä¸åå¥¹è¡è¿ä¸æ ·ï¼å¥¹å°±å¯ä»¥ä¸ç¨é±èµï¼ç½ç½å°åºå»ã",
+      "zht": "<span class=\"verse-number\">11ã</span>è¥ä¸åå¥¹è¡éä¸æ¨£ï¼å¥¹å°±å¯ä»¥ä¸ç¨é¢è´ï¼ç½ç½å°åºå»ã",
+      "spa": "<span class=\"verse-number\">11 </span>Y si no hace ninguna de estas tres cosas, ella saldrÃ¡ de gracia sin pagar dinero.",
+      "por": "<span class=\"verse-number\">11 </span>E se nÃ£o lhe fizer essas trÃªs coisas, ela sairÃ¡ de graÃ§a, sem dar dinheiro.",
+      "fra": "<span class=\"verse-number\">11 </span>Et sâil ne fait pas pour elle ces trois choses, elle pourra sortir sans rien payer, sans donner de lâargent.",
+      "deu": "<span class=\"verse-number\">11Â </span>Will er ihr aber diese drei Verpflichtungen nicht gewÃ¤hren, so soll sie umsonst, ohne Entgelt, frei gehen.",
+      "kor": "<span class=\"verse-number\">11 </span>ê·¸ê° ì´ ì¸ ê°ì§ë¥¼ ìííì§ ìëíë©´, ì¬ìë ìì ì ë´ì§ ìê³  ê±°ì  ëê°ê² í  ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">11</span> Se non le fa queste tre cose, ella se ne andrÃ  senza pagamento di prezzo."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span><span class=\"para-mark\">Â¶ </span>He that smiteth a man, so that he die, shall be surely put to death.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙÙ Ø¶ÙØ±ÙØ¨Ù Ø¥ÙÙØ³ÙØ§ÙØ§Ù ÙÙÙÙØªÙÙÙÙÙØ ÙÙØ§ÙØ¶ÙÙØ§Ø±ÙØ¨Ù Ø­ÙØªÙÙØ§Ù ÙÙÙÙÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">12 </span><ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã£ã¦<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãªãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ã<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">12ã</span>æäººä»¥è³ææ­»çï¼å¿è¦æä»æ²»æ­»ã",
+      "zht": "<span class=\"verse-number\">12ã</span>æäººä»¥è³ææ­»çï¼å¿è¦æä»æ²»æ­»ã",
+      "spa": "<span class=\"verse-number\">12 </span>El que hiera a alguno, haciÃ©ndole asÃ­ morir, Ã©l morirÃ¡.",
+      "por": "<span class=\"verse-number\">12 </span>Quem ferir alguÃ©m, de modo que morra, certamente morrerÃ¡;",
+      "fra": "<span class=\"verse-number\">12 </span>Celui qui frappera un homme mortellement sera puni de mort.",
+      "deu": "<span class=\"verse-number\">12Â </span>Wer einen anderen so schlÃ¤gt, dass er stirbt, soll mit dem Tod bestraft werden.",
+      "kor": "<span class=\"verse-number\">12 </span>ì¬ëì ì³ì£½ì¸ ìë ë°ëì ì£½ì¼ ê²ì´ë",
+      "ita": "<span class=\"verse-number\">12</span> Chi colpisce un uomo a morte, deve essere messo a morte."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>And if a man lie not in wait, but God deliver <span class=\"clarity-word\">him</span> into his hand; then I will appoint thee a place whither he shall flee.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙÙÙÙÙÙÙ Ø¥ÙÙÙ ÙÙÙÙ ÙÙØªÙØ¹ÙÙÙÙØ¯Ù Ø§ÙØ¶ÙÙØ§Ø±ÙØ¨Ù Ø°ÙÙÙÙÙØ Ø¨ÙÙÙ Ø­ÙØ¯ÙØ«Ù Ø§ÙØ£ÙÙÙØ±Ù Ø¨ÙÙÙØ¶ÙØ§Ø¡Ù Ø§ÙÙÙÙ°ÙÙ ÙÙØ¥ÙÙÙÙÙ Ø³ÙØ£ÙØ¹ÙÙÙÙÙÙ ÙÙÙÙ ÙÙÙÙØ§ÙØ§Ù ÙÙÙÙØ¬ÙØ£Ù Ø¥ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">13 </span>ãããã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãããããã¨ãããªãã®ã«ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã«<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãããããããã¨ã®ãã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã¯ããããã¯ããªãã®ããã«ä¸ã¤ã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ãã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã¸ã®ããããã¨ãã§ããã",
+      "zhs": "<span class=\"verse-number\">13ã</span>äººè¥ä¸æ¯åä¼ç<span class=\"clarity-word\">æäºº</span>ï¼ä¹æ¯ç¥äº¤å¨ä»æä¸­ï¼æå°±è®¾ä¸ä¸ä¸ªå°æ¹ï¼ä»å¯ä»¥å¾é£ééè·ã",
+      "zht": "<span class=\"verse-number\">13ã</span>äººè¥ä¸æ¯åä¼è<span class=\"clarity-word\">æ®ºäºº</span>ï¼ä¹æ¯ç¥äº¤å¨ä»æä¸­ï¼æå°±è¨­ä¸ä¸åå°æ¹ï¼ä»å¯ä»¥å¾é£è£¡éè·ã",
+      "spa": "<span class=\"verse-number\">13 </span>Pero el que no armÃ³ asechanzas, sino que Dios <span class=\"clarity-word\">lo</span> puso en sus manos, entonces yo te seÃ±alarÃ© el lugar al cual ha de huir.",
+      "por": "<span class=\"verse-number\">13 </span>PorÃ©m o que nÃ£o <span class=\"clarity-word\">lhe</span> armou ciladas, mas Deus o entregou nas suas mÃ£os, designar-te-ei um lugar, para onde ele fugirÃ¡.",
+      "fra": "<span class=\"verse-number\">13 </span>Mais sâil ne lui a pas tendu de piÃ¨ge et si Dieu lâa fait tomber sous sa main, je te dÃ©signerai un lieu oÃ¹ il pourra se rÃ©fugier.",
+      "deu": "<span class=\"verse-number\">13Â </span>Hat er es aber nicht vorsÃ¤tzlich getan, sondern hat Gott es seiner Hand widerfahren lassen, so will ich dir eine StÃ¤tte bestimmen, wohin er fliehen soll.",
+      "kor": "<span class=\"verse-number\">13 </span>ë§ì¼ ì¬ëì´ ê³ ìì ì¼ë¡ í ê²ì´ ìëë¼ ë íëëì´ ì¬ëì ê·¸ì ìì ëê¸´ ê²ì´ë©´ ë´ê° ê·¸ë¥¼ ìíì¬ í ê³³ì ì íë¦¬ë ê·¸ ì¬ëì´ ê·¸ë¦¬ë¡ ëë§í  ê²ì´ë©°",
+      "ita": "<span class=\"verse-number\">13</span> Se non gli ha teso agguato, ma Dio glielo ha dato in mano, io ti stabilirÃ² un luogo dove egli si possa rifugiare."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙÙÙÙÙÙÙ Ø¥ÙØ°ÙØ§ ØªÙØ¢ÙÙØ±Ù Ø£ÙØ­ÙØ¯Ù Ø¹ÙÙÙÙ Ø¢Ø®ÙØ±Ù ÙÙØªÙØ¹ÙÙÙÙØ¯Ù ÙÙØªÙÙÙÙÙØ ÙÙØ³ÙÙÙÙÙ ÙÙÙÙÙÙÙÙØªÙ Ø­ÙØªÙÙÙ ÙÙÙÙÙÙ Ø§Ø­ÙØªÙÙÙÙ Ø¨ÙÙÙØ°ÙØ¨ÙØ­ÙÙ",
+      "jpn": "<span class=\"verse-number\">14 </span>ããã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãããããã¨ããã«ãã®<ruby><rb>é£äºº</rb><rt>ãããã</rt></ruby>ã<ruby><rb>æ¬º</rb><rt>ããã</rt></ruby>ãã¦<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã¯ããã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããããã®<ruby><rb>ç¥­å£</rb><rt>ããã ã</rt></ruby>ããã§ãã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ãã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">14ã</span>äººè¥ä»»æç¨è¯¡è®¡æäºä»çé»èï¼å°±æ¯éå°æçåé£éï¼ä¹å½æå»æä»æ²»æ­»ã",
+      "zht": "<span class=\"verse-number\">14ã</span>äººè¥ä»»æç¨è©­è¨æ®ºäºä»çé°èï¼å°±æ¯éå°æçå£é£è£¡ï¼ä¹ç¶æå»æä»æ²»æ­»ã",
+      "spa": "<span class=\"verse-number\">14 </span>AdemÃ¡s, si alguno se enardece contra su prÃ³jimo y lo mata con alevosÃ­a, de mi altar lo quitarÃ¡s para que muera.",
+      "por": "<span class=\"verse-number\">14 </span>Mas se alguÃ©m agir premeditadamente contra o seu prÃ³ximo, <span class=\"page-break\" data-page=\"131\"></span>matando-o com dolo, tirÃ¡-lo-Ã¡s do meu altar, para que morra.",
+      "fra": "<span class=\"verse-number\">14 </span>Mais si quelquâun agit mÃ©chamment contre son prochain, en employant la ruse pour le tuer, tu lâarracheras mÃªme de mon autel pour le faire mourir.",
+      "deu": "<span class=\"verse-number\">14Â </span>Wenn sich aber jemand gegen einen anderen so weit vergisst, dass er ihn hinterlistig ums Leben bringt, so sollst du ihn sogar von meinem Altar wegholen, damit er stirbt!",
+      "kor": "<span class=\"verse-number\">14 </span>ì¬ëì´ ê·¸ì ì´ìì ê³ ìë¡ ì£½ìì¼ë©´ ëë ê·¸ë¥¼ ë´ ì ë¨ììë¼ë ì¡ìë´ë ¤ ì£½ì¼ì§ëë¼",
+      "ita": "<span class=\"verse-number\">14</span> Se qualcuno con premeditazione uccide il suo prossimo con lâinganno, tu lo strapperai anche dal mio altare, per farlo morire."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span><span class=\"para-mark\">Â¶ </span>And he that smiteth his father, or his mother, shall be surely put to death.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙÙÙÙ ÙÙÙÙ ÙÙØ¶ÙØ±ÙØ¨Ù Ø£ÙØ¨ÙØ§ÙÙ Ø£ÙÙÙ Ø£ÙÙÙÙÙÙØ ÙÙÙÙØªÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">15 </span><ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã¾ãã¯<ruby><rb>æ¯</rb><rt>ã¯ã¯</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¤<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ã<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">15ã</span>æç¶æ¯çï¼å¿è¦æä»æ²»æ­»ã",
+      "zht": "<span class=\"verse-number\">15ã</span>æç¶æ¯çï¼å¿è¦æä»æ²»æ­»ã",
+      "spa": "<span class=\"verse-number\">15 </span>Y el que hiera a su padre o a su madre, morirÃ¡.",
+      "por": "<span class=\"verse-number\">15 </span>O que ferir seu pai, ou sua mÃ£e, certamente morrerÃ¡.",
+      "fra": "<span class=\"verse-number\">15 </span>Celui qui frappera son pÃ¨re ou sa mÃ¨re sera puni de mort.",
+      "deu": "<span class=\"verse-number\">15Â </span>Wer seinen Vater oder seine Mutter schlÃ¤gt, soll mit dem Tod bestraft werden!",
+      "kor": "<span class=\"verse-number\">15 </span>ìê¸° ìë²ì§ë ì´ë¨¸ëë¥¼ ì¹ë ìë ë°ëì ì£½ì¼ì§ëë¼",
+      "ita": "<span class=\"verse-number\">15</span> Chi percuote suo padre o sua madre deve essere messo a morte."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span><span class=\"para-mark\">Â¶ </span>And he that stealeth a man, and selleth him, or if he be found in his hand, he shall surely be put to death.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙÙ ÙÙØ®ÙØ·ÙÙÙ Ø¥ÙÙÙØ³ÙØ§ÙØ§Ù ÙÙÙÙØ¨ÙØ¹ÙÙÙ Ø£ÙÙÙ ÙÙØ³ÙØªÙØ±ÙÙÙÙÙÙ Ø¹ÙÙÙØ¯ÙÙÙ Ø­ÙØªÙÙØ§Ù ÙÙÙÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">16 </span><ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ããã©ãããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ãããã<ruby><rb>å£²</rb><rt>ã</rt></ruby>ã£ã¦ãã¦ãããªã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã«ãã£ã¦ãã<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ã<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">16ã</span>æå¸¦äººå£ï¼ææ¯æäººåäºï¼ææ¯çå¨ä»æä¸ï¼å¿è¦æä»æ²»æ­»ã",
+      "zht": "<span class=\"verse-number\">16ã</span>æå¸¶äººå£ï¼ææ¯æäººè³£äºï¼ææ¯çå¨ä»æä¸ï¼å¿è¦æä»æ²»æ­»ã",
+      "spa": "<span class=\"verse-number\">16 </span>Asimismo el que secuestre a una persona y la venda, o si es hallado en sus manos, morirÃ¡.",
+      "por": "<span class=\"verse-number\">16 </span>E quem raptar <span class=\"clarity-word\">um</span> homem, e o vender, ou for achado na sua mÃ£o, certamente morrerÃ¡.",
+      "fra": "<span class=\"verse-number\">16 </span>Celui qui dÃ©robera un homme et qui lâaura vendu ou retenu entre ses mains, sera puni de mort.",
+      "deu": "<span class=\"verse-number\">16Â </span>Wer einen Menschen raubt, sei es, dass er ihn verkauft hat oder dass der Betreffende noch in seiner Hand gefunden wird, soll mit dem Tod bestraft werden.",
+      "kor": "<span class=\"verse-number\">16 </span>ì¬ëì ë©ì¹í ìê° ê·¸ ì¬ëì íìë ì§ ìê¸° ìíì ëìë ì§ ê·¸ë¥¼ ë°ëì ì£½ì¼ì§ëë¼",
+      "ita": "<span class=\"verse-number\">16</span> Chi ruba un uomoÂ â sia che lâabbia venduto o che gli sia trovato nelle maniÂ â deve essere messo a morte."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span><span class=\"para-mark\">Â¶ </span>And he that curseth his father, or his mother, shall surely be put to death.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙÙÙ ÙÙØ´ÙØªÙÙÙ Ø£ÙØ¨ÙØ§ÙÙ Ø£ÙÙÙ Ø£ÙÙÙÙÙÙ ÙÙÙÙØªÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">17 </span><ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã¾ãã¯<ruby><rb>æ¯</rb><rt>ã¯ã¯</rt></ruby>ãã®ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ã<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ã<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">17ã</span>åé§¡ç¶æ¯çï¼å¿è¦æä»æ²»æ­»ã",
+      "zht": "<span class=\"verse-number\">17ã</span>åé§¡ç¶æ¯çï¼å¿è¦æä»æ²»æ­»ã",
+      "spa": "<span class=\"verse-number\">17 </span>Igualmente el que maldiga a su padre o a su madre, morirÃ¡.",
+      "por": "<span class=\"verse-number\">17 </span>E quem amaldiÃ§oar seu pai ou sua mÃ£e, certamente morrerÃ¡.",
+      "fra": "<span class=\"verse-number\">17 </span>Celui qui maudira son pÃ¨re ou sa mÃ¨re sera puni de mort.",
+      "deu": "<span class=\"verse-number\">17Â </span>Auch wer seinem Vater oder seiner Mutter flucht, soll mit dem Tod bestraft werden!",
+      "kor": "<span class=\"verse-number\">17 </span>ìê¸°ì ìë²ì§ë ì´ë¨¸ëë¥¼ ì ì£¼íë ìë ë°ëì ì£½ì¼ì§ëë¼",
+      "ita": "<span class=\"verse-number\">17</span> Chi maledice suo padre o sua madre deve essere messo a morte."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span><span class=\"para-mark\">Â¶ </span>And if men strive together, and one smite another with a stone, or with <span class=\"clarity-word\">his</span> fist, and he die not, but keepeth his bed:",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>Ø¥ÙØ°ÙØ§ ØªÙØ¹ÙØ§Ø±ÙÙÙ Ø±ÙØ¬ÙÙØ§ÙÙ ÙÙØ¶ÙØ±ÙØ¨Ù Ø£ÙØ­ÙØ¯ÙÙÙÙÙØ§ Ø§ÙØ¢Ø®ÙØ±Ù Ø¨ÙØ­ÙØ¬ÙØ±Ù Ø£ÙÙÙ ÙÙÙÙÙÙÙÙ ÙÙÙÙ ØºÙÙÙØ±Ù Ø£ÙÙÙ ÙÙÙÙÙØªÙÙÙ Ø¨ÙÙÙ Ø£ÙÙÙØ²ÙÙÙÙÙ Ø§ÙÙÙÙØ±ÙØ§Ø´ÙØ",
+      "jpn": "<span class=\"verse-number\">18 </span><ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>äº</rb><rt>ããã</rt></ruby>ã«<ruby><rb>äº</rb><rt>ããã</rt></ruby>ãããã®ã²ã¨ãã<ruby><rb>ç³</rb><rt>ãã</rt></ruby>ã¾ãã¯ããã¶ãã§<ruby><rb>ç¸æ</rb><rt>ããã¦</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã£ã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ãããã<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãªãªãã§<ruby><rb>åº</rb><rt>ã¨ã</rt></ruby>ã«ã¤ãã",
+      "zhs": "<span class=\"verse-number\">18ã</span>äººè¥å½¼æ­¤ç¸äºï¼è¿ä¸ªç¨ç³å¤´ææ¯æ³å¤´æé£ä¸ªï¼å°ä¸ä¸è³äºæ­»ï¼ä¸è¿èººå§å¨åºï¼",
+      "zht": "<span class=\"verse-number\">18ã</span>äººè¥å½¼æ­¤ç¸ç­ï¼éåç¨ç³é ­ææ¯æ³é ­æé£åï¼å°ä¸ä¸è³æ¼æ­»ï¼ä¸éèººè¥å¨åºï¼",
+      "spa": "<span class=\"verse-number\">18 </span>AdemÃ¡s, si algunos riÃ±en, y alguno hiere a su prÃ³jimo con piedra o con el puÃ±o, y este no muere, pero cae en cama,",
+      "por": "<span class=\"verse-number\">18 </span>E se alguns homens pelejarem, e um ferir o outro com pedra ou com o punho, e este nÃ£o morrer, mas cair de cama,",
+      "fra": "<span class=\"verse-number\">18 </span>Si des hommes se querellent et si lâun dâeux frappe lâautre avec une pierre ou avec le poing, sans causer sa mort mais en lâobligeant Ã  garder le lit,",
+      "deu": "<span class=\"verse-number\">18Â </span>Wenn MÃ¤nner in Streit geraten und einer den anderen mit einem Stein oder mit der Faust so schlÃ¤gt, dass er zwar nicht stirbt, aber doch bettlÃ¤gerig wird,",
+      "kor": "<span class=\"verse-number\">18 </span>ì¬ëì´ ìë¡ ì¸ì°ë¤ê° íëê° ëì´ë ì£¼ë¨¹ì¼ë¡ ê·¸ì ìëë°©ì ì³¤ì¼ë ê·¸ê° ì£½ì§ ìê³  ìë¦¬ì ëì ë¤ê°",
+      "ita": "<span class=\"verse-number\">18</span> Se degli uomini altercano, e uno percuote lâaltro con una pietra o con il pugno, e quello non muore, ma deve mettersi a letto,"
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>If he rise again, and walk abroad upon his staff, then shall he that smote <span class=\"clarity-word\">him</span> be quit: only he shall pay <span class=\"clarity-word\">for</span> the loss of his time, and shall cause <span class=\"clarity-word\">him</span> to be thoroughly healed.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>Ø«ÙÙÙÙ ÙÙØ§ÙÙ ÙÙØªÙÙÙØ´ÙÙÙØ§Ù ÙÙØªÙÙÙÙÙÙØ¦Ø§Ù Ø¹ÙÙÙÙ Ø¹ÙÙÙÙØ§Ø²ÙÙÙØ ÙÙØ¨ÙØ±ÙÙØ£Ù Ø§ÙØ¶ÙÙØ§Ø±ÙØ¨ÙØ Ø¥ÙÙØ§ Ø£ÙÙÙÙ Ø¹ÙÙÙÙÙÙÙ Ø£ÙÙÙ ÙÙØ¯ÙÙÙØ¹Ù ÙÙÙÙÙÙØ¶ÙØ±ÙÙØ¨Ù ØªÙØ¹ÙÙÙÙØ¶Ø§Ù Ø¹ÙÙÙ ÙÙØ¯ÙÙØ©Ù ØªÙØ¹ÙØ·ÙÙÙÙÙÙØ ÙÙÙÙØªÙØ­ÙÙÙÙÙÙ ÙÙÙÙÙÙØ§ØªÙ Ø¹ÙÙØ§Ø¬ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">19 </span><ruby><rb>å</rb><rt>ãµãã</rt></ruby>ã³<ruby><rb>èµ·</rb><rt>ã</rt></ruby>ãããã£ã¦ãã¤ãã«ãããã<ruby><rb>å¤</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ãããã«ãªããªãã°ãããã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã£ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ããããããã§ãããããã ãã®<ruby><rb>ä»äº</rb><rt>ããã¨</rt></ruby>ã<ruby><rb>ä¼</rb><rt>ãã</rt></ruby>ãã <ruby><rb>æå¤±</rb><rt>ãããã¤</rt></ruby>ã<ruby><rb>å</rb><rt>ã¤ããª</rt></ruby>ãããã¤ããã«ãããã¶ã<ruby><rb>æ²»ç</rb><rt>ã¡ããã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">19ã</span>è¥åè½èµ·æ¥æ¶æèåºï¼é£æä»çå¯ç®æ ç½ªï¼ä½è¦å°ä»è½è¯¯çå·¥å¤«ç¨é±èµè¡¥ï¼å¹¶è¦å°ä»å¨ç¶å»å¥½ã",
+      "zht": "<span class=\"verse-number\">19ã</span>è¥åè½èµ·ä¾æ¶æèåºï¼é£æä»çå¯ç®ç¡ç½ªï¼ä½è¦å°ä»è½èª¤çå·¥å¤«ç¨é¢è³ è£ï¼ä¸¦è¦å°ä»å¨ç¶é«å¥½ã",
+      "spa": "<span class=\"verse-number\">19 </span>si se levanta y anda fuera sobre su bÃ¡culo, entonces el que le hiriÃ³ serÃ¡ absuelto; solamente le satisfarÃ¡ por lo que estuvo sin trabajar, y harÃ¡ que le curen.",
+      "por": "<span class=\"verse-number\">19 </span>Se ele tornar a levantar-se e andar fora, apoiado no seu bordÃ£o, entÃ£o aquele que o feriu serÃ¡ absolvido; somente lhe pagarÃ¡ o tempo que perdeu e o farÃ¡ curar-se totalmente.",
+      "fra": "<span class=\"verse-number\">19 </span>dans le cas oÃ¹ lâautre viendrait Ã  se lever et Ã  se promener dehors avec son bÃ¢ton, celui qui aura frappÃ© ne sera pas puni. Seulement, il le dÃ©dommagera de son interruption de travail et le fera soigner jusquâÃ  sa guÃ©rison.",
+      "deu": "<span class=\"verse-number\">19Â </span>so soll, wenn er wieder aufkommt und drauÃen an seiner KrÃ¼cke umhergehen kann, der andere, der ihn geschlagen hat, straflos bleiben; nur soll er ihm den Schaden ersetzen, der ihm aus der ArbeitsunfÃ¤higkeit erwachsen ist, und fÃ¼r die Kosten der Heilung aufkommen!",
+      "kor": "<span class=\"verse-number\">19 </span>ì§í¡ì´ë¥¼ ì§ê³  ì¼ì´ë ê±¸ì¼ë©´ ê·¸ë¥¼ ì¹ ìê° íë²ì ë©´íë ê·¸ê°ì ìí´ë¥¼ ë°°ìíê³  ê·¸ê° ìì¹ëê² í  ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">19</span> se si rialza e puÃ² camminare fuori appoggiato al suo bastone, colui che lo ha percosso sarÃ  assolto; soltanto, lo indennizzerÃ  del tempo che ha perduto e lo farÃ  curare fino a guarigione compiuta."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span><span class=\"para-mark\">Â¶ </span>And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>Ø¥ÙÙ Ø¶ÙØ±ÙØ¨Ù Ø£ÙØ­ÙØ¯Ù Ø¹ÙØ¨ÙØ¯ÙÙÙ Ø£ÙÙÙ Ø£ÙÙÙØªÙÙÙ Ø¨ÙØ§ÙÙØ¹ÙØµÙØ§ Ø¶ÙØ±ÙØ¨Ø§Ù Ø£ÙÙÙØ¶ÙÙ Ø¥ÙÙÙÙ Ø§ÙÙÙÙÙÙØªÙØ ÙÙØ¹ÙØ§ÙÙØ¨Ù.",
+      "jpn": "<span class=\"verse-number\">20 </span>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãã¤ãããã£ã¦ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby><ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã¾ãã¯<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby><ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡ããã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ã¬ãªãã°ã<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ã<ruby><rb>ç½°</rb><rt>ã°ã£</rt></ruby>ããããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">20ã</span>äººè¥ç¨æ£å­æå¥´ä»æå©¢å¥³ï¼ç«æ¶æ­»å¨ä»çæä¸ï¼ä»å¿è¦ååã",
+      "zht": "<span class=\"verse-number\">20ã</span>äººè¥ç¨æ£å­æå¥´åæå©¢å¥³ï¼ç«ææ­»å¨ä»çæä¸ï¼ä»å¿è¦ååã",
+      "spa": "<span class=\"verse-number\">20 </span>Y si alguno hiere a su siervo o a su sierva con palo, y este muere bajo su mano, serÃ¡ castigado;",
+      "por": "<span class=\"verse-number\">20 </span>Se alguÃ©m ferir seu servo, ou sua serva com vara, e morrer sob sua mÃ£o, serÃ¡ certamente castigado;",
+      "fra": "<span class=\"verse-number\">20 </span>Si un homme frappe du bÃ¢ton son esclave, homme ou femme, et si lâesclave meurt sous sa main, le maÃ®tre sera puni.",
+      "deu": "<span class=\"verse-number\">20Â </span>Wenn jemand seinen Knecht oder seine Magd mit dem Stock so schlÃ¤gt, dass sie ihm unter der Hand sterben, so muss das bestraft werden;",
+      "kor": "<span class=\"verse-number\">20 </span>ì¬ëì´ ë§¤ë¡ ê·¸ ë¨ì¢ì´ë ì¬ì¢ì ì³ì ë¹ì¥ì ì£½ì¼ë©´ ë°ëì íë²ì ë°ì¼ë ¤ëì",
+      "ita": "<span class=\"verse-number\">20</span> Se uno percuote il suo servo o la sua serva con il bastone tanto che gli muoiono fra le mani, il padrone deve essere punito;"
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>Notwithstanding, if he continue a day or two, he shall not be punished: for he <span class=\"clarity-word\">is</span> his money.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙÙÙÙÙ Ø¥ÙÙÙ Ø¨ÙÙÙÙÙ Ø­ÙÙÙÙØ§ ÙÙÙÙÙØ§Ù Ø£ÙÙÙ ÙÙÙÙÙÙÙÙÙÙØ ÙÙØ§ ÙÙØ¹ÙØ§ÙÙØ¨Ù Ø§ÙØ¶ÙÙØ§Ø±ÙØ¨ÙØ ÙØ£ÙÙÙÙ Ø§ÙØ¹ÙØ¨ÙØ¯Ù ÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">21 </span>ãããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãããä¸<ruby><rb>æ¥</rb><rt>ã«ã¡</rt></ruby>ãããµã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã<ruby><rb>å»¶</rb><rt>ã®</rt></ruby>ã³ããªãã°ããã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯<ruby><rb>ç½°</rb><rt>ã°ã£</rt></ruby>ããããªãã<ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>è²¡ç£</rb><rt>ãããã</rt></ruby>ã ããã§ããã",
+      "zhs": "<span class=\"verse-number\">21ã</span>è¥è¿ä¸ä¸¤å¤©ææ­»ï¼å°±å¯ä»¥ä¸ååï¼å ä¸ºæ¯ç¨é±ä¹°çã",
+      "zht": "<span class=\"verse-number\">21ã</span>è¥éä¸å©å¤©ææ­»ï¼å°±å¯ä»¥ä¸ååï¼å çºæ¯ç¨é¢è²·çã",
+      "spa": "<span class=\"verse-number\">21 </span>pero si sobrevive por un dÃ­a o dos, no serÃ¡ castigado, porque es de su propiedad.",
+      "por": "<span class=\"verse-number\">21 </span>PorÃ©m se ficar vivo por um ou dois dias, nÃ£o serÃ¡ castigado, porque <span class=\"clarity-word\">Ã©</span> seu dinheiro.",
+      "fra": "<span class=\"verse-number\">21 </span>Mais sâil survit un jour ou deux, le maÃ®tre ne sera pas puniÂ ; car câest son argent.",
+      "deu": "<span class=\"verse-number\">21Â </span>wenn jedoch der Betreffende noch einen oder zwei Tage am Leben bleibt, so soll keine Bestrafung stattfinden, denn es handelt sich um sein eigenes Geld.",
+      "kor": "<span class=\"verse-number\">21 </span>ê·¸ê° íë£¨ë ì´íì ì°ëªíë©´ íë²ì ë©´íë¦¬ë ê·¸ë ìì ì ì¬ì°ìì´ë¼",
+      "ita": "<span class=\"verse-number\">21</span> ma se sopravvivono un giorno o due, non sarÃ  punito, perchÃ© sono denaro suo."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span><span class=\"para-mark\">Â¶ </span>If men strive, and hurt a woman with child, so that her fruit depart <span class=\"clarity-word\">from her,</span> and yet no mischief follow: he shall be surely punished, according as the womanâs husband will lay upon him; and he shall pay as the judges <span class=\"clarity-word\">determine.</span>",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>Ø¥ÙÙÙ ØªÙØ¶ÙØ§Ø±ÙØ¨Ù Ø±ÙØ¬ÙØ§ÙÙ ÙÙØµÙØ¯ÙÙÙÙØ§ Ø§ÙÙØ±ÙØ£ÙØ©Ù Ø­ÙØ§ÙÙÙØ§Ù ÙÙØ£ÙØ¬ÙÙÙØ¶ÙØªÙ ÙÙÙÙ ØºÙÙÙØ±Ù Ø£ÙÙÙ ØªÙØªÙØ£ÙØ°ÙÙÙØ ÙÙØ¯ÙÙÙØ¹Ù Ø§ÙØµÙÙØ§Ø¯ÙÙÙ ØºÙØ±ÙØ§ÙÙØ©Ù Ø¨ÙÙÙÙÙØªÙØ¶ÙÙ ÙÙØ§ ÙÙØ·ÙØ§ÙÙØ¨Ù Ø¨ÙÙÙ Ø§ÙØ²ÙÙÙÙØ¬Ù ÙÙÙÙÙÙÙØ§Ù ÙÙÙÙØ±ÙØ§Ø±Ù Ø§ÙÙÙÙØ¶ÙØ§Ø©Ù.",
+      "jpn": "<span class=\"verse-number\">22 </span>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>äº</rb><rt>ããã</rt></ruby>ã«<ruby><rb>äº</rb><rt>ããã</rt></ruby>ã£ã¦ã<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ããã£ã<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡ãããã«<ruby><rb>æµç£</rb><rt>ããããã</rt></ruby>ããããªãã°ãã»ãã®<ruby><rb>å®³</rb><rt>ãã</rt></ruby>ããªãã¨ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ããã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã®<ruby><rb>å¤«</rb><rt>ãã£ã¨</rt></ruby>ã®<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ãã<ruby><rb>ç½°é</rb><rt>ã°ã£ãã</rt></ruby>ã<ruby><rb>èª²</rb><rt>ã</rt></ruby>ãããã<ruby><rb>è£å¤äºº</rb><rt>ããã°ãã«ã</rt></ruby>ã®<ruby><rb>å®</rb><rt>ãã </rt></ruby>ããã¨ããã«<ruby><rb>æ¯æ</rb><rt>ãã¯ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">22ã</span>äººè¥å½¼æ­¤äºæï¼ä¼¤å®³æå­çå¦äººï¼çè³å èï¼éåå´æ å«å®³ï¼é£ä¼¤å®³å¥¹çæ»è¦æå¦äººçä¸å¤«æè¦çï¼ç§å®¡å¤å®ææ­çåç½ã",
+      "zht": "<span class=\"verse-number\">22ã</span>äººè¥å½¼æ­¤ç­é¬¥ï¼å·å®³æå­çå©¦äººï¼çè³å¢èï¼é¨å¾å»ç¡å¥å®³ï¼é£å·å®³å¥¹çç¸½è¦æå©¦äººçä¸å¤«æè¦çï¼ç§å¯©å¤å®ææ·çåç½°ã",
+      "spa": "<span class=\"verse-number\">22 </span>Si algunos riÃ±en y hieren a una mujer encinta, y esta aborta, pero sin haber otros daÃ±os, el culpable serÃ¡ penado conforme a lo que le imponga el marido de la mujer y pagarÃ¡ lo que juzguen los jueces.",
+      "por": "<span class=\"verse-number\">22 </span>Se alguns homens pelejarem, e ferirem <span class=\"clarity-word\">uma</span> mulher grÃ¡vida, e for causa que aborte, porÃ©m nÃ£o houver outro dano, certamente serÃ¡ multado, conforme o que lhe impuser o marido da mulher, e pagarÃ¡ como os juÃ­zes lhe <span class=\"clarity-word\">determinarem.</span>",
+      "fra": "<span class=\"verse-number\">22 </span>Si des hommes se querellent et heurtent une femme enceinte et la font accoucher, sans autre accident, ils seront punis dâune amende imposÃ©e par le mari de la femme et la paieront devant les juges.",
+      "deu": "<span class=\"verse-number\">22Â </span>Wenn MÃ¤nner in Streit geraten und dabei eine schwangere Frau so stoÃen, dass eine FrÃ¼hgeburt eintritt, ihr sonst aber kein Schaden entsteht, so soll der Schuldige diejenige GeldbuÃe zahlen, die der Ehemann der Frau ihm auferlegt, und zwar nach AnhÃ¶rung von Schiedsrichtern.",
+      "kor": "<span class=\"verse-number\">22 </span>ì¬ëì´ ìë¡ ì¸ì°ë¤ê° ìì í ì¬ì¸ì ì³ì ëííê² íìì¼ë ë¤ë¥¸ í´ê° ìì¼ë©´ ê·¸ ë¨í¸ì ì²­êµ¬ëë¡ ë°ëì ë²ê¸ì ë´ë ì¬íì¥ì íê²°ì ë°ë¼ ë¼ ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">22</span> Se alcuni altercano e percuotono una donna incinta cosÃ¬ che ella si sgravi, ma senza che ne segua altro danno, il percuotitore sarÃ  condannato allâammenda che il marito della donna gli imporrÃ ; e la pagherÃ  come determineranno i giudici;"
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>And if <span class=\"clarity-word\">any</span> mischief follow, then thou shalt give life for life,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>Ø£ÙÙÙÙØ§ Ø¥ÙØ°ÙØ§ ØªÙØ£ÙØ°ÙÙØªÙ Ø§ÙÙÙÙØ±ÙØ£ÙØ©ÙØ ØªÙØ£ÙØ®ÙØ°Ù ÙÙÙÙØ³Ø§Ù Ø¨ÙÙÙÙÙØ³ÙØ",
+      "jpn": "<span class=\"verse-number\">23 </span>ããããã»ãã®<ruby><rb>å®³</rb><rt>ãã</rt></ruby>ããã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã¯ã<ruby><rb>å½</rb><rt>ãã®ã¡</rt></ruby>ã«ã¯<ruby><rb>å½</rb><rt>ãã®ã¡</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">23ã</span>è¥æå«å®³ï¼å°±è¦ä»¥å½å¿å½ï¼",
+      "zht": "<span class=\"verse-number\">23ã</span>è¥æå¥å®³ï¼å°±è¦ä»¥å½åå½ï¼",
+      "spa": "<span class=\"verse-number\">23 </span>Pero si hay otros daÃ±os, entonces pagarÃ¡s vida por vida,",
+      "por": "<span class=\"verse-number\">23 </span>Mas se houver dano, entÃ£o darÃ¡s vida por vida;",
+      "fra": "<span class=\"verse-number\">23 </span>Mais sâil y a un accident, tu donneras vie pour vie,",
+      "deu": "<span class=\"verse-number\">23Â </span>Wenn aber ein bleibender Schaden entsteht, so sollst du geben: Leben um Leben,",
+      "kor": "<span class=\"verse-number\">23 </span>ê·¸ë¬ë <span class=\"clarity-word\">ë¤ë¥¸</span> í´ê° ìì¼ë©´ ê°ë ìëªì ìëªì¼ë¡,",
+      "ita": "<span class=\"verse-number\">23</span> ma se ne segue danno,"
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>Eye for eye, tooth for tooth, hand for hand, foot for foot,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙØ¹ÙÙÙÙØ§Ù Ø¨ÙØ¹ÙÙÙÙÙØ ÙÙØ³ÙÙÙØ§Ù Ø¨ÙØ³ÙÙÙÙØ ÙÙÙÙØ¯Ø§Ù Ø¨ÙÙÙØ¯ÙØ ÙÙØ±ÙØ¬ÙÙØ§Ù Ø¨ÙØ±ÙØ¬ÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">24 </span><ruby><rb>ç®</rb><rt>ã</rt></ruby>ã«ã¯<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã<ruby><rb>æ­¯</rb><rt>ã¯</rt></ruby>ã«ã¯<ruby><rb>æ­¯</rb><rt>ã¯</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã«ã¯<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã<ruby><rb>è¶³</rb><rt>ãã</rt></ruby>ã«ã¯<ruby><rb>è¶³</rb><rt>ãã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">24ã</span>ä»¥ç¼è¿ç¼ï¼ä»¥çè¿çï¼ä»¥æè¿æï¼ä»¥èè¿èï¼",
+      "zht": "<span class=\"verse-number\">24ã</span>ä»¥ç¼éç¼ï¼ä»¥çéçï¼ä»¥æéæï¼ä»¥è³éè³ï¼",
+      "spa": "<span class=\"verse-number\">24 </span>ojo por ojo, diente por diente, mano por mano, pie por pie,",
+      "por": "<span class=\"verse-number\">24 </span>Olho por olho, dente por dente, mÃ£o por mÃ£o, pÃ© por pÃ©;",
+      "fra": "<span class=\"verse-number\">24 </span>Åil pour Åil, dent pour dent, main pour main, pied pour pied,",
+      "deu": "<span class=\"verse-number\">24Â </span>Auge um Auge, Zahn um Zahn, Hand um Hand, FuÃ um FuÃ,",
+      "kor": "<span class=\"verse-number\">24 </span>ëì ëì¼ë¡, ì´ë ì´ë¡, ìì ìì¼ë¡, ë°ì ë°ë¡,",
+      "ita": "<span class=\"verse-number\">24</span> darai vita per vita, occhio per occhio, dente per dente, mano per mano, piede per piede,"
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>Burning for burning, wound for wound, stripe for stripe.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>ÙÙÙÙÙÙÙØ§ Ø¨ÙÙÙÙÙÙØ ÙÙØ¬ÙØ±ÙØ­Ø§Ù Ø¨ÙØ¬ÙØ±ÙØ­ÙØ ÙÙØ±ÙØ¶ÙØ§Ù Ø¨ÙØ±ÙØ¶ÙÙ.",
+      "jpn": "<span class=\"verse-number\">25 </span><ruby><rb>ç¼</rb><rt>ã</rt></ruby>ã<ruby><rb>å·</rb><rt>ãã</rt></ruby>ã«ã¯<ruby><rb>ç¼</rb><rt>ã</rt></ruby>ã<ruby><rb>å·</rb><rt>ãã</rt></ruby>ã<ruby><rb>å·</rb><rt>ãã</rt></ruby>ã«ã¯<ruby><rb>å·</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>å·</rb><rt>ãã</rt></ruby>ã«ã¯<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>å·</rb><rt>ãã</rt></ruby>ããã£ã¦<ruby><rb>å</rb><rt>ã¤ããª</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">25ã</span>ä»¥çè¿çï¼ä»¥ä¼¤è¿ä¼¤ï¼ä»¥æè¿æã",
+      "zht": "<span class=\"verse-number\">25ã</span>ä»¥çéçï¼ä»¥å·éå·ï¼ä»¥æéæã",
+      "spa": "<span class=\"verse-number\">25 </span>quemadura por quemadura, herida por herida, golpe por golpe.",
+      "por": "<span class=\"verse-number\">25 </span>Queimadura por queimadura, ferida por ferida, golpe por golpe.",
+      "fra": "<span class=\"verse-number\">25 </span>brÃ»lure pour brÃ»lure, blessure pour blessure, meurtrissure pour meurtrissure.",
+      "deu": "<span class=\"verse-number\">25Â </span>Brandmal um Brandmal, Wunde um Wunde, Strieme um Strieme!",
+      "kor": "<span class=\"verse-number\">25 </span>ë´ ê²ì ë´ ê²ì¼ë¡, ìíê² í ê²ì ìí¨ì¼ë¡, ëë¦° ê²ì ëë¦¼ì¼ë¡ ê°ìì§ëë¼",
+      "ita": "<span class=\"verse-number\">25</span> scottatura per scottatura, ferita per ferita, contusione per contusione."
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span><span class=\"para-mark\">Â¶ </span>And if a man smite the eye of <span class=\"page-break\" data-page=\"112\"></span>his servant, or the eye of his maid, that it perish; he shall let him go free for his eyeâs sake.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙØ¥Ø°ÙØ§ Ø¶ÙØ±ÙØ¨Ù Ø£ÙØ­ÙØ¯Ù Ø¹ÙØ¨ÙØ¯ÙÙÙ Ø£ÙÙÙ Ø£ÙÙÙØªÙÙÙØ ÙÙØ£ÙØªÙÙÙÙÙ Ø¹ÙÙÙÙÙÙÙØ ÙÙØ¥ÙÙÙÙÙÙ ÙÙØ·ÙÙÙÙÙÙÙ Ø­ÙØ±ÙØ§Ù ØªÙØ¹ÙÙÙÙØ¶Ø§Ù ÙÙÙÙ Ø¹ÙÙÙ Ø¹ÙÙÙÙÙÙÙ",
+      "jpn": "<span class=\"verse-number\">26 </span>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby><ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã®<ruby><rb>çç®</rb><rt>ããã</rt></ruby>ãã¾ãã¯<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby><ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã®<ruby><rb>çç®</rb><rt>ããã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡ããããã¤ã¶ããªãã°ããã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã®ããã«ããã<ruby><rb>èªç±</rb><rt>ããã</rt></ruby>ã®<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã¨ãã¦<ruby><rb>å»</rb><rt>ã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">26ã</span>äººè¥æåäºä»å¥´ä»ææ¯å©¢å¥³çä¸åªç¼ï¼å°±è¦å ä»çç¼æ¾ä»å»å¾ä»¥èªç±ã",
+      "zht": "<span class=\"verse-number\">26ã</span>äººè¥æå£äºä»å¥´åææ¯å©¢å¥³çä¸é»ç¼ï¼å°±è¦å ä»çç¼æ¾ä»å»å¾ä»¥èªç±ã",
+      "spa": "<span class=\"verse-number\">26 </span>Y si alguno hiere el ojo de su siervo o el ojo de su sierva, y queda tuerto, le darÃ¡ libertad por razÃ³n de su ojo.",
+      "por": "<span class=\"verse-number\">26 </span>E quando alguÃ©m ferir o olho do seu servo, ou o olho da sua serva, e o danificar, o deixarÃ¡ ir livre pelo seu olho.",
+      "fra": "<span class=\"verse-number\">26 </span>Si un homme frappe lâÅil de son esclave, homme ou femme, et lui fait perdre lâÅil, il le mettra en libertÃ© en compensation de son Åil.",
+      "deu": "<span class=\"verse-number\">26Â </span>SchlÃ¤gt jemand seinen Knecht oder seine Magd so ins Auge, dass er es zugrunde richtet, so soll er sie zur EntschÃ¤digung fÃ¼r ihr Auge freilassen.",
+      "kor": "<span class=\"verse-number\">26 </span>ì¬ëì´ ê·¸ ë¨ì¢ì í ëì´ë ì¬ì¢ì í ëì ì³ì ìíê² íë©´ ê·¸ ëì ëí ë³´ìì¼ë¡ ê·¸ë¥¼ ëì ì¤ ê²ì´ë©°",
+      "ita": "<span class=\"verse-number\">26</span> Se uno colpisce lâocchio del suo servo o lâocchio della sua serva e glielo fa perdere, li lascerÃ  andare liberi in compenso dellâocchio perduto."
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>And if he smite out his manservantâs tooth, or his maidservantâs tooth; he shall let him go free for his toothâs sake.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙØ¥Ø°ÙØ§ Ø¶ÙØ±ÙØ¨Ù Ø£ÙØ­ÙØ¯Ù Ø¹ÙØ¨ÙØ¯ÙÙÙ Ø£ÙÙÙ Ø£ÙÙÙØªÙÙÙØ ÙÙØ£ÙØ³ÙÙÙØ·Ù Ø³ÙÙÙÙÙÙØ ÙÙØ¥ÙÙÙÙÙÙ ÙÙØ·ÙÙÙÙÙÙÙ Ø­ÙØ±ÙØ§Ù ØªÙØ¹ÙÙÙÙØ¶Ø§Ù Ø¹ÙÙÙ Ø³ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">27 </span>ã¾ãããããã®<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby><ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã®ä¸<ruby><rb>æ¬</rb><rt>ã½ã</rt></ruby>ã®<ruby><rb>æ­¯</rb><rt>ã¯</rt></ruby>ãã¾ãã¯ãã®<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby><ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã®ä¸<ruby><rb>æ¬</rb><rt>ã½ã</rt></ruby>ã®<ruby><rb>æ­¯</rb><rt>ã¯</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>è½</rb><rt>ãã¨</rt></ruby>ããªãã°ããã®<ruby><rb>æ­¯</rb><rt>ã¯</rt></ruby>ã®ããã«ããã<ruby><rb>èªç±</rb><rt>ããã</rt></ruby>ã®<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã¨ãã¦<ruby><rb>å»</rb><rt>ã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">27ã</span>è¥ææäºä»å¥´ä»ææ¯å©¢å¥³çä¸ä¸ªçï¼å°±è¦å ä»ççæ¾ä»å»å¾ä»¥èªç±ã",
+      "zht": "<span class=\"verse-number\">27ã</span>è¥ææäºä»å¥´åææ¯å©¢å¥³çä¸åçï¼å°±è¦å ä»ççæ¾ä»å»å¾ä»¥èªç±ã",
+      "spa": "<span class=\"verse-number\">27 </span>Y si hace saltar un diente de su siervo o un diente de su sierva, por su diente le dejarÃ¡ ir libre.",
+      "por": "<span class=\"verse-number\">27 </span>E se fizer cair o dente do seu servo, ou o dente da sua serva, o deixarÃ¡ ir livre pelo seu dente.",
+      "fra": "<span class=\"verse-number\">27 </span>Et sâil fait tomber une dent Ã  son esclave, homme ou femme, il le mettra en libertÃ© en compensation de sa dent.",
+      "deu": "<span class=\"verse-number\">27Â </span>Und schlÃ¤gt er seinem Knecht oder seiner Magd einen Zahn aus, so soll er sie zur EntschÃ¤digung fÃ¼r ihren Zahn freilassen.",
+      "kor": "<span class=\"verse-number\">27 </span>ê·¸ ë¨ì¢ì ì´ë ì¬ì¢ì ì´ë¥¼ ì³ì ë¹ ë¨ë¦¬ë©´ ê·¸ ì´ì ëí ë³´ìì¼ë¡ ê·¸ë¥¼ ëì ì¤ì§ëë¼",
+      "ita": "<span class=\"verse-number\">27</span> E se fa cadere un dente al suo servo o un dente alla sua serva, li lascerÃ  andare liberi in compenso del dente perduto."
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span><span class=\"para-mark\">Â¶ </span>If an ox gore a man or a woman, that they die: then the ox shall be surely stoned, and his flesh shall not be eaten; but the owner of the ox <span class=\"clarity-word\">shall be</span> quit.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>Ø¥ÙØ°ÙØ§ ÙÙØ·ÙØ­Ù Ø«ÙÙÙØ±Ù Ø±ÙØ¬ÙÙØ§Ù Ø£ÙÙÙ Ø§ÙÙØ±ÙØ£ÙØ©Ù ÙÙÙÙØ§ØªÙØ ÙÙØ±ÙØ¬ÙÙÙ Ø§ÙØ«ÙÙÙÙØ±Ù Ø­ÙØªÙÙÙ Ø§ÙÙÙÙÙÙØªÙ ÙÙÙØ§ ØªÙØ£ÙÙÙÙÙÙÙÙ ÙÙØ­ÙÙÙÙÙØ ÙÙÙÙÙÙÙÙÙ ØµÙØ§Ø­ÙØ¨Ù Ø§ÙØ«ÙÙÙÙØ±Ù Ø¨ÙØ±ÙÙØ¦Ø§Ù.",
+      "jpn": "<span class=\"verse-number\">28 </span>ãã<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby>ã¾ãã¯<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã<ruby><rb>çª</rb><rt>ã¤</rt></ruby>ãã¦<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ããªãã°ããã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ã<ruby><rb>ç³</rb><rt>ãã</rt></ruby>ã§<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãããªããã°ãªããªãããã®<ruby><rb>è</rb><rt>ã«ã</rt></ruby>ã¯<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ã¦ã¯ãªããªãããããããã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>ä¸»</rb><rt>ã¬ã</rt></ruby>ã¯<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ããªãã",
+      "zhs": "<span class=\"verse-number\">28ã</span>çè¥è§¦æ­»ç·äººææ¯å¥³äººï¼æ»è¦ç¨ç³å¤´ææ­»é£çï¼å´ä¸å¯åå®çèï¼ççä¸»äººå¯ç®æ ç½ªã",
+      "zht": "<span class=\"verse-number\">28ã</span>çè¥è§¸æ­»ç·äººææ¯å¥³äººï¼ç¸½è¦ç¨ç³é ­ææ­»é£çï¼å»ä¸å¯åç çèï¼ççä¸»äººå¯ç®ç¡ç½ªã",
+      "spa": "<span class=\"verse-number\">28 </span>Si un buey acornea a un hombre o a una mujer, y como resultado muere, el buey serÃ¡ apedreado y no se comerÃ¡ su carne; pero el dueÃ±o del buey serÃ¡ absuelto.",
+      "por": "<span class=\"verse-number\">28 </span>E se algum boi escornear homem ou mulher, de modo que morra, o boi certamente serÃ¡ apedrejado, e a sua carne nÃ£o se comerÃ¡, mas o dono do boi <span class=\"clarity-word\">serÃ¡</span> absolvido.",
+      "fra": "<span class=\"verse-number\">28 </span>Si un bÅuf frappe mortellement de ses cornes un homme ou une femme, le bÅuf sera lapidÃ©, sa chair ne sera pas mangÃ©e et le maÃ®tre du bÅuf ne sera pas puni.",
+      "deu": "<span class=\"verse-number\">28Â </span>Wenn ein Rind einen Mann oder eine Frau so stÃ¶Ãt, dass der Tod eintritt, so soll das Rind gesteinigt, sein Fleisch aber nicht gegessen werden; der EigentÃ¼mer des Rindes jedoch bleibt straflos.",
+      "kor": "<span class=\"verse-number\">28 </span>ìê° ë¨ìë ì¬ìë¥¼ ë°ìì ì£½ì´ë©´ ê·¸ ìë ë°ëì ëë¡ ì³ì ì£½ì¼ ê²ì´ì ê·¸ ê³ ê¸°ë ë¨¹ì§ ë§ ê²ì´ë©° ììë íë²ì ë©´íë ¤ëì",
+      "ita": "<span class=\"verse-number\">28</span> Se un bue incorna a morte un uomo o una donna, il bue dovrÃ  essere lapidato e non se ne mangerÃ  la carne; ma il padrone del bue sarÃ  assolto."
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>But if the ox were wont to push with his horn in time past, and it hath been testified to his owner, and he hath not kept him in, but that he hath killed a man or a woman; the ox shall be stoned, and his owner also shall be put to death.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>Ø£ÙÙÙÙØ§ Ø¥ÙÙÙ ÙÙØ§ÙÙ Ø§ÙØ«ÙÙÙÙØ±Ù ÙÙØ·ÙÙØ§Ø­Ø§Ù ÙÙÙÙ ÙÙØ¨ÙÙÙØ ÙÙØ³ÙØ¨ÙÙÙ Ø¥ÙÙÙØ°ÙØ§Ø±Ù ØµÙØ§Ø­ÙØ¨ÙÙÙØ ÙÙÙÙÙÙ ÙÙÙÙØ¨ÙØ­ÙÙÙØ ÙÙÙÙØªÙÙÙ Ø±ÙØ¬ÙÙØ§Ù Ø£ÙÙÙ Ø§ÙÙØ±ÙØ£ÙØ©ÙØ ÙÙØ±ÙØ¬ÙÙÙ Ø§ÙØ«ÙÙÙÙØ±ÙØ ÙÙÙÙÙÙØªÙÙÙ ØµÙØ§Ø­ÙØ¨ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">29 </span><ruby><rb>ç</rb><rt>ãã</rt></ruby>ããã<ruby><rb>ä»¥å</rb><rt>ããã</rt></ruby>ãã<ruby><rb>çª</rb><rt>ã¤</rt></ruby>ã<ruby><rb>ç</rb><rt>ãã</rt></ruby>ããã£ã¦ããã®<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>ä¸»</rb><rt>ã¬ã</rt></ruby>ã<ruby><rb>æ³¨æ</rb><rt>ã¡ããã</rt></ruby>ããã¦ããããã<ruby><rb>å®</rb><rt>ã¾ã</rt></ruby>ããããªãã£ãããã«ã<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby>ã¾ãã¯<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãããªãã°ããã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç³</rb><rt>ãã</rt></ruby>ã§<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ããããã®<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>ä¸»</rb><rt>ã¬ã</rt></ruby>ãã¾ã<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">29ã</span>åè¥é£çç´ æ¥æ¯è§¦äººçï¼æäººæ¥åäºçä¸»ï¼ä»ç«ä¸æçæ´çï¼ä»¥è´æç·äººææ¯å¥³äººè§¦æ­»ï¼å°±è¦ç¨ç³å¤´ææ­»é£çï¼çä¸»ä¹å¿æ²»æ­»ã",
+      "zht": "<span class=\"verse-number\">29ã</span>åè¥é£çç´ ä¾æ¯è§¸äººçï¼æäººå ±åäºçä¸»ï¼ä»ç«ä¸æçæ´èï¼ä»¥è´æç·äººææ¯å¥³äººè§¸æ­»ï¼å°±è¦ç¨ç³é ­ææ­»é£çï¼çä¸»ä¹å¿æ²»æ­»ã",
+      "spa": "<span class=\"verse-number\">29 </span>Pero si el buey era acorneador desde antes, y a su dueÃ±o se le habÃ­a advertido, pero no lo habÃ­a guardado, y mata a un hombre o a una mujer, el buey serÃ¡ <span class=\"page-break\" data-page=\"132\"></span>apedreado, y tambiÃ©n morirÃ¡ su dueÃ±o.",
+      "por": "<span class=\"verse-number\">29 </span>Mas se o boi dantes era escorneador, e o seu dono era conhecedor disso, e nÃ£o o prendeu, matando homem ou mulher, o boi serÃ¡ apedrejado, e tambÃ©m o seu dono morrerÃ¡.",
+      "fra": "<span class=\"verse-number\">29 </span>Mais si le bÅuf avait auparavant lâhabitude de frapper et si on en avait averti le maÃ®tre qui ne lâa pas surveillÃ©, le bÅuf sera lapidÃ©, dans le cas oÃ¹ il tuerait un homme ou une femme, et son maÃ®tre sera puni de mort.",
+      "deu": "<span class=\"verse-number\">29Â </span>Wenn aber das Rind schon frÃ¼her stÃ¶Ãig war und sein EigentÃ¼mer trotz erfolgter Verwarnung es nicht gehÃ¶rig gehÃ¼tet hatte, so soll das Rind, wenn es einen Mann oder eine Frau tÃ¶tet, gesteinigt und auch sein EigentÃ¼mer mit dem Tod bestraft werden.",
+      "kor": "<span class=\"verse-number\">29 </span>ìê° ë³¸ë ë°ë ë²ë¦ì´ ìê³  ê·¸ ììë ê·¸ë¡ ë§ë¯¸ìì ê²½ê³ ë¥¼ ë°ìì¼ë ë¨ìíì§ ìëíì¬ ë¨ëë¥¼ ë§ë¡ íê³  ë°ì ì£½ì´ë©´ ê·¸ ìë ëë¡ ì³ì£½ì¼ ê²ì´ê³  ììë ì£½ì¼ ê²ì´ë©°",
+      "ita": "<span class=\"verse-number\">29</span> PerÃ², se il bue era giÃ  da tempo solito incornare, e il padrone ne Ã¨ stato avvertito, ma non lâha tenuto rinchiuso, e il bue ha ucciso un uomo o una donna, il bue sarÃ  lapidato, e il suo padrone pure sarÃ  messo a morte."
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span>If there be laid on him a sum of money, then he shall give for the ransom of his life whatsoever is laid upon him.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>Ø¥ÙÙØ§ Ø¥ÙØ°ÙØ§ Ø·ÙÙÙÙØ¨Ù Ø¨ÙØ¯ÙÙÙØ¹Ù Ø§ÙØ¯ÙÙÙÙÙØ©ÙØ ÙÙÙÙØ¯ÙÙÙØ¹Ù Ø¢ÙÙØ¦ÙØ°Ù ÙÙØ¯ÙØ§Ø¡Ù ÙÙÙÙØ³ÙÙÙ ÙÙØ§ ÙÙÙÙ ÙÙØªÙÙÙØ¬ÙÙØ¨Ù Ø¹ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">30 </span><ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãããããããªãã®<ruby><rb>é</rb><rt>ãã­</rt></ruby>ã<ruby><rb>èª²</rb><rt>ã</rt></ruby>ãããããªãã°ããã¹ã¦<ruby><rb>èª²</rb><rt>ã</rt></ruby>ããããã»ã©ã®ãã®ãã<ruby><rb>å½</rb><rt>ãã®ã¡</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¤ããª</rt></ruby>ãã«<ruby><rb>æ¯æ</rb><rt>ãã¯ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">30ã</span>è¥ç½ä»èµ<span class=\"clarity-word\">å½</span>çä»·é¶ï¼ä»å¿ç§æç½çèµä»çå½ã",
+      "zht": "<span class=\"verse-number\">30ã</span>è¥ç½°ä»è´<span class=\"clarity-word\">å½</span>çå¹éï¼ä»å¿ç§æç½°çè´ä»çå½ã",
+      "spa": "<span class=\"verse-number\">30 </span>Si le es impuesto precio de rescate, entonces darÃ¡ por el rescate de su persona cuanto le sea impuesto.",
+      "por": "<span class=\"verse-number\">30 </span>Se lhe for imposto resgate, entÃ£o darÃ¡ por resgate da sua vida tudo quanto lhe for imposto,",
+      "fra": "<span class=\"verse-number\">30 </span>Si on impose au maÃ®tre un prix pour le rachat de sa vie, il paiera tout ce qui lui sera imposÃ©.",
+      "deu": "<span class=\"verse-number\">30Â </span>Wenn ihm nur eine GeldbuÃe auferlegt wird, so soll er als LÃ¶segeld fÃ¼r sein Leben so viel bezahlen, wie ihm auferlegt wird.",
+      "kor": "<span class=\"verse-number\">30 </span>ë§ì¼ ê·¸ìê² ìì£ê¸ì ë¶ê³¼íë©´ ë¬´ë¦ ê·¸ ëªë ¹í ê²ì ìëªì ëê°ë¡ ë¼ ê²ì´ì",
+      "ita": "<span class=\"verse-number\">30</span> Ove sia imposto al padrone un prezzo di riscatto, egli pagherÃ  per il riscatto della propria vita tutto quello che gli sarÃ  imposto."
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span>Whether he have gored a son, or have gored a daughter, according to this judgment shall it be done unto him.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙØ¥Ø°ÙØ§ ÙÙØ·ÙØ­Ù Ø§Ø¨ÙÙØ§Ù Ø£ÙÙÙ Ø§Ø¨ÙÙÙØ©ÙØ ÙÙÙÙÙÙÙØ°Ù ÙÙÙÙÙ ÙÙØ°ÙØ§ Ø§ÙÙØ­ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">31 </span><ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã<ruby><rb>çª</rb><rt>ã¤</rt></ruby>ãã¦ãã<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã<ruby><rb>çª</rb><rt>ã¤</rt></ruby>ãã¦ãããã®<ruby><rb>å®</rb><rt>ãã </rt></ruby>ãã«<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ã£ã¦<ruby><rb>å¦ç½®</rb><rt>ããã¡</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">31ã</span>çæ è®ºè§¦äºäººçå¿å­ææ¯å¥³å¿ï¼å¿ç§è¿ä¾åçã",
+      "zht": "<span class=\"verse-number\">31ã</span>çç¡è«è§¸äºäººçåå­ææ¯å¥³åï¼å¿ç§éä¾è¾¦çã",
+      "spa": "<span class=\"verse-number\">31 </span>Haya acorneado a un hijo o haya acorneado a una hija, conforme a este juicio se harÃ¡ con Ã©l.",
+      "por": "<span class=\"verse-number\">31 </span>Quer tenha escorneado um filho, quer tenha escorneado uma filha; conforme este estatuto lhe serÃ¡ feito.",
+      "fra": "<span class=\"verse-number\">31 </span>Lorsque le bÅuf frappera un fils ou une fille, on appliquera cette loiÂ ;",
+      "deu": "<span class=\"verse-number\">31Â </span>Wenn das Rind einen Knaben oder ein MÃ¤dchen stÃ¶Ãt, so soll mit ihm nach derselben Rechtsbestimmung verfahren werden.",
+      "kor": "<span class=\"verse-number\">31 </span>ìë¤ì ë°ë ì§ ë¸ì ë°ë ì§ ì´ ë²ê·ëë¡ ê·¸ ìììê² íí  ê²ì´ë©°",
+      "ita": "<span class=\"verse-number\">31</span> Se il bue incorna un figlio o una figlia, gli si applicherÃ  questa medesima legge."
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span>If the ox shall push a manservant or a maidservant; he shall give unto their master thirty shekels of silver, and the ox shall be stoned.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØ¥Ø°ÙØ§ ÙÙØ·ÙØ­Ù Ø§ÙØ«ÙÙÙÙØ±Ù Ø¹ÙØ¨ÙØ¯Ø§Ù Ø£ÙÙÙ Ø£ÙÙÙØ©ÙØ ÙÙØ¥ÙÙÙÙ ØµÙØ§Ø­ÙØ¨ÙÙÙ ÙÙØ¯ÙÙÙØ¹Ù Ø«ÙÙØ§Ø«ÙÙÙÙ ÙÙØ·ÙØ¹ÙØ©Ù ÙÙØ¶ÙÙØ©Ù ØªÙØ¹ÙÙÙÙØ¶Ø§Ù ÙÙÙÙÙÙÙØ§ÙÙØ ÙÙÙÙØ±ÙØ¬ÙÙÙ Ø§ÙØ«ÙÙÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">32 </span><ruby><rb>ç</rb><rt>ãã</rt></ruby>ããã<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby><ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã¾ãã¯<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby><ruby><rb>å¥´é·</rb><rt>ã©ãã</rt></ruby>ã<ruby><rb>çª</rb><rt>ã¤</rt></ruby>ããªãã°ããã®<ruby><rb>ä¸»äºº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ä¸åã·ã±ã«ã<ruby><rb>æ¯æ</rb><rt>ãã¯ã</rt></ruby>ããªããã°ãªããªããã¾ããã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç³</rb><rt>ãã</rt></ruby>ã§<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">32ã</span>çè¥è§¦äºå¥´ä»ææ¯å©¢å¥³ï¼å¿å°é¶å­ä¸åèå®¢åç»ä»ä»¬çä¸»äººï¼ä¹è¦ç¨ç³å¤´æçææ­»ã",
+      "zht": "<span class=\"verse-number\">32ã</span>çè¥è§¸äºå¥´åææ¯å©¢å¥³ï¼å¿å°éå­ä¸åèå®¢åçµ¦ä»åçä¸»äººï¼ä¹è¦ç¨ç³é ­æçææ­»ã",
+      "spa": "<span class=\"verse-number\">32 </span>Si el buey acornea a un siervo o a una sierva, el dueÃ±o pagarÃ¡ treinta siclos de plata, y el buey serÃ¡ apedreado.",
+      "por": "<span class=\"verse-number\">32 </span>Se o boi escornear um servo, ou uma serva, dar-se-Ã£o trinta siclos de prata ao seu senhor, e o boi serÃ¡ apedrejado.",
+      "fra": "<span class=\"verse-number\">32 </span>mais si le bÅuf frappe un esclave, homme ou femme, on donnera trente sicles dâargent au maÃ®tre de lâesclave et le bÅuf sera lapidÃ©.",
+      "deu": "<span class=\"verse-number\">32Â </span>StÃ¶Ãt das Rind aber einen Knecht oder eine Magd, so soll sein EigentÃ¼mer ihrem Herrn dreiÃig Schekel Silber bezahlen; das Rind aber soll gesteinigt werden.",
+      "kor": "<span class=\"verse-number\">32 </span>ìê° ë§ì¼ ë¨ì¢ì´ë ì¬ì¢ì ë°ì¼ë©´ ì ììê° ì ì¼ì­ ì¸ê²ì ê·¸ì ìì ìê² ì¤ ê²ì´ì ìë ëë¡ ì³ì ì£½ì¼ì§ëë¼",
+      "ita": "<span class=\"verse-number\">32</span> Se il bue incorna un servo o una serva, il padrone del bue pagherÃ  al padrone del servo trenta sicli dâargento, e il bue sarÃ  lapidato."
+    },
+    "33": {
+      "eng": "<span class=\"verse-number\">33 </span><span class=\"para-mark\">Â¶ </span>And if a man shall open a pit, or if a man shall dig a pit, and not cover it, and an ox or an ass fall therein;",
+      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>Ø¥ÙÙ ÙÙØ´ÙÙÙ Ø¥ÙÙÙØ³ÙØ§ÙÙ ØºÙØ·ÙØ§Ø¡Ù Ø¨ÙØ¦ÙØ±ÙÙÙØ Ø£ÙÙÙ Ø­ÙÙÙØ±Ù Ø¨ÙØ¦ÙØ±Ø§Ù ÙÙØªÙØ±ÙÙÙÙÙØ§ ÙÙÙÙ ØºÙÙÙØ±Ù ØºÙØ·ÙØ§Ø¡ÙØ ÙÙÙÙÙÙØ¹Ù ÙÙÙÙÙØ§ Ø«ÙÙÙØ±Ù Ø£ÙÙÙ Ø­ÙÙÙØ§Ø±ÙØ",
+      "jpn": "<span class=\"verse-number\">33 </span>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>ç©´</rb><rt>ããª</rt></ruby>ããããã¾ã¾ã«<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ãããããã¯<ruby><rb>ç©´</rb><rt>ããª</rt></ruby>ã<ruby><rb>æ</rb><rt>ã»</rt></ruby>ã£ã¦ããã«ããããããªãããã«ã<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã¾ãã¯ããã°ãããã«<ruby><rb>è½</rb><rt>ã</rt></ruby>ã¡<ruby><rb>è¾¼</rb><rt>ã</rt></ruby>ããã¨ãããã°ã",
+      "zhs": "<span class=\"verse-number\">33ã</span>äººè¥æçäºå£ï¼ææäºä¸é®çï¼æçæé©´æå¨éå¤´ï¼",
+      "zht": "<span class=\"verse-number\">33ã</span>äººè¥æèäºå£ï¼ææäºä¸é®èï¼æçæé©¢æå¨è£¡é ­ï¼",
+      "spa": "<span class=\"verse-number\">33 </span>Y si alguno abre un pozo o cava una cisterna, y no los cubre, y cae allÃ­ un buey o un asno,",
+      "por": "<span class=\"verse-number\">33 </span>Se alguÃ©m abrir uma cova, ou se alguÃ©m cavar uma cova, e nÃ£o a cobrir, e nela cair um boi ou jumento,",
+      "fra": "<span class=\"verse-number\">33 </span>Si un homme met Ã  dÃ©couvert une citerne, ou si un homme en creuse une et ne la recouvre pas, et sâil y tombe un bÅuf ou un Ã¢ne,",
+      "deu": "<span class=\"verse-number\">33Â </span>LÃ¤sst jemand eine Grube offen stehen, oder grÃ¤bt jemand eine Grube aus und deckt sie nicht zu, und es fÃ¤llt ein Rind oder ein Esel hinein,",
+      "kor": "<span class=\"verse-number\">33 </span>ì¬ëì´ êµ¬ë©ì´ë¥¼ ì´ì´ëê±°ë êµ¬ë©ì´ë¥¼ íê³  ë®ì§ ìëíë¯ë¡ ìë ëê·ê° ê±°ê¸°ì ë¹ ì§ë©´",
+      "ita": "<span class=\"verse-number\">33</span> Se uno apre una fossa, o se uno scava una fossa e non la copre, e un bue o un asino vi cade dentro,"
+    },
+    "34": {
+      "eng": "<span class=\"verse-number\">34 </span>The owner of the pit shall make <span class=\"clarity-word\">it</span> good, <span class=\"clarity-word\">and</span> give money unto the owner of them; and the dead <span class=\"clarity-word\">beast</span> shall be his.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>ÙÙÙÙÙÙÙ ØµÙØ§Ø­ÙØ¨Ù Ø§ÙÙØ¨ÙØ¦ÙØ±Ù Ø¨ÙØ¯ÙÙÙØ¹Ù ØªÙØ¹ÙÙÙÙØ¶Ù Ø¹ÙÙÙ Ø§ÙÙØ®ÙØ³ÙØ§Ø±ÙØ©Ù ØªÙØ¶ÙØ§ÙÙÙ Ø«ÙÙÙÙÙÙÙØ ÙÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙØªÙ ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">34 </span><ruby><rb>ç©´</rb><rt>ããª</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>ä¸»</rb><rt>ã¬ã</rt></ruby>ã¯ããã<ruby><rb>å</rb><rt>ã¤ããª</rt></ruby>ãã<ruby><rb>é</rb><rt>ãã­</rt></ruby>ããã®<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>ä¸»</rb><rt>ã¬ã</rt></ruby>ã«<ruby><rb>æ¯æ</rb><rt>ãã¯ã</rt></ruby>ããªããã°ãªããªãããããããã®<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãã <ruby><rb>ç£</rb><rt>ããã®</rt></ruby>ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®ãã®ã¨ãªãã§ãããã",
+      "zhs": "<span class=\"verse-number\">34ã</span>äºä¸»è¦æ¿é±èµè¿æ¬ä¸»äººï¼æ­»ç²çè¦å½èªå·±ã",
+      "zht": "<span class=\"verse-number\">34ã</span>äºä¸»è¦æ¿é¢è³ éæ¬ä¸»äººï¼æ­»ç²çè¦æ­¸èªå·±ã",
+      "spa": "<span class=\"verse-number\">34 </span>el dueÃ±o de la cisterna pagarÃ¡ el daÃ±o, resarciendo con dinero a su dueÃ±o, y el animal muerto serÃ¡ suyo.",
+      "por": "<span class=\"verse-number\">34 </span>O dono da cova <span class=\"clarity-word\">o</span> pagarÃ¡, ao <span class=\"page-break\" data-page=\"132\"></span>seu dono o dinheiro restituirÃ¡; mas o <span class=\"clarity-word\">animal</span> morto serÃ¡ seu.",
+      "fra": "<span class=\"verse-number\">34 </span>le propriÃ©taire de la citerne paiera au maÃ®tre la valeur de lâanimal en argent et gardera pour lui lâanimal mort.",
+      "deu": "<span class=\"verse-number\">34Â </span>so soll der EigentÃ¼mer der Grube Ersatz leisten: Mit Geld soll er den EigentÃ¼mer des Tieres entschÃ¤digen; das tote Tier aber gehÃ¶rt dann ihm.",
+      "kor": "<span class=\"verse-number\">34 </span>ê·¸ êµ¬ë©ì´ ì£¼ì¸ì´ ì ë³´ìíì¬ ì§ì¹ì ìììê² ëì ì¤ ê²ì´ì ì£½ì ê²ì ê·¸ê° ì°¨ì§í  ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">34</span> il padrone della fossa risarcirÃ  il danno: pagherÃ  in denaro il valore della bestia al padrone, e la bestia morta sarÃ  sua."
+    },
+    "35": {
+      "eng": "<span class=\"verse-number\">35 </span><span class=\"para-mark\">Â¶ </span>And if one manâs ox hurt anotherâs, that he die; then they shall sell the live ox, and divide the money of it; and the dead <span class=\"clarity-word\">ox</span> also they shall divide.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¥ </span>ÙÙØ¥Ø°ÙØ§ ÙÙØ·ÙØ­Ù Ø«ÙÙÙØ±Ù Ø¥ÙÙÙØ³ÙØ§ÙÙ Ø«ÙÙÙØ±Ù ØµÙØ§Ø­ÙØ¨Ù ÙÙÙÙ ÙÙÙÙØ§ØªÙ Ø§ÙØ«ÙÙÙÙØ±ÙØ ÙÙØ¥ÙÙÙÙÙÙÙÙØ§ ÙÙØ¨ÙÙØ¹ÙØ§ÙÙ Ø§ÙØ«ÙÙÙÙØ±Ù Ø§ÙÙØ­ÙÙÙÙ ÙÙÙÙÙÙØªÙØ³ÙÙÙØ§ÙÙ Ø«ÙÙÙÙÙÙÙØ ÙÙÙÙØ°ÙÙÙÙÙ ÙÙÙÙØªÙØ³ÙÙÙØ§ÙÙ Ø§ÙØ«ÙÙÙÙØ±Ù Ø§ÙÙÙÙÙÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">35 </span>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>ä»äºº</rb><rt>ãã«ã</rt></ruby>ã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã<ruby><rb>çª</rb><rt>ã¤</rt></ruby>ãã¦<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ããªãã°ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ãã®<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã¦ãã<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã<ruby><rb>å£²</rb><rt>ã</rt></ruby>ã£ã¦ããã®<ruby><rb>ä¾¡</rb><rt>ããã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¾ããã®<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãã ãã®ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">35ã</span>è¿äººççè¥ä¼¤äºé£äººççï¼ä»¥è´äºæ­»ï¼ä»ä»¬è¦åäºæ´»çï¼å¹³åä»·å¼ï¼ä¹è¦å¹³åæ­»çã",
+      "zht": "<span class=\"verse-number\">35ã</span>éäººççè¥å·äºé£äººççï¼ä»¥è´æ¼æ­»ï¼ä»åè¦è³£äºæ´»çï¼å¹³åå¹å¼ï¼ä¹è¦å¹³åæ­»çã",
+      "spa": "<span class=\"verse-number\">35 </span>Y si el buey de alguno hiere al buey de su prÃ³jimo y este muere, entonces venderÃ¡n el buey vivo y se repartirÃ¡n el dinero de Ã©l, y tambiÃ©n se repartirÃ¡n el buey muerto.",
+      "por": "<span class=\"verse-number\">35 </span>Se o boi de alguÃ©m ferir o boi do seu prÃ³ximo, de modo que morra, entÃ£o se venderÃ¡ o boi vivo, e o dinheiro dele se repartirÃ¡ igualmente, e tambÃ©m o morto se repartirÃ¡ igualmente.",
+      "fra": "<span class=\"verse-number\">35 </span>Si le bÅuf dâun homme frappe mortellement de ses cornes le bÅuf dâun autre homme, ils vendront le bÅuf vivant et en partageront le prixÂ ; ils partageront aussi le bÅuf mort.",
+      "deu": "<span class=\"verse-number\">35Â </span>Wenn jemandes Rind das Rind eines anderen so stÃ¶Ãt, dass es stirbt, so sollen sie das lebende Rind verkaufen und sich den dadurch gewonnenen ErlÃ¶s teilen, und auch das tote Tier sollen sie unter sich teilen.",
+      "kor": "<span class=\"verse-number\">35 </span>ì´ ì¬ëì ìê° ì  ì¬ëì ìë¥¼ ë°ì ì£½ì´ë©´ ì´ì ìë ìë¥¼ íì ê·¸ ê°ì ë°ì¼ë¡ ëëê³  ëí ì£½ì ê²ë ë°ì¼ë¡ ëëë ¤ëì",
+      "ita": "<span class=\"verse-number\">35</span> Se il bue di un uomo ferisce a morte il bue di un altro, si venderÃ  il bue vivo e se ne dividerÃ  il prezzo; e anche il bue morto sarÃ  diviso fra loro."
+    },
+    "36": {
+      "eng": "<span class=\"verse-number\">36 </span>Or if it be known that the ox hath used to push in time past, and his owner hath not kept him in; he shall surely pay ox for ox; and the dead shall be his own.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¦ </span>ÙÙØ£ÙÙÙÙØ§ Ø¥ÙØ°ÙØ§ ÙÙØ§ÙÙ ÙÙØ¹ÙØ±ÙÙÙØ§Ù ÙÙÙÙ ÙÙØ¨ÙÙÙØ Ø£ÙÙÙÙ Ø§ÙØ«ÙÙÙÙØ±Ù ÙÙØ·ÙÙØ§Ø­Ù ÙÙÙÙÙÙ ÙÙÙÙØ¨ÙØ­ÙÙÙ ØµÙØ§Ø­ÙØ¨ÙÙÙØ ÙÙØ¥ÙÙÙÙÙÙ ÙÙØ¹ÙÙÙÙØ¶Ù Ø«ÙÙÙØ±Ø§Ù Ø¨ÙØ«ÙÙÙØ±ÙØ ÙÙÙÙÙÙÙÙÙ Ø§ÙØ«ÙÙÙÙØ±Ù Ø§ÙÙÙÙÙÙØªÙ ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">36 </span>ãããã¯ãã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä»¥å</rb><rt>ããã</rt></ruby>ãã<ruby><rb>çª</rb><rt>ã¤</rt></ruby>ã<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã®ãããã¨ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ããã¦ããã®ã«ããã®<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>ä¸»</rb><rt>ã¬ã</rt></ruby>ãããã<ruby><rb>å®</rb><rt>ã¾ã</rt></ruby>ããããªãã£ããªãã°ããã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯<ruby><rb>å¿</rb><rt>ããªã</rt></ruby>ããã®<ruby><rb>ç</rb><rt>ãã</rt></ruby>ã®ããã«<ruby><rb>ç</rb><rt>ãã</rt></ruby>ããã£ã¦<ruby><rb>å</rb><rt>ã¤ããª</rt></ruby>ããªããã°ãªããªãããããããã®<ruby><rb>æ­»</rb><rt>ã</rt></ruby>ãã <ruby><rb>ç£</rb><rt>ããã®</rt></ruby>ã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®ãã®ã¨ãªãã§ãããã",
+      "zhs": "<span class=\"verse-number\">36ã</span>äººè¥ç¥éè¿çç´ æ¥æ¯è§¦äººçï¼ä¸»äººç«ä¸æçæ´çï¼ä»å¿è¦ä»¥çè¿çï¼æ­»çè¦å½èªå·±ã",
+      "zht": "<span class=\"verse-number\">36ã</span>äººè¥ç¥ééçç´ ä¾æ¯è§¸äººçï¼ä¸»äººç«ä¸æçæ´èï¼ä»å¿è¦ä»¥çéçï¼æ­»çè¦æ­¸èªå·±ã",
+      "spa": "<span class=\"verse-number\">36 </span>Pero si era notorio que el buey era acorneador desde antes, pero su dueÃ±o no lo habÃ­a guardado, pagarÃ¡ buey por buey, y el buey muerto serÃ¡ suyo.",
+      "por": "<span class=\"verse-number\">36 </span>Mas se era notÃ³rio que aquele boi dantes era escorneador, e seu dono nÃ£o o prendeu, certamente pagarÃ¡ boi por boi; porÃ©m o <span class=\"clarity-word\">boi</span> morto serÃ¡ seu.",
+      "fra": "<span class=\"verse-number\">36 </span>Mais sâil est reconnu que le bÅuf avait auparavant lâhabitude de frapper, et si son maÃ®tre ne lâa pas surveillÃ©, ce maÃ®tre rendra bÅuf pour bÅuf et gardera pour lui le bÅuf mort.",
+      "deu": "<span class=\"verse-number\">36Â </span>War es jedoch bekannt, dass das Rind schon vorher stÃ¶Ãig war, und hatte sein EigentÃ¼mer es trotzdem nicht gehÃ¶rig gehÃ¼tet, so soll er unweigerlich ein Rind fÃ¼r das Rind als Ersatz geben, das tote Tier aber soll ihm gehÃ¶ren.",
+      "kor": "<span class=\"verse-number\">36 </span>ê·¸ ìê° ë³¸ë ë°ë ë²ë¦ì´ ìë ì¤ì ìê³ ë ê·¸ ììê° ë¨ìíì§ ìëíìì¼ë©´ ê·¸ë ìë¡ ìë¥¼ ê°ì ê²ì´ì ì£½ì ê²ì ê·¸ê° ì°¨ì§í ì§ëë¼",
+      "ita": "<span class=\"verse-number\">36</span> Se poi Ã¨ noto che quel bue era giÃ  da tempo solito incornare, e il suo padrone non lâha tenuto rinchiuso, questi dovrÃ  pagare bue per bue, e la bestia morta sarÃ  sua."
+    },
+    "37": {
+      "deu": "<span class=\"verse-number\">37Â </span>Wenn jemand ein Rind oder ein StÃ¼ck Kleinvieh stiehlt und es schlachtet oder verkauft, so soll er fÃ¼r das eine Rind fÃ¼nf Rinder und fÃ¼r das eine StÃ¼ck Kleinvieh vier StÃ¼ck erstatten."
+    }
+  }
+}

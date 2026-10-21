@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "lev",
+    "chapter": 21,
+    "headings": {
+      "eng": "The priests are to be holyâThe high priest is not to marry a widow, a divorced person, or a harlotâDescendants of Aaron with physical blemishes may not offer the bread of God upon the altar.",
+      "zhs": "ç¥­å¸è¦æä¸ºå£ââå¤§ç¥­å¸ä¸å¯å¨¶å¯¡å¦ãè¢«ä¼ä¹äººæå¦å¥³ä¸ºå¦»ââ<u>äºä¼¦</u>çåè£å¡ææ®ç¾çä¸å¯å¨ç¥­åç®ç¥çé£ç©ã",
+      "zht": "ç¥­å¸è¦æçºèââå¤§ç¥­å¸ä¸å¯å¨¶å¯¡å©¦ãè¢«ä¼ä¹äººæå¦å¥³çºå¦»ââ<u>äºå«</u>çå¾è£å¡ææ®ç¾çä¸å¯å¨ç¥­å£ç»ç¥çé£ç©ã",
+      "spa": "Los sacerdotes deben ser hombres santosÂ â El sumo sacerdote no se casarÃ¡ con viuda, ni con divorciada ni con rameraÂ â Los descendientes de AarÃ³n que tengan defectos fÃ­sicos no ofrecerÃ¡n el pan de Dios sobre el altar.",
+      "por": "Os sacerdotes devem ser homens santosÂ â O sumo sacerdote nÃ£o deve casar-se com viÃºva nem com divorciada nem com prostitutaÂ â Os descendentes de AarÃ£o que tiverem deformidades fÃ­sicas nÃ£o podem oferecer o pÃ£o de Deus sobre o altar.",
+      "fra": "Les prÃªtres doivent Ãªtre saints. Le grand prÃªtre ne doit pas Ã©pouser une veuve, une femme divorcÃ©e ou une prostituÃ©e. Les descendants dâAaron qui ont des dÃ©fauts corporels ne sont pas autorisÃ©s Ã  offrir le pain de Dieu sur lâautel.",
+      "deu": "Priester mÃ¼ssen heilig seinÂ â Der Hohe Priester darf keine Witwe, keine Geschiedene und keine Dirne ehelichenÂ â AbkÃ¶mmlinge Aarons mit einem kÃ¶rperlichen Makel dÃ¼rfen die Speise Gottes nicht auf dem Altar darbringen.",
+      "ita": "I sacerdoti devono essere santiÂ â Il sommo sacerdote non deve sposare una vedova, una divorziata o una meretriceÂ â I discendenti di Aaronne con difetti fisici non possono offrire il pane di Dio sullâaltare."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>And the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙÙÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙØ³ÙÙ: âØ£ÙÙÙØµÙ Ø§ÙÙÙÙÙÙÙÙØ©Ù Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙØ±ÙÙÙÙ Ø£ÙÙÙØ§ ÙÙÙÙØ¬ÙÙØ³Ù Ø£ÙØ­ÙØ¯Ù ÙÙÙÙÙÙÙÙ ÙÙÙÙØ³ÙÙÙ Ø¨ÙÙÙÙÙØ³Ù Ø¬ÙØ«ÙÙØ©Ù ÙÙÙÙØªÙ ÙÙÙÙ ÙÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã¾ãã¢ã¼ã»ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããããã¢ã­ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãªã<ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ãã¡ã«<ruby><rb>å</rb><rt>ã¤</rt></ruby>ãã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ããªãããã<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã®ãã¡ã®<ruby><rb>æ­»äºº</rb><rt>ãã«ã</rt></ruby>ã®ããã«ã<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããã£ã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">1ã</span>è¶ååå¯¹<u>æ©è¥¿</u>è¯´ï¼ä½ åè¯<u>äºä¼¦</u>å­å­ä½ç¥­å¸çè¯´ï¼ç¥­å¸ä¸å¯ä¸ºæ°ä¸­çæ­»äººæ²¾æèªå·±ï¼",
+      "zht": "<span class=\"verse-number\">1ã</span>è¶åè¯å°<u>æ©è¥¿</u>èªªï¼ä½ åè¨´<u>äºå«</u>å­å­«ä½ç¥­å¸çèªªï¼ç¥­å¸ä¸å¯çºæ°ä¸­çæ­»äººæ²¾æèªå·±ï¼",
+      "spa": "<span class=\"verse-number\">1 </span>Y JehovÃ¡ dijo a MoisÃ©s: Habla a los sacerdotes, hijos de AarÃ³n, y diles que no se contaminen por un muerto en su pueblo,",
+      "por": "<span class=\"verse-number\">1</span> Depois disse o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> a MoisÃ©s: Fala aos sacerdotes, filhos de AarÃ£o, e dize-lhes: O sacerdote nÃ£o se contaminarÃ¡ por <span class=\"clarity-word\">causa</span> de um morto entre o seu povo,",
+      "fra": "<span class=\"verse-number\">1</span> LâÃternel dit Ã  MoÃ¯seÂ : Parle aux prÃªtres, fils dâAaron, et dis-leurÂ : Un prÃªtre ne se rendra pas impur parmi son peuple pour un mort,",
+      "deu": "<span class=\"verse-number\">1Â </span>Weiter gebot der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> Mose: âTeile den Priestern, den SÃ¶hnen Aarons, folgende Vorschriften mit: <span class=\"clarity-word\">Ein Priester</span> darf sich unter seinem Volk an keiner Leiche verunreinigen;",
+      "kor": "<span class=\"verse-number\">1</span> ì¬í¸ìê»ì ëª¨ì¸ìê² ì´ë¥´ìë ìë¡ ì ìì ì ì¬ì¥ë¤ìê² ë§íì¬ ì´ë¥´ë¼ ê·¸ì ë°±ì± ì¤ìì ì£½ì ìë¥¼ <span class=\"clarity-word\">ë§ì§ì¼ë¡</span> ë§ë¯¸ìì ì¤ì¤ë¡ë¥¼ ëë½íì§ ë§ë ¤ëì",
+      "ita": "<span class=\"verse-number\">1</span> LâEterno disse ancora a MosÃ¨: âParla ai sacerdoti, figli di Aaronne, e diâ loro: âUn sacerdote non si esporrÃ  a divenire impuro in mezzo al suo popolo per il contatto con un morto,"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>But for his kin, that is near unto him, <span class=\"clarity-word\">that is,</span> for his mother, and for his father, and for his son, and for his daughter, and for his brother,",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø¥ÙÙÙØ§ Ø¥ÙØ°ÙØ§ ÙÙØ§ÙÙ Ø§ÙÙÙÙÙÙØªÙ Ø£ÙÙÙØ±ÙØ¨Ù Ø£ÙÙÙØ±ÙØ¨ÙØ§Ø¦ÙÙÙ Ø¥ÙÙÙÙÙÙÙ: Ø£ÙÙÙÙÙÙ ÙÙØ£ÙØ¨ÙØ§ÙÙ ÙÙØ§Ø¨ÙÙÙÙÙ ÙÙØ§Ø¨ÙÙÙØªÙÙÙ ÙÙØ£ÙØ®ÙØ§ÙÙØ",
+      "jpn": "<span class=\"verse-number\">2</span> ãã ãã<ruby><rb>è¿è¦ª</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããªãã¡ã<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã<ruby><rb>æ¯</rb><rt>ã¯ã¯</rt></ruby>ããããã<ruby><rb>å¨</rb><rt>ããã</rt></ruby>ã<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã®ããã",
+      "zhs": "<span class=\"verse-number\">2ã</span>é¤éä¸ºä»éª¨èä¹äº²çç¶æ¯ãå¿å¥³ãå¼åï¼",
+      "zht": "<span class=\"verse-number\">2ã</span>é¤éçºä»éª¨èä¹è¦ªçç¶æ¯ãåå¥³ãå¼åï¼",
+      "spa": "<span class=\"verse-number\">2 </span>salvo por su pariente cercano, por su madre, o por su padre, o por su hijo, o por su hija, o por su hermano,",
+      "por": "<span class=\"verse-number\">2</span> Salvo por seu parente mais chegado a ele: por sua mÃ£e, e por seu pai, e por seu filho, e por sua filha, e por seu irmÃ£o,",
+      "fra": "<span class=\"verse-number\">2</span> exceptÃ© pour ses plus proches parentsÂ : pour sa mÃ¨re, pour son pÃ¨re, pour son fils, pour son frÃ¨re,",
+      "deu": "<span class=\"verse-number\">2Â </span>nur an seinen nÃ¤chsten Blutsverwandten, nÃ¤mlich an seiner Mutter und seinem Vater, an seinem Sohn und seiner Tochter und seinem Bruder,",
+      "kor": "<span class=\"verse-number\">2</span> ê·¸ì ì´ë¶ì´ì¸ ê·¸ì ì´ë¨¸ëë ê·¸ì ìë²ì§ë ê·¸ì ìë¤ì´ë ê·¸ì ë¸ì´ë ê·¸ì íì ë",
+      "ita": "<span class=\"verse-number\">2</span> a meno che si tratti di uno dei suoi parenti piÃ¹ stretti: di sua madre, di suo padre, di suo figlio, di sua figlia,"
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØ£ÙØ®ÙØªÙÙÙ Ø§ÙÙØ¹ÙØ°ÙØ±ÙØ§Ø¡Ù Ø§ÙÙÙØªÙÙ ÙÙÙÙ ØªÙØªÙØ²ÙÙÙÙØ¬ÙØ Ø§ÙÙÙÙÙÙÙÙÙØ©Ù Ø¹ÙÙÙÙ ÙÙÙÙØ±ÙØ¨ÙØ©Ù ÙÙÙÙÙÙØ ÙÙÙÙÙÙ Ø£ÙØ¬ÙÙÙÙÙØ§ ÙÙØªÙÙÙØ¬ÙÙØ³ÙØ",
+      "jpn": "<span class=\"verse-number\">3</span> ã¾ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>è¿è¦ª</rb><rt>ãããã</rt></ruby>ã§ãã¾ã <ruby><rb>å¤«</rb><rt>ãã£ã¨</rt></ruby>ã®ãªã<ruby><rb>å¦å¥³</rb><rt>ãããã</rt></ruby>ãªã<ruby><rb>å§å¦¹</rb><rt>ãã¾ã</rt></ruby>ã®ããã«ã¯ããã®<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãã¦ãããã",
+      "zhs": "<span class=\"verse-number\">3ã</span>åæªæ¾åºå«ãä½å¤å¥³çå§å¦¹ï¼æå¯ä»¥æ²¾æèªå·±ã",
+      "zht": "<span class=\"verse-number\">3ã</span>åæªæ¾åºå«ãä½èå¥³çå§å¦¹ï¼æå¯ä»¥æ²¾æèªå·±ã",
+      "spa": "<span class=\"verse-number\">3 </span>o por su hermana virgen, a Ã©l cercana, la cual no haya tenido marido; por ella puede contaminarse.",
+      "por": "<span class=\"verse-number\">3</span> E por sua irmÃ£ virgem, chegada a ele, que ainda nÃ£o teve marido; por ela poderÃ¡ contaminar-se.",
+      "fra": "<span class=\"verse-number\">3</span> et aussi pour sa sÅur encore vierge, qui lui est proche lorsquâelle nâest pas mariÃ©e.",
+      "deu": "<span class=\"verse-number\">3Â </span>auch an seiner Schwester, wenn sie noch Jungfrau ist und ihm darum nahesteht und noch keinem Mann angehÃ¶rt hat,Â an dieser darf er sich verunreinigen.",
+      "kor": "<span class=\"verse-number\">3</span> ì¶ê°íì§ ìëí ì²ëì¸ ê·¸ì ìë§¤ë¡ ë§ë¯¸ìììë <span class=\"clarity-word\">ëª¸ì</span> ëë½í ì ìëëë¼",
+      "ita": "<span class=\"verse-number\">3</span> di suo fratello e di sua sorella ancora vergine che vive con lui, non essendo ancora maritata; per lei puÃ² esporsi alla impuritÃ ."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span><span class=\"clarity-word\">But</span> he shall not defile himself, <span class=\"clarity-word\">being</span> a chief man among his people, to profane himself.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙØ£ÙÙÙÙ Ø§ÙÙÙÙØ§ÙÙÙÙ ÙÙÙÙ Ø±ÙØ¦ÙÙØ³Ù ÙÙÙ ÙÙÙÙÙÙÙÙØ ÙÙØ¹ÙÙÙÙÙÙÙ Ø£ÙÙÙØ§ ÙÙÙÙØ¬ÙÙØ³Ù ÙÙÙÙØ³ÙÙÙ Ø´ÙØ¹ÙØ§Ø¦ÙØ±ÙÙÙÙØ§ ÙÙØºÙÙÙØ±ÙÙÙ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø³Ù Ø§ÙÙØ¹ÙØ§Ø¯ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">4</span> ãããã<ruby><rb>å¤«</rb><rt>ãã£ã¨</rt></ruby>ã«ã¨ã¤ãã <ruby><rb>å§å¦¹</rb><rt>ãã¾ã</rt></ruby>ã®ããã«ã¯ã<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">4ã</span>ç¥­å¸æ¢å¨æ°ä¸­ä¸ºé¦ï¼å°±ä¸å¯ä»ä¿æ²¾æèªå·±ã",
+      "zht": "<span class=\"verse-number\">4ã</span>ç¥­å¸æ¢å¨æ°ä¸­çºé¦ï¼å°±ä¸å¯å¾ä¿æ²¾æèªå·±ã",
+      "spa": "<span class=\"verse-number\">4 </span>No se contaminarÃ¡, haciÃ©ndose impuro, <span class=\"clarity-word\">porque es</span> jefe entre su pueblo.",
+      "por": "<span class=\"verse-number\">4</span> NÃ£o se contaminarÃ¡ sendo prÃ­ncipe entre o seu povo, para se profanar.",
+      "fra": "<span class=\"verse-number\">4</span> Chef parmi son peuple, il ne se rendra pas impur en se profanant.",
+      "deu": "<span class=\"verse-number\">4Â </span>Er darf sich als Hochgestellter unter seinem Volk nicht verunreinigen, sodass er dadurch entweiht wÃ¼rde.",
+      "kor": "<span class=\"verse-number\">4</span> ì ì¬ì¥ì ê·¸ì ë°±ì±ì ì´ë¥¸ì¸ì¦ ìì ì ëë½í ìëê² íì§ ë§ì§ëë¼",
+      "ita": "<span class=\"verse-number\">4</span> Capo comâÃ¨ in mezzo al suo popolo, non si contaminerÃ , profanando se stesso."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙØ§ ÙÙØ­ÙÙÙÙÙ Ø§ÙÙÙÙØ§ÙÙÙÙ Ø´ÙØ¹ÙØ±ÙÙÙ ÙÙØ±ÙØ¹ÙØ©ÙØ Ø£ÙÙÙ Ø¬ÙØ§ÙÙØ¨ÙÙÙ ÙÙØ­ÙÙÙØªÙÙÙØ Ø£ÙÙÙ ÙÙØ¬ÙØ±ÙØ­Ù Ø¬ÙØ³ÙØ¯ÙÙÙ Ø­ÙØ²ÙÙØ§Ù Ø¹ÙÙÙÙ ÙÙÙÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">5</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>é ­</rb><rt>ããã¾</rt></ruby>ã®<ruby><rb>é </rb><rt>ããã ã</rt></ruby>ããã£ã¦ã¯ãªããªããã²ãã®<ruby><rb>ä¸¡ç«¯</rb><rt>ããããã</rt></ruby>ããã<ruby><rb>è½</rb><rt>ãã¨</rt></ruby>ãã¦ã¯ãªããªããã¾ã<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã«<ruby><rb>å·</rb><rt>ãã</rt></ruby>ãã¤ãã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">5ã</span>ä¸å¯ä½¿å¤´åç§ï¼ä¸å¯åé¤è¡é¡»çå¨å´ï¼ä¹ä¸å¯ç¨ååèº«ã",
+      "zht": "<span class=\"verse-number\">5ã</span>ä¸å¯ä½¿é ­åç¦¿ï¼ä¸å¯åé¤é¬é¬çå¨åï¼ä¹ä¸å¯ç¨ååèº«ã",
+      "spa": "<span class=\"verse-number\">5 </span>No se raparÃ¡n la cabeza, ni se recortarÃ¡n la punta de la barba ni en el cuerpo se harÃ¡n incisiones.",
+      "por": "<span class=\"verse-number\">5</span> NÃ£o farÃ£o calva na sua cabeÃ§a, e nÃ£o raparÃ£o a ponta da sua barba, nem farÃ£o incisÃµes na sua carne.",
+      "fra": "<span class=\"verse-number\">5</span> Les prÃªtres ne se feront pas de tonsure, ils ne raseront pas les coins de leur barbe et ils ne feront pas dâincisions dans leur chair.",
+      "deu": "<span class=\"verse-number\">5Â </span>Sie dÃ¼rfen sich an ihrem Haupt keine Glatze scheren und den Rand ihres Bartes nicht stutzen und sich keine Einschnitte in ihren Leib machen.",
+      "kor": "<span class=\"verse-number\">5</span> ì ì¬ì¥ë¤ì ë¨¸ë¦¬í¸ì ê¹ì ëë¨¸ë¦¬ ê°ê² íì§ ë§ë©° ìê¸°ì ìì¼ ììª½ì ê¹ì§ ë§ë©° ì´ì ë² ì§ ë§ê³",
+      "ita": "<span class=\"verse-number\">5</span> I sacerdoti non si faranno tonsure sul capo, non si raderanno gli angoli della barba, e non si faranno incisioni nella carne."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>They shall be holy unto their God, and not profane the name of their God: for the offerings of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> made by fire, <span class=\"clarity-word\">and</span> the bread of their God, they do offer: therefore they shall be holy.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ¹ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙØ©Ù Ø£ÙÙÙ ÙÙÙÙÙÙÙÙØ§ ÙÙÙÙØ±ÙÙØ²ÙÙÙÙ ÙØ¥ÙÙÙÙÙÙÙÙÙ. ÙÙØ§ ÙÙØ¯ÙÙÙÙØ³ÙÙØ§ Ø§Ø³ÙÙÙÙÙ ÙØ£ÙÙÙÙÙÙÙÙ ÙÙÙÙØ±ÙÙØ¨ÙÙÙÙ ÙÙÙÙØ§Ø¦ÙØ¯Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ£ÙÙÙÙÙÙØ§ Ø·ÙØ¹ÙØ§ÙÙ ÙÙÙÙØ¯ÙÙÙÙÙÙÙÙÙ ÙØ¥ÙÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙÙÙÙ ÙÙÙÙØ¯ÙÙØ³Ø§Ù.",
+      "jpn": "<span class=\"verse-number\">6</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>å¯¾</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>è</rb><rt>ãã</rt></ruby>ã§ãªããã°ãªããªããã¾ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãã¦ã¯ãªããªãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ç«ç¥­</rb><rt>ããã</rt></ruby>ãããªãã¡ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>é£ç©</rb><rt>ããããã¤</rt></ruby>ããããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã§ããããã<ruby><rb>è</rb><rt>ãã</rt></ruby>ã§ãªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">6ã</span>è¦å½ç¥ä¸ºå£ï¼ä¸å¯äºµæ¸ç¥çåï¼å ä¸ºè¶ååçç«ç¥­ï¼å°±æ¯ç¥çé£ç©ï¼æ¯ä»ä»¬ç®çï¼æä»¥ä»ä»¬è¦æä¸ºå£ã",
+      "zht": "<span class=\"verse-number\">6ã</span>è¦æ­¸ç¥çºèï¼ä¸å¯è¤»çç¥çåï¼å çºè¶åè¯çç«ç¥­ï¼å°±æ¯ç¥çé£ç©ï¼æ¯ä»åç»çï¼æä»¥ä»åè¦æçºèã",
+      "spa": "<span class=\"verse-number\">6 </span>Santos serÃ¡n a su Dios y no profanarÃ¡n el nombre de su Dios, porque ofrecen las ofrendas encendidas para JehovÃ¡ y el pan de su Dios; por tanto, serÃ¡n santos.",
+      "por": "<span class=\"verse-number\">6</span> Santos serÃ£o a seu Deus, e nÃ£o profanarÃ£o o nome do seu Deus, porque oferecem as ofertas queimadas do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, o pÃ£o do seu Deus; portanto, serÃ£o santos.",
+      "fra": "<span class=\"verse-number\">6</span> Ils seront saints pour leur Dieu et ils ne profaneront pas le nom de leur DieuÂ ; car ils offrent Ã  lâÃternel les sacrifices consumÃ©s par le feu, lâaliment de leur DieuÂ : ils seront saints.",
+      "deu": "<span class=\"verse-number\">6Â </span>Sie sollen ihrem Gott heilig sein und den Namen ihres Gottes nicht entweihen; denn sie haben die Feueropfer des <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span>, die Speise ihres Gottes, darzubringen; darum sollen sie heilig sein.",
+      "kor": "<span class=\"verse-number\">6</span> ê·¸ë¤ì íëëê» ëíì¬ ê±°ë£©íê³  ê·¸ë¤ì íëëì ì´ë¦ì ìëê² íì§ ë§ ê²ì´ë©° ê·¸ë¤ì ì¬í¸ìì íì  ê³§ ê·¸ë¤ì íëëì ììì ëë¦¬ë ìì¸ì¦ ê±°ë£©í  ê²ì´ë¼",
+      "ita": "<span class=\"verse-number\">6</span> Saranno santi al loro Dio e non profaneranno il nome del loro Dio, poichÃ© offrono allâEterno i sacrifici fatti mediante il fuoco, il pane del loro Dio; perciÃ² saranno santi."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>They shall not take a wife <span class=\"clarity-word\">that is</span> a whore, or profane; neither shall they take a woman put away from her husband: for he <span class=\"clarity-word\">is</span> holy unto his God.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙØ§ ÙÙØªÙØ²ÙÙÙÙØ¬ÙÙØ§ Ø§ÙÙØ±ÙØ£ÙØ©Ù Ø²ÙØ§ÙÙÙÙØ©Ù Ø£ÙÙÙ ÙÙÙÙ ØºÙÙÙØ±Ù Ø³ÙØ¨ÙØ·ÙÙÙÙÙØ Ø£ÙÙÙ Ø§ÙÙØ±ÙØ£ÙØ©Ù ÙÙØ·ÙÙÙÙÙÙØ©Ù ÙÙÙÙ Ø²ÙÙÙØ¬ÙÙÙØ§Ø ÙØ£ÙÙÙÙÙÙÙÙ ÙÙÙÙØ¯ÙÙØ³ÙÙÙÙ ÙØ¥ÙÙÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">7</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>éå¥³</rb><rt>ãããã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã¨ã£ã¦ã¯ãªããªããã¾ã<ruby><rb>å¤«</rb><rt>ãã£ã¨</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã </rt></ruby>ããã<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã¨ã£ã¦ã¯ãªããªãã<ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>å¯¾</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>è</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã ããã§ããã",
+      "zhs": "<span class=\"verse-number\">7ã</span>ä¸å¯å¨¶å¦å¥³æè¢«æ±¡çå¥³äººä¸ºå¦»ï¼ä¹ä¸å¯å¨¶è¢«ä¼çå¦äººä¸ºå¦»ï¼å ä¸ºç¥­å¸æ¯å½ç¥ä¸ºå£ã",
+      "zht": "<span class=\"verse-number\">7ã</span>ä¸å¯å¨¶å¦å¥³æè¢«æ±¡çå¥³äººçºå¦»ï¼ä¹ä¸å¯å¨¶è¢«ä¼çå©¦äººçºå¦»ï¼å çºç¥­å¸æ¯æ­¸ç¥çºèã",
+      "spa": "<span class=\"verse-number\">7 </span>No tomarÃ¡n como esposa a ramera ni a mujer infame, ni tomarÃ¡n como esposa a la repudiada por su marido, porque el sacerdote es santo a su Dios.",
+      "por": "<span class=\"verse-number\">7</span> NÃ£o tomarÃ£o mulher prostituta ou infame, nem tomarÃ£o mulher repudiada de seu marido; pois santo Ã© a seu Deus.",
+      "fra": "<span class=\"verse-number\">7</span> Ils ne prendront pas une femme prostituÃ©e ou dÃ©shonorÃ©e, ils ne prendront pas une femme rÃ©pudiÃ©e par son mari, car ils sont saints pour leur Dieu.",
+      "deu": "<span class=\"verse-number\">7Â </span>Eine Dirne oder eine Entehrte dÃ¼rfen sie nicht zur Ehefrau nehmen, ebenso wenig eine von ihrem Mann verstoÃene Frau; denn er ist seinem Gott geweiht.",
+      "kor": "<span class=\"verse-number\">7</span> ê·¸ë¤ì ë¶ì í ì°½ëë ì´í¼ ë¹í ì¬ì¸ì ì·¨íì§ ë§ì§ë ì´ë ê·¸ê° ì¬í¸ì íëëê» ê±°ë£©í¨ì´ëë¼",
+      "ita": "<span class=\"verse-number\">7</span> Non prenderanno in moglie una prostituta, nÃ© una donna disonorata; non prenderanno in moglie una donna ripudiata dal suo marito, perchÃ© sono santi al loro Dio."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, which sanctify you, <span class=\"clarity-word\">am</span> holy.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙØ£ÙÙÙÙ Ø§ÙÙÙÙØ§ÙÙÙÙ ÙÙÙÙØ±ÙØ²Ù ÙÙÙÙÙÙØ¯ÙÙÙÙ Ø°ÙØ¨ÙØ§Ø¦ÙØ­Ù ÙØ¥ÙÙÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙØ¯ÙÙØ³Ù Ø¹ÙÙÙØ¯ÙÙÙØ ÙØ£ÙÙÙÙÙ Ø£ÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙØ¯ÙÙØ³ÙÙÙÙÙØ ÙÙØ¯ÙÙÙØ³Ù.",
+      "jpn": "<span class=\"verse-number\">8</span> ããªãã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã</rt></ruby>ã¨ããªããã°ãªããªãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ããªãã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>é£ç©</rb><rt>ããããã¤</rt></ruby>ããããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã ããã§ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ããªãã«ã¨ã£ã¦<ruby><rb>è</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã§ãªããã°ãªããªããããªãããã<ruby><rb>è</rb><rt>ãã</rt></ruby>ã¨ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããªãã¡ããããã¯<ruby><rb>è</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã ããã§ããã",
+      "zhs": "<span class=\"verse-number\">8ã</span>æä»¥ä½ è¦ä½¿ä»æå£ï¼å ä¸ºä»å¥ç®ä½ ç¥çé£ç©ï¼ä½ è¦ä»¥ä»ä¸ºå£ï¼å ä¸ºæï¼ä½¿ä½ ä»¬æå£çè¶ååï¼æ¯å£çã",
+      "zht": "<span class=\"verse-number\">8ã</span>æä»¥ä½ è¦ä½¿ä»æèï¼å çºä»å¥ç»ä½ ç¥çé£ç©ï¼ä½ è¦ä»¥ä»çºèï¼å çºæï¼ä½¿ä½ åæèçè¶åè¯ï¼æ¯èçã",
+      "spa": "<span class=\"verse-number\">8 </span>Lo santificarÃ¡s, por tanto, pues el pan de tu Dios ofrece; santo serÃ¡ para ti, porque santo soy yo JehovÃ¡ que os santifico.",
+      "por": "<span class=\"verse-number\">8</span> Portanto, o santificarÃ¡s, porquanto oferece o pÃ£o do teu Deus; santo serÃ¡ para ti, pois eu, o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> que vos santifica, <span class=\"clarity-word\">sou</span> santo.",
+      "fra": "<span class=\"verse-number\">8</span> Tu considÃ¨reras un prÃªtre comme saint, car il offre lâaliment de ton DieuÂ ; il sera saint pour toi car je suis saint, moi, lâÃternel, qui vous sanctifie.",
+      "deu": "<span class=\"verse-number\">8Â </span>Darum sollst du ihn fÃ¼r heilig achten, denn er bringt die Speise deines Gottes dar. Als heilig soll er dir gelten, denn ich bin heilig, der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span>, der euch heiligt.",
+      "kor": "<span class=\"verse-number\">8</span> ëë ê·¸ë¥¼ ê±°ë£©í ì¬ê¸°ë¼ ê·¸ë ë¤ íëëì ììì ëë¦¼ì´ëë¼ ëë ê·¸ë¥¼ ê±°ë£©í ì¬ê¸°ë¼ ëí¬ë¥¼ ê±°ë£©íê² íë ë ì¬í¸ìë ê±°ë£©í¨ì´ëë¼",
+      "ita": "<span class=\"verse-number\">8</span> Tu considererai dunque il sacerdote come santo, perchÃ© egli offre il pane del tuo Dio: egli ti sarÃ  santo, perchÃ© io, lâEterno che vi santifico, sono santo."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span><span class=\"para-mark\">Â¶ </span>And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ¥Ø°ÙØ§ Ø²ÙÙÙØªÙ Ø§Ø¨ÙÙÙØ©Ù Ø§ÙÙÙÙØ§ÙÙÙÙ ÙÙÙÙØ¬ÙØ¨Ù Ø­ÙØ±ÙÙÙÙÙØ§ ÙØ£ÙÙÙÙÙÙØ§ Ø¯ÙÙÙÙØ³ÙØªÙ ÙÙØ¯ÙØ§Ø³ÙØ©Ù Ø£ÙØ¨ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">9</span> <ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ã®<ruby><rb>å¨</rb><rt>ããã</rt></ruby>ã§ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãã<ruby><rb>æ·«è¡</rb><rt>ãããã</rt></ruby>ããªãã¦ããã®<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ããªãã°ããã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãã®ã§ããããã<ruby><rb>å½¼å¥³</rb><rt>ãã®ãã</rt></ruby>ã<ruby><rb>ç«</rb><rt>ã²</rt></ruby>ã§<ruby><rb>ç¼</rb><rt>ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">9ã</span>ç¥­å¸çå¥³å¿è¥è¡æ·«è¾±æ²¡èªå·±ï¼å°±è¾±æ²¡äºç¶äº²ï¼å¿ç¨ç«å°å¥¹çç§ã",
+      "zht": "<span class=\"verse-number\">9ã</span>ç¥­å¸çå¥³åè¥è¡æ·«è¾±æ²èªå·±ï¼å°±è¾±æ²äºç¶è¦ªï¼å¿ç¨ç«å°å¥¹ççã",
+      "spa": "<span class=\"verse-number\">9 </span>Y la hija del sacerdote, si se profana prostituyÃ©ndose, a su padre profana; quemada serÃ¡ al fuego.",
+      "por": "<span class=\"verse-number\">9</span> E quando a filha de um sacerdote se profanar, prostituindo-se, profana seu pai; com fogo serÃ¡ queimada.",
+      "fra": "<span class=\"verse-number\">9</span> Si la fille dâun prÃªtre se dÃ©shonore en se prostituant, elle dÃ©shonore son pÃ¨reÂ : elle sera brÃ»lÃ©e au feu.",
+      "deu": "<span class=\"verse-number\">9Â </span>Und wenn die Tochter eines Priesters sich durch Unzucht entweiht, so entweiht sie dadurch ihren Vater. Im Feuer soll sie verbrannt werden.",
+      "kor": "<span class=\"verse-number\">9</span> ì´ë¤ ì ì¬ì¥ì ë¸ì´ë ì§ íìíì¬ ìì ì ìëê² íë©´ ê·¸ì ìë²ì§ë¥¼ ìëê² í¨ì´ë ê·¸ë¥¼ ë¶ì¬ë¥¼ì§ëë¼",
+      "ita": "<span class=\"verse-number\">9</span> Se la figlia di un sacerdote si disonora prostituendosi, ella disonora suo padre; sarÃ  arsa con il fuoco."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>And <span class=\"clarity-word\">he that is</span> the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØ§ÙÙÙÙØ§ÙÙÙÙ Ø§ÙØ£ÙØ¹ÙØ¸ÙÙÙ Ø¨ÙÙÙÙÙ Ø¥ÙØ®ÙÙÙØªÙÙÙØ Ø§ÙÙÙØ°ÙÙ Ø³ÙÙÙØ¨Ù Ø¹ÙÙÙÙ Ø±ÙØ£ÙØ³ÙÙÙ Ø¯ÙÙÙÙÙ Ø§ÙÙÙÙØ³ÙØ­ÙØ©ÙØ ÙÙØªÙÙÙØ±ÙÙØ³Ù ÙÙÙÙØ±ÙØªÙØ¯ÙÙÙ Ø§ÙØ«ÙÙÙÙØ§Ø¨Ù Ø§ÙÙÙÙÙÙØ¯ÙÙØ³ÙØ©ÙØ ÙÙØ§ ÙÙÙÙØ´ÙÙÙ Ø¹ÙÙÙ Ø±ÙØ£ÙØ³ÙÙÙ ÙÙÙØ§ ÙÙØ´ÙÙÙÙ Ø«ÙÙÙØ§Ø¨ÙÙÙ Ø­ÙØ¯ÙØ§Ø¯Ø§Ù Ø¹ÙÙÙÙ ÙÙÙÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">10</span> ãã®<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã®ãã¡ã<ruby><rb>é ­</rb><rt>ããã¾</rt></ruby>ã«<ruby><rb>æ³¨</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ²¹</rb><rt>ãã¶ã</rt></ruby>ã<ruby><rb>æ³¨</rb><rt>ãã</rt></ruby>ããã<ruby><rb>è·</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ä»»</rb><rt>ã«ã</rt></ruby>ãããã¦ããã®<ruby><rb>è¡£æ</rb><rt>ããµã</rt></ruby>ãã¤ãã<ruby><rb>å¤§</rb><rt>ã ã</rt></ruby><ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ã¨ãªã£ã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ããã®<ruby><rb>é«ª</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>æ¯</rb><rt>ã</rt></ruby>ã<ruby><rb>ä¹±</rb><rt>ã¿ã </rt></ruby>ãã¦ã¯ãªããªããã¾ããã®<ruby><rb>è¡£æ</rb><rt>ããµã</rt></ruby>ã<ruby><rb>è£</rb><rt>ã</rt></ruby>ãã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">10ã</span>å¨å¼åä¸­ä½å¤§ç¥­å¸ï¼å¤´ä¸åäºèæ²¹ï¼åæ¿æ¥å£èï¼ç©¿äº<span class=\"clarity-word\">å£</span>è¡£çï¼ä¸å¯è¬å¤´æ£åï¼ä¹ä¸å¯æè£è¡£æã",
+      "zht": "<span class=\"verse-number\">10ã</span>å¨å¼åä¸­ä½å¤§ç¥­å¸ï¼é ­ä¸åäºèæ²¹ï¼åæ¿æ¥èè·ï¼ç©¿äº<span class=\"clarity-word\">è</span>è¡£çï¼ä¸å¯è¬é ­æ£é«®ï¼ä¹ä¸å¯æè£è¡£æã",
+      "spa": "<span class=\"verse-number\">10 </span>Y el sumo sacerdote entre sus hermanos, sobre cuya cabeza haya sido derramado el aceite de la unciÃ³n y que haya sido consagrado para ponerse las vestiduras, no descubrirÃ¡ su cabeza ni rasgarÃ¡ sus vestidos,",
+      "por": "<span class=\"verse-number\">10</span> E o sumo sacerdote entre seus irmÃ£os, sobre cuja cabeÃ§a foi derramado o azeite da unÃ§Ã£o, e que for consagrado para vestir as vestes, nÃ£o descobrirÃ¡ a sua cabeÃ§a nem rasgarÃ¡ as suas vestes;",
+      "fra": "<span class=\"verse-number\">10</span> Le grand prÃªtre qui est au-dessus de ses frÃ¨res, sur la tÃªte duquel a Ã©tÃ© rÃ©pandue lâhuile dâonction, et qui a Ã©tÃ© consacrÃ© et revÃªtu des vÃªtements sacrÃ©s, ne dÃ©couvrira pas sa tÃªte et ne dÃ©chirera pas ses vÃªtements.",
+      "deu": "<span class=\"verse-number\">10Â </span>Derjenige aber, welcher der Hohe Priester unter seinen BrÃ¼dern ist, auf dessen Haupt das SalbÃ¶l gegossen worden ist und den man in sein Amt eingesetzt hat, damit er die heiligen Kleider anziehe, darf sein Haupthaar nicht auflÃ¶sen und seine Kleider nicht zerreiÃen.",
+      "kor": "<span class=\"verse-number\">10</span> ìê¸°ì íì  ì¤ ê´ì ë¡ ë¶ìì ë°ê³  ììëì´ ê·¸ ìë³µì ìì ëì ì¬ì¥ì ê·¸ì ë¨¸ë¦¬ë¥¼ íì§ ë§ë©° ê·¸ì ì·ì ì°¢ì§ ë§ë©°",
+      "ita": "<span class=\"verse-number\">10</span> Il sommo sacerdote che sta al disopra dei suoi fratelli, sul capo del quale Ã¨ stato sparso lâolio dellâunzione e che Ã¨ stato consacrato per rivestire i paramenti sacri, non si scoprirÃ  il capo e non si straccerÃ  le vesti."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙÙÙØªÙÙÙØ§Ø¯Ù Ø§ÙØ¯ÙÙØ®ÙÙÙÙ Ø¥ÙÙÙÙ ÙÙÙÙØ§ÙÙ ÙÙÙÙÙ Ø¬ÙØ«ÙÙØ©Ù ÙÙÙÙØªÙ. ÙÙÙØ§ ÙÙÙÙØ¬ÙÙØ³Ù ÙÙÙÙØ³ÙÙÙ Ø¨ÙÙÙÙÙØ³Ù Ø¬ÙØ«ÙÙÙØ§ÙÙ ÙÙÙÙØªÙØ Ø­ÙØªÙÙÙ ÙÙÙÙ ÙÙØ§ÙÙ Ø°ÙÙÙÙÙ Ø¬ÙØ«ÙÙÙØ§ÙÙ Ø£ÙØ¨ÙÙÙÙ Ø£ÙÙÙ Ø£ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">11</span> <ruby><rb>æ­»äºº</rb><rt>ãã«ã</rt></ruby>ã®ã¨ããã«ãã¯ãã£ã¦ã¯ãªããªããã¾ã<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã®ããã«ã<ruby><rb>æ¯</rb><rt>ã¯ã¯</rt></ruby>ã®ããã«ã<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">11ã</span>ä¸å¯æ¨è¿æ­»å°¸ï¼ä¹ä¸å¯ä¸ºç¶æ¯æ²¾æèªå·±ã",
+      "zht": "<span class=\"verse-number\">11ã</span>ä¸å¯æ¨è¿æ­»å±ï¼ä¹ä¸å¯çºç¶æ¯æ²¾æèªå·±ã",
+      "spa": "<span class=\"verse-number\">11 </span>ni entrarÃ¡ donde haya alguna persona muerta; ni por su padre ni por su madre se contaminarÃ¡.",
+      "por": "<span class=\"verse-number\">11</span> E nÃ£o se chegarÃ¡ a cadÃ¡ver algum, <span class=\"clarity-word\">nem</span> por <span class=\"clarity-word\">causa</span> de seu pai, nem por sua mÃ£e, se contaminarÃ¡;",
+      "fra": "<span class=\"verse-number\">11</span> Il ne sâapprochera dâaucun mort, il ne se rendra pas impur, ni pour son pÃ¨re, ni pour sa mÃ¨re.",
+      "deu": "<span class=\"verse-number\">11Â </span>Er darf auch zu keiner Leiche hineingehen; sogar an seinem Vater und an seiner Mutter darf er sich nicht verunreinigen.",
+      "kor": "<span class=\"verse-number\">11</span> ì´ë¤ ìì²´ìë ì§ ê°ê¹ì´ íì§ ë§ì§ë ê·¸ì ë¶ëª¨ë¡ ë§ë¯¸ìììë ëë¬ìì§ê² íì§ ë§ë©°",
+      "ita": "<span class=\"verse-number\">11</span> Non si avvicinerÃ  ad alcun cadavere; non si renderÃ  impuro neppure per suo padre e per sua madre."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God <span class=\"clarity-word\">is</span> upon him: I <span class=\"clarity-word\">am</span> the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ§ ÙÙÙÙØ§Ø±ÙÙÙ Ø§ÙÙÙÙÙÙØ¯ÙØ³Ù ÙÙÙ Ø£ÙØ«ÙÙÙØ§Ø¡Ù Ø®ÙØ¯ÙÙÙØªÙÙÙØ ÙÙØ¦ÙÙÙØ§ ÙÙØ¯ÙÙÙÙØ³Ù ÙÙÙÙØ¯ÙØ³Ù Ø¥ÙÙÙÙÙÙÙØ ÙØ£ÙÙÙÙÙÙ ÙÙØ¯Ù ØªÙÙÙÙ ØªÙÙÙØ±ÙÙØ³ÙÙÙ Ø¨ÙØ³ÙÙÙØ¨Ù Ø¯ÙÙÙÙÙ ÙÙØ³ÙØ­ÙØ©Ù Ø¥ÙÙÙÙÙÙÙ Ø¹ÙÙÙÙÙÙÙØ ÙÙØ£ÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ.",
+      "jpn": "<span class=\"verse-number\">12</span> ã¾ã<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ãã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦ã¯ãªããªãã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãã¦ã¯ãªããªãããã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>æ³¨</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ²¹</rb><rt>ãã¶ã</rt></ruby>ã«ãã<ruby><rb>èå¥</rb><rt>ããã¹ã¤</rt></ruby>ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ããããã§ããããããã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã§ããã",
+      "zhs": "<span class=\"verse-number\">12ã</span>ä¸å¯åºå£æï¼ä¹ä¸å¯äºµæ¸ç¥çå£æï¼å ä¸ºç¥èæ²¹çå åå¨ä»å¤´ä¸ãææ¯è¶ååã",
+      "zht": "<span class=\"verse-number\">12ã</span>ä¸å¯åºèæï¼ä¹ä¸å¯è¤»çç¥çèæï¼å çºç¥èæ²¹çå åå¨ä»é ­ä¸ãææ¯è¶åè¯ã",
+      "spa": "<span class=\"verse-number\">12 </span>No saldrÃ¡ del santuario ni profanarÃ¡ el santuario de su Dios, porque la consagraciÃ³n del aceite de la unciÃ³n de su Dios estÃ¡ sobre Ã©l. Yo JehovÃ¡.",
+      "por": "<span class=\"verse-number\">12</span> Nem sairÃ¡ do santuÃ¡rio, para que nÃ£o profane o santuÃ¡rio do seu Deus, pois a coroa do azeite da unÃ§Ã£o do seu Deus <span class=\"clarity-word\">estÃ¡</span> sobre ele. Eu <span class=\"clarity-word\">sou</span> o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>.",
+      "fra": "<span class=\"verse-number\">12</span> Il ne sortira pas du sanctuaire et ne profanera pas le sanctuaire de son DieuÂ ; car lâhuile dâonction de son Dieu est une couronne sur lui. Je suis lâÃternel.",
+      "deu": "<span class=\"verse-number\">12Â </span>Aus dem Heiligtum darf er sich nicht entfernen, damit er das Heiligtum seines Gottes nicht entweiht; denn die Weihe des SalbÃ¶ls seines Gottes befindet sich auf ihm. Ich bin der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span>.",
+      "kor": "<span class=\"verse-number\">12</span> ê·¸ ì±ììì ëì¤ì§ ë§ë©° ê·¸ì íëëì ì±ìë¥¼ ìëê² íì§ ë§ë¼ ì´ë íëëê»ì ì±ë³íì  ê´ì ê° ê·¸ ìì ììì´ëë¼ ëë ì¬í¸ìì´ëë¼",
+      "ita": "<span class=\"verse-number\">12</span> Non uscirÃ  dal santuario, e non profanerÃ  il santuario del suo Dio, perchÃ© lâolio dellâunzione del suo Dio Ã¨ su lui come un diadema. Io sono lâEterno."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>And he shall take a wife in her virginity.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙÙÙØªÙØ²ÙÙÙÙØ¬Ù ÙÙÙÙ Ø¹ÙØ°ÙØ±ÙØ§Ø¡ÙØ",
+      "jpn": "<span class=\"verse-number\">13</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å¦å¥³</rb><rt>ãããã</rt></ruby>ã<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã«ãã¨ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">13ã</span>ä»è¦å¨¶å¤å¥³ä¸ºå¦»ã",
+      "zht": "<span class=\"verse-number\">13ã</span>ä»è¦å¨¶èå¥³çºå¦»ã",
+      "spa": "<span class=\"verse-number\">13 </span>Y tomarÃ¡ por esposa a una mujer virgen.",
+      "por": "<span class=\"verse-number\">13</span> E ele tomarÃ¡ uma mulher na sua virgindade.",
+      "fra": "<span class=\"verse-number\">13</span> Il prendra pour femme une vierge.",
+      "deu": "<span class=\"verse-number\">13Â </span>Zur Ehefrau muss er sich eine Jungfrau nehmen;",
+      "kor": "<span class=\"verse-number\">13</span> ê·¸ë ì²ëë¥¼ ë°ë ¤ë¤ê° ìë´ë¥¼ ì¼ìì§ë",
+      "ita": "<span class=\"verse-number\">13</span> SposerÃ  una vergine."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>A widow, or a divorced woman, or profane, <span class=\"clarity-word\">or</span> an harlot, these shall he not take: but he shall take a virgin of his own people to wife.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ§ ÙÙÙÙ Ø£ÙØ±ÙÙÙÙÙØ©ÙØ ÙÙÙØ§ ÙÙØ·ÙÙÙÙÙÙØ©ÙØ ÙÙÙØ§ Ø²ÙØ§ÙÙÙÙØ©Ù ÙÙØ¯ÙÙÙÙØ³ÙØ©ÙØ Ø¨ÙÙÙ ÙÙØªÙØ²ÙÙÙÙØ¬Ù Ø¹ÙØ°ÙØ±ÙØ§Ø¡Ù ÙÙÙÙ Ø³ÙØ¨ÙØ·ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">14</span> <ruby><rb>å¯¡å©¦</rb><rt>ããµ</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ããã<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ã<ruby><rb>éå¥³</rb><rt>ãããã</rt></ruby>ãªã©ããã¨ã£ã¦ã¯ãªããªãããã ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã®ãã¡ã®<ruby><rb>å¦å¥³</rb><rt>ãããã</rt></ruby>ãã<ruby><rb>å¦»</rb><rt>ã¤ã¾</rt></ruby>ã«ãã¨ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">14ã</span>å¯¡å¦ææ¯è¢«ä¼çå¦äººï¼ææ¯è¢«æ±¡ä¸ºå¦çå¥³äººï¼é½ä¸å¯å¨¶ï¼åªå¯å¨¶æ¬æ°ä¸­çå¤å¥³ä¸ºå¦»ã",
+      "zht": "<span class=\"verse-number\">14ã</span>å¯¡å©¦ææ¯è¢«ä¼çå©¦äººï¼ææ¯è¢«æ±¡çºå¦çå¥³äººï¼é½ä¸å¯å¨¶ï¼åªå¯å¨¶æ¬æ°ä¸­çèå¥³çºå¦»ã",
+      "spa": "<span class=\"verse-number\">14 </span>Viuda, o repudiada, o mujer infame o ramera, estas no tomarÃ¡, sino que tomarÃ¡ por esposa a una virgen de su propio pueblo.",
+      "por": "<span class=\"verse-number\">14</span> ViÃºva, ou repudiada, ou desonrada, <span class=\"clarity-word\">ou</span> prostituta, essas nÃ£o tomarÃ¡, mas virgem do seu povo tomarÃ¡ por mulher.",
+      "fra": "<span class=\"verse-number\">14</span> Il ne prendra ni une veuve, ni une femme rÃ©pudiÃ©e, ni une femme dÃ©shonorÃ©e ou prostituÃ©eÂ ; mais il prendra pour femme une vierge parmi son peuple.",
+      "deu": "<span class=\"verse-number\">14Â </span>eine Witwe oder eine verstoÃene Frau oder eine Entehrte oder eine DirneÂ â diese darf er nicht ehelichen; sondern eine Jungfrau aus seinem Volk muss er sich zur Frau nehmen,",
+      "kor": "<span class=\"verse-number\">14</span> ê³¼ë¶ë ì´í¼ ë¹í ì¬ìë ì°½ë ì§ì íë ëë¬ì´ ì¬ì¸ì ì·¨íì§ ë§ê³  ìê¸° ë°±ì± ì¤ìì ì²ëë¥¼ ì·¨íì¬ ìë´ë¥¼ ì¼ì",
+      "ita": "<span class=\"verse-number\">14</span> Non sposerÃ  nÃ© una vedova, nÃ© una divorziata, nÃ© una disonorata, nÃ© una meretrice; ma prenderÃ  per moglie una vergine del suo popolo."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>Neither shall he profane his seed among his people: for I the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> do sanctify him.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙÙØ§ ÙÙØ¯ÙÙÙÙØ³Ù ÙÙØ³ÙÙÙÙÙ Ø¨ÙÙÙÙÙ Ø´ÙØ¹ÙØ¨ÙÙÙØ ÙØ£ÙÙÙÙÙ Ø£ÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ Ø§ÙÙÙØ°ÙÙ Ø£ÙÙÙØ¯ÙÙØ³ÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">15</span> ããããã°ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã®ãã¡ã«ã<ruby><rb>èªå</rb><rt>ãã¶ã</rt></ruby>ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ããã¨ã¯ãªãããããã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>èå¥</rb><rt>ããã¹ã¤</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã ããã§ããããã",
+      "zhs": "<span class=\"verse-number\">15ã</span>ä¸å¯å¨æ°ä¸­è¾±æ²¡ä»çå¿å¥³ï¼å ä¸ºææ¯å«ä»æå£çè¶ååã",
+      "zht": "<span class=\"verse-number\">15ã</span>ä¸å¯å¨æ°ä¸­è¾±æ²ä»çåå¥³ï¼å çºææ¯å«ä»æèçè¶åè¯ã",
+      "spa": "<span class=\"verse-number\">15 </span>Y asÃ­ no profanarÃ¡ su descendencia entre su pueblo, porque yo, JehovÃ¡, soy el que lo santifico.",
+      "por": "<span class=\"verse-number\">15</span> E nÃ£o profanarÃ¡ a sua semente entre o seu povo; porque eu <span class=\"clarity-word\">sou</span> o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">que</span> o santifico.",
+      "fra": "<span class=\"verse-number\">15</span> Il ne dÃ©shonorera pas sa postÃ©ritÃ© parmi son peupleÂ ; car je suis lâÃternel qui le sanctifie.",
+      "deu": "<span class=\"verse-number\">15Â </span>damit er seine Nachkommenschaft unter seinem Volk nicht entweiht; denn ich bin der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span>, der ihn heiligt.â",
+      "kor": "<span class=\"verse-number\">15</span> ê·¸ì ììì´ ê·¸ì ë°±ì± ì¤ìì ìëê² íì§ ë§ì§ë ëë ê·¸ë¥¼ ê±°ë£©íê² íë ì¬í¸ììì´ëë¼",
+      "ita": "<span class=\"verse-number\">15</span> Non disonorerÃ  la sua progenie in mezzo al suo popolo; poichÃ© io sono lâEterno che lo santificoââ."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span><span class=\"para-mark\">Â¶ </span>And the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> spake unto Moses, saying,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙØ³ÙÙ:",
+      "jpn": "<span class=\"verse-number\">16</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã¾ãã¢ã¼ã»ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">16ã</span>è¶ååå¯¹<u>æ©è¥¿</u>è¯´ï¼",
+      "zht": "<span class=\"verse-number\">16ã</span>è¶åè¯å°<u>æ©è¥¿</u>èªªï¼",
+      "spa": "<span class=\"verse-number\">16 </span>Y JehovÃ¡ hablÃ³ a MoisÃ©s, diciendo:",
+      "por": "<span class=\"verse-number\">16</span> Falou mais o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> a MoisÃ©s, dizendo:",
+      "fra": "<span class=\"verse-number\">16</span> LâÃternel parla Ã  MoÃ¯se et ditÂ :",
+      "deu": "<span class=\"verse-number\">16Â </span>Weiter gebot der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> Mose Folgendes:",
+      "kor": "<span class=\"verse-number\">16</span> ì¬í¸ìê»ì ëª¨ì¸ìê² ë§ìíì¬ ì´ë¥´ìë",
+      "ita": "<span class=\"verse-number\">16</span> LâEterno parlÃ² ancora a MosÃ¨, dicendo:"
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>Speak unto Aaron, saying, Whosoever <span class=\"clarity-word\">he be</span> of thy seed in their generations that hath <span class=\"clarity-word\">any</span> blemish, let him not approach to offer the bread of his God.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>âÙÙÙÙ ÙÙÙÙØ±ÙÙÙÙ: ÙÙØ§ ÙÙÙÙØ±ÙÙØ¨Ù Ø±ÙØ¬ÙÙÙ ÙÙÙÙ ÙÙØ³ÙÙÙÙÙ ÙÙÙÙÙ Ø¹ÙØ§ÙÙØ©Ù Ø°ÙØ¨ÙØ§Ø¦ÙØ­Ù ÙØ¥ÙÙÙÙÙÙÙ Ø¹ÙÙÙÙ ÙÙØ¯ÙÙ Ø£ÙØ¬ÙÙÙØ§ÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">17</span> ãã¢ã­ã³ã«<ruby><rb>å</rb><rt>ã¤</rt></ruby>ãã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ããªããããããªãã®<ruby><rb>ä»£ã</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã§ãã ãã§ã<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã«ããã®ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>è¿å¯</rb><rt>ã¡ãã</rt></ruby>ã£ã¦ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>é£ç©</rb><rt>ããããã¤</rt></ruby>ããããã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">17ã</span>ä½ åè¯<u>äºä¼¦</u>è¯´ï¼ä½ ä¸ä¸ä»£ä»£çåè£ï¼å¡ææ®ç¾çï¼é½ä¸å¯è¿åæ¥ç®ä»ç¥çé£ç©ï¼",
+      "zht": "<span class=\"verse-number\">17ã</span>ä½ åè¨´<u>äºå«</u>èªªï¼ä½ ä¸ä¸ä»£ä»£çå¾è£ï¼å¡ææ®ç¾çï¼é½ä¸å¯è¿åä¾ç»ä»ç¥çé£ç©ï¼",
+      "spa": "<span class=\"verse-number\">17 </span>Habla a AarÃ³n y dile: NingÃºn hombre de tu descendencia en todas sus generaciones que tenga defecto se acercarÃ¡ para ofrecer el pan de su Dios.",
+      "por": "<span class=\"verse-number\">17</span> Fala a AarÃ£o, dizendo: NinguÃ©m da tua semente, nas suas geraÃ§Ãµes, em que houver algum defeito, se chegarÃ¡ para oferecer o pÃ£o do seu Deus.",
+      "fra": "<span class=\"verse-number\">17</span> Parle Ã  Aaron et disÂ : Tout homme de ta descendance qui aura un dÃ©faut corporel ne sâapprochera pas pour offrir lâaliment de son Dieu.",
+      "deu": "<span class=\"verse-number\">17Â </span>âTeile Aaron folgende Vorschriften mit: Wenn irgendeiner von deinen Nachkommen in kÃ¼nftigen Generationen einen Makel an sich hat, so darf er nicht herantreten, um die Speise seines Gottes darzubringen;",
+      "kor": "<span class=\"verse-number\">17</span> ìë¡ ìê² ë§íì¬ ì´ë¥´ë¼ ëêµ¬ë ì§ ëì ìì ì¤ ëëë¡ ì¡ì²´ì í ì´ ìë ìë ê·¸ íëëì ììì ëë¦¬ë ¤ê³  ê°ê¹ì´ ì¤ì§ ëª»í  ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">17</span> âParla ad Aaronne e digli: âNelle generazioni a venire nessun uomo della tua stirpe che abbia qualche deformitÃ  si accosterÃ  per offrire il pane del suo Dio;"
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>For whatsoever man <span class=\"clarity-word\">he be</span> that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙÙÙÙÙÙ Ø±ÙØ¬ÙÙÙ ÙÙØµÙØ§Ø¨Ù Ø¨ÙØ¹ÙØ§ÙÙØ©Ù ÙÙØ§ ÙÙØªÙÙÙØ¯ÙÙÙÙ Ø³ÙÙÙØ§Ø¡Ù Ø£ÙÙÙØ§ÙÙ Ø£ÙØ¹ÙÙÙÙ Ø£ÙÙÙ Ø£ÙØ¹ÙØ±ÙØ¬Ù Ø£ÙÙÙ ÙÙØ´ÙÙÙÙÙÙ Ø§ÙÙÙÙØ¬ÙÙÙ Ø£ÙÙÙ ÙÙÙÙÙ Ø¹ÙØ¶ÙÙÙ Ø²ÙØ§Ø¦ÙØ¯ÙØ",
+      "jpn": "<span class=\"verse-number\">18</span> ãã¹ã¦ããã®<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã«ããã®ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>è¿å¯</rb><rt>ã¡ãã</rt></ruby>ã£ã¦ã¯ãªããªããããªãã¡ã<ruby><rb>ç®</rb><rt>ã</rt></ruby>ããã<ruby><rb>è¶³</rb><rt>ãã</rt></ruby>ãªãã<ruby><rb>é¼»</rb><rt>ã¯ãª</rt></ruby>ã®ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>æè¶³</rb><rt>ã¦ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãµ</rt></ruby>ã¤ãããã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">18ã</span>å ä¸ºå¡ææ®ç¾çï¼æ è®ºæ¯çç¼çãç¸è¿çãå¡é¼»å­çãè¢ä½æä½çã",
+      "zht": "<span class=\"verse-number\">18ã</span>å çºå¡ææ®ç¾çï¼ç¡è«æ¯çç¼çãç¸è¿çãå¡é¼»å­çãè¢é«æé¤çã",
+      "spa": "<span class=\"verse-number\">18 </span>Porque ningÃºn hombre en el cual haya defecto se acercarÃ¡: ni ciego, ni cojo, ni desfigurado, ni deforme,",
+      "por": "<span class=\"verse-number\">18</span> Pois, nenhum homem em quem houver alguma deformidade se chegarÃ¡; <span class=\"clarity-word\">como</span> homem cego, ou coxo, ou de nariz chato, ou de membros demasiadamente compridos,",
+      "fra": "<span class=\"verse-number\">18</span> Tout homme qui aura un dÃ©faut corporel ne pourra sâapprocherÂ : un homme aveugle, boiteux, ayant le nez camus ou un membre dÃ©formÃ©Â ;",
+      "deu": "<span class=\"verse-number\">18Â </span>denn keiner, der ein leibliches Gebrechen hat, darf sich mir nahen, kein Blinder oder Lahmer, kein im Gesicht Entstellter oder einer, an dem eines seiner Glieder zu lang ist;",
+      "kor": "<span class=\"verse-number\">18</span> ëêµ¬ë ì§ í ì´ ìë ìë ê°ê¹ì´ íì§ ëª»í ì§ë ê³§ ë§¹ì¸ì´ë ë¤ë¦¬ ì ë ìë ì½ê° ë¶ìì í ìë ì§ì²´ê° ëí ìë",
+      "ita": "<span class=\"verse-number\">18</span> perchÃ© nessun uomo che abbia qualche deformitÃ  potrÃ  accostarsi: nÃ© il cieco, nÃ© lo zoppo, nÃ© colui che ha una deformitÃ  per difetto o per eccesso,"
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>Or a man that is brokenfooted, or brokenhanded,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙÙØ§ ÙÙÙÙØ³ÙÙØ±Ù Ø§ÙÙÙÙØ¯Ù Ø£ÙÙÙ Ø§ÙØ±ÙÙØ¬ÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">19</span> <ruby><rb>è¶³</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã</rt></ruby>ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">19ã</span>æèææçã",
+      "zht": "<span class=\"verse-number\">19ã</span>æè³ææçã",
+      "spa": "<span class=\"verse-number\">19 </span>ni hombre en el cual haya quebradura de pie ni rotura de mano,",
+      "por": "<span class=\"verse-number\">19</span> Ou homem que tiver quebrado o pÃ©, ou quebrada a mÃ£o,",
+      "fra": "<span class=\"verse-number\">19</span> un homme ayant une fracture au pied ou Ã  la mainÂ ;",
+      "deu": "<span class=\"verse-number\">19Â </span>auch keiner, der ein gebrochenes Bein oder einen gebrochenen Arm hat,",
+      "kor": "<span class=\"verse-number\">19</span> ë° ë¶ë¬ì§ ìë ì ë¶ë¬ì§ ìë",
+      "ita": "<span class=\"verse-number\">19</span> o una frattura al piede o alla mano,"
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙÙØ§ Ø£ÙØ­ÙØ¯ÙØ¨Ù ÙÙÙØ§ ÙÙØ²ÙÙÙØ Ø£ÙÙÙ ÙÙÙÙ ÙÙÙ Ø¹ÙÙÙÙÙÙÙ Ø¨ÙÙÙØ§Ø¶ÙØ ÙÙÙØ§ Ø§ÙØ£ÙØ¬ÙØ±ÙØ¨Ù ÙÙÙØ§ Ø§ÙØ£ÙÙÙÙÙÙÙ ÙÙÙØ§ ÙÙØ±ÙØ¶ÙÙØ¶Ù Ø§ÙÙØ®ÙØµÙÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">20</span> ãããããã³ã¨ã<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã«ããã®ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããããã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããã¶ãã®ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããããã®ã¤ã¶ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãªã©ã§ããã",
+      "zhs": "<span class=\"verse-number\">20ã</span>é©¼èçãç®ç¬çãç¼çææ¯ççãé¿ç£çãé¿ç¥çï¼ææ¯æåè¾å­çï¼é½ä¸å¯è¿åæ¥ã",
+      "zht": "<span class=\"verse-number\">20ã</span>é§èçãç®ç¬çãç¼çææ¯ççãé·ç¬çãé·ç¥çï¼ææ¯æå£èå­çï¼é½ä¸å¯è¿åä¾ã",
+      "spa": "<span class=\"verse-number\">20 </span>ni jorobado, ni enano, ni que tenga nube en el ojo, ni que tenga sarna, ni erupciÃ³n ni testÃ­culo daÃ±ado;",
+      "por": "<span class=\"verse-number\">20</span> Ou corcunda, ou anÃ£o, ou que tiver defeito no olho, ou sarna, ou impigens, ou que tiver testÃ­culo mutilado.",
+      "fra": "<span class=\"verse-number\">20</span> un homme bossu ou nain, ayant une tache Ã  lâÅil, la gale, une dartre ou les testicules Ã©crasÃ©s.",
+      "deu": "<span class=\"verse-number\">20Â </span>auch kein Buckliger und kein Zwerg, keiner, der weiÃe Flecken im Auge hat oder der unter KrÃ¤tze oder Flechten leidet oder der entmannt ist.",
+      "kor": "<span class=\"verse-number\">20</span> ë± êµ½ì ìë í¤ ëª» ìë ìë ëì ë°±ë§ì´ ìë ìë ìµì§ì´ë ë²ì§ì´ ìë ìë ê³ í ìí ìë",
+      "ita": "<span class=\"verse-number\">20</span> nÃ© il gobbo, nÃ© il nano, nÃ© colui che ha una macchia nellâocchio, o ha la rogna o un erpete o i testicoli schiacciati."
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØ­ÙØ¸ÙØ±Ù Ø¹ÙÙÙÙ ÙÙÙÙÙ Ø±ÙØ¬ÙÙÙ ÙÙÙÙÙ Ø¹ÙØ§ÙÙØ©Ù ÙÙÙÙ ÙÙØ³ÙÙÙ ÙØ±ÙÙÙÙ Ø§ÙÙÙÙØ§ÙÙÙÙ Ø£ÙÙÙ ÙÙØªÙÙÙØ¯ÙÙÙÙ ÙÙÙÙÙÙØ±ÙÙØ¨Ù Ø°ÙØ¨ÙØ§Ø¦ÙØ­Ù Ø§ÙØ±ÙÙØ¨ÙÙØ",
+      "jpn": "<span class=\"verse-number\">21</span> ãã¹ã¦<ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ã¢ã­ã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã®ãã¡ã<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã«ããã®ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>è¿å¯</rb><rt>ã¡ãã</rt></ruby>ã£ã¦ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ç«ç¥­</rb><rt>ããã</rt></ruby>ããããã¦ã¯ãªããªãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã«ãããããããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>é£ç©</rb><rt>ããããã¤</rt></ruby>ãããããããã«ã<ruby><rb>è¿å¯</rb><rt>ã¡ãã</rt></ruby>ã£ã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">21ã</span>ç¥­å¸<u>äºä¼¦</u>çåè£ï¼å¡ææ®ç¾çï¼é½ä¸å¯è¿åæ¥ï¼å°ç«ç¥­ç®ç»è¶ååï¼ä»ææ®ç¾ï¼ä¸å¯è¿åæ¥ç®ç¥çé£ç©ã",
+      "zht": "<span class=\"verse-number\">21ã</span>ç¥­å¸<u>äºå«</u>çå¾è£ï¼å¡ææ®ç¾çï¼é½ä¸å¯è¿åä¾ï¼å°ç«ç¥­ç»çµ¦è¶åè¯ï¼ä»ææ®ç¾ï¼ä¸å¯è¿åä¾ç»ç¥çé£ç©ã",
+      "spa": "<span class=\"verse-number\">21 </span>ningÃºn hombre de la descendencia del sacerdote AarÃ³n en el cual haya defecto se acercarÃ¡ para ofrecer las ofrendas encendidas para JehovÃ¡. Hay defecto en Ã©l; no se acercarÃ¡ a ofrecer el pan de su Dios.",
+      "por": "<span class=\"verse-number\">21</span> Nenhum homem da semente de AarÃ£o, o sacerdote, em quem houver alguma deformidade, se chegarÃ¡ para oferecer as ofertas queimadas do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>; defeito nele hÃ¡; nÃ£o se chegarÃ¡ para oferecer o pÃ£o do seu Deus.",
+      "fra": "<span class=\"verse-number\">21</span> Tout homme de la descendance du prÃªtre Aaron qui aura un dÃ©faut corporel ne sâapprochera pas pour offrir Ã  lâÃternel les sacrifices consumÃ©s par le feuÂ ; il a un dÃ©faut corporelÂ : il ne sâapprochera pas pour offrir lâaliment de son Dieu.",
+      "deu": "<span class=\"verse-number\">21Â </span>Keiner von den Nachkommen des Priesters Aaron, der ein Gebrechen hat, darf sich mir nahen, um die Feueropfer des <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> darzubringen; hat er ein Gebrechen, so darf er mir nicht nahen, um die Speise seines Gottes darzubringen.",
+      "kor": "<span class=\"verse-number\">21</span> ì ì¬ì¥ ìë¡ ì ìì ì¤ì í ì´ ìë ìë ëì ì¬í¸ìê» íì ë¥¼ ëë¦¬ì§ ëª»í ì§ë ê·¸ë í ì´ ììì¦ ëìì ê·¸ì íëëê» ììì ëë¦¬ì§ ëª»íëëë¼",
+      "ita": "<span class=\"verse-number\">21</span> Nessun uomo della stirpe del sacerdote Aaronne, che abbia qualche deformitÃ , si accosterÃ  per offrire i sacrifici fatti mediante il fuoco allâEterno. Ha un difetto: non si accosti quindi per offrire il pane del suo Dio."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>He shall eat the bread of his God, <span class=\"clarity-word\">both</span> of the most holy, and of the holy.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙÙÙÙÙÙÙÙÙÙ ÙÙØ£ÙÙÙÙÙ ÙÙÙÙ Ø°ÙØ¨ÙØ§Ø¦ÙØ­Ù Ø¥ÙÙÙÙÙÙÙØ Ø§ÙÙÙÙÙÙØ¯ÙÙÙÙØ©Ù ÙÙÙ ÙÙØ¯ÙØ³Ù Ø§ÙØ£ÙÙÙØ¯ÙØ§Ø³Ù ÙÙØ§ÙÙÙÙØ¯ÙØ³Ù.",
+      "jpn": "<span class=\"verse-number\">22</span> <ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>é£ç©</rb><rt>ããããã¤</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã£ã¨</rt></ruby>ã<ruby><rb>è</rb><rt>ãã</rt></ruby>ãªã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>é£</rb><rt>ã</rt></ruby>ã¹ããã¨ãã§ããã",
+      "zhs": "<span class=\"verse-number\">22ã</span>ç¥çé£ç©ï¼æ è®ºæ¯å£çãè³å£çï¼ä»é½å¯ä»¥åã",
+      "zht": "<span class=\"verse-number\">22ã</span>ç¥çé£ç©ï¼ç¡è«æ¯èçãè³èçï¼ä»é½å¯ä»¥åã",
+      "spa": "<span class=\"verse-number\">22 </span>PodrÃ¡ comer del pan de su Dios, de lo muy santo y de las cosas santificadas.",
+      "por": "<span class=\"verse-number\">22</span> O pÃ£o do seu Deus, do lugar santÃ­ssimo e do santuÃ¡rio, poderÃ¡ comer.",
+      "fra": "<span class=\"verse-number\">22</span> Il pourra manger lâaliment de son Dieu, des choses trÃ¨s saintes et des choses saintes.",
+      "deu": "<span class=\"verse-number\">22Â </span>Von der Speise seines Gottes, sowohl von den hochheiligen als auch von den heiligen Gaben, darf er essen;",
+      "kor": "<span class=\"verse-number\">22</span> ê·¸ë ê·¸ì íëëì ììì´ ì§ì±ë¬¼ì´ë ì§ ì±ë¬¼ì´ë ì§ ë¨¹ì ê²ì´ë",
+      "ita": "<span class=\"verse-number\">22</span> Egli potrÃ  mangiare del pane del suo Dio, delle cose santissime e delle cose sante;"
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>Only he shall not go in unto the veil, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> do sanctify them.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ØºÙÙÙØ±Ù Ø£ÙÙÙÙÙÙ ÙÙØ§ ÙÙØ¯ÙØ®ÙÙÙ Ø¥ÙÙÙÙ ÙÙØ§ ÙÙØ±ÙØ§Ø¡Ù Ø§ÙØ­ÙØ¬ÙØ§Ø¨ÙØ ÙÙÙØ§ ÙÙÙÙØªÙØ±ÙØ¨Ù ÙÙÙÙ Ø§ÙÙÙÙØ°ÙØ¨ÙØ­ÙØ ÙØ£ÙÙÙÙ ÙÙÙÙÙ Ø¹ÙÙÙØ¨Ø§ÙØ ÙÙØ¦ÙÙÙØ§ ÙÙØ¯ÙÙÙÙØ³Ù ÙÙÙÙØ¯ÙØ³ÙÙØ ÙØ£ÙÙÙÙÙÙÙ Ø£ÙÙÙØ§ Ø§ÙØ±ÙÙØ¨ÙÙ Ø§ÙÙÙØ°ÙÙ Ø£ÙÙÙØ¯ÙÙØ³ÙÙÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">23</span> ãã ãã<ruby><rb>åå¹</rb><rt>ããã¾ã</rt></ruby>ã«<ruby><rb>è¿</rb><rt>ã¡ã</rt></ruby>ã¥ãã¦ã¯ãªããªããã¾ã<ruby><rb>ç¥­å£</rb><rt>ããã ã</rt></ruby>ã«<ruby><rb>è¿å¯</rb><rt>ã¡ãã</rt></ruby>ã£ã¦ã¯ãªããªãã<ruby><rb>èº«</rb><rt>ã¿</rt></ruby>ã«ãããããããã§ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ãããã®<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã</rt></ruby>ãã¦ã¯ãªããªãããããã¯ããã<ruby><rb>èå¥</rb><rt>ããã¹ã¤</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã§ããããã",
+      "zhs": "<span class=\"verse-number\">23ã</span>ä½ä¸å¯è¿å°å¹å­åï¼ä¹ä¸å¯å°±è¿ååï¼å ä¸ºä»ææ®ç¾ï¼åå¾äºµæ¸æçå£æãææ¯å«ä»æå£çè¶ååã",
+      "zht": "<span class=\"verse-number\">23ã</span>ä½ä¸å¯é²å°å¹å­åï¼ä¹ä¸å¯å°±è¿å£åï¼å çºä»ææ®ç¾ï¼åå¾è¤»çæçèæãææ¯å«ä»æèçè¶åè¯ã",
+      "spa": "<span class=\"verse-number\">23 </span>Pero no entrarÃ¡ mÃ¡s allÃ¡ del velo ni se acercarÃ¡ al altar, por cuanto hay defecto en Ã©l; asÃ­ no profanarÃ¡ mis santuarios, porque yo, JehovÃ¡, soy el que los santifico.",
+      "por": "<span class=\"verse-number\">23</span> PorÃ©m atÃ© o vÃ©u nÃ£o entrarÃ¡, nem se chegarÃ¡ ao altar, porquanto defeito hÃ¡ nele, para que nÃ£o profane os meus santuÃ¡rios; porque eu <span class=\"clarity-word\">sou</span> o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> <span class=\"clarity-word\">que</span> os santifico.",
+      "fra": "<span class=\"verse-number\">23</span> Mais il nâira pas vers le voile et il ne sâapprochera pas de lâautel, car il a un dÃ©faut corporelÂ ; il ne profanera pas mes sanctuaires car je suis lâÃternel qui les sanctifie.",
+      "deu": "<span class=\"verse-number\">23Â </span>doch zum <span class=\"clarity-word\">inneren</span> Vorhang darf er nicht hineingehen und an den Altar nicht treten, weil er ein Gebrechen hat; sonst wÃ¼rde er meine HeiligtÃ¼mer entweihen; denn ich bin der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span>, der sie heiligt.â",
+      "kor": "<span class=\"verse-number\">23</span> íì¥ ìì ë¤ì´ê°ì§ ëª»í  ê²ì´ì ì ë¨ì ê°ê¹ì´ íì§ ëª»í ì§ë ì´ë ê·¸ê° í ì´ ììì´ëë¼ ì´ì ê°ì´ ê·¸ê° ë´ ì±ìë¥¼ ëë½íì§ ëª»í  ê²ì ëë ê·¸ë¤ì ê±°ë£©íê² íë ì¬í¸ììì´ëë¼",
+      "ita": "<span class=\"verse-number\">23</span> ma non si avvicinerÃ  al velo, e non si accosterÃ  allâaltare, perchÃ© ha una deformitÃ . Non profanerÃ  i miei luoghi santi, perchÃ© io sono lâEterno che li santificoââ."
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>And Moses told <span class=\"clarity-word\">it</span> unto Aaron, and to his sons, and unto all the children of Israel.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙÙÙÙÙØ°ÙØ§ Ø£ÙØ¨ÙÙÙØºÙ ÙÙÙØ³ÙÙ ÙÙØ°ÙÙÙ Ø§ÙÙÙÙØµÙØ§ÙÙØ§ ÙÙÙÙØ±ÙÙÙÙ ÙÙØ£ÙØ¨ÙÙÙØ§Ø¦ÙÙÙ ÙÙØ³ÙØ§Ø¦ÙØ±Ù Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">24</span> ã¢ã¼ã»ã¯ãããã¢ã­ã³ã¨ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã<ruby><rb>å</rb><rt>ãã</rt></ruby>ã³ã¤ã¹ã©ã¨ã«ã®ãã¹ã¦ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã«<ruby><rb>å</rb><rt>ã¤</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">24ã</span>äºæ¯ï¼<u>æ©è¥¿</u>æè°<u>äºä¼¦</u>å<u>äºä¼¦</u>çå­å­ï¼å¹¶<u>ä»¥è²å</u>ä¼äººã",
+      "zht": "<span class=\"verse-number\">24ã</span>æ¼æ¯ï¼<u>æ©è¥¿</u>æè«­<u>äºå«</u>å<u>äºå«</u>çå­å­«ï¼ä¸¦<u>ä»¥è²å</u>ç¾äººã",
+      "spa": "<span class=\"verse-number\">24 </span>Y MoisÃ©s hablÃ³ esto a AarÃ³n y a sus hijos y a todos los hijos de Israel.",
+      "por": "<span class=\"verse-number\">24</span> E MoisÃ©s falou <span class=\"clarity-word\">isso</span> a AarÃ£o e a seus filhos, e a todos os filhos de Israel.",
+      "fra": "<span class=\"verse-number\">24</span> Câest ainsi que parla MoÃ¯se Ã  Aaron et Ã  ses fils, et Ã  tous les enfants dâIsraÃ«l.",
+      "deu": "<span class=\"verse-number\">24Â </span>Mose teilte dies dann Aaron und dessen SÃ¶hnen und allen Israeliten mit.",
+      "kor": "<span class=\"verse-number\">24</span> ì´ì ê°ì´ ëª¨ì¸ê° ìë¡ ê³¼ ê·¸ì ìë¤ë¤ê³¼ ì¨ ì´ì¤ë¼ì ìììê² ë§íìëë¼",
+      "ita": "<span class=\"verse-number\">24</span> CosÃ¬ parlÃ² MosÃ¨ ad Aaronne, ai figli di lui e a tutti i figli dâIsraele."
+    }
+  }
+}

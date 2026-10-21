@@ -1,0 +1,724 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "num",
+    "chapter": 1,
+    "headings": {
+      "eng": "Moses and the princes in Israel count from each tribe (except Levi) those males twenty years of age and olderâThey total 603,550âThe Levites are appointed to attend the tabernacle.",
+      "zhs": "<u>æ©è¥¿</u>å<u>ä»¥è²å</u>çé¦é¢æ°ç¹åæ¯æ´¾ï¼<u>å©æª</u>æ¯æ´¾é¤å¤ï¼äºåå²ä»¥ä¸ç·å­çæ°ç®ââæ»æ°ä¸º603,550äººââ<u>å©æª</u>äººå¥æ´¾ç§ç®¡å¸å¹ã",
+      "zht": "<u>æ©è¥¿</u>å<u>ä»¥è²å</u>çé¦é æ¸é»åæ¯æ´¾ï¼<u>å©æª</u>æ¯æ´¾é¤å¤ï¼äºåæ­²ä»¥ä¸ç·å­çæ¸ç®ââç¸½æ¸çº603,550äººââ<u>å©æª</u>äººå¥æ´¾ç§ç®¡å¸³å¹ã",
+      "spa": "MoisÃ©s y los prÃ­ncipes de Israel cuentan a todos los varones de cada tribu mayores de veinte aÃ±os de edad (excepto los de la tribu de LevÃ­)Â â Estos suman seiscientos tres mil quinientos cincuentaÂ â Se asigna a los levitas atender el tabernÃ¡culo.",
+      "por": "MoisÃ©s e os prÃ­ncipes de Israel contam todos os homens de vinte anos ou mais de cada tribo (exceto os da tribo de Levi)Â â Seu total Ã© de seiscentos e trÃªs mil e quinhentos e cinquentaÂ â Os levitas recebem o encargo de cuidar do tabernÃ¡culo.",
+      "fra": "MoÃ¯se et les princes en IsraÃ«l dÃ©nombrent, parmi chaque tribu sauf celle de LÃ©vi, les hommes de vingt ans et plus. Ils en comptent six cent trois mille cinq cent cinquante. Les LÃ©vites ont la garde du tabernacle.",
+      "deu": "Mose und die FÃ¼rsten in Israel mustern aus jedem Stamm (auÃer Levi) alle mÃ¤nnlichen Israeliten ab zwanzig JahrenÂ â Insgesamt belÃ¤uft sich die Zahl auf 603.550Â â Die Leviten werden zum Dienst an der WohnstÃ¤tte bestellt.",
+      "ita": "MosÃ¨ e i capi di Israele contano i maschi dai venti anni in su di ciascuna tribÃ¹ (eccetto Levi)Â â Ammontano a 603.550Â â I Leviti vengono incaricati di occuparsi del tabernacolo."
+    },
+    "intros": {
+      "ara": "ÙØ¹Ø§ÙØ¬ ÙØ°Ø§ Ø§ÙÙØªØ§Ø¨ Ø¨Ø§ÙØªÙØµÙÙØ Ø±Ø­ÙØ© Ø¨ÙÙ Ø¥Ø³Ø±Ø§Ø¦ÙÙ ÙÙ Ø¬Ø¨Ù Ø³ÙÙØ§Ø¡ Ø¥ÙÙ ØªØ®ÙÙ Ø£Ø±Ø¶ ÙÙØ¹Ø§ÙØ ÙØªØ£ÙØ¨ÙÙ ÙØ¯Ø®ÙÙ Ø§ÙØ£Ø±Ø¶ Ø§ÙØªÙ ÙØ¹Ø¯ Ø¨ÙØ§ Ø§ÙØ±Ø¨ Ø¢Ø¨Ø§Ø¡ÙÙØ ÙÙÙÙÙÙ ÙØ¬Ø­ÙØ¯ÙÙØ ÙØ¥Ø«ÙÙÙ ÙØªÙØ±Ø¯ÙÙ Ø¹ÙÙ Ø§ÙÙÙÙ°Ù Ø¹ÙÙØ¨ÙØ§ Ø¨Ø§ÙØªÙÙ ÙØ­Ø±ÙÙØ§ ÙÙ Ø¯Ø®ÙÙ Ø£Ø±Ø¶ Ø§ÙÙÙØ¹Ø¯ ÙØ§ÙØªÙØ§Ù Ø§ÙØ£Ø±Ø¶Ø ÙØ¸ÙÙØ§ ÙØ´Ø±Ø¯ÙÙ ØªØ§Ø¦ÙÙÙ ÙÙ Ø§ÙÙÙØ± Ø·ÙØ§Ù Ø£Ø±Ø¨Ø¹ÙÙ Ø³ÙØ© Ø¨ÙÙØ¬Ø¨ ÙØ¶Ø§Ø¡ Ø§ÙØ±Ø¨. Ø«Ù Ø¨Ø¹Ø¯ Ø£Ø±Ø¨Ø¹ÙÙ Ø³ÙØ© Ø§Ø±ØªØ¯ÙØ§ Ø¥ÙÙ ØªØ®ÙÙ Ø£Ø±Ø¶ ÙÙØ¹Ø§Ù Ø¨Ø¹Ø¯ Ø£Ù ØªÙÙÙÙØ§ Ø¯Ø±Ø³Ø§Ù ÙØ§Ø³ÙØ§Ù ÙÙ Ø§ÙØ·Ø§Ø¹Ø© ÙØ§ÙØ¥Ø°Ø¹Ø§Ù ÙÙØµØ§ÙØ§ Ø§ÙÙÙÙ°Ù ÙÙÙØ§ÙÙÙ. ÙØ¨Ø¹Ø¯ Ø£Ù Ø§ÙØªØµØ±ÙØ§ ÙÙ Ø¨Ø¹Ø¶ Ø§ÙÙØ¹Ø§Ø±Ù Ø´Ø±ÙÙ ÙÙØ± Ø§ÙØ£Ø±Ø¯ÙØ ØªØ£ÙØ¨ÙØ§ ÙØ¯Ø®ÙÙ Ø£Ø±Ø¶ ÙÙØ¹Ø§Ù."
+    }
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>And the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first <span class=\"clarity-word\">day</span> of the second month, in the second year after they were come out of the land of Egypt, saying,",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙÙ Ø§ÙÙÙÙÙÙÙÙ Ø§ÙØ£ÙÙÙÙÙÙ ÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ±Ù Ø§ÙØ«ÙÙØ§ÙÙÙ ÙÙÙÙ Ø§ÙØ³ÙÙÙÙØ©Ù Ø§ÙØ«ÙÙØ§ÙÙÙÙØ©Ù ÙÙØ®ÙØ±ÙÙØ¬Ù Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ÙÙÙÙ Ø¯ÙÙÙØ§Ø±Ù ÙÙØµÙØ±ÙØ Ø£ÙÙÙØ±Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙØ³ÙÙ ÙÙÙ Ø¨ÙØ±ÙÙÙÙÙØ©Ù Ø³ÙÙÙÙØ§Ø¡Ù ÙÙÙ Ø®ÙÙÙÙÙØ©Ù Ø§ÙØ§Ø¬ÙØªÙÙÙØ§Ø¹Ù ÙÙØ§Ø¦ÙÙØ§Ù:",
+      "jpn": "<span class=\"verse-number\">1</span> ã¨ã¸ããã®<ruby><rb>å½</rb><rt>ãã«</rt></ruby>ã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®<ruby><rb>å¹´</rb><rt>ã¨ã</rt></ruby>ã®äº<ruby><rb>æ</rb><rt>ãã¤</rt></ruby>ä¸<ruby><rb>æ¥</rb><rt>ã«ã¡</rt></ruby>ã«ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã·ãã¤ã®<ruby><rb>èé</rb><rt>ããã®</rt></ruby>ã«ããã¦ã<ruby><rb>ä¼è¦</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã§ãã¢ã¼ã»ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">1ã</span><u>ä»¥è²å</u>äººåº<u>åå</u>å°åï¼ç¬¬äºå¹´äºæåä¸æ¥ï¼è¶ååå¨<u>è¥¿å¥</u>çæ·éï¼ä¼å¹ä¸­æè°<u>æ©è¥¿</u>è¯´ï¼",
+      "zht": "<span class=\"verse-number\">1ã</span><u>ä»¥è²å</u>äººåº<u>åå</u>å°å¾ï¼ç¬¬äºå¹´äºæåä¸æ¥ï¼è¶åè¯å¨<u>è¥¿å¥</u>çæ éï¼æå¹ä¸­æè«­<u>æ©è¥¿</u>èªªï¼",
+      "spa": "<span class=\"verse-number\">1 </span>Y hablÃ³ JehovÃ¡ a MoisÃ©s en el desierto de SinaÃ­, en el tabernÃ¡culo de reuniÃ³n, en el dÃ­a primero del mes segundo, en el <span class=\"page-break\" data-page=\"226\"></span>segundo aÃ±o de su salida de la tierra de Egipto, diciendo:",
+      "por": "<span class=\"verse-number\">1</span> Falou mais o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> a MoisÃ©s no deserto de Sinai, na tenda da congregaÃ§Ã£o, no primeiro <span class=\"clarity-word\">dia</span> do mÃªs segundo, no segundo ano da sua saÃ­da da terra do Egito, dizendo:",
+      "fra": "<span class=\"verse-number\">1</span> LâÃternel parla Ã  MoÃ¯se dans le dÃ©sert du SinaÃ¯, dans la tente de la rencontre, le premier jour du deuxiÃ¨me mois, la deuxiÃ¨me annÃ©e aprÃ¨s leur sortie du pays dâÃgypte. Il ditÂ :",
+      "deu": "<span class=\"verse-number\">1Â </span>Hierauf gebot der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> Mose in der WÃ¼ste Sinai im Offenbarungszelt am ersten Tag des zweiten Monats im zweiten Jahr nach ihrem Auszug aus dem Land Ãgypten Folgendes:",
+      "kor": "<span class=\"verse-number\">1</span> ì´ì¤ë¼ì ììì´ ì êµ½ ëìì ëì¨ í ëì§¸ í´ ëì§¸ ë¬ ì²«ì§¸ ë ì ì¬í¸ìê»ì ìë´ ê´ì¼ íë§ìì ëª¨ì¸ìê² ë§ìíì¬ ì´ë¥´ìë",
+      "ita": "<span class=\"verse-number\">1</span> LâEterno parlÃ² ancora a MosÃ¨, nel deserto del Sinai, nella tenda di convegno, il primo giorno del secondo mese, il secondo anno dallâuscita dei figli dâIsraele dal paese dâEgitto, e disse:"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of <span class=\"clarity-word\">their</span> names, every male by their polls;",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>âØ£ÙØ­ÙØµÙÙØ§ ÙÙÙÙÙ Ø°ÙÙÙØ±Ù Ø¨ÙØ§Ø³ÙÙÙÙÙ ÙÙÙÙ Ø´ÙØ¹ÙØ¨Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø­ÙØ³ÙØ¨Ù ÙÙØ¨ÙØ§Ø¦ÙÙÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">2</span> ãããªãããã¯ãã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®<ruby><rb>å¨</rb><rt>ãã</rt></ruby><ruby><rb>ä¼è¡</rb><rt>ããããã</rt></ruby>ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿æ»</rb><rt>ã¡ããã</rt></ruby>ãããã®ãã¹ã¦ã®<ruby><rb>ç·å­</rb><rt>ã ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ããã²ã¨ãã³ã¨ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãã¦ããã®<ruby><rb>ç·æ°</rb><rt>ãããã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ãªããã",
+      "zhs": "<span class=\"verse-number\">2ã</span>ä½ è¦æ<u>ä»¥è²å</u>å¨ä¼ä¼çå®¶å®¤ãå®æãäººåçæ°ç®ï¼è®¡ç®ææçç·ä¸ã",
+      "zht": "<span class=\"verse-number\">2ã</span>ä½ è¦æ<u>ä»¥è²å</u>å¨æç¾çå®¶å®¤ãå®æãäººåçæ¸ç®ï¼è¨ç®ææçç·ä¸ã",
+      "spa": "<span class=\"verse-number\">2 </span>Haced un censo de toda la congregaciÃ³n de los hijos de Israel por sus familias, por las casas de sus padres, con la cuenta de los nombres por cabeza, todos los varones uno por uno.",
+      "por": "<span class=\"verse-number\">2</span> Tomai a soma de toda a congregaÃ§Ã£o dos filhos de Israel, segundo as suas famÃ­lias, segundo a casa de seus pais, de acordo com o nÃºmero dos nomes, de cada homem, cabeÃ§a por cabeÃ§a;",
+      "fra": "<span class=\"verse-number\">2</span> Faites le dÃ©nombrement de toute lâassemblÃ©e des enfants dâIsraÃ«l, selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant un par un les noms de tous les hommes",
+      "deu": "<span class=\"verse-number\">2Â </span>âNehmt die Kopfzahl der gesamten Gemeinde der Israeliten auf nach ihren Sippen und nach ihren Familien, mit AufzÃ¤hlung der einzelnen Namen, alle mÃ¤nnlichen Personen, Kopf fÃ¼r Kopf;",
+      "kor": "<span class=\"verse-number\">2</span> ëí¬ë ì´ì¤ë¼ì ììì ëª¨ë  íì¤ ê° ë¨ìì ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ê·¸ ëªìëë¡ ê³ìí ì§ë",
+      "ita": "<span class=\"verse-number\">2</span> âFate la somma di tutta la comunitÃ  dei figli dâIsraele secondo le loro famiglie, secondo le case dei loro padri, contando i nomi di tutti i maschi, uno per uno,"
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØ¹ÙÙÙÙÙÙÙ Ø£ÙÙÙØªÙ ÙÙÙÙØ±ÙÙÙÙ Ø£ÙÙÙ ØªÙØ­ÙØ³ÙØ¨ÙÙÙÙÙ ÙÙÙÙÙØ§Ù ÙÙÙØ±ÙÙÙÙÙÙÙ ÙÙÙÙ Ø§Ø¨ÙÙÙ Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">3</span> ã¤ã¹ã©ã¨ã«ã®ãã¡ã§ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããããªãã¨ã¢ã­ã³ã¨ã¯ããã®<ruby><rb>é¨é</rb><rt>ã¶ãã</rt></ruby>ã«ãããã£ã¦<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">3ã</span>å¡<u>ä»¥è²å</u>ä¸­ï¼ä»äºåå²ä»¥ä¸ï¼è½åºå»æä»çï¼ä½ å<u>äºä¼¦</u>è¦ç§ä»ä»¬çåéæ°ç¹ã",
+      "zht": "<span class=\"verse-number\">3ã</span>å¡<u>ä»¥è²å</u>ä¸­ï¼å¾äºåæ­²ä»¥ä¸ï¼è½åºå»æä»çï¼ä½ å<u>äºå«</u>è¦ç§ä»åçè»éæ¸é»ã",
+      "spa": "<span class=\"verse-number\">3 </span>De veinte aÃ±os arriba, todos los que pueden salir a la guerra en Israel los contarÃ©is tÃº y AarÃ³n por sus ejÃ©rcitos.",
+      "por": "<span class=\"verse-number\">3</span> Da idade de vinte anos e acima, todos os que saem Ã  guerra em Israel; esses contareis segundo os seus exÃ©rcitos, tu e AarÃ£o.",
+      "fra": "<span class=\"verse-number\">3</span> depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux dâIsraÃ«l en Ã©tat de porter les armesÂ ; vous en ferez le dÃ©nombrement selon leurs divisions, toi et Aaron.",
+      "deu": "<span class=\"verse-number\">3Â </span>von zwanzig Jahren an und darÃ¼ber, alles, was in Israel zum Heeresdienst tauglich ist, die sollt ihr mustern, Schar fÃ¼r Schar, du und Aaron.",
+      "kor": "<span class=\"verse-number\">3</span> ì´ì¤ë¼ì ì¤ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ëª¨ë  ìë¥¼ ëì ìë¡ ì ê·¸ ì§ìë³ë¡ ê³ìíë",
+      "ita": "<span class=\"verse-number\">3</span> dallâetÃ  di venti anni in su, tutti quelli che in Israele possono andare in guerra; tu ed Aaronne ne farete il censimento, secondo le loro schiere."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>And with you there shall be a man of every tribe; every one head of the house of his fathers.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙÙÙÙÙÙÙÙ ÙÙØ¹ÙÙÙÙÙØ§ ÙÙÙÙ ÙÙÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø±ÙØ¬ÙÙÙ ÙÙØªÙÙÙÙÙÙÙ Ø±ÙÙÙØ§Ø³ÙØ©Ù Ø¨ÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">4</span> ã¾ãããã¹ã¦ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã¯ããã®ãã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é·</rb><rt>ã¡ãã</rt></ruby>ãããã®ããã²ã¨ããã¤<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦ãããªãããã¨<ruby><rb>åå</rb><rt>ãããããã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">4ã</span>æ¯æ¯æ´¾ä¸­å¿æä¸äººä½æ¬æ¯æ´¾çæé¿ï¼å¸®å©ä½ ä»¬ã",
+      "zht": "<span class=\"verse-number\">4ã</span>æ¯æ¯æ´¾ä¸­å¿æä¸äººä½æ¬æ¯æ´¾çæé·ï¼å¹«å©ä½ åã",
+      "spa": "<span class=\"verse-number\">4 </span>Y estarÃ¡ con vosotros un hombre de cada tribu, cada uno cabeza de la casa de sus padres.",
+      "por": "<span class=\"verse-number\">4</span> EstarÃ¡ convosco de cada tribo um homem que seja cabeÃ§a da casa de seus pais.",
+      "fra": "<span class=\"verse-number\">4</span> Il y aura avec vous un homme par tribu, chef de la maison de ses pÃ¨res.",
+      "deu": "<span class=\"verse-number\">4Â </span>Dabei soll euch je ein Mann von jedem Stamm Beistand leisten, nÃ¤mlich das Oberhaupt der Familien seines Stammes.",
+      "kor": "<span class=\"verse-number\">4</span> ê° ì§íì ê° ì¡°ìì ê°ë¬¸ì ì°ëë¨¸ë¦¬ í ì¬ëì©ì ëí¬ì í¨ê» íê² íë¼",
+      "ita": "<span class=\"verse-number\">4</span> E con voi ci sarÃ  un uomo per tribÃ¹, il capo della casa dei suoi padri."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span><span class=\"para-mark\">Â¶ </span>And these <span class=\"clarity-word\">are</span> the names of the men that shall stand with you: of <span class=\"clarity-word\">the tribe of</span> Reuben; Elizur the son of Shedeur.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙØ°ÙÙÙ Ø£ÙØ³ÙÙÙØ§Ø¡Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙÙØ°ÙÙÙÙ ÙÙØ´ÙØ±ÙÙÙÙÙÙ ÙÙØ¹ÙÙÙÙÙØ§ Ø¹ÙÙÙÙ Ø§ÙØ¥Ø­ÙØµÙØ§Ø¡Ù: Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø±ÙØ£ÙÙØ¨ÙÙÙÙÙ Ø£ÙÙÙÙØµÙÙØ±Ù Ø¨ÙÙÙ Ø´ÙØ¯ÙÙÙØ¦ÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">5</span> ããªãã¡ãããªãããã«<ruby><rb>åå</rb><rt>ãããããã</rt></ruby>ãã¹ã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã¯ã<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®ã¨ããã§ãããã«ãã³ããã¯ã·ãã¦ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¨ãªãã«ã",
+      "zhs": "<span class=\"verse-number\">5ã</span>ä»ä»¬çåå­ï¼å±<u>åä¾¿</u>çï¼æ<u>ç¤ºä¸¢ç¥</u>çå¿å­<u>ä»¥å©è¿</u>ï¼",
+      "zht": "<span class=\"verse-number\">5ã</span>ä»åçåå­ï¼å±¬<u>åä¾¿</u>çï¼æ<u>ç¤ºä¸ç¥</u>çåå­<u>ä»¥å©è¿</u>ï¼",
+      "spa": "<span class=\"verse-number\">5 </span>Y estos son los nombres de los hombres que estarÃ¡n con vosotros: De la tribu de RubÃ©n, Elisur hijo de Sedeur.",
+      "por": "<span class=\"verse-number\">5</span> Estes, pois, <span class=\"clarity-word\">sÃ£o</span> os nomes dos homens que estarÃ£o convosco: De RÃºben, Elizur, filho de Sedeur;",
+      "fra": "<span class=\"verse-number\">5</span> Voici le nom des hommes qui se tiendront avec vous. Pour RubenÂ : Ãlitsur, fils de SchedÃ©urÂ ;",
+      "deu": "<span class=\"verse-number\">5Â </span>Und dies sind die Namen der MÃ¤nner, die euch dabei zur Seite stehen sollen: fÃ¼r Ruben: Elizur, der Sohn SchedÃ«urs;",
+      "kor": "<span class=\"verse-number\">5</span> ëí¬ì í¨ê» ì¤ ì¬ëë¤ì ì´ë¦ì ì´ë¬íë ë¥´ì°ë²¤ ì§íììë ì¤ë°ì¸ì ìë¤ ìë¦¬ì ì´ì",
+      "ita": "<span class=\"verse-number\">5</span> Questi sono i nomi degli uomini che staranno con voi. Di Ruben: Elizur, figlio di Scedeur;"
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Of Simeon; Shelumiel the son of Zurishaddai.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø´ÙÙÙØ¹ÙÙÙÙ Ø´ÙÙÙÙÙÙÙØ¦ÙÙÙÙ Ø¨ÙÙÙ ØµÙÙØ±ÙÙØ´ÙØ¯ÙÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">6</span> ã·ã¡ãªã³ããã¯ããªã·ã£ãã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã·ã«ãã¨ã«ã",
+      "zhs": "<span class=\"verse-number\">6ã</span>å±<u>è¥¿ç¼</u>çï¼æ<u>èå©æ²ä»£</u>çå¿å­<u>ç¤ºè·¯è</u>ï¼",
+      "zht": "<span class=\"verse-number\">6ã</span>å±¬<u>è¥¿ç·¬</u>çï¼æ<u>èå©æ²ä»£</u>çåå­<u>ç¤ºè·¯è</u>ï¼",
+      "spa": "<span class=\"verse-number\">6 </span>De SimeÃ³n, Selumiel hijo de Zurisadai.",
+      "por": "<span class=\"verse-number\">6</span> De SimeÃ£o, Selumiel, filho de Zurisadai;",
+      "fra": "<span class=\"verse-number\">6</span> pour SimÃ©onÂ : Schelumiel, fils de TsurischaddaÃ¯Â ;",
+      "deu": "<span class=\"verse-number\">6Â </span>fÃ¼r Simeon: SchelumiÃ«l, der Sohn Zurischaddais;",
+      "kor": "<span class=\"verse-number\">6</span> ìë¯ì¨ ì§íììë ìë¦¬ì¿ëì ìë¤ ì¬ë£¨ë¯¸ìì´ì",
+      "ita": "<span class=\"verse-number\">6</span> di Simeone: Scelumiel, figlio di Zurishaddai;"
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>Of Judah; Nahshon the son of Amminadab.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙÙØ°ÙØ§ ÙÙØ­ÙØ´ÙÙÙÙ Ø¨ÙÙÙ Ø¹ÙÙÙÙÙÙÙØ§Ø¯ÙØ§Ø¨Ù.",
+      "jpn": "<span class=\"verse-number\">7</span> ã¦ãããã¯ã¢ããããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã·ã§ã³ã",
+      "zhs": "<span class=\"verse-number\">7ã</span>å±<u>ç¹å¤§</u>çï¼æ<u>äºç±³æ¿è¾¾</u>çå¿å­æ¿é¡ºï¼",
+      "zht": "<span class=\"verse-number\">7ã</span>å±¬<u>ç¶å¤§</u>çï¼æ<u>äºç±³æ¿é</u>çåå­æ¿é ï¼",
+      "spa": "<span class=\"verse-number\">7 </span>De JudÃ¡, NaasÃ³n hijo de Aminadab.",
+      "por": "<span class=\"verse-number\">7</span> De JudÃ¡, Naassom, filho de Aminadabe;",
+      "fra": "<span class=\"verse-number\">7</span> pour JudaÂ ; Nachschon, fils dâAmminadabÂ ;",
+      "deu": "<span class=\"verse-number\">7Â </span>fÃ¼r Juda: Nachschon, der Sohn Amminadabs;",
+      "kor": "<span class=\"verse-number\">7</span> ì ë¤ ì§íììë ìë¯¸ëëµì ìë¤ ëìì´ì",
+      "ita": "<span class=\"verse-number\">7</span> di Giuda: Nashon, figlio di Aminadab;"
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>Of Issachar; Nethaneel the son of Zuar.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙØ³ÙÙØ§ÙÙØ±Ù ÙÙØ«ÙÙÙØ§Ø¦ÙÙÙÙ Ø¨ÙÙÙ ØµÙÙØºÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">8</span> ã¤ããµã«ã«ããã¯ãã¢ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¿ãã¨ã«ã",
+      "zhs": "<span class=\"verse-number\">8ã</span>å±<u>ä»¥è¨è¿¦</u>çï¼æ<u>èæ¼</u>çå¿å­<u>æ¿å¦ä¸</u>ï¼",
+      "zht": "<span class=\"verse-number\">8ã</span>å±¬<u>ä»¥è©è¿¦</u>çï¼æ<u>èæ¼</u>çåå­<u>æ¿å¦æ¥­</u>ï¼",
+      "spa": "<span class=\"verse-number\">8 </span>De Isacar, Natanael hijo de Zuar.",
+      "por": "<span class=\"verse-number\">8</span> De Issacar, Natanael, filho de Zuar;",
+      "fra": "<span class=\"verse-number\">8</span> pour IssacarÂ : Nethaneel, fils de TsuarÂ ;",
+      "deu": "<span class=\"verse-number\">8Â </span>fÃ¼r Issachar: Netanel, der Sohn Zuars;",
+      "kor": "<span class=\"verse-number\">8</span> ìì¬ê° ì§íììë ììì ìë¤ ëë¤ë¬ì´ì",
+      "ita": "<span class=\"verse-number\">8</span> di Issacar: Netaneel, figlio di Zuar;"
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>Of Zebulun; Eliab the son of Helon.",
+      "ara": "<span class=\"verse-number\">Ù© </span>Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø²ÙØ¨ÙÙÙÙÙÙÙ Ø£ÙÙÙÙØ¢Ø¨Ù Ø¨ÙÙÙ Ø­ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">9</span> ã¼ãã«ã³ããã¯ãã­ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¨ãªã¢ãã",
+      "zhs": "<span class=\"verse-number\">9ã</span>å±<u>è¥¿å¸ä¼¦</u>çï¼æ<u>å¸ä¼¦</u>çå¿å­<u>ä»¥å©æ¼</u>ï¼",
+      "zht": "<span class=\"verse-number\">9ã</span>å±¬<u>è¥¿å¸å«</u>çï¼æ<u>å¸å«</u>çåå­<u>ä»¥å©æ¼</u>ï¼",
+      "spa": "<span class=\"verse-number\">9 </span>De ZabulÃ³n, Eliab hijo de HelÃ³n.",
+      "por": "<span class=\"verse-number\">9</span> De Zebulom, Eliabe, filho de Helom;",
+      "fra": "<span class=\"verse-number\">9</span> pour ZabulonÂ ; Ãliab, fils de HÃ©lonÂ ;",
+      "deu": "<span class=\"verse-number\">9Â </span>fÃ¼r Sebulon: Eliab, der Sohn Helons;",
+      "kor": "<span class=\"verse-number\">9</span> ì¤ë¶ë¡  ì§íììë í¬ë¡ ì ìë¤ ìë¦¬ìì´ì",
+      "ita": "<span class=\"verse-number\">9</span> di Zabulon: Eliab, figlio di Elon;"
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø£ÙÙÙØ±ÙØ§ÙÙÙÙ Ø¨ÙÙÙ ÙÙÙØ³ÙÙÙ Ø£ÙÙÙÙØ´ÙÙÙØ¹Ù Ø¨ÙÙÙ Ø¹ÙÙÙÙÙÙÙÙØ¯Ù. Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙØ³ÙÙÙ Ø¨ÙÙÙ ÙÙÙØ³ÙÙÙ Ø¬ÙÙÙÙÙÙØ¦ÙÙÙÙ Ø¨ÙÙÙ ÙÙØ¯ÙÙÙØµÙÙØ±Ù.",
+      "jpn": "<span class=\"verse-number\">10</span> ã¨ã»ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ã®ãã¡ãã¨ãã©ã¤ã ããã¯ã¢ãããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¨ãªã·ã£ããããã»ããã¯ãããã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¬ããªã¨ã«ã",
+      "zhs": "<span class=\"verse-number\">10ã</span><u>çº¦ç</u>å­å­ï¼å±<u>ä»¥æ³è²</u>çï¼æ<u>äºç±³å¿½</u>çå¿å­<u>ä»¥å©æ²ç</u>ï¼å±<u>çæ¿è¥¿</u>çï¼æ<u>æ¯å¤§è¿</u>çå¿å­<u>è¿¦çå</u>ï¼",
+      "zht": "<span class=\"verse-number\">10ã</span><u>ç´ç</u>å­å­«ï¼å±¬<u>ä»¥æ³è®</u>çï¼æ<u>äºç±³å¿½</u>çåå­<u>ä»¥å©æ²çª</u>ï¼å±¬<u>çªæ¿è¥¿</u>çï¼æ<u>æ¯å¤§è¿</u>çåå­<u>è¿¦çªå</u>ï¼",
+      "spa": "<span class=\"verse-number\">10 </span>De los hijos de JosÃ©: de EfraÃ­n, Elisama hijo de Amiud; de ManasÃ©s, Gamaliel hijo de Pedasur.",
+      "por": "<span class=\"verse-number\">10</span> Dos filhos de JosÃ©: De Efraim, Elisama, filho de AmiÃºde; de ManassÃ©s, Gamaliel, filho de Pedazur;",
+      "fra": "<span class=\"verse-number\">10</span> pour les fils de Joseph, pour ÃphraÃ¯mÂ : Ãlischama, fils dâAmmihudÂ ; pour ManassÃ©Â ; Gamliel, fils de PedahtsurÂ ;",
+      "deu": "<span class=\"verse-number\">10Â </span>fÃ¼r die SÃ¶hne Josefs, fÃ¼r Efraim: Elischama, der Sohn Ammihuds; fÃ¼r Manasse: GamliÃ«l, der Sohn Pedazurs;",
+      "kor": "<span class=\"verse-number\">10</span> ììì ììë¤ ì¤ ìë¸ë¼ì ì§íììë ìë¯¸íì ìë¤ ìë¦¬ì¬ë§ì ë¯ë«ì¸ ì§íììë ë¸ë¤ì ì ìë¤ ê°ë§ë¦¬ìì´ì",
+      "ita": "<span class=\"verse-number\">10</span> dei figli di Giuseppe: di Efraim: Elishama, figlio di Ammiud; di Manasse: Gamaliel, figlio di Pedazur;"
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>Of Benjamin; Abidan the son of Gideoni.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø¨ÙÙÙÙÙØ§ÙÙÙÙÙ Ø£ÙØ¨ÙÙØ¯ÙÙÙ Ø¨ÙÙÙ Ø¬ÙØ¯ÙØ¹ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">11</span> ããã¤ãã³ããã¯ã®ããªãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¢ããã³ã",
+      "zhs": "<span class=\"verse-number\">11ã</span>å±<u>ä¾¿éæ¯</u>çï¼æ<u>åºå¤å°¼</u>çå¿å­<u>äºæ¯ä½</u>ï¼",
+      "zht": "<span class=\"verse-number\">11ã</span>å±¬<u>ä¾¿éæ«</u>çï¼æ<u>åºå¤å°¼</u>çåå­<u>äºæ¯ä½</u>ï¼",
+      "spa": "<span class=\"verse-number\">11 </span>De BenjamÃ­n, AbidÃ¡n hijo de Gedeoni.",
+      "por": "<span class=\"verse-number\">11</span> De Benjamim, AbidÃ£, filho de Gideoni;",
+      "fra": "<span class=\"verse-number\">11</span> pour BenjaminÂ : Abidan, fils de GuideoniÂ ;",
+      "deu": "<span class=\"verse-number\">11Â </span>fÃ¼r Benjamin: Abidan, der Sohn Gidonis;",
+      "kor": "<span class=\"verse-number\">11</span> ë² ëë¯¼ ì§íììë ê¸°ëì¤ëì ìë¤ ìë¹ë¨ì´ì",
+      "ita": "<span class=\"verse-number\">11</span> di Beniamino: Abidan, figlio di Ghideoni;"
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>Of Dan; Ahiezer the son of Ammishaddai.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø¯ÙØ§ÙÙ Ø£ÙØ®ÙÙØ¹ÙØ²ÙØ±Ù Ø¨ÙÙÙ Ø¹ÙÙÙÙÙØ´ÙØ¯ÙÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">12</span> ãã³ããã¯ã¢ãã·ã£ãã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¢ãã¨ã¼ã«ã",
+      "zhs": "<span class=\"verse-number\">12ã</span>å±<u>ä½</u>çï¼æ<u>äºç±³æ²ä»£</u>çå¿å­<u>äºå¸ä»¥è°¢</u>ï¼",
+      "zht": "<span class=\"verse-number\">12ã</span>å±¬<u>ä½</u>çï¼æ<u>äºç±³æ²ä»£</u>çåå­<u>äºå¸ä»¥è¬</u>ï¼",
+      "spa": "<span class=\"verse-number\">12 </span>De Dan, Ahiezer hijo de Amisadai.",
+      "por": "<span class=\"verse-number\">12</span> De DÃ£, Aieser, filho de Amisadai;",
+      "fra": "<span class=\"verse-number\">12</span> pour DanÂ : AhiÃ©zer, fils dâAmmischaddaÃ¯Â ;",
+      "deu": "<span class=\"verse-number\">12Â </span>fÃ¼r Dan: AhiÃ«ser, der Sohn Ammischaddais;",
+      "kor": "<span class=\"verse-number\">12</span> ë¨ ì§íììë ìë¯¸ì¿ëì ìë¤ ìíììì´ì",
+      "ita": "<span class=\"verse-number\">12</span> di Dan: Aiezer, figlio di Ammishaddai;"
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>Of Asher; Pagiel the son of Ocran.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø£ÙØ´ÙÙØ±Ù ÙÙØ¬ÙØ¹ÙÙØ¦ÙÙÙÙ Ø¨ÙÙÙ Ø¹ÙÙÙØ±ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">13</span> ã¢ã»ã«ããã¯ãªã¯ã©ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ã¨ã«ã",
+      "zhs": "<span class=\"verse-number\">13ã</span>å±<u>äºè®¾</u>çï¼æ<u>ä¿å°</u>çå¿å­<u>å¸ç»</u>ï¼",
+      "zht": "<span class=\"verse-number\">13ã</span>å±¬<u>äºè¨­</u>çï¼æ<u>ä¿è­</u>çåå­<u>å¸çµ</u>ï¼",
+      "spa": "<span class=\"verse-number\">13 </span>De Aser, Pagiel hijo de OcrÃ¡n.",
+      "por": "<span class=\"verse-number\">13</span> De Aser, Pagiel, filho de OcrÃ£;",
+      "fra": "<span class=\"verse-number\">13</span> pour AserÂ : Paguiel, fils dâOcranÂ ;",
+      "deu": "<span class=\"verse-number\">13Â </span>fÃ¼r Ascher: PagiÃ«l, der Sohn Ochrans;",
+      "kor": "<span class=\"verse-number\">13</span> ìì ì§íììë ì¤ê·¸ëì ìë¤ ë°ê¸°ìì´ì",
+      "ita": "<span class=\"verse-number\">13</span> di Ascer: Paghiel, figlio di Ocran;"
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>Of Gad; Eliasaph the son of Deuel.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø¬ÙØ§Ø¯Ù Ø£ÙÙÙÙÙØ§Ø³ÙØ§ÙÙ Ø¨ÙÙÙ Ø¯ÙØ¹ÙÙØ¦ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">14</span> ã¬ãããã¯ãã¦ã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¨ãªã¢ãµãã",
+      "zhs": "<span class=\"verse-number\">14ã</span>å±<u>è¿¦å¾</u>çï¼æ<u>ä¸¢ç¥</u>çå¿å­<u>ä»¥å©éè¨</u>ï¼",
+      "zht": "<span class=\"verse-number\">14ã</span>å±¬<u>è¿¦å¾</u>çï¼æ<u>ä¸ç¥</u>çåå­<u>ä»¥å©éè©</u>ï¼",
+      "spa": "<span class=\"verse-number\">14 </span>De Gad, Eliasaf hijo de Deuel.",
+      "por": "<span class=\"verse-number\">14</span> De Gade, Eliasafe, filho de Deuel;",
+      "fra": "<span class=\"verse-number\">14</span> pour GadÂ : Ãliasaph, fils de DÃ©uelÂ ;",
+      "deu": "<span class=\"verse-number\">14Â </span>fÃ¼r Gad: Eljasaf, der Sohn DeguÃ«ls;",
+      "kor": "<span class=\"verse-number\">14</span> ê° ì§íììë ëì°ìì ìë¤ ìë¦¬ìì½ì´ì",
+      "ita": "<span class=\"verse-number\">14</span> di Gad: Eliasaf, figlio di Deuel;"
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>Of Naphtali; Ahira the son of Enan.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>Ø¹ÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙØªÙØ§ÙÙÙ Ø£ÙØ®ÙÙØ±ÙØ¹Ù Ø¨ÙÙÙ Ø¹ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">15</span> ããã¿ãªããã¯ã¨ãã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¢ãã©ãã",
+      "zhs": "<span class=\"verse-number\">15ã</span>å±<u>æ¿å¼ä»å©</u>çï¼æ<u>ä»¥å</u>çå¿å­<u>äºå¸æ</u>ã",
+      "zht": "<span class=\"verse-number\">15ã</span>å±¬<u>æ¿å¼ä»å©</u>çï¼æ<u>ä»¥å</u>çåå­<u>äºå¸æ</u>ã",
+      "spa": "<span class=\"verse-number\">15 </span>De NeftalÃ­, Ahira hijo de EnÃ¡n.",
+      "por": "<span class=\"verse-number\">15</span> De Naftali, AÃ­ra, filho de EnÃ£.",
+      "fra": "<span class=\"verse-number\">15</span> pour NephthaliÂ : Ahira, fils dâÃnan.",
+      "deu": "<span class=\"verse-number\">15Â </span>fÃ¼r Naftali: Ahira, der Sohn Enans.â",
+      "kor": "<span class=\"verse-number\">15</span> ë©ë¬ë¦¬ ì§íììë ìëì ìë¤ ìíë¼ì´ëë¼ íìë",
+      "ita": "<span class=\"verse-number\">15</span> di Neftali: Aira, figlio di Enanâ."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>These <span class=\"clarity-word\">were</span> the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙØ¤ÙÙØ§Ø¡Ù ÙÙÙÙ Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙÙÙÙÙØªÙØ®ÙØ¨ÙÙÙÙ ÙÙÙÙ Ø¨ÙÙÙÙÙ Ø§ÙØ´ÙÙØ¹ÙØ¨ÙØ Ø±ÙØ¤ÙØ³ÙØ§Ø¡Ù Ø£ÙØ³ÙØ¨ÙØ§Ø·ÙÙÙÙÙ ÙÙØ´ÙÙÙÙØ®Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">16</span> ãããã¯<ruby><rb>ä¼è¡</rb><rt>ããããã</rt></ruby>ã®ãã¡ãã<ruby><rb>é¸</rb><rt>ãã</rt></ruby>ã³<ruby><rb>åº</rb><rt>ã </rt></ruby>ããã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã§ããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ã¤ãããã¡ãã¾ãã¤ã¹ã©ã¨ã«ã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã®ããããã¡ã§ããã",
+      "zhs": "<span class=\"verse-number\">16ã</span>è¿é½æ¯ä»ä¼ä¸­éå¬çï¼åä½æ¬æ¯æ´¾çé¦é¢ï¼é½æ¯<u>ä»¥è²å</u>åä¸­çç»é¢ã",
+      "zht": "<span class=\"verse-number\">16ã</span>éé½æ¯å¾æä¸­é¸å¬çï¼åä½æ¬æ¯æ´¾çé¦é ï¼é½æ¯<u>ä»¥è²å</u>è»ä¸­ççµ±é ã",
+      "spa": "<span class=\"verse-number\">16 </span>Estos fueron los nombrados de la congregaciÃ³n, prÃ­ncipes de las tribus de sus padres, capitanes de los millares de Israel.",
+      "por": "<span class=\"verse-number\">16</span> Esses <span class=\"clarity-word\">foram</span> os chamados da congregaÃ§Ã£o, os prÃ­ncipes das tribos de seus pais, os cabeÃ§as dos milhares de Israel.",
+      "fra": "<span class=\"verse-number\">16</span> Tels sont ceux qui furent convoquÃ©s Ã  lâassemblÃ©e, princes des tribus de leurs pÃ¨res, chefs des milliers dâIsraÃ«l.",
+      "deu": "<span class=\"verse-number\">16Â </span>Dies waren die aus der Gemeinde Berufenen, die FÃ¼rsten ihrer vÃ¤terlichen StÃ¤mme, die HÃ¤upter der Tausendschaften Israels.",
+      "kor": "<span class=\"verse-number\">16</span> ê·¸ë¤ì íì¤ìì ë¶ë¦ì ë°ì ìì ê·¸ ì¡°ì ì§íì ì§íê´ì¼ë¡ì ì´ì¤ë¼ì ì¢ì¡±ë¤ì ì°ëë¨¸ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">16</span> Questi furono i nominati della comunitÃ , i capi delle tribÃ¹ dei loro padri, i capitani delle migliaia dâIsraele."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span><span class=\"para-mark\">Â¶ </span>And Moses and Aaron took these men which are expressed by <span class=\"clarity-word\">their</span> names:",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØ£ÙØ®ÙØ°Ù ÙÙÙØ³ÙÙ ÙÙÙÙØ±ÙÙÙÙ ÙÙØ¤ÙÙØ§Ø¡Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙÙØ°ÙÙÙÙ ØªÙØ¹ÙÙÙÙÙÙÙØ§ Ø¨ÙØ£ÙØ³ÙÙÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">17</span> ãããã¦ãã¢ã¼ã»ã¨ã¢ã­ã³ããããã«<ruby><rb>å</rb><rt>ãª</rt></ruby>ã<ruby><rb>æ²</rb><rt>ãã</rt></ruby>ãã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã<ruby><rb>å¼</rb><rt>ã²</rt></ruby>ã<ruby><rb>é£</rb><rt>ã¤</rt></ruby>ãã¦ã",
+      "zhs": "<span class=\"verse-number\">17ã</span>äºæ¯<u>æ©è¥¿</u>ã<u>äºä¼¦</u>å¸¦çè¿äºæåæå®çäººï¼",
+      "zht": "<span class=\"verse-number\">17ã</span>æ¼æ¯<u>æ©è¥¿</u>ã<u>äºå«</u>å¸¶èéäºæåæå®çäººï¼",
+      "spa": "<span class=\"verse-number\">17 </span>Tomaron, pues, MoisÃ©s y AarÃ³n a estos hombres que fueron designados por sus nombres,",
+      "por": "<span class=\"verse-number\">17</span> EntÃ£o tomaram MoisÃ©s e AarÃ£o esses homens, que foram declarados pelos <span class=\"clarity-word\">seus</span> nomes,",
+      "fra": "<span class=\"verse-number\">17</span> MoÃ¯se et Aaron prirent ces hommes qui avaient Ã©tÃ© dÃ©signÃ©s par leur nom",
+      "deu": "<span class=\"verse-number\">17Â </span>Hierauf lieÃen Mose und Aaron diese MÃ¤nner, die ihnen mit Namen bezeichnet worden waren, zu sich kommen",
+      "kor": "<span class=\"verse-number\">17</span> ëª¨ì¸ì ìë¡ ì´ ì§ëªë ì´ ì¬ëë¤ì ë°ë¦¬ê³",
+      "ita": "<span class=\"verse-number\">17</span> MosÃ¨ ed Aaronne presero dunque questi uomini che erano stati designati per nome,"
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>And they assembled all the congregation together on the first <span class=\"clarity-word\">day</span> of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙØ¬ÙÙÙØ¹ÙØ§ ÙÙÙÙÙ Ø§ÙØ´ÙÙØ¹ÙØ¨Ù ÙÙÙ Ø£ÙÙÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ±Ù Ø§ÙØ«ÙÙØ§ÙÙÙ. ÙØ§ÙÙØªÙØ³ÙØ¨Ù ÙÙÙÙÙ Ø°ÙÙÙØ±Ù Ø¨ÙØ§Ø³ÙÙÙÙÙ ÙÙÙÙ Ø§Ø¨ÙÙÙ Ø¹ÙØ´ÙØ±ÙÙÙÙ ÙÙÙÙØ§ ÙÙÙÙÙÙ Ø¥ÙÙÙÙ Ø³ÙØ¨ÙØ·ÙÙÙ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙÙØ±ÙØªÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">18</span> äº<ruby><rb>æ</rb><rt>ãã¤</rt></ruby>ä¸<ruby><rb>æ¥</rb><rt>ã«ã¡</rt></ruby>ã«<ruby><rb>ä¼è¡</rb><rt>ããããã</rt></ruby>ããã¨ãã¨ã<ruby><rb>é</rb><rt>ãã¤</rt></ruby>ããã®ã§ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ãã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ããããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã«ãããã£ã¦äºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®ãã®ããã²ã¨ãã³ã¨ã<ruby><rb>ç»é²</rb><rt>ã¨ããã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">18ã</span>å½äºæåä¸æ¥æèå¨ä¼ä¼ãä¼ä¼å°±ç§ä»ä»¬çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸çï¼é½è¿°è¯´èªå·±çå®¶è°±ã",
+      "zht": "<span class=\"verse-number\">18ã</span>ç¶äºæåä¸æ¥æèå¨æç¾ãæç¾å°±ç§ä»åçå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸çï¼é½è¿°èªªèªå·±çå®¶è­ã",
+      "spa": "<span class=\"verse-number\">18 </span>y juntaron a toda la congregaciÃ³n en el dÃ­a primero del mes segundo, y fueron registrados por sus linajes, por las casas de sus padres, segÃºn la cuenta de los nombres por cabeza, de veinte aÃ±os arriba,",
+      "por": "<span class=\"verse-number\">18</span> E ajuntaram toda a congregaÃ§Ã£o no primeiro dia do mÃªs segundo, e declararam a sua descendÃªncia segundo as suas famÃ­lias, segundo a casa de seus pais, <span class=\"page-break\" data-page=\"227\"></span>pelo nÃºmero dos nomes dos de vinte anos e acima, cabeÃ§a por cabeÃ§a;",
+      "fra": "<span class=\"verse-number\">18</span> et ils convoquÃ¨rent toute lâassemblÃ©e le premier jour du deuxiÃ¨me mois. On les enregistra selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant un par un les noms depuis lâÃ¢ge de vingt ans et au-dessus.",
+      "deu": "<span class=\"verse-number\">18Â </span>und versammelten dann die ganze Gemeinde am ersten Tag des zweiten Monats. Da lieÃen sie sich in die Geburtsverzeichnisse eintragen nach ihren Sippen und nach ihren Familien, mit AufzÃ¤hlung der einzelnen Namen, von zwanzig Jahren an und darÃ¼ber, Kopf fÃ¼r Kopf;",
+      "kor": "<span class=\"verse-number\">18</span> ëì§¸ ë¬ ì²«ì§¸ ë ì ì¨ íì¤ì ëª¨ì¼ë ê·¸ë¤ì´ ê° ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¸ ë¨ìì ì´ë¦ì ìê¸° ê³íµë³ë¡ ì ê³ íë§¤",
+      "ita": "<span class=\"verse-number\">18</span> e convocarono tutta la comunitÃ , il primo giorno del secondo mese; e il popolo fu registrato secondo le famiglie, secondo le case dei padri, contando il numero delle persone dai venti anni in su, uno per uno."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>As the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> commanded Moses, so he numbered them in the wilderness of Sinai.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙÙÙØ§ Ø£ÙÙÙØ±Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙØ³ÙÙ. ÙÙØ£ÙØ­ÙØµÙØ§ÙÙÙÙ ÙÙÙ ØµÙØ­ÙØ±ÙØ§Ø¡Ù Ø³ÙÙÙÙØ§Ø¡Ù.",
+      "jpn": "<span class=\"verse-number\">19</span> <ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã<ruby><rb>å½</rb><rt>ãã</rt></ruby>ããããããã«ãã¢ã¼ã»ã¯ã·ãã¤ã®<ruby><rb>èé</rb><rt>ããã®</rt></ruby>ã§<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">19ã</span>è¶ååææ ·å©å<u>æ©è¥¿</u>ï¼ä»å°±ææ ·å¨<u>è¥¿å¥</u>çæ·éæ°ç¹ä»ä»¬ã",
+      "zht": "<span class=\"verse-number\">19ã</span>è¶åè¯ææ¨£å©å<u>æ©è¥¿</u>ï¼ä»å°±ææ¨£å¨<u>è¥¿å¥</u>çæ éæ¸é»ä»åã",
+      "spa": "<span class=\"verse-number\">19 </span>como JehovÃ¡ lo habÃ­a mandado a MoisÃ©s; y los contÃ³ en el desierto de SinaÃ­.",
+      "por": "<span class=\"verse-number\">19</span> Como o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> ordenara a MoisÃ©s, assim os contou no deserto de Sinai.",
+      "fra": "<span class=\"verse-number\">19</span> MoÃ¯se en fit le dÃ©nombrement dans le dÃ©sert du SinaÃ¯, comme lâÃternel le lui avait ordonnÃ©.",
+      "deu": "<span class=\"verse-number\">19Â </span>wie der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> Mose geboten hatte, so musterte er sie in der WÃ¼ste Sinai.",
+      "kor": "<span class=\"verse-number\">19</span> ì¬í¸ìê»ì ëª¨ì¸ìê² ëªë ¹íì  ëë¡ ê·¸ê° ìë´ ê´ì¼ìì ê·¸ë¤ì ê³ìíìëë¼",
+      "ita": "<span class=\"verse-number\">19</span> Come lâEterno gli aveva ordinato, MosÃ¨ ne fece il censimento nel deserto del Sinai."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>And the children of Reuben, Israelâs eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ Ø±ÙØ£ÙÙØ¨ÙÙÙÙÙ Ø¨ÙÙÙØ±Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">20</span> ããªãã¡ãã¤ã¹ã©ã¨ã«ã®<ruby><rb>é·å­</rb><rt>ã¡ããã</rt></ruby>ã«ãã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>ç·å­</rb><rt>ã ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ããã²ã¨ãã³ã¨ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">20 </span>Y los hijos de RubÃ©n, primogÃ©nito de Israel, por sus generaciones, por sus familias, por las casas de sus padres, conforme a la cuenta de los nombres por cabeza, todos los varones de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">20</span> Foram, pois, os filhos de RÃºben, o primogÃªnito de Israel; as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa de seus pais, pelo nÃºmero dos nomes, cabeÃ§a por cabeÃ§a, todo homem de vinte anos e acima, todos os que podiam sair Ã  guerra;",
+      "fra": "<span class=\"verse-number\">20</span> On enregistra les fils de Ruben, premier-nÃ© dâIsraÃ«l, selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant un par un les noms de tous les hommes depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">20Â </span>Es beliefen sich aber die Nachkommen Rubens, des erstgeborenen Sohnes Israels, ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, nach der Zahl der einzelnen Namen, Kopf fÃ¼r Kopf, alle mÃ¤nnlichen Personen von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">20</span> ì´ì¤ë¼ìì ì¥ì ë¥´ì°ë²¤ì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ê° ë¨ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">20</span> Figli di Ruben, primogenito dâIsraele, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, contando i nomi di tutti i maschi, uno per uno, dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Reuben, <span class=\"clarity-word\">were</span> forty and six thousand and five hundred.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø±ÙØ£ÙÙØ¨ÙÙÙÙÙ Ø³ÙØªÙÙØ©Ù ÙÙØ£ÙØ±ÙØ¨ÙØ¹ÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙØ®ÙÙØ³Ù ÙÙØ¦ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">21</span> ã«ãã³ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯åä¸å­åäºç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">21 </span>los contados de ellos, de la tribu de RubÃ©n, fueron cuarenta y seis mil quinientos.",
+      "por": "<span class=\"verse-number\">21</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de RÃºben, quarenta e seis mil e quinhentos.",
+      "fra": "<span class=\"verse-number\">21</span> les hommes de la tribu de Ruben dont on fit le dÃ©nombrement furent quarante-six mille cinq cents.",
+      "deu": "<span class=\"verse-number\">21Â </span>so viele ihrer vom Stamm Ruben gemustert wurden, auf 46.500.",
+      "kor": "<span class=\"verse-number\">21</span> ë¥´ì°ë²¤ ì§íìì ê³ìë ìë ì¬ë§ ì¡ì²ì¤ë°± ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">21</span> il censimento della tribÃ¹ di Ruben dette la cifra di quarantaseimila cinquecento."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span><span class=\"para-mark\">Â¶ </span>Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ Ø´ÙÙÙØ¹ÙÙÙÙØ ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">22</span> ã¾ãã·ã¡ãªã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>ç·å­</rb><rt>ã ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ããã²ã¨ãã³ã¨ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">22 </span>De los hijos de SimeÃ³n, por sus generaciones, por sus familias, por las casas de sus padres, los contados de ellos conforme a la cuenta de los nombres por cabeza, todos los varones de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">22</span> Dos filhos de SimeÃ£o, as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa dos seus pais; os seus contados, pelo nÃºmero dos nomes, cabeÃ§a por cabeÃ§a, todo homem de vinte anos e acima, todos os que podiam sair Ã  guerra,",
+      "fra": "<span class=\"verse-number\">22</span> On enregistra les fils de SimÃ©on selon leurs familles, selon les maisons de leurs pÃ¨resÂ ; on en fit le dÃ©nombrement, en comptant un par un les noms de tous les hommes depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">22Â </span>Bei den Nachkommen Simeons beliefen sich ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, [seine Gemusterten] nach der Zahl der einzelnen Namen, Kopf fÃ¼r Kopf, alle mÃ¤nnlichen Personen von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">22</span> ìë¯ì¨ì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ê° ë¨ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">22</span> Figli di Simeone, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, registrati contando i nomi di tutti i maschi, uno per uno, dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Simeon, <span class=\"clarity-word\">were</span> fifty and nine thousand and three hundred.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø´ÙÙÙØ¹ÙÙÙÙ ØªÙØ³ÙØ¹ÙØ©Ù ÙÙØ®ÙÙÙØ³ÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙØ«ÙÙØ§Ø«Ù ÙÙØ¦ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">23</span> ã·ã¡ãªã³ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯äºä¸ä¹åä¸ç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">23 </span>los contados de ellos, de la tribu de SimeÃ³n, fueron cincuenta y nueve mil trescientos.",
+      "por": "<span class=\"verse-number\">23</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de SimeÃ£o, cinquenta e nove mil e trezentos.",
+      "fra": "<span class=\"verse-number\">23</span> les hommes de la tribu de SimÃ©on dont on fit le dÃ©nombrement furent cinquante-neuf mille trois cents.",
+      "deu": "<span class=\"verse-number\">23Â </span>so viele ihrer vom Stamm Simeon gemustert wurden, auf 59.300.",
+      "kor": "<span class=\"verse-number\">23</span> ìë¯ì¨ ì§íìì ê³ìë ìë ì¤ë§ êµ¬ì²ì¼ë°± ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">23</span> il censimento della tribÃ¹ di Simeone dette la cifra di cinquantanovemila trecento."
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span><span class=\"para-mark\">Â¶ </span>Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ Ø¬ÙØ§Ø¯ÙØ ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">24</span> ã¾ãã¬ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">24 </span>De los hijos de Gad, por sus generaciones, por sus familias, por las casas de sus padres, <span class=\"page-break\" data-page=\"227\"></span>conforme a la cuenta de los nombres, de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">24</span> Dos filhos de Gade, as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa de seus pais, pelo nÃºmero dos nomes <span class=\"clarity-word\">dos</span> de vinte anos e acima, todos os que podiam sair Ã  guerra,",
+      "fra": "<span class=\"verse-number\">24</span> On enregistra les fils de Gad selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant les noms depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">24Â </span>Bei den Nachkommen Gads beliefen sich ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, nach der Zahl der einzelnen Namen, von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">24</span> ê°ì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">24</span> Figli di Gad, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, contando i nomi dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Gad, <span class=\"clarity-word\">were</span> forty and five thousand six hundred and fifty.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø¬ÙØ§Ø¯Ù Ø®ÙÙÙØ³ÙØ©Ù ÙÙØ£ÙØ±ÙØ¨ÙØ¹ÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙØ³ÙØªÙÙ ÙÙØ¦ÙØ©Ù ÙÙØ®ÙÙÙØ³ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">25</span> ã¬ãã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯åä¸äºåå­ç¾äºå<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">25 </span>los contados de ellos, de la tribu de Gad, fueron cuarenta y cinco mil seiscientos cincuenta.",
+      "por": "<span class=\"verse-number\">25</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de Gade, quarenta e cinco mil e seiscentos e cinquenta.",
+      "fra": "<span class=\"verse-number\">25</span> les hommes de la tribu de Gad dont on fit le dÃ©nombrement furent quarante-cinq mille six cent cinquante.",
+      "deu": "<span class=\"verse-number\">25Â </span>so viele ihrer vom Stamm Gad gemustert wurden, auf 45.650.",
+      "kor": "<span class=\"verse-number\">25</span> ê° ì§íìì ê³ìë ìë ì¬ë§ ì¤ì²ì¡ë°±ì¤ì­ ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">25</span> il censimento della tribÃ¹ di Gad dette la cifra di quarantacinquemila seicentocinquanta."
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span><span class=\"para-mark\">Â¶ </span>Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ ÙÙÙÙÙØ°ÙØ§Ø ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">26</span> ã¦ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">26 </span>De los hijos de JudÃ¡, por sus generaciones, por sus familias, por las casas de sus padres, conforme a la cuenta de los nombres, de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">26</span> Dos filhos de JudÃ¡, as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa de seus pais; pelo nÃºmero dos nomes <span class=\"clarity-word\">dos</span> de vinte anos e acima, todos os que podiam sair Ã  guerra,",
+      "fra": "<span class=\"verse-number\">26</span> On enregistra les fils de Juda selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant les noms depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">26Â </span>Bei den Nachkommen Judas beliefen sich ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, nach der Zahl der einzelnen Namen, von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">26</span> ì ë¤ì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">26</span> Figli di Giuda, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, contando i nomi dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Judah, <span class=\"clarity-word\">were</span> threescore and fourteen thousand and six hundred.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙÙØ°ÙØ§ Ø£ÙØ±ÙØ¨ÙØ¹ÙØ©Ù ÙÙØ³ÙØ¨ÙØ¹ÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙØ³ÙØªÙÙ ÙÙØ¦ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">27</span> ã¦ãã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯ä¸ä¸ååå­ç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">27 </span>los contados de ellos, de la tribu de JudÃ¡, fueron setenta y cuatro mil seiscientos.",
+      "por": "<span class=\"verse-number\">27</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de JudÃ¡, setenta e quatro mil e seiscentos.",
+      "fra": "<span class=\"verse-number\">27</span> les hommes de la tribu de Juda dont on fit le dÃ©nombrement furent soixante-quatorze mille six cents.",
+      "deu": "<span class=\"verse-number\">27Â </span>so viele ihrer vom Stamm Juda gemustert wurden, auf 74.600.",
+      "kor": "<span class=\"verse-number\">27</span> ì ë¤ ì§íìì ê³ìë ìë ì¹ ë§ ì¬ì²ì¡ë°± ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">27</span> il censimento della tribÃ¹ di Giuda dette la cifra di settantaquattromila seicento."
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span><span class=\"para-mark\">Â¶ </span>Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ ÙÙØ³ÙÙØ§ÙÙØ±ÙØ ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">28</span> ã¤ããµã«ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">28 </span>De los hijos de Isacar, por sus generaciones, por sus familias, por las casas de sus padres, conforme a la cuenta de los nombres, de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">28</span> Dos filhos de Issacar, as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa de seus pais, pelo nÃºmero dos nomes <span class=\"clarity-word\">dos</span> de vinte anos e acima, todos os que podiam sair Ã  guerra,",
+      "fra": "<span class=\"verse-number\">28</span> On enregistra les fils dâIssacar selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant les noms depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">28Â </span>Bei den Nachkommen Issachars beliefen sich ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, nach der Zahl der einzelnen Namen, von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">28</span> ìì¬ê°ì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">28</span> Figli di Issacar, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, contando i nomi dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Issachar, <span class=\"clarity-word\">were</span> fifty and four thousand and four hundred.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙØ³ÙÙØ§ÙÙØ±Ù Ø£ÙØ±ÙØ¨ÙØ¹ÙØ©Ù ÙÙØ®ÙÙÙØ³ÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙØ£ÙØ±ÙØ¨ÙØ¹Ù ÙÙØ¦ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">29</span> ã¤ããµã«ã«ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯äºä¸åååç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">29 </span>los contados de ellos, de la tribu de Isacar, fueron cincuenta y cuatro mil cuatrocientos.",
+      "por": "<span class=\"verse-number\">29</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de Issacar, cinquenta e quatro mil e quatrocentos.",
+      "fra": "<span class=\"verse-number\">29</span> les hommes de la tribu dâIssacar dont on fit le dÃ©nombrement furent cinquante-quatre mille quatre cents.",
+      "deu": "<span class=\"verse-number\">29Â </span>so viele ihrer vom Stamm Issachar gemustert wurden, auf 54.400.",
+      "kor": "<span class=\"verse-number\">29</span> ìì¬ê° ì§íìì ê³ìë ìë ì¤ë§ ì¬ì²ì¬ë°± ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">29</span> il censimento della tribÃ¹ di Issacar dette la cifra di cinquantaquattromila quattrocento."
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span><span class=\"para-mark\">Â¶ </span>Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ Ø²ÙØ¨ÙÙÙÙÙÙÙØ ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">30</span> ã¼ãã«ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">30 </span>De los hijos de ZabulÃ³n, por sus generaciones, por sus familias, por las casas de sus padres, conforme a la cuenta de los nombres, de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">30</span> Dos filhos de Zebulom, as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa de seus pais, pelo nÃºmero dos nomes <span class=\"clarity-word\">dos</span> de vinte anos e acima, todos os que podiam sair Ã  guerra,",
+      "fra": "<span class=\"verse-number\">30</span> On enregistra les fils de Zabulon selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant les noms depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">30Â </span>Bei den Nachkommen Sebulons beliefen sich ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, nach der Zahl der einzelnen Namen, von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">30</span> ì¤ë¶ë¡ ì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">30</span> Figli di Zabulon, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, contando i nomi dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Zebulun, <span class=\"clarity-word\">were</span> fifty and seven thousand and four hundred.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø²ÙØ¨ÙÙÙÙÙÙÙ Ø³ÙØ¨ÙØ¹ÙØ©Ù ÙÙØ®ÙÙÙØ³ÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙØ£ÙØ±ÙØ¨ÙØ¹Ù ÙÙØ¦ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">31</span> ã¼ãã«ã³ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯äºä¸ä¸ååç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">31 </span>los contados de ellos, de la tribu de ZabulÃ³n, fueron cincuenta y siete mil cuatrocientos.",
+      "por": "<span class=\"verse-number\">31</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de Zebulom, cinquenta e sete mil e quatrocentos.",
+      "fra": "<span class=\"verse-number\">31</span> les hommes de la tribu de Zabulon dont on fit le dÃ©nombrement furent cinquante-sept mille quatre cents.",
+      "deu": "<span class=\"verse-number\">31Â </span>so viele ihrer vom Stamm Sebulon gemustert wurden, auf 57.400.",
+      "kor": "<span class=\"verse-number\">31</span> ì¤ë¶ë¡  ì§íìì ê³ìë ìë ì¤ë§ ì¹ ì²ì¬ë°± ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">31</span> il censimento della tribÃ¹ di Zabulon dette la cifra di cinquantasettemila quattrocento."
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span><span class=\"para-mark\">Â¶ </span>Of the children of Joseph, <span class=\"clarity-word\">namely,</span> of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ Ø£ÙÙÙØ±ÙØ§ÙÙÙÙ Ø¨ÙÙÙ ÙÙÙØ³ÙÙÙØ ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">32</span> ã¨ã»ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ã®ãã¡ãã¨ãã©ã¤ã ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">32 </span>De los hijos de JosÃ©: de los hijos de EfraÃ­n, por sus generaciones, por sus familias, por las casas de sus padres, conforme a la cuenta de los nombres, de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">32</span> Dos filhos de JosÃ©, dos filhos de Efraim, as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa de seus pais, pelo nÃºmero dos nomes <span class=\"clarity-word\">dos</span> de vinte anos e acima, todos os que podiam sair Ã  guerra,",
+      "fra": "<span class=\"verse-number\">32</span> On enregistra, dâentre les fils de Joseph, les fils dâÃphraÃ¯m selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant les noms depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">32Â </span>Was die Nachkommen Josefs betrifft, so beliefen sich bei den Nachkommen Efraims ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, nach der Zahl der einzelnen Namen, von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">32</span> ììì ìë¤ ìë¸ë¼ìì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">32</span> Figli di Giuseppe: figli dâEfraim, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, contando i nomi dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "33": {
+      "eng": "<span class=\"verse-number\">33 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Ephraim, <span class=\"clarity-word\">were</span> forty thousand and five hundred.",
+      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø£ÙÙÙØ±ÙØ§ÙÙÙÙ Ø£ÙØ±ÙØ¨ÙØ¹ÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙØ®ÙÙÙØ³Ù ÙÙØ¦ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">33</span> ã¨ãã©ã¤ã ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯åä¸äºç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">33 </span>los contados de ellos, de la tribu de EfraÃ­n, fueron cuarenta mil quinientos.",
+      "por": "<span class=\"verse-number\">33</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de Efraim, quarenta mil e quinhentos.",
+      "fra": "<span class=\"verse-number\">33</span> les hommes de la tribu dâÃphraÃ¯m dont on fit le dÃ©nombrement furent quarante mille cinq cents.",
+      "deu": "<span class=\"verse-number\">33Â </span>so viele ihrer vom Stamm Efraim gemustert wurden, auf 40.500.",
+      "kor": "<span class=\"verse-number\">33</span> ìë¸ë¼ì ì§íìì ê³ìë ìë ì¬ë§ ì¤ë°± ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">33</span> il censimento della tribÃ¹ di Efraim dette la cifra di quarantamila cinquecento;"
+    },
+    "34": {
+      "eng": "<span class=\"verse-number\">34 </span><span class=\"para-mark\">Â¶ </span>Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ ÙÙÙÙØ³ÙÙÙ Ø¨ÙÙÙ ÙÙÙØ³ÙÙÙØ ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">34</span> ããã»ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">34 </span>De los hijos de ManasÃ©s, por sus generaciones, por sus familias, por las casas de sus padres, conforme a la cuenta de los nombres, de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">34</span> Dos filhos de ManassÃ©s, as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa de seus pais, pelo nÃºmero dos nomes <span class=\"clarity-word\">dos</span> de vinte <span class=\"page-break\" data-page=\"228\"></span>anos e acima, todos os que podiam sair Ã  guerra,",
+      "fra": "<span class=\"verse-number\">34</span> On enregistra les fils de ManassÃ© selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant les noms depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">34Â </span>Bei den Nachkommen Manasses beliefen sich ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, nach der Zahl der einzelnen Namen, von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">34</span> ë¯ë«ì¸ì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">34</span> figli di Manasse, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, contando i nomi dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "35": {
+      "eng": "<span class=\"verse-number\">35 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Manasseh, <span class=\"clarity-word\">were</span> thirty and two thousand and two hundred.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¥ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙØ³ÙÙÙ Ø§Ø«ÙÙÙÙÙÙÙ ÙÙØ«ÙÙØ§Ø«ÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙÙÙØ¦ÙØªÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">35</span> ããã»ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯ä¸ä¸äºåäºç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">35 </span>los contados de ellos, de la tribu de ManasÃ©s, fueron treinta y dos mil doscientos.",
+      "por": "<span class=\"verse-number\">35</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de ManassÃ©s, trinta e dois mil e duzentos.",
+      "fra": "<span class=\"verse-number\">35</span> les hommes de la tribu de ManassÃ© dont on fit le dÃ©nombrement furent trente-deux mille deux cents.",
+      "deu": "<span class=\"verse-number\">35Â </span>so viele ihrer vom Stamm Manasse gemustert wurden, auf 32.200.",
+      "kor": "<span class=\"verse-number\">35</span> ë¯ë«ì¸ ì§íìì ê³ìë ìë ì¼ë§ ì´ì²ì´ë°± ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">35</span> il censimento della tribÃ¹ di Manasse dette la cifra di trentaduemila duecento."
+    },
+    "36": {
+      "eng": "<span class=\"verse-number\">36 </span><span class=\"para-mark\">Â¶ </span>Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù£Ù¦ </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ Ø¨ÙÙÙÙÙØ§ÙÙÙÙÙØ ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">36</span> ããã¤ãã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">36 </span>De los hijos de BenjamÃ­n, por sus generaciones, por sus familias, por las casas de sus padres, conforme a la cuenta de los nombres, de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">36</span> Dos filhos de Benjamim, as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa de seus pais, pelo nÃºmero dos nomes <span class=\"clarity-word\">dos</span> de vinte anos e acima, todos os que podiam sair Ã  guerra,",
+      "fra": "<span class=\"verse-number\">36</span> On enregistra les fils de Benjamin selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant les noms depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">36Â </span>Bei den Nachkommen Benjamins beliefen sich ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, nach der Zahl der einzelnen Namen, von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">36</span> ë² ëë¯¼ì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">36</span> Figli di Beniamino, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, contando i nomi dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "37": {
+      "eng": "<span class=\"verse-number\">37 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Benjamin, <span class=\"clarity-word\">were</span> thirty and five thousand and four hundred.",
+      "ara": "<span class=\"verse-number\">Ù£Ù§ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø¨ÙÙÙÙÙØ§ÙÙÙÙÙ Ø®ÙÙÙØ³ÙØ©Ù ÙÙØ«ÙÙØ§Ø«ÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙØ£ÙØ±ÙØ¨ÙØ¹Ù ÙÙØ¦ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">37</span> ããã¤ãã³ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯ä¸ä¸äºååç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">37 </span>los contados de ellos, de la tribu de BenjamÃ­n, fueron treinta y cinco mil cuatrocientos.",
+      "por": "<span class=\"verse-number\">37</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de Benjamim, trinta e cinco mil e quatrocentos.",
+      "fra": "<span class=\"verse-number\">37</span> les hommes de la tribu de Benjamin dont on fit le dÃ©nombrement furent trente-cinq mille quatre cents.",
+      "deu": "<span class=\"verse-number\">37Â </span>so viele ihrer vom Stamm Benjamin gemustert wurden, auf 35.400.",
+      "kor": "<span class=\"verse-number\">37</span> ë² ëë¯¼ ì§íìì ê³ìë ìë ì¼ë§ ì¤ì²ì¬ë°± ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">37</span> il censimento della tribÃ¹ di Beniamino dette la cifra di trentacinquemila quattrocento."
+    },
+    "38": {
+      "eng": "<span class=\"verse-number\">38 </span><span class=\"para-mark\">Â¶ </span>Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù£Ù¨ </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ Ø¯ÙØ§ÙÙØ ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">38</span> ãã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">38 </span>De los hijos de Dan, por sus generaciones, por sus familias, por las casas de sus padres, conforme a la cuenta de los nombres, de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">38</span> Dos filhos de DÃ£, as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa de seus pais, pelo nÃºmero dos nomes <span class=\"clarity-word\">dos</span> de vinte anos e acima, todos os que podiam sair Ã  guerra,",
+      "fra": "<span class=\"verse-number\">38</span> On enregistra les fils de Dan selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant les noms depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">38Â </span>Bei den Nachkommen Dans beliefen sich ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, nach der Zahl der einzelnen Namen, von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">38</span> ë¨ì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">38</span> Figli di Dan, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, contando i nomi dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "39": {
+      "eng": "<span class=\"verse-number\">39 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Dan, <span class=\"clarity-word\">were</span> threescore and two thousand and seven hundred.",
+      "ara": "<span class=\"verse-number\">Ù£Ù© </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø¯ÙØ§ÙÙ Ø§Ø«ÙÙÙÙÙÙÙ ÙÙØ³ÙØªÙÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙØ³ÙØ¨ÙØ¹Ù ÙÙØ¦ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">39</span> ãã³ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯å­ä¸äºåä¸ç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">39 </span>los contados de ellos, de la tribu de Dan, fueron sesenta y dos mil setecientos.",
+      "por": "<span class=\"verse-number\">39</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de DÃ£, sessenta e dois mil e setecentos.",
+      "fra": "<span class=\"verse-number\">39</span> les hommes de la tribu de Dan dont on fit le dÃ©nombrement furent soixante-deux mille sept cents.",
+      "deu": "<span class=\"verse-number\">39Â </span>so viele ihrer vom Stamm Dan gemustert wurden, auf 62.700.",
+      "kor": "<span class=\"verse-number\">39</span> ë¨ ì§íìì ê³ìë ìë ì¡ë§ ì´ì²ì¹ ë°± ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">39</span> il censimento della tribÃ¹ di Dan dette la cifra di sessantaduemila settecento."
+    },
+    "40": {
+      "eng": "<span class=\"verse-number\">40 </span><span class=\"para-mark\">Â¶ </span>Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù¤Ù  </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ Ø£ÙØ´ÙÙØ±ÙØ ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">40</span> ã¢ã»ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">40 </span>De los hijos de Aser, por sus generaciones, por sus familias, por las casas de sus padres, conforme a la cuenta de los nombres, de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">40</span> Dos filhos de Aser, as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa de seus pais, pelo nÃºmero dos nomes <span class=\"clarity-word\">dos</span> de vinte anos e acima, todos os que podiam sair Ã  guerra,",
+      "fra": "<span class=\"verse-number\">40</span> On enregistra les fils dâAser selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant les noms depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">40Â </span>Bei den Nachkommen Aschers beliefen sich ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, nach der Zahl der einzelnen Namen, von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">40</span> ììì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">40</span> Figli di Ascer, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, contando i nomi dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "41": {
+      "eng": "<span class=\"verse-number\">41 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Asher, <span class=\"clarity-word\">were</span> forty and one thousand and five hundred.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¡ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø£ÙØ´ÙÙØ±Ù ÙÙØ§Ø­ÙØ¯Ø§Ù ÙÙØ£ÙØ±ÙØ¨ÙØ¹ÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙØ®ÙÙÙØ³Ù ÙÙØ¦ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">41</span> ã¢ã»ã«ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯åä¸ä¸åäºç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">41 </span>los contados de ellos, de la tribu de Aser, fueron cuarenta y un mil quinientos.",
+      "por": "<span class=\"verse-number\">41</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de Aser, quarenta e um mil e quinhentos.",
+      "fra": "<span class=\"verse-number\">41</span> les hommes de la tribu dâAser dont on fit le dÃ©nombrement furent quarante et un mille cinq cents.",
+      "deu": "<span class=\"verse-number\">41Â </span>so viele ihrer vom Stamm Ascher gemustert wurden, auf 41.500.",
+      "kor": "<span class=\"verse-number\">41</span> ìì ì§íìì ê³ìë ìë ì¬ë§ ì²ì¤ë°± ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">41</span> il censimento della tribÃ¹ di Ascer dette la cifra di quarantunmila cinquecento."
+    },
+    "42": {
+      "eng": "<span class=\"verse-number\">42 </span><span class=\"para-mark\">Â¶ </span>Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¢ </span>ÙÙÙÙÙÙ ÙÙØ³ÙÙÙ ÙÙÙÙØªÙØ§ÙÙÙØ ØªÙÙÙÙ Ø¥ÙØ­ÙØµÙØ§Ø¡Ù Ø¬ÙÙÙÙØ¹Ù Ø§ÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨ÙØ ÙÙÙÙÙ Ø¨ÙØ§Ø³ÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ ÙÙØ¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">42</span> ããã¿ãªã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ãã<ruby><rb>ç</rb><rt>ãã¾</rt></ruby>ãããã®ãããã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ããããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãã£ã¦<ruby><rb>èª¿</rb><rt>ãã</rt></ruby>ã¹ããã¹ã¦<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">42 </span>De los hijos de NeftalÃ­, <span class=\"page-break\" data-page=\"228\"></span>por sus generaciones, por sus familias, por las casas de sus padres, conforme a la cuenta de los nombres, de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra,",
+      "por": "<span class=\"verse-number\">42</span> Dos filhos de Naftali, as suas geraÃ§Ãµes pelas suas famÃ­lias, segundo a casa de seus pais, pelo nÃºmero dos nomes <span class=\"clarity-word\">dos</span> de vinte anos e acima, todos os que podiam sair Ã  guerra,",
+      "fra": "<span class=\"verse-number\">42</span> On enregistra les fils de Nephthali selon leurs familles, selon les maisons de leurs pÃ¨res, en comptant les noms depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux en Ã©tat de porter les armesÂ :",
+      "deu": "<span class=\"verse-number\">42Â </span>Bei den Nachkommen Naftalis beliefen sich ihre AbkÃ¶mmlinge nach ihren Sippen und nach ihren Familien, nach der Zahl der einzelnen Namen, von zwanzig Jahren an und darÃ¼ber, alles, was zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">42</span> ë©ë¬ë¦¬ì ìë¤ë¤ìê²ì ë ìë¥¼ ê·¸ë¤ì ì¢ì¡±ê³¼ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ìë¥¼ ê·¸ ëªìëë¡ ë¤ ê³ìíë",
+      "ita": "<span class=\"verse-number\">42</span> Figli di Neftali, loro discendenti secondo le loro famiglie, secondo le case dei loro padri, contando i nomi dallâetÃ  di venti anni in su, tutti quelli che potevano andare in guerra:"
+    },
+    "43": {
+      "eng": "<span class=\"verse-number\">43 </span>Those that were numbered of them, <span class=\"clarity-word\">even</span> of the tribe of Naphtali, <span class=\"clarity-word\">were</span> fifty and three thousand and four hundred.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù£ </span>ÙÙÙÙØ§ÙÙ Ø¹ÙØ¯ÙØ¯Ù Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙØªÙØ§ÙÙÙ Ø«ÙÙØ§Ø«ÙØ©Ù ÙÙØ®ÙÙÙØ³ÙÙÙÙ Ø£ÙÙÙÙØ§Ù ÙÙØ£ÙØ±ÙØ¨ÙØ¹Ù ÙÙØ¦ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">43</span> ããã¿ãªã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ã§ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããããã®ã¯ãäºä¸ä¸ååç¾<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">43 </span>los contados de ellos, de la tribu de NeftalÃ­, fueron cincuenta y tres mil cuatrocientos.",
+      "por": "<span class=\"verse-number\">43</span> <span class=\"clarity-word\">Foram</span> contados deles, da tribo de Naftali, cinquenta e trÃªs mil e quatrocentos.",
+      "fra": "<span class=\"verse-number\">43</span> les hommes de la tribu de Nephthali dont on fit le dÃ©nombrement furent cinquante-trois mille quatre cents.",
+      "deu": "<span class=\"verse-number\">43Â </span>so viele ihrer vom Stamm Naftali gemustert wurden, auf 53.400.",
+      "kor": "<span class=\"verse-number\">43</span> ë©ë¬ë¦¬ ì§íìì ê³ìë ìë ì¤ë§ ì¼ì²ì¬ë°± ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">43</span> il censimento della tribÃ¹ di Neftali dette la cifra di cinquantatremila quattrocento."
+    },
+    "44": {
+      "eng": "<span class=\"verse-number\">44 </span>These <span class=\"clarity-word\">are</span> those that were numbered, which Moses and Aaron numbered, and the princes of Israel, <span class=\"clarity-word\">being</span> twelve men: each one was for the house of his fathers.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¤ </span>ÙÙØ¤ÙÙØ§Ø¡Ù ÙÙÙÙ Ø¬ÙÙÙÙÙØ©Ù Ø§ÙÙÙØ°ÙÙÙÙ Ø£ÙØ­ÙØµÙØ§ÙÙÙÙ ÙÙÙØ³ÙÙ ÙÙÙÙØ±ÙÙÙÙ ÙÙØ±ÙØ¤ÙØ³ÙØ§Ø¡Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø§ÙØ§Ø«ÙÙÙØ§ Ø¹ÙØ´ÙØ±Ù Ø§ÙÙÙÙÙÙØ«ÙÙÙÙÙÙÙ ÙØ£ÙØ³ÙØ¨ÙØ§Ø·ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">44</span> ãããã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã§ãã£ã¦ãã¢ã¼ã»ã¨ã¢ã­ã³ã¨ã¤ã¹ã©ã¨ã«ã®ã¤ãããã¡ã¨ã<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã§ããããã®ã¤ãããã¡ã¯åäº<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ã¦ããã®ãã®ãã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã®ããã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">44ã</span>è¿äºå°±æ¯è¢«æ°ç¹çï¼æ¯<u>æ©è¥¿</u>ã<u>äºä¼¦</u>å<u>ä»¥è²å</u>ä¸­åäºä¸ªé¦é¢ææ°ç¹çï¼è¿åäºä¸ªäººåä½åå®æçä»£è¡¨ã",
+      "zht": "<span class=\"verse-number\">44ã</span>éäºå°±æ¯è¢«æ¸é»çï¼æ¯<u>æ©è¥¿</u>ã<u>äºå«</u>å<u>ä»¥è²å</u>ä¸­åäºåé¦é ææ¸é»çï¼éåäºåäººåä½åå®æçä»£è¡¨ã",
+      "spa": "<span class=\"verse-number\">44 </span>Estos fueron los contados, los cuales contaron MoisÃ©s y AarÃ³n, con los prÃ­ncipes de Israel, que eran doce, uno por cada casa de sus padres.",
+      "por": "<span class=\"verse-number\">44</span> Esses <span class=\"clarity-word\">foram</span> os contados, que contaram MoisÃ©s e AarÃ£o, e os prÃ­ncipes de Israel, doze homens, cada um era pela casa de seus pais.",
+      "fra": "<span class=\"verse-number\">44</span> Tels sont ceux dont le dÃ©nombrement fut fait par MoÃ¯se et Aaron, et par les douze hommes, princes dâIsraÃ«lÂ ; il y avait un homme pour chacune des maisons de leurs pÃ¨res.",
+      "deu": "<span class=\"verse-number\">44Â </span>Dies sind die Gemusterten, die Mose und Aaron mit den FÃ¼rsten der Israeliten musterten; die letzteren waren zwÃ¶lf MÃ¤nner, und zwar je ein Mann fÃ¼r die zu seinem Stamm gehÃ¶rigen Familien.",
+      "kor": "<span class=\"verse-number\">44</span> ì´ ê³ìí¨ì ë°ì ìë ëª¨ì¸ì ìë¡ ê³¼ ê°ê¸° ì´ì¤ë¼ì ì¡°ìì ê°ë¬¸ì ëíí ì´ë ì§íê´ì´ ê³ìíìëë¼",
+      "ita": "<span class=\"verse-number\">44</span> Questi sono quelli di cui MosÃ¨ ed Aaronne fecero il censimento, con i dodici uomini, capi dâIsraele: ce nâera uno per ognuna delle case dei loro padri."
+    },
+    "45": {
+      "eng": "<span class=\"verse-number\">45 </span>So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¥ </span>ÙÙÙÙØ§ÙÙ Ø§ÙÙÙÙØ¬ÙÙÙÙØ¹Ù Ø§ÙÙÙÙÙÙÙÙÙÙ ÙÙÙØ±ÙÙØ¬ÙØ§ÙÙ Ø§ÙÙÙÙØ­ÙØµÙÙÙÙÙ ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø§ÙÙØ¨ÙØ§ÙÙØºÙÙÙÙ ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙØ±Ù Ø¹ÙØ´ÙØ±ÙÙÙÙ Ø³ÙÙÙØ©Ù ÙÙÙÙØ§ ÙÙÙÙÙÙØ Ø­ÙØ³ÙØ¨Ù Ø¨ÙÙÙÙØªÙ Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙ ÙÙÙÙ Ø§ÙÙÙÙØ§Ø¯ÙØ±ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØªÙØ§ÙÙ ÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨Ù ÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ",
+      "jpn": "<span class=\"verse-number\">45</span> ããã¦ã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®ãã¡ããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã«ãããã£ã¦<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯ããã¹ã¦ã¤ã¹ã©ã¨ã«ã®ãã¡ã<ruby><rb>æ¦äº</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããã¨ã®ã§ããäºå<ruby><rb>æ­³</rb><rt>ãã</rt></ruby><ruby><rb>ä»¥ä¸</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã§ãã£ã¦ã",
+      "spa": "<span class=\"verse-number\">45 </span>Y todos los contados de los hijos de Israel por las casas de sus padres, de veinte aÃ±os arriba, todos los que podÃ­an salir a la guerra en Israel,",
+      "por": "<span class=\"verse-number\">45</span> Assim <span class=\"clarity-word\">foram</span> todos os contados dos filhos de Israel, segundo a casa de seus pais, de vinte anos e acima, todos os que podiam sair Ã  guerra em Israel;",
+      "fra": "<span class=\"verse-number\">45</span> Tous ceux des enfants dâIsraÃ«l dont on fit le dÃ©nombrement, selon les maisons de leurs pÃ¨res, depuis lâÃ¢ge de vingt ans et au-dessus, tous ceux dâIsraÃ«l en Ã©tat de porter les armes,",
+      "deu": "<span class=\"verse-number\">45Â </span>Und es beliefen sich alle, die von den Israeliten nach ihren Familien, von zwanzig Jahren an und darÃ¼ber, gemustert worden waren, alles, was in Israel zum Heeresdienst tauglich war,",
+      "kor": "<span class=\"verse-number\">45</span> ì´ê°ì´ ì´ì¤ë¼ì ììì´ ê·¸ ì¡°ìì ê°ë¬¸ì ë°ë¼ ì´ì­ ì¸ ì´ìì¼ë¡ ì¸ìì ëê° ë§í ì´ì¤ë¼ì<span class=\"clarity-word\">ììì´</span> ë¤ ê³ìëìì¼ë",
+      "ita": "<span class=\"verse-number\">45</span> CosÃ¬ tutti i figli dâIsraele dei quali fu fatto il censimento secondo le case dei loro padri, dallâetÃ  di venti anni in su, cioÃ¨ tutti gli uomini che in Israele potevano andare in guerra,"
+    },
+    "46": {
+      "eng": "<span class=\"verse-number\">46 </span>Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¦ </span>Ø³ÙØªÙÙ ÙÙØ¦ÙØ©Ù Ø£ÙÙÙÙÙ ÙÙØ«ÙÙØ§Ø«ÙØ©Ù Ø¢ÙØ§ÙÙ ÙÙØ®ÙÙÙØ³Ù ÙÙØ¦ÙØ©Ù ÙÙØ®ÙÙÙØ³ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">46</span> ãã®<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¦å­åä¸ä¸åäºç¾äºå<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã§ãã£ãã",
+      "spa": "<span class=\"verse-number\">46 </span>fueron todos los contados seiscientos tres mil quinientos cincuenta.",
+      "por": "<span class=\"verse-number\">46</span> Todos os contados, pois, <span class=\"clarity-word\">foram</span> seiscentos e trÃªs mil e quinhentos e cinquenta.",
+      "fra": "<span class=\"verse-number\">46</span> tous ceux dont on fit le dÃ©nombrement furent six cent trois mille cinq cent cinquante.",
+      "deu": "<span class=\"verse-number\">46Â </span>es beliefen sich also alle Gemusterten auf 603.550.",
+      "kor": "<span class=\"verse-number\">46</span> ê³ìë ìì ì´ê³ë ì¡ì­ë§ ì¼ì²ì¤ë°±ì¤ì­ ëªì´ìëë¼",
+      "ita": "<span class=\"verse-number\">46</span> tutti quelli dei quali fu fatto il censimento, furono seicentotremila cinquecentocinquanta."
+    },
+    "47": {
+      "eng": "<span class=\"verse-number\">47 </span><span class=\"para-mark\">Â¶ </span>But the Levites after the tribe of their fathers were not numbered among them.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù§ </span>Ø£ÙÙÙÙØ§ Ø§ÙÙÙØ§ÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙØªÙØ³ÙØ¨ÙÙÙÙ ÙÙØ³ÙØ¨ÙØ·Ù Ø¢Ø¨ÙØ§Ø¦ÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙØ­ÙØµÙÙÙØ§ Ø¨ÙÙÙÙÙÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">47</span> ããããã¬ãã³ã¨ã¯ããã®<ruby><rb>ç¶ç¥</rb><rt>ãµã</rt></ruby>ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã«ãããã£ã¦ããã®ãã¡ã«<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ããããªãã£ãã",
+      "zhs": "<span class=\"verse-number\">47ã</span><u>å©æª</u>äººå´æ²¡ææçæ¯æ´¾æ°å¨å¶ä¸­ï¼",
+      "zht": "<span class=\"verse-number\">47ã</span><u>å©æª</u>äººå»æ²ææèæ¯æ´¾æ¸å¨å¶ä¸­ï¼",
+      "spa": "<span class=\"verse-number\">47 </span>Pero los levitas no fueron contados entre ellos segÃºn la tribu de sus padres,",
+      "por": "<span class=\"verse-number\">47</span> Mas os levitas, segundo a tribo de seus pais, nÃ£o <span class=\"clarity-word\">foram</span> contados entre eles,",
+      "fra": "<span class=\"verse-number\">47</span> Les LÃ©vites, selon la tribu de leurs pÃ¨res, ne firent pas partie de ce dÃ©nombrement.",
+      "deu": "<span class=\"verse-number\">47Â </span>Die Leviten aber nach ihrem vÃ¤terlichen Stamm waren in dieser Musterung nicht inbegriffen.",
+      "kor": "<span class=\"verse-number\">47</span> ê·¸ë¬ë ë ìì¸ì ê·¸ë¤ì ì¡°ìì ì§íëë¡ ê·¸ ê³ìì ë¤ì§ ìëíìì¼ë",
+      "ita": "<span class=\"verse-number\">47</span> Ma i Leviti, come tribÃ¹ dei loro padri, non furono compresi nel censimento con gli altri;"
+    },
+    "48": {
+      "eng": "<span class=\"verse-number\">48 </span>For the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> had spoken unto Moses, saying,",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¨ </span>Ø¥ÙØ°Ù ÙÙØ§ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙØ³ÙÙ:",
+      "jpn": "<span class=\"verse-number\">48</span> ããªãã¡ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã¢ã¼ã»ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">48ã</span>å ä¸ºè¶ååæè°<u>æ©è¥¿</u>è¯´ï¼",
+      "zht": "<span class=\"verse-number\">48ã</span>å çºè¶åè¯æè«­<u>æ©è¥¿</u>èªªï¼",
+      "spa": "<span class=\"verse-number\">48 </span>porque hablÃ³ JehovÃ¡ a MoisÃ©s, diciendo:",
+      "por": "<span class=\"verse-number\">48</span> Porquanto o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> tinha falado a MoisÃ©s, dizendo:",
+      "fra": "<span class=\"verse-number\">48</span> LâÃternel parla Ã  MoÃ¯se et ditÂ :",
+      "deu": "<span class=\"verse-number\">48Â </span>Der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> hatte nÃ¤mlich Mose Folgendes geboten:",
+      "kor": "<span class=\"verse-number\">48</span> ì´ë ì¬í¸ìê»ì ëª¨ì¸ìê² ë§ìíì¬ ì´ë¥´ìë",
+      "ita": "<span class=\"verse-number\">48</span> poichÃ© lâEterno aveva parlato a MosÃ¨, dicendo:"
+    },
+    "49": {
+      "eng": "<span class=\"verse-number\">49 </span>Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:",
+      "ara": "<span class=\"verse-number\">Ù¤Ù© </span>âØ£ÙÙÙÙØ§ Ø³ÙØ¨ÙØ·Ù ÙØ§ÙÙÙ ÙÙÙØ§ ØªÙØ­ÙØ³ÙØ¨ÙÙÙ ÙÙÙØ§ ØªÙØ­ÙØµÙÙÙ Ø¨ÙÙÙÙÙ Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">49</span> ãããªãã¯ã¬ãã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã ãã¯<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãã¦ã¯ãªããªããã¾ããã®<ruby><rb>ç·æ°</rb><rt>ãããã</rt></ruby>ãã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®ãã¡ã«<ruby><rb>æ°</rb><rt>ãã</rt></ruby>ãããã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">49ã</span>å¯ç¬å©æªæ¯æ´¾ä½ ä¸å¯æ°ç¹ï¼ä¹ä¸å¯å¨<u>ä»¥è²å</u>äººä¸­è®¡ç®ä»ä»¬çæ»æ°ã",
+      "zht": "<span class=\"verse-number\">49ã</span>å¯ç¨å©æªæ¯æ´¾ä½ ä¸å¯æ¸é»ï¼ä¹ä¸å¯å¨<u>ä»¥è²å</u>äººä¸­è¨ç®ä»åçç¸½æ¸ã",
+      "spa": "<span class=\"verse-number\">49 </span>Solamente no contarÃ¡s a la tribu de LevÃ­, ni tomarÃ¡s la cuenta de ellos entre los hijos de Israel,",
+      "por": "<span class=\"verse-number\">49</span> PorÃ©m nÃ£o contarÃ¡s a tribo de Levi, nem tomarÃ¡s a soma deles entre os filhos de Israel;",
+      "fra": "<span class=\"verse-number\">49</span> Tu ne feras pas le dÃ©nombrement de la tribu de LÃ©vi et tu nâen compteras pas les tÃªtes au milieu des enfants dâIsraÃ«l.",
+      "deu": "<span class=\"verse-number\">49Â </span>âNur die zum Stamm Levi GehÃ¶rigen sollst du nicht mustern und ihre Kopfzahl nicht mit den Ã¼brigen Israeliten aufnehmen;",
+      "kor": "<span class=\"verse-number\">49</span> ëë ë ì ì§íë§ì ê³ìíì§ ë§ë©° ê·¸ë¤ì ì´ì¤ë¼ì ìì ê³ì ì¤ì ë£ì§ ë§ê³",
+      "ita": "<span class=\"verse-number\">49</span> âSoltanto della tribÃ¹ di Levi non farai il censimento, e non ne unirai lâammontare a quello dei figli dâIsraele;"
+    },
+    "50": {
+      "eng": "<span class=\"verse-number\">50 </span>But thou shalt appoint the <span class=\"page-break\" data-page=\"193\"></span>Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that <span class=\"clarity-word\">belong</span> to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.",
+      "ara": "<span class=\"verse-number\">Ù¥Ù  </span>Ø¨ÙÙÙ Ø§Ø¹ÙÙÙØ¯Ù Ø¨ÙÙÙØ³ÙÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ§Ø¯ÙØ©Ù ÙÙØ£ÙÙÙØªÙØ¹ÙØªÙÙÙ ÙÙÙÙÙÙÙØ§ ÙÙØ³ÙØ§Ø¦ÙØ±Ù ÙÙØ§ÙÙÙÙ Ø¥ÙÙÙÙ Ø§ÙÙÙØ§ÙÙÙÙÙÙÙÙ. ÙÙÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙØ³ÙÙÙÙÙ ÙÙØ£ÙÙÙØªÙØ¹ÙØªÙÙÙ ÙÙÙÙÙÙÙØ§ ÙÙÙÙØ¹ÙØªÙÙÙÙÙÙ Ø¨ÙÙÙØ ÙÙØ­ÙÙÙÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">50</span> ããªãã¯ã¬ãã³ã¨ã«ããããã®<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã¨ããã®ããããã®<ruby><rb>å¨</rb><rt>ãã¤ã</rt></ruby>ã¨ãããã«<ruby><rb>éå±</rb><rt>ãµãã</rt></ruby>ããããããã®<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>ç®¡ç</rb><rt>ããã</rt></ruby>ãããªããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã¨ããã®ããããã®<ruby><rb>å¨</rb><rt>ãã¤ã</rt></ruby>ã¨ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>é</rb><rt>ã¯ã</rt></ruby>ã³ãã¾ãããã§<ruby><rb>å</rb><rt>ã¤ã¨ã</rt></ruby>ããã<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®ã¾ããã«<ruby><rb>å®¿å¶</rb><rt>ããããã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">50ã</span>åªè¦æ´¾å©æªäººç®¡æ³<span class=\"clarity-word\">æ</span>çå¸å¹åå¶ä¸­çå¨å·ï¼å¹¶å±ä¹å¸å¹çï¼ä»ä»¬è¦æ¬å¸å¹åå¶ä¸­çå¨å·ï¼å¹¶è¦åçå¸å¹çäºï¼å¨å¸å¹çåå´å®è¥ã",
+      "zht": "<span class=\"verse-number\">50ã</span>åªè¦æ´¾å©æªäººç®¡æ³<span class=\"clarity-word\">æ«</span>çå¸³å¹åå¶ä¸­çå¨å·ï¼ä¸¦å±¬ä¹å¸³å¹çï¼ä»åè¦æ¬å¸³å¹åå¶ä¸­çå¨å·ï¼ä¸¦è¦è¾¦çå¸³å¹çäºï¼å¨å¸³å¹çååå®çã",
+      "spa": "<span class=\"verse-number\">50 </span>sino que tÃº pondrÃ¡s a los levitas en el tabernÃ¡culo del testimonio, y sobre todos sus utensilios y sobre todas las cosas que le pertenecen. Ellos llevarÃ¡n el tabernÃ¡culo y todos sus utensilios, y servirÃ¡n en Ã©l y acamparÃ¡n alrededor del tabernÃ¡culo.",
+      "por": "<span class=\"verse-number\">50</span> Mas tu encarrega os levitas do tabernÃ¡culo do testemunho, e de todos os seus utensÃ­lios, e de tudo o que pertence a ele; eles levarÃ£o o tabernÃ¡culo e todos os seus utensÃ­lios; e eles o administrarÃ£o, e assentarÃ£o o seu acampamento ao redor do tabernÃ¡culo.",
+      "fra": "<span class=\"verse-number\">50</span> Remets aux soins des LÃ©vites le tabernacle du tÃ©moignage, tous ses ustensiles et tout ce qui lui appartient. Ils porteront le tabernacle et tous ses ustensiles, ils en feront le service et ils camperont autour du tabernacle.",
+      "deu": "<span class=\"verse-number\">50Â </span>sondern bestelle du die Leviten zum Dienst an der WohnstÃ¤tte des Gesetzes und Ã¼ber ihre sÃ¤mtlichen GerÃ¤te und Ã¼ber alles, was zu ihr gehÃ¶rt. Sie sollen die WohnstÃ¤tte und ihre sÃ¤mtlichen GerÃ¤te tragen, und sie sollen den Dienst an ihr versehen und rings um die WohnstÃ¤tte her lagern.",
+      "kor": "<span class=\"verse-number\">50</span> ê·¸ë¤ìê² ì¦ê±°ì ì±ë§ê³¼ ê·¸ ëª¨ë  ê¸°êµ¬ì ê·¸ ëª¨ë  ë¶ìíì ê´ë¦¬íê² íë¼ ê·¸ë¤ì ê·¸ ì±ë§ê³¼ ê·¸ ëª¨ë  ê¸°êµ¬ë¥¼ ì´ë°íë©° ê±°ê¸°ì ë´ì¬íë©° ì±ë§ ì£¼ìì ì§ì ì¹ ì§ë©°",
+      "ita": "<span class=\"verse-number\">50</span> ma affida ai Leviti la cura del tabernacolo della testimonianza, di tutti i suoi utensili e di tutto ciÃ² che gli appartiene. Essi porteranno il tabernacolo e tutti i suoi utensili, ne svolgeranno il servizio, e staranno accampati attorno al tabernacolo."
+    },
+    "51": {
+      "eng": "<span class=\"verse-number\">51 </span>And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.",
+      "ara": "<span class=\"verse-number\">Ù¥Ù¡ </span>ÙÙÙÙÙÙ Ø§ÙÙÙØ°ÙÙÙÙ ÙÙÙÙØ²ÙÙÙÙÙÙ Ø§ÙÙÙÙØ³ÙÙÙÙÙ Ø¹ÙÙÙØ¯Ù Ø§Ø±ÙØªÙØ­ÙØ§ÙÙÙÙ ÙÙÙÙÙÙØµÙØ¨ÙÙÙÙÙÙ Ø¹ÙÙÙØ¯Ù Ø­ÙÙÙÙÙÙÙÙØ ÙÙØ£ÙÙÙÙ ÙÙØ§Ø­ÙØ¯Ù Ø¢Ø®ÙØ±Ù ØºÙÙÙØ±ÙÙÙÙÙ ÙÙÙÙØªÙØ±ÙØ¨Ù ÙÙÙÙÙÙ ÙÙÙÙØªÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">51</span> <ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã<ruby><rb>é²</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã¯ãã¬ãã³ã¨ãããã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ããããã<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã<ruby><rb>å¼µ</rb><rt>ã¯</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã¯ãã¬ãã³ã¨ãããã<ruby><rb>çµ</rb><rt>ã</rt></ruby>ã¿<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã¦ãªããã°ãªããªããã»ãã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ãããã«<ruby><rb>è¿</rb><rt>ã¡ã</rt></ruby>ã¥ã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã¯<ruby><rb>æ®º</rb><rt>ãã</rt></ruby>ãããã§ãããã",
+      "zhs": "<span class=\"verse-number\">51ã</span>å¸å¹å°å¾åè¡çæ¶åï¼<u>å©æª</u>äººè¦æå¸ï¼å°æ¯æ­çæ¶åï¼<u>å©æª</u>äººè¦ç«èµ·ãè¿åæ¥çå¤äººå¿è¢«æ²»æ­»ã",
+      "zht": "<span class=\"verse-number\">51ã</span>å¸³å¹å°å¾åè¡çæåï¼<u>å©æª</u>äººè¦æå¸ï¼å°æ¯æ­çæåï¼<u>å©æª</u>äººè¦è±èµ·ãè¿åä¾çå¤äººå¿è¢«æ²»æ­»ã",
+      "spa": "<span class=\"verse-number\">51 </span>Y cuando haya que trasladar el tabernÃ¡culo, los levitas lo desarmarÃ¡n; y cuando haya que armar el tabernÃ¡culo, los levitas lo armarÃ¡n; y el extraÃ±o que se acerque morirÃ¡.",
+      "por": "<span class=\"verse-number\">51</span> E quando o tabernÃ¡culo partir, os levitas o desarmarÃ£o; e quando o tabernÃ¡culo for assentado no acampamento, os levitas o armarÃ£o; e o estranho que se chegar morrerÃ¡.",
+      "fra": "<span class=\"verse-number\">51</span> Quand le tabernacle partira, les LÃ©vites le dÃ©monterontÂ ; quand le tabernacle campera, les LÃ©vites le dresserontÂ ; et lâÃ©tranger qui sâen approchera sera puni de mort.",
+      "deu": "<span class=\"verse-number\">51Â </span>Und wenn die WohnstÃ¤tte weiterzieht, sollen die Leviten sie abbrechen; und wenn die WohnstÃ¤tte haltmacht, sollen die Leviten sie aufschlagen; jeder NichtzugehÃ¶rige aber, der an sie herantritt, soll sterben.",
+      "kor": "<span class=\"verse-number\">51</span> ì±ë§ì ì´ë°í  ëìë ë ìì¸ì´ ê·¸ê²ì ê±·ê³  ì±ë§ì ì¸ì¸ ëìë ë ìì¸ì´ ê·¸ê²ì ì¸ì¸ ê²ì´ì ì¸ì¸ì´ ê°ê¹ì´ ì¤ë©´ ì£½ì¼ì§ë©°",
+      "ita": "<span class=\"verse-number\">51</span> Quando il tabernacolo dovrÃ  partire, i Leviti lo smonteranno; quando il tabernacolo dovrÃ  accamparsi in qualche luogo, i Leviti lo erigeranno; e lâestraneo che gli si avvicinerÃ  sarÃ  messo a morte."
+    },
+    "52": {
+      "eng": "<span class=\"verse-number\">52 </span>And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.",
+      "ara": "<span class=\"verse-number\">Ù¥Ù¢ </span>ÙÙÙÙÙÙØ¶ÙØ±ÙØ¨Ù Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø®ÙÙÙØ§ÙÙÙÙÙÙ ÙÙÙÙÙ ÙÙÙ ÙÙÙÙØ¶ÙØ¹ÙÙÙ ÙÙÙ Ø§ÙÙÙÙØ®ÙÙÙÙÙÙØ ÙÙÙÙÙÙÙ ØªÙØ­ÙØªÙ Ø±ÙØ§ÙÙØ©Ù ÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">52</span> ã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã¯ãã®<ruby><rb>é¨é</rb><rt>ã¶ãã</rt></ruby>ã«ãããã£ã¦ããã®ãã®ãã®<ruby><rb>å®¿å¶</rb><rt>ããããã</rt></ruby>ã«ããã®ãã®ãã®<ruby><rb>æ</rb><rt>ã¯ã</rt></ruby>ã®ãã¨ã«ãã®<ruby><rb>å¤©å¹</rb><rt>ã¦ãã¾ã</rt></ruby>ã<ruby><rb>å¼µ</rb><rt>ã¯</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">52ã</span><u>ä»¥è²å</u>äººæ¯æ­å¸æ£ï¼è¦ç§ä»ä»¬çåéï¼åå½æ¬è¥ï¼åå½æ¬çºã",
+      "zht": "<span class=\"verse-number\">52ã</span><u>ä»¥è²å</u>äººæ¯æ­å¸³æ£ï¼è¦ç§ä»åçè»éï¼åæ­¸æ¬çï¼åæ­¸æ¬çºã",
+      "spa": "<span class=\"verse-number\">52 </span>Y los hijos de Israel acamparÃ¡n cada uno en su campamento, y cada uno junto a su bandera, por sus ejÃ©rcitos;",
+      "por": "<span class=\"verse-number\">52</span> E os filhos de Israel assentarÃ£o as suas tendas, cada um no seu acampamento, e cada um junto Ã  sua bandeira, segundo os seus exÃ©rcitos.",
+      "fra": "<span class=\"verse-number\">52</span> Les enfants dâIsraÃ«l camperont chacun dans son camp, chacun prÃ¨s de sa banniÃ¨re, selon leurs divisions.",
+      "deu": "<span class=\"verse-number\">52Â </span>Und die Ã¼brigen Israeliten sollen nach ihren Heerscharen ein jeder auf seinem Lagerplatz und ein jeder bei seinem Banner lagern;",
+      "kor": "<span class=\"verse-number\">52</span> ì´ì¤ë¼ì ììì ë§ì¬ë¥¼ ì¹ë ê·¸ ì§ìë³ë¡ ê°ê° ê·¸ ì§ìê³¼ êµ°ê¸° ê³ì ì¹  ê²ì´ë",
+      "ita": "<span class=\"verse-number\">52</span> I figli dâIsraele pianteranno le loro tende ognuno nel suo campo, ognuno vicino alla sua bandiera, secondo le loro schiere."
+    },
+    "53": {
+      "eng": "<span class=\"verse-number\">53 </span>But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.",
+      "ara": "<span class=\"verse-number\">Ù¥Ù£ </span>ÙÙØ£ÙÙÙÙØ§ Ø§ÙÙÙØ§ÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙÙÙ Ø­ÙÙÙÙÙ ÙÙØ³ÙÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ§Ø¯ÙØ©ÙØ ÙÙØ¦ÙÙÙØ§ ÙÙØ­ÙÙÙÙ Ø³ÙØ®ÙØ·Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø¹ÙÙÙÙ Ø´ÙØ¹ÙØ¨Ù Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ. ÙÙÙÙÙØ­ÙØ§ÙÙØ¸Ù Ø§ÙÙÙØ§ÙÙÙÙÙÙÙÙ Ø¹ÙÙÙÙ Ø®ÙØ¯ÙÙÙØ©Ù ÙÙØ³ÙÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ§Ø¯ÙØ©Ù ÙÙØ´ÙØ¹ÙØ§Ø¦ÙØ±ÙÙÙâ.",
+      "jpn": "<span class=\"verse-number\">53</span> ããããã¬ãã³ã¨ã¯ããããã®<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®ã¾ããã«<ruby><rb>å®¿å¶</rb><rt>ããããã</rt></ruby>ããªããã°ãªããªããããããã°ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã¯ã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®<ruby><rb>ä¼è¡</rb><rt>ããããã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>è¨</rb><rt>ã®ã</rt></ruby>ããã¨ããªãã§ããããã¬ãã³ã¨ã¯ããããã®<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¤ã¨ã</rt></ruby>ã<ruby><rb>å®</rb><rt>ã¾ã</rt></ruby>ããªããã°ãªããªããã",
+      "zhs": "<span class=\"verse-number\">53ã</span>ä½<u>å©æª</u>äººè¦å¨æ³<span class=\"clarity-word\">æ</span>å¸å¹çåå´å®è¥ï¼åå¾å¿¿æä¸´å°<u>ä»¥è²å</u>ä¼ä¼ï¼<u>å©æª</u>äººå¹¶è¦è°¨å®æ³<span class=\"clarity-word\">æ</span>çå¸å¹ã",
+      "zht": "<span class=\"verse-number\">53ã</span>ä½<u>å©æª</u>äººè¦å¨æ³<span class=\"clarity-word\">æ«</span>å¸³å¹çååå®çï¼åå¾å¿¿æè¨å°<u>ä»¥è²å</u>æç¾ï¼<u>å©æª</u>äººä¸¦è¦è¬¹å®æ³<span class=\"clarity-word\">æ«</span>çå¸³å¹ã",
+      "spa": "<span class=\"verse-number\">53 </span>pero los levitas acamparÃ¡n alrededor del tabernÃ¡culo del testimonio, y asÃ­ no habrÃ¡ ira sobre la congregaciÃ³n de los hijos de Israel; y los levitas tendrÃ¡n la guarda del tabernÃ¡culo de reuniÃ³n.",
+      "por": "<span class=\"verse-number\">53</span> Mas os levitas assentarÃ£o as suas tendas ao redor do tabernÃ¡culo do testemunho, para que nÃ£o haja indignaÃ§Ã£o contra a congregaÃ§Ã£o dos filhos de Israel, pelo que os levitas terÃ£o o encargo da guarda do tabernÃ¡culo do testemunho.",
+      "fra": "<span class=\"verse-number\">53</span> Mais les LÃ©vites camperont autour du tabernacle du tÃ©moignage afin que ma colÃ¨re nâÃ©clate pas sur lâassemblÃ©e des enfants dâIsraÃ«lÂ ; et les LÃ©vites auront la garde du tabernacle du tÃ©moignage.",
+      "deu": "<span class=\"verse-number\">53Â </span>die Leviten aber sollen rings um die WohnstÃ¤tte des Gesetzes her lagern, damit kein Zorn Gottes Ã¼ber die Gemeinde der Israeliten hereinbricht. Die Leviten sollen also den Dienst an der WohnstÃ¤tte des Gesetzes versehen.â",
+      "kor": "<span class=\"verse-number\">53</span> ë ìì¸ì ì¦ê±°ì ì±ë§ ì¬ë°©ì ì§ì ì³ì ì´ì¤ë¼ì ììì íì¤ìê² ì§ë¸ê° ìíì§ ìê² í  ê²ì´ë¼ ë ìì¸ì ì¦ê±°ì ì±ë§ì ëí ì±ìì ì§í¬ì§ëë¼ íì¨ìì´ë¼",
+      "ita": "<span class=\"verse-number\">53</span> Ma i Leviti pianteranno le loro attorno al tabernacolo della testimonianza, affinchÃ© non si accenda lâira mia contro la comunitÃ  dei figli dâIsraele; e i Leviti avranno la cura del tabernacolo della testimonianzaâ."
+    },
+    "54": {
+      "eng": "<span class=\"verse-number\">54 </span>And the children of Israel did according to all that the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> commanded Moses, so did they.",
+      "ara": "<span class=\"verse-number\">Ù¥Ù¤ </span>ÙÙÙÙÙÙÙØ°Ù Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ØªÙÙÙØ§ÙØ§Ù ÙÙÙÙÙ ÙÙØ§ Ø£ÙÙÙØ±Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø¨ÙÙÙ ÙÙÙØ³ÙÙ.",
+      "jpn": "<span class=\"verse-number\">54</span> ã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã¯ãã®ããã«ãã¦ããã¹ã¦<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãã¢ã¼ã»ã«<ruby><rb>å½</rb><rt>ãã</rt></ruby>ããããããã«<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">54ã</span><u>ä»¥è²å</u>äººå°±è¿æ ·è¡ãå¡è¶ååæå©å<u>æ©è¥¿</u>çï¼ä»ä»¬å°±ç§æ ·è¡äºã",
+      "zht": "<span class=\"verse-number\">54ã</span><u>ä»¥è²å</u>äººå°±éæ¨£è¡ãå¡è¶åè¯æå©å<u>æ©è¥¿</u>çï¼ä»åå°±ç§æ¨£è¡äºã",
+      "spa": "<span class=\"verse-number\">54 </span>E hicieron los hijos de Israel conforme a todas las cosas que mandÃ³ JehovÃ¡ a MoisÃ©s; asÃ­ lo hicieron.",
+      "por": "<span class=\"verse-number\">54</span> Assim fizeram os filhos de Israel; conforme tudo o que o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> ordenara a MoisÃ©s, assim o fizeram.",
+      "fra": "<span class=\"verse-number\">54</span> Les enfants dâIsraÃ«l se conformÃ¨rent Ã  tous les ordres que lâÃternel avait donnÃ©s Ã  MoÃ¯seÂ ; ils firent ainsi.",
+      "deu": "<span class=\"verse-number\">54Â </span>So machten denn die Israeliten alles genau so, wie der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> Mose geboten hatte.",
+      "kor": "<span class=\"verse-number\">54</span> ì´ì¤ë¼ì ììì´ ê·¸ëë¡ ííë ì¬í¸ìê»ì ëª¨ì¸ìê² ëªë ¹íì  ëë¡ ííìëë¼",
+      "ita": "<span class=\"verse-number\">54</span> I figli dâIsraele si conformarono in tutto agli ordini che lâEterno aveva dato a MosÃ¨; fecero cosÃ¬."
+    },
+    "2021": {
+      "zhs": "<span class=\"verse-number\">20-21ã</span><u>ä»¥è²å</u>çé¿å­ï¼åä¾¿å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çç·ä¸ï¼å±æåä¸å­åäºç¾åã",
+      "zht": "<span class=\"verse-number\">20-21ã</span><u>ä»¥è²å</u>çé·å­ï¼åä¾¿å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çç·ä¸ï¼å±æåè¬å­åäºç¾åã"
+    },
+    "2223": {
+      "zhs": "<span class=\"verse-number\">22-23ã</span>è¥¿ç¼å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çç·ä¸ï¼å±æäºä¸ä¹åä¸ç¾åã",
+      "zht": "<span class=\"verse-number\">22-23ã</span>è¥¿ç·¬å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çç·ä¸ï¼å±æäºè¬ä¹åä¸ç¾åã"
+    },
+    "2425": {
+      "zhs": "<span class=\"verse-number\">24-25ã</span>è¿¦å¾å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çï¼å±æåä¸äºåå­ç¾äºååã",
+      "zht": "<span class=\"verse-number\">24-25ã</span>è¿¦å¾å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çï¼å±æåè¬äºåå­ç¾äºååã"
+    },
+    "2627": {
+      "zhs": "<span class=\"verse-number\">26-27ã</span>ç¹å¤§å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çï¼å±æä¸ä¸ååå­ç¾åã",
+      "zht": "<span class=\"verse-number\">26-27ã</span>ç¶å¤§å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çï¼å±æä¸è¬ååå­ç¾åã"
+    },
+    "2829": {
+      "zhs": "<span class=\"verse-number\">28-29ã</span>ä»¥è¨è¿¦å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çï¼å±æäºä¸åååç¾åã",
+      "zht": "<span class=\"verse-number\">28-29ã</span>ä»¥è©è¿¦å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çï¼å±æäºè¬åååç¾åã"
+    },
+    "3031": {
+      "zhs": "<span class=\"verse-number\">30-31ã</span>è¥¿å¸ä¼¦å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çï¼å±æäºä¸ä¸ååç¾åã",
+      "zht": "<span class=\"verse-number\">30-31ã</span>è¥¿å¸å«å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çï¼å±æäºè¬ä¸ååç¾åã"
+    },
+    "3233": {
+      "zhs": "<span class=\"verse-number\">32-33ã</span>çº¦çå­å­å±ä»¥æ³è²å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çï¼å±æåä¸é¶äºç¾åã",
+      "zht": "<span class=\"verse-number\">32-33ã</span>ç´çå­å­«å±¬ä»¥æ³è®å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çï¼å±æåè¬é¶äºç¾åã"
+    },
+    "3435": {
+      "zhs": "<span class=\"verse-number\">34-35ã</span>çæ¿è¥¿å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çï¼å±æä¸ä¸äºåäºç¾åã",
+      "zht": "<span class=\"verse-number\">34-35ã</span>çªæ¿è¥¿å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çï¼å±æä¸è¬äºåäºç¾åã"
+    },
+    "3637": {
+      "zhs": "<span class=\"verse-number\">36-37ã</span>ä¾¿éæ¯å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çï¼å±æä¸ä¸äºååç¾åã",
+      "zht": "<span class=\"verse-number\">36-37ã</span>ä¾¿éæ«å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çï¼å±æä¸è¬äºååç¾åã"
+    },
+    "3839": {
+      "zhs": "<span class=\"verse-number\">38-39ã</span>ä½å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çï¼å±æå­ä¸äºåä¸ç¾åã",
+      "zht": "<span class=\"verse-number\">38-39ã</span>ä½å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çï¼å±æå­è¬äºåä¸ç¾åã"
+    },
+    "4041": {
+      "zhs": "<span class=\"verse-number\">40-41ã</span>äºè®¾å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çï¼å±æåä¸ä¸åäºç¾åã",
+      "zht": "<span class=\"verse-number\">40-41ã</span>äºè¨­å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çï¼å±æåè¬ä¸åäºç¾åã"
+    },
+    "4243": {
+      "zhs": "<span class=\"verse-number\">42-43ã</span>æ¿å¼ä»å©å­å­çåä»£ï¼ç§çå®¶å®¤ãå®æãäººåçæ°ç®ï¼ä»äºåå²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ°çï¼å±æäºä¸ä¸ååç¾åã",
+      "zht": "<span class=\"verse-number\">42-43ã</span>æ¿å¼ä»å©å­å­«çå¾ä»£ï¼ç§èå®¶å®¤ãå®æãäººåçæ¸ç®ï¼å¾äºåæ­²ä»¥ä¸ï¼å¡è½åºå»æä»è¢«æ¸çï¼å±æäºè¬ä¸ååç¾åã"
+    },
+    "4546": {
+      "zhs": "<span class=\"verse-number\">45-46ã</span>è¿æ ·ï¼å¡<u>ä»¥è²å</u>äººä¸­è¢«æ°çï¼ç§çå®æï¼ä»äºåå²ä»¥ä¸ï¼è½åºå»æä»è¢«æ°çï¼å±æå­åä¸é¶ä¸åäºç¾äºååã",
+      "zht": "<span class=\"verse-number\">45-46ã</span>éæ¨£ï¼å¡<u>ä»¥è²å</u>äººä¸­è¢«æ¸çï¼ç§èå®æï¼å¾äºåæ­²ä»¥ä¸ï¼è½åºå»æä»è¢«æ¸çï¼å±æå­åè¬é¶ä¸åäºç¾äºååã"
+    }
+  }
+}

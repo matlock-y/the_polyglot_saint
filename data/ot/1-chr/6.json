@@ -1,0 +1,894 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "1-chr",
+    "chapter": 6,
+    "headings": {
+      "eng": "The sons of Levi, including Davidâs singers, are listedâThe responsibilities of Aaron and his descendants are givenâLevite cities are designated in the areas of the various tribes.",
+      "spa": "Se enumeran los hijos de LevÃ­, incluidos los cantores de DavidÂ â Se mencionan las responsabilidades de AarÃ³n y de su descendenciaÂ â Se seÃ±alan las ciudades levitas en las regiones de las diversas tribus.",
+      "por": "Enumeram-se os filhos de Levi, incluindo os cantores de DaviÂ â Especificam-se as responsabilidades de AarÃ£o e de seus descendentesÂ â Designam-se as cidades dos levitas nas regiÃµes das vÃ¡rias tribos.",
+      "fra": "Liste des fils de LÃ©vi, dont les chantres de David. ResponsabilitÃ©s dâAaron et de ses descendants. Les villes lÃ©vites sont dÃ©signÃ©es dans les territoires des diverses tribus.",
+      "deu": "Die SÃ¶hne Levis, darunter auch die SÃ¤nger Davids, werden aufgezÃ¤hltÂ â Die Aufgaben Aarons und seiner Nachkommen werden angegebenÂ â Innerhalb des Gebiets der einzelnen StÃ¤mme werden StÃ¤dte fÃ¼r die Leviten festgelegt.",
+      "ita": "Vengono elencati i figli di Levi, compresi i cantori di DavideÂ â Vengono descritte le responsabilitÃ  di Aaronne e dei suoi discendentiÂ â Vengono designate le cittÃ  Levite nelle aree delle varie tribÃ¹."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>The sons of Levi; Gershon, Kohath, and Merari.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø£ÙÙÙÙØ§ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙØ§ÙÙÙ ÙÙÙÙÙÙ: Ø¬ÙØ±ÙØ´ÙÙÙÙ ÙÙÙÙÙÙØ§ØªÙ ÙÙÙÙØ±ÙØ§Ø±ÙÙ.",
+      "jpn": "<span class=\"verse-number\">1 </span>ã¬ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã²ã«ã·ã§ã³ãã³ãããã¡ã©ãªã",
+      "spa": "<span class=\"verse-number\">1 </span>Los hijos de LevÃ­: GersÃ³n, Coat y Merari.",
+      "por": "<span class=\"verse-number\">1 </span>Os filhos de Levi <span class=\"clarity-word\">foram:</span> GÃ©rson, Coate, e Merari.",
+      "fra": "<span class=\"verse-number\">1 </span>Fils de LÃ©viÂ : Guerschom, Kehath et Merari.",
+      "deu": "<span class=\"verse-number\">1Â </span>Die SÃ¶hne Levis waren: Gerschom, Kehat und Merari.",
+      "kor": "<span class=\"verse-number\">1 </span>ë ìì ìë¤ë¤ì ê²ë¥´ìê³¼ ê·¸í«ê³¼ ë¯ë¼ë¦¬ì",
+      "ita": "<span class=\"verse-number\">1</span> Figli di Levi: Ghershom, Cheat e Merari."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙÙÙØ§ØªÙ: Ø¹ÙÙÙØ±ÙØ§ÙÙ ÙÙÙÙØµÙÙÙØ§Ø±Ù ÙÙØ­ÙØ¨ÙØ±ÙÙÙÙ ÙÙØ¹ÙØ²ÙÙÙØ¦ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">2 </span>ã³ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã¢ã ã©ã ãã¤ããã«ãããã­ã³ãã¦ã¸ã¨ã«ã",
+      "spa": "<span class=\"verse-number\">2 </span>Y los hijos de Coat: Amram, e Izhar, y HebrÃ³n y Uziel.",
+      "por": "<span class=\"verse-number\">2 </span>E os filhos de Coate: AnrÃ£o, e Izar, e Hebrom, e Uziel.",
+      "fra": "<span class=\"verse-number\">2 </span>Fils de KehathÂ : Amram, Jitsehar, HÃ©bron et Uziel.",
+      "deu": "<span class=\"verse-number\">2Â </span>Dies aber sind die Namen der SÃ¶hne Gerschoms: Libni und Schimi.",
+      "kor": "<span class=\"verse-number\">2 </span>ê·¸í«ì ìë¤ë¤ì ìë¯ëê³¼ ì´ì¤í ê³¼ í¤ë¸ë¡ ê³¼ ìììì´ì",
+      "ita": "<span class=\"verse-number\">2</span> Figli di Cheat: Amram, Izear, Hebron e Uziel."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙÙÙÙ Ø°ÙØ±ÙÙÙÙÙØ©Ù Ø¹ÙÙÙØ±ÙØ§ÙÙ ÙÙØ±ÙÙÙÙ ÙÙÙÙÙØ³ÙÙ ÙÙÙÙØ±ÙÙÙÙÙ. ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙØ±ÙÙÙÙ ÙÙØ§Ø¯ÙØ§Ø¨Ù ÙÙØ£ÙØ¨ÙÙÙÙÙ ÙÙØ£ÙÙÙÙØ¹ÙØ§Ø²ÙØ§Ø±Ù ÙÙØ¥ÙÙØ«ÙØ§ÙÙØ§Ø±ÙØ",
+      "jpn": "<span class=\"verse-number\">3 </span>ã¢ã ã©ã ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã¢ã­ã³ãã¢ã¼ã»ãããªã¢ã ãã¢ã­ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ããããã¢ãã¦ãã¨ã¬ã¢ã¶ã«ãã¤ã¿ãã«ã",
+      "spa": "<span class=\"verse-number\">3 </span>Y los hijos de Amram: AarÃ³n, y MoisÃ©s y MarÃ­a. Y los hijos de AarÃ³n: Nadab, y AbiÃº, Eleazar e Itamar.",
+      "por": "<span class=\"verse-number\">3 </span>E os filhos de AnrÃ£o: AarÃ£o, e MoisÃ©s, e MiriÃ£; e os filhos de AarÃ£o: Nadabe, e AbiÃº, e Eleazar, e Itamar.",
+      "fra": "<span class=\"verse-number\">3 </span>Fils dâAmramÂ : Aaron et MoÃ¯seÂ ; et Myriam. Fils dâAaronÂ : Nadab, Abihu, ÃlÃ©azar et Ithamar.",
+      "deu": "<span class=\"verse-number\">3Â </span>Und die SÃ¶hne Kehats waren: Amram, Jizhar, Hebron und UsiÃ«l.",
+      "kor": "<span class=\"verse-number\">3 </span>ìë¯ëì ìëë ìë¡ ê³¼ ëª¨ì¸ì ë¯¸ë¦¬ìì´ì ìë¡ ì ìëë ëëµê³¼ ìë¹íì ìë¥´ìì´ê³¼ ì´ë¤ë§ì´ë©°",
+      "ita": "<span class=\"verse-number\">3</span> Figli di Amram: Aaronne, MosÃ¨ e Maria. Figli di Aaronne: Nadab, Abiu, Eleazar e Itamar."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span><span class=\"para-mark\">Â¶ </span>Eleazar begat Phinehas, Phinehas begat Abishua,",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø£ÙÙÙÙØ¹ÙØ§Ø²ÙØ§Ø±Ù ÙÙÙÙÙØ­ÙØ§Ø³ÙØ ÙÙÙÙÙÙÙØ­ÙØ§Ø³Ù Ø£ÙØ¨ÙÙØ´ÙÙØ¹ÙØ",
+      "jpn": "<span class=\"verse-number\">4 </span>ã¨ã¬ã¢ã¶ã«ã¯ãããã¹ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ããããã¹ã¯ã¢ãã·ã¥ã¢ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
+      "spa": "<span class=\"verse-number\">4 </span>Eleazar engendrÃ³ a Finees, Finees engendrÃ³ a AbisÃºa,",
+      "por": "<span class=\"verse-number\">4 </span>E Eleazar gerou Fineias, e Fineias gerou Abisua,",
+      "fra": "<span class=\"verse-number\">4 </span>ÃlÃ©azar engendra PhinÃ©esÂ ; PhinÃ©es engendra AbischuaÂ ;",
+      "deu": "<span class=\"verse-number\">4Â </span>Die SÃ¶hne Meraris waren: Machli und Muschi.Â Dies aber sind die Sippen der Leviten nach ihren FamilienvÃ¤tern:",
+      "kor": "<span class=\"verse-number\">4 </span>ìë¥´ìì´ì ë¹ëíì¤ë¥¼ ë³ê³  ë¹ëíì¤ë ìë¹ììë¥¼ ë³ê³",
+      "ita": "<span class=\"verse-number\">4</span> Eleazar generÃ² Fineas; Fineas generÃ² Abishua;"
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>And Abishua begat Bukki, and Bukki begat Uzzi,",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ£ÙØ¨ÙÙØ´ÙÙØ¹Ù Ø¨ÙÙÙÙÙÙØ ÙÙØ¨ÙÙÙÙÙ Ø¹ÙØ²ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">5 </span>ã¢ãã·ã¥ã¢ã¯ããã­ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãããã­ã¯ã¦ã¸ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
+      "spa": "<span class=\"verse-number\">5 </span>y AbisÃºa engendrÃ³ a Buqui, y Buqui engendrÃ³ a Uzi,",
+      "por": "<span class=\"verse-number\">5 </span>E Abisua gerou Buqui, e Buqui gerou Uzi,",
+      "fra": "<span class=\"verse-number\">5 </span>Abischua engendra BukkiÂ ; Bukki engendra UzziÂ ;",
+      "deu": "<span class=\"verse-number\">5Â </span>Von Gerschom stammten: sein Sohn Libni, dessen Sohn Jahat, dessen Sohn Simma,",
+      "kor": "<span class=\"verse-number\">5 </span>ìë¹ììë ë¶ê¸°ë¥¼ ë³ê³  ë¶ê¸°ë ììë¥¼ ë³ê³",
+      "ita": "<span class=\"verse-number\">5</span> Abishua generÃ² Bucchi; Bucchi generÃ² Uzzi;"
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>And Uzzi begat Zerahiah, and Zerahiah begat Meraioth,",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø¹ÙØ²ÙÙÙ Ø²ÙØ±ÙØ­ÙÙÙØ§Ø ÙÙØ²ÙØ±ÙØ­ÙÙÙØ§ ÙÙØ±ÙØ§ÙÙÙØ«ÙØ",
+      "jpn": "<span class=\"verse-number\">6 </span>ã¦ã¸ã¯ã¼ã©ãã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã¼ã©ãã¤ã¯ã¡ã©ã¨ãã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
+      "spa": "<span class=\"verse-number\">6 </span>y Uzi engendrÃ³ a ZeraÃ­as, y ZeraÃ­as engendrÃ³ a Meraiot,",
+      "por": "<span class=\"verse-number\">6 </span>E Uzi gerou ZeraÃ­as, e ZeraÃ­as gerou Meraiote,",
+      "fra": "<span class=\"verse-number\">6 </span>Uzzi engendra ZerachjaÂ ; Zerachja engendra MerajothÂ ;",
+      "deu": "<span class=\"verse-number\">6Â </span>dessen Sohn Joach, dessen Sohn Iddo, dessen Sohn Serach, dessen Sohn Jeotrai.",
+      "kor": "<span class=\"verse-number\">6 </span>ììë ì¤ë¼íì¼ë¥¼ ë³ê³  ì¤ë¼íì¼ë ë¯ë¼ì§ì ë³ê³",
+      "ita": "<span class=\"verse-number\">6</span> Uzzi generÃ² Zeraia; Zeraia generÃ² Meraiot;"
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>Meraioth begat Amariah, and Amariah begat Ahitub,",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙØ±ÙØ§ÙÙÙØ«Ù Ø£ÙÙÙØ±ÙÙÙØ§Ø ÙÙØ£ÙÙÙØ±ÙÙÙØ§ Ø£ÙØ®ÙÙØ·ÙÙØ¨ÙØ",
+      "jpn": "<span class=\"verse-number\">7 </span>ã¡ã©ã¨ãã¯ã¢ããªã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã¢ããªã¤ã¯ã¢ãããã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
+      "spa": "<span class=\"verse-number\">7 </span>Meraiot engendrÃ³ a AmarÃ­as, y AmarÃ­as engendrÃ³ a Ahitob,",
+      "por": "<span class=\"verse-number\">7 </span>E Meraiote gerou Amarias, e Amarias gerou Aitube,",
+      "fra": "<span class=\"verse-number\">7 </span>Merajoth engendra AmariaÂ ; Amaria engendra AchithubÂ ;",
+      "deu": "<span class=\"verse-number\">7Â </span>Die SÃ¶hne Kehats waren: sein Sohn Amminadab, dessen Sohn Korach, dessen Sohn Assir,",
+      "kor": "<span class=\"verse-number\">7 </span>ë¯ë¼ì§ì ìë§ë´ë¥¼ ë³ê³  ìë§ë´ë ìíë¡ì ë³ê³",
+      "ita": "<span class=\"verse-number\">7</span> Meraiot generÃ² Amaria; Amaria generÃ² Aitub;"
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>And Ahitub begat Zadok, and Zadok begat Ahimaaz,",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø£ÙØ®ÙÙØ·ÙÙØ¨Ù ØµÙØ§Ø¯ÙÙÙÙØ ÙÙØµÙØ§Ø¯ÙÙÙÙ Ø£ÙØ®ÙÙÙÙØ¹ÙØµÙØ",
+      "jpn": "<span class=\"verse-number\">8 </span>ã¢ãããã¯ã¶ãã¯ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã¶ãã¯ã¯ã¢ããã¢ãºã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
+      "spa": "<span class=\"verse-number\">8 </span>y Ahitob engendrÃ³ a Sadoc, y Sadoc engendrÃ³ a Ahimaas,",
+      "por": "<span class=\"verse-number\">8 </span>E Aitube gerou Zadoque, e Zadoque gerou AimaÃ¡s,",
+      "fra": "<span class=\"verse-number\">8 </span>Achithub engendra TsadokÂ ; Tsadok engendra AchimaatsÂ ;",
+      "deu": "<span class=\"verse-number\">8Â </span>dessen Sohn Elkana, dessen Sohn Abiasaf, dessen Sohn Assir,",
+      "kor": "<span class=\"verse-number\">8 </span>ìíë¡ì ì¬ëì ë³ê³  ì¬ëì ìíë§ìì¤ë¥¼ ë³ê³",
+      "ita": "<span class=\"verse-number\">8</span> Aitub generÃ² Zadoc; Zadoc generÃ² Aimaaz;"
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>And Ahimaaz begat Azariah, and Azariah begat Johanan,",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ£ÙØ®ÙÙÙÙØ¹ÙØµÙ Ø¹ÙØ²ÙØ±ÙÙÙØ§Ø ÙÙØ¹ÙØ²ÙØ±ÙÙÙØ§ ÙÙÙØ­ÙØ§ÙÙØ§ÙÙØ",
+      "jpn": "<span class=\"verse-number\">9 </span>ã¢ããã¢ãºã¯ã¢ã¶ãªã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã¢ã¶ãªã¤ã¯ã¨ããã³ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
+      "spa": "<span class=\"verse-number\">9 </span>y Ahimaas engendrÃ³ a AzarÃ­as, y AzarÃ­as engendrÃ³ a JohanÃ¡n,",
+      "por": "<span class=\"verse-number\">9 </span>E AimaÃ¡s gerou Azarias, e Azarias gerou JoanÃ£,",
+      "fra": "<span class=\"verse-number\">9 </span>Achimaats engendra AzariaÂ ; Azaria engendra JochananÂ ;",
+      "deu": "<span class=\"verse-number\">9Â </span>dessen Sohn Tahat, dessen Sohn UriÃ«l, dessen Sohn Usija, dessen Sohn Schaul.",
+      "kor": "<span class=\"verse-number\">9 </span>ìíë§ìì¤ë ìì¬ë´ë¥¼ ë³ê³  ìì¬ë´ë ìíëì ë³ê³",
+      "ita": "<span class=\"verse-number\">9</span> Aimaaz generÃ² Azaria; Azaria generÃ² Ioanan;"
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>And Johanan begat Azariah, (he <span class=\"clarity-word\">it is</span> that executed the priestâs office in the temple that Solomon built in Jerusalem:)",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>Ø§ÙÙÙØ°ÙÙ Ø£ÙÙÙØ¬ÙØ¨Ù Ø¹ÙØ²ÙØ±ÙÙÙØ§. ÙÙÙÙØ¯Ù Ø£ÙØµÙØ¨ÙØ­Ù Ø¹ÙØ²ÙØ±ÙÙÙØ§ Ø±ÙØ¦ÙÙØ³Ù Ø§ÙÙÙÙÙÙÙÙØ©Ù ÙÙÙ Ø§ÙÙÙÙÙÙÙÙÙÙ Ø§ÙÙÙØ°ÙÙ Ø¨ÙÙÙØ§ÙÙ Ø³ÙÙÙÙÙÙÙØ§ÙÙ ÙÙÙ Ø£ÙÙØ±ÙØ´ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">10 </span>ã¨ããã³ã¯ã¢ã¶ãªã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã ããã®ã¢ã¶ãªã¤ã¯ã½ã­ã¢ã³ãã¨ã«ãµã¬ã ã«<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ã<ruby><rb>å®®</rb><rt>ã¿ã</rt></ruby>ã§<ruby><rb>ç¥­å¸</rb><rt>ããã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¤ã¨ã</rt></ruby>ããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">10 </span>y JohanÃ¡n engendrÃ³ a AzarÃ­as, el que sirviÃ³ como sacerdote en el templo que SalomÃ³n edificÃ³ en JerusalÃ©n;",
+      "por": "<span class=\"verse-number\">10 </span>E JoanÃ£ gerou Azarias; este <span class=\"clarity-word\">Ã©</span> o que serviu como sacerdote na casa que SalomÃ£o edificou em JerusalÃ©m.",
+      "fra": "<span class=\"verse-number\">10 </span>Jochanan engendra Azaria, qui exerÃ§a le sacerdoce dans la maison que Salomon bÃ¢tit Ã  JÃ©rusalemÂ ;",
+      "deu": "<span class=\"verse-number\">10Â </span>Und die SÃ¶hne Elkanas waren: Amasai und Ahimot;",
+      "kor": "<span class=\"verse-number\">10 </span>ìíëì ìì¬ë´ë¥¼ ë³ìì¼ë ì´ ìì¬ë´ë ìë¡ëª¬ì´ ìë£¨ì´ë ì ì¸ì´ ì±ì ìì ì ì¬ì¥ì ì§ë¶ì íí ìì´ë©°",
+      "ita": "<span class=\"verse-number\">10</span> Ioanan generÃ² Azaria, che esercitÃ² il sacerdozio nella casa che Salomone edificÃ² a Gerusalemme."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>And Azariah begat Amariah, and Amariah begat Ahitub,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø¹ÙØ²ÙØ±ÙÙÙØ§ Ø£ÙÙÙØ±ÙÙÙØ§Ø ÙÙØ£ÙÙÙØ±ÙÙÙØ§ Ø£ÙØ®ÙÙØ·ÙÙØ¨ÙØ",
+      "jpn": "<span class=\"verse-number\">11 </span>ã¢ã¶ãªã¤ã¯ã¢ããªã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã¢ããªã¤ã¯ã¢ãããã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
+      "spa": "<span class=\"verse-number\">11 </span>y AzarÃ­as engendrÃ³ a AmarÃ­as, y AmarÃ­as engendrÃ³ a Ahitob,",
+      "por": "<span class=\"verse-number\">11 </span>E Azarias gerou Amarias, e Amarias gerou Aitube,",
+      "fra": "<span class=\"verse-number\">11 </span>Azaria engendra AmariaÂ ; Amaria engendra AchithubÂ ;",
+      "deu": "<span class=\"verse-number\">11Â </span>dessen Sohn war Elkana, dessen Sohn Zuf, dessen Sohn Nahat,",
+      "kor": "<span class=\"verse-number\">11 </span>ìì¬ë´ë ìë§ë´ë¥¼ ë³ê³  ìë§ë´ë ìíë¡ì ë³ê³",
+      "ita": "<span class=\"verse-number\">11</span> Azaria generÃ² Amaria; Amaria generÃ² Aitub;"
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>And Ahitub begat Zadok, and Zadok begat Shallum,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ£ÙØ®ÙÙØ·ÙÙØ¨Ù ØµÙØ§Ø¯ÙÙÙÙØ ÙÙØµÙØ§Ø¯ÙÙÙÙ Ø´ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">12 </span>ã¢ãããã¯ã¶ãã¯ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã¶ãã¯ã¯ã·ã£ã«ã ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
+      "spa": "<span class=\"verse-number\">12 </span>y Ahitob engendrÃ³ a Sadoc, y Sadoc engendrÃ³ a Salum,",
+      "por": "<span class=\"verse-number\">12 </span>E Aitube gerou Zadoque, e Zadoque gerou Salum,",
+      "fra": "<span class=\"verse-number\">12 </span>Achithub engendra TsadokÂ ; Tsadok engendra SchallumÂ ;",
+      "deu": "<span class=\"verse-number\">12Â </span>dessen Sohn Eliab, dessen Sohn Jeroham, dessen Sohn Elkana, <span class=\"clarity-word\">dessen Sohn Samuel.</span>",
+      "kor": "<span class=\"verse-number\">12 </span>ìíë¡ì ì¬ëì ë³ê³  ì¬ëì ì´ë£¸ì ë³ê³",
+      "ita": "<span class=\"verse-number\">12</span> Aitub generÃ² Zadoc; Zadoc generÃ² Shallum;"
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>And Shallum begat Hilkiah, and Hilkiah begat Azariah,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø´ÙÙÙÙÙÙÙ Ø­ÙÙÙÙÙÙÙØ§Ø ÙÙØ­ÙÙÙÙÙÙÙØ§ Ø¹ÙØ²ÙØ±ÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">13 </span>ã·ã£ã«ã ã¯ãã«ã­ã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ããã«ã­ã¤ã¯ã¢ã¶ãªã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ã",
+      "spa": "<span class=\"verse-number\">13 </span>y Salum engendrÃ³ a HilcÃ­as, e HilcÃ­as engendrÃ³ a AzarÃ­as,",
+      "por": "<span class=\"verse-number\">13 </span>E Salum gerou Hilquias, e Hilquias gerou Azarias,",
+      "fra": "<span class=\"verse-number\">13 </span>Schallum engendra HilkijaÂ ; Hilkija engendra AzariaÂ ;",
+      "deu": "<span class=\"verse-number\">13Â </span>Und die SÃ¶hne Samuels waren: der Erstgeborene JoÃ«l und der zweite Abija.",
+      "kor": "<span class=\"verse-number\">13 </span>ì´ë£¸ì íê¸°ì¼ë¥¼ ë³ê³  íê¸°ì¼ë ìì¬ë´ë¥¼ ë³ê³",
+      "ita": "<span class=\"verse-number\">13</span> Shallum generÃ² Ilchia;"
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>And Azariah begat Seraiah, and Seraiah begat Jehozadak,",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ¹ÙØ²ÙØ±ÙÙÙØ§ Ø³ÙØ±ÙØ§ÙÙØ§Ø ÙÙØ³ÙØ±ÙØ§ÙÙØ§ ÙÙÙÙÙØµÙØ§Ø¯ÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">14 </span>ã¢ã¶ãªã¤ã¯ã»ã©ã¤ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã¿ãã»ã©ã¤ã¯ã¨ã¶ãã¯ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ãã ã",
+      "spa": "<span class=\"verse-number\">14 </span>y AzarÃ­as engendrÃ³ a SeraÃ­as, y SeraÃ­as engendrÃ³ a Josadac.",
+      "por": "<span class=\"verse-number\">14 </span>E Azarias gerou SeraÃ­as, e SeraÃ­as gerou Jeozadaque,",
+      "fra": "<span class=\"verse-number\">14 </span>et Azaria engendra SerajaÂ ; Seraja engendra Jehotsadak,",
+      "deu": "<span class=\"verse-number\">14Â </span>Die SÃ¶hne Meraris waren: Machli, dessen Sohn Libni, dessen Sohn Schimi, dessen Sohn Usa,",
+      "kor": "<span class=\"verse-number\">14 </span>ìì¬ë´ë ì¤ë¼ì¼ë¥¼ ë³ê³  ì¤ë¼ì¼ë ì¬í¸ì¬ë¥ì ë³ìì¼ë©°",
+      "ita": "<span class=\"verse-number\">14</span> Ilchia generÃ² Azaria; Azaria generÃ² Seraia; Seraia generÃ² Ieozadac;"
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>And Jehozadak went <span class=\"clarity-word\">into captivity,</span> when the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> carried away Judah and Jerusalem by the hand of Nebuchadnezzar.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙØ°ÙÙÙØ¨Ù ÙÙÙÙÙØµÙØ§Ø¯ÙØ§ÙÙ ÙÙÙ Ø§ÙØ£ÙØ³ÙØ±Ù Ø¹ÙÙÙØ¯ÙÙÙØ§ Ø³ÙÙÙØ­Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙØ¨ÙÙØ®ÙØ°ÙÙÙØµÙÙØ±Ù Ø¨ÙØ³ÙØ¨ÙÙÙ ÙÙÙÙÙØ°ÙØ§ ÙÙØ£ÙÙØ±ÙØ´ÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">15 </span>ã¨ã¶ãã¯ã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããã«ããã¶ã«ã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã«ãã£ã¦ã¦ãã¨ã¨ã«ãµã¬ã ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã<ruby><rb>ç§»</rb><rt>ãã¤</rt></ruby>ããã<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ãããã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ãã",
+      "spa": "<span class=\"verse-number\">15 </span>Y Josadac fue llevado <span class=\"clarity-word\">cautivo</span> cuando JehovÃ¡ llevÃ³ al exilio a JudÃ¡ y a JerusalÃ©n por mano de Nabucodonosor.",
+      "por": "<span class=\"verse-number\">15 </span>E Jeozadaque foi levado quando o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> levou JudÃ¡ e JerusalÃ©m cativos pela mÃ£o de Nabucodonosor.",
+      "fra": "<span class=\"verse-number\">15 </span>Jehotsadak sâen alla quand lâÃternel emmena en captivitÃ© Juda et JÃ©rusalem par Nebucadnetsar.",
+      "deu": "<span class=\"verse-number\">15Â </span>dessen Sohn Schima, dessen Sohn Haggija, dessen Sohn Asaja.",
+      "kor": "<span class=\"verse-number\">15 </span>ì¬í¸ìê»ì ëë¶ê°ë¤ì´ì ìì¼ë¡ ì ë¤ì ìë£¨ì´ë  ë°±ì±ì ì®ê¸°ì¤ ëì ì¬í¸ì¬ë¥ë ê°ëë¼",
+      "ita": "<span class=\"verse-number\">15</span> Ieozadac se ne andÃ² in esilio quando lâEterno fece condurre in schiavitÃ¹ Giuda e Gerusalemme da Nabucodonosor."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span><span class=\"para-mark\">Â¶ </span>The sons of Levi; Gershom, Kohath, and Merari.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù ÙØ§ÙÙÙ: Ø¬ÙØ±ÙØ´ÙÙÙÙ ÙÙÙÙÙÙØ§ØªÙ ÙÙÙÙØ±ÙØ§Ø±ÙÙ.",
+      "jpn": "<span class=\"verse-number\">16 </span>ã¬ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã²ã«ã·ã§ã³ãã³ããããã³ã¡ã©ãªã",
+      "spa": "<span class=\"verse-number\">16 </span>Los hijos de LevÃ­: GersÃ³n, Coat y Merari.",
+      "por": "<span class=\"verse-number\">16 </span>Os filhos de Levi <span class=\"clarity-word\">foram, pois,</span> GÃ©rson, Coate, e Merari.",
+      "fra": "<span class=\"verse-number\">16 </span>Fils de LÃ©viÂ : Guerschom, Kehath et Merari.",
+      "deu": "<span class=\"verse-number\">16Â </span>Die folgenden sind es, die David zur Leitung des Gesangs im Haus des <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> bestellte, nachdem die Lade dort einen festen Platz gefunden hatte;",
+      "kor": "<span class=\"verse-number\">16 </span>ë ìì ìë¤ë¤ì ê²ë¥´ìê³¼ ê·¸í«ê³¼ ë¯ë¼ë¦¬ì´ë©°",
+      "ita": "<span class=\"verse-number\">16</span> Figli di Levi: Ghershom, Cheat e Merari."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>And these <span class=\"clarity-word\">be</span> the names of the sons of Gershom; Libni, and Shimei.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>Ø£ÙÙÙÙØ§ Ø§Ø³ÙÙÙØ§ Ø§Ø¨ÙÙÙÙÙ Ø¬ÙØ±ÙØ´ÙÙÙÙ ÙÙÙÙÙÙØ§ ÙÙØ¨ÙÙÙÙ ÙÙØ´ÙÙÙØ¹ÙÙ.",
+      "jpn": "<span class=\"verse-number\">17 </span>ã²ã«ã·ã§ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã¯ãªããã¨ã·ã¡ã¤ã",
+      "spa": "<span class=\"verse-number\">17 </span>Y estos son los nombres de los hijos de GersÃ³n: Libni y Simei.",
+      "por": "<span class=\"verse-number\">17 </span>E estes <span class=\"clarity-word\">sÃ£o</span> os nomes dos filhos de GÃ©rson: Libni e Simei.",
+      "fra": "<span class=\"verse-number\">17 </span>Voici les noms des fils de GuerschomÂ : Libni et SchimeÃ¯.",
+      "deu": "<span class=\"verse-number\">17Â </span>sie dienten aber als SÃ¤nger vor der Wohnung des Offenbarungszeltes, bis Salomo das Haus des <span class=\"deity-name\"><span class=\"small-caps\">Herrn</span></span> in Jerusalem erbaut hatte, und verrichteten ihr Amt nach den ihnen erteilten Weisungen.",
+      "kor": "<span class=\"verse-number\">17 </span>ê²ë¥´ìì ìë¤ë¤ì ì´ë¦ì ì´ë¬íë ë¦½ëì ìë¯ì´ì",
+      "ita": "<span class=\"verse-number\">17</span> Questi sono i nomi dei figli di Ghershom: Libni e Scimei."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>And the sons of Kohath <span class=\"clarity-word\">were,</span> Amram, and Izhar, and Hebron, and Uzziel.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙÙÙØ§ØªÙ: Ø¹ÙÙÙØ±ÙØ§ÙÙ ÙÙÙÙØµÙÙÙØ§Ø±Ù ÙÙØ­ÙØ¨ÙØ±ÙÙÙÙ ÙÙØ¹ÙØ²ÙÙÙØ¦ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">18 </span>ã³ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã¢ã ã©ã ãã¤ããã«ãããã­ã³ãã¦ã¸ã¨ã«ã§ããã",
+      "spa": "<span class=\"verse-number\">18 </span>Y los hijos de Coat: Amram, e Izhar, y HebrÃ³n y Uziel.",
+      "por": "<span class=\"verse-number\">18 </span>E os filhos de Coate: AnrÃ£o, e Izar, e Hebrom, e Uziel.",
+      "fra": "<span class=\"verse-number\">18 </span>Fils de KehathÂ : Amram, Jitsehar, HÃ©bron et Uziel.",
+      "deu": "<span class=\"verse-number\">18Â </span>Die Folgenden sind es, die das Amt versahen, und ihre Nachkommen: von den zu den Kehatitern GehÃ¶rigen: Heman, der SÃ¤nger, der Sohn JoÃ«ls, des Sohnes Samuels,",
+      "kor": "<span class=\"verse-number\">18 </span>ê·¸í«ì ìë¤ë¤ì ìë¯ëê³¼ ì´ì¤í ê³¼ í¤ë¸ë¡ ê³¼ ìììì´ì",
+      "ita": "<span class=\"verse-number\">18</span> Figli di Cheat: Amram, Izear, Hebron e Uziel."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>The sons of Merari; Mahli, and Mushi. And these <span class=\"clarity-word\">are</span> the families of the Levites according to their fathers.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØ§Ø¨ÙÙÙØ§ ÙÙØ±ÙØ§Ø±ÙÙ: ÙÙØ­ÙÙÙÙ ÙÙÙÙÙØ´ÙÙ. ÙÙÙÙØ°ÙÙÙ Ø£ÙØ³ÙÙÙØ§Ø¡Ù Ø¹ÙØ´ÙØ§Ø¦ÙØ±Ù Ø§ÙÙÙØ§ÙÙÙÙÙÙÙÙ Ø­ÙØ³ÙØ¨Ù ØªÙØ±ÙØªÙÙØ¨Ù Ø¹ÙØ§Ø¦ÙÙØ§ØªÙÙÙÙÙ:",
+      "jpn": "<span class=\"verse-number\">19 </span>ã¡ã©ãªã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ãããªã¨ã ã·ããããã¯ã¬ãã³ã¨ã®ãã®<ruby><rb>å®¶ç­</rb><rt>ãããã</rt></ruby>ã«ãã<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">19 </span>Los hijos de Merari: Mahli y Musi. Y estas son las familias de LevÃ­, segÃºn sus padres.",
+      "por": "<span class=\"verse-number\">19 </span>Os filhos de Merari: Mali e Musi; estas <span class=\"clarity-word\">sÃ£o</span> as famÃ­lias dos levitas, segundo seus pais.",
+      "fra": "<span class=\"verse-number\">19 </span>Fils de MerariÂ : Machli et Muschi. Ce sont lÃ  les familles de LÃ©vi, selon leurs pÃ¨res.",
+      "deu": "<span class=\"verse-number\">19Â </span>des Sohnes Elkanas, des Sohnes Jerohams, des Sohnes EliÃ«ls, des Sohnes Tohus,",
+      "kor": "<span class=\"verse-number\">19 </span>ë¯ë¼ë¦¬ì ìë¤ë¤ì ë§ë¦¬ì ë¬´ìë¼ ê·¸ ì¡°ìì ë°ë¼ ë ìì ì¢ì¡±ì ì´ë¬íë",
+      "ita": "<span class=\"verse-number\">19</span> Figli di Merari: Mali e Musci. Queste sono le famiglie di Levi, secondo le loro case patriarcali."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>Of Gershom; Libni his son, Jahath his son, Zimmah his son,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>Ø£ÙÙÙØ¬ÙØ¨Ù Ø¬ÙØ±ÙØ´ÙÙÙÙ ÙÙØ¨ÙÙÙÙØ ÙÙÙÙØ¨ÙÙÙÙ ÙÙØ­ÙØ«ÙØ ÙÙÙÙØ­ÙØ«Ù Ø²ÙÙÙÙØ©ÙØ",
+      "jpn": "<span class=\"verse-number\">20 </span>ã²ã«ã·ã§ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ãªããããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¤ããããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¸ã³ãã",
+      "spa": "<span class=\"verse-number\">20 </span>De GersÃ³n: Libni, su hijo, Jahat, su hijo, Zima, su hijo,",
+      "por": "<span class=\"verse-number\">20 </span>De GÃ©rson: Libni, seu filho; Jaate, seu filho; Zima, seu filho;",
+      "fra": "<span class=\"verse-number\">20 </span>De GuerschomÂ : Libni, son filsÂ ; Jachath, son filsÂ ; Zimma, son filsÂ ;",
+      "deu": "<span class=\"verse-number\">20Â </span>des Sohnes Zufs, des Sohnes Elkanas, des Sohnes Mahats, des Sohnes Amasais,",
+      "kor": "<span class=\"verse-number\">20 </span>ê²ë¥´ììê²ì ë ìë ê³§ ê·¸ì ìë¤ ë¦½ëì ê·¸ì ìë¤ì ì¼í«ì´ì ê·¸ì ìë¤ì ì¬ë§ì",
+      "ita": "<span class=\"verse-number\">20</span> Ghershom ebbe per figlio Libni, che ebbe per figlio Iahat, che ebbe per figlio Zimma,"
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>Joah his son, Iddo his son, Zerah his son, Jeaterai his son.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØ²ÙÙÙÙØ©Ù ÙÙÙØ¢Ø®ÙØ ÙÙÙÙÙØ¢Ø®Ù Ø¹ÙØ¯ÙÙÙØ ÙÙØ¹ÙØ¯ÙÙÙ Ø²ÙØ§Ø±ÙØ­ÙØ ÙÙØ²ÙØ§Ø±ÙØ­Ù ÙÙØ£ÙØ«ÙØ±ÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">21 </span>ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¨ã¢ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¤ãããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¼ã©ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¤ãã©ã¤ã",
+      "spa": "<span class=\"verse-number\">21 </span>Joa, su hijo, Iddo, su hijo, Zera, su hijo, Jeatrai, su hijo.",
+      "por": "<span class=\"verse-number\">21 </span>JoÃ¡, seu filho; Ido, seu filho; ZerÃ¡, seu filho; Jeatarai, seu filho.",
+      "fra": "<span class=\"verse-number\">21 </span>Joach, son filsÂ ; Iddo, son filsÂ ; ZÃ©rach, son filsÂ ; JeathraÃ¯, son fils.",
+      "deu": "<span class=\"verse-number\">21Â </span>des Sohnes Elkanas, des Sohnes JoÃ«ls, des Sohnes Asarjas, des Sohnes Zefanjas,",
+      "kor": "<span class=\"verse-number\">21 </span>ê·¸ì ìë¤ì ììì ê·¸ì ìë¤ì ìëì ê·¸ì ìë¤ì ì¸ë¼ì ê·¸ì ìë¤ì ì¬ìëëì´ë©°",
+      "ita": "<span class=\"verse-number\">21</span> che ebbe per figlio Ioa, che ebbe per figlio Iddo, che ebbe per figlio Zera, che ebbe per figlio Ieatrai."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>The sons of Kohath; Amminadab his son, Korah his son, Assir his son,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙÙÙØ§ØªÙ Ø¹ÙÙÙÙÙÙÙØ§Ø¯ÙØ§Ø¨ÙØ ÙÙØ¹ÙÙÙÙÙÙÙØ§Ø¯ÙØ§Ø¨Ù ÙÙÙØ±ÙØ­ÙØ ÙÙÙÙÙØ±ÙØ­Ù Ø£ÙØ³ÙÙÙØ±ÙØ",
+      "jpn": "<span class=\"verse-number\">22 </span>ã³ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ããããããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã³ã©ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ã·ã«ã",
+      "spa": "<span class=\"verse-number\">22 </span>Los hijos de Coat: Aminadab, su hijo, CorÃ©, su hijo, Asir, su hijo,",
+      "por": "<span class=\"verse-number\">22 </span>Os filhos de Coate <span class=\"clarity-word\">foram:</span> Aminadabe, seu filho; CorÃ©, seu filho; Assir, seu filho;",
+      "fra": "<span class=\"verse-number\">22 </span>Fils de KehathÂ : Amminadab, son filsÂ ; KorÃ©, son filsÂ ; Assir, son filsÂ ;",
+      "deu": "<span class=\"verse-number\">22Â </span>des Sohnes Tahats, des Sohnes Assirs, des Sohnes Abiasafs, des Sohnes Korachs,",
+      "kor": "<span class=\"verse-number\">22 </span>ê·¸í«ìê²ì ë ìë ê³§ ê·¸ ìë¤ì ìë¯¸ëëµì´ì ê·¸ì ìë¤ì ê³ ë¼ì ê·¸ì ìë¤ì ìì¤ì´ì",
+      "ita": "<span class=\"verse-number\">22</span> Figli di Cheat: Amminadab, che ebbe per figlio Core, che ebbe per figlio Assir,"
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>Elkanah his son, and Ebiasaph his son, and Assir his son,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙØ£ÙØ³ÙÙÙØ±Ù Ø£ÙÙÙÙÙØ§ÙÙØ©ÙØ ÙÙØ£ÙÙÙÙÙØ§ÙÙØ©Ù Ø£ÙØ¨ÙÙØ£ÙØ³ÙØ§ÙÙØ ÙÙØ£ÙØ¨ÙÙØ£ÙØ³ÙØ§ÙÙ Ø£ÙØ³ÙÙÙØ±ÙØ",
+      "jpn": "<span class=\"verse-number\">23 </span>ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¨ã«ã«ãããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¨ãã¢ãµãããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ã·ã«ã",
+      "spa": "<span class=\"verse-number\">23 </span>Elcana, su hijo, y Ebiasaf, su hijo, y Asir, su hijo,",
+      "por": "<span class=\"verse-number\">23 </span>Elcana, seu filho; Ebiasafe, seu filho; Assir, seu filho;",
+      "fra": "<span class=\"verse-number\">23 </span>Elkana, son filsÂ ; Ebjasaph, son filsÂ ; Assir, son filsÂ ;",
+      "deu": "<span class=\"verse-number\">23Â </span>des Sohnes Jizhars, des Sohnes Kehats, des Sohnes Levis, des Sohnes Israels.",
+      "kor": "<span class=\"verse-number\">23 </span>ê·¸ì ìë¤ì ìê°ëì ê·¸ì ìë¤ì ìë¹ìì½ì´ì ê·¸ì ìë¤ì ìì¤ì´ì",
+      "ita": "<span class=\"verse-number\">23</span> che ebbe per figlio Elcana, che ebbe per figlio Ebiasaf, che ebbe per figlio Assir,"
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙØ£ÙØ³ÙÙÙØ±Ù ØªÙØ­ÙØ«ÙØ ÙÙØªÙØ­ÙØ«Ù Ø£ÙÙØ±ÙÙØ¦ÙÙÙÙØ ÙÙØ£ÙÙØ±ÙÙØ¦ÙÙÙÙ Ø¹ÙØ²ÙÙÙÙÙØ§Ø ÙÙØ¹ÙØ²ÙÙÙÙÙØ§ Ø´ÙØ§ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">24 </span>ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¿ããããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¦ãªã¨ã«ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¦ã¸ã¤ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã·ã£ã¦ã«ã",
+      "spa": "<span class=\"verse-number\">24 </span>Tahat, su hijo, Uriel, su hijo, UzÃ­as, su hijo y SaÃºl, su hijo.",
+      "por": "<span class=\"verse-number\">24 </span>Taate, seu filho; Uriel, seu filho; Uzias, seu filho; e Saul, seu filho.",
+      "fra": "<span class=\"verse-number\">24 </span>Thachath, son filsÂ ; Uriel, son filsÂ ; Ozias, son filsÂ ; SaÃ¼l, son fils.",
+      "deu": "<span class=\"verse-number\">24Â </span>Und sein Bruder war Asaf, der ihm zur Rechten stand: Asaf, der Sohn Berechjas, des Sohnes Schimas,",
+      "kor": "<span class=\"verse-number\">24 </span>ê·¸ì ìë¤ì ë¤í«ì´ì ê·¸ì ìë¤ì ì°ë¦¬ìì´ì ê·¸ì ìë¤ì ììì¼ì ê·¸ì ìë¤ì ì¬ì¸ì´ë¼",
+      "ita": "<span class=\"verse-number\">24</span> che ebbe per figlio Tahat, che ebbe per figlio Uriel, che ebbe per figlio Uzzia, che ebbe per figlio Saul."
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>And the sons of Elkanah; Amasai, and Ahimoth.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>ÙÙØ´Ø§ÙÙÙÙ Ø£ÙÙÙÙÙØ§ÙÙØ©ÙØ ÙÙÙÙÙÙØ¯Ù Ø£ÙÙÙÙÙØ§ÙÙØ©Ù Ø§Ø¨ÙÙÙÙÙÙÙ ÙÙÙÙØ§ Ø¹ÙÙÙØ§Ø³ÙØ§ÙÙ ÙÙØ£ÙØ®ÙÙÙÙÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">25 </span>ã¨ã«ã«ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã¢ããµã¤ã¨ã¢ãã¢ãã",
+      "spa": "<span class=\"verse-number\">25 </span>Y los hijos de Elcana: Amasai y Ahimot.",
+      "por": "<span class=\"verse-number\">25 </span>E os filhos de Elcana: Amasai e Aimote.",
+      "fra": "<span class=\"verse-number\">25 </span>Fils dâElkanaÂ : AmasaÃ¯ et AchimothÂ ;",
+      "deu": "<span class=\"verse-number\">25Â </span>des Sohnes Michaels, des Sohnes Maasejas, des Sohnes Malkijas,",
+      "kor": "<span class=\"verse-number\">25 </span>ìê°ëì ìë¤ë¤ì ìë§ìì ìíëª»ì´ë¼",
+      "ita": "<span class=\"verse-number\">25</span> Figli di Elcana: Amasai e Aimot,"
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span><span class=\"clarity-word\">As for</span> Elkanah: the sons of Elkanah; Zophai his son, and Nahath his son,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù Ø£ÙØ®ÙÙÙÙÙØªÙ Ø£ÙÙÙÙÙØ§ÙÙØ©ÙØ ÙÙÙÙÙÙØ¯Ù Ø£ÙÙÙÙÙØ§ÙÙØ©Ù ØµÙÙÙÙØ§ÙÙØ ÙÙØµÙÙÙÙØ§ÙÙ ÙÙØ­ÙØ«Ù.",
+      "jpn": "<span class=\"verse-number\">26 </span>ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¨ã«ã«ãããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¾ãã¤ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ãããã",
+      "spa": "<span class=\"verse-number\">26 </span>Con respecto a Elcana, los hijos de Elcana: Zofai, su hijo y Nahat, su hijo,",
+      "por": "<span class=\"verse-number\">26 </span><span class=\"clarity-word\">Quanto</span> a Elcana, os filhos de <span class=\"page-break\" data-page=\"673\"></span>Elcana <span class=\"clarity-word\">foram:</span> Zofai, seu filho, e seu filho Naate,",
+      "fra": "<span class=\"verse-number\">26 </span>Elkana, son filsÂ ; Elkana-TsophaÃ¯, son filsÂ ; Nachath, son filsÂ ;",
+      "deu": "<span class=\"verse-number\">26Â </span>des Sohnes Etnis, des Sohnes Serachs, des Sohnes Adajas,",
+      "kor": "<span class=\"verse-number\">26 </span>ìê°ëë¡ ë§íë©´ ê·¸ì ììì ì´ë¬íë ê·¸ì ìë¤ì ìë°°ì ê·¸ì ìë¤ì ëí«ì´ì",
+      "ita": "<span class=\"verse-number\">26</span> che ebbe per figlio Elcana, che ebbe per figlio Zofai, che ebbe per figlio Nahat,"
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>Eliab his son, Jeroham his son, Elkanah his son.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙÙÙØ­ÙØ«Ù Ø£ÙÙÙÙØ¢Ø¨ÙØ ÙÙØ£ÙÙÙÙØ¢Ø¨Ù ÙÙØ±ÙÙØ­ÙØ§ÙÙØ ÙÙÙÙØ±ÙÙØ­ÙØ§ÙÙ Ø£ÙÙÙÙÙØ§ÙÙØ©Ù (Ø§ÙÙÙØ°ÙÙ Ø£ÙÙÙØ¬ÙØ¨Ù ØµÙÙÙÙØ¦ÙÙÙÙ).",
+      "jpn": "<span class=\"verse-number\">27 </span>ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¨ãªã¢ãããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¨ã­ãã ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¨ã«ã«ãã",
+      "spa": "<span class=\"verse-number\">27 </span>Eliab, su hijo, Jeroham, su hijo, Elcana, su hijo.",
+      "por": "<span class=\"verse-number\">27 </span>Seu filho Eliabe, seu filho JeroÃ£o, seu filho Elcana.",
+      "fra": "<span class=\"verse-number\">27 </span>Ãliab, son filsÂ ; Jerocham, son filsÂ ; Elkana, son filsÂ ;",
+      "deu": "<span class=\"verse-number\">27Â </span>des Sohnes Etans, des Sohnes Simmas, des Sohnes Schimis,",
+      "kor": "<span class=\"verse-number\">27 </span>ê·¸ì ìë¤ì ìë¦¬ìì´ì ê·¸ì ìë¤ì ì¬ë¡í¨ì´ì ê·¸ì ìë¤ì ìê°ëë¼",
+      "ita": "<span class=\"verse-number\">27</span> che ebbe per figlio Eliab, che ebbe per figlio Ieroam, che ebbe per figlio Elcana."
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span>And the sons of Samuel; the firstborn Vashni, and Abiah.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙÙÙØ§ÙÙ ÙÙØµÙÙÙÙØ¦ÙÙÙÙ Ø§Ø¨ÙÙÙØ§ÙÙ Ø£ÙÙÙØ¨ÙØ±ÙÙÙÙÙØ§ ÙÙØ´ÙÙÙÙ ÙÙØ§ÙØ«ÙÙØ§ÙÙÙ Ø£ÙØ¨ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">28 </span>ãµã ã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ã<ruby><rb>é·å­</rb><rt>ã¡ããã</rt></ruby>ã¯ã¨ã¨ã«ã<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã¯ã¢ãã¤ã",
+      "spa": "<span class=\"verse-number\">28 </span>Y los hijos de Samuel: el primogÃ©nito Vasni y AbÃ­as.",
+      "por": "<span class=\"verse-number\">28 </span>E os filhos de Samuel: Vasni, seu primogÃªnito, e Abias.",
+      "fra": "<span class=\"verse-number\">28 </span>et les fils de Samuel, le premier-nÃ© Vaschni et Abija.",
+      "deu": "<span class=\"verse-number\">28Â </span>des Sohnes Zahats, des Sohnes Gerschoms, des Sohnes Levis.",
+      "kor": "<span class=\"verse-number\">28 </span>ì¬ë¬´ìì ìë¤ë¤ì ë§ìë¤ ììì´ì ë¤ìì ìë¹ì¼ë¼",
+      "ita": "<span class=\"verse-number\">28</span> Figli di Samuele: Vashni, il primogenito, e Abia."
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>The sons of Merari; Mahli, Libni his son, Shimei his son, Uzza his son,",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙØ£ÙÙÙØ¬ÙØ¨Ù ÙÙØ±ÙØ§Ø±ÙÙ ÙÙØ­ÙÙÙÙØ ÙÙÙÙØ­ÙÙÙÙ ÙÙØ¨ÙÙÙÙØ ÙÙÙÙØ¨ÙÙÙÙ Ø´ÙÙÙØ¹ÙÙØ ÙÙØ´ÙÙÙØ¹ÙÙ Ø¹ÙØ²ÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">29 </span>ã¡ã©ãªã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ãããªããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ãªããããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã·ã¡ã¤ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¦ã¶ã",
+      "spa": "<span class=\"verse-number\">29 </span>Los hijos de Merari: Mahli, Libni, su hijo, Simei, su hijo, Uza, su hijo,",
+      "por": "<span class=\"verse-number\">29 </span>Os filhos de Merari: Mali, seu filho Libni, seu filho Simei, seu filho UzÃ¡,",
+      "fra": "<span class=\"verse-number\">29 </span>Fils de MerariÂ : MachliÂ ; Libni, son filsÂ ; SchimeÃ¯, son filsÂ ; Uzza, son filsÂ ;",
+      "deu": "<span class=\"verse-number\">29Â </span>Und von den Nachkommen Meraris, ihren BrÃ¼dern, stand zur Linken: Etan, der Sohn Kischis, des Sohnes Abdis, des Sohnes Malluchs,",
+      "kor": "<span class=\"verse-number\">29 </span>ë¯ë¼ë¦¬ìê²ì ë ìë ë§ë¦¬ì ê·¸ì ìë¤ì ë¦½ëì ê·¸ì ìë¤ì ìë¯ì´ì ê·¸ì ìë¤ì ìì¬ì",
+      "ita": "<span class=\"verse-number\">29</span> Figli di Merari: Mali, che ebbe per figlio Libni, che ebbe per figlio Scimei, che ebbe per figlio Uzza,"
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span>Shimea his son, Haggiah his son, Asaiah his son.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>ÙÙØ¹ÙØ²ÙÙØ©Ù Ø´ÙÙÙØ¹ÙÙØ ÙÙØ´ÙÙÙØ¹ÙÙ Ø­ÙØ¬ÙÙÙÙØ§Ø ÙÙØ­ÙØ¬ÙÙÙÙØ§ Ø¹ÙØ³ÙØ§ÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">30 </span>ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã·ã¡ã¢ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ãã®ã¤ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ãµã¤ã§ããã",
+      "spa": "<span class=\"verse-number\">30 </span>Simea, su hijo, HaguÃ­a, su hijo, AsaÃ­as, su hijo.",
+      "por": "<span class=\"verse-number\">30 </span>Seu filho Simeia, seu filho Hagias, seu filho AsaÃ­as.",
+      "fra": "<span class=\"verse-number\">30 </span>Schimea, son filsÂ ; Hagguija, son filsÂ ; Asaja, son fils.",
+      "deu": "<span class=\"verse-number\">30Â </span>des Sohnes Haschabjas, des Sohnes Amazjas, des Sohnes Hilkijas,",
+      "kor": "<span class=\"verse-number\">30 </span>ê·¸ì ìë¤ì ìë¯ìì ê·¸ì ìë¤ì íê¸°ì¼ì ê·¸ì ìë¤ì ìì¬ì¼ëë¼",
+      "ita": "<span class=\"verse-number\">30</span> che ebbe per figlio Scimea, che ebbe per figlio Agghia, che ebbe per figlio Asaia."
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span>And these <span class=\"clarity-word\">are they</span> whom David set over the service of song in the house of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span>, after that the ark had rest.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙØ¨ÙØ¹ÙØ¯Ù Ø£ÙÙÙ Ø§Ø³ÙØªÙÙÙØ±ÙÙ Ø§ÙØªÙÙØ§Ø¨ÙÙØªÙ ÙÙÙ Ø¨ÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¹ÙÙÙÙÙÙ Ø¯ÙØ§ÙÙØ¯Ù ÙÙØ§Ø¯ÙØ©Ù ÙÙØ¬ÙÙÙÙÙØ©Ù Ø§ÙØªÙÙØ³ÙØ¨ÙÙØ­Ù.",
+      "jpn": "<span class=\"verse-number\">31 </span><ruby><rb>å¥ç´</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>ç®±</rb><rt>ã¯ã</rt></ruby>ã<ruby><rb>å®ç½®</rb><rt>ããã¡</rt></ruby>ããã®ã¡ããããã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å®®</rb><rt>ã¿ã</rt></ruby>ã§<ruby><rb>æ­</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ãã¤ããã©ããã<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã¯<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®ã¨ããã§ããã",
+      "spa": "<span class=\"verse-number\">31 </span>Y estos son los que David puso a cargo del servicio del canto en la casa de JehovÃ¡, despuÃ©s que el arca tuvo reposo.",
+      "por": "<span class=\"verse-number\">31 </span>Esses <span class=\"clarity-word\">sÃ£o,</span> pois, os que Davi constituiu para o ofÃ­cio do canto na casa do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span>, depois que a arca teve repouso.",
+      "fra": "<span class=\"verse-number\">31 </span>Voici ceux que David Ã©tablit pour la direction du chant dans la maison de lâÃternel, depuis que lâarche avait un lieu de reposÂ :",
+      "deu": "<span class=\"verse-number\">31Â </span>des Sohnes Amzis, des Sohnes Banis, des Sohnes Schemers,",
+      "kor": "<span class=\"verse-number\">31 </span>ì¸ì½ê¶¤ê° íìì ì»ìì ëì ë¤ìì´ ì¬í¸ìì ì±ì ìì ì°¬ì¡íë ì§ë¶ì ë§¡ê¸´ ìë¤ì ìëì ê°ìëë¼",
+      "ita": "<span class=\"verse-number\">31</span> Questi sono quelli che Davide stabilÃ¬ per la direzione del canto nella casa dellâEterno, dopo che lâarca ebbe un luogo di riposo."
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span>And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> in Jerusalem: and <span class=\"clarity-word\">then</span> they waited on their office according to their order.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙÙÙØ§Ø¸ÙØ¨ÙÙØ§ Ø¹ÙÙÙÙ Ø§ÙÙØ®ÙØ¯ÙÙÙØ©Ù Ø£ÙÙÙØ§ÙÙ ÙÙØ³ÙÙÙÙÙ Ø®ÙÙÙÙÙØ©Ù Ø§ÙØ§Ø¬ÙØªÙÙÙØ§Ø¹Ù Ø¥ÙÙÙÙ Ø£ÙÙÙ Ø¨ÙÙÙÙ Ø³ÙÙÙÙÙÙÙØ§ÙÙ ÙÙÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙ Ø£ÙÙØ±ÙØ´ÙÙÙÙÙÙØ ÙÙØ§Ø³ÙØªÙÙÙØ±ÙÙÙØ§ ÙÙØ§Ø¦ÙÙÙÙÙÙ Ø¨ÙØ§ÙÙØ®ÙØ¯ÙÙÙØ©Ù Ø­ÙØ³ÙØ¨Ù ØªÙØ±ÙØªÙÙØ¨ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">32 </span><ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>ä¼è¦</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã§<ruby><rb>æ­</rb><rt>ãã</rt></ruby>ããã£ã¦<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ããããã½ã­ã¢ã³ãã¨ã«ãµã¬ã ã«<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å®®</rb><rt>ã¿ã</rt></ruby>ã<ruby><rb>å»º</rb><rt>ã</rt></ruby>ã¦ã¦ããã¯ã<ruby><rb>ä¸å®</rb><rt>ãã£ã¦ã</rt></ruby>ã®<ruby><rb>ç§©åº</rb><rt>ã¡ã¤ãã</rt></ruby>ã«<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ã£ã¦<ruby><rb>å</rb><rt>ã¤ã¨ã</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã£ãã",
+      "spa": "<span class=\"verse-number\">32 </span>Y servÃ­an delante de la tienda del tabernÃ¡culo de reuniÃ³n en el canto, hasta que SalomÃ³n edificÃ³ la casa de JehovÃ¡ en JerusalÃ©n; despuÃ©s se mantuvieron en su ministerio segÃºn su costumbre.",
+      "por": "<span class=\"verse-number\">32 </span>E ministravam diante do tabernÃ¡culo da tenda da congregaÃ§Ã£o com cantares, atÃ© que SalomÃ£o edificou a casa do <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> em JerusalÃ©m; e exerciam o seu ministÃ©rio, segundo a sua ordem.",
+      "fra": "<span class=\"verse-number\">32 </span>ils remplirent les fonctions de chantres devant le tabernacle, devant la tente de la rencontre, jusquâÃ  ce que Salomon ait bÃ¢ti la maison de lâÃternel Ã  JÃ©rusalem, et ils faisaient leur service dâaprÃ¨s la rÃ¨gle qui leur Ã©tait prescrite.",
+      "deu": "<span class=\"verse-number\">32Â </span>des Sohnes Machlis, des Sohnes Muschis, des Sohnes Meraris, des Sohnes Levis.",
+      "kor": "<span class=\"verse-number\">32 </span>ìë¡ëª¬ì´ ìë£¨ì´ë ìì ì¬í¸ìì ì±ì ì ì¸ì¸ ëê¹ì§ ê·¸ë¤ì´ íë§ ììì ì°¬ì¡íë ì¼ì ííë ê·¸ ê³ì´ëë¡ ì§ë¬´ë¥¼ ííìëë¼",
+      "ita": "<span class=\"verse-number\">32</span> Essi esercitarono il loro ufficio di cantori davanti al tabernacolo, davanti alla tenda di convegno, finchÃ© Salomone ebbe edificato la casa dellâEterno a Gerusalemme; e facevano il loro servizio, secondo la regola loro prescritta."
+    },
+    "33": {
+      "eng": "<span class=\"verse-number\">33 </span>And these <span class=\"clarity-word\">are</span> they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,",
+      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>ÙÙÙÙØ°ÙØ§ Ø³ÙØ¬ÙÙÙÙ Ø¨ÙÙÙØ³ÙØ¨Ù ÙÙØ§Ø¯ÙØ©Ù Ø§ÙÙÙÙØºÙÙÙÙÙÙÙ ÙÙØ£ÙÙÙÙØ§Ø¯ÙÙÙÙÙ ÙÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø¡Ù Ø§ÙÙÙÙÙÙØ§ØªÙÙÙÙÙÙÙ: ÙÙÙÙÙÙØ§ÙÙ Ø§ÙÙÙÙØºÙÙÙÙÙ Ø§Ø¨ÙÙÙ ÙÙÙØ¦ÙÙÙÙ Ø¨ÙÙÙ ØµÙÙÙÙØ¦ÙÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">33 </span>ãã®<ruby><rb>å</rb><rt>ã¤ã¨ã</rt></ruby>ããããã®ãããã³ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®ã¨ããã§ãããã³ããã³ã¨ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®ãã¡ããã³ã¯<ruby><rb>æ­</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ãããã³ã¯ã¨ã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¨ã¨ã«ã¯ãµã ã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">33 </span>Y estos son los que servÃ­an con sus hijos: de los hijos de los coatitas, HemÃ¡n, el cantor, hijo de Joel, hijo de Samuel,",
+      "por": "<span class=\"verse-number\">33 </span>Estes <span class=\"clarity-word\">sÃ£o,</span> pois, os que <span class=\"clarity-word\">ali</span> estavam com seus filhos: dos filhos dos coatitas, HemÃ£, o cantor, filho de Joel, filho de Samuel,",
+      "fra": "<span class=\"verse-number\">33 </span>Voici ceux qui officiaient avec leurs fils. Dâentre les fils des KehathitesÂ : HÃ©man, le chantre, fils de JoÃ«l, fils de Samuel,",
+      "deu": "<span class=\"verse-number\">33Â </span>Ihre BrÃ¼der aber, die Ã¼brigen Leviten, waren fÃ¼r den gesamten Dienst an der WohnstÃ¤tte des Tempels Gottes bestellt;",
+      "kor": "<span class=\"verse-number\">33 </span>ì§ë¬´ë¥¼ ííë ìì ê·¸ì ìë¤ë¤ì ì´ë¬íë ê·¸í«ì ìì ì¤ì í¤ë§ì ì°¬ì¡íë ìë¼ ê·¸ë ììì ìë¤ì´ì ììì ì¬ë¬´ìì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">33</span> Questi sono quelli che facevano il loro servizio, e questi i loro figli. Dei figli dei Cheatiti: Eman, il cantore, figlio di Gioele, figlio di Samuele,"
+    },
+    "34": {
+      "eng": "<span class=\"verse-number\">34 </span>The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,",
+      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>Ø¨ÙÙÙ Ø£ÙÙÙÙÙØ§ÙÙØ©Ù Ø¨ÙÙÙ ÙÙØ±ÙÙØ­ÙØ§ÙÙ Ø¨ÙÙÙ Ø¥ÙÙÙÙÙØ¦ÙÙÙÙ Ø¨ÙÙÙ ØªÙÙØ­ÙØ",
+      "jpn": "<span class=\"verse-number\">34 </span>ãµã ã¨ã«ã¯ã¨ã«ã«ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¨ã«ã«ãã¯ã¨ã­ãã ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¨ã­ãã ã¯ã¨ãªã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¨ãªã¨ã«ã¯ãã¢ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">34 </span>hijo de Elcana, hijo de Jeroham, hijo de Eliel, hijo de Toa,",
+      "por": "<span class=\"verse-number\">34 </span>Filho de Elcana, filho de JeroÃ£o, filho de Eliel, filho de ToÃ¡,",
+      "fra": "<span class=\"verse-number\">34 </span>fils dâElkana, fils de Jerocham, fils dâÃliel, fils de Thoach,",
+      "deu": "<span class=\"verse-number\">34Â </span>und zwar versahen Aaron und seine Nachkommen den Opferdienst auf dem Brandopferaltar und auf dem RÃ¤ucheraltar und den gesamten Dienst am Allerheiligsten und um fÃ¼r Israel SÃ¼hne zu wirken, ganz so, wie Mose, der Knecht Gottes, geboten hatte.",
+      "kor": "<span class=\"verse-number\">34 </span>ì¬ë¬´ìì ìê°ëì ìë¤ì´ì ìê°ëë ì¬ë¡í¨ì ìë¤ì´ì ì¬ë¡í¨ì ìë¦¬ìì ìë¤ì´ì ìë¦¬ìì ëìì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">34</span> figlio di Elcana, figlio di Ieroam, figlio di Eliel, figlio di Toa,"
+    },
+    "35": {
+      "eng": "<span class=\"verse-number\">35 </span>The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,",
+      "ara": "<span class=\"verse-number\">Ù£Ù¥ </span>Ø¨ÙÙÙ ØµÙÙÙÙ Ø¨ÙÙÙ Ø£ÙÙÙÙÙØ§ÙÙØ©Ù Ø¨ÙÙÙ ÙÙØ­ÙØ«Ù Ø¨ÙÙÙ Ø¹ÙÙÙØ§Ø³ÙØ§ÙÙØ",
+      "jpn": "<span class=\"verse-number\">35 </span>ãã¢ã¯ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãããã¯ã¨ã«ã«ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¨ã«ã«ãã¯ãããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããããã¯ã¢ããµã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">35 </span>hijo de Zuf, hijo de Elcana, hijo de Mahat, hijo de Amasai,",
+      "por": "<span class=\"verse-number\">35 </span>Filho de Zufe, filho de Elcana, filho de Maate, filho de Amasai,",
+      "fra": "<span class=\"verse-number\">35 </span>fils de Tsuph, fils dâElkana, fils de Machath, fils dâAmasaÃ¯,",
+      "deu": "<span class=\"verse-number\">35Â </span>Dies waren aber die Nachkommen Aarons: sein Sohn Eleasar, dessen Sohn Pinhas, dessen Sohn Abischua,",
+      "kor": "<span class=\"verse-number\">35 </span>ëìë ì©ì ìë¤ì´ì ì©ì ìê°ëì ìë¤ì´ì ìê°ëë ë§í«ì ìë¤ì´ì ë§í«ì ìë§ìì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">35</span> figlio di Zuf, figlio di Elcana, figlio di Mahat, figlio di Amasai,"
+    },
+    "36": {
+      "eng": "<span class=\"verse-number\">36 </span>The son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,",
+      "ara": "<span class=\"verse-number\">Ù£Ù¦ </span>Ø¨ÙÙÙ Ø£ÙÙÙÙÙØ§ÙÙØ©Ù Ø¨ÙÙÙ ÙÙÙØ¦ÙÙÙÙ Ø¨ÙÙÙ Ø¹ÙØ²ÙØ±ÙÙÙØ§ Ø¨ÙÙÙ ØµÙÙÙÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">36 </span>ã¢ããµã¤ã¯ã¨ã«ã«ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¨ã«ã«ãã¯ã¨ã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¨ã¨ã«ã¯ã¢ã¶ãªã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¢ã¶ãªã¤ã¯ã¼ããã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">36 </span>hijo de Elcana, hijo de Joel, hijo de AzarÃ­as, hijo de SofonÃ­as,",
+      "por": "<span class=\"verse-number\">36 </span>Filho de Elcana, filho de Joel, filho de Azarias, filho de Sofonias,",
+      "fra": "<span class=\"verse-number\">36 </span>fils dâElkana, fils de JoÃ«l, fils dâAzaria, fils de Sophonie,",
+      "deu": "<span class=\"verse-number\">36Â </span>dessen Sohn Bukki, dessen Sohn Usi, dessen Sohn Serachja,",
+      "kor": "<span class=\"verse-number\">36 </span>ìë§ìë ìê°ëì ìë¤ì´ì ìê°ëë ììì ìë¤ì´ì ììì ìì¬ë´ì ìë¤ì´ì ìì¬ë´ë ì¤ë°ëì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">36</span> figlio di Elcana, figlio di Gioele, figlio di Azaria, figlio di Sofonia,"
+    },
+    "37": {
+      "eng": "<span class=\"verse-number\">37 </span>The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,",
+      "ara": "<span class=\"verse-number\">Ù£Ù§ </span>Ø¨ÙÙÙ ØªÙØ­ÙØ«Ù Ø¨ÙÙÙ Ø£ÙØ³ÙÙÙØ±Ù Ø¨ÙÙÙ Ø£ÙØ¨ÙÙÙØ§Ø³ÙØ§ÙÙ Ø¨ÙÙÙ ÙÙÙØ±ÙØ­ÙØ",
+      "jpn": "<span class=\"verse-number\">37 </span>ã¼ããã¤ã¯ã¿ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¿ããã¯ã¢ã·ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¢ã·ã«ã¯ã¨ãã¢ãµãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¨ãã¢ãµãã¯ã³ã©ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">37 </span>hijo de Tahat, hijo de Asir, hijo de Ebiasaf, hijo de CorÃ©,",
+      "por": "<span class=\"verse-number\">37 </span>Filho de Taate, filho de Assir, filho de Ebiasafe, filho de CorÃ©,",
+      "fra": "<span class=\"verse-number\">37 </span>fils de Thachath, fils dâAssir, fils dâEbjasaph, fils de KorÃ©,",
+      "deu": "<span class=\"verse-number\">37Â </span>dessen Sohn Merajot, dessen Sohn Amarja, dessen Sohn Ahitub,",
+      "kor": "<span class=\"verse-number\">37 </span>ì¤ë°ëë ë¤í«ì ìë¤ì´ì ë¤í«ì ìì¤ì ìë¤ì´ì ìì¤ì ìë¹ìì½ì ìë¤ì´ì ìë¹ìì½ì ê³ ë¼ì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">37</span> figlio di Tahat, figlio di Assir, figlio di Ebiasaf, figlio di Core, figlio di Izear,"
+    },
+    "38": {
+      "eng": "<span class=\"verse-number\">38 </span>The son of Izhar, the son of Kohath, the son of Levi, the son of Israel.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¨ </span>Ø¨ÙÙÙ ÙÙØµÙÙÙØ§Ø±Ù Ø¨ÙÙÙ ÙÙÙÙØ§ØªÙ Ø¨ÙÙÙ ÙØ§ÙÙÙ Ø¨ÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">38 </span>ã³ã©ã¯ã¤ããã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¤ããã«ã¯ã³ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã³ããã¯ã¬ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¬ãã¯ã¤ã¹ã©ã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">38 </span>hijo de Izhar, hijo de Coat, hijo de LevÃ­, hijo de Israel.",
+      "por": "<span class=\"verse-number\">38 </span>Filho de Izar, filho de Coate, filho de Levi, filho de Israel.",
+      "fra": "<span class=\"verse-number\">38 </span>fils de Jitsehar, fils de Kehath, fils de LÃ©vi, fils dâIsraÃ«l.",
+      "deu": "<span class=\"verse-number\">38Â </span>dessen Sohn Zadok, dessen Sohn Ahimaaz.",
+      "kor": "<span class=\"verse-number\">38 </span>ê³ ë¼ë ì´ì¤í ì ìë¤ì´ì ì´ì¤í ì ê·¸í«ì ìë¤ì´ì ê·¸í«ì ë ìì ìë¤ì´ì ë ìë ì´ì¤ë¼ìì ìë¤ì´ë¼",
+      "ita": "<span class=\"verse-number\">38</span> figlio di Cheat, figlio di Levi, figlio dâIsraele."
+    },
+    "39": {
+      "eng": "<span class=\"verse-number\">39 </span>And his brother Asaph, who stood on his right hand, <span class=\"clarity-word\">even</span> Asaph the son of Berachiah, the son of Shimea,",
+      "ara": "<span class=\"verse-number\">Ù£Ù© </span>ÙÙÙÙØ§ÙÙ Ø¢Ø³ÙØ§ÙÙ ÙÙØ³ÙØ§Ø¹ÙØ¯Ø§Ù ÙÙÙÙÙÙÙÙØ§ÙÙØ ÙÙÙÙÙÙ Ø¢Ø³ÙØ§ÙÙ Ø¨ÙÙÙ Ø¨ÙØ±ÙØ®ÙÙÙØ§ Ø¨ÙÙÙ Ø´ÙÙÙØ¹ÙÙØ",
+      "jpn": "<span class=\"verse-number\">39 </span>ããã³ã®<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã¢ãµãã¯ããã³ã®<ruby><rb>å³</rb><rt>ã¿ã</rt></ruby>ã«<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã£ããã¢ãµãã¯ãã¬ã­ã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããã¬ã­ã¤ã¯ã·ã¡ã¢ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">39 </span>Y su hermano Asaf, el cual estaba a su mano derecha, <span class=\"clarity-word\">es decir,</span> Asaf hijo de BerequÃ­as, hijo de Simea,",
+      "por": "<span class=\"verse-number\">39 </span>E seu irmÃ£o Asafe estava Ã  sua direita; <span class=\"clarity-word\">e era</span> Asafe filho de Berequias, filho de Simeia,",
+      "fra": "<span class=\"verse-number\">39 </span>Son frÃ¨re Asaph, qui se tenait Ã  sa droite, Asaph, fils de BÃ©rÃ©kia, fils de Schimea,",
+      "deu": "<span class=\"verse-number\">39Â </span>Folgendes aber sind ihre Wohnsitze nach ihren Ansiedlungen in ihrem Gebiet: Den Nachkommen Aarons von der Sippe der KehatiterÂ â denn auf sie war das erste Los gefallenÂ â,",
+      "kor": "<span class=\"verse-number\">39 </span>í¤ë§ì íì  ìì½ì í¤ë§ì ì¤ë¥¸ìª½ìì ì§ë¬´ë¥¼ ííìì¼ë ê·¸ë ë² ë ê°¸ì ìë¤ì´ì ë² ë ê°¸ë ìë¯ìì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">39</span> Poi vâera suo fratello Asaf, che gli stava alla destra: Asaf, figlio di Berechia, figlio di Scimea,"
+    },
+    "40": {
+      "eng": "<span class=\"verse-number\">40 </span>The son of Michael, the son of Baaseiah, the son of Malchiah,",
+      "ara": "<span class=\"verse-number\">Ù¤Ù  </span>Ø¨ÙÙÙ ÙÙÙØ®ÙØ§Ø¦ÙÙÙÙ Ø¨ÙÙÙ Ø¨ÙØ¹ÙØ³ÙÙÙØ§ Ø¨ÙÙÙ ÙÙÙÙÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">40 </span>ã·ã¡ã¢ã¯ãã«ã¨ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããã«ã¨ã«ã¯ãã¢ã»ã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããã¢ã»ã¤ã¯ãã«ã­ã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">40 </span>hijo de Micael, hijo de BaasÃ­as, hijo de MalquÃ­as,",
+      "por": "<span class=\"verse-number\">40 </span>Filho de Micael, filho de Baaseias, filho de Malquias,",
+      "fra": "<span class=\"verse-number\">40 </span>fils de MicaÃ«l, fils de BaasÃ©ja, fils de Malkija,",
+      "deu": "<span class=\"verse-number\">40Â </span>ihnen gab man Hebron im Land Juda samt den zugehÃ¶rigen WeideflÃ¤chen rings um sie her;",
+      "kor": "<span class=\"verse-number\">40 </span>ìë¯ìë ë¯¸ê°ìì ìë¤ì´ì ë¯¸ê°ìì ë°ìì¸ì¼ì ìë¤ì´ì ë°ìì¸ì¼ë ë§ê¸°ì¼ì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">40</span> figlio di Micael, figlio di Baaseia, figlio di Malchia,"
+    },
+    "41": {
+      "eng": "<span class=\"verse-number\">41 </span>The son of Ethni, the son of Zerah, the son of Adaiah,",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¡ </span>Ø¨ÙÙÙ Ø£ÙØ«ÙÙÙØ§ÙÙ Ø¨ÙÙÙ Ø²ÙØ§Ø±ÙØ­Ù Ø¨ÙÙÙ Ø¹ÙØ¯ÙØ§ÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">41 </span>ãã«ã­ã¤ã¯ã¨ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¨ããã¯ã¼ã©ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¼ã©ã¯ã¢ãã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">41 </span>hijo de Etni, hijo de Zera, hijo de AdaÃ­a,",
+      "por": "<span class=\"verse-number\">41 </span>Filho de Etni, filho de ZerÃ¡, filho de AdaÃ­as,",
+      "fra": "<span class=\"verse-number\">41 </span>fils dâEthni, fils de ZÃ©rach, fils dâAdaja,",
+      "deu": "<span class=\"verse-number\">41Â </span>die zur Stadt gehÃ¶rigen Felder aber und die zugehÃ¶rigen DÃ¶rfer Ã¼bergab man Kaleb, dem Sohn Jefunnes.",
+      "kor": "<span class=\"verse-number\">41 </span>ë§ê¸°ì¼ë ìëëì ìë¤ì´ì ìëëë ì¸ë¼ì ìë¤ì´ì ì¸ë¼ë ìë¤ì¼ì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">41</span> figlio di Etni, figlio di Zera, figlio di Adaia,"
+    },
+    "42": {
+      "eng": "<span class=\"verse-number\">42 </span>The son of Ethan, the son of Zimmah, the son of Shimei,",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¢ </span>Ø¨ÙÙÙ Ø£ÙÙÙØ«ÙØ§ÙÙ Ø¨ÙÙÙ Ø²ÙÙÙÙØ©Ù Ø¨ÙÙÙ Ø´ÙÙÙØ¹ÙÙØ",
+      "jpn": "<span class=\"verse-number\">42 </span>ã¢ãã¤ã¯ã¨ã¿ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¨ã¿ã³ã¯ã¸ã³ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¸ã³ãã¯ã·ã¡ã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">42 </span>hijo de EtÃ¡n, hijo de Zima, hijo de Simei,",
+      "por": "<span class=\"verse-number\">42 </span>Filho de EtÃ£, filho de Zima, filho de Simei,",
+      "fra": "<span class=\"verse-number\">42 </span>fils dâÃthan, fils de Zimma, fils de SchimeÃ¯,",
+      "deu": "<span class=\"verse-number\">42Â </span>Weiter Ã¼bergab man den Nachkommen Aarons die Zufluchtsstadt Hebron sowie Libna samt den zugehÃ¶rigen WeideflÃ¤chen, ferner Jattir und Eschtemoa samt den zugehÃ¶rigen WeideflÃ¤chen,",
+      "kor": "<span class=\"verse-number\">42 </span>ìë¤ì¼ë ìë¨ì ìë¤ì´ì ìë¨ì ì¬ë§ì ìë¤ì´ì ì¬ë§ë ìë¯ì´ì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">42</span> figlio di Etan, figlio di Zimma, figlio di Scimei,"
+    },
+    "43": {
+      "eng": "<span class=\"verse-number\">43 </span>The son of Jahath, the son of Gershom, the son of Levi.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù£ </span>Ø¨ÙÙÙ ÙÙØ­ÙØ«Ù Ø¨ÙÙÙ Ø¬ÙØ±ÙØ´ÙÙÙÙ Ø¨ÙÙÙ ÙØ§ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">43 </span>ã·ã¡ã¤ã¯ã¤ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¤ããã¯ã²ã«ã·ã§ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã²ã«ã·ã§ã³ã¯ã¬ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">43 </span>hijo de Jahat, hijo de GersÃ³n, hijo de LevÃ­.",
+      "por": "<span class=\"verse-number\">43 </span>Filho de Jaate, filho de GÃ©rson, filho de Levi.",
+      "fra": "<span class=\"verse-number\">43 </span>fils de Jachath, fils de Guerschom, fils de LÃ©vi.",
+      "deu": "<span class=\"verse-number\">43Â </span>Holon samt den zugehÃ¶rigen WeideflÃ¤chen, Debir samt den zugehÃ¶rigen WeideflÃ¤chen,",
+      "kor": "<span class=\"verse-number\">43 </span>ìë¯ì´ë ì¼í«ì ìë¤ì´ì ì¼í«ì ê²ë¥´ìì ìë¤ì´ì ê²ë¥´ìì ë ìì ìë¤ì´ë©°",
+      "ita": "<span class=\"verse-number\">43</span> figlio di Iahat, figlio di Ghershom, figlio di Levi."
+    },
+    "44": {
+      "eng": "<span class=\"verse-number\">44 </span>And their brethren the sons of Merari <span class=\"clarity-word\">stood</span> on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¤ </span>ÙÙÙÙØ§ÙÙ Ø£ÙÙÙØ«ÙØ§ÙÙ ÙÙØ³ÙØ§Ø¹ÙØ¯Ø§Ù Ø«ÙØ§ÙÙÙØ§Ù ÙÙÙÙÙÙÙÙØ§ÙÙØ ÙÙÙÙÙÙ ÙÙÙÙ Ø°ÙØ±ÙÙÙÙÙØ©Ù ÙÙØ±ÙØ§Ø±ÙÙØ ÙÙØ£ÙØ¨ÙÙÙÙ ÙÙÙØ´ÙÙ Ø¨ÙÙÙ Ø¹ÙØ¨ÙØ¯ÙÙ Ø¨ÙÙÙ ÙÙÙÙÙÙØ®ÙØ",
+      "jpn": "<span class=\"verse-number\">44 </span>ã¾ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã§ããã¡ã©ãªã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã<ruby><rb>å·¦</rb><rt>ã²ã ã</rt></ruby>ã«<ruby><rb>ç«</rb><rt>ã</rt></ruby>ã£ãããã®ãã¡ã®ã¨ã¿ã³ã¯ã­ã·ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã­ã·ã¯ã¢ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¢ããã¯ãã«ã¯ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">44 </span>Y los hijos de Merari, sus hermanos, estaban a la mano izquierda: EtÃ¡n hijo de Quisi, hijo de Abdi, hijo de Maluc,",
+      "por": "<span class=\"verse-number\">44 </span>E seus irmÃ£os, os filhos de Merari, <span class=\"clarity-word\">estavam</span> Ã  esquerda, a <span class=\"clarity-word\">saber:</span> EtÃ£, filho de Quisi, filho de Abdi, filho de Maluque,",
+      "fra": "<span class=\"verse-number\">44 </span>Fils de Merari, leurs frÃ¨res, Ã  gaucheÂ ; Ãthan, fils de Kischi, fils dâAbdi, fils de Malluc,",
+      "deu": "<span class=\"verse-number\">44Â </span>Aschan samt den zugehÃ¶rigen WeideflÃ¤chen und Bet-Schemesch samt den zugehÃ¶rigen WeideflÃ¤chen.",
+      "kor": "<span class=\"verse-number\">44 </span>ê·¸ë¤ì íì  ë¯ë¼ë¦¬ì ìì ì¤ ê·¸ì ì¼ìª½ìì ì§ë¬´ë¥¼ ííë ìë ìë¨ì´ë¼ ìë¨ì ê¸°ìì ìë¤ì´ì ê¸°ìë ìëì ìë¤ì´ì ìëë ë§ë£©ì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">44</span> I figli di Merari, loro fratelli, stavano a sinistra, ed erano: Etan, figlio di Chisci, figlio di Abdi, figlio di Malluc,"
+    },
+    "45": {
+      "eng": "<span class=\"verse-number\">45 </span>The son of Hashabiah, the son of Amaziah, the son of Hilkiah,",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¥ </span>Ø¨ÙÙÙ Ø­ÙØ´ÙØ¨ÙÙÙØ§ Ø¨ÙÙÙ Ø£ÙÙÙØµÙÙÙØ§ Ø¨ÙÙÙ Ø­ÙÙÙÙÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">45 </span>ãã«ã¯ã¯ãã·ã£ãã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããã·ã£ãã¤ã¯ã¢ãã¸ã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¢ãã¸ã¤ã¯ãã«ã­ã¤ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">45 </span>hijo de HasabÃ­as, hijo de AmasÃ­as, hijo de HilcÃ­as,",
+      "por": "<span class=\"verse-number\">45 </span>Filho de Hasabias, filho de Amazias, filho de Hilquias,",
+      "fra": "<span class=\"verse-number\">45 </span>fils de Haschabia, fils dâAmatsia, fils de Hilkija,",
+      "deu": "<span class=\"verse-number\">45Â </span>Weiter vom Stamm Benjamin: Geba und Alemet samt den zugehÃ¶rigen WeideflÃ¤chen und Anatot samt den zugehÃ¶rigen WeideflÃ¤chen. Die Gesamtzahl ihrer StÃ¤dte betrug dreizehn nach ihren Familien.",
+      "kor": "<span class=\"verse-number\">45 </span>ë§ë£©ì íì¬ë±ì ìë¤ì´ì íì¬ë±ë ìë§ìì¼ì ìë¤ì´ì ìë§ìì¼ë íê¸°ì¼ì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">45</span> figlio di Ashabia, figlio di Amazia, figlio di Ilchia,"
+    },
+    "46": {
+      "eng": "<span class=\"verse-number\">46 </span>The son of Amzi, the son of Bani, the son of Shamer,",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¦ </span>Ø¨ÙÙÙ Ø£ÙÙÙØµÙÙ Ø¨ÙÙÙ Ø¨ÙØ§ÙÙÙØ Ø¨ÙÙÙ Ø´ÙØ§ÙÙØ±ÙØ",
+      "jpn": "<span class=\"verse-number\">46 </span>ãã«ã­ã¤ã¯ã¢ã ã¸ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¢ã ã¸ã¯ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãããã¯ã»ã¡ã«ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">46 </span>hijo de Amsi, hijo de Bani, hijo de Semer,",
+      "por": "<span class=\"verse-number\">46 </span>Filho de Anzi, filho de Bani, filho de Semer,",
+      "fra": "<span class=\"verse-number\">46 </span>fils dâAmtsi, fils de Bani, fils de SchÃ©mer,",
+      "deu": "<span class=\"verse-number\">46Â </span>Die Ã¼brigen Nachkommen Kehats aber erhielten nach ihren Sippen vom Stamm Efraim und vom Stamm Dan und vom halben Stamm Manasse durchs Los zehn StÃ¤dte.",
+      "kor": "<span class=\"verse-number\">46 </span>íê¸°ì¼ë ììì ìë¤ì´ì ììë ë°ëì ìë¤ì´ì ë°ëë ì¸ë©ì ìë¤ì´ì",
+      "ita": "<span class=\"verse-number\">46</span> figlio di Amzi, figlio di Bani, figlio di Scemer,"
+    },
+    "47": {
+      "eng": "<span class=\"verse-number\">47 </span>The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù§ </span>Ø¨ÙÙÙ ÙÙØ­ÙÙÙÙ Ø¨ÙÙÙ ÙÙÙØ´ÙÙ Ø¨ÙÙÙ ÙÙØ±ÙØ§Ø±ÙÙ Ø¨ÙÙÙ ÙØ§ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">47 </span>ã»ã¡ã«ã¯ãããªã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ããããªã¯ã ã·ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã ã·ã¯ã¡ã©ãªã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¡ã©ãªã¯ã¬ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">47 </span>hijo de Mahli, hijo de Musi, hijo de Merari, hijo de LevÃ­.",
+      "por": "<span class=\"verse-number\">47 </span>Filho de Mali, filho de Musi, filho de Merari, filho de Levi.",
+      "fra": "<span class=\"verse-number\">47 </span>fils de Machli, fils de Muschi, fils de Merari, fils de LÃ©vi.",
+      "deu": "<span class=\"verse-number\">47Â </span>Die Nachkommen Gerschoms erhielten nach ihren Sippen vom Stamm Issachar, vom Stamm Ascher, vom Stamm Naftali und vom halben Stamm Manasse im Baschan dreizehn StÃ¤dte.",
+      "kor": "<span class=\"verse-number\">47 </span>ì¸ë©ì ë§ë¦¬ì ìë¤ì´ì ë§ë¦¬ë ë¬´ìì ìë¤ì´ì ë¬´ìë ë¯ë¼ë¦¬ì ìë¤ì´ì ë¯ë¼ë¦¬ë ë ìì ìë¤ì´ë©°",
+      "ita": "<span class=\"verse-number\">47</span> figlio di Mali, figlio di Musci, figlio di Merari, figlio di Levi."
+    },
+    "48": {
+      "eng": "<span class=\"verse-number\">48 </span>Their brethren also the Levites <span class=\"clarity-word\">were</span> appointed unto all manner of service of the tabernacle of the house of God.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù¨ </span>ÙÙÙÙØ¯Ù ØªÙÙÙÙÙÙÙ Ø¨ÙÙÙÙÙÙØ©Ù Ø¥ÙØ®ÙÙÙØªÙÙÙÙÙ Ø§ÙÙÙØ§ÙÙÙÙÙÙÙÙØ Ø®ÙØ¯ÙÙÙØ©Ù ÙÙØ³ÙÙÙÙÙ Ø¨ÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ.",
+      "jpn": "<span class=\"verse-number\">48 </span><ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã§ããã¬ãã³ã¨ãã¡ã¯ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å®®</rb><rt>ã¿ã</rt></ruby>ã®<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®ããããã®<ruby><rb>å</rb><rt>ã¤ã¨ã</rt></ruby>ã«<ruby><rb>ä»»</rb><rt>ã«ã</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">48 </span>Y sus hermanos los levitas fueron puestos sobre todo el servicio del tabernÃ¡culo de la casa de Dios.",
+      "por": "<span class=\"verse-number\">48 </span>E seus irmÃ£os, os levitas, <span class=\"clarity-word\">foram</span> encarregados de todo o ministÃ©rio do tabernÃ¡culo da casa de Deus.",
+      "fra": "<span class=\"verse-number\">48 </span>Leurs frÃ¨res, les LÃ©vites, Ã©taient chargÃ©s de tout le service du tabernacle, de la maison de Dieu.",
+      "deu": "<span class=\"verse-number\">48Â </span>Die Nachkommen Meraris erhielten nach ihren Sippen vom Stamm Ruben, vom Stamm Gad und vom Stamm Sebulon durchs Los zwÃ¶lf StÃ¤dte.",
+      "kor": "<span class=\"verse-number\">48 </span>ê·¸ë¤ì íì  ë ì ì¬ëë¤ì íëëì ì§ ì¥ë§ì ëª¨ë  ì¼ì ë§¡ìëë¼",
+      "ita": "<span class=\"verse-number\">48</span> I loro fratelli, i Leviti, erano incaricati di tutto il servizio del tabernacolo della casa di Dio."
+    },
+    "49": {
+      "eng": "<span class=\"verse-number\">49 </span><span class=\"para-mark\">Â¶ </span>But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, <span class=\"clarity-word\">and were appointed</span> for all the work of the <span class=\"clarity-word\">place</span> most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù© </span>Ø£ÙÙÙÙØ§ ÙØ±ÙÙÙÙ ÙÙØ°ÙØ±ÙÙÙÙÙØªÙÙÙ ÙÙÙÙØ¯Ù ØªÙÙÙÙÙÙÙÙØ§ Ø®ÙØ¯ÙÙÙØ©Ù ØªÙÙÙØ¯ÙÙÙÙ Ø§ÙÙÙÙØ­ÙØ±ÙÙÙØ§ØªÙ Ø¹ÙÙÙÙ ÙÙØ°ÙØ¨ÙØ­Ù Ø§ÙÙÙÙØ­ÙØ±ÙÙÙØ©Ù ÙÙØ§ÙÙØ¨ÙØ®ÙÙØ±Ù Ø¹ÙÙÙÙ ÙÙØ°ÙØ¨ÙØ­Ù Ø§ÙÙØ¨ÙØ®ÙÙØ±ÙØ ÙÙØ¶ÙÙØ§Ù Ø¹ÙÙÙ ØªÙØ£ÙØ¯ÙÙÙØ©Ù ÙÙÙÙÙ Ø®ÙØ¯ÙÙÙØ§ØªÙ ÙÙØ¯ÙØ³Ù Ø§ÙØ£ÙÙÙØ¯ÙØ§Ø³Ù ÙÙÙÙÙØªÙÙÙÙÙÙÙØ±Ù Ø¹ÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø¨ÙÙÙÙÙØ¬ÙØ¨Ù ÙÙØ§ Ø£ÙÙÙØ±Ù Ø¨ÙÙÙ ÙÙÙØ³ÙÙ Ø¹ÙØ¨ÙØ¯Ù Ø§ÙÙÙÙ°ÙÙ.",
+      "jpn": "<span class=\"verse-number\">49 </span>ã¢ã­ã³ã¨ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯<ruby><rb>çç¥­</rb><rt>ã¯ããã</rt></ruby>ã®<ruby><rb>å£</rb><rt>ã ã</rt></ruby>ã¨<ruby><rb>é¦</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ç¥­å£</rb><rt>ããã ã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ãããããã¨ããªããã¾ã<ruby><rb>è³èæ</rb><rt>ããããã</rt></ruby>ã®ãã¹ã¦ã®ããããªãããã¤ã¤ã¹ã©ã¨ã«ã®ããã«ãããªãããªããããã¹ã¦<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®ããã¹ã¢ã¼ã»ã®<ruby><rb>å½</rb><rt>ãã</rt></ruby>ããã¨ããã§ããã",
+      "spa": "<span class=\"verse-number\">49 </span>Pero AarÃ³n y sus hijos ofrecÃ­an sacrificios sobre el altar del holocausto y sobre el altar del incienso, <span class=\"clarity-word\">y fueron puestos sobre</span> toda la obra del lugar santÃ­simo, y para hacer expiaciÃ³n por Israel, conforme a todo lo que MoisÃ©s, siervo de Dios, habÃ­a mandado.",
+      "por": "<span class=\"verse-number\">49 </span>E AarÃ£o e seus filhos faziam ofertas sobre o altar do holocausto e sobre o altar do incenso, e eram encarregados de toda a obra do <span class=\"clarity-word\">lugar</span> santÃ­ssimo, e de fazer expiaÃ§Ã£o por Israel, conforme tudo quanto MoisÃ©s, servo de Deus, tinha ordenado.",
+      "fra": "<span class=\"verse-number\">49 </span>Aaron et ses fils offraient les sacrifices sur lâautel des holocaustes et lâencens sur lâautel de lâencens, ils remplissaient toutes les fonctions dans le lieu trÃ¨s saint et faisaient lâexpiation pour IsraÃ«l selon tout ce quâavait ordonnÃ© MoÃ¯se, serviteur de Dieu.",
+      "deu": "<span class=\"verse-number\">49Â </span>So Ã¼bergaben die Israeliten den Leviten die StÃ¤dte samt den zugehÃ¶rigen WeideflÃ¤chen;",
+      "kor": "<span class=\"verse-number\">49 </span>ìë¡ ê³¼ ê·¸ì ììë¤ì ë²ì ë¨ê³¼ í¥ë¨ ìì ë¶í¥íë©° ì ì¬ë¥¼ ëë¦¬ë©° ì§ì±ìì ëª¨ë  ì¼ì íì¬ íëëì ì¢ ëª¨ì¸ì ëª¨ë  ëªë ¹ëë¡ ì´ì¤ë¼ìì ìíì¬ ìì£íë",
+      "ita": "<span class=\"verse-number\">49</span> Ma Aaronne e i suoi figli offrivano i sacrifici sullâaltare degli olocausti e lâincenso sullâaltare dei profumi, compiendo tutto il servizio nel luogo santissimo, e facendo lâespiazione per Israele, secondo tutto quello che MosÃ¨, servo di Dio, aveva ordinato."
+    },
+    "50": {
+      "eng": "<span class=\"verse-number\">50 </span>And these <span class=\"clarity-word\">are</span> the sons of Aaron; Eleazar his son, Phinehas his son, Abishua his son,",
+      "ara": "<span class=\"verse-number\">Ù¥Ù  </span>ÙÙÙÙØ°ÙÙÙ Ø£ÙØ³ÙÙÙØ§Ø¡Ù Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙØ±ÙÙÙÙ ÙÙÙÙØ³ÙÙÙÙÙÙÙ: Ø£ÙÙÙØ¹ÙØ§Ø²ÙØ§Ø±Ù Ø§ÙÙÙØ°ÙÙ Ø£ÙÙÙØ¬ÙØ¨Ù ÙÙÙÙÙØ­ÙØ§Ø³ÙØ ÙÙÙÙÙÙÙØ­ÙØ§Ø³Ù Ø£ÙØ¨ÙÙØ´ÙÙØ¹ÙØ",
+      "jpn": "<span class=\"verse-number\">50 </span>ã¢ã­ã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®ã¨ããã§ãããã¢ã­ã³ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¨ã¬ã¢ã¶ã«ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ãããã¹ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ãã·ã¥ã¢ã",
+      "spa": "<span class=\"verse-number\">50 </span>Y los hijos de AarÃ³n son estos: Eleazar, su hijo, Finees, su hijo, AbisÃºa, su hijo,",
+      "por": "<span class=\"verse-number\">50 </span>E estes <span class=\"clarity-word\">foram</span> os filhos de AarÃ£o: seu filho Eleazar, seu filho Fineias, seu filho Abisua,",
+      "fra": "<span class=\"verse-number\">50 </span>Voici les fils dâAaronÂ : ÃlÃ©azar, son filsÂ ; PhinÃ©es, son filsÂ : Abischua, son filsÂ ;",
+      "deu": "<span class=\"verse-number\">50Â </span>und zwar Ã¼bergaben sie durchs Los jene namentlich angefÃ¼hrten StÃ¤dte aus den StÃ¤mmen Juda, Simeon und Benjamin.",
+      "kor": "<span class=\"verse-number\">50 </span>ìë¡ ì ììë¤ì ì´ë¬íëë¼ ê·¸ì ìë¤ì ìë¥´ìì´ì´ì ê·¸ì ìë¤ì ë¹ëíì¤ì ê·¸ì ìë¤ì ìë¹ììì",
+      "ita": "<span class=\"verse-number\">50</span> Questi sono i figli di Aaronne: Eleazar, che ebbe per figlio Fineas, che ebbe per figlio Abishua,"
+    },
+    "51": {
+      "eng": "<span class=\"verse-number\">51 </span>Bukki his son, Uzzi his son, Zerahiah his son,",
+      "ara": "<span class=\"verse-number\">Ù¥Ù¡ </span>ÙØ£ÙØ¨ÙÙØ´ÙÙØ¹Ù Ø¨ÙÙÙÙÙÙØ ÙÙØ¨ÙÙÙÙÙ Ø¹ÙØ²ÙÙÙØ ÙØ¹ÙØ²ÙÙÙ Ø²ÙØ±ÙØ­ÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">51 </span>ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ããã­ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¦ã¸ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¼ã©ãã¤ã",
+      "spa": "<span class=\"verse-number\">51 </span>Buqui, su hijo, Uzi, su hijo, ZeraÃ­as, su hijo,",
+      "por": "<span class=\"verse-number\">51 </span>Seu filho Buqui, seu filho Uzi, seu filho ZeraÃ­as,",
+      "fra": "<span class=\"verse-number\">51 </span>Bukki, son filsÂ ; Uzzi, son filsÂ ; Zerachja, son filsÂ ;",
+      "deu": "<span class=\"verse-number\">51Â </span>Was dann die Ã¼brigen Sippen der Nachkommen Kehats betrifft, so erhielten sie die StÃ¤dte, die ihnen durchs Los zugeteilt wurden, vom Stamm Efraim abgetreten;",
+      "kor": "<span class=\"verse-number\">51 </span>ê·¸ì ìë¤ì ë¶ê¸°ì ê·¸ì ìë¤ì ììì ê·¸ì ìë¤ì ì¤ë¼íì¼ì",
+      "ita": "<span class=\"verse-number\">51</span> che ebbe per figlio Bucchi, che ebbe per figlio Uzzi, che ebbe per figlio Zeraia,"
+    },
+    "52": {
+      "eng": "<span class=\"verse-number\">52 </span>Meraioth his son, Amariah his son, Ahitub his son,",
+      "ara": "<span class=\"verse-number\">Ù¥Ù¢ </span>ÙÙØ²ÙØ±ÙØ­ÙÙÙØ§ ÙÙØ±ÙØ§ÙÙÙØ«ÙØ ÙÙÙÙØ±ÙØ§ÙÙÙØ«Ù Ø£ÙÙÙØ±ÙÙÙØ§Ø ÙÙØ£ÙÙÙØ±ÙÙÙØ§ Ø£ÙØ®ÙÙØ·ÙÙØ¨ÙØ",
+      "jpn": "<span class=\"verse-number\">52 </span>ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¡ã©ã¨ãããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ããªã¤ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ãããã",
+      "spa": "<span class=\"verse-number\">52 </span>Meraiot, su hijo, AmarÃ­as, su hijo, Ahitob, su hijo,",
+      "por": "<span class=\"verse-number\">52 </span>Seu filho Meraiote, seu filho Amarias, seu filho Aitube,",
+      "fra": "<span class=\"verse-number\">52 </span>Merajoth, son filsÂ ; Amaria, son filsÂ ; Achithub, son filsÂ ;",
+      "deu": "<span class=\"verse-number\">52Â </span>und zwar Ã¼bergab man ihnen die Zufluchtsstadt Sichem samt den zugehÃ¶rigen WeideflÃ¤chen auf dem Gebirge Efraim; ferner Geser samt den zugehÃ¶rigen WeideflÃ¤chen,",
+      "kor": "<span class=\"verse-number\">52 </span>ê·¸ì ìë¤ì ë¯ë¼ì§ì´ì ê·¸ì ìë¤ì ìë§ë´ì ê·¸ì ìë¤ì ìíë¡ì´ì",
+      "ita": "<span class=\"verse-number\">52</span> che ebbe per figlio Meraiot, che ebbe per figlio Amaria, che ebbe per figlio Aitub,"
+    },
+    "53": {
+      "eng": "<span class=\"verse-number\">53 </span>Zadok his son, Ahimaaz his son.",
+      "ara": "<span class=\"verse-number\">Ù¥Ù£ </span>ÙÙØ£ÙØ®ÙÙØ·ÙÙØ¨Ù ØµÙØ§Ø¯ÙÙÙÙØ ÙÙØµÙØ§Ø¯ÙÙÙÙ Ø£ÙØ®ÙÙÙÙØ¹ÙØµÙ.",
+      "jpn": "<span class=\"verse-number\">53 </span>ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¶ãã¯ããã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã¯ã¢ããã¢ãºã§ããã",
+      "spa": "<span class=\"verse-number\">53 </span>Sadoc, su hijo, Ahimaas, su hijo.",
+      "por": "<span class=\"verse-number\">53 </span>Seu filho Zadoque, seu filho AimaÃ¡s.",
+      "fra": "<span class=\"verse-number\">53 </span>Tsadok, son filsÂ ; Achimaats, son fils.",
+      "deu": "<span class=\"verse-number\">53Â </span>Jokmeam samt den zugehÃ¶rigen WeideflÃ¤chen, Bet-Horon samt den zugehÃ¶rigen WeideflÃ¤chen,",
+      "kor": "<span class=\"verse-number\">53 </span>ê·¸ì ìë¤ì ì¬ëì´ì ê·¸ì ìë¤ì ìíë§ìì¤ì´ëë¼",
+      "ita": "<span class=\"verse-number\">53</span> che ebbe per figlio Zadoc, che ebbe per figlio Aimaaz."
+    },
+    "54": {
+      "eng": "<span class=\"verse-number\">54 </span><span class=\"para-mark\">Â¶ </span>Now these <span class=\"clarity-word\">are</span> their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.",
+      "ara": "<span class=\"verse-number\">Ù¥Ù¤ </span>ÙÙÙÙØ°ÙÙÙ ÙÙÙÙ ÙÙÙÙØ§Ø¶ÙØ¹Ù ÙÙØ³ÙØ§ÙÙÙÙ Ø§ÙÙÙÙÙÙØ§ØªÙÙÙÙÙÙÙ ÙÙÙÙ Ø°ÙØ±ÙÙÙÙÙØ©Ù ÙØ±ÙÙÙÙ ÙÙØ¶ÙÙÙØ§Ø¹ÙÙÙÙÙ ÙÙØ­ÙØ¯ÙÙØ¯ÙÙÙÙÙ Ø§ÙÙÙØªÙÙ ÙÙÙÙØ¹ÙØªÙ Ø§ÙÙÙÙØ±ÙØ¹ÙØ©Ù Ø¹ÙÙÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">54 </span>ã¢ã­ã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã®<ruby><rb>ä½</rb><rt>ã</rt></ruby>ã<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã¯ãã®<ruby><rb>å¢</rb><rt>ããã</rt></ruby>ã®ãã¡ã«ãã<ruby><rb>å®¿å¶</rb><rt>ããããã</rt></ruby>ã«ãã£ã¦ããã°<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®ã¨ããã§ãããã¾ãã³ããã³ã¨ã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ãããã«ãã£ã¦<ruby><rb>å¾</rb><rt>ã</rt></ruby>ãã¨ããã",
+      "spa": "<span class=\"verse-number\">54 </span>Y estas son sus habitaciones, conforme a sus campamentos en sus territorios, <span class=\"clarity-word\">las</span> de los hijos de AarÃ³n por las familias de los coatitas, porque a ellos les tocÃ³ la primera suerte.",
+      "por": "<span class=\"verse-number\">54 </span>E estas <span class=\"clarity-word\">foram</span> as suas habitaÃ§Ãµes, segundo os seus acampamentos, no seu termo, a <span class=\"clarity-word\">saber:</span> dos <span class=\"page-break\" data-page=\"674\"></span>filhos de AarÃ£o, da famÃ­lia dos coatitas, porque a eles caiu a sorte.",
+      "fra": "<span class=\"verse-number\">54 </span>Voici leurs habitations, selon leurs campements, dans les limites qui leur furent assignÃ©es. Aux fils dâAaron de la famille des Kehathites, indiquÃ©s les premiers par tirage au sort,",
+      "deu": "<span class=\"verse-number\">54Â </span>Ajalon samt den zugehÃ¶rigen WeideflÃ¤chen und Gat-Rimmon samt den zugehÃ¶rigen WeideflÃ¤chen;",
+      "kor": "<span class=\"verse-number\">54 </span>ê·¸ë¤ì ê±°ì£¼í ê³³ì ì¬ë°© ì§ê³ ìì ìì¼ë ê·¸ë¤ì ë§ìì ìëì ê°ì¼ëë¼ ìë¡  ìì ê³§ ê·¸í« ì¢ì¡±ì´ ë¨¼ì  ì ë¹ ë½ìì¼ë¯ë¡",
+      "ita": "<span class=\"verse-number\">54</span> Questi sono i luoghi delle loro dimore, secondo le loro circoscrizioni nei territori loro assegnati. Ai figli di Aaronne della famiglia dei Cheatiti, che furono i primi tirati a sorte,"
+    },
+    "55": {
+      "eng": "<span class=\"verse-number\">55 </span>And they gave them Hebron in the land of Judah, and the suburbs thereof round about it.",
+      "ara": "<span class=\"verse-number\">Ù¥Ù¥ </span>ÙÙØ£ÙØ¹ÙØ·ÙÙÙÙÙÙÙ Ø­ÙØ¨ÙØ±ÙÙÙÙ ÙÙÙ Ø£ÙØ±ÙØ¶Ù ÙÙÙÙÙØ°ÙØ§ ÙÙØ¹Ù ÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§ Ø§ÙÙÙÙØ­ÙÙØ·ÙØ©Ù Ø¨ÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">55 </span>ããªãã¡<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããã¨ããã¯ãã¦ãã®<ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã«ããããã­ã³ã¨ãã®<ruby><rb>å¨å²</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">55 </span>Les dieron, pues, HebrÃ³n en la tierra de JudÃ¡, y sus campos alrededor de ella.",
+      "por": "<span class=\"verse-number\">55 </span>Deram-lhes, pois, Hebrom, na terra de JudÃ¡, e os seus arrabaldes que a rodeiam.",
+      "fra": "<span class=\"verse-number\">55 </span>on donna HÃ©bron, dans le pays de Juda, et les pÃ¢turages qui lâentourentÂ ;",
+      "deu": "<span class=\"verse-number\">55Â </span>dazu vom halben Stamm Manasse: Aner samt den zugehÃ¶rigen WeideflÃ¤chen und Jibleam samt den zugehÃ¶rigen WeideflÃ¤chen,Â â diese Ã¼bergab man den Familien der Ã¼brigen Nachkommen Kehats.",
+      "kor": "<span class=\"verse-number\">55 </span>ê·¸ë¤ìê² ì ë¤ ëì í¤ë¸ë¡ ê³¼ ê·¸ ì¬ë°© ì´ìì ì£¼ìê³",
+      "ita": "<span class=\"verse-number\">55</span> furono dati Hebron, nel paese di Giuda, e i pascoli allâintorno;"
+    },
+    "56": {
+      "eng": "<span class=\"verse-number\">56 </span>But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.",
+      "ara": "<span class=\"verse-number\">Ù¥Ù¦ </span>ÙÙØ£ÙÙÙÙØ§ Ø­ÙÙÙÙÙÙ Ø§ÙÙÙÙØ¯ÙÙÙÙØ©Ù ÙÙØ¶ÙÙÙØ§Ø¹ÙÙÙØ§ ÙÙÙØ¯Ù Ø£ÙØ¹ÙØ·ÙÙÙØªÙ ÙÙÙÙØ§ÙÙØ¨Ù Ø¨ÙÙÙ ÙÙÙÙÙÙÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">56 </span>ãã ãããã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã®<ruby><rb>ç°ç</rb><rt>ãã¯ã</rt></ruby>ã¨ãã®<ruby><rb>æã</rb><rt>ãããã</rt></ruby>ã¯ãã¨ãã³ãã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ã«ã¬ãã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">56 </span>Pero el territorio de la ciudad y sus aldeas se dieron a Caleb hijo de Jefone.",
+      "por": "<span class=\"verse-number\">56 </span>PorÃ©m o territÃ³rio da cidade e as suas aldeias deram a Calebe, filho de JefonÃ©.",
+      "fra": "<span class=\"verse-number\">56 </span>mais le territoire de la ville et ses villages furent accordÃ©s Ã  Caleb, fils de JephunnÃ©.",
+      "deu": "<span class=\"verse-number\">56Â </span>Die Nachkommen Gerschoms erhielten nach ihren Sippen vom halben Stamm Manasse: Golan im Baschan samt den zugehÃ¶rigen WeideflÃ¤chen und Aschtarot samt den zugehÃ¶rigen WeideflÃ¤chen;",
+      "kor": "<span class=\"verse-number\">56 </span>ê·¸ë¬ë ê·¸ ì±ì ë°­ê³¼ ë§ìì ì¬ë¶ë¤ì ìë¤ ê°ë ìê² ì£¼ìì¼ë©°",
+      "ita": "<span class=\"verse-number\">56</span> ma il territorio della cittÃ  e i suoi villaggi furono dati a Caleb, figlio di Gefunne."
+    },
+    "57": {
+      "eng": "<span class=\"verse-number\">57 </span>And to the sons of Aaron they gave the cities of Judah, <span class=\"clarity-word\">namely,</span> Hebron, <span class=\"clarity-word\">the city</span> of refuge, and Libnah with her suburbs, and Jattir, and Eshtemoa, with their suburbs,",
+      "ara": "<span class=\"verse-number\">Ù¥Ù§ </span>ÙÙÙÙØ§ Ø£ÙØ¹ÙØ·ÙÙÙØªÙ ÙØ£ÙØ¨ÙÙÙØ§Ø¡Ù ÙØ±ÙÙÙÙ ÙÙØ¯ÙÙÙ Ø§ÙÙÙÙÙÙØ¬ÙØ¥Ù: Ø­ÙØ¨ÙØ±ÙÙÙÙ ÙÙÙÙØ¨ÙÙÙØ©Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§ ÙÙÙÙØªÙÙÙØ±Ù ÙÙØ£ÙØ´ÙØªÙÙÙÙØ¹Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">57 </span>ããã¦ã¢ã­ã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããããã®ã¯ãã®ããã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã§ããããã­ã³ããã³ãªããã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¤ããã«ããã³ã¨ã·ãã¢ã¢ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">57 </span>Y a los hijos de AarÃ³n dieron las siguientes ciudades de refugio: HebrÃ³n y Libna con sus campos; y Jatir y Estemoa con sus campos,",
+      "por": "<span class=\"verse-number\">57 </span>E aos filhos de AarÃ£o deram as cidades de refÃºgio: Hebrom, e Libna e os seus arrabaldes, e Jatir, e Estemoa e os seus arrabaldes.",
+      "fra": "<span class=\"verse-number\">57 </span>Aux fils dâAaron on donna la ville de refuge HÃ©bron, Libna et ses pÃ¢turages, Jatthir, Eschthemoa et ses pÃ¢turages,",
+      "deu": "<span class=\"verse-number\">57Â </span>ferner vom Stamm Issachar: Kedesch samt den dazugehÃ¶rigen WeideflÃ¤chen, Dobrat samt den zugehÃ¶rigen WeideflÃ¤chen,",
+      "kor": "<span class=\"verse-number\">57 </span>ìë¡  ìììê² ëí¼ì±ì ì£¼ìì¼ë í¤ë¸ë¡ ê³¼ ë¦½ëì ê·¸ ì´ìê³¼ ìëê³¼ ìì¤ëëª¨ìì ê·¸ ì´ìê³¼",
+      "ita": "<span class=\"verse-number\">57</span> Ai figli di Aaronne fu data Hebron, cittÃ  di rifugio, Libna con i suoi pascoli, Iattir, Eshtemoa con i suoi pascoli,"
+    },
+    "58": {
+      "eng": "<span class=\"verse-number\">58 </span>And Hilen with her suburbs, Debir with her suburbs,",
+      "ara": "<span class=\"verse-number\">Ù¥Ù¨ </span>ÙÙØ­ÙÙÙÙÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙØ¯ÙØ¨ÙÙØ±Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">58 </span>ãã¬ã³ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãããã«ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">58 </span>e HilÃ©n con sus campos, Debir con sus campos,",
+      "por": "<span class=\"verse-number\">58 </span>E HilÃ©m e os seus arrabaldes, e Debir e os seus arrabaldes,",
+      "fra": "<span class=\"verse-number\">58 </span>Hilen et ses pÃ¢turages, Debir et ses pÃ¢turages,",
+      "deu": "<span class=\"verse-number\">58Â </span>Ramot samt den zugehÃ¶rigen WeideflÃ¤chen und Anem samt den zugehÃ¶rigen WeideflÃ¤chen;",
+      "kor": "<span class=\"verse-number\">58 </span>íë ê³¼ ê·¸ ì´ìê³¼ ëë¹ê³¼ ê·¸ ì´ìê³¼",
+      "ita": "<span class=\"verse-number\">58</span> Ilen con i suoi pascoli, Debir con i suoi pascoli,"
+    },
+    "59": {
+      "eng": "<span class=\"verse-number\">59 </span>And Ashan with her suburbs, and Beth-shemesh with her suburbs:",
+      "ara": "<span class=\"verse-number\">Ù¥Ù© </span>ÙÙØ¹ÙØ§Ø´ÙØ§ÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙØ¨ÙÙÙØªÙ Ø´ÙÙÙØ³Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">59 </span>ã¢ã·ã£ã³ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãããã·ã¡ã·ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">59 </span>y AsÃ¡n con sus campos y Bet-semes con sus campos.",
+      "por": "<span class=\"verse-number\">59 </span>E AsÃ£ e os seus arrabaldes, e Bete-Semes e os seus arrabaldes.",
+      "fra": "<span class=\"verse-number\">59 </span>Aschan et ses pÃ¢turages, Beth-SchÃ©mesch et ses pÃ¢turagesÂ ;",
+      "deu": "<span class=\"verse-number\">59Â </span>dazu vom Stamm Ascher: Mischal samt den zugehÃ¶rigen WeideflÃ¤chen, Abdon samt den zugehÃ¶rigen WeideflÃ¤chen,",
+      "kor": "<span class=\"verse-number\">59 </span>ìì°ê³¼ ê·¸ ì´ìê³¼ ë²§ì¸ë©ì¤ì ê·¸ ì´ìì´ë©°",
+      "ita": "<span class=\"verse-number\">59</span> Ashan con i suoi pascoli, Bet-Scemesh con i suoi pascoli;"
+    },
+    "60": {
+      "eng": "<span class=\"verse-number\">60 </span>And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families <span class=\"clarity-word\">were</span> thirteen cities.",
+      "ara": "<span class=\"verse-number\">Ù¦Ù  </span>ÙÙØ£ÙØ¹ÙØ·ÙÙÙÙÙÙÙ Ø£ÙÙÙØ¶Ø§Ù ÙÙÙÙ Ø£ÙØ±ÙØ¶Ù Ø³ÙØ¨ÙØ·Ù Ø¨ÙÙÙÙÙØ§ÙÙÙÙÙ: Ø¬ÙØ¨ÙØ¹Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙØ¹ÙÙÙÙÙØ«Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙØ¹ÙÙÙØ§Ø«ÙÙØ«Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙÙÙØ§ÙÙØªÙ Ø¬ÙÙÙÙÙØ©Ù ÙÙØ¯ÙÙÙÙÙÙÙ Ø«ÙÙØ§Ø«Ù Ø¹ÙØ´ÙØ±ÙØ©Ù ÙÙØ¯ÙÙÙÙØ©Ù ÙÙÙÙÙØ§Ù ÙÙØ¹ÙØ´ÙØ§Ø¦ÙØ±ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">60 </span>ã¾ãããã¤ãã³ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããã¯ã²ãã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¢ã¬ã¡ãã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¢ãããã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã¯ããã¹ã¦ãã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã®ãã¡ã«åä¸ãã£ãã",
+      "spa": "<span class=\"verse-number\">60 </span>Y de la tribu de BenjamÃ­n, Geba con sus campos, y Alemet con sus campos y Anatot con sus campos. Todas sus ciudades fueron trece ciudades, <span class=\"clarity-word\">repartidas</span> segÃºn sus familias.",
+      "por": "<span class=\"verse-number\">60 </span>E da tribo de Benjamim, Geba e os seus arrabaldes, e Alemete e os seus arrabaldes, e Anatote e os seus arrabaldes; todas as suas cidades, pelas suas famÃ­lias, <span class=\"clarity-word\">foram</span> treze cidades.",
+      "fra": "<span class=\"verse-number\">60 </span>et de la part de la tribu de Benjamin, GuÃ©ba et ses pÃ¢turages, AllÃ©meth et ses pÃ¢turages, Anathoth et ses pÃ¢turages. Total de leurs villesÂ : treize villes, dâaprÃ¨s leurs familles.",
+      "deu": "<span class=\"verse-number\">60Â </span>Helkat samt den zugehÃ¶rigen WeideflÃ¤chen und Rehob samt den zugehÃ¶rigen WeideflÃ¤chen;",
+      "kor": "<span class=\"verse-number\">60 </span>ë ë² ëë¯¼ ì§í ì¤ììë ê²ë°ì ê·¸ ì´ìê³¼ ìë ë©§ê³¼ ê·¸ ì´ìê³¼ ìëëê³¼ ê·¸ ì´ìì ì£¼ìì¼ë ê·¸ë¤ì ì¢ì¡±ì´ ì»ì ì±ì´ ëª¨ë ì´ìì´ìëë¼",
+      "ita": "<span class=\"verse-number\">60</span> e della tribÃ¹ di Beniamino: Gheba e i suoi pascoli, Allemet con i suoi pascoli, Anatot con i suoi pascoli. Le loro cittÃ  erano in tutto in numero di tredici, pari al numero delle loro famiglie."
+    },
+    "61": {
+      "eng": "<span class=\"verse-number\">61 </span>And unto the sons of Kohath, <span class=\"clarity-word\">which were</span> left of the family of that tribe, <span class=\"clarity-word\">were cities given</span> out of the half tribe, <span class=\"clarity-word\">namely, out of</span> the half <span class=\"clarity-word\">tribe</span> of Manasseh, by lot, ten cities.",
+      "ara": "<span class=\"verse-number\">Ù¦Ù¡ </span>ÙÙØ£ÙØ¹ÙØ·ÙÙÙØªÙ Ø¨ÙØ§ÙÙÙÙØ±ÙØ¹ÙØ©Ù Ø¹ÙØ´ÙØ±Ù ÙÙØ¯ÙÙÙ ÙÙØ¨ÙÙÙÙÙÙØ©Ù Ø¹ÙØ´ÙÙØ±ÙØ©Ù ÙÙÙÙØ§ØªÙ ÙÙÙÙ ÙÙØ¯ÙÙÙ ÙÙØµÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙØ³ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">61 </span>ã¾ãã³ããã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æ®</rb><rt>ã®ã</rt></ruby>ãã®<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã®ãã¡ããã¨ã<ruby><rb>å</rb><rt>ã¯ã</rt></ruby><ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ããªãã¡ããã»ã®<ruby><rb>å</rb><rt>ã¯ã</rt></ruby><ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããããã«ãã£ã¦<ruby><rb>å</rb><rt>ããã</rt></ruby>ã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">61 </span>A los hijos de Coat, que quedaron de la familia de esa tribu, <span class=\"clarity-word\">dieron</span> por suertes diez ciudades de la media tribu de ManasÃ©s.",
+      "por": "<span class=\"verse-number\">61 </span>Mas aos filhos de Coate, que restaram da famÃ­lia da tribo, da meia tribo, da metade de ManassÃ©s, <span class=\"clarity-word\">caÃ­ram</span> por sorte dez cidades.",
+      "fra": "<span class=\"verse-number\">61 </span>Les autres fils de Kehath eurent par tirage au sort dix villes de la part des familles de la tribu dâÃphraÃ¯m, de la tribu de Dan et de la demi-tribu de ManassÃ©.",
+      "deu": "<span class=\"verse-number\">61Â </span>ferner vom Stamm Naftali: Kedesch in GalilÃ¤a samt den zugehÃ¶rigen WeideflÃ¤chen, Hammon samt den zugehÃ¶rigen WeideflÃ¤chen und Kirjatajim samt den zugehÃ¶rigen WeideflÃ¤chen.",
+      "kor": "<span class=\"verse-number\">61 </span>ê·¸í« ììì ë¨ì ììê²ë ì ë° ì§í ì¦ ë¯ë«ì¸ ë° ì§í ì¢ì¡± ì¤ìì ì ë¹ ë½ì ì´ ì±ìì ì£¼ìê³",
+      "ita": "<span class=\"verse-number\">61</span> Agli altri figli di Cheat toccarono a sorte dieci cittÃ  delle famiglie della tribÃ¹ di Efraim, della tribÃ¹ di Dan e della mezza tribÃ¹ di Manasse."
+    },
+    "62": {
+      "eng": "<span class=\"verse-number\">62 </span>And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.",
+      "ara": "<span class=\"verse-number\">Ù¦Ù¢ </span>ÙÙÙÙÙÙØ¨ÙØªÙ ÙÙØ¹ÙØ§Ø¦ÙÙØ§ØªÙ Ø¹ÙØ´ÙØ§Ø¦ÙØ±Ù Ø¬ÙØ±ÙØ´ÙÙÙÙ Ø¨ÙØ§ÙÙÙÙØ±ÙØ¹ÙØ©Ù Ø«ÙÙØ§Ø«Ù Ø¹ÙØ´ÙØ±ÙØ©Ù ÙÙØ¯ÙÙÙÙØ©Ù ÙÙÙ Ø£ÙØ±ÙØ§Ø¶ÙÙ Ø£ÙØ³ÙØ¨ÙØ§Ø·Ù ÙÙØ³ÙÙØ§ÙÙØ±Ù ÙÙØ£ÙØ´ÙÙØ±Ù ÙÙÙÙÙÙØªÙØ§ÙÙÙ ÙÙÙÙÙÙØ³ÙÙÙ ÙÙÙ Ø¨ÙØ§Ø´ÙØ§ÙÙ.",
+      "jpn": "<span class=\"verse-number\">62 </span>ã¾ãã²ã«ã·ã§ã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ãã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ãã£ã¦ã¤ããµã«ã«ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ãã¢ã»ã«ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ãããã¿ãªã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ãããã³ãã·ã£ã³ã®ããã»ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããåä¸ã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">62 </span>Y a los hijos de GersÃ³n, segÃºn sus familias, <span class=\"clarity-word\">dieron</span> de la tribu de Isacar, y de la tribu de Aser, y de la tribu de NeftalÃ­ y de la tribu de ManasÃ©s, en BasÃ¡n, trece ciudades.",
+      "por": "<span class=\"verse-number\">62 </span>E os filhos de GÃ©rson, segundo as suas famÃ­lias, da tribo de Issacar, e da tribo de Aser, e da tribo de Naftali, e da tribo de ManassÃ©s, em BasÃ£, <span class=\"clarity-word\">tiveram</span> treze cidades.",
+      "fra": "<span class=\"verse-number\">62 </span>Les fils de Guerschom, dâaprÃ¨s leurs familles, eurent treize villes de la part de la tribu dâIssacar, de la tribu dâAser, de la tribu de Nephthali et de la tribu de ManassÃ© en Basan.",
+      "deu": "<span class=\"verse-number\">62Â </span>Die Ã¼brigen Nachkommen Meraris erhielten vom Stamm Sebulon: Rimmon samt den zugehÃ¶rigen WeideflÃ¤chen und Tabor samt den zugehÃ¶rigen WeideflÃ¤chen;",
+      "kor": "<span class=\"verse-number\">62 </span>ê²ë¥´ì ìììê²ë ê·¸ë¤ì ì¢ì¡±ëë¡ ìì¬ê° ì§íì ìì ì§íì ë©ë¬ë¦¬ ì§íì ë°ì°ì ìë ë¯ë«ì¸ ì§í ì¤ìì ì´ì¸ ì±ìì ì£¼ìê³",
+      "ita": "<span class=\"verse-number\">62</span> Ai figli di Ghershom, secondo le loro famiglie, toccarono tredici cittÃ , della tribÃ¹ di Issacar, della tribÃ¹ di Ascer, della tribÃ¹ di Neftali e della tribÃ¹ di Manasse in Bashan."
+    },
+    "63": {
+      "eng": "<span class=\"verse-number\">63 </span>Unto the sons of Merari <span class=\"clarity-word\">were given</span> by lot, throughout their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.",
+      "ara": "<span class=\"verse-number\">Ù¦Ù£ </span>ÙÙÙÙØ§ ÙÙÙÙØ¨ÙØªÙ ÙÙØ¹ÙØ§Ø¦ÙÙØ§ØªÙ Ø¹ÙØ´ÙØ§Ø¦ÙØ±Ù ÙÙØ±ÙØ§Ø±ÙÙ Ø¨ÙØ§ÙÙÙÙØ±ÙØ¹ÙØ©Ù Ø§Ø«ÙÙÙØªÙØ§ Ø¹ÙØ´ÙØ±ÙØ©Ù ÙÙØ¯ÙÙÙÙØ©Ù ÙÙÙÙ ÙÙØ¯ÙÙÙ Ø£ÙØ³ÙØ¨ÙØ§Ø·Ù Ø±ÙØ£ÙÙØ¨ÙÙÙÙÙ ÙÙØ¬ÙØ§Ø¯Ù ÙÙØ²ÙØ¨ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">63 </span>ã¡ã©ãªã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¯ãã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã«ãã£ã¦ã«ãã³ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ãã¬ãã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ãããã³ã¼ãã«ã³ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããããã«ãã£ã¦åäºã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããã",
+      "spa": "<span class=\"verse-number\">63 </span>Y a los hijos de Merari, segÃºn sus familias, de la tribu de RubÃ©n, y de la tribu de Gad, y de la tribu de ZabulÃ³n, <span class=\"clarity-word\">les dieron</span> por suertes doce ciudades.",
+      "por": "<span class=\"verse-number\">63 </span>Aos filhos de Merari, segundo as suas famÃ­lias, da tribo de RÃºben, e da tribo de Gade, e da tribo de Zebulom, por sorte, <span class=\"clarity-word\">caÃ­ram</span> doze cidades.",
+      "fra": "<span class=\"verse-number\">63 </span>Les fils de Merari, dâaprÃ¨s leurs familles, eurent par tirage au sort douze villes de la part de la tribu de Ruben, de la tribu de Gad et de la tribu de Zabulon.",
+      "deu": "<span class=\"verse-number\">63Â </span>und jenseits des Jordan gegenÃ¼ber von Jericho, Ã¶stlich vom Jordan, erhielten sie vom Stamm Ruben: Bezer in der Steppe samt den zugehÃ¶rigen WeideflÃ¤chen, Jahaz samt den zugehÃ¶rigen WeideflÃ¤chen,",
+      "kor": "<span class=\"verse-number\">63 </span>ë¯ë¼ë¦¬ ìììê²ë ê·¸ ì¢ì¡±ëë¡ ë¥´ì°ë²¤ ì§íì ê° ì§íì ì¤ë¶ë¡  ì§í ì¤ìì ì ë¹ ë½ì ì´ë ì±ìì ì£¼ìëë¼",
+      "ita": "<span class=\"verse-number\">63</span> Ai figli di Merari, secondo le loro famiglie, toccarono a sorte dodici cittÃ  della tribÃ¹ di Ruben, della tribÃ¹ di Gad e della tribÃ¹ di Zabulon."
+    },
+    "64": {
+      "eng": "<span class=\"verse-number\">64 </span>And the children of Israel gave to the Levites <span class=\"clarity-word\">these</span> cities with their suburbs.",
+      "ara": "<span class=\"verse-number\">Ù¦Ù¤ </span>ÙÙÙÙÙÙØ°ÙØ§ Ø£ÙØ¹ÙØ·ÙÙ Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø§ÙÙÙØ§ÙÙÙÙÙÙÙÙ ÙÙØ¯ÙÙØ§Ù ÙÙÙÙÙÙÙÙÙÙ ÙÙÙÙØ§ ÙÙØ¹Ù ÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">64 </span>ãã®ããã«ã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã¯ã¬ãã³ã¨ã«<ruby><rb>çºã</rb><rt>ã¾ã¡ã¾ã¡</rt></ruby>ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã¨ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">64 </span>Y dieron los hijos de Israel a los levitas ciudades con sus campos.",
+      "por": "<span class=\"verse-number\">64 </span>Assim, deram os filhos de Israel aos levitas essas cidades e os seus arrabaldes.",
+      "fra": "<span class=\"verse-number\">64 </span>Les enfants dâIsraÃ«l donnÃ¨rent aux LÃ©vites les villes et leurs pÃ¢turages.",
+      "deu": "<span class=\"verse-number\">64Â </span>Kedemot samt den zugehÃ¶rigen WeideflÃ¤chen und Mefaat samt den zugehÃ¶rigen WeideflÃ¤chen;",
+      "kor": "<span class=\"verse-number\">64 </span>ì´ì¤ë¼ì ììì´ ì´ ëª¨ë  ì±ìê³¼ ê·¸ ëª©ì´ì§ë¥¼ ë ì ìììê² ì£¼ë",
+      "ita": "<span class=\"verse-number\">64</span> I figli dâIsraele dettero ai Leviti quelle cittÃ  con i loro pascoli;"
+    },
+    "65": {
+      "eng": "<span class=\"verse-number\">65 </span>And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by <span class=\"clarity-word\">their</span> names.",
+      "ara": "<span class=\"verse-number\">Ù¦Ù¥ </span>ÙÙÙÙØ¯Ù Ø£ÙØ¹ÙØ·ÙÙÙØªÙ ÙÙØ°ÙÙÙ Ø§ÙÙÙÙØ¯ÙÙÙ Ø§ÙÙÙÙØ°ÙÙÙÙØ±ÙØ©Ù Ø¨ÙØ£ÙØ³ÙÙÙØ§Ø¦ÙÙÙØ§ Ø¨ÙØ§ÙÙÙÙØ±ÙØ¹ÙØ©Ù ÙÙÙÙ ÙÙØ¯ÙÙÙ Ø£ÙØ±ÙØ§Ø¶ÙÙ Ø£ÙØ³ÙØ¨ÙØ§Ø·Ù ÙÙÙÙÙØ°ÙØ§Ø ÙÙØ´ÙÙÙØ¹ÙÙÙÙØ ÙÙØ¨ÙÙÙÙÙØ§ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">65 </span>ããªãã¡ã¦ãã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã¨ã·ã¡ãªã³ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã¨ãããã¤ãã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããããã«<ruby><rb>å</rb><rt>ãª</rt></ruby>ãããããããã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ãããã«ãã£ã¦<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">65 </span>Y dieron por suertes de la tribu de los hijos de JudÃ¡, y de la tribu de los hijos de SimeÃ³n y de la tribu de los hijos de BenjamÃ­n, las ciudades que nombraron por sus nombres.",
+      "por": "<span class=\"verse-number\">65 </span>E deram-<span class=\"clarity-word\">lhes</span> por sorte essas cidades, da tribo dos filhos de JudÃ¡, da tribo dos filhos de SimeÃ£o, e da tribo dos filhos de Benjamim, Ã s quais deram os <span class=\"clarity-word\">seus</span> nomes.",
+      "fra": "<span class=\"verse-number\">65 </span>Ils donnÃ¨rent par tirage au sort de la part de la tribu des fils de Juda, de la tribu des fils de SimÃ©on et de la tribu des fils de Benjamin, ces villes quâils dÃ©signÃ¨rent nominativement.",
+      "deu": "<span class=\"verse-number\">65Â </span>ferner vom Stamm Gad: Ramot in Gilead samt den zugehÃ¶rigen WeideflÃ¤chen, Mahanajim samt den zugehÃ¶rigen WeideflÃ¤chen,",
+      "kor": "<span class=\"verse-number\">65 </span>ì ë¤ ììì ì§íì ìë¯ì¨ ììì ì§íì ë² ëë¯¼ ììì ì§í ì¤ìì ì´ ìì ê¸°ë¡í ì¬ë¬ ì±ìì ì ë¹ ë½ì ì£¼ìëë¼",
+      "ita": "<span class=\"verse-number\">65</span> dettero a sorte, della tribÃ¹ dei figli di Giuda, della tribÃ¹ dei figli di Simeone e della tribÃ¹ dei figli di Beniamino, le suddette cittÃ  che furono designate per nome."
+    },
+    "66": {
+      "eng": "<span class=\"verse-number\">66 </span>And <span class=\"clarity-word\">the residue</span> of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.",
+      "ara": "<span class=\"verse-number\">Ù¦Ù¦ </span>ÙÙÙÙØ§ ÙÙØ§ÙÙØªÙ Ø¨ÙØ¹ÙØ¶Ù ÙÙØ¯ÙÙÙ Ø§ÙÙÙÙÙÙØ§ØªÙÙÙÙÙÙÙ Ø¶ÙÙÙÙÙ Ø­ÙØ¯ÙÙØ¯Ù Ø£ÙØ±ÙØ§Ø¶ÙÙ Ø³ÙØ¨ÙØ·Ù Ø£ÙÙÙØ±ÙØ§ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">66 </span>ã³ããã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã¯ã¾ãã¨ãã©ã¤ã ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããã<ruby><rb>çºã</rb><rt>ã¾ã¡ã¾ã¡</rt></ruby>ã<ruby><rb>ç²</rb><rt>ã</rt></ruby>ã¦ãã®<ruby><rb>é å°</rb><rt>ãããã¡</rt></ruby>ã¨ããã",
+      "spa": "<span class=\"verse-number\">66 </span>Y a las familias de los hijos de Coat <span class=\"clarity-word\">dieron</span> ciudades del territorio de la tribu de EfraÃ­n.",
+      "por": "<span class=\"verse-number\">66 </span>E <span class=\"clarity-word\">quanto ao restante das</span> famÃ­lias dos filhos de Coate, as cidades do seu termo se lhes deram da tribo de Efraim.",
+      "fra": "<span class=\"verse-number\">66 </span>Et pour les autres familles des fils de Kehath les villes de leur territoire venaient de la tribu dâÃphraÃ¯m.",
+      "deu": "<span class=\"verse-number\">66Â </span>Heschbon samt den zugehÃ¶rigen WeideflÃ¤chen und Jaser samt den zugehÃ¶rigen WeideflÃ¤chen.",
+      "kor": "<span class=\"verse-number\">66 </span>ê·¸í« ììì ëª ì¢ì¡±ì ìë¸ë¼ì ì§í ì¤ìì ì±ìì ì»ì´ ìí ë¥¼ ì¼ìì¼ë©°",
+      "ita": "<span class=\"verse-number\">66</span> Quanto alle altre famiglie dei figli di Cheat, le cittÃ  del territorio assegnato loro appartenevano alla tribÃ¹ di Efraim."
+    },
+    "67": {
+      "eng": "<span class=\"verse-number\">67 </span>And they gave unto them, <span class=\"clarity-word\">of</span> the cities of refuge, Shechem in mount Ephraim with her suburbs; <span class=\"clarity-word\">they gave</span> also Gezer with her suburbs,",
+      "ara": "<span class=\"verse-number\">Ù¦Ù§ </span>ÙÙØ®ÙØµÙÙØµÙÙØ§ ÙÙÙÙÙÙ Ø£ÙÙÙØ¶Ø§Ù ÙÙØ¯ÙÙÙ ÙÙÙÙØ¬ÙØ¥Ù: Ø´ÙÙÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§ ÙÙÙ Ø¬ÙØ¨ÙÙÙ Ø£ÙÙÙØ±ÙØ§ÙÙÙÙØ ÙÙØ¬ÙØ§Ø²ÙØ±Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">67 </span>ããªãã¡<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããããã®ããã®<ruby><rb>çº</rb><rt>ã¾ã¡</rt></ruby>ã¯ã¨ãã©ã¤ã ã®<ruby><rb>å±±å°</rb><rt>ããã¡</rt></ruby>ã«ããã·ã±ã ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã²ã¼ã«ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">67 </span>Y les dieron las ciudades de refugio, Siquem con sus campos <span class=\"page-break\" data-page=\"677\"></span>en los montes de EfraÃ­n, y Gezer con sus campos,",
+      "por": "<span class=\"verse-number\">67 </span>Porque lhes deram as cidades de refÃºgio, SiquÃ©m e os seus arrabaldes, nas montanhas de Efraim, como tambÃ©m Gezer e os seus arrabaldes,",
+      "fra": "<span class=\"verse-number\">67 </span>Ils leur donnÃ¨rent la ville de refuge Sichem et ses pÃ¢turages, dans la montagne dâÃphraÃ¯m, GuÃ©zer et ses pÃ¢turages,",
+      "kor": "<span class=\"verse-number\">67 </span>ë ê·¸ë¤ìê² ëí¼ì±ì ì£¼ìì¼ë ìë¸ë¼ì ì°ì¤ ì¸ê²ê³¼ ê·¸ ì´ìê³¼ ê²ìê³¼ ê·¸ ì´ìê³¼",
+      "ita": "<span class=\"verse-number\">67</span> Dettero loro Sichem, cittÃ  di rifugio, con i suoi pascoli, nella contrada montuosa di Efraim, Ghezer con i suoi pascoli,"
+    },
+    "68": {
+      "eng": "<span class=\"verse-number\">68 </span>And Jokmeam with her suburbs, and Beth-horon with her suburbs,",
+      "ara": "<span class=\"verse-number\">Ù¦Ù¨ </span>ÙÙÙÙÙÙÙÙØ¹ÙØ§ÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙØ¨ÙÙÙØªÙ Ø­ÙÙØ±ÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">68 </span>ã¨ã¯ã¡ã¢ã ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ããããã­ã³ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">68 </span>y Jocmeam con sus campos, y Bet-horÃ³n con sus campos,",
+      "por": "<span class=\"verse-number\">68 </span>E JocmeÃ£o e os seus arrabaldes, e Bete-Horom e os seus arrabaldes,",
+      "fra": "<span class=\"verse-number\">68 </span>Jokmeam et ses pÃ¢turages, Beth-Horon et ses pÃ¢turages,",
+      "kor": "<span class=\"verse-number\">68 </span>ìë¯ìê³¼ ê·¸ ì´ìê³¼ ë²§í¸ë¡ ê³¼ ê·¸ ì´ìê³¼",
+      "ita": "<span class=\"verse-number\">68</span> Iocmeam con i suoi pascoli, Bet-Oron con i suoi pascoli,"
+    },
+    "69": {
+      "eng": "<span class=\"verse-number\">69 </span>And Aijalon with her suburbs, and Gath-rimmon with her suburbs:",
+      "ara": "<span class=\"verse-number\">Ù¦Ù© </span>ÙÙØ£ÙÙÙÙÙÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙØ¬ÙØªÙÙ Ø±ÙÙÙÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">69 </span>ã¢ã¤ã­ã³ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¬ããªã³ã¢ã³ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">69 </span>y AjalÃ³n con sus campos y Gat-rimÃ³n con sus campos.",
+      "por": "<span class=\"verse-number\">69 </span>E Aijalom e os seus arrabaldes, e Gate-Rimom e os seus arrabaldes.",
+      "fra": "<span class=\"verse-number\">69 </span>Ajalon et ses pÃ¢turages et Gath-Rimmon et ses pÃ¢turagesÂ ;",
+      "kor": "<span class=\"verse-number\">69 </span>ììë¡ ê³¼ ê·¸ ì´ìê³¼ ê°ëë¦¼ëª¬ê³¼ ê·¸ ì´ìì´ë©°",
+      "ita": "<span class=\"verse-number\">69</span> Aialon con i suoi pascoli, Gat-Rimmon con i suoi pascoli; e della mezza tribÃ¹ di Manasse, Aner con i suoi pascoli, Bileam con i suoi pascoli."
+    },
+    "70": {
+      "eng": "<span class=\"verse-number\">70 </span>And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath.",
+      "ara": "<span class=\"verse-number\">Ù§Ù  </span>ÙÙØ£ÙØ¹ÙØ·ÙÙÙØ§ ÙÙØ¹ÙØ´ÙÙØ±ÙØ©Ù Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙÙÙØ§ØªÙ Ø§ÙÙØ¨ÙØ§ÙÙÙÙÙ ÙÙÙÙ ÙÙØ¯ÙÙÙ ÙÙØµÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙØ³ÙÙÙ ÙÙØ¯ÙÙÙÙØªÙÙÙ Ø¹ÙØ§ÙÙÙØ±Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§ ÙÙØ¨ÙÙÙØ¹ÙØ§ÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">70 </span>ã¾ãããã»ã®<ruby><rb>å</rb><rt>ã¯ã</rt></ruby><ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããã¯ãã¢ãã«ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ããã³ãã¬ã¢ã ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ããã³ããã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æ°æ</rb><rt>ããã</rt></ruby>ã®<ruby><rb>æ®</rb><rt>ã®ã</rt></ruby>ãã®ãã®ã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããã",
+      "spa": "<span class=\"verse-number\">70 </span>Y de la media tribu de ManasÃ©s, Aner con sus campos y Bileam con sus campos, para los que quedaron de la familia de los hijos de Coat.",
+      "por": "<span class=\"verse-number\">70 </span>E da meia tribo de ManassÃ©s, Aner e os seus arrabaldes, e BileÃ£ e os seus arrabaldes; <span class=\"clarity-word\">essas cidades</span> tiveram os que ficaram da famÃ­lia dos filhos de Coate.",
+      "fra": "<span class=\"verse-number\">70 </span>et de la part de la demi-tribu de ManassÃ©, Aner et ses pÃ¢turages et Bileam et ses pÃ¢turages, pour la famille des autres fils de Kehath.",
+      "kor": "<span class=\"verse-number\">70 </span>ë ê·¸í« ììì ë¨ì ì¢ì¡±ìê²ë ë¯ë«ì¸ ë° ì§í ì¤ìì ìë¬ê³¼ ê·¸ ì´ìê³¼ ë¹ë¥´ìê³¼ ê·¸ ì´ìì ì£¼ìëë¼",
+      "ita": "<span class=\"verse-number\">70</span> Queste furono le cittÃ  date alle famiglie degli altri figli di Cheat."
+    },
+    "71": {
+      "eng": "<span class=\"verse-number\">71 </span>Unto the sons of Gershom <span class=\"clarity-word\">were given</span> out of the family of the half tribe of Manasseh, Golan in Bashan with her suburbs, and Ashtaroth with her suburbs:",
+      "ara": "<span class=\"verse-number\">Ù§Ù¡ </span>ÙÙØ£ÙØ¹ÙØ·ÙÙÙØ§ ÙÙØ¹ÙØ´ÙÙØ±ÙØ©Ù Ø§ÙÙØ¬ÙØ±ÙØ´ÙÙÙÙÙÙÙÙÙÙ ÙÙÙÙ ÙÙØ¯ÙÙÙ ÙÙØµÙÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙÙÙØ³ÙÙÙ Ø§ÙÙÙÙØ³ÙØªÙÙÙØ·ÙÙÙÙÙÙ ÙÙÙ Ø¨ÙØ§Ø´ÙØ§ÙÙØ Ø¬ÙÙÙØ§ÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§ ÙÙØ¹ÙØ´ÙØªÙØ§Ø±ÙÙØªÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">71 </span>ã²ã«ã·ã§ã³ã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããããã®ã¯ããã»ã®<ruby><rb>å</rb><rt>ã¯ã</rt></ruby><ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããã¯ãã·ã£ã³ã®ã´ã©ã³ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¢ã·ã¿ã­ãã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">71 </span>A los hijos de GersÃ³n <span class=\"clarity-word\">dieron</span> de la familia de la media tribu de ManasÃ©s, GolÃ¡n en BasÃ¡n con sus campos y Astarot con sus campos;",
+      "por": "<span class=\"verse-number\">71 </span>Os filhos de GÃ©rson, da famÃ­lia da meia tribo de ManassÃ©s, <span class=\"clarity-word\">tiveram</span> GolÃ£, em BasÃ£, e os seus arrabaldes, e Astarote e os seus arrabaldes.",
+      "fra": "<span class=\"verse-number\">71 </span>On donna aux fils de GuerschomÂ : de la part de la famille de la demi-tribu de ManassÃ©, Golan en Basan et ses pÃ¢turages et Aschtaroth et ses pÃ¢turagesÂ ;",
+      "kor": "<span class=\"verse-number\">71 </span>ê²ë¥´ì ìììê²ë ë¯ë«ì¸ ë° ì§í ì¢ì¡± ì¤ìì ë°ì°ì ê³¨ëê³¼ ê·¸ ì´ìê³¼ ìì¤ë¤ë¡¯ê³¼ ê·¸ ì´ìì ì£¼ê³",
+      "ita": "<span class=\"verse-number\">71</span> Ai figli di Ghershom toccarono: della famiglia della mezza tribÃ¹ di Manasse, Golan in Bashan con i suoi pascoli, e Ashtarot con i suoi pascoli; della tribÃ¹ di Issacar,"
+    },
+    "72": {
+      "eng": "<span class=\"verse-number\">72 </span>And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,",
+      "ara": "<span class=\"verse-number\">Ù§Ù¢ </span>ÙÙÙÙÙÙ ÙÙØ¯ÙÙÙ Ø£ÙØ±ÙØ§Ø¶ÙÙ Ø³ÙØ¨ÙØ·Ù ÙÙØ³ÙÙØ§ÙÙØ±ÙØ ÙÙØ§Ø¯ÙØ´Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§ ÙÙØ¯ÙØ¨ÙØ±ÙØ©Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">72 </span>ã¤ããµã«ã«ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããã¯ã±ãã·ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãããã©ãã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">72 </span>y de la tribu de Isacar, Cedes con sus campos, Daberat con sus campos,",
+      "por": "<span class=\"verse-number\">72 </span>E da tribo de Issacar, Quedes e os seus arrabaldes, e Daberate e os seus arrabaldes,",
+      "fra": "<span class=\"verse-number\">72 </span>de la part de la tribu dâIssacar, KÃ©desch et ses pÃ¢turages, Dobrath et ses pÃ¢turages,",
+      "kor": "<span class=\"verse-number\">72 </span>ë ìì¬ê° ì§í ì¤ìì ê²ë°ì¤ì ê·¸ ì´ìê³¼ ë¤ë¸ëê³¼ ê·¸ ì´ìê³¼",
+      "ita": "<span class=\"verse-number\">72</span> Chedesh con i suoi pascoli, Dobrat con i suoi pascoli;"
+    },
+    "73": {
+      "eng": "<span class=\"verse-number\">73 </span>And Ramoth with her suburbs, and Anem with her suburbs:",
+      "ara": "<span class=\"verse-number\">Ù§Ù£ </span>ÙÙØ±ÙØ§ÙÙÙØªÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙØ¹ÙØ§ÙÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">73 </span>ã©ã¢ãã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¢ãã ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">73 </span>y Ramot con sus campos y Anem con sus campos;",
+      "por": "<span class=\"verse-number\">73 </span>E Ramote e os seus arrabaldes, e AnÃ©m e os seus arrabaldes.",
+      "fra": "<span class=\"verse-number\">73 </span>Ramoth et ses pÃ¢turages et Anem et ses pÃ¢turagesÂ ;",
+      "kor": "<span class=\"verse-number\">73 </span>ë¼ëª»ê³¼ ê·¸ ì´ìê³¼ ìë´ê³¼ ê·¸ ì´ìì ì£¼ê³",
+      "ita": "<span class=\"verse-number\">73</span> Ramot con i suoi pascoli, e Anem con i suoi pascoli;"
+    },
+    "74": {
+      "eng": "<span class=\"verse-number\">74 </span>And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,",
+      "ara": "<span class=\"verse-number\">Ù§Ù¤ </span>ÙÙÙÙÙÙ ÙÙØ¯ÙÙÙ Ø£ÙØ±ÙØ§Ø¶ÙÙÙ Ø³ÙØ¨ÙØ·Ù Ø£ÙØ´ÙÙØ±ÙØ ÙÙØ´ÙØ¢ÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§ ÙÙØ¹ÙØ¨ÙØ¯ÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">74 </span>ã¢ã»ã«ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããã¯ãã·ã£ã«ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¢ããã³ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">74 </span>y de la tribu de Aser, Masal con sus campos, y AbdÃ³n con sus campos,",
+      "por": "<span class=\"verse-number\">74 </span>E da tribo de Aser, Masal e os seus arrabaldes, e Abdom e os seus arrabaldes,",
+      "fra": "<span class=\"verse-number\">74 </span>de la part de la tribu dâAser, Maschal et ses pÃ¢turages, Abdon et ses pÃ¢turages,",
+      "kor": "<span class=\"verse-number\">74 </span>ìì ì§í ì¤ìì ë§ì´ê³¼ ê·¸ ì´ìê³¼ ìëê³¼ ê·¸ ì´ìê³¼",
+      "ita": "<span class=\"verse-number\">74</span> della tribÃ¹ di Ascer: Mashal con i suoi pascoli, Abdon con i suoi pascoli,"
+    },
+    "75": {
+      "eng": "<span class=\"verse-number\">75 </span>And Hukok with her suburbs, and Rehob with her suburbs:",
+      "ara": "<span class=\"verse-number\">Ù§Ù¥ </span>ÙÙØ­ÙÙÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙØ±ÙØ­ÙÙØ¨Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">75 </span>ãã³ã¯ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¬ããã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">75 </span>y Hucoc con sus campos y Rehob con sus campos.",
+      "por": "<span class=\"verse-number\">75 </span>E Hucoque e os seus arrabaldes, e Reobe e os seus arrabaldes.",
+      "fra": "<span class=\"verse-number\">75 </span>Hukok et ses pÃ¢turages et Rehob et ses pÃ¢turagesÂ ;",
+      "kor": "<span class=\"verse-number\">75 </span>íê³¡ê³¼ ê·¸ ì´ìê³¼ ë¥´íê³¼ ê·¸ ì´ìì ì£¼ê³",
+      "ita": "<span class=\"verse-number\">75</span> Ucoc con i suoi pascoli, Reob con i suoi pascoli;"
+    },
+    "76": {
+      "eng": "<span class=\"verse-number\">76 </span>And out of the tribe of Naphtali; Kedesh in Galilee with her suburbs, <span class=\"page-break\" data-page=\"558\"></span>and Hammon with her suburbs, and Kirjathaim with her suburbs.",
+      "ara": "<span class=\"verse-number\">Ù§Ù¦ </span>ÙÙÙÙÙÙ ÙÙØ¯ÙÙÙ Ø£ÙØ±ÙØ§ÙØ¶Ù Ø³ÙØ¨ÙØ·Ù ÙÙÙÙØªÙØ§ÙÙÙØ ÙÙØ§Ø¯ÙØ´Ù ÙÙÙ Ø§ÙÙØ¬ÙÙÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙØ­ÙÙÙÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§ ÙÙÙÙØ±ÙÙÙØªÙØ§ÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">76 </span>ããã¿ãªã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããã¯ã¬ãªã©ã¤ã®ã±ãã·ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ããã³ã¢ã³ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã­ãªã¢ã¿ã¤ã ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">76 </span>Y de la tribu de NeftalÃ­, Cedes en Galilea con sus campos, y AmÃ³n con sus campos y Quiriataim con sus campos.",
+      "por": "<span class=\"verse-number\">76 </span>E da tribo de Naftali, Quedes, em Galileia, e os seus arrabaldes, e Hamom e os seus arrabaldes, e Quiriataim e os seus arrabaldes.",
+      "fra": "<span class=\"verse-number\">76 </span>et de la part de la tribu de Nephthali, KÃ©desch en GalilÃ©e et ses pÃ¢turages, Hammon et ses pÃ¢turages et KirjathaÃ¯m et ses pÃ¢turages.",
+      "kor": "<span class=\"verse-number\">76 </span>ë©ë¬ë¦¬ ì§í ì¤ìì ê°ë¦´ë¦¬ì ê²ë°ì¤ì ê·¸ ì´ìê³¼ í¨ëª¬ê³¼ ê·¸ ì´ìê³¼ ê¸°ë´ë¤ìê³¼ ê·¸ ì´ìì ì£¼ëë¼",
+      "ita": "<span class=\"verse-number\">76</span> della tribÃ¹ di Neftali: Chedesh in Galilea con i suoi pascoli, Hammon con i suoi pascoli, e Chiriataim con i suoi pascoli."
+    },
+    "77": {
+      "eng": "<span class=\"verse-number\">77 </span>Unto the rest of the children of Merari <span class=\"clarity-word\">were given</span> out of the tribe of Zebulun, Rimmon with her suburbs, Tabor with her suburbs:",
+      "ara": "<span class=\"verse-number\">Ù§Ù§ </span>ÙÙØ£ÙØ¹ÙØ·ÙÙÙØ§ Ø¨ÙÙÙÙÙÙØ©Ù Ø£ÙØ¨ÙÙÙØ§Ø¡Ù ÙÙØ±ÙØ§Ø±ÙÙ ÙÙÙÙ ÙÙØ¯ÙÙÙ Ø£ÙØ±ÙØ§Ø¶ÙÙ Ø³ÙØ¨ÙØ·Ù Ø²ÙØ¨ÙÙÙÙÙÙÙ Ø±ÙÙÙÙÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙØªÙØ§Ø¨ÙÙØ±Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">77 </span>ãã®ã»ãã®ãã®ãããªãã¡ã¡ã©ãªã®<ruby><rb>å­å­«</rb><rt>ããã</rt></ruby>ã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããããã®ã¯ã¼ãã«ã³ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ãããªã³ã¢ã³ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¿ãã«ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">77 </span>A los hijos de Merari que habÃ­an quedado, <span class=\"clarity-word\">dieron,</span> de la tribu de ZabulÃ³n, RimÃ³n con sus campos y Tabor con sus campos;",
+      "por": "<span class=\"verse-number\">77 </span>Os que ficaram dos filhos de Merari, da tribo de Zebulom, <span class=\"clarity-word\">tiveram</span> Rimom e os seus arrabaldes, Tabor e os seus arrabaldes,",
+      "fra": "<span class=\"verse-number\">77 </span>On donna au reste des LÃ©vites, aux fils de MerariÂ : de la part de la tribu de Zabulon, Rimmono et ses pÃ¢turages et Thabor et ses pÃ¢turagesÂ ;",
+      "kor": "<span class=\"verse-number\">77 </span>ë¯ë¼ë¦¬ ììì ë¨ì ììê²ë ì¤ë¶ë¡  ì§í ì¤ìì ë¦¼ëª¨ë¸ì ê·¸ ì´ìê³¼ ë¤ë³¼ê³¼ ê·¸ ì´ìì ì£¼ìê³",
+      "ita": "<span class=\"verse-number\">77</span> Al rimanente dei Leviti, ai figli di Merari, toccarono: della tribÃ¹ di Zabulon, Rimmon con i suoi pascoli e Tabor con i suoi pascoli;"
+    },
+    "78": {
+      "eng": "<span class=\"verse-number\">78 </span>And on the other side Jordan by Jericho, on the east side of Jordan, <span class=\"clarity-word\">were given them</span> out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,",
+      "ara": "<span class=\"verse-number\">Ù§Ù¨ </span>ÙÙÙÙØ§ ÙÙÙÙØ¨ÙÙÙÙÙÙ ÙÙÙÙ ÙÙØ¯ÙÙÙ Ø£ÙØ±ÙØ§Ø¶ÙÙ Ø±ÙØ£ÙÙØ¨ÙÙÙÙÙ ÙÙÙ Ø´ÙØ±ÙÙÙÙÙÙ ÙÙÙÙØ±Ù Ø§ÙØ£ÙØ±ÙØ¯ÙÙÙÙ ÙÙÙÙØ§Ø¨ÙÙÙ Ø£ÙØ±ÙÙØ­ÙØ§ Ø¨ÙØ§ØµÙØ±Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§ ÙÙÙ Ø§ÙØµÙÙØ­ÙØ±ÙØ§Ø¡ÙØ ÙÙÙÙÙÙØµÙØ©Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">78 </span>ã¨ãªã³ã«<ruby><rb>è¿</rb><rt>ã¡ã</rt></ruby>ãã¨ã«ãã³ã®ããªããããªãã¡ã¨ã«ãã³ã®<ruby><rb>æ±</rb><rt>ã²ãã</rt></ruby>ã§ã¯ã«ãã³ã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããã¯<ruby><rb>èé</rb><rt>ããã®</rt></ruby>ã®ãã¼ã«ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¤ã¶ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">78 </span>y del otro lado del JordÃ¡n, frente a JericÃ³, al oriente del JordÃ¡n, <span class=\"clarity-word\">dieron</span> de la tribu de RubÃ©n, Beser en el desierto con sus campos y Jaza con sus campos,",
+      "por": "<span class=\"verse-number\">78 </span>E de alÃ©m do JordÃ£o, <span class=\"clarity-word\">na altura</span> de JericÃ³, ao oriente do JordÃ£o, da tribo de RÃºben, Bezer, no deserto, e os seus arrabaldes, e Jaza e os seus arrabaldes,",
+      "fra": "<span class=\"verse-number\">78 </span>et de lâautre cÃ´tÃ© du Jourdain, en face de JÃ©richo, Ã  lâorient du JourdainÂ : de la part de la tribu de Ruben, Betser au dÃ©sert et ses pÃ¢turages, Jahtsa et ses pÃ¢turages,",
+      "kor": "<span class=\"verse-number\">78 </span>ë ìë¨ ê±´ë ëìª½ ê³§ ì¬ë¦¬ê³  ë§ìí¸ ë¥´ì°ë²¤ ì§í ì¤ìì ê´ì¼ì ë² ìê³¼ ê·¸ ì´ìê³¼ ì¼ì¬ì ê·¸ ì´ìê³¼",
+      "ita": "<span class=\"verse-number\">78</span> e di lÃ  dal Giordano di Gerico, a oriente del Giordano: della tribÃ¹ di Ruben, Bezer, nel deserto, con i suoi pascoli; Jaza con i suoi pascoli,"
+    },
+    "79": {
+      "eng": "<span class=\"verse-number\">79 </span>Kedemoth also with her suburbs, and Mephaath with her suburbs:",
+      "ara": "<span class=\"verse-number\">Ù§Ù© </span>ÙÙÙÙØ¯ÙÙÙÙÙØªÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙÙÙÙÙÙÙØ¹ÙØ©Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">79 </span>ã±ãã¢ãã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¡ãã¢ãã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">79 </span>Cademot con sus campos y Mefaat con sus campos;",
+      "por": "<span class=\"verse-number\">79 </span>E Quedemote e os seus arrabaldes, e Mefaate e os seus arrabaldes,",
+      "fra": "<span class=\"verse-number\">79 </span>KedÃ©moth et ses pÃ¢turages et MÃ©phaath et ses pÃ¢turagesÂ ;",
+      "kor": "<span class=\"verse-number\">79 </span>ê·¸ë°ëª»ê³¼ ê·¸ ì´ìê³¼ ë©ë°ìê³¼ ê·¸ ì´ìì ì£¼ìê³",
+      "ita": "<span class=\"verse-number\">79</span> Chedemot con i suoi pascoli, e Mefaat con i suoi pascoli;"
+    },
+    "80": {
+      "eng": "<span class=\"verse-number\">80 </span>And out of the tribe of Gad; Ramoth in Gilead with her suburbs, and Mahanaim with her suburbs,",
+      "ara": "<span class=\"verse-number\">Ù¨Ù  </span>ÙÙÙÙÙÙ ÙÙØ¯ÙÙÙ Ø£ÙØ±ÙØ§Ø¶ÙÙ Ø³ÙØ¨ÙØ·Ù Ø¬ÙØ§Ø¯Ù ÙÙÙ Ø¬ÙÙÙØ¹ÙØ§Ø¯Ù Ø±ÙØ§ÙÙÙØªÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙÙÙØ­ÙÙÙØ§ÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø",
+      "jpn": "<span class=\"verse-number\">80 </span>ã¬ãã®<ruby><rb>é¨æ</rb><rt>ã¶ãã</rt></ruby>ã®ãã¡ããã¯ã®ã¬ã¢ãã®ã©ã¢ãã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ããããã¤ã ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã",
+      "spa": "<span class=\"verse-number\">80 </span>y de la tribu de Gad, Ramot en Galaad con sus campos, y Mahanaim con sus campos,",
+      "por": "<span class=\"verse-number\">80 </span>E da tribo de Gade, Ramote, em Gileade, e os seus arrabaldes, e Maanaim e os seus arrabaldes,",
+      "fra": "<span class=\"verse-number\">80 </span>et de la part de la tribu de Gad, Ramoth en Galaad et ses pÃ¢turages, MahanaÃ¯m et ses pÃ¢turages,",
+      "kor": "<span class=\"verse-number\">80 </span>ë ê° ì§í ì¤ìì ê¸¸ë¥´ìì ë¼ëª»ê³¼ ê·¸ ì´ìê³¼ ë§íëìê³¼ ê·¸ ì´ìê³¼",
+      "ita": "<span class=\"verse-number\">80</span> e della tribÃ¹ di Gad: Ramot in Galaad, con i suoi pascoli, Mahanaim con i suoi pascoli,"
+    },
+    "81": {
+      "eng": "<span class=\"verse-number\">81 </span>And Heshbon with her suburbs, and Jazer with her suburbs.",
+      "ara": "<span class=\"verse-number\">Ù¨Ù¡ </span>ÙÙØ­ÙØ´ÙØ¨ÙÙÙÙ ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§Ø ÙÙÙÙØ¹ÙØ²ÙÙØ±Ù ÙÙÙÙØ±ÙØ§Ø¹ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">81 </span>ãã·ãã³ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ãã¤ã¼ã«ã¨ãã®<ruby><rb>æ¾ç§</rb><rt>ã»ãã¼ã</rt></ruby><ruby><rb>å°</rb><rt>ã¡</rt></ruby>ã§ããã",
+      "spa": "<span class=\"verse-number\">81 </span>y HesbÃ³n con sus campos y Jazer con sus campos.",
+      "por": "<span class=\"verse-number\">81 </span>E Hesbom e os seus arrabaldes, e Jazer e os seus arrabaldes.",
+      "fra": "<span class=\"verse-number\">81 </span>Hesbon et ses pÃ¢turages et Jaezar et ses pÃ¢turages.",
+      "kor": "<span class=\"verse-number\">81 </span>í¤ì¤ë³¸ê³¼ ê·¸ ì´ìê³¼ ì¼ìê³¼ ê·¸ ì´ìì ì£¼ìëë¼",
+      "ita": "<span class=\"verse-number\">81</span> Eshbon con i suoi pascoli, e Iaezer con i suoi pascoli."
+    }
+  }
+}

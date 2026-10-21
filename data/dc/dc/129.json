@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "volume": "dc",
+    "book": "dc",
+    "chapter": 129,
+    "headings": {
+      "eng": "1â3, There are both resurrected and spirit bodies in heaven; 4â9, Keys are given whereby messengers from beyond the veil may be identified.",
+      "jpn": "1ï¼3<ruby><rb>å¤©</rb><rt>ã¦ã</rt></ruby>ã«ã¯<ruby><rb>å¾©</rb><rt>ãµã£</rt></ruby><ruby><rb>æ´»</rb><rt>ãã¤</rt></ruby><ruby><rb>ä½</rb><rt>ãã</rt></ruby>ã¨<ruby><rb>é</rb><rt>ãã</rt></ruby><ruby><rb>ä½</rb><rt>ãã</rt></ruby>ãããã4ï¼9<ruby><rb>å¹</rb><rt>ã¾ã</rt></ruby>ã®ããªãããã®<ruby><rb>ä½¿</rb><rt>ã</rt></ruby><ruby><rb>è</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby><ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>éµ</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããã",
+      "zhs": "1-3ï¼å¤©ä¸æå·²å¤æ´»çèº«ä½åçµä½ï¼4-9ï¼è¯´æè¾¨è®¤å¹å­é£è¾¹æ¥çä½¿èçé¥åã",
+      "zht": "1-3ï¼å¤©ä¸æå·²å¾©æ´»çèº«é«åéé«ï¼4-9ï¼èªªæè¾¨èªå¹å­é£éä¾çä½¿èçé°åã",
+      "spa": "1â3, En el cielo hay seres resucitados y seres espirituales; 4â9, Se dan las claves mediante las cuales se puede reconocer a los mensajeros procedentes de allende el velo.",
+      "por": "1â3, No cÃ©u existem corpos ressurretos e corpos espirituais; 4â9, DÃ£o-se as chaves pelas quais se podem identificar mensageiros procedentes do outro lado do vÃ©u.",
+      "fra": "1-3, Il y a, dans les cieux, des corps ressuscitÃ©s et des corps dâespritÂ ; 4-9, Clefs par lesquelles on peut identifier les messagers venus de lâautre cÃ´tÃ© du voile.",
+      "deu": "1-3 Im Himmel gibt es sowohl auferstandene KÃ¶rper als auch GeistkÃ¶rper; 4-9 SchlÃ¼ssel werden gegeben, womit man Boten von jenseits des Schleiers identifizieren kann.",
+      "kor": "1~3, íëìë ë¶íì²´ì ìì²´ê° ìì. 4~9, íì¥ ëë¨¸ìì ì¨ ì¬ìë¥¼ íì¸í  ì ìë ì´ì ë¤ì´ ì£¼ì´ì§.",
+      "ita": "1â3: in cielo vi sono sia corpi risorti che di spirito; 4â9: vengono date le chiavi mediante le quali si possono identificare i messaggeri da oltre il velo."
+    },
+    "intros": {
+      "eng": "Instructions given by Joseph Smith the Prophet, at Nauvoo, Illinois, February 9, 1843, making known three grand keys by which the correct nature of ministering angels and spirits may be distinguished.",
+      "jpn": "åå«ç¾ååä¸<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby>äº<ruby><rb>æ</rb><rt>ãã¤</rt></ruby><ruby><rb>ä¹</rb><rt>ããã®</rt></ruby><ruby><rb>æ¥</rb><rt>ã</rt></ruby>ãã¤ãªãã¤<ruby><rb>å·</rb><rt>ããã</rt></ruby>ãã¼ãã¼ã«ããã¦ã<ruby><rb>é </rb><rt>ã</rt></ruby><ruby><rb>è¨</rb><rt>ãã</rt></ruby><ruby><rb>è</rb><rt>ãã</rt></ruby>ã¸ã§ã»ãã»ã¹ãã¹ã«ãã£ã¦<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããã<ruby><rb>ä»</rb><rt>ã¤ã</rt></ruby>ãã<ruby><rb>å¤©</rb><rt>ã¦ã</rt></ruby><ruby><rb>ä½¿</rb><rt>ã</rt></ruby>ã¨<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ­£</rb><rt>ããã</rt></ruby><ruby><rb>ä½</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby><ruby><rb>å</rb><rt>ã</rt></ruby>ããããã®ä¸ã¤ã®<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããªã<ruby><rb>éµ</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããã«ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã",
+      "zhs": "1843å¹´2æ9æ¥ï¼å¨<u>ä¼å©è¯º</u>ï¼<u>çº³åº</u>ï¼åç¥<u>çº¦çÂ·æ¯å¯</u>ç»äºçæç¤ºï¼æ¾æåè¾¨æ½å©å¤©ä½¿åè¯¸çµçæ­£ç¡®èº«ä»½çä¸å¤§é¥åã",
+      "zht": "1843å¹´2æ9æ¥ï¼å¨<u>ä¼å©è«¾</u>ï¼<u>ç´åº</u>ï¼åç¥<u>ç´çÂ·æ¯å¯</u>çµ¦äºçæç¤ºï¼é¡¯æåè¾¨æ½å©å¤©ä½¿åè«¸éçæ­£ç¢ºèº«ä»½çä¸å¤§é°åã",
+      "spa": "Instrucciones dadas por JosÃ© Smith el Profeta en Nauvoo, Illinois, el 9 de febrero de 1843, en las que se dan a conocer tres grandes claves mediante las cuales se puede distinguir la verdadera naturaleza de los Ã¡ngeles y de los espÃ­ritus ministrantes.",
+      "por": "InstruÃ§Ãµes dadas por Joseph Smith, o Profeta, em Nauvoo, Illinois, em 9 de fevereiro de 1843, dando a conhecer trÃªs importantes chaves por meio das quais se pode distinguir a verdadeira natureza dos espÃ­ritos e anjos ministradores.",
+      "fra": "Instructions donnÃ©es, le 9Â fÃ©vrier 1843, par Joseph Smith, le prophÃ¨te, Ã  Nauvoo (Illinois), rÃ©vÃ©lant trois grandes clefs permettant de distinguer la nature correcte des anges et des esprits chargÃ©s dâun ministÃ¨re.",
+      "deu": "Belehrungen, gegeben von Joseph Smith, dem Propheten, am 9.Â Februar 1843 zu Nauvoo, Illinois, worin drei wichtige SchlÃ¼ssel kundgetan werden, wie man die wahre Natur dienender Engel und Geister unterscheiden kann.",
+      "kor": "1843ë 2ì 9ì¼ ì¼ë¦¬ë¸ì´ ì£¼ ëë¶ìì ì ì§ì ì¡°ì ì¤ë¯¸ì¤ê° ì¤ ê°ë¥´ì¹¨. ì´ë ì±ì­ì ë² í¸ë ì²ì¬ì ìì ì¬ë°ë¥¸ ë³¸ì§ì ìë³í  ì ìë ì¸ ê°ì§ í° ì´ì ë¥¼ ìê² í´ ì£¼ê³  ìë¤(<em>êµíì¬</em> 5:267).",
+      "ita": "Istruzioni date da Joseph Smith, il Profeta, a Nauvoo, Illinois, il 9Â febbraio 1843, che rendono note tre grandi chiavi mediante le quali si puÃ² distinguere la corretta natura degli angeli ministranti e degli spiriti."
+    }
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>There are two kinds of beings in heaven, namely: Angels, who are resurrected personages, having bodies of flesh and bonesâ",
+      "jpn": "<span class=\"verse-number\">1</span>å¤©ã«äº<ruby><rb>ç¨®</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å­</rb><rt>ãã</rt></ruby><ruby><rb>å¨</rb><rt>ãã</rt></ruby><ruby><rb>è</rb><rt>ãã</rt></ruby>ããããããªãã¡ã<ruby><rb>ç¬¬</rb><rt>ã ã</rt></ruby>ä¸ã¯å¤©ä½¿ã§ããã<ruby><rb>å¤©</rb><rt>ã¦ã</rt></ruby><ruby><rb>ä½¿</rb><rt>ã</rt></ruby>ã¨ã¯ã<ruby><rb>éª¨</rb><rt>ãã¤</rt></ruby><ruby><rb>è</rb><rt>ã«ã</rt></ruby>ã®<ruby><rb>ä½</rb><rt>ããã </rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¤å¾©æ´»ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã§ããã",
+      "zhs": "<span class=\"verse-number\">1ã</span>å¤©ä¸æä¸¤ç§äººç©ï¼å³ï¼å¤©ä½¿ï¼ä»ä»¬æ¯å·²å¤æ´»çäººï¼æéª¨èçèº«ä½ââ",
+      "zht": "<span class=\"verse-number\">1ã</span>å¤©ä¸æå©ç¨®äººç©ï¼å³ï¼å¤©ä½¿ï¼ä»åæ¯å·²å¾©æ´»çäººï¼æéª¨èçèº«é«ââ",
+      "spa": "<span class=\"verse-number\">1 </span>Hay dos clases de seres en los cielos, a saber: Ãngeles, que son personajes resucitados con cuerpo de carne y huesos.",
+      "por": "<span class=\"verse-number\">1 </span>No cÃ©u existem duas espÃ©cies de seres, a saber: Anjos, que sÃ£o pessoas ressuscitadas e que tÃªm um corpo de carne e ossosÂ â",
+      "fra": "<span class=\"verse-number\">1Â </span>Il y a, dans les cieux, deux sortes dâÃªtres, Ã  savoirÂ : les anges, qui sont des personnages ressuscitÃ©s, ayant un corps de chair et dâosÂ :",
+      "deu": "<span class=\"verse-number\">1Â </span>Es gibt zwei Arten von Wesen im Himmel, und zwar: Engel, bei denen es sich um Auferstandene handelt und die einen KÃ¶rper aus Fleisch und Gebein habenÂ â",
+      "kor": "<span class=\"verse-number\">1 </span>íëìë ë ë¶ë¥ì ì¡´ì¬ê° ìëëë¼. ê³§ ì²ì¬ì, ë¶íí ì¸ê²©ì²´ë¡ì ì´ê³¼ ë¼ì ëª¸ì ê°ì¡ëëï¼",
+      "ita": "<span class=\"verse-number\">1 </span>Vi sono due tipi di esseri in cielo, cioÃ¨: gli angeli, che sono personaggi risorti, che hanno un corpo di carne ed ossa;"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>For instance, Jesus said: <em>Handle me and see, for a spirit hath not </em>flesh<em> and bones, as ye see me have.</em>",
+      "jpn": "<span class=\"verse-number\">2</span><ruby><rb>ä¾</rb><rt>ãã¨</rt></ruby>ãã°ãã¤ã¨ã¹ã¯ãã<strong><ruby><rb>è§¦</rb><rt>ãã</rt></ruby>ã£ã¦<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãªããã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã«ã¯</strong>è<strong>ã<ruby><rb>éª¨</rb><rt>ã»ã­</rt></ruby>ã¯ãªãããããªãããã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã¨ããããããã«ã¯ãã</strong>ãã¨<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">2ã</span>ä¾å¦ï¼è¶ç¨£è¯´ï¼<em>æ¸æççï¼é­</em>æ éª¨æ è<em>ï¼ä½ ä»¬çï¼ææ¯æçã</em>",
+      "zht": "<span class=\"verse-number\">2ã</span>ä¾å¦ï¼è¶ç©èªªï¼<em>æ¸æççï¼é­</em>ç¡éª¨ç¡è<em>ï¼ä½ åçï¼ææ¯æçã</em>",
+      "spa": "<span class=\"verse-number\">2 </span>Por ejemplo, JesÃºs dijo: <em>Palpad, y ved; porque un espÃ­ritu ni tiene </em>carne<em> ni huesos, como veis que yo tengo.</em>",
+      "por": "<span class=\"verse-number\">2 </span>Por exemplo, Jesus disse: <em>Apalpai-me e vede, pois um espÃ­rito nÃ£o tem </em>carne<em> nem ossos, como vedes que eu tenho.</em>",
+      "fra": "<span class=\"verse-number\">2Â </span>par exemple, JÃ©sus a ditÂ : <em>Touchez-moi et voyezÂ : un esprit nâa ni </em>chair<em> ni os, comme vous voyez que jâai.</em>",
+      "deu": "<span class=\"verse-number\">2Â </span>Jesus beispielsweise hat gesagt: <em>Fasst mich an und seht; denn ein Geist hat nicht </em>Fleisch<em> und Gebein, wie ihr seht, dass ich habe.</em>",
+      "kor": "<span class=\"verse-number\">2 </span>ìë¥¼ ë¤ë©´, ììê»ì ì´ë¥´ìë, <em>ëë¥¼ ë§ì ¸ ë³´ë¼. ìì ì´ê³¼ ë¼ê° ìì¼ë, ëí¬ ë³´ë ë°ì ê°ì´ ëë ìëëë¼ </em>í¨ê³¼ ê°ëë¤.",
+      "ita": "<span class=\"verse-number\">2 </span>Per esempio, GesÃ¹ disse: <em>Palpatemi e guardate; perchÃ© uno spirito non ha carne e ossa come vedete che ho io.</em>"
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>Secondly: the spirits of just men made perfect, they who are not resurrected, but inherit the same glory.",
+      "jpn": "<span class=\"verse-number\">3</span><ruby><rb>ç¬¬</rb><rt>ã ã</rt></ruby>äºã«ã<ruby><rb>å®</rb><rt>ãã</rt></ruby><ruby><rb>å¨</rb><rt>ãã</rt></ruby>ãª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¨ãããæ­£ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã®éã§ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯<ruby><rb>å¾©</rb><rt>ãµã£</rt></ruby><ruby><rb>æ´»</rb><rt>ãã¤</rt></ruby>ãã¦ããªããã<ruby><rb>å</rb><rt>ããª</rt></ruby>ã<ruby><rb>æ </rb><rt>ãã</rt></ruby><ruby><rb>å</rb><rt>ãã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ã<ruby><rb>ç¶</rb><rt>ã¤</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">3ã</span>å¶æ¬¡ï¼å·²æä¸ºå®å¨çä¹äººä¹çµï¼ä»ä»¬è¿æ²¡æå¤æ´»ï¼ä½ç»§æ¿åæ ·çè£èã",
+      "zht": "<span class=\"verse-number\">3ã</span>å¶æ¬¡ï¼å·²æçºå®å¨çç¾©äººä¹éï¼ä»åéæ²æå¾©æ´»ï¼ä½ç¹¼æ¿åæ¨£çæ¦®èã",
+      "spa": "<span class=\"verse-number\">3 </span>En segundo lugar: Los espÃ­ritus de hombres justos hechos perfectos, aquellos que no han resucitado, pero que heredan la misma gloria.",
+      "por": "<span class=\"verse-number\">3 </span>Segundo: Os espÃ­ritos de homens justos tornados perfeitos, aqueles que nÃ£o ressuscitaram, mas herdam a mesma glÃ³ria.",
+      "fra": "<span class=\"verse-number\">3Â </span>DeuxiÃ¨mementÂ : les esprits des justes parvenus Ã  la perfection, ceux qui ne sont pas ressuscitÃ©s, mais hÃ©ritent la mÃªme gloire.",
+      "deu": "<span class=\"verse-number\">3Â </span>Zweitens: die Geister gerechter Menschen, die vollkommen gemacht sindÂ â solche, die noch nicht auferstanden sind, aber die gleiche Herrlichkeit ererben.",
+      "kor": "<span class=\"verse-number\">3 </span>ë ë²ì§¸ë ìì íê² ë ìì¸ì ìì´ë, ê·¸ë¤ì ë¶ííì§ ìëíìì¼ë ëê°ì ìê´ì ììíë ìë¤ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">3 </span>In secondo luogo: gli spiriti degli uomini giusti resi perfetti, coloro che non sono risorti, ma che ereditano la stessa gloria."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>When a messenger comes saying he has a message from God, offer him your hand and request him to shake hands with you.",
+      "jpn": "<span class=\"verse-number\">4</span>ãã<ruby><rb>ä½¿</rb><rt>ã</rt></ruby><ruby><rb>è</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ã¦<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>å¾¡</rb><rt>ã</rt></ruby><ruby><rb>å</rb><rt>ã¤</rt></ruby>ããããã¨<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãã¨ããããªãã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã<ruby><rb>å·®</rb><rt>ã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã¦<ruby><rb>æ¡</rb><rt>ãã</rt></ruby><ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ããªããã",
+      "zhs": "<span class=\"verse-number\">4ã</span>å½ä¸ä½ä½¿èæ¥ï¼è¯´ä»å¸¦æ¥ç¥çä¿¡æ¯ï¼ä½ å°±ä¼¸åºä½ çæï¼è¯·ä»ä¸ä½ æ¡æã",
+      "zht": "<span class=\"verse-number\">4ã</span>ç¶ä¸ä½ä½¿èä¾ï¼èªªä»å¸¶ä¾ç¥çä¿¡æ¯ï¼ä½ å°±ä¼¸åºä½ çæï¼è«ä»èä½ æ¡æã",
+      "spa": "<span class=\"verse-number\">4 </span>Cuando venga un mensajero diciendo que tiene un mensaje de Dios, extiÃ©ndele tu mano y pÃ­dele la suya para estrecharla.",
+      "por": "<span class=\"verse-number\">4 </span>Quando aparecer um mensageiro dizendo ter uma mensagem de Deus, oferecei-lhe a mÃ£o e pedi-lhe que a aperte.",
+      "fra": "<span class=\"verse-number\">4Â </span>Lorsquâun messager vient, disant quâil a un message de la part de Dieu, tendez-lui la main et demandez-lui de vous la serrer.",
+      "deu": "<span class=\"verse-number\">4Â </span>Wenn ein Bote kommt und sagt, er habe eine Botschaft von Gott, so reiche ihm die Hand und fordere ihn auf, dir die Hand zu geben.",
+      "kor": "<span class=\"verse-number\">4 </span>ì´ë¤ ì¬ìê° ìì ìì ì´ íëëì´ ë³´ë´ìë ì ê°ì ê°ì§ê³  ìë¤ ë§í  ëìë ë¤ ìì ê·¸ìê² ë´ë°ì´ ëì ììíê¸°ë¥¼ ì²­íë¼.",
+      "ita": "<span class=\"verse-number\">4 </span>Quando un messaggero viene dicendo che ha un messaggio da Dio, offrigli la mano e chiedigli di scambiarvi una stretta di mano."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>If he be an angel he will do so, and you will feel his hand.",
+      "jpn": "<span class=\"verse-number\">5</span>ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¤©</rb><rt>ã¦ã</rt></ruby><ruby><rb>ä½¿</rb><rt>ã</rt></ruby>ã§ããã°ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ããã«<ruby><rb>å¿</rb><rt>ãã</rt></ruby>ãã¦ãããªãã¯ãã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã®<ruby><rb>æ</rb><rt>ãã</rt></ruby><ruby><rb>è§¦</rb><rt>ããã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ãã¼</rt></ruby>ããã§ãããã",
+      "zhs": "<span class=\"verse-number\">5ã</span>å¦æä»æ¯å¤©ä½¿ï¼ä»å°±ä¼è¿æ ·åï¼èä½ ä¼æè§å°ä»çæã",
+      "zht": "<span class=\"verse-number\">5ã</span>å¦æä»æ¯å¤©ä½¿ï¼ä»å°±æéæ¨£åï¼èä½ ææè¦ºå°ä»çæã",
+      "spa": "<span class=\"verse-number\">5 </span>Si es un Ã¡ngel, lo harÃ¡, y sentirÃ¡s su mano.",
+      "por": "<span class=\"verse-number\">5 </span>Se for um anjo, ele o farÃ¡ e sentireis sua mÃ£o.",
+      "fra": "<span class=\"verse-number\">5Â </span>Si câest un ange, il le fera, et vous sentirez sa main.",
+      "deu": "<span class=\"verse-number\">5Â </span>Wenn es ein Engel ist, so wird er es tun, und du wirst seine Hand fÃ¼hlen.",
+      "kor": "<span class=\"verse-number\">5 </span>ë§ì¼ ê·¸ê° ì²ì¬ì´ë©´, ê·¸ë ê·¸ë ê² í  ê²ì´ì, ëë ê·¸ì ìì ëë¼ë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">5 </span>Se Ã¨ un angelo, egli lo farÃ , e tu sentirai la sua mano."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>If he be the spirit of a just man made perfect he will come in his glory; for that is the only way he can appearâ",
+      "jpn": "<span class=\"verse-number\">6</span>ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>å®</rb><rt>ãã</rt></ruby><ruby><rb>å¨</rb><rt>ãã</rt></ruby>ãª<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¨ããã<ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>é</rb><rt>ãã</rt></ruby>ã§ããã°ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>æ </rb><rt>ãã</rt></ruby><ruby><rb>å</rb><rt>ãã</rt></ruby>ããã£ã¦<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ãã§ãããããããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¾</rb><rt>ããã</rt></ruby>ãããã¨ã®ã§ãã<ruby><rb>å¯</rb><rt>ãã</rt></ruby><ruby><rb>ä¸</rb><rt>ãã¤</rt></ruby>ã®<ruby><rb>æ¹</rb><rt>ã»ã</rt></ruby><ruby><rb>æ³</rb><rt>ã»ã</rt></ruby>ã ããã§ããã",
+      "zhs": "<span class=\"verse-number\">6ã</span>å¦æä»æ¯å·²æä¸ºå®å¨çä¹äººä¹çµï¼ä»ä¼å¨ä»çè£èä¸­åæ¥ï¼å ä¸ºé£æ¯ä»è½æ¾ç°çå¯ä¸æ¹å¼ââ",
+      "zht": "<span class=\"verse-number\">6ã</span>å¦æä»æ¯å·²æçºå®å¨çç¾©äººä¹éï¼ä»æå¨ä»çæ¦®èä¸­åä¾ï¼å çºé£æ¯ä»è½é¡¯ç¾çå¯ä¸æ¹å¼ââ",
+      "spa": "<span class=\"verse-number\">6 </span>Si es el espÃ­ritu de un hombre justo hecho perfecto, vendrÃ¡ en su gloria; porque solo de esa manera se puede aparecer.",
+      "por": "<span class=\"verse-number\">6 </span>Se for o espÃ­rito de um homem justo tornado perfeito, ele virÃ¡ em sua glÃ³ria, porque essa Ã© a Ãºnica maneira em que pode aparecerÂ â",
+      "fra": "<span class=\"verse-number\">6Â </span>Si câest lâesprit dâun juste parvenu Ã  la perfection, il viendra dans sa gloireÂ ; car ce nâest que de cette faÃ§on quâil peut apparaÃ®treÂ ;",
+      "deu": "<span class=\"verse-number\">6Â </span>Wenn es der Geist eines gerechten Menschen ist, der vollkommen gemacht worden ist, so wird er in seiner Herrlichkeit kommen, denn das ist die einzige Weise, wie er erscheinen kannÂ â",
+      "kor": "<span class=\"verse-number\">6 </span>ë§ì¼ ê·¸ê° ìì íê² ë ìì¸ì ìì´ë©´, ê·¸ë ìê¸° ìê´ ì¤ì ì¤ë¦¬ë, ì´ë ê·¸ê²ì´ ê·¸ê° ëíë  ì ìë ì ì¼í ë°©ë²ìì´ë¼ï¼",
+      "ita": "<span class=\"verse-number\">6 </span>Se Ã¨ lo spirito di un uomo giusto reso perfetto, egli verrÃ  nella sua gloria, poichÃ© quello Ã¨ il solo modo in cui possa apparire."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>Ask him to shake hands with you, but he will not move, because it is contrary to the order of heaven for a just man to deceive; but he will still deliver his message.",
+      "jpn": "<span class=\"verse-number\">7</span><ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ¡</rb><rt>ãã</rt></ruby><ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ããªããããããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å¿</rb><rt>ãã</rt></ruby>ããªãã§ãããã<ruby><rb>æ­£</rb><rt>ãã </rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>æ¬º</rb><rt>ããã</rt></ruby>ãã®ã¯ã<ruby><rb>å¤©</rb><rt>ã¦ã</rt></ruby>ã®<ruby><rb>ç§©</rb><rt>ã¡ã¤</rt></ruby><ruby><rb>åº</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å</rb><rt>ã¯ã</rt></ruby>ããããã§ããããããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ããã§ã<ruby><rb>å¾¡</rb><rt>ã</rt></ruby><ruby><rb>å</rb><rt>ã¤</rt></ruby>ãã<ruby><rb>ä¼</rb><rt>ã¤ã</rt></ruby>ããã§ãããã",
+      "zhs": "<span class=\"verse-number\">7ã</span>è¯·ä»ä¸ä½ æ¡æï¼èä»å°ä¸å¨ï¼å ä¸ºè¦ä¸ä¸ªä¹äººæ¬ºéªæ¯è¿åå¤©ä¸ä½å¶çï¼ä½ä»ä»ä¼ä¼ è¾¾ä»çä¿¡æ¯ã",
+      "zht": "<span class=\"verse-number\">7ã</span>è«ä»èä½ æ¡æï¼èä»å°ä¸åï¼å çºè¦ä¸åç¾©äººæ¬ºé¨æ¯éåå¤©ä¸é«å¶çï¼ä½ä»ä»æå³éä»çä¿¡æ¯ã",
+      "spa": "<span class=\"verse-number\">7 </span>PÃ­dele que te estreche la mano, pero no se moverÃ¡, porque es contrario al orden de los cielos que un hombre justo engaÃ±e; sin embargo, aun asÃ­ comunicarÃ¡ su mensaje.",
+      "por": "<span class=\"verse-number\">7 </span>Pedi-lhe que vos dÃª a mÃ£o e ele nÃ£o se moverÃ¡, porque Ã© contrÃ¡rio Ã  ordem do cÃ©u que um homem justo engane; mas ele ainda assim transmitirÃ¡ sua mensagem.",
+      "fra": "<span class=\"verse-number\">7Â </span>demandez-lui de vous serrer la main, mais il ne bougera pas, parce quâil est contraire Ã  lâordre des cieux quâun juste trompeÂ ; mais il remettra cependant son message.",
+      "deu": "<span class=\"verse-number\">7Â </span>fordere ihn auf, dir die Hand zu geben, und er wird sich nicht rÃ¼hren, denn es widerspricht der Ordnung des Himmels, dass ein gerechter Mensch tÃ¤uscht; aber er wird dennoch seine Botschaft ausrichten.",
+      "kor": "<span class=\"verse-number\">7 </span>ëì ììíê¸°ë¥¼ ê·¸ìê² ì²­íë¼. ê·¸ë¦¬íì¬ë ê·¸ë ìì§ì´ì§ ìëíë¦¬ë, ìì¸ì´ ë¨ì ììì íëì ì§ìì ì´ê¸ë¨ì´ë¼, ê·¸ë¬ë ê·¸ë ì¬ì í ê·¸ì ì ê°ì ì íë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">7 </span>Domandagli di scambiarvi una stretta di mano, ma egli non si muoverÃ , poichÃ© Ã¨ contrario allâordine del cielo che un giusto inganni; ma tuttavia comunicherÃ  il suo messaggio."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>If it be the devil as an angel of light, when you ask him to shake hands he will offer you his hand, and you will not feel anything; you may therefore detect him.",
+      "jpn": "<span class=\"verse-number\">8</span>ããããã<ruby><rb>å</rb><rt>ã²ãã</rt></ruby>ã®<ruby><rb>å¤©</rb><rt>ã¦ã</rt></ruby><ruby><rb>ä½¿</rb><rt>ã</rt></ruby>ã¨ãã¦ã®æªé­ã§ããã°ãããªãã<ruby><rb>æ¡</rb><rt>ãã</rt></ruby><ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ããã¨ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ããªãã«<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã<ruby><rb>å·®</rb><rt>ã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã§ããããããããããªãã¯<ruby><rb>ä½</rb><rt>ãªã«</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããªãã®ã§ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby><ruby><rb>ç ´</rb><rt>ãã¶</rt></ruby>ããã¨ãã§ããã",
+      "zhs": "<span class=\"verse-number\">8ã</span>å¦æé£æ¯è£ä½åæå¤©ä½¿çé­é¬¼ï¼ä½ è¯·ä»æ¡ææ¶ï¼ä»ä¼ä¼¸åºä»çæï¼èä½ ä¸ä¼æè§å°ä»»ä½ä¸è¥¿ï¼å æ­¤ä½ å°±å¯æ¥åºä»ã",
+      "zht": "<span class=\"verse-number\">8ã</span>å¦æé£æ¯è£ä½åæå¤©ä½¿çé­é¬¼ï¼ä½ è«ä»æ¡ææï¼ä»æä¼¸åºä»çæï¼èä½ ä¸ææè¦ºå°ä»»ä½æ±è¥¿ï¼å æ­¤ä½ å°±å¯æ¥åºä»ã",
+      "spa": "<span class=\"verse-number\">8 </span>Si es el diablo, fingiendo ser un Ã¡ngel de luz, cuando le pidas que estreche tu mano, te ofrecerÃ¡ la suya, pero no sentirÃ¡s nada; asÃ­ podrÃ¡s descubrirlo.",
+      "por": "<span class=\"verse-number\">8 </span>Se for o diabo fazendo-se de anjo de luz, quando pedirdes que vos dÃª a mÃ£o, oferecer-vos-Ã¡ a mÃ£o e nÃ£o sentireis coisa alguma; podereis, portanto, identificÃ¡-lo.",
+      "fra": "<span class=\"verse-number\">8Â </span>Si câest le diable apparaissant comme un ange de lumiÃ¨re, lorsque vous lui demanderez de vous serrer la main, il vous tendra la main, et vous ne sentirez rienÂ ; câest ainsi que vous pourrez le dÃ©tecter.",
+      "deu": "<span class=\"verse-number\">8Â </span>Wenn es der Teufel als ein Engel des Lichts ist und du ihn aufforderst, dir die Hand zu geben, so wird er dir die Hand reichen, und du wirst nichts fÃ¼hlen, deshalb kannst du ihn entlarven.",
+      "kor": "<span class=\"verse-number\">8 </span>ë§ì¼ ë¹ì ì¬ìë¡ ëíë ìë§ì´ë©´, ë¤ê° ê·¸ìê² ììíê¸°ë¥¼ ì²­í  ë ê·¸ë ë¤ê² ìì ì ìì ë´ë° ê²ì´ë, ëë ìë¬´ ê²ë ëë¼ì§ ëª»íë¦¬ë, ê·¸ë¬ë¯ë¡ ëë ê·¸ë¥¼ ê°íí´ë¼ ì ìì¼ë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">8 </span>Se Ã¨ il diavolo come un angelo di luce, quando gli chiederai di scambiarvi una stretta di mano, egli ti offrirÃ  la sua mano, e tu non sentirai nulla; potrai dunque smascherarlo."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>These are three grand keys whereby you may know whether any administration is from God.",
+      "jpn": "<span class=\"verse-number\">9</span>ããããããããªã<ruby><rb>å</rb><rt>ã¯ãã</rt></ruby>ãããã§ãããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ããã®ãã®ãã©ããã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããã®ä¸ã¤ã®<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããªã<ruby><rb>éµ</rb><rt>ãã</rt></ruby>ã§ããã",
+      "zhs": "<span class=\"verse-number\">9ã</span>è¿å°±æ¯ä½ å¯ç¨æ¥ç¥éä»»ä½æ½å©æ¯å¦æ¥èªç¥çä¸å¤§é¥åã",
+      "zht": "<span class=\"verse-number\">9ã</span>éå°±æ¯ä½ å¯ç¨ä¾ç¥éä»»ä½æ½å©æ¯å¦ä¾èªç¥çä¸å¤§é°åã",
+      "spa": "<span class=\"verse-number\">9 </span>Estas son tres grandes claves mediante las cuales podrÃ¡s saber si una ministraciÃ³n procede de Dios.",
+      "por": "<span class=\"verse-number\">9 </span>Essas sÃ£o trÃªs importantes chaves pelas quais podereis saber se uma ministraÃ§Ã£o provÃ©m de Deus.",
+      "fra": "<span class=\"verse-number\">9Â </span>Ce sont lÃ  trois grandes clefs qui vous permettront de savoir si une manifestation est de Dieu.",
+      "deu": "<span class=\"verse-number\">9Â </span>Dies sind drei wichtige SchlÃ¼ssel, womit man erkennen kann, ob eine Kundgebung von Gott ist.",
+      "kor": "<span class=\"verse-number\">9 </span>ì´ê²ì ì´ë í ì¬ì­ì´ íëëì¼ë¡ë¶í° ì¨ ê²ì¸ì§ ìëì§ë¥¼ ëí¬ê° ìì ë¼ ì ìë ì¸ ê°ì§ í° ì´ì ëë¼.",
+      "ita": "<span class=\"verse-number\">9 </span>Queste sono tre grandi chiavi mediante le quali potrai sapere se una manifestazione Ã¨ da Dio."
+    }
+  }
+}

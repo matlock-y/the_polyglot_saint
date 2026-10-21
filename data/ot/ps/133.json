@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "ps",
+    "chapter": 133,
+    "headings": {
+      "eng": "David says, It is pleasant for brethren to dwell together in unity!",
+      "spa": "David dice: Â¡Es agradable que los hermanos habiten juntos en unidad!",
+      "por": "Davi diz: QuÃ£o agradÃ¡vel Ã© que os irmÃ£os habitem em uniÃ£o!",
+      "fra": "David ditÂ : Â«Â Quâil est doux pour des frÃ¨res de demeurer unis ensembleÂ !Â Â»",
+      "ita": "Davide dice: âÃ piacevole che i fratelli dimorino in unitÃ !â."
+    },
+    "intros": {
+      "eng": "A Song of degrees of David.",
+      "jpn": "ããããããã <ruby><rb>é½</rb><rt>ã¿ãã</rt></ruby>ããã§ã®<ruby><rb>æ­</rb><rt>ãã</rt></ruby>",
+      "spa": "CÃ¡ntico de ascenso gradual. De David.",
+      "por": "CÃ¢ntico das subidas, de Davi.",
+      "ita": "Canto dei pellegrinaggi. Di Davide."
+    }
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Behold, how good and how pleasant <span class=\"clarity-word\">it is</span> for brethren to dwell together in unity!",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ§ Ø£ÙØ­ÙØ³ÙÙÙ ÙÙÙØ§ Ø£ÙØ¨ÙÙÙØ¬Ù Ø£ÙÙÙ ÙÙØ³ÙÙÙÙÙ Ø§ÙØ¥ÙØ®ÙÙÙØ©Ù ÙÙØ¹Ø§Ù (ÙÙÙ ÙÙØ¦ÙØ§ÙÙ).",
+      "jpn": "<span class=\"verse-number\">1</span> <ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã<ruby><rb>åå¼</rb><rt>ãããã ã</rt></ruby>ã<ruby><rb>åå</rb><rt>ããã</rt></ruby>ãã¦<ruby><rb>å±</rb><rt>ã¨ã</rt></ruby>ã«ããã®ã¯ããã«<ruby><rb>éº</rb><rt>ããã</rt></ruby>ãã<ruby><rb>æ¥½</rb><rt>ãã®</rt></ruby>ãããã¨ã§ãããã",
+      "spa": "<span class=\"verse-number\">1</span> <span class=\"line\">Â¡Mirad cuÃ¡n bueno y cuÃ¡n agradable es</span><span class=\"line\">que los hermanos habiten juntos en unidad!</span>",
+      "por": "<span class=\"verse-number\">1</span> Oh, quÃ£o bom e quÃ£o agradÃ¡vel <span class=\"clarity-word\">Ã©</span> que os irmÃ£os habitem em uniÃ£o!",
+      "fra": "<span class=\"verse-number\">1</span> Cantique des degrÃ©s. De David. Voici, ohÂ ! quâil est agrÃ©able, quâil est doux Pour des frÃ¨res de demeurer ensembleÂ !",
+      "deu": "<span class=\"verse-number\">1Â </span><span class=\"line\">Ein Wallfahrtslied (oder Stufenlied?; vgl. 120) Davids.</span><span class=\"line\">Seht, wie schÃ¶n und wie lieblich istâs,</span><span class=\"line\">wenn BrÃ¼der auch (friedlich) beisammen wohnen!</span>",
+      "kor": "<span class=\"verse-number\">1</span> ë³´ë¼ íì ê° ì°í©íì¬ ëê±°í¨ì´ ì´ì° ê·¸ë¦¬ ì íê³  ìë¦ë¤ì´ê³",
+      "ita": "<span class=\"verse-number\">1</span> Ecco, quantâÃ¨ buono e quantâÃ¨ piacevole che i fratelli dimorino in unitÃ !"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span><span class=\"clarity-word\">It is</span> like the precious ointment upon the head, that ran down upon the beard, <span class=\"clarity-word\">even</span> Aaronâs beard: that went down to the skirts of his garments;",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØ°ÙÙÙÙÙ ÙÙØ«ÙÙÙ Ø²ÙÙÙØªÙ Ø§ÙÙÙÙØ³ÙØ­ÙØ©ÙØ Ø§ÙÙØ¹ÙØ·ÙØ±Ù Ø§ÙÙÙÙØ³ÙÙÙÙØ¨Ù Ø¹ÙÙÙÙ Ø§ÙØ±ÙÙØ£ÙØ³ÙØ Ø§ÙÙÙÙØ§Ø²ÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙØ­ÙÙÙØ©ÙØ Ø¹ÙÙÙÙ ÙÙØ­ÙÙÙØ©Ù ÙÙØ§Ø±ÙÙÙÙØ Ø§ÙÙØ¬ÙØ§Ø±ÙÙ Ø¥ÙÙÙÙ Ø£ÙØ·ÙØ±ÙØ§ÙÙ Ø«ÙÙÙØ¨ÙÙÙØ",
+      "jpn": "<span class=\"verse-number\">2</span> ããã¯ããã¹ã«<ruby><rb>æ³¨</rb><rt>ãã</rt></ruby>ããã<ruby><rb>å°</rb><rt>ãã£ã¨</rt></ruby>ã<ruby><rb>æ²¹</rb><rt>ãã¶ã</rt></ruby>ãã²ãã«<ruby><rb>æµ</rb><rt>ãªã</rt></ruby>ããã¢ã­ã³ã®ã²ãã«<ruby><rb>æµ</rb><rt>ãªã</rt></ruby>ãããã®<ruby><rb>è¡£</rb><rt>ããã</rt></ruby>ã®ããã«ã¾ã§<ruby><rb>æµ</rb><rt>ãªã</rt></ruby>ããã ãããã ã",
+      "spa": "<span class=\"verse-number\">2</span> <span class=\"line\">Es como el buen Ã³leo sobre la cabeza,</span><span class=\"line\"><span class=\"page-break\" data-page=\"1024\"></span>el cual desciende sobre la barba,</span><span class=\"line\">la barba de AarÃ³n,</span><span class=\"line\"><span class=\"clarity-word\">y</span> baja hasta el borde de sus vestiduras;</span>",
+      "por": "<span class=\"verse-number\">2</span> <span class=\"clarity-word\">Ã</span> como o Ã³leo precioso sobre a cabeÃ§a, que desce sobre a barba, a barba de AarÃ£o, e que desce Ã  orla das suas vestes,",
+      "fra": "<span class=\"verse-number\">2</span> Câest comme lâhuile prÃ©cieuse qui, rÃ©pandue sur la tÃªte, Descend sur la barbe, sur la barbe dâAaron, Qui descend sur le col de ses vÃªtements.",
+      "deu": "<span class=\"verse-number\">2Â </span><span class=\"line\">Das gleicht dem kÃ¶stlichen Ãl auf dem Haupt,</span><span class=\"line\">das herabtroff in den Bart,</span><span class=\"line\">in Aarons Bart, der niederwallte</span><span class=\"line\">auf den Saum seiner Gewandung.</span>",
+      "kor": "<span class=\"verse-number\">2</span> ë¨¸ë¦¬ì ìë ë³´ë°°ë¡ì´ ê¸°ë¦ì´ ìì¼ ê³§ ìë¡ ì ìì¼ì íë¬ì ê·¸ì ì·ê¹ê¹ì§ ë´ë¦¼ ê°ê³",
+      "ita": "<span class=\"verse-number\">2</span> Ã come lâolio squisito che, sparso sul capo, scende sulla barba, sulla barba di Aaronne, che scende fino allâorlo dei suoi vestiti;"
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>As the dew of Hermon, <span class=\"clarity-word\">and as the dew</span> that descended upon the mountains of Zion: for there the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> commanded the blessing, <span class=\"clarity-word\">even</span> life for evermore.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>Ø¨ÙÙÙ ÙÙØ«ÙÙÙ ÙÙØ¯ÙÙ Ø­ÙØ±ÙÙÙÙÙÙ Ø§ÙÙÙÙØªÙÙÙØ§Ø·ÙØ±Ù Ø¹ÙÙÙÙ Ø¬ÙØ¨ÙÙÙ ØµÙÙÙÙÙÙÙÙÙ. ÙÙØ¥ÙÙÙÙÙÙ ÙÙÙÙØ§ÙÙ Ø£ÙÙÙØ±Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø£ÙÙ ØªÙØ­ÙÙÙÙ Ø§ÙÙØ¨ÙØ±ÙÙÙØ©Ù ÙÙØ§ÙÙØ­ÙÙÙØ§Ø©Ù Ø¥ÙÙÙÙ Ø§ÙØ£ÙØ¨ÙØ¯Ù.",
+      "jpn": "<span class=\"verse-number\">3</span> ã¾ããã«ã¢ã³ã®<ruby><rb>é²</rb><rt>ã¤ã</rt></ruby>ãã·ãªã³ã®<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ã«<ruby><rb>ä¸</rb><rt>ãã </rt></ruby>ãããã ãããã¯<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ããããã«<ruby><rb>ç¥ç¦</rb><rt>ããããµã</rt></ruby>ã<ruby><rb>å½</rb><rt>ãã</rt></ruby>ããã¨ãããã«<ruby><rb>å½</rb><rt>ãã®ã¡</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããããã§ããã",
+      "spa": "<span class=\"verse-number\">3</span> <span class=\"line\">como el rocÃ­o del HermÃ³n,</span><span class=\"line\">que desciende sobre los montes de Sion,</span><span class=\"line\">porque allÃ­ mandÃ³ JehovÃ¡ bendiciÃ³n,</span><span class=\"line\">la vida eterna.</span>",
+      "por": "<span class=\"verse-number\">3</span> Como o orvalho de Hermom <span class=\"clarity-word\">e como</span> o <span class=\"clarity-word\">orvalho</span> que desce sobre os montes de SiÃ£o, porque ali o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> ordena a bÃªnÃ§Ã£o <span class=\"clarity-word\">e</span> vida para sempre.",
+      "fra": "<span class=\"verse-number\">3</span> Câest comme la rosÃ©e de lâHermon, Qui descend sur les montagnes de SionÂ ; Car câest lÃ  que lâÃternel envoie la bÃ©nÃ©diction, La vie, pour lâÃ©ternitÃ©.",
+      "deu": "<span class=\"verse-number\">3Â </span><span class=\"line\">Es gleicht dem Hermontau, der niederfÃ¤llt</span><span class=\"line\">auf die Berge Zions;</span><span class=\"line\">denn dorthin hat der HErr den Segen entboten,</span><span class=\"line\">Leben bis in Ewigkeit.</span>",
+      "kor": "<span class=\"verse-number\">3</span> íëª¬ì ì´ì¬ì´ ìì¨ì ì°ë¤ì ë´ë¦¼ ê°ëë¤ ê±°ê¸°ì ì¬í¸ìê»ì ë³µì ëªë ¹íì¨ëë ê³§ ììì´ë¡ë¤",
+      "ita": "<span class=\"verse-number\">3</span> Ã¨ come la rugiada dellâHermon, che scende sui monti di Sion; poichÃ© lÃ¬ lâEterno ha ordinato che sia la benedizione, la vita in eterno."
+    }
+  }
+}

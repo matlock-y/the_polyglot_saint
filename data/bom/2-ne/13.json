@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "volume": "bom",
+    "book": "2-ne",
+    "chapter": 13,
+    "headings": {
+      "eng": "Judah and Jerusalem will be punished for their disobedienceâThe Lord pleads for and judges His peopleâThe daughters of Zion are cursed and tormented for their worldlinessâCompare Isaiah 3. About 559â545Â <small>B.C.</small>",
+      "ara": "Ø¹ÙÙØ¨Ø© ÙÙÙØ°Ø§ ÙØ£ÙØ±Ø´ÙÙÙ Ø¹ÙÙ Ø¹ØµÙØ§ÙÙÙØ§âÙØ­Ø§ÙÙ Ø§ÙØ±Ø¨ Ø´Ø¹Ø¨Ù ÙÙØ¯ÙÙÙâÙØ¹ÙØ© Ø¨ÙØ§Øª ØµÙÙÙÙ ÙØ¹Ø°Ø§Ø¨ÙÙ ÙØ§ÙØªÙØ§ÙÙÙ Ø¨Ø§ÙØ¯ÙÙÙÙØ§ØªâØ±Ø§Ø¬Ø¹ Ø¥Ø´Ø¹ÙØ§Ø¡ Ù£. (ÙÙ Ù¥Ù¥Ù© Ø¥ÙÙ Ù¥Ù¤Ù¥Â Ù.Ù. ØªÙØ±ÙØ¨ÙØ§)",
+      "jpn": "ユダとエルサレム、<ruby><rb>不</rb><rt>ふ</rt></ruby><ruby><rb>従</rb><rt>じゅう</rt></ruby><ruby><rb>順</rb><rt>じゅん</rt></ruby>のために<ruby><rb>罰</rb><rt>ばっ</rt></ruby>せられる。<ruby><rb>主</rb><rt>しゅ</rt></ruby>、<ruby><rb>御</rb><rt>ご</rt></ruby><ruby><rb>自</rb><rt>じ</rt></ruby><ruby><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>民</rb><rt>たみ</rt></ruby>を<ruby><rb>弁</rb><rt>べん</rt></ruby><ruby><rb>護</rb><rt>ご</rt></ruby>し、また<ruby><rb>裁</rb><rt>さば</rt></ruby>かれる。シオンの<ruby><rb>娘</rb><rt>むすめ</rt></ruby>たち、<ruby><rb>世</rb><rt>せ</rt></ruby><ruby><rb>俗</rb><rt>ぞく</rt></ruby>につかって、のろいと<ruby><rb>苦</rb><rt>くる</rt></ruby>しみを<ruby><rb>受</rb><rt>う</rt></ruby>ける。<a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/3?lang=jpn\">イザヤ<ruby><rb>書</rb><rt>しょ</rt></ruby><ruby><rb>第</rb><rt>だい</rt></ruby>三<ruby><rb>章</rb><rt>しょう</rt></ruby></a>と<ruby><rb>比</rb><rt>ひ</rt></ruby><ruby><rb>較</rb><rt>かく</rt></ruby>。<ruby><rb>紀</rb><rt>き</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>前</rb><rt>ぜん</rt></ruby><ruby><rb>約</rb><rt>やく</rt></ruby>五百五十九<ruby><rb>年</rb><rt>ねん</rt></ruby>から五百四十五<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>至</rb><rt>いた</rt></ruby>る。",
+      "zhs": "<u>猶大</u>和<u>耶路撒冷</u>會因不服從而受懲罰——主為人民辯護並審判人民——<u>錫安</u>的女子由於追求世俗而遭咒詛及折磨——比照<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/ot/isa/3.html\">《以賽亞書》第3章</span>。約主前559年至545年。",
+      "zht": "<u>ç¶å¤§</u>å<u>è¶è·¯æå·</u>æå ä¸æå¾èåæ²ç½°ââä¸»çºäººæ°è¾¯è­·ä¸¦å¯©å¤äººæ°ââ<u>é«å®</u>çå¥³å­ç±æ¼è¿½æ±ä¸ä¿èé­åè©åæç£¨ââæ¯ç§<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/ot/isa/3.html\">ãä»¥è³½äºæ¸ãç¬¬3ç« </span>ãç´ä¸»å559å¹´è³545å¹´ã",
+      "spa": "Judá y Jerusalén serán castigadas por su desobediencia — El Señor litiga con Su pueblo y lo juzga — Las hijas de Sion son maldecidas y atormentadas por sus costumbres mundanas — Compárese con <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/3?lang=spa\">Isaías 3</a>. Aproximadamente 559–545 a.C.",
+      "por": "JudÃ¡ e JerusalÃ©m serÃ£o punidas por sua desobediÃªnciaÂ â O Senhor pleiteia por Seu povo e julga-oÂ â As filhas de SiÃ£o sÃ£o amaldiÃ§oadas e atormentadas por seu mundanismoÂ â Comparar com IsaÃ­as 3. Aproximadamente 559â545Â a.C.",
+      "fra": "Juda et JÃ©rusalem seront chÃ¢tiÃ©s pour leur dÃ©sobÃ©issanceÂ â Le Seigneur plaide pour son peuple et le jugeÂ â Les filles de Sion sont maudites et tourmentÃ©es pour leur mondanitÃ©Â â Comparez avec ÃsaÃ¯e 3. Vers 559â545Â av.Â J.-C.",
+      "deu": "Juda und Jerusalem werden fÃ¼r ihren Ungehorsam bestraft werdenÂ â Der Herr setzt sich fÃ¼r sein Volk ein und richtet esÂ â Die TÃ¶chter Zions werden wegen ihrer Weltlichkeit verflucht und gepeinigtÂ â Vergleiche Jesaja 3. Um 559â545Â v.Â Chr.",
+      "kor": "ì ë¤ì ìë£¨ì´ë ì´ ê·¸ë¤ì ë¶ìì¢ì¼ë¡ ì¸í´ ë²ì ë°ì ê²ìâì£¼ê»ì ê·¸ì ë°±ì±ì ë³í¸íìê³  ì¬ííì¬âìì¨ì ë¸ë¤ì´ ê·¸ë¤ì ì¸ìì±ì¼ë¡ ì¸íì¬ ì ì£¼ë°ê³  ê³ íµ ë°ìâì´ì¬ì¼ 3ì¥ê³¼ ë¹êµíë¼. ì£¼ì  559~545ëê²½.",
+      "ita": "Giuda e Gerusalemme saranno puniti per la loro disobbedienzaÂ â Il Signore chiama in giudizio e giudica il Suo popoloÂ â Le figlie di Sion sono maledette e tormentate per la loro mondanitÃ Â â Confrontare con Isaia 3. Circa 559â545Â a.C."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>For behold, the Lord, the Lord of Hosts, doth take away from Jerusalem, and from Judah, the stay and the staff, the whole staff of bread, and the whole stay of waterâ",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙÙÙÙÙØ°Ø§ Ø§ÙØ³ÙÙÙÙÙØ¯Ù Ø±ÙØ¨ÙÙ Ø§ÙÙØ¬ÙÙÙØ¯Ù ÙÙÙÙØ²ÙØ¹Ù ÙÙÙÙ Ø£ÙØ±ÙØ´ÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙØ°Ø§ Ø§ÙØ³ÙÙÙÙØ¯Ù ÙÙØ§ÙØ±ÙÙÙÙÙÙØ ÙÙÙÙÙ Ø³ÙÙÙØ¯Ù Ø®ÙØ¨ÙØ²ÙØ ÙÙÙÙÙÙÙ Ø³ÙÙÙØ¯Ù ÙØ§Ø¡Ùâ",
+      "jpn": "「<ruby>見<rt>み</rt></ruby>よ、<ruby>万<rt>ばん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>の<ruby>主<rt>しゅ</rt></ruby>なる<ruby>主<rt>しゅ</rt></ruby>は、エルサレムとユダから<ruby>柱<rt>はしら</rt></ruby>と<ruby>杖<rt>つえ</rt></ruby>、すなわち、<ruby>杖<rt>つえ</rt></ruby>と<ruby>頼<rt>たの</rt></ruby>むすべてのパンと、<ruby>柱<rt>はしら</rt></ruby>と<ruby>頼<rt>たの</rt></ruby>むすべての<ruby>水<rt>みず</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>去<rt>さ</rt></ruby>られる。",
+      "zhs": "因为看啊，主，万军之主，从耶路撒冷和犹大除掉众人所依靠的，所仗赖的，就是所仗赖的粮，所依靠的水——",
+      "zht": "<span class=\"verse-number\">1ã</span>å çºçåï¼ä¸»ï¼è¬è»ä¹ä¸»ï¼å¾<u>è¶è·¯æå·</u>å<u>ç¶å¤§</u>é¤æç¾äººæä¾é çï¼æä»è³´çï¼å°±æ¯æä»è³´çç³§ï¼æä¾é çæ°´ââ",
+      "spa": "Porque he aquí que el Señor, el Señor de los Ejércitos, quita de Jerusalén y de Judá el apoyo y el sostén; todo sustento de pan, y todo socorro de agua;",
+      "por": "<span class=\"verse-number\">1 </span>Pois eis que o Senhor, o Senhor dos ExÃ©rcitos, tira de JerusalÃ©m e de JudÃ¡ o suporte e o sustento, todo o sustento de pÃ£o e todo o suporte de Ã¡guaÂ â",
+      "fra": "<span class=\"verse-number\">1Â </span>Le Seigneur, le Seigneur des armÃ©es, va Ã´ter de JÃ©rusalem et de Juda tout appui et toute ressource, toute ressource de pain et toute ressource dâeauÂ â",
+      "deu": "<span class=\"verse-number\">1Â </span>Denn siehe, der Herr, der Herr der Heerscharen, nimmt von Jerusalem und von Juda die StÃ¼tze und den Stab weg, den ganzen Stab an Brot und die ganze StÃ¼tze an WasserÂ â",
+      "kor": "<span class=\"verse-number\">1 </span>ë³´ë¼, ì£¼ ê³§ ë§êµ°ì ì£¼ê»ì ìë£¨ì´ë ì¼ë¡ë¶í°, ê·¸ë¦¬ê³  ì ë¤ë¡ë¶í° ìì§íë ê²ê³¼ ìë¢°íë ê²ì, ìë¢°íë ëª¨ë  ììê³¼ ìì§íë ëª¨ë  ë¬¼ì ì íì¬ ë²ë¦¬ìëëâ",
+      "ita": "<span class=\"verse-number\">1 </span>PoichÃ© ecco, il Signore, il Signore degli eserciti toglie a Gerusalemme e a Giuda la risorsa e il sostegno, ogni sostegno di pane e ogni risorsa dâacqua."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient;",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>Ø§ÙÙÙÙÙÙÙÙÙÙ ÙÙØ§ÙÙØ¬ÙÙÙØ¯ÙÙÙÙ ÙÙØ§ÙÙÙØ§Ø¶ÙÙÙ ÙÙØ§ÙÙÙÙØ¨ÙÙÙÙ ÙÙØ§ÙÙØ¹ÙØ±ÙØ§ÙÙ ÙÙØ§ÙØ´ÙÙÙÙØ®ÙØ",
+      "jpn": "また<ruby>勇<rt>ゆう</rt></ruby><ruby>士<rt>し</rt></ruby>、<ruby>戦<rt>せん</rt></ruby><ruby>士<rt>し</rt></ruby>、さばきつかさ、<ruby>預<rt>よ</rt></ruby><ruby>言<rt>げん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>、<ruby>賢<rt>けん</rt></ruby><ruby>者<rt>じゃ</rt></ruby>、<ruby>長<rt>ちょう</rt></ruby><ruby>老<rt>ろう</rt></ruby>、",
+      "zhs": "勇士和战士，审判官和先知，精明人和长老；",
+      "zht": "<span class=\"verse-number\">2ã</span>åå£«åæ°å£«ï¼å¯©å¤å®ååç¥ï¼ç²¾æäººåé·èï¼",
+      "spa": "el valiente y el hombre de guerra, el juez y el profeta, el prudente y el anciano;",
+      "por": "<span class=\"verse-number\">2 </span>O valente e o guerreiro, o juiz e o profeta e o prudente e o anciÃ£o;",
+      "fra": "<span class=\"verse-number\">2Â </span>le hÃ©ros et lâhomme de guerre, le juge et le prophÃ¨te, le devin et lâancien,",
+      "deu": "<span class=\"verse-number\">2Â </span>den mÃ¤chtigen Mann und den Kriegsmann, den Richter und den Propheten und den Besonnenen und den Alten,",
+      "kor": "<span class=\"verse-number\">2 </span>ì©ì¬ì ì ì¬ì ì¬íê´ê³¼ ì ì§ìì ë¶ë³ ìë ìì ìë¡ì,",
+      "ita": "<span class=\"verse-number\">2 </span>Il potente e il guerriero, il giudice e il profeta, il savio e il vecchio;"
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>The captain of fifty, and the honorable man, and the counselor, and the cunning artificer, and the eloquent orator.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>Ø±ÙØ¦ÙØ³Ù Ø§ÙÙØ®ÙÙÙØ³ÙÙÙ ÙÙØ§ÙØ´ÙÙØ±ÙÙÙ ÙÙØ§ÙÙÙÙØ´ÙØ±Ù ÙÙØ§ÙÙÙØ§ÙÙØ±Ù Ø¨ÙÙÙÙÙ Ø§ÙØµÙÙÙÙØ§Ø¹Ù ÙÙØ§ÙÙÙØ§Ø¹ÙØ¸Ù Ø§ÙÙØ¨Ø§Ø±ÙØ¹Ù.",
+      "jpn": "五十<ruby>人<rt>にん</rt></ruby>の<ruby>長<rt>ちょう</rt></ruby>、<ruby>高<rt>こう</rt></ruby><ruby>官<rt>かん</rt></ruby>、<ruby>議<rt>ぎ</rt></ruby><ruby>官<rt>かん</rt></ruby>、<ruby>熟<rt>じゅく</rt></ruby><ruby>練<rt>れん</rt></ruby>した<ruby>職<rt>しょく</rt></ruby><ruby>人<rt>にん</rt></ruby>、<ruby>雄<rt>ゆう</rt></ruby><ruby>弁<rt>べん</rt></ruby>な<ruby>演<rt>えん</rt></ruby><ruby>説<rt>ぜつ</rt></ruby><ruby>家<rt>か</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>去<rt>さ</rt></ruby>られる。",
+      "zhs": "五十夫长和尊贵人，谋士和有巧艺的，以及雄辩的演说家。",
+      "zht": "<span class=\"verse-number\">3ã</span>äºåå¤«é·åå°è²´äººï¼è¬å£«åæå·§èçï¼ä»¥åéè¾¯çæ¼èªªå®¶ã",
+      "spa": "el capitán de cincuenta, y el hombre respetable, y el consejero, y el artífice diestro, y el hábil orador.",
+      "por": "<span class=\"verse-number\">3 </span>O capitÃ£o de cinquenta e o homem respeitÃ¡vel; e o conselheiro e o artÃ­fice astuto e o orador eloquente.",
+      "fra": "<span class=\"verse-number\">3Â </span>le chef de cinquante et le magistrat, le conseiller, lâartisan distinguÃ© et lâhabile enchanteur.",
+      "deu": "<span class=\"verse-number\">3Â </span>den Hauptmann Ã¼ber fÃ¼nfzig und den vornehmen Mann und den Ratgeber und den geschickten Handwerker und den beredten Sprecher.",
+      "kor": "<span class=\"verse-number\">3 </span>ì¤ì­ ë¶ì¥ê³¼ ê·ì¸ê³¼ ëª¨ì¬ì ì êµí ì¥ì¸ê³¼ ë¥ë³í ì°ì¬ë¥¼ ê·¸ë¦¬íì¤ ê²ì´ë¼.",
+      "ita": "<span class=\"verse-number\">3 </span>Il capitano di cinquanta e il notabile, il consigliere, lâabile artefice e lâeloquente oratore."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>And I will give children unto them to be their princes, and babes shall rule over them.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ£ÙØ¬ÙØ¹ÙÙÙ ØµÙØ¨ÙÙØ§ÙÙØ§ Ø±ÙØ¤ÙØ³Ø§Ø¡Ù ÙÙÙÙÙÙ ÙÙØ£ÙØ·ÙÙØ§ÙÙØ§ ÙÙØ­ÙÙÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "『わたしは<ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>たちを<ruby>彼<rt>かれ</rt></ruby>らの<ruby>君<rt>きみ</rt></ruby>とし、みどりごが<ruby>彼<rt>かれ</rt></ruby>らを<ruby>治<rt>おさ</rt></ruby>める。』",
+      "zhs": "我必使孩童作他们的王子，使婴孩管辖他们。",
+      "zht": "<span class=\"verse-number\">4ã</span>æå¿ä½¿å­©ç«¥ä½ä»åççå­ï¼ä½¿å¬°å­©ç®¡è½ä»åã",
+      "spa": "Y niños les pondré por príncipes, y niños pequeños serán sus gobernantes.",
+      "por": "<span class=\"verse-number\">4 </span>E dar-lhes-ei meninos por prÃ­ncipes, e crianÃ§as dominarÃ£o sobre eles.",
+      "fra": "<span class=\"verse-number\">4Â </span>Je leur donnerai des jeunes gens pour chefs, et des enfants domineront sur eux.",
+      "deu": "<span class=\"verse-number\">4Â </span>Und ich werde ihnen Kinder geben, ihre FÃ¼rsten zu sein, und kleine Kinder werden Ã¼ber sie herrschen.",
+      "kor": "<span class=\"verse-number\">4 </span>ë ë´ê° ìì´ë¤ì ê·¸ë¤ìê² ì£¼ì´ ê·¸ë¤ì ë°©ë°±ì´ ëê² íë¦¬ë, ì´ë¦°ìì´ë¤ì´ ê·¸ë¤ì ë¤ì¤ë¦¬ë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">4 </span>E darÃ² loro dei fanciulli per essere loro principi, e dei bimbi governeranno su di loro."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>And the people shall be oppressed, every one by another, and every one by his neighbor; the child shall behave himself proudly against the ancient, and the base against the honorable.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙÙÙØ¸ÙÙÙÙÙ Ø§ÙÙÙØ§Ø³Ù Ø¨ÙØ¹ÙØ¶ÙÙÙÙÙ Ø¨ÙØ¹ÙØ¶ÙØ§Ø ÙÙØ§ÙØ±ÙÙØ¬ÙÙÙ ØµØ§Ø­ÙØ¨ÙÙÙ. ÙÙÙÙÙÙ Ø§ÙØµÙÙØ¨ÙÙÙÙ Ø§ÙØ´ÙÙÙÙØ®ÙØ ÙÙØ§ÙØ¯ÙÙÙÙØ¡Ù Ø§ÙØ´ÙÙØ±ÙÙÙ.",
+      "jpn": "<ruby>民<rt>たみ</rt></ruby>は<ruby>互<rt>たが</rt></ruby>いに<ruby>虐<rt>しいた</rt></ruby>げ<ruby>合<rt>あ</rt></ruby>い、<ruby>隣<rt>りん</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>同<rt>どう</rt></ruby><ruby>士<rt>し</rt></ruby>が<ruby>虐<rt>しいた</rt></ruby>げ<ruby>合<rt>あ</rt></ruby>い、<ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>は<ruby>長<rt>ちょう</rt></ruby><ruby>老<rt>ろう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>高<rt>たか</rt></ruby>ぶり、<ruby>地<rt>ち</rt></ruby><ruby>位<rt>い</rt></ruby>の<ruby>低<rt>ひく</rt></ruby>い<ruby>者<rt>もの</rt></ruby>は<ruby>高<rt>こう</rt></ruby><ruby>貴<rt>き</rt></ruby>な<ruby>者<rt>もの</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>高<rt>たか</rt></ruby>ぶる。",
+      "zhs": "人民要彼此欺压，各人受邻舍的欺压；少年人必侮慢老人，卑贱人必侮慢尊贵人。",
+      "zht": "<span class=\"verse-number\">5ã</span>äººæ°è¦å½¼æ­¤æ¬ºå£ï¼åäººåé°èçæ¬ºå£ï¼å°å¹´äººå¿ä¾®æ¢èäººï¼åè³¤äººå¿ä¾®æ¢å°è²´äººã",
+      "spa": "Y el pueblo se hará violencia unos a otros, y cada cual contra su prójimo. El niño se portará altivamente con el anciano, y el villano contra el noble.",
+      "por": "<span class=\"verse-number\">5 </span>E o povo serÃ¡ oprimido, uns pelos outros e cada um pelo seu prÃ³ximo; a crianÃ§a comportar-se-Ã¡ altivamente com o anciÃ£o; e o vil, com o honrado.",
+      "fra": "<span class=\"verse-number\">5Â </span>Il y aura rÃ©ciprocitÃ© dâoppression parmi le peupleÂ ; lâun opprimera lâautre, chacun son prochainÂ ; le jeune homme attaquera le vieillard, et lâhomme de rien celui qui est honorÃ©.",
+      "deu": "<span class=\"verse-number\">5Â </span>Und das Volk wird unterdrÃ¼ckt werden, ein jeder durch den anderen und ein jeder durch seinen Nachbarn; das Kind wird sich erdreisten gegen den Alten und der Geringe gegen den Vornehmen.",
+      "kor": "<span class=\"verse-number\">5 </span>ë ë°±ì±ë¤ì´ ê°ê¸° ìë¡ìê², ë ê°ê¸° ê·¸ ì´ììê² íëë¥¼ ë°ì ê²ì´ì, ìì´ê° ë¸ì¸ìê², ë¹ì²í ìê° ì¡´ê·í ììê² êµë§í íí  ê²ì´ë¼.",
+      "ita": "<span class=\"verse-number\">5 </span>E il popolo sarÃ  oppresso, ognuno da un altro, e ognuno dal suo prossimo; il fanciullo si comporterÃ  orgogliosamente contro il vecchio e il vile contro lâonorevole."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>When a man shall take hold of his brother of the house of his father, and shall say: Thou hast clothing, be thou our ruler, and let not this ruin come under thy handâ",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>Ø¹ÙÙÙØ¯ÙÙØ§ ÙÙÙÙØ³ÙÙÙ Ø±ÙØ¬ÙÙÙ Ø¨ÙØ£ÙØ®ÙÙÙ ÙÙ Ø¨ÙÙÙØªÙ Ø£ÙØ¨ÙÙÙ ÙØ§Ø¦ÙÙÙØ§: ÙÙÙÙ Ø«ÙÙÙØ¨Ù ÙÙÙÙØªÙÙÙÙÙ ÙÙÙØ§ Ø±ÙØ¦ÙØ³ÙØ§Ø ÙÙÙØ§ ØªÙØ³ÙÙÙØ­Ù ÙÙÙÙ°Ø°Ø§ Ø§ÙÙØ®ÙØ±Ø§Ø¨Ù Ø¨ÙØ£ÙÙÙ ÙÙØ£ÙØªÙÙÙ ØªÙØ­ÙØªÙ ÙÙØ¯ÙÙÙâ",
+      "jpn": "そのとき、<ruby>人<rt>ひと</rt></ruby>は<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>にいる<ruby>兄<rt>きょう</rt></ruby><ruby>弟<rt>だい</rt></ruby>に<ruby>取<rt>と</rt></ruby>りすがって<ruby>言<rt>い</rt></ruby>う。『あなたには<ruby>衣<rt>ころも</rt></ruby>があります。わたしたちを<ruby>治<rt>おさ</rt></ruby>める<ruby>者<rt>もの</rt></ruby>になって、あなたの<ruby>手<rt>て</rt></ruby>でこの<ruby>破<rt>は</rt></ruby><ruby>滅<rt>めつ</rt></ruby>が<ruby>起<rt>お</rt></ruby>こらないようにしてください。』",
+      "zhs": "那时人必拉住父家的弟兄说：你有衣服，可以作我们的官长，不要让这败落的事归在你手下——",
+      "zht": "<span class=\"verse-number\">6ã</span>é£æäººå¿æä½ç¶å®¶çå¼åèªªï¼ä½ æè¡£æï¼å¯ä»¥ä½æåçå®é·ï¼ä¸è¦è®éæè½çäºæ­¸å¨ä½ æä¸ââ",
+      "spa": "Cuando el hombre tomare a su hermano, de la familia de su padre, y le dijere: Tú tienes manto, sé tú nuestro gobernante, y no sea esta ruina bajo tu mano,",
+      "por": "<span class=\"verse-number\">6 </span>Quando alguÃ©m for ter com seu irmÃ£o, da casa de seu pai, dizendo: Tu tens roupa, sÃª nosso governante e nÃ£o deixes que esta ruÃ­na venha sob a tua mÃ£oÂ â",
+      "fra": "<span class=\"verse-number\">6Â </span>On ira jusquâÃ  saisir son frÃ¨re dans la maison paternelle, et on diraÂ : Tu as un habit, sois notre chefÂ ! Ne laisse pas cette ruine venir sous ta mainÂ â",
+      "deu": "<span class=\"verse-number\">6Â </span>Wenn ein Mann seinen Bruder von seines Vaters Haus festhalten und sagen wird: Du hast Kleidung, sei du unser Herrscher, und lass nicht diese TrÃ¼mmer unter deine Hand geratenÂ â",
+      "kor": "<span class=\"verse-number\">6 </span>ê·¸ë ì¬ëì´ ê·¸ ìë²ì§ì ì§ì ê·¸ íì ë¥¼ ë¶ì¡ê³  ì´ë¥´ê¸°ë¥¼, ëë ìë³µì´ ìì¼ë ë¤ê° ì°ë¦¬ì íµì¹ìê° ëì´ ì´ ë©¸ë§ì´ ë¤ ì ìë ë¤ì§ ìê² íë¼ í  ê²ì´ë©´â",
+      "ita": "<span class=\"verse-number\">6 </span>Quando un uomo prenderÃ  suo fratello dalla casa di suo padre, e gli dirÃ : Tu hai da vestire, sii tu nostro governatore, e non lasciare che venga questa rovina sotto le tue maniÂ â"
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>In that day shall he swear, saying: I will not be a healer; for in my house there is neither bread nor clothing; make me not a ruler of the people.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙÙÙ Ø°Ù°ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙÙØ­ÙÙÙÙÙ ÙØ§Ø¦ÙÙÙØ§: ÙÙÙÙ Ø£ÙÙÙÙÙ Ø´Ø§ÙÙÙÙØ§Ø ÙÙÙÙ Ø¨ÙÙÙØªÙ ÙØ§ Ø®ÙØ¨ÙØ²Ù ÙÙÙØ§ Ø«ÙÙÙØ¨ÙØ ÙØ§ ØªÙØ¬ÙØ¹ÙÙÙÙÙ Ø±ÙØ¦ÙØ³Ù Ø§ÙØ´ÙÙØ¹ÙØ¨Ù.",
+      "jpn": "その<ruby>日<rt>ひ</rt></ruby>、<ruby>彼<rt>かれ</rt></ruby>は<ruby>誓<rt>ちか</rt></ruby>って<ruby>言<rt>い</rt></ruby>う。『わたしの<ruby>家<rt>いえ</rt></ruby>にはパンも<ruby>着<rt>き</rt></ruby>る<ruby>物<rt>もの</rt></ruby>もないので、わたしは<ruby>癒<rt>いや</rt></ruby>す<ruby>者<rt>もの</rt></ruby>にはなれません。わたしを<ruby>民<rt>たみ</rt></ruby>を<ruby>治<rt>おさ</rt></ruby>める<ruby>者<rt>もの</rt></ruby>にしないでください。』",
+      "zhs": "那日他必誓言说：我不作医治你们的人；因我家中没有粮食，也没有衣服；不可立我作人民的官长。",
+      "zht": "<span class=\"verse-number\">7ã</span>é£æ¥ä»å¿èªè¨èªªï¼æä¸ä½é«æ²»ä½ åçäººï¼å æå®¶ä¸­æ²æç³§é£ï¼ä¹æ²æè¡£æï¼ä¸å¯ç«æä½äººæ°çå®é·ã",
+      "spa": "este jurará en aquel día, diciendo: No seré el sanador, pues en mi casa no hay ni pan ni qué vestir; no me hagáis gobernante del pueblo.",
+      "por": "<span class=\"verse-number\">7 </span>Naquele dia jurarÃ¡, dizendo: Eu nÃ£o serei um curador, pois em minha casa nÃ£o hÃ¡ pÃ£o nem roupa; nÃ£o me coloqueis como governante do povo.",
+      "fra": "<span class=\"verse-number\">7Â </span>ce jour-lÃ  mÃªme il rÃ©pondraÂ : Je ne saurais Ãªtre un mÃ©decin, et dans ma maison il nây a ni pain ni vÃªtementÂ ; ne mâÃ©tablissez pas chef du peupleÂ !",
+      "deu": "<span class=\"verse-number\">7Â </span>an dem Tag wird er beteuern, nÃ¤mlich: Ich will kein Heilender sein; denn in meinem Haus, da ist weder Brot noch Kleidung; macht mich nicht zum Herrscher des Volkes.",
+      "kor": "<span class=\"verse-number\">7 </span>ê·¸ ë ì ê·¸ê° ë§¹ì¸íì¬ ì´ë¥´ê¸°ë¥¼, ëë ê³ ì¹ë ìê° ëì§ ìê² ë¸ë¼. ì´ë ëì ì§ì ììë ìê³  ìë³µë ììì´ë, ëë¥¼ ë°±ì±ì íµì¹ìë¡ ì¼ì§ ë§ë¼ íë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">7 </span>In quel giorno egli giurerÃ , dicendo: Io non sarÃ² un guaritore; poichÃ© in casa mia non vâÃ¨ pane nÃ© vestito; non fatemi governatore del popolo."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>For Jerusalem is ruined, and Judah is fallen, because their <span class=\"page-break\" data-page=\"83\"></span>tongues and their doings have been against the Lord, to provoke the eyes of his glory.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØ£ÙÙÙÙ Ø£ÙØ±ÙØ´ÙÙÙÙÙ ØªÙØ¹ÙØ«ÙÙØ±ÙØªÙØ ÙÙÙÙÙÙØ°Ø§ Ø³ÙÙÙØ·ÙØªÙØ ÙÙØ£ÙÙÙÙ ÙÙØ³Ø§ÙÙÙÙÙØ§ ÙÙØ£ÙÙÙØ¹Ø§ÙÙÙÙÙØ§ Ø¶ÙØ¯ÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØªÙØ­ÙØ¯ÙÙ Ø¹ÙÙÙÙÙÙÙ ÙÙØ¬ÙØ¯ÙÙÙ.",
+      "jpn": "<ruby>民<rt>たみ</rt></ruby>の<ruby>舌<rt>した</rt></ruby>と<ruby>行<rt>おこな</rt></ruby>いが<ruby>主<rt>しゅ</rt></ruby>に<ruby>背<rt>そむ</rt></ruby>いて、<ruby>主<rt>しゅ</rt></ruby>の<ruby>栄<rt>えい</rt></ruby><ruby>光<rt>こう</rt></ruby>の<ruby>目<rt>め</rt></ruby>を<ruby>怒<rt>いか</rt></ruby>らせたために、エルサレムは<ruby>滅<rt>ほろ</rt></ruby>び、ユダは<ruby>倒<rt>たお</rt></ruby>れたのである。",
+      "zhs": "耶路撒冷败落，犹大倾倒，因为他们的舌头和行为都反对主，惹了祂荣光的眼目。",
+      "zht": "<span class=\"verse-number\">8ã</span><u>è¶è·¯æå·</u>æè½ï¼<u>ç¶å¤§</u>å¾åï¼å çºä»åçèé ­åè¡çºé½åå°ä¸»ï¼æ¹äºç¥æ¦®åçç¼ç®ã",
+      "spa": "Pues arruinada está Jerusalén, y Judá caída; porque sus lenguas y sus obras han sido contra el Señor para provocar los ojos de su gloria.",
+      "por": "<span class=\"verse-number\">8 </span>Pois JerusalÃ©m foi destruÃ­da e JudÃ¡ caiu; porque a sua lÃ­ngua e as suas obras foram contrÃ¡rias ao Senhor, para provocar os olhos da sua glÃ³ria.",
+      "fra": "<span class=\"verse-number\">8Â </span>JÃ©rusalem chancelle, et Juda sâÃ©croule, parce que leurs paroles et leurs Åuvres sont contre le Seigneur, bravant les regards de sa majestÃ©.",
+      "deu": "<span class=\"verse-number\">8Â </span>Denn Jerusalem ist in TrÃ¼mmern und Juda ist gefallen, weil ihre Zunge und ihr Tun gegen den Herrn waren, um das Auge seiner Herrlichkeit zu erzÃ¼rnen.",
+      "kor": "<span class=\"verse-number\">8 </span>ì´ë ìë£¨ì´ë ì´ íê´´ëìê³  ì ë¤ê° ëª°ë½íììì´ë, ê·¸ë¤ì íì ê·¸ë¤ì íìê° ì£¼ë¥¼ ê±°ì¤ë ¤ ê·¸ì ìê´ì ëì ê²©ë¸íê² íììì¼ë¡ ì¸í¨ì´ë¼.",
+      "ita": "<span class=\"verse-number\">8 </span>PoichÃ© Gerusalemme Ã¨ in rovina e Giuda Ã¨ caduto, perchÃ© la loro lingua e i loro atti sono stati contro il Signore, per provocare lo sguardo della sua gloria."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>The show of their countenance doth witness against them, and doth declare their sin to be even as Sodom, and they cannot hide it. Wo unto their souls, for they have rewarded evil unto themselves!",
+      "ara": "<span class=\"verse-number\">Ù© </span>ØªÙØ¹ÙØ¨ÙØ±Ù ÙÙØ¬ÙÙÙÙÙÙÙ ÙÙØ´ÙÙÙØ¯Ù Ø¹ÙÙÙÙÙÙÙÙÙØ ÙÙÙÙØ¹ÙÙÙÙÙÙÙ Ø®ÙØ·ÙØ¦ÙØªÙÙÙÙÙ ÙÙÙØ§ ÙØ§ÙÙ ÙÙ Ø³ÙØ¯ÙÙÙØ ÙÙÙØ§ ÙÙÙÙÙÙÙÙÙÙÙÙ Ø£ÙÙÙ ÙÙØ®ÙÙÙÙØ§. ÙÙÙÙÙÙ ÙÙÙÙÙÙØ³ÙÙÙÙÙØ ÙÙØ£ÙÙÙÙÙÙÙÙ Ø³ÙØ¨ÙÙØ¨ÙØ§ ÙÙØ£ÙÙÙÙÙØ³ÙÙÙÙÙ Ø´ÙØ±ÙÙØ§.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らの<ruby>顔<rt>かお</rt></ruby>つきは<ruby>彼<rt>かれ</rt></ruby>らについて<ruby>不<rt>ふ</rt></ruby><ruby>利<rt>り</rt></ruby>な<ruby>証<rt>しょう</rt></ruby><ruby>言<rt>げん</rt></ruby>をし、<ruby>彼<rt>かれ</rt></ruby>らの<ruby>罪<rt>つみ</rt></ruby>があたかもソドムのようであることを<ruby>表<rt>あらわ</rt></ruby>しており、<ruby>彼<rt>かれ</rt></ruby>らはそれを<ruby>隠<rt>かく</rt></ruby>すことができない。<ruby>彼<rt>かれ</rt></ruby>らは<ruby>災<rt>わざわ</rt></ruby>いである。<ruby>彼<rt>かれ</rt></ruby>らは<ruby>自<rt>みずか</rt></ruby>ら<ruby>悪<rt>あく</rt></ruby>の<ruby>報<rt>むく</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けたのである。",
+      "zhs": "他们的面色证明自己的不正，也宣告他们的罪恶好像所多玛一样，他们不能隐瞒。他们的灵魂有祸了，因为他们把恶报应在自己身上。",
+      "zht": "<span class=\"verse-number\">9ã</span>ä»åçé¢è²è­æèªå·±çä¸æ­£ï¼ä¹å®£åä»åçç½ªæ¡å¥½åæå¤çªä¸æ¨£ï¼ä»åä¸è½é±çãä»åçéé­æç¦äºï¼å çºä»åææ¡å ±æå¨èªå·±èº«ä¸ã",
+      "spa": "La apariencia de sus rostros testifica en contra de ellos, y publica que su pecado es como el de Sodoma, y no lo pueden ocultar. ¡Ay de sus almas!, porque se han recompensado maldad para sí mismos.",
+      "por": "<span class=\"verse-number\">9 </span>A aparÃªncia do seu rosto testifica contra eles e declara que o seu pecado Ã© como Sodoma, e eles nÃ£o podem escondÃª-lo. Ai da sua alma, porque deram o mal em recompensa a si prÃ³prios!",
+      "fra": "<span class=\"verse-number\">9Â </span>Lâaspect de leur visage tÃ©moigne contre eux, et dÃ©clare que leur pÃ©chÃ© est comme Sodome, et ils ne peuvent le dissimuler. Malheur Ã  leur Ã¢me, car ils se prÃ©parent des maux.",
+      "deu": "<span class=\"verse-number\">9Â </span>Der Ausdruck ihres Gesichts zeugt gegen sie und verkÃ¼ndet, dass ihre SÃ¼nde der von Sodom gleicht, und sie kÃ¶nnen sie nicht verbergen. Weh ihrer Seele, denn sie haben sich selbst mit BÃ¶sem belohnt!",
+      "kor": "<span class=\"verse-number\">9 </span>ê·¸ë¤ì ììì´ ê·¸ë¤ì ëíì¬ ì¦ê±°íë©°, ê·¸ë¤ì ì£ê° ì¤ë¡ ìë ê°ìì ì í¬íëë ê·¸ë¤ì´ ê·¸ê²ì ì¨ê¸¸ ì ìëë¤. ê·¸ë¤ì ìí¼ì í ìëë, ì´ë ê·¸ë¤ì´ ì¤ì¤ë¡ ì¬ìì ë³´ìì¼ë¡ ì·¨íììì´ë¡ë¤!",
+      "ita": "<span class=\"verse-number\">9 </span>Lâaspetto del loro volto testimonia contro di loro, e dichiara che i loro peccati sono proprio come quelli di Sodoma, e non li possono nascondere. Guai alla loro anima, perchÃ© si sono ricompensati con il male da se stessi!"
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>Say unto the righteous that it is well with them; for they shall eat the fruit of their doings.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙÙÙØ§ ÙÙÙÙØ£ÙØ¨ÙØ±Ø§Ø±Ù Ø¥ÙÙÙÙÙÙÙÙ Ø¨ÙØ®ÙÙÙØ±ÙØ ÙÙØ£ÙÙÙÙÙÙÙÙ Ø³ÙÙÙØ£ÙÙÙÙÙÙÙ ÙÙÙÙ Ø«ÙÙÙØ±Ù Ø£ÙÙÙØ¹Ø§ÙÙÙÙÙÙ!",
+      "jpn": "<ruby>義<rt>ぎ</rt></ruby><ruby>人<rt>じん</rt></ruby>に、<ruby>彼<rt>かれ</rt></ruby>らは<ruby>幸<rt>さいわ</rt></ruby>いであることを<ruby>告<rt>つ</rt></ruby>げなさい。<ruby>彼<rt>かれ</rt></ruby>らは<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>行<rt>おこな</rt></ruby>いの<ruby>実<rt>み</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるからである。",
+      "zhs": "告诉义人说他们有福了，因为他们要吃自己行为所结的果子。",
+      "zht": "<span class=\"verse-number\">10ã</span>åè¨´ç¾©äººèªªä»åæç¦äºï¼å çºä»åè¦åèªå·±è¡çºæçµçæå­ã",
+      "spa": "Decid a los justos que a ellos les irá bien, porque comerán del fruto de sus obras.",
+      "por": "<span class=\"verse-number\">10 </span>Dizei aos justos que tudo lhes vai bem; porque comerÃ£o do fruto das suas obras.",
+      "fra": "<span class=\"verse-number\">10Â </span>Dites que les justes prospÃ©reront, car ils jouiront du fruit de leurs Åuvres.",
+      "deu": "<span class=\"verse-number\">10Â </span>Sagt zu den Rechtschaffenen, dass es gut um sie steht; denn sie werden die FrÃ¼chte ihres Tuns genieÃen.",
+      "kor": "<span class=\"verse-number\">10 </span>ìì¸ë¤ìê²ë ì¼ë¬ ê·¸ë¤ì ìëë¤ íë¼, ì´ë ê·¸ë¤ì´ ê·¸ íìì ì´ë§¤ë¥¼ ë¨¹ì ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">10 </span>Dite ai giusti che tutto va bene per loro; poichÃ© mangeranno il frutto dei loro atti."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>Wo unto the wicked, for they shall perish; for the reward of their hands shall be upon them!",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙÙÙ ÙÙÙÙØ£ÙØ´ÙØ±Ø§Ø±ÙØ ÙÙØ³ÙÙÙÙÙ ÙÙÙÙÙÙÙÙÙÙØ ÙÙØ£ÙÙÙÙ Ø¬ÙØ²Ø§Ø¡Ù Ø¹ÙÙÙÙÙ Ø£ÙÙÙØ¯ÙÙÙÙÙ Ø³ÙÙÙØ­ÙÙÙÙ Ø¹ÙÙÙÙÙÙÙÙÙ!",
+      "jpn": "<ruby>悪<rt>あく</rt></ruby><ruby>人<rt>にん</rt></ruby>は<ruby>滅<rt>ほろ</rt></ruby>びるので<ruby>災<rt>わざわ</rt></ruby>いである。<ruby>彼<rt>かれ</rt></ruby>らの<ruby>手<rt>て</rt></ruby>の<ruby>報<rt>むく</rt></ruby>いが<ruby>彼<rt>かれ</rt></ruby>らに<ruby>及<rt>およ</rt></ruby>ぶからである。",
+      "zhs": "恶人有祸了，因为他们必灭亡，因为他们必照自己手所行的受报应。",
+      "zht": "<span class=\"verse-number\">11ã</span>æ¡äººæç¦äºï¼å çºä»åå¿æ»äº¡ï¼å çºä»åå¿ç§èªå·±ææè¡çåå ±æã",
+      "spa": "¡Ay de los impíos!, porque perecerán; pues el pago de sus manos vendrá sobre ellos.",
+      "por": "<span class=\"verse-number\">11 </span>Ai dos Ã­mpios, porque perecerÃ£o; porque de suas prÃ³prias mÃ£os receberÃ£o a recompensa!",
+      "fra": "<span class=\"verse-number\">11Â </span>Malheur aux mÃ©chants, car ils pÃ©riront, car ils recueilleront le produit de leurs mains.",
+      "deu": "<span class=\"verse-number\">11Â </span>Weh den Schlechten, denn sie werden zugrunde gehen; denn der Lohn ihrer HÃ¤nde wird Ã¼ber sie kommen!",
+      "kor": "<span class=\"verse-number\">11 </span>ìì¸ë¤ìê²ë í ìëë¤, ì´ë ê·¸ë¤ì´ ë©¸ë§í  ê²ìì´ë, ì´ë ê·¸ë¤ì ìì ë³´ìì´ ê·¸ë¤ ìì ìì ê²ìì´ëë¼!",
+      "ita": "<span class=\"verse-number\">11 </span>Guai ai malvagi, poichÃ© periranno; poichÃ© la ricompensa delle loro mani sarÃ  su di loro!"
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>And my people, children are their oppressors, and women rule over them. O my people, they who lead thee cause thee to err and destroy the way of thy paths.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ´ÙØ¹ÙØ¨Ù Ø¸Ø§ÙÙÙÙÙÙ Ø£ÙØ·ÙÙØ§ÙÙØ ÙÙÙÙØ³Ø§Ø¡Ù ÙÙØªÙØ³ÙÙÙÙØ·ÙÙÙ Ø¹ÙÙÙÙÙÙÙ. ÙØ§ Ø´ÙØ¹ÙØ¨ÙØ ÙÙØ±ÙØ´ÙØ¯ÙÙÙ ÙÙØ¶ÙÙÙÙÙÙØ ÙÙÙÙØ®ÙØ±ÙÙØ¨ÙÙÙ Ø·ÙØ±ÙÙÙ ÙÙØ³Ø§ÙÙÙÙÙÙ.",
+      "jpn": "わたしの<ruby>民<rt>たみ</rt></ruby>は<ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>たちに<ruby>虐<rt>しいた</rt></ruby>げられ、<ruby>女<rt>おんな</rt></ruby>たちに<ruby>治<rt>おさ</rt></ruby>められる。おお、わたしの<ruby>民<rt>たみ</rt></ruby>よ、あなたを<ruby>導<rt>みちび</rt></ruby>く<ruby>者<rt>もの</rt></ruby>たちはあなたを<ruby>誤<rt>あやま</rt></ruby>らせ、あなたの<ruby>歩<rt>あゆ</rt></ruby>む<ruby>道<rt>みち</rt></ruby>を<ruby>絶<rt>た</rt></ruby>やす。",
+      "zhs": "至于我的人民，孩童欺压他们，妇女管辖他们。我的人民啊，引导你的，使你走错，并毁坏你所行的道路。",
+      "zht": "<span class=\"verse-number\">12ã</span>è³æ¼æçäººæ°ï¼å­©ç«¥æ¬ºå£ä»åï¼å©¦å¥³ç®¡è½ä»åãæçäººæ°åï¼å¼å°ä½ çï¼ä½¿ä½ èµ°é¯ï¼ä¸¦æ¯å£ä½ æè¡çéè·¯ã",
+      "spa": "Los opresores de mi pueblo son niños, y mujeres lo gobiernan. ¡Oh pueblo mío, los que te guían te hacen errar, y pervierten el curso de tus sendas!",
+      "por": "<span class=\"verse-number\">12 </span>Os opressores do meu povo sÃ£o crianÃ§as; e mulheres os governam. Ã povo meu, os que te guiam te enganam e destroem o curso das tuas veredas.",
+      "fra": "<span class=\"verse-number\">12Â </span>Et mon peuple a pour oppresseurs des enfants, et des femmes dominent sur luiÂ ; mon peuple, ceux qui te conduisent tâÃ©garent, et ils corrompent la voie dans laquelle tu marches.",
+      "deu": "<span class=\"verse-number\">12Â </span>Und mein Volk, Kinder sind seine BedrÃ¼cker, und Frauen herrschen Ã¼ber es. O mein Volk, die dich lenken, bewirken, dass du irregehst, und zerstÃ¶ren den Weg deiner Pfade.",
+      "kor": "<span class=\"verse-number\">12 </span>ë ë´ ë°±ì±ì¼ë¡ ë§í ì§ë ìì´ë¤ì´ ê·¸ë¤ì íëìì ì¬ìë¤ì´ ê·¸ë¤ì ë¤ì¤ë¦¬ëë¤. ëì ë°±ì±ì´ì¬, ëë¥¼ ì¸ëíë ìë¤ì´ ëë¡ ê·¸ë¥´ì¹ê² íë©°, ëì ì§ëë ê¸¸ì ë§ì¹ëëë¼.",
+      "ita": "<span class=\"verse-number\">12 </span>E il mio popolo, dei fanciulli sono i suoi oppressori, e delle donne governano su di esso. O mio popolo, coloro che ti guidano ti fanno errare e distruggono la via dei tuoi sentieri."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>The Lord standeth up to plead, and standeth to judge the people.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙÙÙØ­Ø§ÙÙÙÙØ©ÙØ ÙÙÙÙÙÙ ÙØ§Ø¦ÙÙÙ ÙÙÙÙØ¯ÙÙÙ Ø§ÙØ´ÙÙØ¹ÙØ¨Ù.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>は<ruby>弁<rt>べん</rt></ruby><ruby>護<rt>ご</rt></ruby>するために<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がり、<ruby>民<rt>たみ</rt></ruby>を<ruby>裁<rt>さば</rt></ruby>くために<ruby>立<rt>た</rt></ruby>たれる。",
+      "zhs": "主起来辩护，并站着审判众民。",
+      "zht": "<span class=\"verse-number\">13ã</span>ä¸»èµ·ä¾è¾¯è­·ï¼ä¸¦ç«èå¯©å¤ç¾æ°ã",
+      "spa": "El Señor se levanta para litigar, se pone en pie para juzgar al pueblo.",
+      "por": "<span class=\"verse-number\">13 </span>O Senhor levanta-se para pleitear e sai a julgar os povos.",
+      "fra": "<span class=\"verse-number\">13Â </span>Le Seigneur se prÃ©sente pour plaider, il est debout pour juger les peuples.",
+      "deu": "<span class=\"verse-number\">13Â </span>Der Herr stellt sich hin, um sich fÃ¼r sie einzusetzen, und steht da, um das Volk zu richten.",
+      "kor": "<span class=\"verse-number\">13 </span>ì£¼ê»ì ë³í¸íë¬ ì¼ì´ììë©° ë°±ì±ë¤ì ì¬ííë ¤ê³  ììëë¤.",
+      "ita": "<span class=\"verse-number\">13 </span>Il Signore si alza per chiamare in giudizio e sta in piÃ¨ per giudicare il popolo."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>The Lord will enter into judgment with the ancients of his people and the princes thereof; for ye have eaten up the vineyard and the spoil of the poor in your houses.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ­ÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¹ÙÙÙ Ø´ÙÙÙØ®Ù Ø´ÙØ¹ÙØ¨ÙÙÙ ÙÙØ±ÙØ¤ÙØ³Ø§Ø¦ÙÙÙÙÙØ ÙÙÙÙØ¯Ù Ø£ÙÙÙÙÙØªÙÙÙ Ø§ÙÙÙÙØ±ÙÙÙØ ÙÙØºÙÙÙÙÙØ©Ù Ø§ÙÙÙÙÙÙØ±Ù ÙÙ Ø¨ÙÙÙØªÙÙÙÙÙ.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>は<ruby>御<rt>ご</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>民<rt>たみ</rt></ruby>の<ruby>長<rt>ちょう</rt></ruby><ruby>老<rt>ろう</rt></ruby>たちと<ruby>君<rt>きみ</rt></ruby>たちについて<ruby>裁<rt>さば</rt></ruby>きを<ruby>行<rt>おこな</rt></ruby>われる。あなたがたはぶどう<ruby>園<rt>えん</rt></ruby>を<ruby>食<rt>く</rt></ruby>い<ruby>尽<rt>つ</rt></ruby>くし、あなたがたの<ruby>家<rt>いえ</rt></ruby>には<ruby>貧<rt>まず</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>から<ruby>奪<rt>うば</rt></ruby>ったものがある。",
+      "zhs": "主必审判祂人民中的长老和王子，因为你们在你们家中吃尽了葡萄园和从贫穷人所夺来的物。",
+      "zht": "<span class=\"verse-number\">14ã</span>ä¸»å¿å¯©å¤ç¥äººæ°ä¸­çé·èåçå­ï¼å çºä½ åå¨ä½ åå®¶ä¸­åç¡äºè¡èååå¾è²§çª®äººæå¥ªä¾çç©ã",
+      "spa": "Vendrá el Señor a juicio contra los ancianos de su pueblo y contra sus príncipes; porque habéis devorado la viña y el despojo del pobre en vuestras casas.",
+      "por": "<span class=\"verse-number\">14 </span>O Senhor entrarÃ¡ em juÃ­zo com os anciÃ£os do seu povo e com os seus prÃ­ncipes; pois devorastes a vinha e o despojo do pobre em vossas casas.",
+      "fra": "<span class=\"verse-number\">14Â </span>Le Seigneur entre en jugement avec les anciens de son peuple et avec ses chefsÂ : vous avez broutÃ© la vigne et la dÃ©pouille du pauvre dans vos maisonsÂ !",
+      "deu": "<span class=\"verse-number\">14Â </span>Der Herr wird mit den Alten seines Volkes und dessen FÃ¼rsten ins Gericht gehen; denn ihr habt den Weingarten abgeweidet und das den Armen Geraubte in euren HÃ¤usern.",
+      "kor": "<span class=\"verse-number\">14 </span>ì£¼ê»ì ê·¸ì ë°±ì±ì ìë¡ë¤ê³¼ ê·¸ ë°©ë°±ë¤ì ì¬ííìë¦¬ë, ì´ë ëí¬ê° í¬ëìì ë¨¹ì´ ì¹ì ìì´ì, ê°ëí ììê²ì íì·¨í ê²ì´ ëí¬ ì§ì ììì´ëë¼.",
+      "ita": "<span class=\"verse-number\">14 </span>Il Signore entrerÃ  in giudizio con i vecchi del suo popolo e con i suoi principi; poichÃ© voi avete divorato la vigna e le spoglie del povero nelle vostre case."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>What mean ye? Ye beat my people to pieces, and grind the faces of the poor, saith the Lord God of Hosts.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙÙØ§Ø°Ø§ ØªÙØ³ÙØ­ÙÙÙÙÙ Ø´ÙØ¹ÙØ¨ÙØ ÙÙØªÙØ·ÙØ­ÙÙÙÙÙ ÙÙØ¬ÙÙÙ Ø§ÙÙÙÙÙÙØ±Ø§Ø¡ÙØ ÙÙÙÙÙÙ Ø§ÙØ³ÙÙÙÙÙØ¯Ù Ø±ÙØ¨ÙÙ Ø§ÙÙØ¬ÙÙÙØ¯Ù.",
+      "jpn": "『どういうつもりなのか。あなたがたはわたしの<ruby>民<rt>たみ</rt></ruby>を<ruby>打<rt>う</rt></ruby>ち<ruby>砕<rt>くだ</rt></ruby>き、<ruby>貧<rt>まず</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>をすりつぶす。』<ruby>万<rt>ばん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>の<ruby>主<rt>しゅ</rt></ruby>なる<ruby>神<rt>かみ</rt></ruby>はそう<ruby>言<rt>い</rt></ruby>われる。",
+      "zhs": "万军之主神说：你们是什么意思呢？你们压制我的人民，搓磨贫穷人的脸。",
+      "zht": "<span class=\"verse-number\">15ã</span>è¬è»ä¹ä¸»ç¥èªªï¼ä½ åæ¯ä»éº¼ææå¢ï¼ä½ åå£å¶æçäººæ°ï¼æç£¨è²§çª®äººçèã",
+      "spa": "¿Qué pretendéis? Majáis a mi pueblo, y moléis las caras de los pobres, dice el Señor Dios de los Ejércitos.",
+      "por": "<span class=\"verse-number\">15 </span>Que pretendeis? Afligis o meu povo e moeis as faces do pobre, diz o Senhor Deus dos ExÃ©rcitos.",
+      "fra": "<span class=\"verse-number\">15Â </span>Que faites-vous lÃ Â ? Vous foulez mon peuple, et vous Ã©crasez la face des pauvres, dit le Seigneur Dieu des armÃ©es.",
+      "deu": "<span class=\"verse-number\">15Â </span>Was meint ihr? Ihr schlagt mein Volk in StÃ¼cke und zermalmt den Armen das Gesicht, spricht Gott, der Herr der Heerscharen.",
+      "kor": "<span class=\"verse-number\">15 </span>ëí¬ì ìëíë ë°ê° ë¬´ìì´ë? ëí¬ê° ëì ë°±ì±ì ì³ ì°ì°ì¡°ê°ì´ ëê² íë©° ê°ëí ìì ì¼êµ´ì ë§·ëì§ íëëë¤, ë§êµ°ì ì£¼ íëëì´ ë§ìíìëëë¼.",
+      "ita": "<span class=\"verse-number\">15 </span>Che cosa avete in mente? Voi fate a pezzi il mio popolo e stritolate la faccia dei poveri, dice il Signore Dio degli eserciti."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>Moreover, the Lord saith: Because the daughters of Zion are haughty, and walk with stretched-forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feetâ",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙÙØ§Ù Ø§ÙØ±ÙÙØ¨ÙÙ: ÙÙØ£ÙÙÙÙ Ø¨ÙÙØ§ØªÙ ØµÙÙÙÙÙÙÙÙÙ ÙÙØªÙÙÙØ¨ÙÙØ±Ø§ØªÙ ÙÙØªÙÙÙØ´ÙÙÙÙÙÙ Ø¨ÙØ±ÙØ¤ÙØ³Ù ÙÙØªÙØ´Ø§ÙÙØ®ÙØ©Ù ÙÙÙÙØ¸ÙØ±Ø§ØªÙ ÙÙØ³ÙØªÙÙÙØªÙØ±ÙØ©Ù ÙÙÙÙØªÙØ¨ÙØ®ÙØªÙØ±ÙÙÙ Ø¨ÙØ±ÙÙÙØ§ØªÙ Ø§ÙÙØ®ÙÙØ§Ø®ÙÙÙâ",
+      "jpn": "さらに<ruby>主<rt>しゅ</rt></ruby>は<ruby>言<rt>い</rt></ruby>われる。『シオンの<ruby>娘<rt>むすめ</rt></ruby>たちは<ruby>高<rt>たか</rt></ruby>ぶり、<ruby>首<rt>くび</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばして<ruby>目<rt>め</rt></ruby>でこびを<ruby>売<rt>う</rt></ruby>りながら<ruby>歩<rt>ある</rt></ruby>き、<ruby>小<rt>こ</rt></ruby>またで<ruby>歩<rt>ある</rt></ruby>きながら、その<ruby>足<rt>あし</rt></ruby>で<ruby>鈴<rt>すず</rt></ruby>の<ruby>音<rt>ね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す。』",
+      "zhs": "主又说：因为锡安的女子狂傲，走路时挺直颈项，眼目放荡，俏步徐行，脚下叮当——",
+      "zht": "<span class=\"verse-number\">16ã</span>ä¸»åèªªï¼å çº<u>é«å®</u>çå¥³å­çå²ï¼èµ°è·¯ææºç´é ¸é ï¼ç¼ç®æ¾è©ï¼ä¿æ­¥å¾è¡ï¼è³ä¸å®å¹ââ",
+      "spa": "Dice además el Señor: Por cuanto las hijas de Sion son altivas, y andan con cuello erguido y ojos desvergonzados, y caminan como si bailaran, y producen tintineo con los pies;",
+      "por": "<span class=\"verse-number\">16 </span>Diz ainda mais o Senhor: Porque as filhas de SiÃ£o sÃ£o altivas e andam com o pescoÃ§o erguido e tÃªm olhares impudentes, caminham com passos afetados e tilintando com os pÃ©sÂ â",
+      "fra": "<span class=\"verse-number\">16Â </span>Le Seigneur ditÂ : Parce que les filles de Sion sont orgueilleuses, et quâelles marchent le cou tendu et les regards effrontÃ©s, parce quâelles vont Ã  petits pas, et quâelles font rÃ©sonner les boucles de leurs pieds,",
+      "deu": "<span class=\"verse-number\">16Â </span>Mehr noch, der Herr spricht: Weil die TÃ¶chter Zions hochmÃ¼tig sind und mit hochgerecktem Hals gehen und lÃ¼sternen Augen, dabei geziert wandeln und einhertrippeln und mit ihren FÃ¼Ãen klirrenÂ â",
+      "kor": "<span class=\"verse-number\">16 </span>ëì±ì´ ì£¼ê»ì ì´ë¥´ìë, ìì¨ì ë¸ë¤ì´ ê±°ë§íì¬ ëì¸ ëª©ê³¼ ìëí ëì¼ë¡ ë¤ëë©°, ìê¸°ìê±°ë ¤ ê±¸ì¼ë©° ê·¸ ë°ë¡ë ì§¤ëì§¤ë ìë¦¬ë¥¼ ë´ë¯ë¡â",
+      "ita": "<span class=\"verse-number\">16 </span>E inoltre dice il Signore: PoichÃ© le figlie di Sion sono superbe, e camminano con collo ritto e occhi provocanti, e vanno camminando a piccoli passi, e facendo un tintinnio con i piediÂ â"
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the Lord will discover their secret parts.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙÙÙØµÙØ¨Ù Ø§ÙØ±ÙÙØ¨ÙÙ Ø±ÙØ¤ÙØ³Ù Ø¨ÙÙØ§ØªÙ ØµÙÙÙÙÙÙÙÙÙ Ø¨ÙØ§ÙÙÙÙØ±ÙØ­Ù ÙÙÙÙÙÙØ´ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¹ÙÙÙØ±ÙØªÙÙÙÙÙÙ.",
+      "jpn": "それゆえ、<ruby>主<rt>しゅ</rt></ruby>はシオンの<ruby>娘<rt>むすめ</rt></ruby>たちの<ruby>頭<rt>あたま</rt></ruby>の<ruby>頂<rt>いただき</rt></ruby>を<ruby>打<rt>う</rt></ruby>ってかさぶたで<ruby>覆<rt>おお</rt></ruby>い、また<ruby>主<rt>しゅ</rt></ruby>は<ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>たちの<ruby>隠<rt>かく</rt></ruby>し<ruby>所<rt>どころ</rt></ruby>をあらわにされる。",
+      "zhs": "所以主必诅罚锡安的女子头顶长秃疮，主又使她们隐密的部分赤露。",
+      "zht": "<span class=\"verse-number\">17ã</span>æä»¥ä¸»å¿è©ç½°<u>é«å®</u>çå¥³å­é ­é é·ç¦¿ç¡ï¼ä¸»åä½¿å¥¹åé±å¯çé¨åèµ¤é²ã",
+      "spa": "herirá, pues, el Señor la mollera de las hijas de Sion con sarna, y descubrirá su desnudez.",
+      "por": "<span class=\"verse-number\">17 </span>Portanto, o Senhor ferirÃ¡ com sarna o alto da cabeÃ§a das filhas de SiÃ£o e o Senhor porÃ¡ a descoberto as suas partes secretas.",
+      "fra": "<span class=\"verse-number\">17Â </span>le Seigneur rendra chauve le sommet de la tÃªte des filles de Sion, le Seigneur dÃ©couvrira leur nuditÃ©.",
+      "deu": "<span class=\"verse-number\">17Â </span>darum wird der Herr den Scheitel der TÃ¶chter Zions mit Schorf schlagen, und der Herr wird ihre Scham entblÃ¶Ãen.",
+      "kor": "<span class=\"verse-number\">17 </span>ê·¸ë¬ë¯ë¡ ì£¼ê»ì ìì¨ì ë¸ë¤ì ì ìë¦¬ë¥¼ ì¹ì¬ ë±ì§ê° ìê² íì¤ ê²ì´ì, ì£¼ê»ì ê·¸ë¤ì ìë°í ë¶ë¶ì ëë¬ë´ì¤ ê²ì´ë¼.",
+      "ita": "<span class=\"verse-number\">17 </span>PerciÃ² il Signore colpirÃ  di scabbia il sommo del capo delle figlie di Sion, il Signore metterÃ  a nudo le loro parti nascoste."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>In that day the Lord will take away the bravery of their tinkling ornaments, and cauls, and round tires like the moon;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙ Ø°Ù°ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ Ø³ÙÙÙØ²ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø²ÙÙÙØ©Ù Ø®ÙÙØ§Ø®ÙÙÙÙÙÙÙÙ ÙÙØ£ÙØºÙØ·ÙÙÙØ©Ù Ø±ÙØ¤ÙØ³ÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙÙØ§Ø¦ÙØ¯Ù Ø§ÙÙÙÙØµÙÙÙØ¹ÙØ©Ù Ø¹ÙÙÙ Ø´ÙÙÙÙÙ Ø§ÙÙÙÙÙØ§ÙÙØ",
+      "jpn": "その<ruby>日<rt>ひ</rt></ruby>、<ruby>主<rt>しゅ</rt></ruby>は<ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>たちの<ruby>鈴<rt>すず</rt></ruby>の<ruby>音<rt>ね</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す<ruby>飾<rt>かざ</rt></ruby>り<ruby>物<rt>もの</rt></ruby>、<ruby>髪<rt>かみ</rt></ruby>にかぶせる<ruby>網<rt>あみ</rt></ruby>、<ruby>月<rt>つき</rt></ruby><ruby>形<rt>がた</rt></ruby>の<ruby>飾<rt>かざ</rt></ruby>り<ruby>物<rt>もの</rt></ruby>、",
+      "zhs": "在那日，主必除掉她们华美的叮当饰品、发网、月牙圈、",
+      "zht": "<span class=\"verse-number\">18ã</span>å¨é£æ¥ï¼ä¸»å¿é¤æå¥¹åè¯ç¾çå®å¹é£¾åãé«®ç¶²ãæçåã",
+      "spa": "En aquel día quitará el Señor la ostentación de sus ajorcas, y redecillas, y lunetas;",
+      "por": "<span class=\"verse-number\">18 </span>Naquele dia tirarÃ¡ o Senhor a ostentaÃ§Ã£o dos seus tilintantes ornamentos e as coifas e os adornos redondos como a lua;",
+      "fra": "<span class=\"verse-number\">18Â </span>En ce jour, le Seigneur Ã´tera les boucles qui leur servent dâornement, et les filets et les croissantsÂ ;",
+      "deu": "<span class=\"verse-number\">18Â </span>An jenem Tag wird der Herr wegnehmen das GeprÃ¤nge ihres klirrenden Schmucks und Stirngeflechte und Kopfputz, rund wie der Mond,",
+      "kor": "<span class=\"verse-number\">18 </span>ê·¸ ë ì ì£¼ê»ì íë ¤í ê·¸ë¤ì ì§¤ëê±°ë¦¬ë ì¥ìë¬¼ê³¼ ë§ì¬ ëª¨ìì ë¬ ê°ì ë¥ê·¼ ì¥ìì,",
+      "ita": "<span class=\"verse-number\">18 </span>In quel giorno il Signore toglierÃ  via lâeleganza dei loro ornamenti tintinnanti, e le retine nei capelli, e i diademi tondi a mezzaluna;"
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>The chains and the bracelets, and the mufflers;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØ§ÙÙØ£ÙÙÙØ±Ø§Ø·Ù ÙÙØ§ÙÙØ£ÙØ³Ø§ÙÙØ±Ù ÙÙØ§ÙÙØ£ÙÙÙØ´ÙØ­ÙØ©ÙØ",
+      "jpn": "<ruby>鎖<rt>くさり</rt></ruby>、<ruby>腕<rt>うで</rt></ruby><ruby>輪<rt>わ</rt></ruby>、<ruby>顔<rt>かお</rt></ruby><ruby>覆<rt>おお</rt></ruby>い、",
+      "zhs": "垂饰和手镯、蒙脸的帕子、",
+      "zht": "<span class=\"verse-number\">19ã</span>åé£¾åæé²ãèèçå¸å­ã",
+      "spa": "los collares, y los brazaletes, y los rebociños;",
+      "por": "<span class=\"verse-number\">19 </span>As correntes, os braceletes e os xales;",
+      "fra": "<span class=\"verse-number\">19Â </span>les pendants dâoreilles, les bracelets et les voilesÂ ;",
+      "deu": "<span class=\"verse-number\">19Â </span>die GehÃ¤nge und die Armspangen und die HalstÃ¼cher,",
+      "kor": "<span class=\"verse-number\">19 </span>ì¬ì¬ê³¼ íì°ì ëª©ëë¦¬ë¥¼,",
+      "ita": "<span class=\"verse-number\">19 </span>Le catenelle, i braccialetti e i veli;"
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>The bonnets, and the ornaments of the legs, and the headbands, and the tablets, and the ear-rings;",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙØ¹ÙØµØ§Ø¦ÙØ¨Ù Ø§ÙØ±ÙÙØ£ÙØ³Ù ÙÙØ³ÙÙØ§Ø³ÙÙÙ Ø§ÙÙØ£ÙÙÙØ¯Ø§ÙÙ ÙÙØ§ÙÙØ£ÙØ­ÙØ²ÙÙÙØ©Ù ÙÙØ²ÙØ¬Ø§Ø¬Ø§ØªÙ Ø§ÙÙØ¹ÙØ·ÙØ±Ù ÙÙØ§ÙÙØ£ÙÙÙØ±Ø§Ø·ÙØ",
+      "jpn": "<ruby>頭<rt>あたま</rt></ruby><ruby>飾<rt>かざ</rt></ruby>り、すね<ruby>飾<rt>かざ</rt></ruby>り、<ruby>結<rt>ゆ</rt></ruby>わえひも、<ruby>香<rt>こう</rt></ruby>の<ruby>入<rt>い</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>、<ruby>耳<rt>みみ</rt></ruby><ruby>飾<rt>かざ</rt></ruby>り、",
+      "zhs": "华冠、脚饰、华带、香盒、耳环、",
+      "zht": "<span class=\"verse-number\">20ã</span>è¯å ãè³é£¾ãè¯å¸¶ãé¦çãè³ç°ã",
+      "spa": "las cofias, los adornos de las piernas, los tocados, los pomitos de olor y los zarcillos;",
+      "por": "<span class=\"verse-number\">20 </span>Os toucados e os enfeites das pernas e os diademas e as caixinhas de perfume e os brincos;",
+      "fra": "<span class=\"verse-number\">20Â </span>les diadÃ¨mes, les chaÃ®nettes des pieds et les ceintures, les boÃ®tes de senteur et les amulettesÂ ;",
+      "deu": "<span class=\"verse-number\">20Â </span>die Prunkhauben und den Beinschmuck und die KopfbÃ¤nder und die RiechkÃ¤stchen und die Ohrringe,",
+      "kor": "<span class=\"verse-number\">20 </span>ë ë¬ë¦° ëª¨ìì ë¤ë¦¬ì ì¥ìë¬¼ê³¼ ë¨¸ë¦¬ë ì í¥í©ê³¼ ê·ê³ ë¦¬ë¥¼,",
+      "ita": "<span class=\"verse-number\">20 </span>I copricapi, gli ornamenti delle gambe, i turbanti, le scatolette di profumo, gli orecchini;"
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>The rings, and nose jewels;",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØ§ÙÙØ®ÙÙØ§ØªÙÙÙ ÙÙØ®ÙØ²Ø§Ø¦ÙÙÙ Ø§ÙÙØ£ÙÙÙÙÙØ",
+      "jpn": "<ruby>指<rt>ゆび</rt></ruby><ruby>輪<rt>わ</rt></ruby>、<ruby>鼻<rt>はな</rt></ruby><ruby>飾<rt>かざ</rt></ruby>り、",
+      "zhs": "戒指、鼻环、",
+      "zht": "<span class=\"verse-number\">21ã</span>ææãé¼»ç°ã",
+      "spa": "los anillos, y los joyeles para la nariz;",
+      "por": "<span class=\"verse-number\">21 </span>Os anÃ©is e as joias do nariz;",
+      "fra": "<span class=\"verse-number\">21Â </span>les bagues et les anneaux du nezÂ ;",
+      "deu": "<span class=\"verse-number\">21Â </span>die Ringe und Nasenreife,",
+      "kor": "<span class=\"verse-number\">21 </span>ë°ì§ì ì½ê±¸ì´ë¥¼,",
+      "ita": "<span class=\"verse-number\">21 </span>Gli anelli e i monili per il naso;"
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>The changeable suits of apparel, and the mantles, and the wimples, and the crisping-pins;",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙØ§ÙØ«ÙÙÙØ§Ø¨Ù Ø§ÙÙØ¬ÙÙÙÙÙØ©Ù ÙÙØ§ÙÙÙÙØ¹Ø§Ø·ÙÙÙ ÙÙØ§ÙÙØ£ÙÙÙØ´ÙØ­ÙØ©Ù ÙÙØ§ÙÙØ­ÙÙØ§Ø¦ÙØ¨ÙØ",
+      "jpn": "<ruby>礼<rt>れい</rt></ruby><ruby>服<rt>ふく</rt></ruby>、<ruby>外<rt>がい</rt></ruby><ruby>套<rt>とう</rt></ruby>、<ruby>頭<rt>ず</rt></ruby><ruby>巾<rt>きん</rt></ruby>、<ruby>髪<rt>かみ</rt></ruby>を<ruby>縮<rt>ちぢ</rt></ruby>らすもの、",
+      "zhs": "吉服、外套、云肩、荷包、",
+      "zht": "<span class=\"verse-number\">22ã</span>åæãå¤å¥ãé²è©ãè·åã",
+      "spa": "las mudas de ropa de gala, y los mantos, y las tocas, y las bolsas;",
+      "por": "<span class=\"verse-number\">22 </span>Os vestidos de festa e os mantos e as toucas e os grampos de encrespar;",
+      "fra": "<span class=\"verse-number\">22Â </span>les vÃªtements prÃ©cieux et les larges tuniques, les manteaux et les gibeciÃ¨resÂ ;",
+      "deu": "<span class=\"verse-number\">22Â </span>die schillernden PrachtgewÃ¤nder und die MÃ¤ntel und die BrusttÃ¼cher und die KrÃ¤uselgestecke,",
+      "kor": "<span class=\"verse-number\">22 </span>ê°ììë ì¬ë¬ ë²ì ìë³µê³¼ ë§í ì ëì¸ê³¼ ë¨¸ë¦¬ë¥¼ ê³±ì¬íê² íë íì,",
+      "ita": "<span class=\"verse-number\">22 </span>Le vesti lussuose, i mantelli, gli scialli, le mollette da ricci;"
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>The glasses, and the fine linen, and hoods, and the veils.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙØ§ÙÙÙÙØ±Ø§ÙØ§ ÙÙØ§ÙØ«ÙÙÙØ§Ø¨Ù Ø§ÙÙÙÙØªÙØ§ÙÙÙÙÙØ©Ù ÙÙØ§ÙÙØ¹ÙÙØ§Ø¦ÙÙÙ ÙÙØ§ÙÙØ­ÙØ¬ÙØ¨Ù.",
+      "jpn": "<ruby>鏡<rt>かがみ</rt></ruby>、こまやかに<ruby>織<rt>お</rt></ruby>った<ruby>亜<rt>あ</rt></ruby><ruby>麻<rt>ま</rt></ruby><ruby>布<rt>ぬの</rt></ruby>の<ruby>衣<rt>い</rt></ruby><ruby>服<rt>ふく</rt></ruby>、ターバン<ruby>風<rt>ふう</rt></ruby>の<ruby>帽<rt>ぼう</rt></ruby><ruby>子<rt>し</rt></ruby>、かぶり<ruby>物<rt>もの</rt></ruby>などの<ruby>装<rt>よそお</rt></ruby>いを<ruby>取<rt>と</rt></ruby>り<ruby>除<rt>のぞ</rt></ruby>かれる。",
+      "zhs": "镜子、细麻衣、裹头巾、围巾。",
+      "zht": "<span class=\"verse-number\">23ã</span>é¡å­ãç´°éº»è¡£ãè£¹é ­å·¾ãåå·¾ã",
+      "spa": "los espejos, y los linos finos, y los rebozos, y los velos.",
+      "por": "<span class=\"verse-number\">23 </span>Os espelhos e o linho fino e os capuzes e os vÃ©us.",
+      "fra": "<span class=\"verse-number\">23Â </span>les miroirs et les chemises fines, les turbans et les surtouts lÃ©gers.",
+      "deu": "<span class=\"verse-number\">23Â </span>die Spiegel und das feine Linnen und Hauben und die Schleier.",
+      "kor": "<span class=\"verse-number\">23 </span>ê±°ì¸ê³¼ ì¸ë§í¬ì ëê±´ê³¼ ë©´ë°ì ì íì¬ ë²ë¦¬ìë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">23 </span>Gli specchi, la biancheria fine, i cappucci e i veli."
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>And it shall come to pass, instead of sweet smell there shall be stink; and instead of a girdle, a rent; and instead of well set hair, baldness; and instead of a stomacher, a girding of sackcloth; burning instead of beauty.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙØªÙÙÙÙÙ ÙÙÙÙÙÙÙ Ø§ÙÙÙÙØªØ§ÙÙØ©Ù Ø¨ÙØ¯ÙÙÙ Ø§ÙØ·ÙÙØ¨Ù. Ø³ÙÙÙÙÙÙÙ ÙÙÙÙÙÙÙ Ø§ÙØªÙÙÙÙØ²ÙÙÙ Ø¨ÙØ¯ÙÙÙ Ø§ÙÙØ£ÙØ­ÙØ²ÙÙÙØ©ÙØ ÙÙØ§ÙÙÙÙØ±ÙØ¹Ù Ø¨ÙØ¯ÙÙÙ Ø§ÙØ´ÙÙØ¹ÙØ±Ù Ø§ÙÙÙÙØµÙÙÙÙÙÙØ ÙÙØ§ÙÙØ®ÙÙÙØ´Ù Ø¨ÙØ¯ÙÙÙ Ø§ÙØ«ÙÙÙØ§Ø¨Ù Ø§ÙÙØ¬ÙÙÙÙÙØ©ÙØ ÙÙÙÙØ¨Ø§Ø­ÙØ©Ù Ø§ÙÙÙÙØ³ÙÙÙ Ø¨ÙØ¯ÙÙÙ Ø§ÙÙØ¬ÙÙØ§ÙÙ.",
+      "jpn": "そして、<ruby>芳<rt>ほう</rt></ruby><ruby>香<rt>こう</rt></ruby>は<ruby>変<rt>か</rt></ruby>わって<ruby>悪<rt>あく</rt></ruby><ruby>臭<rt>しゅう</rt></ruby>となり、<ruby>帯<rt>おび</rt></ruby>は<ruby>変<rt>か</rt></ruby>わって<ruby>裂<rt>さ</rt></ruby>けた<ruby>布<rt>ぬの</rt></ruby>となり、<ruby>美<rt>うつく</rt></ruby>しく<ruby>整<rt>ととの</rt></ruby>えた<ruby>髪<rt>かみ</rt></ruby>は<ruby>変<rt>か</rt></ruby>わってかぶろとなり、<ruby>胸<rt>きょう</rt></ruby><ruby>衣<rt>い</rt></ruby>は<ruby>変<rt>か</rt></ruby>わって<ruby>粗<rt>あら</rt></ruby><ruby>布<rt>ぬの</rt></ruby>の<ruby>帯<rt>おび</rt></ruby>となり、<ruby>美<rt>うつく</rt></ruby>しさは<ruby>変<rt>か</rt></ruby>わって<ruby>焼<rt>や</rt></ruby>け<ruby>傷<rt>きず</rt></ruby>となる。",
+      "zhs": "事情将是这样，必有恶臭代替馨香，破布代替腰带，秃顶代替美发，麻布系腰代替华服，烙伤代替美貌。",
+      "zht": "<span class=\"verse-number\">24ã</span>äºæå°æ¯éæ¨£ï¼å¿ææ¡è­ä»£æ¿é¦¨é¦ï¼ç ´å¸ä»£æ¿è°å¸¶ï¼ç¦¿é ä»£æ¿ç¾é«®ï¼éº»å¸ç¹«è°ä»£æ¿è¯æï¼çå·ä»£æ¿ç¾è²ã",
+      "spa": "Y sucederá que en lugar de perfumes, habrá hediondez; y soga en lugar de cinturón; y en lugar de cabellos peinados, calvicie; y en lugar de mantos, cilicio; y quemadura en lugar de hermosura.",
+      "por": "<span class=\"verse-number\">24 </span>E acontecerÃ¡ que em lugar de perfume haverÃ¡ mau cheiro; e em lugar de cinto, uma rotura; e em lugar de cabelos bem penteados, calvÃ­cie; e em lugar de corpete, um envoltÃ³rio de saco; queimadura em lugar de formosura.",
+      "fra": "<span class=\"verse-number\">24Â </span>Au lieu de parfums, il y aura de lâinfectionÂ ; au lieu de ceinture, une cordeÂ ; au lieu de cheveux bouclÃ©s, une tÃªte chauveÂ ; au lieu de larges manteaux, un sac Ã©troitÂ ; une marque flÃ©trissante au lieu de beautÃ©.",
+      "deu": "<span class=\"verse-number\">24Â </span>Und es wird sich begeben: Statt Wohlgeruches wird Gestank sein und statt eines GÃ¼rtels ein Riss und statt des Lockenwerks eine Glatze und statt des Mieders eine SackleinenumgÃ¼rtung, Brandmal statt SchÃ¶nheit.",
+      "kor": "<span class=\"verse-number\">24 </span>ë ì´ë ê² ëë¦¬ë í¥ê¸°ë¡ì´ ëìë¥¼ ëì íì¬ ìì·¨ê°, íë¦¬ë ë¥¼ ëì íì¬ ì°¢ì´ì§ íì´, ì ê°ê¾¸ì´ì§ ë¨¸ë¦¬ë¥¼ ëì íì¬ ë²ì´ì§ ë¨¸ë¦¬ê°, íë ¤í ì·ì ëì íì¬ êµµì ë² ì·ì´, íì°ë ê²ì´ ìë¦ë¤ìì ëì íì¬ ìì¼ë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">24 </span>E avverrÃ  che invece di profumo, vi sarÃ  fetore; e invece di cintura, una corda; e invece di belle acconciature, calvizie; e invece di fasce, un cinto di sacco; bruciature invece di bellezza."
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>Thy men shall fall by the sword and thy mighty in the war.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>Ø±ÙØ¬Ø§ÙÙÙÙ ÙÙØ³ÙÙÙØ·ÙÙÙ Ø¨ÙØ§ÙØ³ÙÙÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙØ§Ø¤ÙÙÙ ÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨Ù.",
+      "jpn": "あなたの<ruby>男<rt>おとこ</rt></ruby>たちは<ruby>剣<rt>つるぎ</rt></ruby>に<ruby>倒<rt>たお</rt></ruby>れ、あなたの<ruby>勇<rt>ゆう</rt></ruby><ruby>士<rt>し</rt></ruby>たちは<ruby>戦<rt>たたか</rt></ruby>いで<ruby>倒<rt>たお</rt></ruby>れる。",
+      "zhs": "你的男丁，必倒在刀下，你的勇士，必死在战场。",
+      "zht": "<span class=\"verse-number\">25ã</span>ä½ çç·ä¸ï¼å¿åå¨åä¸ï¼ä½ çåå£«ï¼å¿æ­»å¨æ°å ´ã",
+      "spa": "Tus varones caerán a espada, y tus fuertes en la batalla.",
+      "por": "<span class=\"verse-number\">25 </span>Teus varÃµes cairÃ£o sob a espada e teus valentes na guerra.",
+      "fra": "<span class=\"verse-number\">25Â </span>Tes hommes tomberont sous le glaive, et tes hÃ©ros dans le combat.",
+      "deu": "<span class=\"verse-number\">25Â </span>Deine MÃ¤nner werden durch das Schwert fallen und deine MÃ¤chtigen im Krieg.",
+      "kor": "<span class=\"verse-number\">25 </span>ëì ë¨ìë¤ì ì¹¼ì, ëì ì©ì¬ë¤ì ì ì ì¤ì ìëë¬ì§ ê²ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">25 </span>I tuoi uomini cadranno per la spada e i tuoi potenti in guerra."
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span>And her gates shall lament and mourn; and she shall be desolate, and shall sit upon the ground.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>Ø³ÙØªÙÙÙØ­Ù ÙÙØªÙØ¨ÙÙÙ Ø¨ÙÙÙØ§Ø¨Ø§ØªÙÙØ§Ø ÙÙØªÙÙÙÙÙ ÙØ§Ø±ÙØºÙØ©ÙØ ÙÙØªÙØ¬ÙÙÙØ³Ù Ø¹ÙÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù.",
+      "jpn": "シオンの<ruby>門<rt>もん</rt></ruby>は<ruby>嘆<rt>なげ</rt></ruby>き<ruby>悲<rt>かな</rt></ruby>しみ、シオンは<ruby>荒<rt>あ</rt></ruby>れ<ruby>廃<rt>すた</rt></ruby>れて、<ruby>地<rt>ち</rt></ruby>に<ruby>座<rt>ざ</rt></ruby>する。」",
+      "zhs": "她的城门必悲伤哀号；她必荒凉，坐在地上。",
+      "zht": "<span class=\"verse-number\">26ã</span>å¥¹çåéå¿æ²å·åèï¼å¥¹å¿èæ¶¼ï¼åå¨å°ä¸ã",
+      "spa": "Y sus puertas se lamentarán y enlutarán, y ella, desolada, se sentará en tierra.",
+      "por": "<span class=\"verse-number\">26 </span>E as suas portas lamentarÃ£o e prantearÃ£o; e ela se assentarÃ¡ no chÃ£o, desolada.",
+      "fra": "<span class=\"verse-number\">26Â </span>Les portes de Sion gÃ©miront et seront dans le deuilÂ ; elle sera dÃ©pouillÃ©e, et sâassiÃ©ra par terre.",
+      "deu": "<span class=\"verse-number\">26Â </span>Und ihre Pforten werden klagen und trauern; und sie wird verlassen sein und wird auf der Erde sitzen.",
+      "kor": "<span class=\"verse-number\">26 </span>ë ìì¨ì ë¬¸ë¤ì ì¬í¼íë©° ê³¡í  ê²ì´ì, ìì¨ì í©ííì¬ ëì ìì¼ë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">26 </span>E le sue porte si lamenteranno e faranno cordoglio; ed essa sarÃ  desolata e siederÃ  per terra."
+    }
+  }
+}

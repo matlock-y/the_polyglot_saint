@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "volume": "bom",
+    "book": "2-ne",
+    "chapter": 12,
+    "headings": {
+      "eng": "Isaiah sees the latter-day temple, gathering of Israel, and millennial judgment and peaceâThe proud and wicked will be brought low at the Second ComingâCompare Isaiah 2. About 559â545Â <small>B.C.</small>",
+      "ara": "ÙØ±Ù Ø¥Ø´Ø¹ÙØ§Ø¡ ÙÙÙÙ Ø§ÙØ£ÙØ§Ù Ø§ÙØ£Ø®ÙØ±Ø©Ø ÙØ¬ÙØ¹ Ø¥Ø³Ø±Ø§Ø¦ÙÙØ ÙØ¯ÙÙÙÙØ© Ø§ÙØ£ÙÙ Ø³ÙØ© ÙØ§ÙØ³ÙØ§ÙâÙØ³ÙØ· Ø§ÙÙØ³ØªÙØ¨Ø±ÙÙ ÙØ§ÙØ£Ø´Ø±Ø§Ø± Ø¹ÙØ¯ Ø§ÙÙØ¬ÙØ¡ Ø§ÙØ«Ø§ÙÙâØ±Ø§Ø¬Ø¹ Ø¥Ø´Ø¹ÙØ§Ø¡ Ù¢. (ÙÙ Ù¥Ù¥Ù© Ø¥ÙÙ Ù¥Ù¤Ù¥Â Ù.Ù. ØªÙØ±ÙØ¨ÙØ§)",
+      "jpn": "イザヤ、<ruby><rb>末</rb><rt>まつ</rt></ruby><ruby><rb>日</rb><rt>じつ</rt></ruby>の<ruby><rb>神</rb><rt>しん</rt></ruby><ruby><rb>殿</rb><rt>でん</rt></ruby>とイスラエルの<ruby><rb>集</rb><rt>しゅう</rt></ruby><ruby><rb>合</rb><rt>ごう</rt></ruby>、それに<ruby><rb>福</rb><rt>ふく</rt></ruby><ruby><rb>千</rb><rt>せん</rt></ruby><ruby><rb>年</rb><rt>ねん</rt></ruby>の<ruby><rb>裁</rb><rt>さば</rt></ruby>きと<ruby><rb>平</rb><rt>へい</rt></ruby><ruby><rb>和</rb><rt>わ</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>る。<ruby><rb>高</rb><rt>たか</rt></ruby>ぶる<ruby><rb>者</rb><rt>もの</rt></ruby>と<ruby><rb>悪</rb><rt>あく</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>者</rb><rt>もの</rt></ruby>は、<ruby><rb>主</rb><rt>しゅ</rt></ruby>の<ruby><rb>再</rb><rt>さい</rt></ruby><ruby><rb>臨</rb><rt>りん</rt></ruby>の<ruby><rb>時</rb><rt>とき</rt></ruby>に<ruby><rb>低</rb><rt>ひく</rt></ruby>くされる。<a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/2?lang=jpn\">イザヤ<ruby><rb>書</rb><rt>しょ</rt></ruby><ruby><rb>第</rb><rt>だい</rt></ruby>二<ruby><rb>章</rb><rt>しょう</rt></ruby></a>と<ruby><rb>比</rb><rt>ひ</rt></ruby><ruby><rb>較</rb><rt>かく</rt></ruby>。<ruby><rb>紀</rb><rt>き</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>前</rb><rt>ぜん</rt></ruby><ruby><rb>約</rb><rt>やく</rt></ruby>五百五十九<ruby><rb>年</rb><rt>ねん</rt></ruby>から五百四十五<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>至</rb><rt>いた</rt></ruby>る。",
+      "zhs": "<u>以賽亞</u>看見後期時代的聖殿、<u>以色列</u>的重聚、千禧年的審判與和平——高傲和邪惡者在第二次來臨時必降為卑——比照<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/ot/isa/2.html\">《以賽亞書》第2章</span>。約主前559年至545年。",
+      "zht": "<u>ä»¥è³½äº</u>çè¦å¾ææä»£çèæ®¿ã<u>ä»¥è²å</u>çéèãåç¦§å¹´çå¯©å¤èåå¹³ââé«å²åéªæ¡èå¨ç¬¬äºæ¬¡ä¾è¨æå¿éçºåââæ¯ç§<span class=\"legacy-scripture-ref\" data-legacy-href=\"../../../scriptures/ot/isa/2.html\">ãä»¥è³½äºæ¸ãç¬¬2ç« </span>ãç´ä¸»å559å¹´è³545å¹´ã",
+      "spa": "Isaías ve el templo de los postreros días, el recogimiento de Israel, el juicio y la paz milenarios — Los altivos y los inicuos serán humillados a la Segunda Venida — Compárese con <a class=\"scripture-ref\" href=\"/study/scriptures/ot/isa/2?lang=spa\">Isaías 2</a>. Aproximadamente 559–545 a.C.",
+      "por": "IsaÃ­as vÃª o templo dos Ãºltimos dias, a coligaÃ§Ã£o de Israel e o julgamento e a paz do milÃªnioÂ â Os orgulhosos e inÃ­quos serÃ£o humilhados na segunda vindaÂ â Comparar com IsaÃ­as 2. Aproximadamente 559â545Â a.C.",
+      "fra": "ÃsaÃ¯e voit le temple des derniers jours, le rassemblement dâIsraÃ«l, et le jugement et la paix millÃ©nairesÂ â Les orgueilleux et les mÃ©chants seront abaissÃ©s Ã  la Seconde VenueÂ â Comparez avec ÃsaÃ¯e 2. Vers 559â545Â av.Â J.-C.",
+      "deu": "Jesaja sieht den Tempel der Letzten Tage, die Sammlung Israels und Gericht und Frieden im MillenniumÂ â Die Stolzen und Schlechten werden beim Zweiten Kommen erniedrigt werdenÂ â Vergleiche Jesaja 2. Um 559â545Â v.Â Chr.",
+      "kor": "ì´ì¬ì¼ê° íì¼ì ì±ì , ì´ì¤ë¼ìì ì§í© ê·¸ë¦¬ê³  ë³µì²ëì ì¬íê³¼ ííë¥¼ ë´âêµë§íê³  ê°ìí ìë ì¬ë¦¼ìì ë®ìì§ ê²ìâì´ì¬ì¼ 2ì¥ê³¼ ë¹êµíë¼. ì£¼ì  559~545ëê²½.",
+      "ita": "Isaia vede il tempio degli ultimi giorni, il raduno dâIsraele, il giudizio e la pace millenariÂ â I superbi e i malvagi saranno umiliati alla Seconda VenutaÂ â Confrontare con Isaia 2. Circa 559â545Â a.C."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>The word that Isaiah, the son of Amoz, saw concerning Judah and Jerusalem:",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø§ÙÙÙÙÙÙÙÙÙØ©Ù Ø§ÙÙÙØªÙ Ø±ÙØ¢ÙØ§ Ø¥ÙØ´ÙØ¹ÙÙØ§Ø¡Ù Ø¨ÙÙÙ Ø¢ÙÙØµÙ Ø¨ÙØ´ÙØ£ÙÙÙ ÙÙÙÙØ°Ø§ ÙÙØ£ÙØ±ÙØ´ÙÙÙÙÙ:",
+      "jpn": "「アモツの<ruby>子<rt>こ</rt></ruby>イザヤが、ユダとエルサレムについて<ruby>見<rt>み</rt></ruby>た<ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>。",
+      "zhs": "亚摩斯的儿子以赛亚看到的话语，论及犹大和耶路撒冷：",
+      "zht": "<span class=\"verse-number\">1ã</span><u>äºæ©æ¯</u>çåå­ä»¥è³½äºçå°çè©±èªï¼è«å<u>ç¶å¤§</u>å<u>è¶è·¯æå·</u>ï¼",
+      "spa": "Lo que vio Isaías hijo de Amoz, concerniente a Judá y Jerusalén:",
+      "por": "<span class=\"verse-number\">1 </span>A visÃ£o de IsaÃ­as, filho de AmÃ³s, a respeito de JudÃ¡ e de JerusalÃ©m:",
+      "fra": "<span class=\"verse-number\">1Â </span>ProphÃ©tie dâÃsaÃ¯e, fils dâAmots, sur Juda et JÃ©rusalem.",
+      "deu": "<span class=\"verse-number\">1Â </span>Das Wort, das Jesaja, der Sohn des Amoz, geschaut hat in Bezug auf Juda und Jerusalem:",
+      "kor": "<span class=\"verse-number\">1 </span>ìëª¨ì¤ì ìë¤ ì´ì¬ì¼ê° ë³¸ ë° ì ë¤ì ìë£¨ì´ë ì ê´í ë§ìì´ë¼.",
+      "ita": "<span class=\"verse-number\">1 </span>Parola che Isaia, figlio di Amots, vide riguardo a Giuda e a Gerusalemme:"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>And it shall come to pass in the last days, when the mountain of the Lordâs house shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙØ­ÙØ¯ÙØ«Ù ÙÙ Ø§ÙÙØ£ÙÙÙØ§ÙÙ Ø§ÙÙØ£ÙØ®ÙØ±ÙØ©Ù Ø£ÙÙÙÙ Ø¬ÙØ¨ÙÙÙ Ø¨ÙÙÙØªÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¨ÙÙÙ ÙÙ Ø£ÙØ¹ÙÙÙ Ø§ÙÙØ¬ÙØ¨Ø§ÙÙØ ÙÙÙÙØ±ÙØªÙÙÙØ¹Ù ÙÙÙÙÙÙ Ø§ÙØªÙÙÙØ§ÙÙØ ÙÙØªÙÙÙØ¯ÙÙÙØ¹Ù Ø¥ÙÙÙÙÙÙÙ ÙÙÙÙÙ Ø§ÙÙØ£ÙÙÙÙÙ.",
+      "jpn": "さて、<ruby>終<rt>お</rt></ruby>わりの<ruby>時<rt>とき</rt></ruby>に<ruby>次<rt>つぎ</rt></ruby>のことが<ruby>起<rt>お</rt></ruby>こる。<ruby>主<rt>しゅ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>の<ruby>山<rt>やま</rt></ruby>は<ruby>山<rt>やま</rt></ruby><ruby>々<rt>やま</rt></ruby>の<ruby>頂<rt>いただき</rt></ruby>に<ruby>堅<rt>かた</rt></ruby>く<ruby>立<rt>た</rt></ruby>ち、もろもろの<ruby>丘<rt>おか</rt></ruby>よりも<ruby>高<rt>たか</rt></ruby>くそびえ、すべての<ruby>国<rt>こく</rt></ruby><ruby>民<rt>みん</rt></ruby>はそこに<ruby>流<rt>なが</rt></ruby>れて<ruby>来<rt>く</rt></ruby>る。",
+      "zhs": "事情将是这样，在末世，当主殿的山建立在诸山之巅，高举过于众岭，各族都要流归这山。",
+      "zht": "<span class=\"verse-number\">2ã</span>äºæå°æ¯éæ¨£ï¼å¨æ«ä¸ï¼ç¶ä¸»æ®¿çå±±å»ºç«å¨è«¸å±±ä¹å·ï¼é«èéæ¼ç¾å¶ºï¼åæé½è¦æµæ­¸éå±±ã",
+      "spa": "Y acontecerá en los postreros días, que el monte de la casa del Señor será establecido como cabeza de los montes, y será exaltado sobre los collados, y todas las naciones correrán hacia él.",
+      "por": "<span class=\"verse-number\">2 </span>E acontecerÃ¡ nos Ãºltimos dias, quando o monte da casa do Senhor for estabelecido no cume dos montes e se exalÃ§ar acima dos outeiros e concorrerem a ele todas as naÃ§Ãµes.",
+      "fra": "<span class=\"verse-number\">2Â </span>Il arrivera, dans la suite des temps, que la montagne de la maison du Seigneur sera fondÃ©e sur le sommet des montagnes, quâelle sâÃ©lÃ¨vera par-dessus les collines, et que toutes les nations y afflueront.",
+      "deu": "<span class=\"verse-number\">2Â </span>Und es wird sich begeben in den letzten Tagen, da der Berg des Hauses des Herrn festgegrÃ¼ndet zu HÃ¤upten der Berge stehen wird und Ã¼ber die HÃ¼gel erhaben sein wird und alle Nationen zu ihm hinstrÃ¶men werden.",
+      "kor": "<span class=\"verse-number\">2 </span>ë ë§ì§ë§ ë ì ê·¸ ì¼ì´ ì´ë£¨ë¦¬ë ê·¸ë ì£¼ì ì§ì ì°ì´ ì°ë¤ì ê¼­ëê¸°ì êµ³ê² ì¤ ê²ì´ì, ìì ì°ë¤ ìì ëìì§ ê²ì´ë©° ëª¨ë  ëë¼ê° ê·¸ë¦¬ë¡ íë¬ ê° ê²ì´ë¼.",
+      "ita": "<span class=\"verse-number\">2 </span>E avverrÃ , negli ultimi giorni, quando il monte della casa del Signore sarÃ  stabilito sulla vetta dei monti, e sarÃ  elevato al di sopra dei colli; e tutte le nazioni affluiranno ad esso."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths; for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙØ³ÙØªÙØ£ÙØªÙ Ø´ÙØ¹ÙØ¨Ù ÙÙØ«ÙØ±ÙØ©ÙØ ÙÙÙÙÙÙÙÙÙÙ: ÙÙÙÙÙÙÙ ÙÙØµÙØ¹ÙØ¯Ù Ø¥ÙÙÙ Ø¬ÙØ¨ÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙØ Ø¥ÙÙÙ Ø¨ÙÙÙØªÙ Ø¥ÙÙÙ°ÙÙ ÙÙØ¹ÙÙÙØ¨ÙØ ÙÙÙÙØ¹ÙÙÙÙÙÙÙØ§ Ø·ÙØ±ÙÙÙÙÙ ÙÙÙÙØ³ÙÙÙÙÙ Ø³ÙØ¨ÙÙÙÙÙØ ÙÙØ£ÙÙÙÙ Ø§ÙØ´ÙÙØ±ÙØ¹ÙØ©Ù Ø³ÙØªÙÙÙØ·ÙÙÙÙÙ ÙÙÙÙ ØµÙÙÙÙÙÙÙÙÙØ ÙÙÙÙÙÙÙÙØ©Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙÙ Ø£ÙØ±ÙØ´ÙÙÙÙÙ.",
+      "jpn": "<ruby>多<rt>おお</rt></ruby>くの<ruby>民<rt>たみ</rt></ruby>が<ruby>来<rt>き</rt></ruby>て<ruby>言<rt>い</rt></ruby>う。『さあ、わたしたちは<ruby>主<rt>しゅ</rt></ruby>の<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>り、ヤコブの<ruby>神<rt>かみ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>こう。<ruby>主<rt>しゅ</rt></ruby>は<ruby>御<rt>ご</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>道<rt>みち</rt></ruby>をわたしたちに<ruby>教<rt>おし</rt></ruby>えてくださる。わたしたちは<ruby>主<rt>しゅ</rt></ruby>の<ruby>道<rt>みち</rt></ruby>を<ruby>歩<rt>あゆ</rt></ruby>もう。』<ruby>律<rt>りっ</rt></ruby><ruby>法<rt>ぽう</rt></ruby>はシオンから<ruby>出<rt>で</rt></ruby>、<ruby>主<rt>しゅ</rt></ruby>の<ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>はエルサレムから<ruby>出<rt>で</rt></ruby>るからである。",
+      "zhs": "必有许多人要前往，并说，来吧，我们登主的山，到雅各的神的殿；祂必将祂的道教训我们，我们也要行祂的路；因为律法必出于锡安，主的言语必出于耶路撒冷。",
+      "zht": "<span class=\"verse-number\">3ã</span>å¿æè¨±å¤äººè¦åå¾ï¼ä¸¦èªªï¼ä¾å§ï¼æåç»ä¸»çå±±ï¼å°<u>éå</u>çç¥çæ®¿ï¼ç¥å¿å°ç¥çéæè¨æåï¼æåä¹è¦è¡ç¥çè·¯ï¼å çºå¾æ³å¿åºæ¼<u>é«å®</u>ï¼ä¸»çè¨èªå¿åºæ¼<u>è¶è·¯æå·</u>ã",
+      "spa": "Y vendrán muchos pueblos y dirán: Venid, y subamos al monte del Señor, a la casa del Dios de Jacob; y nos enseñará acerca de sus caminos, y caminaremos por sus sendas; porque de Sion saldrá la ley, y de Jerusalén la palabra del Señor.",
+      "por": "<span class=\"verse-number\">3 </span>E irÃ£o muitos povos e dirÃ£o: Vinde, subamos ao monte do Senhor, Ã  casa do Deus de JacÃ³; e ele nos ensinarÃ¡ os seus caminhos, e andaremos nas suas veredas; porque de SiÃ£o sairÃ¡ a lei, e de JerusalÃ©m, a palavra do Senhor.",
+      "fra": "<span class=\"verse-number\">3Â </span>Des peuples sây rendront en foule, et dirontÂ : Venez, et montons Ã  la montagne du Seigneur, Ã  la maison du Dieu de Jacob, afin quâil nous enseigne ses voies, et que nous marchions dans ses sentiers. Car de Sion sortira la loi, et de JÃ©rusalem la parole du Seigneur.",
+      "deu": "<span class=\"verse-number\">3Â </span>Und viele VÃ¶lker werden gehen und sagen: Kommt und lasst uns hinaufgehen zum Berg des Herrn, zum Haus des Gottes Jakobs, und er wird uns in seinen Wegen unterweisen, und wir werden auf seinen Pfaden wandeln; denn von Zion wird das Gesetz ausgehen und des Herrn Wort von Jerusalem.",
+      "kor": "<span class=\"verse-number\">3 </span>ë ë§ì ë°±ì±ì´ ê°ë©° ì´ë¥´ê¸°ë¥¼, ëí¬ë ì¤ë¼, ì°ë¦¬ê° ì£¼ì ì°ì ì¼ê³±ì íëëì ì§ì ì¬ë¼ê°ì. ê·¸ê° ê·¸ì ê¸¸ì ê´í´ì ì°ë¦¬ìê² ê°ë¥´ì¹ìë¦¬ë, ì°ë¦¬ê° ê·¸ì ê¸¸ë¡ ííë¦¬ë¼ íë¦¬ë, ì´ë ìì¨ìì ì¨ë²ì´ ëì ê° ê²ì´ì, ì£¼ì ë§ìì´ ìë£¨ì´ë ì¼ë¡ë¶í° ëìê° ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">3 </span>E molti popoli andranno, e diranno: Venite, saliamo al monte del Signore, alla casa del Dio di Giacobbe; egli ci istruirÃ  sulle sue vie, e noi cammineremo sui suoi sentieri; poichÃ© da Sion uscirÃ  la legge, e da Gerusalemme la parola del Signore."
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plow-shares, and their spears into pruning-hooksânation shall not lift up sword against nation, neither shall they learn war any more.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙÙÙÙØ¶Ù Ø¨ÙÙÙÙÙ Ø§ÙÙØ£ÙÙÙÙÙØ ÙÙÙÙÙÙØ¨ÙÙØ®Ù Ø´ÙØ¹ÙØ¨ÙØ§ ÙÙØ«ÙØ±ÙØ©ÙØ ÙÙÙÙØ·ÙØ±ÙÙÙÙÙ ÙÙÙÙ Ø³ÙÙÙÙÙÙÙÙÙ ÙÙØ­Ø§Ø±ÙØ«Ù ÙÙÙÙÙÙ Ø±ÙÙØ§Ø­ÙÙÙÙÙ ÙÙÙØ§Ø¬ÙÙÙ. ÙØ§ ØªÙØ±ÙÙÙØ¹Ù Ø£ÙÙÙÙØ©Ù Ø³ÙÙÙÙÙØ§ Ø¹ÙÙÙ Ø£ÙÙÙÙØ©ÙØ ÙÙÙØ§ ÙÙØªÙØ¹ÙÙÙÙÙÙÙÙ Ø§ÙÙØ­ÙØ±ÙØ¨Ù ÙÙÙØ§ Ø¨ÙØ¹ÙØ¯Ù.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>は<ruby>国<rt>こく</rt></ruby><ruby>民<rt>みん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>裁<rt>さば</rt></ruby>きを<ruby>行<rt>おこな</rt></ruby>い、<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>を<ruby>責<rt>せ</rt></ruby>められる。<ruby>彼<rt>かれ</rt></ruby>らは<ruby>剣<rt>つるぎ</rt></ruby>を<ruby>鋤<rt>すき</rt></ruby><ruby>先<rt>さき</rt></ruby>に、<ruby>槍<rt>やり</rt></ruby>を<ruby>鎌<rt>かま</rt></ruby>に<ruby>打<rt>う</rt></ruby>ち<ruby>直<rt>なお</rt></ruby>し、<ruby>国<rt>こく</rt></ruby><ruby>民<rt>みん</rt></ruby>は<ruby>国<rt>こく</rt></ruby><ruby>民<rt>みん</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>剣<rt>つるぎ</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げず、<ruby>彼<rt>かれ</rt></ruby>らはもう<ruby>戦<rt>たたか</rt></ruby>いのことを<ruby>学<rt>まな</rt></ruby>ばない。",
+      "zhs": "祂必在列国中审判，责备许多人：他们要将刀打成犁头，把枪打成镰刀，这国不举刀攻击那国，他们也不再学习战事。",
+      "zht": "<span class=\"verse-number\">4ã</span>ç¥å¿å¨ååä¸­å¯©å¤ï¼è²¬åè¨±å¤äººï¼ä»åè¦å°åææçé ­ï¼ææ§ææé®åï¼éåä¸èåæ»æé£åï¼ä»åä¹ä¸åå­¸ç¿æ°äºã",
+      "spa": "Y juzgará entre las naciones, y reprenderá a muchos pueblos; y forjarán sus espadas en rejas de arado, y sus lanzas en hoces. No alzará espada nación contra nación, ni se adiestrarán más para la guerra.",
+      "por": "<span class=\"verse-number\">4 </span>E ele julgarÃ¡ as naÃ§Ãµes e repreenderÃ¡ muitos povos; e converterÃ£o as suas espadas em enxadas e as suas lanÃ§as em foicesÂ â nÃ£o levantarÃ¡ espada naÃ§Ã£o contra naÃ§Ã£o nem aprenderÃ£o mais a guerrear.",
+      "fra": "<span class=\"verse-number\">4Â </span>Il sera le juge des nations, lâarbitre dâun grand nombre de peuples. De leurs glaives ils forgeront des hoyaux, et de leurs lances des serpesÂ : une nation ne tirera plus lâÃ©pÃ©e contre une autre, et lâon nâapprendra plus la guerre.",
+      "deu": "<span class=\"verse-number\">4Â </span>Und er wird richten zwischen den Nationen und wird viele VÃ¶lker zurechtweisen: Und sie werden ihre Schwerter zu Pflugscharen umschmieden und ihre Speere zu WinzermessernÂ â Nation wird nicht das Schwert gegen Nation erheben, auch werden sie nicht mehr den Krieg lernen.",
+      "kor": "<span class=\"verse-number\">4 </span>ë ê·¸ê° ì´ë°© ê°ì´ë° ì¬ííìë©° ë§ì ë°±ì±ì ê¾¸ì§ì¼ìë¦¬ë, ê·¸ë¤ì´ ê·¸ ì¹¼ì ì³ì ë³´ìµì ë§ë¤ê³ , ê·¸ ì°½ì ì³ì ë«ì ë§ë¤ ê²ì´ë¼âëë¼ê° ëë¼ë¥¼ ëì íì¬ ì¹¼ì ë¤ì§ ìëí  ê²ì´ë©°, ê·¸ë¤ì´ ë ì´ì ì ìì ì°ìµíì§ ìëíë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">4 </span>Ed egli giudicherÃ  tra le nazioni e rimprovererÃ  molti popoli; ed essi forgeranno le loro spade in vomeri dâaratro, e le loro lance in roncoleÂ â nazione non alzerÃ  piÃ¹ la spada contro nazione, nÃ© impareranno piÃ¹ la guerra."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>O house of Jacob, come ye and let us walk in the light of the Lord; yea, come, for ye have all gone astray, every one to his wicked ways.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙØ§ Ø¨ÙÙÙØªÙ ÙÙØ¹ÙÙÙØ¨ÙØ ÙÙÙÙÙÙÙ ÙÙØ³ÙØ±Ù ÙÙ ÙÙØ±Ù Ø§ÙØ±ÙÙØ¨ÙÙØ Ø£ÙØ¬ÙÙÙØ ÙÙÙÙÙÙÙØ§Ø ÙÙØ¥ÙÙÙÙÙÙÙÙ Ø¬ÙÙÙØ¹ÙØ§ ÙÙØ¯Ù Ø¶ÙÙÙÙÙØªÙÙÙØ ÙÙÙÙÙ ÙØ§Ø­ÙØ¯Ù Ø¥ÙÙÙ Ø³ÙØ¨ÙÙÙÙÙ Ø§ÙØ´ÙÙØ±ÙÙØ±ÙØ©Ù.",
+      "jpn": "おお、ヤコブの<ruby>家<rt>いえ</rt></ruby>よ、さあ、わたしたちは<ruby>主<rt>しゅ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>歩<rt>あゆ</rt></ruby>もう。さあ、<ruby>歩<rt>あゆ</rt></ruby>もうではないか。あなたがたは<ruby>皆<rt>みな</rt></ruby>、これまで<ruby>悪<rt>あく</rt></ruby>の<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ってきた。",
+      "zhs": "雅各家啊，来吧，让我们在主的光明中行走；是的，来吧，你们都已步入歧途，各自走上自己的歹路。",
+      "zht": "<span class=\"verse-number\">5ã</span><u>éå</u>å®¶åï¼ä¾å§ï¼è®æåå¨ä¸»çåæä¸­è¡èµ°ï¼æ¯çï¼ä¾å§ï¼ä½ åé½å·²æ­¥å¥æ­§éï¼åèªèµ°ä¸èªå·±çæ­¹è·¯ã",
+      "spa": "Venid, oh casa de Jacob, y caminemos a la luz del Señor; sí, venid, porque todos os habéis descarriado, cada cual por sus sendas de maldad.",
+      "por": "<span class=\"verse-number\">5 </span>Vinde, Ã³ casa de JacÃ³, e andemos na luz do Senhor; sim, vinde, pois vÃ³s todos vos desviastes, cada um para seus caminhos inÃ­quos.",
+      "fra": "<span class=\"verse-number\">5Â </span>Maison de Jacob, venez, et marchons Ã  la lumiÃ¨re du SeigneurÂ ; oui, venez, car vous vous Ãªtes tous Ã©garÃ©s, chacun dans ses voies mauvaises.",
+      "deu": "<span class=\"verse-number\">5Â </span>O Haus Jakob, kommt und lasst uns wandeln im Licht des Herrn; ja, kommt, denn ihr seid alle in die Irre gegangen, ein jeder auf seinen schlechten Wegen.",
+      "kor": "<span class=\"verse-number\">5 </span>ì¼ê³±ì ì§ì´ì¬, ëí¬ë ì¤ë¼. ì°ë¦¬ê° ì£¼ì ë¹ ê°ì´ë° ííì. ì°¸ì¼ë¡ ì¤ë¼. ì´ë ëí¬ê° ëª¨ë ê·¸ë¦ ê°ì¼ë©°, ëª¨ëê° ê°ê° ìê¸°ì ìí ê¸¸ë¡ ê°ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">5 </span>O casato di Giacobbe, venite e camminiamo nella luce del Signore; sÃ¬, venite, poichÃ© vi siete tutti sviati, ciascuno per i suoi malvagi cammini."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Therefore, O Lord, thou hast forsaken thy people, the house of Jacob, because they be replenished from the east, and hearken unto soothsayers like the Philistines, and they please themselves in the children of strangers.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ¥ÙÙÙÙÙÙ ÙØ§ Ø±ÙØ¨ÙÙ ÙÙØ¯Ù Ø±ÙÙÙØ¶ÙØªÙ Ø´ÙØ¹ÙØ¨ÙÙÙØ Ø¨ÙÙÙØªÙ ÙÙØ¹ÙÙÙØ¨ÙØ ÙÙØ£ÙÙÙÙÙÙÙÙ Ø§ÙÙØªÙÙÙØ£ÙØ§ ÙÙÙÙ Ø³ÙØ­ÙØ±Ù Ø§ÙÙÙÙØ´ÙØ±ÙÙÙ ÙÙÙÙØµÙØºÙÙÙ ÙÙÙÙØ¹ÙØ±ÙØ§ÙÙÙÙ ÙÙØ§ÙÙÙÙÙÙØ³ÙØ·ÙÙÙÙÙÙÙÙØ ÙÙÙÙØ¹Ø§ÙÙØ¯ÙÙÙ Ø£ÙÙÙÙØ§Ø¯Ù Ø§ÙÙØºÙØ±ÙØ¨Ø§Ø¡Ù.",
+      "jpn": "それゆえ、おお、<ruby>主<rt>しゅ</rt></ruby>よ、あなたはあなたの<ruby>民<rt>たみ</rt></ruby>、ヤコブの<ruby>家<rt>いえ</rt></ruby>を<ruby>捨<rt>す</rt></ruby>てられた。それは<ruby>彼<rt>かれ</rt></ruby>らが、<ruby>東<rt>とう</rt></ruby><ruby>方<rt>ほう</rt></ruby>からのものを<ruby>国<rt>くに</rt></ruby>に<ruby>満<rt>み</rt></ruby>たし、ペリシテ<ruby>人<rt>びと</rt></ruby>のように<ruby>占<rt>うらな</rt></ruby>い<ruby>師<rt>し</rt></ruby>に<ruby>聴<rt>き</rt></ruby>き、<ruby>見<rt>み</rt></ruby><ruby>知<rt>し</rt></ruby>らぬ<ruby>者<rt>もの</rt></ruby>の<ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>たちと<ruby>交<rt>まじ</rt></ruby>わるのを<ruby>好<rt>この</rt></ruby>むからである。",
+      "zhs": "因此，主啊，您离弃了您人民雅各家，是因他们充满了东方的风俗，听从占卜者的话，像非利士人一样，并与陌生人的儿女寻欢作乐。",
+      "zht": "<span class=\"verse-number\">6ã</span>å æ­¤ï¼ä¸»åï¼æ¨é¢æ£äºæ¨äººæ°<u>éå</u>å®¶ï¼æ¯å ä»ååæ»¿äºæ±æ¹çé¢¨ä¿ï¼è½å¾å åèçè©±ï¼åéå©å£«äººä¸æ¨£ï¼ä¸¦èéçäººçåå¥³å°æ­¡ä½æ¨ã",
+      "spa": "Por lo que tú, oh Señor, has desamparado a tu pueblo, la casa de Jacob, porque llenos están de los modos de oriente, y escuchan a los agoreros como los filisteos, y con los hijos de extranjeros se enlazan.",
+      "por": "<span class=\"verse-number\">6 </span>Portanto, tu, Ã³ Senhor, desamparaste o teu povo, a casa de JacÃ³; porque estÃ£o cheios de costumes do oriente e dÃ£o ouvidos aos adivinhos como os filisteus; e associam-se com os filhos de estranhos.",
+      "fra": "<span class=\"verse-number\">6Â </span>Car, Ã´ Seigneur, tu as abandonnÃ© ton peuple, la maison de Jacob, parce quâils sont pleins de lâOrient, et Ã©coutent la magie comme les Philistins, et parce quâils sâallient aux fils des Ã©trangers.",
+      "deu": "<span class=\"verse-number\">6Â </span>Darum, o Herr, hast du dein Volk, das Haus Jakob, verlassen, weil es vom Osten vÃ¶llig beeinflusst wird und auf Wahrsager hÃ¶rt wie die Philister, und es hat Gefallen an den Kindern der Fremden.",
+      "kor": "<span class=\"verse-number\">6 </span>ê·¸ë¬ë¯ë¡ ì£¼ì¬, ì£¼ê»ì ì£¼ì ë°±ì± ì¼ê³±ì ì§ì ë²ë¦¬ì¨ëë, ì´ë ê·¸ë¤ì´ ëë°©ìì ì±ìì§ë©° ë¸ë ì ì¬ëê°ì´ ì ê°ì ë§ì ë¤ì¼ë©°, ì¸ì¸ì ìëë¤ ê°ì´ë°ì ê¸°ë»í¨ì´ëì´ë¤.",
+      "ita": "<span class=\"verse-number\">6 </span>PerciÃ² tu, o Signore, hai abbandonato il tuo popolo, il casato di Giacobbe, perchÃ© son pieni di pratiche orientali, danno ascolto agli indovini come i Filistei, e trovano piacere con i figli degli stranieri."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙØ§ÙÙØªÙÙÙØ£ÙØªÙ Ø£ÙØ±ÙØ¶ÙÙÙÙÙ ÙÙØ¶ÙÙØ©Ù ÙÙØ°ÙÙÙØ¨ÙØ§Ø ÙÙÙØ§ Ø­ÙØ¯ÙÙ ÙÙÙÙÙÙØ²ÙÙÙÙÙØ ÙÙØ§ÙÙØªÙÙÙØ£ÙØªÙ Ø£ÙØ±ÙØ¶ÙÙÙÙÙ Ø®ÙÙÙÙÙØ§ ÙÙÙÙØ±ÙÙÙØ¨Ø§ØªÙÙÙÙÙ ÙØ§ ØªÙØ­ÙØµÙ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らの<ruby>地<rt>ち</rt></ruby>には<ruby>銀<rt>ぎん</rt></ruby>と<ruby>金<rt>きん</rt></ruby>が<ruby>満<rt>み</rt></ruby>ち、<ruby>彼<rt>かれ</rt></ruby>らの<ruby>宝<rt>たから</rt></ruby>には<ruby>限<rt>かぎ</rt></ruby>りがない。<ruby>彼<rt>かれ</rt></ruby>らの<ruby>地<rt>ち</rt></ruby>には<ruby>馬<rt>うま</rt></ruby>も<ruby>満<rt>み</rt></ruby>ち、<ruby>戦<rt>せん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>も<ruby>限<rt>かぎ</rt></ruby>りなくある。",
+      "zhs": "他们的地满了金银，财宝也无穷；他们的地也满了马匹，车辆也无数。",
+      "zht": "<span class=\"verse-number\">7ã</span>ä»åçå°æ»¿äºééï¼è²¡å¯¶ä¹ç¡çª®ï¼ä»åçå°ä¹æ»¿äºé¦¬å¹ï¼è»è¼ä¹ç¡æ¸ã",
+      "spa": "Su tierra también está llena de plata y oro, sus tesoros no tienen fin; también su tierra está llena de caballos, y sus carros son sin número.",
+      "por": "<span class=\"verse-number\">7 </span>Sua terra tambÃ©m estÃ¡ cheia de prata e ouro, nÃ£o tÃªm fim os seus tesouros; tambÃ©m estÃ¡ cheia a sua terra de cavalos e os seus carros nÃ£o tÃªm fim.",
+      "fra": "<span class=\"verse-number\">7Â </span>Le pays est rempli dâargent et dâor, et il y a des trÃ©sors sans finÂ ; le pays est rempli de chevaux, et il y a des chars sans nombre.",
+      "deu": "<span class=\"verse-number\">7Â </span>Sein Land ist auch voller Silber und Gold, und seiner SchÃ¤tze ist kein Ende; sein Land ist auch voller Rosse, und seiner Kampfwagen ist kein Ende.",
+      "kor": "<span class=\"verse-number\">7 </span>ê·¸ë¤ì ëìë ëí ìê³¼ ê¸ì´ ê°ëíê³  ê·¸ë¤ì ë³´í ëí ëì´ ìì¼ë©°, ê·¸ë¤ì ëìë ëí ë§ì´ ê°ëíê³  ê·¸ë¤ì ë³ê±° ëí ëì´ ìëëë¼.",
+      "ita": "<span class=\"verse-number\">7 </span>Il loro paese Ã¨ anche pieno dâargento e dâoro, e non câÃ¨ fine ai loro tesori; il loro paese Ã¨ anche pieno di cavalli, e non câÃ¨ fine ai loro carri."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>Their land is also full of idols; they worship the work of their own hands, that which their own fingers have made.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙØ£ÙØ±ÙØ¶ÙÙÙÙÙ ÙÙÙÙØ¦ÙØ©Ù Ø¨ÙØ§ÙÙØ£ÙÙÙØ«Ø§ÙÙ. ÙÙØ³ÙØ¬ÙØ¯ÙÙÙ ÙÙØ¹ÙÙÙÙÙ Ø£ÙÙÙØ¯ÙÙÙÙÙØ ÙØ§ ØµÙÙÙØ¹ÙØªÙÙÙ Ø£ÙØµØ§Ø¨ÙØ¹ÙÙÙÙÙ.",
+      "jpn": "<ruby>彼<rt>かれ</rt></ruby>らの<ruby>地<rt>ち</rt></ruby>には<ruby>偶<rt>ぐう</rt></ruby><ruby>像<rt>ぞう</rt></ruby>も<ruby>満<rt>み</rt></ruby>ち、<ruby>彼<rt>かれ</rt></ruby>らは<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>手<rt>て</rt></ruby>の<ruby>業<rt>わざ</rt></ruby>、すなわち<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>身<rt>しん</rt></ruby>の<ruby>指<rt>ゆび</rt></ruby>で<ruby>造<rt>つく</rt></ruby>ったものを<ruby>拝<rt>おが</rt></ruby>む。",
+      "zhs": "他们的地也满了偶像；他们跪拜自己手所造的，就是自己指头所做的。",
+      "zht": "<span class=\"verse-number\">8ã</span>ä»åçå°ä¹æ»¿äºå¶åï¼ä»åè·ªæèªå·±ææé çï¼å°±æ¯èªå·±æé ­æåçã",
+      "spa": "Su tierra también está llena de ídolos; adoran la obra de sus propias manos, aquello que han hecho sus mismos dedos.",
+      "por": "<span class=\"verse-number\">8 </span>TambÃ©m estÃ¡ cheia a sua terra de Ã­dolos; adoram a obra das suas mÃ£os, aquilo que fabricaram os seus dedos.",
+      "fra": "<span class=\"verse-number\">8Â </span>Le pays est rempli dâidolesÂ ; ils se prosternent devant lâouvrage de leurs mains, devant ce que leurs doigts ont fabriquÃ©.",
+      "deu": "<span class=\"verse-number\">8Â </span>Sein Land ist auch voller GÃ¶tzen; es betet das Werk seiner eigenen HÃ¤nde an, das, was seine Finger selbst gemacht haben.",
+      "kor": "<span class=\"verse-number\">8 </span>ê·¸ë¤ì ëìë ëí ì°ìë¤ì´ ê°ëíë©°, ê·¸ë¤ì ìê¸°ì ìê°ë½ì´ ë§ë  ë° ìê¸°ì ìì´ ì§ì ê²ì ê²½ë°°íëë¼.",
+      "ita": "<span class=\"verse-number\">8 </span>Il loro paese Ã¨ anche pieno dâidoli; essi adorano lâopera delle loro mani, ciÃ² che le loro dita hanno fatto."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>And the mean man boweth not down, and the great man humbleth himself not, therefore, forgive him not.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙÙØ§ ÙÙÙÙØ­ÙÙÙ Ø§ÙÙØ¥ÙÙÙØ³Ø§ÙÙ Ø§ÙØ¯ÙÙÙÙØ¡ÙØ ÙÙÙØ§ ÙÙØªÙÙØ¶ÙØ¹Ù Ø§ÙÙØ¥ÙÙÙØ³Ø§ÙÙ Ø§ÙÙØ¹ÙØ¸ÙÙÙØ ÙÙÙØ§ ØªÙØºÙÙÙØ±Ù ÙÙÙÙ.",
+      "jpn": "<ruby>地<rt>ち</rt></ruby><ruby>位<rt>い</rt></ruby>の<ruby>低<rt>ひく</rt></ruby>い<ruby>者<rt>もの</rt></ruby>は<ruby>身<rt>み</rt></ruby>をかがめず、<ruby>地<rt>ち</rt></ruby><ruby>位<rt>い</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>者<rt>もの</rt></ruby>はへりくだらない。それゆえ、<ruby>彼<rt>かれ</rt></ruby>をお<ruby>赦<rt>ゆる</rt></ruby>しにならないように。",
+      "zhs": "卑贱人不屈膝，尊贵人不谦卑，所以不可饶恕他。",
+      "zht": "<span class=\"verse-number\">9ã</span>åè³¤äººä¸å±èï¼å°è²´äººä¸è¬åï¼æä»¥ä¸å¯é¥æä»ã",
+      "spa": "Y el hombre común no se inclina, ni el grande se humilla; por tanto, no lo perdones.",
+      "por": "<span class=\"verse-number\">9 </span>E o malvado nÃ£o se inclina e o grande nÃ£o se humilha; portanto, nÃ£o o perdoes.",
+      "fra": "<span class=\"verse-number\">9Â </span>Les petits ne sâinclinent pas, et les grands ne sâhumilient pas, tu ne leur pardonneras point.",
+      "deu": "<span class=\"verse-number\">9Â </span>Und der gemeine Mann beugt sich nicht nieder, und der groÃe Mann demÃ¼tigt sich nicht; darum verzeih ihm nicht.",
+      "kor": "<span class=\"verse-number\">9 </span>ë ì²í ìë ì íì§ ìëíê³  í° ìë ì¤ì¤ë¡ ê²¸ìíì§ ìëíì¤ë, ê·¸ë¬ë¯ë¡ ê·¸ë¥¼ ì©ìíì§ ë§ìµìì.",
+      "ita": "<span class=\"verse-number\">9 </span>E lâuomo comune non si prostra, e il grande non si umilia; dunque non lo perdonare."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>O ye wicked ones, enter into the rock, and hide thee in the dust, for the fear of the Lord and the glory of his majesty shall smite thee.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>Ø£ÙÙÙÙÙØ§ Ø§ÙÙØ£ÙØ´ÙØ±Ø§Ø±ÙØ Ø§Ø¯ÙØ®ÙÙÙØ§ Ø¥ÙÙÙ Ø§ÙØµÙÙØ®ÙØ±ÙØ©Ù ÙÙØ§Ø®ÙØªÙØ¨ÙØ¦ÙØ§ ÙÙ Ø§ÙØ±ÙÙÙÙÙÙØ ÙÙØ£ÙÙÙÙ ÙÙÙÙØ¨ÙØ©Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¨ÙÙØ§Ø¡Ù Ø¹ÙØ¸ÙÙÙØªÙÙÙ ØªÙØ¶ÙØ±ÙØ¨ÙÙÙÙÙ.",
+      "jpn": "おお、あなたがた<ruby>悪<rt>あく</rt></ruby><ruby>人<rt>にん</rt></ruby>たちよ、<ruby>岩<rt>いわ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>り、<ruby>土<rt>つち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>隠<rt>かく</rt></ruby>れよ。<ruby>主<rt>しゅ</rt></ruby>への<ruby>畏<rt>おそ</rt></ruby>れと<ruby>主<rt>しゅ</rt></ruby>の<ruby>尊<rt>そん</rt></ruby><ruby>厳<rt>げん</rt></ruby>の<ruby>輝<rt>かがや</rt></ruby>きが、あなたがたを<ruby>打<rt>う</rt></ruby>つからである。",
+      "zhs": "恶人啊，你当因敬畏主而进入岩石，藏在土中，祂威严的荣光必击打你。",
+      "zht": "<span class=\"verse-number\">10ã</span>æ¡äººåï¼ä½ ç¶å æ¬çä¸»èé²å¥å·ç³ï¼èå¨åä¸­ï¼ç¥å¨å´çæ¦®åå¿ææä½ ã",
+      "spa": "¡Oh malvados, meteos en la peña y escondeos en el polvo! Porque el temor del Señor y la gloria de su majestad os herirán.",
+      "por": "<span class=\"verse-number\">10 </span>Ã inÃ­quos, entrai na rocha e escondei-vos no pÃ³, porque o temor do Senhor e a glÃ³ria da sua majestade vos ferirÃ£o.",
+      "fra": "<span class=\"verse-number\">10Â </span>Ã mÃ©chants, entrez dans les rochers, et cachez-vous dans la poussiÃ¨re, car la terreur du Seigneur et lâÃ©clat de sa majestÃ© vous frapperont.",
+      "deu": "<span class=\"verse-number\">10Â </span>O ihr Schlechten, steigt in den Felsen, und verbirg dich im Staub, denn der Schrecken des Herrn und die Herrlichkeit seiner MajestÃ¤t werden dich schlagen.",
+      "kor": "<span class=\"verse-number\">10 </span>ëí¬ ê°ìí ìë¤ì, ë°ì ìì¼ë¡ ë¤ì´ê°ë©° íë¨¼ì§ì ì¨ì¼ë¼, ì´ë ì£¼ì ëë ¤ìê³¼ ê·¸ì ììì ìê´ì´ ëë¥¼ ì¹  ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">10 </span>O voi malvagi, entrate nella roccia e nascondetevi nella polvere, poichÃ© il timore del Signore e la gloria della sua maestÃ  vi colpiranno."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>And it shall come to pass that the lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the Lord alone shall be exalted in that day.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙÙÙÙÙÙÙ Ø£ÙÙÙÙ ÙÙØ¸ÙØ±Ø§ØªÙ Ø§ÙÙØ¥ÙÙÙØ³Ø§ÙÙ Ø§ÙÙÙÙØªÙØ´Ø§ÙÙØ®ÙØ©Ù ØªÙØ°ÙÙÙÙØ ÙÙØªÙØ®ÙØ²Ù Ø±ÙÙÙØ¹ÙØ©Ù Ø§ÙÙÙØ§Ø³ÙØ ÙÙÙÙØªÙØ¹ÙØ¸ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ­ÙØ¯ÙÙÙ ÙÙ Ø°Ù°ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ.",
+      "jpn": "そしてその<ruby>日<rt>ひ</rt></ruby>には、<ruby>目<rt>め</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げて<ruby>高<rt>たか</rt></ruby>ぶる<ruby>者<rt>もの</rt></ruby>は<ruby>低<rt>ひく</rt></ruby>くされ、<ruby>傲<rt>ごう</rt></ruby><ruby>慢<rt>まん</rt></ruby>な<ruby>者<rt>もの</rt></ruby>はかがめられ、ただ<ruby>主<rt>しゅ</rt></ruby>だけが<ruby>高<rt>たか</rt></ruby>められる。",
+      "zhs": "事情将是这样，眼目狂妄的人必谦卑，高傲的人必屈膝；在那日，唯独主被尊崇。",
+      "zht": "<span class=\"verse-number\">11ã</span>äºæå°æ¯éæ¨£ï¼ç¼ç®çå¦çäººå¿è¬åï¼é«å²çäººå¿å±èï¼å¨é£æ¥ï¼å¯ç¨ä¸»è¢«å°å´ã",
+      "spa": "Y sucederá que la mirada altiva del hombre será abatida, y la soberbia de los hombres será humillada, y solo el Señor será exaltado en aquel día.",
+      "por": "<span class=\"verse-number\">11 </span>E acontecerÃ¡ que os olhares altivos dos homens serÃ£o humilhados e a altivez dos varÃµes serÃ¡ abatida; e sÃ³ o Senhor serÃ¡ exaltado naquele dia.",
+      "fra": "<span class=\"verse-number\">11Â </span>Et il arrivera que lâhomme au regard hautain sera abaissÃ©, et lâorgueilleux sera humiliÃ©Â : le Seigneur seul sera Ã©levÃ© ce jour-lÃ .",
+      "deu": "<span class=\"verse-number\">11Â </span>Und es wird sich begeben: Die stolzen Blicke des Menschen werden erniedrigt und der Hochmut der Menschen wird niedergebeugt werden, und der Herr allein wird erhÃ¶ht sein an jenem Tag.",
+      "kor": "<span class=\"verse-number\">11 </span>ë ì´ë ê² ëë¦¬ë ê·¸ ë ì ì¬ëì êµë§í ëê¸¸ì´ ë®ìì§ê³ , ì¬ëë¤ì ê±°ë§í¨ì´ êµ´ë³µëê³  ì£¼ê»ì íë¡ ëìì ë°ì¼ìë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">11 </span>E avverrÃ  che lo sguardo altero dellâuomo sarÃ  umiliato, e la superbia degli uomini sarÃ  prostrata, e solo il Signore verrÃ  esaltato in quel giorno."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>For the day of the Lord of <span class=\"page-break\" data-page=\"82\"></span>Hosts soon cometh upon all nations, yea, upon every one; yea, upon the proud and lofty, and upon every one who is lifted up, and he shall be brought low.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ¥ÙÙÙÙ ÙÙØ±ÙØ¨ÙÙ Ø§ÙÙØ¬ÙÙÙØ¯Ù ÙÙÙÙÙÙØ§ ÙÙØ£ÙØªÙ ÙÙØ±ÙØ¨ÙØ§ Ø¹ÙÙÙ ÙÙÙÙÙ Ø§ÙÙØ£ÙÙÙÙÙØ Ø£ÙØ¬ÙÙÙØ Ø¹ÙÙÙ Ø§ÙÙØ¬ÙÙÙØ¹ÙØ Ø£ÙØ¬ÙÙÙØ Ø¹ÙÙÙ Ø§ÙÙÙÙØªÙØ´Ø§ÙÙØ®Ù ÙÙØ§ÙÙÙÙØªÙÙÙØ¨ÙÙØ±ÙØ ÙÙØ¹ÙÙÙ ÙÙÙÙÙ ÙÙØªÙØ¹Ø§ÙÙØ ÙÙÙÙØ°ÙÙÙÙ.",
+      "jpn": "それは、<ruby>万<rt>ばん</rt></ruby><ruby>軍<rt>ぐん</rt></ruby>の<ruby>主<rt>しゅ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>が<ruby>間<rt>ま</rt></ruby>もなくすべての<ruby>国<rt>こく</rt></ruby><ruby>民<rt>みん</rt></ruby>に、まことにすべての<ruby>者<rt>もの</rt></ruby>に、すなわち、<ruby>誇<rt>ほこ</rt></ruby>り<ruby>高<rt>たか</rt></ruby>ぶる<ruby>者<rt>もの</rt></ruby>に、また<ruby>思<rt>おも</rt></ruby>い<ruby>上<rt>あ</rt></ruby>がるすべての<ruby>者<rt>もの</rt></ruby>に<ruby>臨<rt>のぞ</rt></ruby>んで、その<ruby>者<rt>もの</rt></ruby>は<ruby>低<rt>ひく</rt></ruby>くされるからである。",
+      "zhs": "万军之主的日子即将临到各族，是的，临到每一个人，是的，临到骄傲狂妄的，临到每个自高的人，他必降为卑。",
+      "zht": "<span class=\"verse-number\">12ã</span>è¬è»ä¹ä¸»çæ¥å­å³å°è¨å°åæï¼æ¯çï¼è¨å°æ¯ä¸åäººï¼æ¯çï¼è¨å°é©å²çå¦çï¼è¨å°æ¯åèªé«çäººï¼ä»å¿éçºåã",
+      "spa": "Porque el día del Señor de los Ejércitos pronto vendrá sobre todas las naciones, sí, sobre cada una; sí, sobre el orgulloso y soberbio, y sobre todo el que se ensalza; y serán abatidos.",
+      "por": "<span class=\"verse-number\">12 </span>Pois o dia do Senhor dos ExÃ©rcitos logo virÃ¡ a todas as naÃ§Ãµes; sim, a todas; sim, ao soberbo e altivo e a todo o que se exalta; e ele serÃ¡ humilhado.",
+      "fra": "<span class=\"verse-number\">12Â </span>Car le jour du Seigneur des armÃ©es viendra bientÃ´t contre toutes les nations, oui, contre toutesÂ ; oui, contre les orgueilleux et les hautains, contre quiconque sâÃ©lÃ¨ve, afin quâil soit abaissÃ©.",
+      "deu": "<span class=\"verse-number\">12Â </span>Denn der Tag des Herrn der Heerscharen kommt bald Ã¼ber alle Nationen, ja, Ã¼ber eine jede; ja, Ã¼ber die Stolzen und HochmÃ¼tigen und Ã¼ber jeden, der Ã¼berheblich ist, und er wird erniedrigt werden.",
+      "kor": "<span class=\"verse-number\">12 </span>ì´ë ë§êµ°ì ì£¼ì ë ì´ ê³§ ëª¨ë  êµ­ë¯¼ìê² ì°¸ì¼ë¡ ëª¨ë  ììê² ìí¨ì´ë, ì°¸ì¼ë¡ êµë§íê³  ê±°ë§í ììê²ì ëª¨ë  ìê³ í ììê² ìíì¦ ê·¸ë¤ì´ ë®ìì§ê² ë¸ë¼.",
+      "ita": "<span class=\"verse-number\">12 </span>PoichÃ© il giorno del Signore degli eserciti viene presto su tutte le nazioni, sÃ¬, su ognuna; sÃ¬, sullâorgoglioso e lâaltero, e su chiunque Ã¨ arrogante; e sarÃ  abbassato."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>Yea, and the day of the Lord shall come upon all the cedars of Lebanon, for they are high and lifted up; and upon all the oaks of Bashan;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>Ø£ÙØ¬ÙÙÙØ ÙÙÙÙØ£ÙØªÙ ÙÙÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ Ø¹ÙÙÙ ÙÙÙÙÙ Ø£ÙØ±ÙØ²Ù ÙÙØ¨ÙÙØ§ÙÙØ ÙÙØ£ÙÙÙÙÙÙ Ø¹Ø§ÙÙ ÙÙÙÙØ±ÙØªÙÙÙØ¹ÙØ ÙÙØ¹ÙÙÙ ÙÙÙÙÙ Ø¨ÙÙÙØ·Ù Ø¨Ø§Ø´Ø§ÙÙØ",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は、レバノンの<ruby>杉<rt>すぎ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くそびえているために、そのすべての<ruby>杉<rt>すぎ</rt></ruby>に<ruby>臨<rt>のぞ</rt></ruby>み、またバシャンのすべてのかしの<ruby>木<rt>き</rt></ruby>に<ruby>臨<rt>のぞ</rt></ruby>む。",
+      "zhs": "是的，主的日子必临到黎巴嫩所有的香柏树，因为它们既高且傲；也必临到巴珊所有的橡树。",
+      "zht": "<span class=\"verse-number\">13ã</span>æ¯çï¼ä¸»çæ¥å­å¿è¨å°<u>é»å·´å«©</u>ææçé¦ææ¨¹ï¼å çºå®åæ¢é«ä¸å²ï¼ä¹å¿è¨å°<u>å·´ç</u>ææçæ©¡æ¨¹ã",
+      "spa": "Sí, y el día del Señor vendrá sobre todos los cedros del Líbano, porque son altos y erguidos; y sobre todas las encinas de Basán;",
+      "por": "<span class=\"verse-number\">13 </span>Sim, e o dia do Senhor virÃ¡ a todos os cedros do LÃ­bano, porque sÃ£o altos e imponentes; e a todos os carvalhos de BasÃ£.",
+      "fra": "<span class=\"verse-number\">13Â </span>Oui, et le jour du Seigneur viendra contre tous les cÃ¨dres du Liban, car ils sont hauts et Ã©levÃ©s, et contre tous les chÃªnes de BasanÂ ;",
+      "deu": "<span class=\"verse-number\">13Â </span>Ja, und der Tag des Herrn wird Ã¼ber alle Zedern des Libanon kommen, denn sie sind hoch und Ã¼berheblich, und Ã¼ber alle Eichen von Baschan;",
+      "kor": "<span class=\"verse-number\">13 </span>ì°¸ì¼ë¡ ëí ì£¼ì ë ì´ ë ë°ë¼ì ëª¨ë  ë°±í¥ëª©ì ìíë¦¬ë, ì´ë ê·¸ë¤ì´ ëê³  ìê³ í¨ì´ë©° ë ë°ì°ì ëª¨ë  ììë¦¬ ëë¬´ì,",
+      "ita": "<span class=\"verse-number\">13 </span>SÃ¬, e il giorno del Signore verrÃ  su tutti i cedri del Libano, perchÃ© sono alti e arroganti; e su tutte le querce di Basan."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>And upon all the high mountains, and upon all the hills, and upon all the nations which are lifted up, and upon every people;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ¹ÙÙÙ ÙÙÙÙÙ Ø§ÙÙØ¬ÙØ¨Ø§ÙÙ Ø§ÙÙØ¹Ø§ÙÙÙÙØ©ÙØ ÙÙØ¹ÙÙÙ ÙÙÙÙÙ Ø§ÙØªÙÙÙØ§ÙÙØ ÙÙØ¹ÙÙÙ ÙÙÙÙÙ Ø§ÙÙØ£ÙÙÙÙÙ Ø§ÙÙÙÙØªÙØ¹Ø§ÙÙÙÙØ©ÙØ ÙÙØ¹ÙÙÙ ÙÙÙÙÙ Ø´ÙØ¹ÙØ¨ÙØ",
+      "jpn": "また、すべての<ruby>高<rt>たか</rt></ruby>い<ruby>山<rt>やま</rt></ruby>、すべての<ruby>丘<rt>おか</rt></ruby>、<ruby>思<rt>おも</rt></ruby>い<ruby>上<rt>あ</rt></ruby>がるすべての<ruby>国<rt>こく</rt></ruby><ruby>民<rt>みん</rt></ruby>、すべての<ruby>人<rt>ひと</rt></ruby>、",
+      "zhs": "又临到每一座高山，每一座峻岭，又临到每一个高傲的国家，也临到各民族。",
+      "zht": "<span class=\"verse-number\">14ã</span>åè¨å°æ¯ä¸åº§é«å±±ï¼æ¯ä¸åº§å³»å¶ºï¼åè¨å°æ¯ä¸åé«å²çåå®¶ï¼ä¹è¨å°åæ°æã",
+      "spa": "y sobre todos los montes altos, y sobre todos los collados; y sobre todas las naciones que se ensalcen, y sobre todo pueblo;",
+      "por": "<span class=\"verse-number\">14 </span>E a todos os montes altos e a todos os outeiros; e a todas as naÃ§Ãµes que se exaltam e a todos os povos.",
+      "fra": "<span class=\"verse-number\">14Â </span>contre toutes les hautes montagnes, et contre toutes les collines, et contre toutes les nations qui sont Ã©levÃ©es, et contre tous les peuplesÂ ;",
+      "deu": "<span class=\"verse-number\">14Â </span>und Ã¼ber alle hohen Berge und Ã¼ber alle HÃ¼gel und Ã¼ber alle Nationen, die Ã¼berheblich sind, und Ã¼ber jedes Volk;",
+      "kor": "<span class=\"verse-number\">14 </span>ë ëª¨ë  ëì ì°ì, ë ëª¨ë  ì¸ëì, ë ìê³ í ëª¨ë  êµ­ë¯¼ìê², ë ëª¨ë  ë°±ì±ìê²,",
+      "ita": "<span class=\"verse-number\">14 </span>E su tutti gli alti monti, e su tutti i colli, e su tutte le nazioni che sono arroganti, e su ogni popolo."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>And upon every high tower, and upon every fenced wall;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙØ¹ÙÙÙ ÙÙÙÙÙ Ø¨ÙØ±ÙØ¬Ù Ø¹Ø§ÙÙ ÙÙØ¹ÙÙÙ ÙÙÙÙÙ Ø³ÙØ±Ù ÙÙÙÙØ¹ÙØ",
+      "jpn": "また、すべての<ruby>高<rt>たか</rt></ruby>いやぐら、すべての<ruby>堅<rt>けん</rt></ruby><ruby>固<rt>ご</rt></ruby>な<ruby>城<rt>じょう</rt></ruby><ruby>壁<rt>へき</rt></ruby>、",
+      "zhs": "又临到各高塔，和一切坚固城墙。",
+      "zht": "<span class=\"verse-number\">15ã</span>åè¨å°åé«å¡ï¼åä¸åå åºåçã",
+      "spa": "y sobre toda torre alta, y sobre todo muro reforzado;",
+      "por": "<span class=\"verse-number\">15 </span>E a toda torre alta e a todo muro reforÃ§ado.",
+      "fra": "<span class=\"verse-number\">15Â </span>contre toutes les hautes tours, et contre toutes les murailles fortifiÃ©esÂ ;",
+      "deu": "<span class=\"verse-number\">15Â </span>und Ã¼ber jeden hohen Turm und Ã¼ber jede gesicherte Mauer;",
+      "kor": "<span class=\"verse-number\">15 </span>ë ëª¨ë  ëì ë§ëì, ë ëª¨ë  ê²¬ê³ í ì±ë²½ì,",
+      "ita": "<span class=\"verse-number\">15 </span>E su ogni alta torre, e su ogni muro fortificato;"
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>And upon all the ships of the sea, and upon all the ships of Tarshish, and upon all pleasant pictures.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙØ¹ÙÙÙ ÙÙÙÙÙ Ø³ÙÙÙÙÙ Ø§ÙÙØ¨ÙØ­ÙØ±ÙØ ÙÙØ¹ÙÙÙ ÙÙÙÙÙ Ø³ÙÙÙÙÙ ØªÙØ±ÙØ´ÙØ´ÙØ ÙÙØ¹ÙÙÙ ÙÙÙÙÙ Ø§ÙØµÙÙÙÙØ±Ù Ø§ÙÙØ¨ÙÙÙØ¬ÙØ©Ù.",
+      "jpn": "また、<ruby>海<rt>うみ</rt></ruby>のすべての<ruby>船<rt>ふね</rt></ruby>、タルシシのすべての<ruby>船<rt>ふね</rt></ruby>、すべての<ruby>好<rt>この</rt></ruby>ましい<ruby>景<rt>け</rt></ruby><ruby>色<rt>しき</rt></ruby>に<ruby>臨<rt>のぞ</rt></ruby>む。",
+      "zhs": "又临到海中的每艘船只，又临到他施的每艘船只，并各种可爱的景象。",
+      "zht": "<span class=\"verse-number\">16ã</span>åè¨å°æµ·ä¸­çæ¯èè¹é»ï¼åè¨å°<u>ä»æ½</u>çæ¯èè¹é»ï¼ä¸¦åç¨®å¯æçæ¯è±¡ã",
+      "spa": "y sobre todos los barcos del mar, y sobre toda nave de Tarsis, y sobre todos los panoramas agradables.",
+      "por": "<span class=\"verse-number\">16 </span>E a todos os navios do mar e a todos os navios de TÃ¡rsis e a todos os cenÃ¡rios agradÃ¡veis.",
+      "fra": "<span class=\"verse-number\">16Â </span>contre tous les navires de la mer, et contre tous les navires de Tarsis, et contre tout ce qui plaÃ®t Ã  la vue.",
+      "deu": "<span class=\"verse-number\">16Â </span>und Ã¼ber alle Schiffe des Meeres und Ã¼ber alle Schiffe von Tarschisch und Ã¼ber alle gefÃ¤lligen Bilder.",
+      "kor": "<span class=\"verse-number\">16 </span>ë ë°ë¤ì ëª¨ë  ë°°ì, ë ë¤ìì¤ì ëª¨ë  ë°°ì, ë ëª¨ë  ìë¦ë¤ì´ íê²½ ìì ìíë¦¬ë,",
+      "ita": "<span class=\"verse-number\">16 </span>E su tutte le navi del mare, e su tutte le navi di Tarsis, e su tutte le scene piacevoli."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low; and the Lord alone shall be exalted in that day.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙÙÙØ°ÙÙÙÙ ÙÙØ¨ÙØ±ÙÙØ§Ø¡Ù Ø§ÙÙÙØ§Ø³ÙØ ÙÙÙÙØ­ÙØ·ÙÙÙÙ ØªÙØ´Ø§ÙÙØ®ÙÙÙÙÙØ ÙÙÙÙØªÙØ¹ÙØ¸ÙÙÙÙ Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ­ÙØ¯ÙÙÙ ÙÙ Ø°Ù°ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ.",
+      "jpn": "その<ruby>日<rt>ひ</rt></ruby>には、<ruby>高<rt>たか</rt></ruby>ぶる<ruby>者<rt>もの</rt></ruby>はかがめられ、<ruby>傲<rt>ごう</rt></ruby><ruby>慢<rt>まん</rt></ruby>な<ruby>者<rt>もの</rt></ruby>は<ruby>低<rt>ひく</rt></ruby>くされ、ただ<ruby>主<rt>しゅ</rt></ruby>だけが<ruby>高<rt>たか</rt></ruby>められる。",
+      "zhs": "狂妄的人必屈膝，高傲的人必降卑，在那日，唯独主被尊崇。",
+      "zht": "<span class=\"verse-number\">17ã</span>çå¦çäººå¿å±èï¼é«å²çäººå¿éåï¼å¨é£æ¥ï¼å¯ç¨ä¸»è¢«å°å´ã",
+      "spa": "Y la altivez del hombre será abatida, humillada será la soberbia de los hombres; y solo el Señor será ensalzado en aquel día.",
+      "por": "<span class=\"verse-number\">17 </span>E a altivez do homem serÃ¡ abatida, humilhada serÃ¡ a sua soberba; e sÃ³ o Senhor serÃ¡ exaltado naquele dia.",
+      "fra": "<span class=\"verse-number\">17Â </span>Lâhomme orgueilleux sera humiliÃ©, et le hautain sera abaissÃ©Â ; le Seigneur seul sera Ã©levÃ© ce jour-lÃ .",
+      "deu": "<span class=\"verse-number\">17Â </span>Und der Hochmut des Menschen wird niedergebeugt werden, und der DÃ¼nkel der Menschen wird erniedrigt werden; und der Herr allein wird erhÃ¶ht sein an jenem Tag.",
+      "kor": "<span class=\"verse-number\">17 </span>ë ê·¸ ë ì ì¬ëì êµë§í¨ì êµ´ë³µëë©°, ì¬ëë¤ì ê±°ë§í¨ì ë®ìì§ê³ , ì£¼ê»ì íë¡ ëìì ë°ì¼ì¤ ê²ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">17 </span>E lâalterigia dellâuomo sarÃ  prostrata, e la superbia degli uomini sarÃ  abbattuta; e solo il Signore verrÃ  esaltato in quel giorno."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>And the idols he shall utterly abolish.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙØªÙØ²ÙÙÙ Ø§ÙÙØ£ÙÙÙØ«Ø§ÙÙ Ø¨ÙØ§ÙÙÙØ§ÙÙÙÙ.",
+      "jpn": "そして、<ruby>主<rt>しゅ</rt></ruby>は<ruby>偶<rt>ぐう</rt></ruby><ruby>像<rt>ぞう</rt></ruby>をことごとく<ruby>廃<rt>はい</rt></ruby>される。",
+      "zhs": "偶像祂必全然废弃。",
+      "zht": "<span class=\"verse-number\">18ã</span>å¶åç¥å¿å¨ç¶å»¢æ£ã",
+      "spa": "Y quitará por completo los ídolos.",
+      "por": "<span class=\"verse-number\">18 </span>E os Ã­dolos ele totalmente abolirÃ¡.",
+      "fra": "<span class=\"verse-number\">18Â </span>Toutes les idoles disparaÃ®tront.",
+      "deu": "<span class=\"verse-number\">18Â </span>Und die GÃ¶tzen wird er vÃ¶llig abschaffen.",
+      "kor": "<span class=\"verse-number\">18 </span>ë ì°ìë¤ì ê·¸ê° ì¨ì í ìì ìë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">18 </span>Ed egli abolirÃ  del tutto gli idoli."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>And they shall go into the holes of the rocks, and into the caves of the earth, for the fear of the Lord shall come upon them and the glory of his majesty shall smite them, when he ariseth to shake terribly the earth.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙÙÙØ¯ÙØ®ÙÙÙÙÙ ÙÙ ÙÙØºØ§ÙÙØ±Ù Ø§ÙØµÙÙØ®ÙØ±Ù ÙÙÙÙ Ø­ÙÙØ§Ø¦ÙØ±Ù Ø§ÙÙØ£ÙØ±ÙØ¶ÙØ ÙÙØ£ÙÙÙÙ ÙÙÙÙØ¨ÙØ©Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¨ÙÙØ§Ø¡Ù Ø¹ÙØ¸ÙÙÙØªÙÙÙ ØªÙØ¶ÙØ±ÙØ¨ÙÙÙÙÙØ Ø¹ÙÙÙØ¯ÙÙØ§ ÙÙÙÙÙÙ ÙÙÙÙØ²ÙÙÙØ²ÙÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù.",
+      "jpn": "<ruby>主<rt>しゅ</rt></ruby>が<ruby>地<rt>ち</rt></ruby>を<ruby>激<rt>はげ</rt></ruby>しく<ruby>揺<rt>ゆ</rt></ruby>り<ruby>動<rt>うご</rt></ruby>かされると、<ruby>主<rt>しゅ</rt></ruby>への<ruby>畏<rt>おそ</rt></ruby>れが<ruby>彼<rt>かれ</rt></ruby>らに<ruby>生<rt>しょう</rt></ruby>じ、<ruby>主<rt>しゅ</rt></ruby>の<ruby>尊<rt>そん</rt></ruby><ruby>厳<rt>げん</rt></ruby>の<ruby>輝<rt>かがや</rt></ruby>きが<ruby>彼<rt>かれ</rt></ruby>らを<ruby>打<rt>う</rt></ruby>つので、<ruby>彼<rt>かれ</rt></ruby>らは<ruby>岩<rt>いわ</rt></ruby>の<ruby>洞<rt>ほら</rt></ruby><ruby>穴<rt>あな</rt></ruby>や<ruby>地<rt>ち</rt></ruby>の<ruby>穴<rt>あな</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る。",
+      "zhs": "主起来恐怖地摇撼大地的时候，人就进入石洞，进入土穴，因为对主的敬畏必临到他们，祂威严的荣光必击打他们。",
+      "zht": "<span class=\"verse-number\">19ã</span>ä¸»èµ·ä¾ææå°ææ¼å¤§å°çæåï¼äººå°±é²å¥ç³æ´ï¼é²å¥åç©´ï¼å çºå°ä¸»çæ¬çå¿è¨å°ä»åï¼ç¥å¨å´çæ¦®åå¿ææä»åã",
+      "spa": "Y los hombres se meterán en las cavernas de las rocas y en las cuevas de la tierra, porque el temor del Señor caerá sobre ellos y la gloria de su majestad los herirá, cuando se levante para estremecer la tierra terriblemente.",
+      "por": "<span class=\"verse-number\">19 </span>E meter-se-Ã£o nos buracos das rochas e nas cavernas da terra, porque o temor do Senhor virÃ¡ sobre eles; e a glÃ³ria da sua majestade feri-los-Ã¡ quando ele se levantar para sacudir terrivelmente a terra.",
+      "fra": "<span class=\"verse-number\">19Â </span>On entrera dans les cavernes des rochers et dans les profondeurs de la poussiÃ¨re, car la terreur du Seigneur viendra contre eux et lâÃ©clat de sa majestÃ© les frappera, quand il se lÃ¨vera pour effrayer la terre.",
+      "deu": "<span class=\"verse-number\">19Â </span>Und sie werden in die FelsenhÃ¶hlen kriechen und in die LÃ¶cher der Erde, denn der Schrecken des Herrn wird Ã¼ber sie kommen, und die Herrlichkeit seiner MajestÃ¤t wird sie schlagen, wenn er aufsteht, die Erde schrecklich zu schÃ¼tteln.",
+      "kor": "<span class=\"verse-number\">19 </span>ë ê·¸ë¤ì´ ìíê³¼ í êµ´ë¡ ë¤ì´ê°ë¦¬ë, ì´ë ê·¸ê° ì¼ì´ëì¬ ëì ë¬´ì­ê² ì§ëìí¤ì¤ ëì ì£¼ì ëë ¤ìì´ ê·¸ë¤ìê² ìíë©°, ê·¸ì ììì ìê´ì´ ê·¸ë¤ì ì¹  ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">19 </span>Ed essi andranno nelle grotte delle rocce, e nelle caverne della terra, poichÃ© il timore del Signore verrÃ  su di loro e la gloria della sua maestÃ  li colpirÃ , quando egli si leverÃ  per scuotere terribilmente la terra."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>In that day a man shall cast his idols of silver, and his idols of gold, which he hath made for himself to worship, to the moles and to the bats;",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙ Ø°Ù°ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙÙØ·ÙØ±ÙØ­Ù Ø§ÙÙØ¥ÙÙÙØ³Ø§ÙÙ ÙÙÙÙÙÙÙØ§Ø±ÙØ¶Ù ÙÙØ§ÙÙØ®ÙÙØ§ÙÙØ´Ù Ø£ÙÙÙØ«Ø§ÙÙÙÙ Ø§ÙÙÙÙØ¶ÙÙÙÙÙØ©Ù ÙÙØ£ÙÙÙØ«Ø§ÙÙÙÙ Ø§ÙØ°ÙÙÙÙØ¨ÙÙÙÙØ©Ù Ø§ÙÙÙØªÙ ØµÙÙÙØ¹ÙÙØ§ ÙÙÙÙØ³ÙØ¬ÙØ¯Ù ÙÙÙØ§Ø",
+      "jpn": "その<ruby>日<rt>ひ</rt></ruby>、<ruby>人<rt>ひと</rt></ruby>は<ruby>拝<rt>おが</rt></ruby>むために<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>で<ruby>造<rt>つく</rt></ruby>った<ruby>銀<rt>ぎん</rt></ruby>の<ruby>偶<rt>ぐう</rt></ruby><ruby>像<rt>ぞう</rt></ruby>と<ruby>金<rt>きん</rt></ruby>の<ruby>偶<rt>ぐう</rt></ruby><ruby>像<rt>ぞう</rt></ruby>を、もぐらやこうもりに<ruby>投<rt>な</rt></ruby>げ<ruby>与<rt>あた</rt></ruby>え、",
+      "zhs": "到那日，人必将为膜拜而造的银偶像、金偶像，抛给田鼠和蝙蝠。",
+      "zht": "<span class=\"verse-number\">20ã</span>å°é£æ¥ï¼äººå¿å°çºèæèé çéå¶åãéå¶åï¼æçµ¦ç°é¼ åèè ã",
+      "spa": "En aquel día arrojará el hombre a los topos y murciélagos sus ídolos de plata y sus ídolos de oro que se ha hecho para adorarlos;",
+      "por": "<span class=\"verse-number\">20 </span>Naquele dia um homem lanÃ§arÃ¡ Ã s toupeiras e aos morcegos os seus Ã­dolos de prata e os seus Ã­dolos de ouro, que fez para ele prÃ³prio adorar;",
+      "fra": "<span class=\"verse-number\">20Â </span>En ce jour, les hommes jetteront leurs idoles dâargent et leurs idoles dâor, quâils sâÃ©taient faites pour les adorer, aux rats et aux chauves-sourisÂ ;",
+      "deu": "<span class=\"verse-number\">20Â </span>An dem Tag wird der Mensch seine GÃ¶tzen aus Silber und seine GÃ¶tzen aus Gold, die er sich selbst zur Anbetung gemacht hat, zu den MaulwÃ¼rfen und zu den FledermÃ¤usen werfen,",
+      "kor": "<span class=\"verse-number\">20 </span>ê·¸ ë ì ì¬ëì´ ê²½ë°°íë ¤ê³  ìê¸°ë¥¼ ìíì¬ ë§ë¤ìë ìê¸°ì ì ì°ìë¤ê³¼ ìê¸°ì ê¸ ì°ìë¤ì ëëì§ì ë°ì¥ìê² ëì§ê³ ,",
+      "ita": "<span class=\"verse-number\">20 </span>In quel giorno lâuomo getterÃ  alle talpe e ai pipistrelli i suoi idoli dâargento e i suoi idoli dâoro, che si era fatto per adorarli;"
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>To go into the clefts of the rocks, and into the tops of the ragged rocks, for the fear of the Lord shall come upon them and the majesty of his glory shall smite them, when he ariseth to shake terribly the earth.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØªÙØ¯ÙØ®ÙÙÙ ÙÙ ÙÙØºØ§Ø±Ø§ØªÙ Ø§ÙØµÙÙØ®ÙØ±Ù ÙÙÙÙ Ø´ÙÙÙÙÙÙØ§Ø ÙÙØ£ÙÙÙÙ ÙÙÙÙØ¨ÙØ©Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙØ¨ÙÙØ§Ø¡Ù Ø¹ÙØ¸ÙÙÙØªÙÙÙ ØªÙØ¶ÙØ±ÙØ¨ÙÙÙÙÙØ Ø¹ÙÙÙØ¯ÙÙØ§ ÙÙÙÙÙÙ ÙÙÙÙØ²ÙÙÙØ²ÙÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù.",
+      "jpn": "<ruby>岩<rt>いわ</rt></ruby>の<ruby>割<rt>わ</rt></ruby>れ<ruby>目<rt>め</rt></ruby>や、<ruby>険<rt>けわ</rt></ruby>しい<ruby>岩<rt>いわ</rt></ruby>の<ruby>頂<rt>いただき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る。<ruby>主<rt>しゅ</rt></ruby>が<ruby>地<rt>ち</rt></ruby>を<ruby>激<rt>はげ</rt></ruby>しく<ruby>揺<rt>ゆ</rt></ruby>り<ruby>動<rt>うご</rt></ruby>かされると、<ruby>主<rt>しゅ</rt></ruby>への<ruby>畏<rt>おそ</rt></ruby>れが<ruby>彼<rt>かれ</rt></ruby>らに<ruby>生<rt>しょう</rt></ruby>じ、<ruby>主<rt>しゅ</rt></ruby>の<ruby>大<rt>おお</rt></ruby>いなる<ruby>尊<rt>そん</rt></ruby><ruby>厳<rt>げん</rt></ruby>の<ruby>輝<rt>かがや</rt></ruby>きが<ruby>彼<rt>かれ</rt></ruby>らを<ruby>打<rt>う</rt></ruby>つからである。",
+      "zhs": "到主起来恐怖地摇撼大地的时候，人要进入岩石的裂缝中、嶙峋的岩石顶上，因为对主的敬畏必临到他们，祂威严的荣光必击打他们。",
+      "zht": "<span class=\"verse-number\">21ã</span>å°ä¸»èµ·ä¾ææå°ææ¼å¤§å°çæåï¼äººè¦é²å¥å·ç³çè£ç¸«ä¸­ãå¶å³çå·ç³é ä¸ï¼å çºå°ä¸»çæ¬çå¿è¨å°ä»åï¼ç¥å¨å´çæ¦®åå¿ææä»åã",
+      "spa": "para meterse en las hendiduras de las rocas y en las cavernas de los peñascos, porque el temor del Señor vendrá sobre ellos, y los herirá la majestad de su gloria, cuando se levante para estremecer la tierra terriblemente.",
+      "por": "<span class=\"verse-number\">21 </span>Para entrar pelas fendas das rochas e pelos cumes dos penhascos, porque o temor do Senhor virÃ¡ sobre eles; e a majestade da sua glÃ³ria feri-los-Ã¡ quando ele se levantar para sacudir terrivelmente a terra.",
+      "fra": "<span class=\"verse-number\">21Â </span>et ils entreront dans les fentes des rochers et dans les creux des pierres, car la terreur du Seigneur sâabattra sur eux et la gloire de sa majestÃ© les frappera quand il se lÃ¨vera pour effrayer la terre.",
+      "deu": "<span class=\"verse-number\">21Â </span>um sich in die Spalten der Felsen zu verkriechen und oben hinauf in die zerklÃ¼fteten Felsen; denn der Schrecken des Herrn wird Ã¼ber sie kommen, und die MajestÃ¤t seiner Herrlichkeit wird sie schlagen, wenn er aufsteht, die Erde schrecklich zu schÃ¼tteln.",
+      "kor": "<span class=\"verse-number\">21 </span>ë°ìì ê°ë¼ì§ íê³¼ íí ë°ì ìë¡ ë¤ì´ê°ë¦¬ë, ì´ë ê·¸ê° ì¼ì´ëì¬ ëì ë¬´ì­ê² ì§ëìí¤ì¤ ëì ì£¼ì ëë ¤ìì´ ê·¸ë¤ìê² ìíë©°, ê·¸ì ììì ìê´ì´ ê·¸ë¤ì ì¹  ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">21 </span>Per entrare nelle fessure della roccia, e tra le creste delle rupi, poichÃ© il timore del Signore verrÃ  su di loro e la maestÃ  della sua gloria li colpirÃ , quando egli si leverÃ  per scuotere terribilmente la terra."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>Cease ye from man, whose breath is in his nostrils; for wherein is he to be accounted of?",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙÙÙÙØ§ Ø¹ÙÙÙ Ø§ÙÙØ¥ÙÙÙØ³Ø§ÙÙ Ø§ÙÙÙØ°Ù ÙÙ Ø£ÙÙÙÙÙÙÙ ÙÙÙÙØ³ÙØ ÙÙØ¨ÙÙÙ ÙÙÙÙÙÙØ¹ÙØ",
+      "jpn": "あなたがたは、<ruby>鼻<rt>はな</rt></ruby>で<ruby>息<rt>いき</rt></ruby>をする<ruby>人<rt>にん</rt></ruby><ruby>間<rt>げん</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>むことをやめよ。そのような<ruby>者<rt>もの</rt></ruby>に<ruby>何<rt>なん</rt></ruby>の<ruby>価<rt>か</rt></ruby><ruby>値<rt>ち</rt></ruby>があろうか。」",
+      "zhs": "你们休要依靠世人，他不过鼻孔里有气息；他可算什么呢？",
+      "zht": "<span class=\"verse-number\">22ã</span>ä½ åä¼è¦ä¾é ä¸äººï¼ä»ä¸éé¼»å­è£¡ææ°£æ¯ï¼ä»å¯ç®ä»éº¼å¢ï¼",
+      "spa": "Dejaos del hombre, cuyo aliento está en su nariz; pues, ¿en qué debe ser estimado?",
+      "por": "<span class=\"verse-number\">22 </span>Afastai-vos do homem cujo fÃ´lego estÃ¡ no seu nariz; pois em que deve ele ser estimado?",
+      "fra": "<span class=\"verse-number\">22Â </span>Cessez de vous confier en lâhomme, dans les narines duquel il nây a quâun souffleÂ : car de quelle valeur est-ilÂ ?",
+      "deu": "<span class=\"verse-number\">22Â </span>Lasst ab vom Menschen, dessen Hauch in seiner Nase ist; denn wofÃ¼r ist er zu achten?",
+      "kor": "<span class=\"verse-number\">22 </span>ëí¬ë ì¬ë ìì§íê¸°ë¥¼ ê·¸ì¹ë¼. ê·¸ í¸í¡ì´ ê·¸ì ì½ì ìëë ìí  ê°ì¹ê° ì´ë ìëë?",
+      "ita": "<span class=\"verse-number\">22 </span>Cessate di confidare nellâuomo, il cui alito Ã¨ nelle sue narici; poichÃ© qual conto se ne puÃ² fare?"
+    }
+  }
+}

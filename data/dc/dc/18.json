@@ -1,0 +1,597 @@
+{
+  "meta": {
+    "volume": "dc",
+    "book": "dc",
+    "chapter": 18,
+    "headings": {
+      "eng": "1â5, Scriptures show how to build up the Church; 6â8, The world is ripening in iniquity; 9â16, The worth of souls is great; 17â25, To gain salvation, men must take upon themselves the name of Christ; 26â36, The calling and mission of the Twelve are revealed; 37â39, Oliver Cowdery and David Whitmer are to search out the Twelve; 40â47, To gain salvation, men must repent, be baptized, and keep the commandments.",
+      "jpn": "1ï¼5<ruby><rb>è</rb><rt>ãã</rt></ruby><ruby><rb>å¸</rb><rt>ã¦ã</rt></ruby>ã«ã¯<ruby><rb>æ</rb><rt>ããã</rt></ruby><ruby><rb>ä¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ãã<ruby><rb>æ¹</rb><rt>ã»ã</rt></ruby><ruby><rb>æ³</rb><rt>ã»ã</rt></ruby>ã<ruby><rb>ç¤º</rb><rt>ãã</rt></ruby>ããã¦ããã6ï¼8<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ã®<ruby><rb>ç½ª</rb><rt>ãã</rt></ruby><ruby><rb>æª</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç</rb><rt>ããã</rt></ruby>ãã¤ã¤ããã9ï¼16<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>ä¾¡</rb><rt>ã</rt></ruby><ruby><rb>å¤</rb><rt>ã¡</rt></ruby>ã¯<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããªããã®ã§ããã17ï¼25<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ãããã«ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã¯ã­ãªã¹ãã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããªããã°ãªããªãã26ï¼36<ruby><rb>å</rb><rt>ããã</rt></ruby><ruby><rb>äº</rb><rt>ã«</rt></ruby><ruby><rb>ä½¿</rb><rt>ã</rt></ruby><ruby><rb>å¾</rb><rt>ã¨</rt></ruby>ã®<ruby><rb>å¬</rb><rt>ã</rt></ruby>ãã¨<ruby><rb>ä½¿</rb><rt>ã</rt></ruby><ruby><rb>å½</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããã«ãããã37ï¼39ãªãªãã¼ã»ã«ã¦ããªã¨ããããã»ãã¤ãããã¼ã¯ã<ruby><rb>å</rb><rt>ããã</rt></ruby><ruby><rb>äº</rb><rt>ã«</rt></ruby><ruby><rb>ä½¿</rb><rt>ã</rt></ruby><ruby><rb>å¾</rb><rt>ã¨</rt></ruby>ã<ruby><rb>æ¢</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ããªããã°ãªããªãã40ï¼47<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ãããã«ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã¯<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ãããããã¹ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã¾ã</rt></ruby>ãã<ruby><rb>å®</rb><rt>ã¾ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "1-5ï¼ç»ææç¤ºå¦ä½å»ºç«æä¼ï¼6-8ï¼ä¸çæ­£å¨ç½ªæ¶ä¸­æçï¼9-16ï¼çµé­çä»·å¼æ¯å¤§çï¼17-25ï¼ä¸äººå¿é¡»æ¿ååºç£çåï¼æè½è·å¾ææ©ï¼26-36ï¼å¯ç¤ºåäºä½¿å¾çå¬å¤åä½¿å½ï¼37-39ï¼<u>å¥¥å©ä½Â·èå¾·é</u>å<u>å¤§å«Â·æ ç¹è</u>è¦æ¾åºåäºä½¿å¾ï¼40-47ï¼ä¸äººå¿é¡»ææ¹ãåæ´ãéµå®è¯«å½ï¼æè½è·å¾ææ©ã",
+      "zht": "1-5ï¼ç¶ææç¤ºå¦ä½å»ºç«ææï¼6-8ï¼ä¸çæ­£å¨ç½ªæ¡ä¸­æçï¼9-16ï¼éé­çå¹å¼æ¯å¤§çï¼17-25ï¼ä¸äººå¿é æ¿ååºç£çåï¼æè½ç²å¾ææ©ï¼26-36ï¼åç¤ºåäºä½¿å¾çå¬ååä½¿å½ï¼37-39ï¼<u>å¥§å©ä½Â·èå¾·é</u>å<u>å¤§è¡Â·æ ç¹è</u>è¦æ¾åºåäºä½¿å¾ï¼40-47ï¼ä¸äººå¿é ææ¹ãåæ´ãéµå®èª¡å½ï¼æè½ç²å¾ææ©ã",
+      "spa": "1â5, Las Escrituras indican cÃ³mo se ha de edificar la Iglesia; 6â8, El mundo estÃ¡ madurando en la iniquidad; 9â16, El valor de las almas es grande; 17â25, Para lograr la salvaciÃ³n, los hombres deben tomar sobre sÃ­ el nombre de Cristo; 26â36, Se revelan el llamamiento y la misiÃ³n de los Doce; 37â39, Oliver Cowdery y David Whitmer han de buscar a los Doce; 40â47, Para lograr la salvaciÃ³n, los hombres deben arrepentirse, ser bautizados y guardar los mandamientos.",
+      "por": "1â5, As escrituras mostram como edificar a Igreja; 6â8, O mundo estÃ¡ amadurecendo em iniquidade; 9â16, O valor das almas Ã© grande; 17â25, A fim de alcanÃ§ar a salvaÃ§Ã£o, os homens precisam tomar sobre si o nome de Cristo; 26â36, Revelados o chamado e a missÃ£o dos Doze; 37â39, Oliver Cowdery e David Whitmer devem procurar os Doze; 40â47, Para alcanÃ§ar salvaÃ§Ã£o, os homens precisam arrepender-se, ser batizados e guardar os mandamentos.",
+      "fra": "1-5, Les Ãcritures montrent comment Ã©difier lâÃglise. 6-8, Le monde mÃ»rit dans lâiniquitÃ©. 9-16, Les Ã¢mes ont une grande valeur. 17-25, Pour obtenir le salut, les hommes doivent prendre sur eux le nom du Christ. 26-36, RÃ©vÃ©lation de lâappel et de la mission des Douze. 37-39, Oliver Cowdery et David Whitmer doivent dÃ©couvrir les Douze. 40-47, Pour obtenir le salut, les hommes doivent se repentir, Ãªtre baptisÃ©s et garder les commandements.",
+      "deu": "1-5 Die Schriften zeigen, wie die Kirche zu errichten ist; 6-8 Die Welt wird reif im Ãbeltun; 9-16 Die Seelen haben groÃen Wert; 17-25 Um Errettung zu erlangen, mÃ¼ssen die Menschen den Namen Christi auf sich nehmen; 26-36 Die Berufung und Sendung der ZwÃ¶lf werden offenbart; 37-39 Oliver Cowdery und David Whitmer sollen die ZwÃ¶lf aussuchen; 40-47 Um Errettung zu erlangen, mÃ¼ssen die Menschen umkehren, sich taufen lassen und die Gebote halten.",
+      "kor": "1~5, ê²½ì ì êµíë¥¼ ì¸ì°ë ë°©ë²ì ë³´ì¬ ì¤. 6~8, ì¸ìì ì£ìì¼ë¡ ë¬´ë¥´ìµê³  ìì. 9~16, ìí¼ì ê°ì¹ê° í¼. 17~25, êµ¬ìì ì»ê¸° ìíì¬ ì¬ëì ê·¸ë¦¬ì¤ëì ì´ë¦ì ë°ë¤ì´ì¼ í¨. 26~36, ì­ì´ì¬ëì ë¶ë¥´ì¬ê³¼ ì¬ëªì´ ê³ìë¨. 37~39, ì¬ë¦¬ë² ì¹´ì°ëë¦¬ì ë°ì´ë¹ë íí¸ë¨¸ë ì­ì´ì¬ëë¥¼ ì°¾ìë´ì¼ í¨. 40~47, êµ¬ìì ì»ê¸° ìíì¬ ì¬ëì íê°íê³  ì¹¨ë¡ë¥¼ ë°ê³  ê³ëªì ì§ì¼ì¼ë§ í¨.",
+      "ita": "1â5: le Scritture mostrano come edificare la Chiesa; 6â8: il mondo sta maturando nellâiniquitÃ ; 9â16: il valore delle anime Ã¨ grande; 17â25: per ottenere la salvezza gli uomini devono prendere su di sÃ© il nome di Cristo; 26â36: vengono rivelate la missione e la chiamata dei Dodici; 37â39: Oliver Cowdery e David Whitmer devono trovare i Dodici; 40â47: per ottenere la salvezza gli uomini devono pentirsi, essere battezzati e rispettare i comandamenti."
+    },
+    "intros": {
+      "eng": "Revelation to Joseph Smith the Prophet, Oliver Cowdery, and David Whitmer, given at Fayette, New York, June 1829. According to the Prophet, this revelation made known âthe calling of twelve apostles in these last days, and also instructions relative to building up the Church.â",
+      "jpn": "åå«ç¾äºåä¹<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby>å­<ruby><rb>æ</rb><rt>ãã¤</rt></ruby>ããã¥ã¼ã¨ã¼ã¯<ruby><rb>å·</rb><rt>ããã</rt></ruby>ãã§ã¤ã¨ããã«ããã¦ã<ruby><rb>é </rb><rt>ã</rt></ruby><ruby><rb>è¨</rb><rt>ãã</rt></ruby><ruby><rb>è</rb><rt>ãã</rt></ruby>ã¸ã§ã»ãã»ã¹ãã¹ããªãªãã¼ã»ã«ã¦ããªãããã³ããããã»ãã¤ãããã¼ã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>å</rb><rt>ãã</rt></ruby><ruby><rb>ç¤º</rb><rt>ã</rt></ruby>ã<ruby><rb>é </rb><rt>ã</rt></ruby><ruby><rb>è¨</rb><rt>ãã</rt></ruby><ruby><rb>è</rb><rt>ãã</rt></ruby>ã«ããã°ããã®<ruby><rb>å</rb><rt>ãã</rt></ruby><ruby><rb>ç¤º</rb><rt>ã</rt></ruby>ã«ãã£ã¦ããã®<ruby><rb>çµ</rb><rt>ã</rt></ruby>ããã®<ruby><rb>æ</rb><rt>ã¨ã</rt></ruby>ã«<ruby><rb>å</rb><rt>ããã</rt></ruby><ruby><rb>äº</rb><rt>ã«</rt></ruby><ruby><rb>ä½¿</rb><rt>ã</rt></ruby><ruby><rb>å¾</rb><rt>ã¨</rt></ruby>ã<ruby><rb>å¬</rb><rt>ã</rt></ruby>ããããã¨ã¨ã<ruby><rb>æ</rb><rt>ããã</rt></ruby><ruby><rb>ä¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ãããã¨ã«<ruby><rb>é¢</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ã</rt></ruby><ruby><rb>ç¤º</rb><rt>ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããã«ãããã",
+      "zhs": "1829å¹´6æï¼äº<u>çº½çº¦</u>ï¼<u>è²ä¹ç¹</u>ï¼ç»åç¥<u>çº¦çÂ·æ¯å¯</u>ã<u>å¥¥å©ä½Â·èå¾·é</u>å<u>å¤§å«Â·æ ç¹è</u>çå¯ç¤ºãæ ¹æ®åç¥æè¿°ï¼æ¬å¯ç¤ºéé²ãå¨æ­¤æ«ä¸åäºä½¿å¾çå¬å¤ï¼ä»¥åæå³å»ºç«æä¼çæç¤ºãã",
+      "zht": "1829å¹´6æï¼æ¼<u>ç´ç´</u>ï¼<u>è²ä¹ç¹</u>ï¼çµ¦åç¥<u>ç´çÂ·æ¯å¯</u>ã<u>å¥§å©ä½Â·èå¾·é</u>å<u>å¤§è¡Â·æ ç¹è</u>çåç¤ºãæ ¹æåç¥æè¿°ï¼æ¬åç¤ºéé²ãå¨æ­¤æ«ä¸åäºä½¿å¾çå¬åï¼ä»¥åæéå»ºç«ææçæç¤ºãã",
+      "spa": "RevelaciÃ³n dada a JosÃ© Smith el Profeta, a Oliver Cowdery y a David Whitmer en Fayette, Nueva York, en junio de 1829. De acuerdo con el Profeta, esta revelaciÃ³n dio a conocer âel llamamiento de los doce apÃ³stoles en estos Ãºltimos dÃ­as y tambiÃ©n instrucciones relacionadas con la edificaciÃ³n de la Iglesiaâ.",
+      "por": "RevelaÃ§Ã£o a Joseph Smith, o Profeta, Oliver Cowdery e David Whitmer, dada em Fayette, Nova York, em junho de 1829. De acordo com o Profeta, esta revelaÃ§Ã£o deu a conhecer âo chamado dos doze apÃ³stolos nestes Ãºltimos dias e tambÃ©m as instruÃ§Ãµes relativas Ã  edificaÃ§Ã£o da Igreja.â",
+      "fra": "RÃ©vÃ©lation donnÃ©e en juin 1829 Ã  Joseph Smith, le prophÃ¨te, Oliver Cowdery et David Whitmer, Ã  Fayette (New York). Selon le prophÃ¨te, cette rÃ©vÃ©lation faisait connaÃ®tre Â«Â lâappel de douze apÃ´tres en ces derniers jours et aussi des instructions relatives Ã  lâÃ©dification de lâÃgliseÂ Â».",
+      "deu": "Offenbarung an Joseph Smith, den Propheten, an Oliver Cowdery und David Whitmer, gegeben im Juni 1829 zu Fayette, New York. Dem Propheten zufolge werden in dieser Offenbarung âdie Berufung von zwÃ¶lf Aposteln in diesen letzten Tagen und auch Anweisungen fÃ¼r den Aufbau der Kircheâ kundgetan.",
+      "kor": "1829ë 6ì ë´ì ì£¼ íì´ìí¸ìì ì ì§ì ì¡°ì ì¤ë¯¸ì¤, ì¬ë¦¬ë² ì¹´ì°ëë¦¬ ë° ë°ì´ë¹ë íí¸ë¨¸ìê² ì£¼ì  ê³ì(<em>êµíì¬</em> 1:60~64). ìë¡  ì ê¶ì´ ìì¬ëìì ë ë©ê¸°ì¸ë± ì ê¶ì ë¶ì¬ê° ì½ìëìë¤(ì 13í¸ ë¨¸ë¦¬ë§ ì°¸ì¡°). ì´ ì¼ì ëí ì§ìì ì»ì¼ë ¤ë ê°êµ¬ì ëí ìëµì¼ë¡ ì£¼ê»ì ì´ ê³ìë¥¼ ì£¼ì¨ë¤.",
+      "ita": "Rivelazione data a Joseph Smith, il Profeta, a Oliver Cowdery e a David Whitmer, a Fayette, New York, nel giugno del 1829. Secondo il Profeta, questa rivelazione rendeva note âla chiamata di dodici apostoli in questi ultimi giorni e anche istruzioni relative allâedificazione della Chiesaâ."
+    }
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Now, behold, because of the thing which you, my servant Oliver Cowdery, have desired to know of me, I give unto you these words:",
+      "jpn": "<span class=\"verse-number\">1</span>ãã¦<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããããªããããªãã¡ãããã®<ruby><rb>å</rb><rt>ããã¹</rt></ruby>ãªãªãã¼ã»ã«ã¦ããªãããããã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããã¨<ruby><rb>æ</rb><rt>ã®ã</rt></ruby>ãã <ruby><rb>äº</rb><rt>ãã¨</rt></ruby><ruby><rb>æ</rb><rt>ãã</rt></ruby>ã®ããããããã¯ãããã®<ruby><rb>è¨</rb><rt>ãã¨</rt></ruby><ruby><rb>è</rb><rt>ã°</rt></ruby>ãããªãã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">1ã</span>ç°å¨ï¼çåï¼æçä»äºº<u>å¥¥å©ä½Â·èå¾·é</u>ï¼å ä¸ºä½ æ±é®æï¼æ³ç¥éè¿äºï¼æä»¥ææè¿äºè¯åè¯ä½ ï¼",
+      "zht": "<span class=\"verse-number\">1ã</span>ç¾å¨ï¼çåï¼æçåäºº<u>å¥§å©ä½Â·èå¾·é</u>ï¼å çºä½ æ±åæï¼æ³ç¥ééäºï¼æä»¥ææéäºè©±åè¨´ä½ ï¼",
+      "spa": "<span class=\"verse-number\">1 </span>He aquÃ­, a causa de lo que tÃº, mi siervo Oliver Cowdery, has deseado saber de mÃ­, te digo estas palabras:",
+      "por": "<span class=\"verse-number\">1 </span>Agora, eis que por causa daquilo que tu, meu servo Oliver Cowdery, desejaste saber de mim, digo-te estas palavras:",
+      "fra": "<span class=\"verse-number\">1Â </span>Voici, Ã  cause de ce que tu as dÃ©sirÃ© connaÃ®tre de moi, mon serviteur Oliver Cowdery, je te donne ces parolesÂ :",
+      "deu": "<span class=\"verse-number\">1Â </span>Nun siehe, um dessentwillen, was du, mein Diener Oliver Cowdery, von mir zu wissen wÃ¼nschst, gebe ich dir diese Worte:",
+      "kor": "<span class=\"verse-number\">1 </span>ì´ì  ë³´ë¼, ë ëì ì¢ ì¬ë¦¬ë² ì¹´ì°ëë¦¬ê° ë´ê²ì ìê¸°ë¥¼ ìí ê·¸ ì¼ë¡ ë§ë¯¸ìì ë´ê° ì´ ë§ì ë¤ê² ì£¼ë¸ë¼.",
+      "ita": "<span class=\"verse-number\">1 </span>Ora ecco, a motivo di ciÃ² che tu, mio servitore Oliver Cowdery, hai desiderato sapere da me, io ti do queste parole:"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>Behold, I have manifested unto you, by my Spirit in many instances, that the things which you have written are true; wherefore you know that they are true.",
+      "jpn": "<span class=\"verse-number\">2</span><ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããããã¯ãããªãã<ruby><rb>è¨</rb><rt>ãã</rt></ruby>ãã¦ãããã®ã<ruby><rb>ç</rb><rt>ãã</rt></ruby><ruby><rb>å®</rb><rt>ãã¤</rt></ruby>ã§ãããã¨ãã<ruby><rb>åº¦</rb><rt>ãã³</rt></ruby><ruby><rb>ã</rb><rt>ãã³</rt></ruby>ãããã®<ruby><rb>å¾¡</rb><rt>ã¿</rt></ruby><ruby><rb>é</rb><rt>ãã¾</rt></ruby>ã«ãã£ã¦<ruby><rb>ç¤º</rb><rt>ãã</rt></ruby>ãã¦ããããããããããªãã¯ãããçå®ã§ãããã¨ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã£ã¦ããã",
+      "zhs": "<span class=\"verse-number\">2ã</span>çåï¼æå¤æ¬¡åæççµåä½ æ¾æä½ æåçäºæ¯ççï¼å æ­¤ä½ ç¥éé£äºäºæ¯ççã",
+      "zht": "<span class=\"verse-number\">2ã</span>çåï¼æå¤æ¬¡èæçéåä½ é¡¯æä½ æå¯«çäºæ¯ççï¼å æ­¤ä½ ç¥éé£äºäºæ¯ççã",
+      "spa": "<span class=\"verse-number\">2 </span>He aquÃ­, te he manifestado por mi EspÃ­ritu en varias ocasiones, que las cosas que has escrito son verdaderas; por tanto, sabes que son verdaderas.",
+      "por": "<span class=\"verse-number\">2 </span>Eis que te manifestei por meu EspÃ­rito, em muitas ocasiÃµes, que as coisas que escreveste sÃ£o verdadeiras; portanto, sabes que sÃ£o verdadeiras.",
+      "fra": "<span class=\"verse-number\">2Â </span>Voici, je tâai, en de nombreuses occasions, manifestÃ© par mon Esprit que les choses que tu as Ã©crites sont vraies. Tu sais donc quâelles sont vraies.",
+      "deu": "<span class=\"verse-number\">2Â </span>Siehe, ich habe dir durch meinen Geist in vielen FÃ¤llen kundgetan, dass das, was du geschrieben hast, wahr ist; darum weiÃt du, dass es wahr ist.",
+      "kor": "<span class=\"verse-number\">2 </span>ë³´ë¼, ëë ë¤ê° ê¸°ë¡í ê²ë¤ì´ ì°¸ë¨ì ì¬ë¬ ê²½ì°ì ëì ìì¼ë¡ì¨ ë¤ê² ëíë´ ë³´ìëë, ê·¸ë°ì¦ ê·¸ê²ë¤ì´ ì°¸ë¨ì ëë ìê³  ìëëë¼.",
+      "ita": "<span class=\"verse-number\">2 </span>Ecco, ti ho manifestato mediante il mio Spirito in molte occasioni che le cose che hai scritto sono vere; pertanto tu sai che sono vere."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>And if you know that they are true, behold, I give unto you a commandment, that you rely upon the things which are written;",
+      "jpn": "<span class=\"verse-number\">3</span>ããã¦ãããªãã¯ããã<ruby><rb>ç</rb><rt>ãã</rt></ruby><ruby><rb>å®</rb><rt>ãã¤</rt></ruby>ã§ãããã¨ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã£ã¦ããã®ã§ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããããã¯ããªãã«ä¸ã¤ã®<ruby><rb>æ</rb><rt>ãã¾ã</rt></ruby>ãã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããããªãã¯è¨ããã¦ãããã®ã«<ruby><rb>é ¼</rb><rt>ãã</rt></ruby>ããªããã",
+      "zhs": "<span class=\"verse-number\">3ã</span>å¦æä½ ç¥éé£äºäºæ¯ççï¼çåï¼æç»ä½ ä¸æ¡è¯«å½ï¼ä½ è¦ä¿¡é æåçäºï¼",
+      "zht": "<span class=\"verse-number\">3ã</span>å¦æä½ ç¥éé£äºäºæ¯ççï¼çåï¼æçµ¦ä½ ä¸æ¢èª¡å½ï¼ä½ è¦ä¿¡é æå¯«çäºï¼",
+      "spa": "<span class=\"verse-number\">3 </span>Y si sabes que son verdaderas, he aquÃ­, te mando que confÃ­es en las cosas que estÃ¡n escritas;",
+      "por": "<span class=\"verse-number\">3 </span>E se tu sabes que sÃ£o verdadeiras, eis que te dou um mandamento de que confies nas coisas que estÃ£o escritas;",
+      "fra": "<span class=\"verse-number\">3Â </span>Et si tu sais quâelles sont vraies, voici, je te donne le commandement dâavoir confiance dans les choses qui sont Ã©crites.",
+      "deu": "<span class=\"verse-number\">3Â </span>Und da du nun weiÃt, dass es wahr ist, siehe, so gebe ich dir das Gebot, dich auf das zu verlassen, was geschrieben ist;",
+      "kor": "<span class=\"verse-number\">3 </span>ê·¸ë¦¬ê³  ë§ì¼ ê·¸ê²ë¤ì´ ì°¸ë¨ì ë¤ê° ìê³  ìì¼ë©´, ë³´ë¼, ë´ê° ë¤ê² í ê°ì§ ëªë ¹ì ì£¼ë¸ë, ëë ê¸°ë¡ë ê²ì ìì§íë¼.",
+      "ita": "<span class=\"verse-number\">3 </span>E se sai che sono vere, ecco, io ti do il comandamento di confidare nelle cose che sono scritte;"
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>For in them are all things written concerning the foundation of my church, my gospel, and my rock.",
+      "jpn": "<span class=\"verse-number\">4</span>ãã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã«ã¯ããããã®<ruby><rb>æ</rb><rt>ããã</rt></ruby><ruby><rb>ä¼</rb><rt>ãã</rt></ruby>ã¨ãããã®ç¦é³ã¨ãããã®å²©ã®<ruby><rb>åº</rb><rt>ãã¨ã</rt></ruby>ã«ã¤ãã¦ããã¹ã¦ã®ãã¨ã<ruby><rb>è¨</rb><rt>ãã</rt></ruby>ããã¦ããããã§ããã",
+      "zhs": "<span class=\"verse-number\">4ã</span>å ä¸ºå¶ä¸­è®°è½½äºå³äºææä¼ãæç¦é³ä»¥åæç£ç³çåºç¡çä¸åäºã",
+      "zht": "<span class=\"verse-number\">4ã</span>å çºå¶ä¸­è¨è¼äºéæ¼æææãæç¦é³ä»¥åæç£ç³çåºç¤çä¸åäºã",
+      "spa": "<span class=\"verse-number\">4 </span>porque en ellas se hallan escritas todas las cosas concernientes al fundamento de mi iglesia, mi evangelio y mi roca.",
+      "por": "<span class=\"verse-number\">4 </span>Porque nelas estÃ£o escritas todas as coisas concernentes ao alicerce de minha igreja, meu evangelho e minha rocha.",
+      "fra": "<span class=\"verse-number\">4Â </span>Car câest lÃ  que sont Ã©crites toutes choses concernant les fondements de mon Ãglise, de mon Ãvangile et de mon roc.",
+      "deu": "<span class=\"verse-number\">4Â </span>denn darin ist alles niedergeschrieben, was die Grundlage meiner Kirche, meines Evangeliums und meines Felsens betrifft.",
+      "kor": "<span class=\"verse-number\">4 </span>ì´ë ê·¸ ê°ì´ë° ëì êµíì ëì ë³µìê³¼ ëì ë°ìì ê¸°ì´ì ê´í ëª¨ë  ê²ì´ ê¸°ë¡ëì´ ììì´ëë¼.",
+      "ita": "<span class=\"verse-number\">4 </span>PoichÃ© in esse sono scritte tutte le cose che riguardano la fondazione della mia chiesa, il mio Vangelo e la mia roccia."
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>Wherefore, if you shall build up my church, upon the foundation of my gospel and my rock, the gates of hell shall not prevail against you.",
+      "jpn": "<span class=\"verse-number\">5</span>ãããããããªãããããã®<ruby><rb>ç¦</rb><rt>ãµã</rt></ruby><ruby><rb>é³</rb><rt>ãã</rt></ruby>ã¨ãããã®<ruby><rb>å²©</rb><rt>ãã</rt></ruby>ã®<ruby><rb>åº</rb><rt>ãã¨ã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ãããã®<ruby><rb>æ</rb><rt>ããã</rt></ruby><ruby><rb>ä¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ãããªãã°ã<ruby><rb>å°</rb><rt>ã</rt></ruby><ruby><rb>ç</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é</rb><rt>ãã</rt></ruby>ãããªãã«<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¡<ruby><rb>å</rb><rt>ã</rt></ruby>ã¤ãã¨ã¯ãªãã",
+      "zhs": "<span class=\"verse-number\">5ã</span>å æ­¤ï¼å¦æä½ å°æçæä¼å»ºç«å¨æçç¦é³åç£ç³çåºç¡ä¸ï¼å°ç±çé¨å¿ä¸è½èè¿ä½ ã",
+      "zht": "<span class=\"verse-number\">5ã</span>å æ­¤ï¼å¦æä½ å°æçææå»ºç«å¨æçç¦é³åç£ç³çåºç¤ä¸ï¼å°ççéå¿ä¸è½åéä½ ã",
+      "spa": "<span class=\"verse-number\">5 </span>De modo que si edificas mi iglesia sobre el fundamento de mi evangelio y mi roca, las puertas del infierno no prevalecerÃ¡n en contra de ti.",
+      "por": "<span class=\"verse-number\">5 </span>Portanto, se edificares a minha igreja sobre o alicerce de meu evangelho e minha rocha, as portas do inferno nÃ£o prevalecerÃ£o contra ti.",
+      "fra": "<span class=\"verse-number\">5Â </span>Câest pourquoi, si tu Ã©difies mon Ãglise sur les fondements de mon Ãvangile et de mon roc, les portes de lâenfer ne prÃ©vaudront pas contre toi.",
+      "deu": "<span class=\"verse-number\">5Â </span>Darum, wenn du meine Kirche auf der Grundlage meines Evangeliums und meines Felsens errichtest, werden die Pforten der HÃ¶lle dich nicht Ã¼berwÃ¤ltigen.",
+      "kor": "<span class=\"verse-number\">5 </span>ê·¸ë°ì¦ ë§ì¼ ë¤ê° ëì ë³µìê³¼ ëì ë°ìì ê¸°ì´ ìì ëì êµíë¥¼ ì¸ì°ë©´, ì§ì¥ë¬¸ì´ ëë¥¼ ì´ê¸°ì§ ëª»íë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">5 </span>Pertanto, se edificherai la mia chiesa sul fondamento del mio Vangelo e della mia roccia, le porte dellâinferno non prevarranno contro di te."
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Behold, the world is ripening in iniquity; and it must needs be that the children of men are stirred up unto repentance, both the Gentiles and also the house of Israel.",
+      "jpn": "<span class=\"verse-number\">6</span><ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããä¸ã®<ruby><rb>ç½ª</rb><rt>ãã</rt></ruby><ruby><rb>æª</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç</rb><rt>ããã</rt></ruby>ãã¤ã¤ãããããã¦<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã¯ãç°é¦äººãã¤ã¹ã©ã¨ã«ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ããã¨ãã«<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ãã<ruby><rb>ä¿</rb><rt>ããªã</rt></ruby>ããã<ruby><rb>å¿</rb><rt>ã²ã¤</rt></ruby><ruby><rb>è¦</rb><rt>ãã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">6ã</span>çåï¼ä¸çæ­£å¨ç½ªæ¶ä¸­æçï¼å¿é¡»å¤éäººç±»å¿å¥³ææ¹ï¼ä¸è®ºå¤é¦äººæ<u>ä»¥è²å</u>å®¶æã",
+      "zht": "<span class=\"verse-number\">6ã</span>çåï¼ä¸çæ­£å¨ç½ªæ¡ä¸­æçï¼å¿é åéäººé¡åå¥³ææ¹ï¼ä¸è«å¤é¦äººæ<u>ä»¥è²å</u>å®¶æã",
+      "spa": "<span class=\"verse-number\">6 </span>He aquÃ­, el mundo estÃ¡ madurando en la iniquidad; y es preciso que sean instados los hijos de los hombres, tanto los gentiles como la casa de Israel, a que se arrepientan.",
+      "por": "<span class=\"verse-number\">6 </span>Eis que o mundo estÃ¡ amadurecendo em iniquidade; e Ã© necessÃ¡rio que os filhos dos homens, tanto os gentios como a casa de Israel, sejam levados ao arrependimento.",
+      "fra": "<span class=\"verse-number\">6Â </span>Voici, le monde mÃ»rit dans lâiniquitÃ©Â ; et il faut que les enfants des hommes soient poussÃ©s au repentir, tant les Gentils que la maison dâIsraÃ«l.",
+      "deu": "<span class=\"verse-number\">6Â </span>Siehe, die Welt wird reif im Ãbeltun; und es muss notwendigerweise sein, dass die Menschenkinder zur Umkehr aufgestachelt werden, die Anderen ebenso wie auch das Haus Israel.",
+      "kor": "<span class=\"verse-number\">6 </span>ë³´ë¼, ì¸ìì ì£ìì¼ë¡ ë¬´ë¥´ìµê³  ìëë, ì´ë°©ì¸ì´ê±°ë ëí ì´ì¤ë¼ìì ì§ì´ê±°ëë¥¼ ë§ë¡ íê³  ì¬ëì ìëë¤ì ë°ëì ì¼ê¹¨ìì ë°ì íê°ì ì´ë¥´ë¬ì¼ íëëë¼.",
+      "ita": "<span class=\"verse-number\">6 </span>Ecco, il mondo sta maturando nellâiniquitÃ ; ed Ã¨ necessario che i figlioli degli uomini siano spronati al pentimento, sia i Gentili che la casa dâIsraele."
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>Wherefore, as thou hast been baptized by the hands of my servant Joseph Smith, Jun., according to that which I have commanded him, he hath fulfilled the thing which I commanded him.",
+      "jpn": "<span class=\"verse-number\">7</span>ãã¦ããããã®<ruby><rb>å</rb><rt>ããã¹</rt></ruby>ã¸ã§ã»ãã»ã¹ãã¹ã»ã¸ã¥ãã¢ã«ãããã<ruby><rb>å½</rb><rt>ãã</rt></ruby>ããããã«ãããªãã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã«ãã£ã¦ãããã¹ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã®ã§ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ãããã<ruby><rb>å½</rb><rt>ãã</rt></ruby>ãããã¨ã<ruby><rb>æ</rb><rt>ã¯</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">7ã</span>å æ­¤ï¼æ¢ç¶ä½ å·²ç±æä»äººå°<u>çº¦çÂ·æ¯å¯</u>ï¼ä¾ç§æç»ä»çå½ä»¤äº²æä¸ºä½ æ½æ´ï¼ä»å·²å®ææå½ä»¤ä»çäºã",
+      "zht": "<span class=\"verse-number\">7ã</span>å æ­¤ï¼æ¢ç¶ä½ å·²ç±æåäººå°<u>ç´çÂ·æ¯å¯</u>ï¼ä¾ç§æçµ¦ä»çå½ä»¤è¦ªæçºä½ æ½æ´ï¼ä»å·²å®ææå½ä»¤ä»çäºã",
+      "spa": "<span class=\"verse-number\">7 </span>Por tanto, ya que has sido bautizado por mano de mi siervo JosÃ© Smith, hijo, segÃºn lo que le he mandado, Ã©l ha cumplido con lo que le mandÃ©.",
+      "por": "<span class=\"verse-number\">7 </span>E assim, como foste batizado pelas mÃ£os de meu servo Joseph Smith JÃºnior, de acordo com aquilo que lhe ordenei, ele cumpriu aquilo que lhe ordenei.",
+      "fra": "<span class=\"verse-number\">7Â </span>Câest pourquoi, comme tu as Ã©tÃ© baptisÃ© par mon serviteur Joseph Smith, fils, selon ce que je lui ai commandÃ©, il a accompli le commandement que je lui ai donnÃ©.",
+      "deu": "<span class=\"verse-number\">7Â </span>Da du nun durch die HÃ¤nde meines Dieners Joseph Smith Jr.Â gemÃ¤Ã dem, was ich ihm geboten habe, getauft worden bist, hat er das vollbracht, was ich ihm geboten habe.",
+      "kor": "<span class=\"verse-number\">7 </span>ê·¸ë°ì¦ ë´ê° ëì ì¢ ì¡°ì ì¤ë¯¸ì¤ ì´ì¸ìê² ëªí ë°ì ë°ë¼ ë¤ê° ê·¸ì ìì¼ë¡ ì¹¨ë¡ ë°ìì¼ë¯ë¡ ê·¸ë ë´ê° ê·¸ìê² ëªí ì¼ì ì´ë£¨ìëëë¼.",
+      "ita": "<span class=\"verse-number\">7 </span>Pertanto, poichÃ© sei stato battezzato per mano del mio servitore Joseph Smith jr, secondo quanto gli ho comandato, egli ha adempiuto ciÃ² che io gli avevo comandato."
+    },
+    "8": {
+      "eng": "<span class=\"verse-number\">8 </span>And now, marvel not that I have called him unto mine own purpose, <span class=\"page-break\" data-page=\"29\"></span>which purpose is known in me; wherefore, if he shall be diligent in keeping my commandments he shall be blessed unto eternal life; and his name is Joseph.",
+      "jpn": "<span class=\"verse-number\">8</span>ãã¦ããããã<ruby><rb>ç®</rb><rt>ãã</rt></ruby><ruby><rb>ç</rb><rt>ã¦ã</rt></ruby>ã<ruby><rb>é</rb><rt>ãã£</rt></ruby>ããããã«<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¬</rb><rt>ã</rt></ruby>ãããã¨ãã<ruby><rb>ä¸</rb><rt>ãµ</rt></ruby><ruby><rb>æ</rb><rt>ã</rt></ruby><ruby><rb>è­°</rb><rt>ã</rt></ruby>ã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã£ã¦ã¯ãªããªãããã®<ruby><rb>ç®</rb><rt>ãã</rt></ruby><ruby><rb>ç</rb><rt>ã¦ã</rt></ruby>ããããã¯<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã£ã¦ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¯ãããã®<ruby><rb>æ</rb><rt>ãã¾ã</rt></ruby>ããç±å¿ã«å®ããªãã°ãç¥ç¦ããã¦<ruby><rb>æ°¸</rb><rt>ãã</rt></ruby><ruby><rb>é </rb><rt>ãã</rt></ruby>ã®<ruby><rb>å½</rb><rt>ãã®ã¡</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã§ãããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã¯ã¸ã§ã»ãã§ããã",
+      "zhs": "<span class=\"verse-number\">8ã</span>ç°å¨ï¼ä¸è¦æå¥æä¸ºäºèªå·±çç®çå¬å¤ä»ï¼æç¥éè¿ç®çï¼æä»¥ï¼å¦æä»å¤åéµå®æçè¯«å½ï¼ä»å¿èå¾æ°¸ççç¥ç¦ï¼ä»çåå­æ¯çº¦çã",
+      "zht": "<span class=\"verse-number\">8ã</span>ç¾å¨ï¼ä¸è¦é©å¥æçºäºèªå·±çç®çå¬åä»ï¼æç¥ééç®çï¼æä»¥ï¼å¦æä»å¤åéµå®æçèª¡å½ï¼ä»å¿èå¾æ°¸ççç¥ç¦ï¼ä»çåå­æ¯ç´çã",
+      "spa": "<span class=\"verse-number\">8 </span>Ahora, no te maravilles de que lo haya llamado para mi propÃ³sito particular, el cual me es conocido; por lo que, si es diligente en guardar mis mandamientos, serÃ¡ bendecido para vida eterna; y su nombre es JosÃ©.",
+      "por": "<span class=\"verse-number\">8 </span>E agora nÃ£o te maravilhes de que eu o tenha chamado por um propÃ³sito meu, propÃ³sito esse que me Ã© conhecido; portanto, se ele for diligente na observÃ¢ncia de meus mandamentos, serÃ¡ abenÃ§oado com vida eterna; e seu nome Ã© Joseph.",
+      "fra": "<span class=\"verse-number\">8Â </span>Et maintenant, ne tâÃ©tonne pas que je lâaie appelÃ© pour un but qui mâest propre, but qui mâest connuÂ ; câest pourquoi, sâil est diligent Ã  garder mes commandements, il sera bÃ©ni au point dâavoir la vie Ã©ternelleÂ ; et son nom est Joseph.",
+      "deu": "<span class=\"verse-number\">8Â </span>Und nun, wundere dich nicht, dass ich ihn zu meinem eigenen Zweck berufen habe, einem Zweck, den ich kenne; wenn er darum im Halten meiner Gebote eifrig ist, so wird er zu ewigem Leben gesegnet sein; und sein Name ist Joseph.",
+      "kor": "<span class=\"verse-number\">8 </span>ê·¸ë¦¬ê³  ì´ì  ë´ê° ë´ ìì ì ëª©ì ì ìíì¬ ê·¸ë¥¼ ë¶ë ìì ê¸°ì´í ì¬ê¸°ì§ ë§ë¼. ê·¸ ëª©ì ì ë´ê° ìê³  ìë ê²ì´ëë¼. ê·¸ë°ì¦ ë§ì¼ ê·¸ê° ë¶ì§ë°í ë´ ê³ëªì ì§í¤ë©´, ê·¸ë ë³µì ë°ì ììì ì´ë¥´ë¦¬ë, ê·¸ì ì´ë¦ì ì¡°ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">8 </span>Ed ora, non meravigliarti che io lâabbia chiamato per un mio proprio scopo, scopo che mi Ã¨ noto; pertanto, se sarÃ  diligente nel rispettare i miei comandamenti, sarÃ  benedetto fino alla vita eterna; e il suo nome Ã¨ Joseph."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>And now, Oliver Cowdery, I speak unto you, and also unto David Whitmer, by the way of commandment; for, behold, I command all men everywhere to repent, and I speak unto you, even as unto Paul mine apostle, for you are called even with that same calling with which he was called.",
+      "jpn": "<span class=\"verse-number\">9</span>ãã¦ããªãªãã¼ã»ã«ã¦ããªãããããã¯ããªãã¨ãã¾ãããããã»ãã¤ãããã¼ã«<ruby><rb>æ</rb><rt>ãã¾ã</rt></ruby>ãã¨ãã¦<ruby><rb>å</rb><rt>ã¤</rt></ruby>ããã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããããã¯ã©ãã«ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã§ããã¹ã¦ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã«<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ããããã«<ruby><rb>å½</rb><rt>ãã</rt></ruby>ããããããã¯ããããã®ä½¿å¾ãã¦ã­ã«<ruby><rb>èª</rb><rt>ãã</rt></ruby>ã£ãããã«ããªãããã«<ruby><rb>èª</rb><rt>ãã</rt></ruby>ããããªãããã¯ã¾ãã«ããã¦ã­ã<ruby><rb>å¬</rb><rt>ã</rt></ruby>ãããã¨<ruby><rb>å</rb><rt>ããª</rt></ruby>ã<ruby><rb>å¬</rb><rt>ã</rt></ruby>ãã«<ruby><rb>å¬</rb><rt>ã</rt></ruby>ããã¦ããããã§ããã",
+      "zhs": "<span class=\"verse-number\">9ã</span>ç°å¨ï¼<u>å¥¥å©ä½Â·èå¾·é</u>ï¼æç¨è¯«å½çæ¹å¼å¯¹ä½ ï¼ä¹å¯¹<u>å¤§å«Â·æ ç¹è</u>è¯´ï¼å ä¸ºï¼çåï¼æå½ä»¤åå°çäººææ¹ï¼èæå¯¹ä½ ä»¬è¯´çï¼å¦åæå¯¹æçä½¿å¾<u>ä¿ç½</u>è¯´çä¸æ ·ï¼å ä¸ºä½ ä»¬èå¾çå¬å¤åä»èå¾çå¬å¤æ¯ä¸æ ·çã",
+      "zht": "<span class=\"verse-number\">9ã</span>ç¾å¨ï¼<u>å¥§å©ä½Â·èå¾·é</u>ï¼æç¨èª¡å½çæ¹å¼å°ä½ ï¼ä¹å°<u>å¤§è¡Â·æ ç¹è</u>èªªï¼å çºï¼çåï¼æå½ä»¤åå°çäººææ¹ï¼èæå°ä½ åèªªçï¼å¦åæå°æçä½¿å¾<u>ä¿ç¾</u>èªªçä¸æ¨£ï¼å çºä½ åèå¾çå¬ååä»èå¾çå¬åæ¯ä¸æ¨£çã",
+      "spa": "<span class=\"verse-number\">9 </span>Y ahora, Oliver Cowdery, te hablo a ti, y tambiÃ©n a David Whitmer, por vÃ­a de mandamiento, porque he aquÃ­, mando a todos los hombres en todas partes que se arrepientan; y os hablo a vosotros, como a Pablo mi apÃ³stol, porque sois llamados con el mismo llamamiento que Ã©l.",
+      "por": "<span class=\"verse-number\">9 </span>E agora, Oliver Cowdery, dirijo-me a ti e tambÃ©m a David Whitmer, por meio de mandamento; pois eis que ordeno a todos os homens de todos os lugares que se arrependam; e falo a vÃ³s como falei a Paulo, meu apÃ³stolo, porque sois chamados pelo mesmo chamado que ele.",
+      "fra": "<span class=\"verse-number\">9Â </span>Et maintenant, Oliver Cowdery, câest Ã  toi que je parle, ainsi quâÃ  David Whitmer, Ã  titre de commandementÂ ; car voici, je commande Ã  tous les hommes de partout de se repentir, et je vous parle comme jâai parlÃ© Ã  Paul, mon apÃ´tre, car vous recevez le mÃªme appel que lui.",
+      "deu": "<span class=\"verse-number\">9Â </span>Und nun, Oliver Cowdery, spreche ich zu dir und auch zu David Whitmer in der Form eines Gebotes; denn siehe, ich gebiete allen Menschen Ã¼berall, umzukehren, und ich spreche zu euch so wie zu meinem Apostel Paulus; denn ihr seid berufen, selbst mit derselben Berufung, mit der er berufen war.",
+      "kor": "<span class=\"verse-number\">9 </span>ê·¸ë¦¬ê³  ì´ì  ì¬ë¦¬ë² ì¹´ì°ëë¦¬ì¬, ë´ê° ëì ëí ë°ì´ë¹ë íí¸ë¨¸ìê² ê³ëªì¼ë¡ì¨ ë§íë¸ë, ì´ë ë³´ë¼, ë´ê° ëª¨ë  ì¬ëìê² ì´ëì ìë ì§ íê°í  ê²ì ëªí¨ì´ëë¼. ë ëë ëì ì¬ë ë°ì¸ìê² íìë ê²ê°ì´ ëí¬ìê² ë§íë¸ë ì´ë ê·¸ê° ë¶ë¥´ì¬ì ë°ìë ê²ê³¼ ëê°ì ë¶ë¥´ì¬ì¼ë¡ ëí¬ê° ë¶ë¥´ì¬ì ë°ì ê¹ë­ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">9 </span>Ed ora, Oliver Cowdery, io parlo a te e anche a David Whitmer, per via di comandamento; poichÃ© ecco, io comando a tutti ovunque di pentirsi, e parlo a voi proprio come parlai a Paolo, il mio apostolo, poichÃ© siete chiamati con la stessa chiamata con cui egli fu chiamato."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span>Remember the worth of souls is great in the sight of God;",
+      "jpn": "<span class=\"verse-number\">10</span>äººã®ä¾¡å¤ã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®<ruby><rb>ç®</rb><rt>ã</rt></ruby>ã«<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ããªããã®ã§ãããã¨ã<ruby><rb>è¦</rb><rt>ãã¼</rt></ruby>ãã¦ãããªããã",
+      "zhs": "<span class=\"verse-number\">10ã</span>è®°ä½ï¼å¨ç¥ç¼ä¸­ï¼çµé­çä»·å¼æ¯å¤§çï¼",
+      "zht": "<span class=\"verse-number\">10ã</span>è¨ä½ï¼å¨ç¥ç¼ä¸­ï¼éé­çå¹å¼æ¯å¤§çï¼",
+      "spa": "<span class=\"verse-number\">10 </span>Recordad que el valor de las almas es grande a la vista de Dios;",
+      "por": "<span class=\"verse-number\">10 </span>Lembrai-vos de que o valor das almas Ã© grande Ã  vista de Deus;",
+      "fra": "<span class=\"verse-number\">10Â </span>Souvenez-vous que les Ã¢mes ont une grande valeur aux yeux de Dieu.",
+      "deu": "<span class=\"verse-number\">10Â </span>Denkt daran, die Seelen haben groÃen Wert in den Augen Gottes;",
+      "kor": "<span class=\"verse-number\">10 </span>ìí¼ì ê°ì¹ê° íëë ë³´ìê¸°ì í¼ì ê¸°ìµíë¼.",
+      "ita": "<span class=\"verse-number\">10 </span>Ricordate che il valore delle anime Ã¨ grande agli occhi di Dio;"
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.",
+      "jpn": "<span class=\"verse-number\">11</span><ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãªãããªãããã®è´ãä¸»ã¯ã<ruby><rb>è</rb><rt>ã«ã</rt></ruby><ruby><rb>ä½</rb><rt>ãã</rt></ruby>ã«ããã¦æ­»ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãããããã«ãã£ã¦ããã¹ã¦ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ãã¦<ruby><rb>èª</rb><rt>ã</rt></ruby><ruby><rb>å</rb><rt>ã¶ã</rt></ruby>ã®ãã¨ã«<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ããã¨ãã§ããããã«ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ãã¹ã¦ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®è¦ãå¼ãåããã",
+      "zhs": "<span class=\"verse-number\">11ã</span>å ä¸ºçåï¼ä¸»ï¼ä½ ä»¬çæèµä¸»ï¼å¿åäºèèº«çæ­»äº¡ï¼å æ­¤ï¼ç¥å¿åäºå¨äººç±»ççè¦ï¼è®©å¨äººç±»å¯ä»¥ææ¹èå½åç¥ã",
+      "zht": "<span class=\"verse-number\">11ã</span>å çºçåï¼ä¸»ï¼ä½ åçæè´ä¸»ï¼å¿åäºèèº«çæ­»äº¡ï¼å æ­¤ï¼ç¥å¿åäºå¨äººé¡ççè¦ï¼è®å¨äººé¡å¯ä»¥ææ¹èæ­¸åç¥ã",
+      "spa": "<span class=\"verse-number\">11 </span>porque he aquÃ­, el SeÃ±or vuestro Redentor padeciÃ³ la muerte en la carne; por tanto, sufriÃ³ el dolor de todos los hombres, a fin de que todo hombre pudiese arrepentirse y venir a Ã©l.",
+      "por": "<span class=\"verse-number\">11 </span>Pois eis que o Senhor vosso Redentor sofreu a morte na carne; portanto, sofreu a dor de todos os homens, para que todos os homens se arrependessem e viessem a ele.",
+      "fra": "<span class=\"verse-number\">11Â </span>Car voici, le Seigneur, votre RÃ©dempteur, a souffert la mort dans la chairÂ ; câest pourquoi, il a Ã©prouvÃ© les souffrances de tous les hommes, afin que tous les hommes puissent se repentir et venir Ã  lui.",
+      "deu": "<span class=\"verse-number\">11Â </span>denn siehe, der Herr, euer ErlÃ¶ser, erlitt den Tod im Fleische; darum hat er die Schmerzen aller Menschen gelitten, damit alle Menschen umkehren und zu ihm kommen kÃ¶nnen.",
+      "kor": "<span class=\"verse-number\">11 </span>ì´ë, ë³´ë¼, ì£¼ ëí¬ êµ¬ìì£¼ê° ì¡ì²´ë¡ ì£½ìì ê²ªììì´ë¼. ê·¸ë°ì¦ ê·¸ë ëª¨ë  ì¬ëì´ íê°íì¬ ìê¸°ìê² ëìì¤ê² íë ¤ê³  ëª¨ë  ì¬ëì ê³ íµì ê²ªìëëë¼.",
+      "ita": "<span class=\"verse-number\">11 </span>PoichÃ©, ecco, il Signore vostro Redentore soffrÃ¬ la morte nella carne; pertanto egli soffrÃ¬ i dolori di tutti gli uomini, affinchÃ© tutti possano pentirsi e venire a lui."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>And he hath risen again from the dead, that he might bring all men unto him, on conditions of repentance.",
+      "jpn": "<span class=\"verse-number\">12</span>ããã¦ãæãæ¹ãã<ruby><rb>æ¡</rb><rt>ããã</rt></ruby><ruby><rb>ä»¶</rb><rt>ãã</rt></ruby>ã¨ãã¦ããã¹ã¦ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>èª</rb><rt>ã</rt></ruby><ruby><rb>å</rb><rt>ã¶ã</rt></ruby>ã®ãã¨ã«<ruby><rb>å°</rb><rt>ã¿ã¡ã³</rt></ruby>ããã¨ãã§ããããã«ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>å</rb><rt>ãµãã</rt></ruby>ã³<ruby><rb>æ­»</rb><rt>ã</rt></ruby><ruby><rb>è</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ãããã¿ããã£ãã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">12ã</span>èä¸ç¥å·²ä»æ­»éå¤æ´»ï¼ä½¿ç¥è½å¸¦é¢å¨äººç±»å¨ææ¹çæ¡ä»¶ä¸å½åç¥ã",
+      "zht": "<span class=\"verse-number\">12ã</span>èä¸ç¥å·²å¾æ­»è£¡å¾©æ´»ï¼ä½¿ç¥è½å¸¶é å¨äººé¡å¨ææ¹çæ¢ä»¶ä¸æ­¸åç¥ã",
+      "spa": "<span class=\"verse-number\">12 </span>Y ha resucitado de entre los muertos, para traer a todos los hombres a Ã©l, mediante las condiciones del arrepentimiento.",
+      "por": "<span class=\"verse-number\">12 </span>E ressuscitou dentre os mortos, para trazer a si todos os homens, sob condiÃ§Ã£o de arrependimento.",
+      "fra": "<span class=\"verse-number\">12Â </span>Et il est ressuscitÃ© des morts afin dâamener tous les hommes Ã  lui, Ã  condition quâils se repentent.",
+      "deu": "<span class=\"verse-number\">12Â </span>Und er ist von den Toten wieder auferstanden, damit er alle Menschen zu sich fÃ¼hre, unter der Bedingung, dass sie umkehrten.",
+      "kor": "<span class=\"verse-number\">12 </span>ë ê·¸ë íê°ì ì¡°ê±´ ìì ëª¨ë  ì¬ëì ìê¸°ìê²ë¡ ì¸ëíë ¤ê³  ì£½ì ì ê°ì´ë°ì ë¤ì ì¼ì´ë¬ëëë¼.",
+      "ita": "<span class=\"verse-number\">12 </span>Ed Ã¨ risorto dai morti per poter portare tutti a SÃ©, a condizione del pentimento."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>And how great is his joy in the soul that repenteth!",
+      "jpn": "<span class=\"verse-number\">13</span><ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ããã¨ãã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã®åã³ã¯ããã«<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ãããã¨ãã",
+      "zhs": "<span class=\"verse-number\">13ã</span>å¯¹ææ¹ççµé­ï¼ç¥çå¿«ä¹æ¯å¤ä¹å¤§åï¼",
+      "zht": "<span class=\"verse-number\">13ã</span>å°ææ¹çéé­ï¼ç¥çå¿«æ¨æ¯å¤éº¼å¤§åï¼",
+      "spa": "<span class=\"verse-number\">13 </span>Â¡Y cuÃ¡n grande es su gozo por el alma que se arrepiente!",
+      "por": "<span class=\"verse-number\">13 </span>E quÃ£o grande Ã© sua alegria pela alma que se arrepende!",
+      "fra": "<span class=\"verse-number\">13Â </span>Et comme sa joie est grande pour lâÃ¢me qui se repentÂ !",
+      "deu": "<span class=\"verse-number\">13Â </span>Und wie groÃ ist seine Freude Ã¼ber die Seele, die umkehrt!",
+      "kor": "<span class=\"verse-number\">13 </span>ê·¸ë¦¬ê³  íê°íë ìí¼ì¼ë¡ ì¸í ê·¸ì ê¸°ì¨ì ì¼ë§ë í°ê³ !",
+      "ita": "<span class=\"verse-number\">13 </span>E quanto grande Ã¨ la sua gioia nellâanima che si pente!"
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>Wherefore, you are called to cry repentance unto this people.",
+      "jpn": "<span class=\"verse-number\">14</span>ããªãããã¯ãã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ããå«ã¶ããã«<ruby><rb>å¬</rb><rt>ã</rt></ruby>ããã¦ããã",
+      "zhs": "<span class=\"verse-number\">14ã</span>æä»¥ï¼ä½ ä»¬èå¬å¼åè¿äººæ°ææ¹ã",
+      "zht": "<span class=\"verse-number\">14ã</span>æä»¥ï¼ä½ åèå¬å¼ç±²éäººæ°ææ¹ã",
+      "spa": "<span class=\"verse-number\">14 </span>AsÃ­ que, sois llamados a proclamar el arrepentimiento a este pueblo.",
+      "por": "<span class=\"verse-number\">14 </span>Portanto, sois chamados para clamar arrependimento a este povo.",
+      "fra": "<span class=\"verse-number\">14Â </span>Câest pourquoi vous Ãªtes appelÃ©s Ã  inviter ce peuple au repentir.",
+      "deu": "<span class=\"verse-number\">14Â </span>Darum seid ihr berufen, dieses Volk zur Umkehr zu rufen.",
+      "kor": "<span class=\"verse-number\">14 </span>ì´ë¬ë¯ë¡ ëí¬ë ì´ ë°±ì±ìê² íê°ë¥¼ ì¸ì¹ëë¡ ë¶ë¥´ì¬ì ë°ìëëë¼.",
+      "ita": "<span class=\"verse-number\">14 </span>Pertanto voi siete chiamati a gridare il pentimento a questo popolo."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>And if it so be that you should labor all your days in crying repentance unto this people, and bring, save it be one soul unto me, how great shall be your joy with him in the kingdom of my Father!",
+      "jpn": "<span class=\"verse-number\">15</span>ããªãããã¯ãã®<ruby><rb>æ°</rb><rt>ãã¿</rt></ruby>ã«<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ãã<ruby><rb>å«</rb><rt>ãã</rt></ruby>ã¶ãã¨ã«<ruby><rb>ç</rb><rt>ããã</rt></ruby><ruby><rb>æ¶¯</rb><rt>ãã</rt></ruby><ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã<ruby><rb>å°½</rb><rt>ã¤</rt></ruby>ãããä¸äººã§ããããã®ãã¨ã«<ruby><rb>å°</rb><rt>ã¿ã¡ã³</rt></ruby>ããªãã°ããããã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã®<ruby><rb>ç</rb><rt>ãã</rt></ruby><ruby><rb>å½</rb><rt>ãã</rt></ruby>ã§<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ã¨ã¨ãã«<ruby><rb>å</rb><rt>ã</rt></ruby>ããããªãããã®<ruby><rb>å</rb><rt>ããã</rt></ruby>ã³ã¯ããã«<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ãããã¨ãã",
+      "zhs": "<span class=\"verse-number\">15ã</span>åå¦ä½ ä»¬è¾å¤ç»çï¼å¼åè¿äººæ°ææ¹ï¼å³ä½¿åªå¸¦é¢ä¸ä¸ªçµé­å½åæï¼ä½ ä»¬åä»å¨æç¶å½åº¦ä¸­çå¿«ä¹è¯¥æ¯å¤ä¹å¤§åï¼",
+      "zht": "<span class=\"verse-number\">15ã</span>åå¦ä½ åè¾å¤çµçï¼å¼ç±²éäººæ°ææ¹ï¼å³ä½¿åªå¸¶é ä¸åéé­æ­¸åæï¼ä½ ååä»å¨æç¶ååº¦ä¸­çå¿«æ¨è©²æ¯å¤éº¼å¤§åï¼",
+      "spa": "<span class=\"verse-number\">15 </span>Y si acontece que trabajÃ¡is todos vuestros dÃ­as proclamando el arrepentimiento a este pueblo y me traÃ©is aun cuando fuere una sola alma, Â¡cuÃ¡n grande serÃ¡ vuestro gozo con ella en el reino de mi Padre!",
+      "por": "<span class=\"verse-number\">15 </span>E, se trabalhardes todos os vossos dias clamando arrependimento a este povo e trouxerdes a mim mesmo que seja uma sÃ³ alma, quÃ£o grande serÃ¡ vossa alegria com ela no reino de meu Pai!",
+      "fra": "<span class=\"verse-number\">15Â </span>Et si vous travaillez toute votre vie Ã  appeler ce peuple au repentir et que vous mâamenez ne fÃ»t-ce quâune seule Ã¢me, comme votre joie sera grande avec elle dans le royaume de mon PÃ¨reÂ !",
+      "deu": "<span class=\"verse-number\">15Â </span>Und wenn es so ist, dass ihr alle eure Tage arbeitet, um dieses Volk zur Umkehr zu rufen, und auch nur eine einzige Seele zu mir fÃ¼hrt, wie groÃ wird eure Freude mit ihr im Reich meines Vaters sein!",
+      "kor": "<span class=\"verse-number\">15 </span>ê·¸ë¦¬ê³  ë§ì¼ ëí¬ê° ì´ ë°±ì±ìê² íê°ë¥¼ ì¸ì³ ëí¬ ì¨ ìì  ëì ìê³ íì¬ ë¨ í ìí¼ì´ë¼ë ë´ê²ë¡ ë°ë ¤ì¤ë©´, ëì ìë²ì§ì ìêµ­ìì ê·¸ì í¨ê» ëë¦¬ê² ë  ëí¬ì ê¸°ì¨ì´ ì¼ë§ë í¬ê² ëë!",
+      "ita": "<span class=\"verse-number\">15 </span>E se accadrÃ  che doveste faticare tutti i vostri giorni nel gridare il pentimento a questo popolo, per portare non fosse che una sola anima a me, quanto sarÃ  grande la vostra gioia in sua compagnia nel regno di mio Padre!"
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>And now, if your joy will be great with one soul that you have brought unto me into the kingdom of my Father, how great will be your joy if you should bring many souls unto me!",
+      "jpn": "<span class=\"verse-number\">16</span>ãã¦ãããªãããããããã®ãã¨ã«<ruby><rb>å°</rb><rt>ã¿ã¡ã³</rt></ruby>ãã¦ãããã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã®çå½ã«<ruby><rb>å¥</rb><rt>ã¯ã</rt></ruby>ããããã«ããã<ruby><rb>ä¸äºº</rb><rt>ã²ã¨ã</rt></ruby>ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¨ã¨ãã«<ruby><rb>å</rb><rt>ã</rt></ruby>ããããªãããã®<ruby><rb>å</rb><rt>ããã</rt></ruby>ã³ã<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ãããªãã°ããã<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ããããã®ãã¨ã«å°ãã¨ããã°ãã®åã³ã¯ããã«<ruby><rb>å¤§</rb><rt>ãã</rt></ruby>ãããã¨ãã",
+      "zhs": "<span class=\"verse-number\">16ã</span>åå¦ä½ ä»¬å¸¦é¢ä¸ä¸ªçµé­å½åæï¼è¿å¥æç¶çå½åº¦ï¼ä½ ä»¬å°±é£ä¹å¿«ä¹ï¼é£ä¹ï¼å¦æä½ ä»¬å¸¦é¢å¾å¤çµé­å½åæï¼ä½ ä»¬çå¿«ä¹å°æ¯å¤ä¹å¤§åï¼",
+      "zht": "<span class=\"verse-number\">16ã</span>åå¦ä½ åå¸¶é ä¸åéé­æ­¸åæï¼é²å¥æç¶çååº¦ï¼ä½ åå°±é£éº¼å¿«æ¨ï¼é£éº¼ï¼å¦æä½ åå¸¶é å¾å¤éé­æ­¸åæï¼ä½ åçå¿«æ¨å°æ¯å¤éº¼å¤§åï¼",
+      "spa": "<span class=\"verse-number\">16 </span>Y ahora, si vuestro gozo serÃ¡ grande con un alma que me hayÃ¡is traÃ­do al reino de mi Padre, Â¡cuÃ¡n grande no serÃ¡ vuestro gozo si me trajereis muchas almas!",
+      "por": "<span class=\"verse-number\">16 </span>E agora, se vossa alegria Ã© grande com uma sÃ³ alma que tiverdes trazido a mim no reino de meu Pai, quÃ£o grande serÃ¡ vossa alegria se me trouxerdes muitas almas!",
+      "fra": "<span class=\"verse-number\">16Â </span>Or, si votre joie est grande avec cette seule Ã¢me que vous mâaurez amenÃ©e dans le royaume de mon PÃ¨re, comme elle sera grande si vous mâen amenez beaucoupÂ !",
+      "deu": "<span class=\"verse-number\">16Â </span>Und nun, wenn eure Freude schon groÃ sein wird mit einer Seele, die ihr zu mir ins Reich meines Vaters gefÃ¼hrt habt, wie groÃ wird eure Freude sein, wenn ihr viele Seelen zu mir fÃ¼hrt!",
+      "kor": "<span class=\"verse-number\">16 </span>ê·¸ë¦¬ê³  ì´ì , ëí¬ê° ëì ìë²ì§ì ìêµ­ì ë´ê²ë¡ ë°ë ¤ì¨ í ìí¼ê³¼ í¨ê» ëë¦¬ë ëí¬ì ê¸°ì¨ì´ í´ì§ë, ëí¬ê° ë§ì ìí¼ì ë´ê²ë¡ ë°ë ¤ì¤ë©´, ëí¬ì ê¸°ì¨ì´ ì¼ë§ë í¬ê² ëë!",
+      "ita": "<span class=\"verse-number\">16 </span>Ed ora, se la vostra gioia sarÃ  grande con una sola anima che mi avete portato nel regno di mio Padre, quanto sarÃ  grande la vostra gioia se mi portate molte anime!"
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>Behold, you have my gospel before you, and my rock, and my salvation.",
+      "jpn": "<span class=\"verse-number\">17</span><ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããããã®<ruby><rb>ç¦</rb><rt>ãµã</rt></ruby><ruby><rb>é³</rb><rt>ãã</rt></ruby>ã¯ããªãããã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ããããããã®<ruby><rb>å²©</rb><rt>ãã</rt></ruby>ãã¾ããããã®æããããã",
+      "zhs": "<span class=\"verse-number\">17ã</span>çåï¼ä½ ä»¬ææçç¦é³å¨ä½ ä»¬é¢åï¼è¿ææçç£ç³åæçææ©ã",
+      "zht": "<span class=\"verse-number\">17ã</span>çåï¼ä½ åææçç¦é³å¨ä½ åé¢åï¼éææçç£ç³åæçææ©ã",
+      "spa": "<span class=\"verse-number\">17 </span>He aquÃ­, tenÃ©is mi evangelio ante vosotros, y mi roca y mi salvaciÃ³n.",
+      "por": "<span class=\"verse-number\">17 </span>Eis que tendes diante de vÃ³s meu evangelho e minha rocha e minha salvaÃ§Ã£o.",
+      "fra": "<span class=\"verse-number\">17Â </span>Voici, vous avez devant vous mon Ãvangile, mon roc et mon salut.",
+      "deu": "<span class=\"verse-number\">17Â </span>Siehe, ihr habt mein Evangelium vor euch und meinen Felsen und meine Errettung.",
+      "kor": "<span class=\"verse-number\">17 </span>ë³´ë¼, ëì ë³µì, ëì ë°ì, ëì êµ¬ìì´ ëí¬ ìì ìëë¤.",
+      "ita": "<span class=\"verse-number\">17 </span>Ecco, avete dinanzi a voi il mio Vangelo, la mia roccia e la mia salvezza."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>Ask the Father in my name in faith, believing that you shall receive, and you shall have the Holy Ghost, which manifesteth all things which are expedient unto the children of men.",
+      "jpn": "<span class=\"verse-number\">18</span><ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããã¨<ruby><rb>ä¿¡</rb><rt>ãã</rt></ruby>ãã¦ã<ruby><rb>ä¿¡</rb><rt>ãã</rt></ruby><ruby><rb>ä»°</rb><rt>ãã</rt></ruby>ããã£ã¦ããããã®åã«ãã£ã¦<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã«æ±ããªãããããããã°ãããªãããã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã«å¿è¦ãªãã¹ã¦ã®ãã¨ã<ruby><rb>ç¤º</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ãã</rt></ruby><ruby><rb>é</rb><rt>ãã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã§ãããã",
+      "zhs": "<span class=\"verse-number\">18ã</span>å¥æçåç¥æ±ç¶ï¼å­ä¿¡å¿ç¸ä¿¡ä½ ä»¬ä¼å¾å°ï¼ä½ ä»¬å°±ä¼æå£çµï¼å£çµä¼åäººç±»å¿å¥³æ¾ç¤ºä¸åä»ä»¬éè¦çäºã",
+      "zht": "<span class=\"verse-number\">18ã</span>å¥æçåç¥æ±ç¶ï¼æä¿¡å¿ç¸ä¿¡ä½ åæå¾å°ï¼ä½ åå°±ææèéï¼èéæåäººé¡åå¥³é¡¯ç¤ºä¸åä»åéè¦çäºã",
+      "spa": "<span class=\"verse-number\">18 </span>Pedid al Padre en mi nombre con fe, creyendo que recibirÃ©is, y tendrÃ©is el EspÃ­ritu Santo, que manifiesta todas las cosas que son convenientes a los hijos de los hombres.",
+      "por": "<span class=\"verse-number\">18 </span>Pedi ao Pai em meu nome com fÃ©, acreditando que recebereis, e tereis o EspÃ­rito Santo, que manifesta todas as coisas que sÃ£o convenientes aos filhos dos homens.",
+      "fra": "<span class=\"verse-number\">18Â </span>Demandez au PÃ¨re en mon nom, avec foi, croyant que vous recevrez, et vous aurez le Saint-Esprit, qui manifeste tout ce qui est opportun aux enfants des hommes.",
+      "deu": "<span class=\"verse-number\">18Â </span>Bittet den Vater voll Glauben in meinem Namen, darauf vertrauend, dass ihr empfangen werdet, dann werdet ihr den Heiligen Geist haben, der alles kundtut, was fÃ¼r die Menschenkinder ratsam ist.",
+      "kor": "<span class=\"verse-number\">18 </span>ëí¬ê° ë°ê² ë  ì¤ë¡ ë¯¿ë ì ìì¼ë¡ ë´ ì´ë¦ì¼ë¡ ìë²ì§ê» êµ¬íë¼. ê·¸ë¦¬íë©´ ëí¬ë ì¬ëì ìëë¤ìê² íìí ëª¨ë  ê²ì ëíë´ë ì±ì ì ê°ê² ëë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">18 </span>Chiedete al Padre in nome mio con fede, credendo che riceverete, e avrete lo Spirito Santo, che manifesta ogni cosa che sia opportuna ai figlioli degli uomini."
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>And if you have not faith, hope, and charity, you can do nothing.",
+      "jpn": "<span class=\"verse-number\">19</span>ãããããªãããã«ä¿¡ä»°ã¨å¸æã¨ææããªããã°ãããªãããã¯<ruby><rb>ä½</rb><rt>ãªã«</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ããã¨ãã§ããªãã",
+      "zhs": "<span class=\"verse-number\">19ã</span>å¦æä½ ä»¬æ²¡æä¿¡å¿ãå¸æãä»ç±ï¼ä½ ä»¬ä»ä¹äºé½åä¸æã",
+      "zht": "<span class=\"verse-number\">19ã</span>å¦æä½ åæ²æä¿¡å¿ãå¸æãä»æï¼ä½ åä»éº¼äºé½åä¸æã",
+      "spa": "<span class=\"verse-number\">19 </span>Y si no tenÃ©is fe, esperanza y caridad, no podrÃ©is hacer nada.",
+      "por": "<span class=\"verse-number\">19 </span>E se nÃ£o tendes fÃ©, esperanÃ§a e caridade, nada podeis fazer.",
+      "fra": "<span class=\"verse-number\">19Â </span>Et si vous nâavez pas la foi, lâespÃ©rance et la charitÃ©, vous ne pouvez rien faire.",
+      "deu": "<span class=\"verse-number\">19Â </span>Und wenn ihr nicht Glauben, Hoffnung und NÃ¤chstenliebe habt, kÃ¶nnt ihr nichts tun.",
+      "kor": "<span class=\"verse-number\">19 </span>ë ë§ì¼ ëí¬ìê² ì ì, ìë§, ì¬ëì´ ìì¼ë©´ ëí¬ë ìë¬´ ì¼ë í  ì ìëëë¼.",
+      "ita": "<span class=\"verse-number\">19 </span>E se non avete fede, speranza e caritÃ , non potete far nulla."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>Contend against no church, save it be the church of the devil.",
+      "jpn": "<span class=\"verse-number\">20</span>æªé­ã®æä¼ã®ã»ãããããªã<ruby><rb>æ</rb><rt>ããã</rt></ruby><ruby><rb>ä¼</rb><rt>ãã</rt></ruby>ã¨ãäºã£ã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">20ã</span>é¤äºé­é¬¼çæä¼ï¼å¿ä¸ä»»ä½æä¼ç¸äºã",
+      "zht": "<span class=\"verse-number\">20ã</span>é¤äºé­é¬¼çææï¼å¿èä»»ä½ææç¸ç­ã",
+      "spa": "<span class=\"verse-number\">20 </span>No contendÃ¡is en contra de ninguna iglesia, a menos que sea la iglesia del diablo.",
+      "por": "<span class=\"verse-number\">20 </span>NÃ£o contendais com igreja alguma, a menos que seja a igreja do diabo.",
+      "fra": "<span class=\"verse-number\">20Â </span>Ne luttez contre aucune Ãglise, si ce nâest lâÃglise du diable.",
+      "deu": "<span class=\"verse-number\">20Â </span>Streitet gegen keine Kirche, auÃer es sei die Kirche des Teufels.",
+      "kor": "<span class=\"verse-number\">20 </span>ìë§ì êµíê° ìëê±°ë  ìë¬´ êµíìë ëì íì¬ ë¤í¬ì§ ë§ë¼.",
+      "ita": "<span class=\"verse-number\">20 </span>Non lottate contro alcuna chiesa salvo contro la chiesa del diavolo."
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>Take upon you the name of Christ, and speak the truth in soberness.",
+      "jpn": "<span class=\"verse-number\">21</span>ã­ãªã¹ãã®åã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¾ããã«<ruby><rb>ç</rb><rt>ãã</rt></ruby><ruby><rb>ç</rb><rt>ã</rt></ruby>ãèªããªããã",
+      "zhs": "<span class=\"verse-number\">21ã</span>æ¿ååºç£çåï¼ä¸¥èå°å®£è®²ççã",
+      "zht": "<span class=\"verse-number\">21ã</span>æ¿ååºç£çåï¼å´èå°å®£è¬ççã",
+      "spa": "<span class=\"verse-number\">21 </span>Tomad sobre vosotros el nombre de Cristo, y declarad la verdad con solemnidad.",
+      "por": "<span class=\"verse-number\">21 </span>Tomai sobre vÃ³s o nome de Cristo e falai a verdade com seriedade.",
+      "fra": "<span class=\"verse-number\">21Â </span>Prenez sur vous le nom du Christ et dites la vÃ©ritÃ© avec simplicitÃ©.",
+      "deu": "<span class=\"verse-number\">21Â </span>Nehmt den Namen Christi auf euch, und redet die Wahrheit mit Ernsthaftigkeit.",
+      "kor": "<span class=\"verse-number\">21 </span>ëí¬ë ê·¸ë¦¬ì¤ëì ì´ë¦ì ë°ë¤ë©°, ì§ì§íê² ì§ë¦¬ë¥¼ ë§íë¼.",
+      "ita": "<span class=\"verse-number\">21 </span>Prendete su di voi il nome di Cristo e annunciate la veritÃ  con sobrietÃ ."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>And as many as repent and are baptized in my name, which is Jesus Christ, and endure to the end, the same shall be saved.",
+      "jpn": "<span class=\"verse-number\">22</span><ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ãã¦ãã¤ã¨ã¹ã»ã­ãªã¹ãã§ãããããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã«ãã£ã¦ãããã¹ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ãã</rt></ruby><ruby><rb>å¾</rb><rt>ã</rt></ruby>ã¾ã§å ªãå¿ã¶<ruby><rb>è</rb><rt>ãã®</rt></ruby>ã¯<ruby><rb>ç</rb><rt>ã¿ãª</rt></ruby>ã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã§ãããã",
+      "zhs": "<span class=\"verse-number\">22ã</span>å¡ææ¹ãå¥æè¶ç¨£åºç£çååæ´å¹¶æå®å°åºçï¼å¿ç¶å¾æã",
+      "zht": "<span class=\"verse-number\">22ã</span>å¡ææ¹ãå¥æè¶ç©åºç£çååæ´ä¸¦æå®å°åºçï¼å¿ç¶å¾æã",
+      "spa": "<span class=\"verse-number\">22 </span>Y cuantos se arrepientan y se bauticen en mi nombre âel cual es Jesucristoâ y perseveren hasta el fin, tales serÃ¡n salvos.",
+      "por": "<span class=\"verse-number\">22 </span>E todos os que se arrependerem e forem batizados em meu nome, que Ã© Jesus Cristo, e perseverarem atÃ© o fim, serÃ£o salvos.",
+      "fra": "<span class=\"verse-number\">22Â </span>Et tous ceux qui se repentiront et seront baptisÃ©s en mon nom, qui est JÃ©sus-Christ, et persÃ©vÃ©reront jusquâÃ  la fin, ceux-lÃ  seront sauvÃ©s.",
+      "deu": "<span class=\"verse-number\">22Â </span>Und alle, die umkehren und sich in meinem Namen, nÃ¤mlich Jesus Christus, taufen lassen und bis ans Ende ausharren, die werden errettet werden.",
+      "kor": "<span class=\"verse-number\">22 </span>íê°íê³  ë´ ì´ë¦ ê³§ ìì ê·¸ë¦¬ì¤ëì ì´ë¦ì¼ë¡ ì¹¨ë¡ë¥¼ ë°ê³  ëê¹ì§ ê²¬ëë ìë§ë¤ êµ¬ìì ì»ì¼ë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">22 </span>E tutti coloro che si pentono e sono battezzati nel mio nome, che Ã¨ GesÃ¹ Cristo, e perseverano fino alla fine, saranno salvati."
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span>Behold, Jesus Christ is the name which is given of the Father, and there is none other name given whereby man can be saved;",
+      "jpn": "<span class=\"verse-number\">23</span><ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããã¤ã¨ã¹ã»ã­ãªã¹ãã¨ã¯ã<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ãã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã¦ããåã§ããããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®ã»ãã«ã¯ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã¨ã®ã§ãã<ruby><rb>å</rb><rt>ãª</rt></ruby>ã¯<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã¦ããªãã",
+      "zhs": "<span class=\"verse-number\">23ã</span>çåï¼è¶ç¨£åºç£æ¯ç¶æç»çåï¼ç¥æ²¡æç»å«çåï¼äººå¯åä»¥å¾æï¼",
+      "zht": "<span class=\"verse-number\">23ã</span>çåï¼è¶ç©åºç£æ¯ç¶æçµ¦çåï¼ç¥æ²æçµ¦å¥çåï¼äººå¯èä»¥å¾æï¼",
+      "spa": "<span class=\"verse-number\">23 </span>He aquÃ­, Jesucristo es el nombre dado por el Padre, y no hay otro nombre dado, mediante el cual el hombre pueda ser salvo;",
+      "por": "<span class=\"verse-number\">23 </span>Eis que Jesus Cristo Ã© o nome dado pelo Pai; e nÃ£o Ã© dado qualquer outro nome pelo qual o homem possa ser salvo;",
+      "fra": "<span class=\"verse-number\">23Â </span>Voici, JÃ©sus-Christ est le nom qui est donnÃ© par le PÃ¨re, et il nây a aucun autre nom qui ait Ã©tÃ© donnÃ© par lequel lâhomme puisse Ãªtre sauvÃ©.",
+      "deu": "<span class=\"verse-number\">23Â </span>Siehe, Jesus Christus ist der Name, der vom Vater gegeben ist, und es ist kein anderer Name gegeben, wodurch der Mensch errettet werden kann;",
+      "kor": "<span class=\"verse-number\">23 </span>ë³´ë¼, ìì ê·¸ë¦¬ì¤ëë ìë²ì§ê»ì ì£¼ì  ì´ë¦ì´ë, ì¬ëì´ êµ¬ìì ì»ì ì ìë ë¤ë¥¸ ì´ë¦ì ì£¼ì´ì§ì§ ìëíìëëë¼.",
+      "ita": "<span class=\"verse-number\">23 </span>Ecco, GesÃ¹ Cristo Ã¨ il nome che Ã¨ dato dal Padre, e non Ã¨ dato alcun altro nome mediante il quale lâuomo possa essere salvato;"
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>Wherefore, all men must take upon them the name which is given of the Father, for in that name shall they be called at the last day;",
+      "jpn": "<span class=\"verse-number\">24</span>ããããããã¹ã¦ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯ã<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ãã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã¦ãããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããªããã°ãªããªãããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã«ãã£ã¦ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã¯<ruby><rb>çµ</rb><rt>ã</rt></ruby>ããã®<ruby><rb>æ¥</rb><rt>ã²</rt></ruby>ã«<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã°ããããã§ããã",
+      "zhs": "<span class=\"verse-number\">24ã</span>å æ­¤ï¼å¨äººç±»é½å¿é¡»æ¿åç¶æç»çåï¼å ä¸ºå¨æ«æ¥ä»ä»¬é½è¦ç¨è¿åæ¥è¢«ç§°å¼ï¼",
+      "zht": "<span class=\"verse-number\">24ã</span>å æ­¤ï¼å¨äººé¡é½å¿é æ¿åç¶æçµ¦çåï¼å çºå¨æ«æ¥ä»åé½è¦ç¨éåä¾è¢«ç¨±å¼ï¼",
+      "spa": "<span class=\"verse-number\">24 </span>asÃ­ que, es preciso que todos los hombres tomen sobre sÃ­ el nombre dado por el Padre, porque por ese nombre serÃ¡n llamados en el postrer dÃ­a;",
+      "por": "<span class=\"verse-number\">24 </span>Portanto, todos os homens devem tomar sobre si o nome que Ã© dado pelo Pai, pois por esse nome serÃ£o chamados no Ãºltimo dia;",
+      "fra": "<span class=\"verse-number\">24Â </span>Câest pourquoi, tous les hommes doivent prendre sur eux le nom qui est donnÃ© par le PÃ¨re, car câest en ce nom quâils seront appelÃ©s au dernier jour.",
+      "deu": "<span class=\"verse-number\">24Â </span>darum mÃ¼ssen alle Menschen den Namen auf sich nehmen, der vom Vater gegeben ist, denn mit diesem Namen werden sie am letzten Tag gerufen werden;",
+      "kor": "<span class=\"verse-number\">24 </span>ê·¸ë¬ë¯ë¡ ëª¨ë  ì¬ëì ìë²ì§ê»ì ì£¼ì  ê·¸ ì´ë¦ì ë°ë¤ì´ì¼ë§ íëë, ì´ë ê·¸ ì´ë¦ì¼ë¡ ê·¸ë¤ì´ ë§ì§ë§ ë ì ì¼ì»¬ìì ë°ì ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">24 </span>Pertanto, tutti devono prendere su di sÃ© il nome che Ã¨ dato dal Padre, poichÃ© con questo nome essi saranno chiamati allâultimo giorno;"
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>Wherefore, if they know not the name by which they are called, they cannot have place in the kingdom of my Father.",
+      "jpn": "<span class=\"verse-number\">25</span>ããããã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã¯<ruby><rb>èª</rb><rt>ã</rt></ruby><ruby><rb>å</rb><rt>ã¶ã</rt></ruby>ã<ruby><rb>å¼</rb><rt>ã</rt></ruby>ã°ããåã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ããªããã°ããããã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã®çå½ã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ã<ruby><rb>å ´</rb><rt>ã°</rt></ruby><ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã¨ã¯ã§ããªãã",
+      "zhs": "<span class=\"verse-number\">25ã</span>å æ­¤ï¼å¦æä»ä»¬ä¸ç¥éä»ä»¬è¦è¢«ç§°å¼çåï¼å¨æç¶çå½åº¦ä¸­ï¼å°±æ²¡æä»ä»¬çå°æ¹ã",
+      "zht": "<span class=\"verse-number\">25ã</span>å æ­¤ï¼å¦æä»åä¸ç¥éä»åè¦è¢«ç¨±å¼çåï¼å¨æç¶çååº¦ä¸­ï¼å°±æ²æä»åçå°æ¹ã",
+      "spa": "<span class=\"verse-number\">25 </span>por tanto, si no saben el nombre por el cual son llamados, no hay lugar para ellos en el reino de mi Padre.",
+      "por": "<span class=\"verse-number\">25 </span>Portanto, se nÃ£o sabem o nome pelo qual sÃ£o chamados, nÃ£o podem ter lugar no reino de meu Pai.",
+      "fra": "<span class=\"verse-number\">25Â </span>Câest pourquoi, sâils ne connaissent pas le nom par lequel ils sont appelÃ©s, ils ne peuvent pas avoir de place dans le royaume de mon PÃ¨re.",
+      "deu": "<span class=\"verse-number\">25Â </span>wenn sie darum den Namen nicht kennen, mit dem sie gerufen werden, kÃ¶nnen sie im Reich meines Vaters keinen Platz haben.",
+      "kor": "<span class=\"verse-number\">25 </span>ê·¸ë¬ë¯ë¡ ë§ì¼ ê·¸ë¤ì´ ì¼ì»¬ìì ë°ë ê·¸ ì´ë¦ì ìì§ ëª»íë©´, ë´ ìë²ì§ì ìêµ­ìì ê±°í  ê³³ì ì»ì ì ìëëë¼.",
+      "ita": "<span class=\"verse-number\">25 </span>Pertanto, se non conoscono il nome con il quale saranno chiamati, essi non potranno avere un posto nel regno di mio Padre."
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span>And now, behold, there are others who are called to declare my gospel, both unto Gentile and unto Jew;",
+      "jpn": "<span class=\"verse-number\">26</span>ãã¦<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããããã®<ruby><rb>ç¦</rb><rt>ãµã</rt></ruby><ruby><rb>é³</rb><rt>ãã</rt></ruby>ãç°é¦äººã¨ã¦ãã¤<ruby><rb>äºº</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¸¡</rb><rt>ããã</rt></ruby><ruby><rb>æ¹</rb><rt>ã»ã</rt></ruby>ã«<ruby><rb>å</rb><rt>ã¤</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããããã«<ruby><rb>å¬</rb><rt>ã</rt></ruby>ããã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ãã»ãã«ããã",
+      "zhs": "<span class=\"verse-number\">26ã</span>ç°å¨ï¼çåï¼è¿æå¶ä»äººè¢«å¬å¤æ¥åå¤é¦äººå<u>ç¹å¤ª</u>äººå®£è®²æçç¦é³ï¼",
+      "zht": "<span class=\"verse-number\">26ã</span>ç¾å¨ï¼çåï¼éæå¶ä»äººè¢«å¬åä¾åå¤é¦äººå<u>ç¶å¤ª</u>äººå®£è¬æçç¦é³ï¼",
+      "spa": "<span class=\"verse-number\">26 </span>Y ahora bien, he aquÃ­, hay otros que son llamados a declarar mi evangelio, tanto a los gentiles como a los judÃ­os;",
+      "por": "<span class=\"verse-number\">26 </span>E agora, eis que hÃ¡ outros chamados para declararem o meu evangelho, tanto aos gentios como aos judeus;",
+      "fra": "<span class=\"verse-number\">26Â </span>Et maintenant, voici, il y en a dâautres qui sont appelÃ©s Ã  annoncer mon Ãvangile, tant au Gentil quâau Juif.",
+      "deu": "<span class=\"verse-number\">26Â </span>Und nun siehe, es gibt noch andere, die berufen sind, mein Evangelium zu verkÃ¼nden, den Anderen ebenso wie den Juden;",
+      "kor": "<span class=\"verse-number\">26 </span>ê·¸ë¦¬ê³  ì´ì , ë³´ë¼, ì´ë°©ì¸ê³¼ ì ëì¸ ëª¨ëìê² ëì ë³µìì ì í¬íëë¡ ë¶ë¦ì ë°ë ë¤ë¥¸ ìë¤ì´ ìëë,",
+      "ita": "<span class=\"verse-number\">26 </span>Ed ora, ecco, ve ne sono altri che sono chiamati a proclamare il mio Vangelo, sia ai Gentili che ai Giudei;"
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>Yea, even twelve; and the Twelve shall be my disciples, and they shall take upon them my name; and the Twelve are they who shall desire to take upon them my name with full purpose of heart.",
+      "jpn": "<span class=\"verse-number\">27</span>ããªãã¡ãåäº<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ããããã®åäºäººã¯ãããã®<ruby><rb>å¼</rb><rt>ã§</rt></ruby><ruby><rb>å­</rb><rt>ã</rt></ruby>ã¨ãªãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ãããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã§ãããããã®åäº<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã¯ã<ruby><rb>å</rb><rt>ããã</rt></ruby><ruby><rb>å</rb><rt>ã¶ã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ±º</rb><rt>ãã¤</rt></ruby><ruby><rb>æ</rb><rt>ã</rt></ruby>ããã£ã¦ãããã®åã<ruby><rb>å</rb><rt>ã</rt></ruby>ãããã¨<ruby><rb>é¡</rb><rt>ã­ã</rt></ruby>ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã§ããã",
+      "zhs": "<span class=\"verse-number\">27ã</span>æ¯çï¼æåäºä½ï¼è¿åäºäººå°æ¯æçé¨å¾ï¼ä»ä»¬å°æ¿åæçåï¼è¿åäºäººæ¯å¨å¿å¨ææ¸´ææ¿åæåçäººã",
+      "zht": "<span class=\"verse-number\">27ã</span>æ¯çï¼æåäºä½ï¼éåäºäººå°æ¯æçéå¾ï¼ä»åå°æ¿åæçåï¼éåäºäººæ¯å¨å¿å¨ææ¸´ææ¿åæåçäººã",
+      "spa": "<span class=\"verse-number\">27 </span>sÃ­, doce; y los Doce serÃ¡n mis discÃ­pulos, y tomarÃ¡n sobre sÃ­ mi nombre; y los Doce serÃ¡n aquellos que desearen tomar sobre sÃ­ mi nombre con Ã­ntegro propÃ³sito de corazÃ³n.",
+      "por": "<span class=\"verse-number\">27 </span>Sim, doze; e os Doze serÃ£o meus discÃ­pulos e tomarÃ£o sobre si o meu nome; e os Doze sÃ£o aqueles que desejam, de todo coraÃ§Ã£o, tomar sobre si o meu nome.",
+      "fra": "<span class=\"verse-number\">27Â </span>Oui, douzeÂ ; et les Douze seront mes disciples, et ils prendront mon nom sur eux, et les Douze seront ceux qui dÃ©sireront, dâun cÅur pleinement rÃ©solu, prendre mon nom sur eux.",
+      "deu": "<span class=\"verse-number\">27Â </span>ja, nÃ¤mlich zwÃ¶lf; und die ZwÃ¶lf sollen meine JÃ¼nger sein, und sie sollen meinen Namen auf sich nehmen; und die ZwÃ¶lf sind diejenigen, die wÃ¼nschen werden, meinen Namen mit voller Herzensabsicht auf sich zu nehmen.",
+      "kor": "<span class=\"verse-number\">27 </span>ê·¸ë¬íëë¤. ê³§ ì´ë ì¬ëì´ë, ê·¸ ì´ëì ëì ì ìê° ë  ê²ì´ì, ê·¸ë¤ì ëì ì´ë¦ì ë°ë¤ ê²ì´ëë¼. ë ê·¸ ì´ëì ë§ìì ë»ì ë¤íì¬ ëì ì´ë¦ì ë°ë¤ê¸°ë¥¼ ìí  ìë¤ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">27 </span>SÃ¬, dodici; e i Dodici saranno miei discepoli, e prenderanno su di sÃ© il mio nome; e i Dodici saranno coloro che desidereranno prendere su di sÃ© il mio nome con pieno intento di cuore."
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span>And if they desire to take upon them my name with full purpose of heart, they are called to go into all the world to preach my gospel unto every creature.",
+      "jpn": "<span class=\"verse-number\">28</span>ããã¦ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>å</rb><rt>ããã</rt></ruby><ruby><rb>å</rb><rt>ã¶ã</rt></ruby>ã«<ruby><rb>åº</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ±º</rb><rt>ãã¤</rt></ruby><ruby><rb>æ</rb><rt>ã</rt></ruby>ããã£ã¦ãããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãããã¨<ruby><rb>é¡</rb><rt>ã­ã</rt></ruby>ããªãã°ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯å¨ä¸çã«<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦<ruby><rb>è¡</rb><rt>ã</rt></ruby>ã£ã¦ããã¹ã¦ã®é ããããã®ã«ãããã®ç¦é³ã<ruby><rb>å®£</rb><rt>ã®</rt></ruby>ã¹<ruby><rb>ä¼</rb><rt>ã¤ã</rt></ruby>ããããã«<ruby><rb>å¬</rb><rt>ã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">28ã</span>å¦æä»ä»¬å¨å¿å¨ææ¸´ææ¿åæçåï¼ä»ä»¬å°±èå¬å¤å¾æ®å¤©ä¸å»ï¼ä¼ ç¦é³ç»ä¸æ°å¬ã",
+      "zht": "<span class=\"verse-number\">28ã</span>å¦æä»åå¨å¿å¨ææ¸´ææ¿åæçåï¼ä»åå°±èå¬åå¾æ®å¤©ä¸å»ï¼å³ç¦é³çµ¦è¬æ°è½ã",
+      "spa": "<span class=\"verse-number\">28 </span>Y si desearen tomar sobre sÃ­ mi nombre con Ã­ntegro propÃ³sito de corazÃ³n, serÃ¡n llamados para ir por todo el mundo a predicar mi evangelio a toda criatura.",
+      "por": "<span class=\"verse-number\">28 </span>E se desejam, de todo coraÃ§Ã£o, tomar sobre si o meu nome, sÃ£o chamados para ir a todo o mundo, pregar meu evangelho a toda criatura.",
+      "fra": "<span class=\"verse-number\">28Â </span>Et sâils dÃ©sirent, dâun cÅur pleinement rÃ©solu, prendre mon nom sur eux, ils sont appelÃ©s Ã  aller dans le monde entier prÃªcher mon Ãvangile Ã  toute la crÃ©ation.",
+      "deu": "<span class=\"verse-number\">28Â </span>Und wenn sie meinen Namen mit voller Herzensabsicht auf sich zu nehmen wÃ¼nschen, sind sie berufen, in alle Welt hinzugehen und mein Evangelium jedem GeschÃ¶pf zu predigen.",
+      "kor": "<span class=\"verse-number\">28 </span>ê·¸ë¦¬ê³  ë§ì¼ ê·¸ë¤ì´ ë§ìì ë»ì ë¤íì¬ ëì ì´ë¦ì ë°ë¤ê¸° ìíë©´, ê·¸ë¤ì ì¨ ì²íì ë¤ëë©°, ëª¨ë  í¼ì¡°ë¬¼ìê² ëì ë³µìì ì ííëë¡ ë¶ë¦ì ë°ëëë¼.",
+      "ita": "<span class=\"verse-number\">28 </span>E se desiderano prendere su di sÃ© il mio nome con pieno intento di cuore, essi sono chiamati ad andare in tutto il mondo a predicare il mio Vangelo ad ogni creatura."
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>And they are they who are ordained of me to baptize in my name, according to that which is written;",
+      "jpn": "<span class=\"verse-number\">29</span>ã¾ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ã<ruby><rb>è¨</rb><rt>ãã</rt></ruby>ããã¦ããã¨ããã«ããããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã«ãã£ã¦ãããã¹ãã<ruby><rb>æ½</rb><rt>ã»ã©ã</rt></ruby>ãããã«ãããããã<ruby><rb>è</rb><rt>ãã</rt></ruby><ruby><rb>ä»»</rb><rt>ã«ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã§ããã",
+      "zhs": "<span class=\"verse-number\">29ã</span>ä»ä»¬å°±æ¯ç±ææç«ï¼ä¾ç§è®°è½½ï¼å¥æçåå»æ½æ´çäººï¼",
+      "zht": "<span class=\"verse-number\">29ã</span>ä»åå°±æ¯ç±ææç«ï¼ä¾ç§è¨è¼ï¼å¥æçåå»æ½æ´çäººï¼",
+      "spa": "<span class=\"verse-number\">29 </span>Y son ellos los que de mÃ­ son ordenados para bautizar en mi nombre, de acuerdo con lo que estÃ¡ escrito;",
+      "por": "<span class=\"verse-number\">29 </span>E sÃ£o eles os ordenados por mim para batizar em meu nome, de acordo com o que estÃ¡ escrito;",
+      "fra": "<span class=\"verse-number\">29Â </span>Et ce sont ceux que jâai ordonnÃ©s pour baptiser en mon nom, selon ce qui est Ã©crit.",
+      "deu": "<span class=\"verse-number\">29Â </span>Und sie sind es, die von mir ordiniert sind, in meinem Namen zu taufen, nÃ¤mlich gemÃ¤Ã dem, was geschrieben steht;",
+      "kor": "<span class=\"verse-number\">29 </span>ê·¸ë¦¬ê³  ê·¸ë¤ì ê¸°ë¡ë ë°ëë¡ ëì ì´ë¦ì¼ë¡ ì¹¨ë¡ë¥¼ ë² íëë¡ ëìê² ì±ì ë°ë ìë¤ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">29 </span>E sono coloro che sono ordinati da me per battezzare nel mio nome, secondo ciÃ² che Ã¨ scritto;"
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span>And you have that which is written before you; wherefore, you must perform it according to the words which are written.",
+      "jpn": "<span class=\"verse-number\">30</span>ããªãããã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ã¯<ruby><rb>è¨</rb><rt>ãã</rt></ruby>ããã¦ãããã®ãããããããããããªãããã¯ã<ruby><rb>è¨</rb><rt>ãã</rt></ruby>ããã¦ãã<ruby><rb>è¨</rb><rt>ãã¨</rt></ruby><ruby><rb>è</rb><rt>ã°</rt></ruby>ã®ã¨ããã«ããã<ruby><rb>å·</rb><rt>ã¨</rt></ruby>ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">30ã</span>é£è®°è½½å°±å¨ä½ ä»¬é¢åï¼å æ­¤ï¼ä½ ä»¬ä¸å®è¦ä¾ç§è®°è½½çè¯å»æ§è¡ã",
+      "zht": "<span class=\"verse-number\">30ã</span>é£è¨è¼å°±å¨ä½ åé¢åï¼å æ­¤ï¼ä½ åä¸å®è¦ä¾ç§è¨è¼çè©±å»å·è¡ã",
+      "spa": "<span class=\"verse-number\">30 </span>y lo que estÃ¡ escrito lo tenÃ©is ante vosotros; por lo que debÃ©is cumplirlo de acuerdo con las palabras que estÃ¡n escritas.",
+      "por": "<span class=\"verse-number\">30 </span>E tendes diante de vÃ³s o que estÃ¡ escrito; portanto, deveis fazer de acordo com as palavras que estÃ£o escritas.",
+      "fra": "<span class=\"verse-number\">30Â </span>Et ce qui est Ã©crit, vous lâavez devant vousÂ ; câest pourquoi vous devez lâaccomplir selon ce qui est Ã©crit.",
+      "deu": "<span class=\"verse-number\">30Â </span>und ihr habt das, was geschrieben steht, vor euch; darum mÃ¼sst ihr es ausfÃ¼hren gemÃ¤Ã den Worten, die geschrieben stehen.",
+      "kor": "<span class=\"verse-number\">30 </span>ê·¸ë¦¬ê³  ëí¬ ìì ê¸°ë¡ë ê²ì´ ìì¼ë, ê·¸ë¬ë¯ë¡ ëí¬ë ê¸°ë¡ë ë§ìì ë°ë¼ ê·¸ ì¼ì ìíí´ì¼ë§ íëëë¼.",
+      "ita": "<span class=\"verse-number\">30 </span>E avete dinanzi a voi ciÃ² che Ã¨ scritto; pertanto dovete eseguirlo secondo le parole che sono scritte."
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span>And now I speak unto you, the TwelveâBehold, my grace is sufficient for you; you must walk uprightly before me and sin not.",
+      "jpn": "<span class=\"verse-number\">31</span>ãã¦ããããã¯ããªãããåäºäººã«<ruby><rb>èª</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããããã®<ruby><rb>æµ</rb><rt>ãã</rt></ruby>ã¿ã¯ããªãããã«<ruby><rb>å¯¾</rb><rt>ãã</rt></ruby>ãã¦<ruby><rb>å</rb><rt>ããã</rt></ruby><ruby><rb>å</rb><rt>ã¶ã</rt></ruby>ã§ãããããªãããã¯ãããã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ãã¾ã£ããã«<ruby><rb>æ­©</rb><rt>ãã</rt></ruby>ã¾ãªããã°ãªããã<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãã</rt></ruby>ãã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">31ã</span>ç°å¨æå¯¹ä½ ä»¬è¿åäºäººè¯´è¯ââçåï¼æå¯¹ä½ ä»¬çæ©å¸æ¯ååçï¼ä½ ä»¬å¿é¡»æ­£ç´å°è¡èµ°å¨æé¢åï¼ä¸è¦ç¯ç½ªã",
+      "zht": "<span class=\"verse-number\">31ã</span>ç¾å¨æå°ä½ åéåäºäººèªªè©±ââçåï¼æå°ä½ åçæ©å¸æ¯ååçï¼ä½ åå¿é æ­£ç´å°è¡èµ°å¨æé¢åï¼ä¸è¦ç¯ç½ªã",
+      "spa": "<span class=\"verse-number\">31 </span>Y ahora, os hablo a vosotros, los Doce: He aquÃ­, mi gracia os es suficiente; tenÃ©is que andar con rectitud delante de mÃ­, y no pecar;",
+      "por": "<span class=\"verse-number\">31 </span>E agora falo a vÃ³s, os Doze: Eis que a minha graÃ§a vos basta; deveis andar retamente perante mim e nÃ£o pecar.",
+      "fra": "<span class=\"verse-number\">31Â </span>Et maintenant, je vous parle, Ã  vous, les DouzeÂ : voici, ma grÃ¢ce vous suffit. Vous devez marcher en droiture devant moi et ne pas pÃ©cher.",
+      "deu": "<span class=\"verse-number\">31Â </span>Und nun spreche ich zu euch, den ZwÃ¶lf: Siehe, meine Gnade ist ausreichend fÃ¼r euch; ihr mÃ¼sst untadelig vor mir wandeln und nicht sÃ¼ndigen.",
+      "kor": "<span class=\"verse-number\">31 </span>ê·¸ë¦¬ê³  ì´ì  ë´ê° ëí¬ ì´ëìê² ì´ë¥´ë¸ëï¼ë³´ë¼, ë´ ìíê° ëí¬ìê² ì¡±íë, ëí¬ë ë´ ììì ë°ëì ì¬ë°ë¥´ê² ê±·ê³  ì£ë¥¼ ë²íì§ ë§ìì¼ íëëë¼.",
+      "ita": "<span class=\"verse-number\">31 </span>Ed ora parlo a voi, i Dodici: Ecco, la mia grazia vi basta; dovete camminare rettamente dinnanzi a me e non peccare."
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span>And, behold, you are they who are ordained of me to ordain priests and teachers; to declare my gospel, according to the power of the Holy Ghost which is in you, and according to the callings and gifts of God unto men;",
+      "jpn": "<span class=\"verse-number\">32</span>ã¾ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããããªãããã¯ã<ruby><rb>ç¥­</rb><rt>ãã</rt></ruby><ruby><rb>å¸</rb><rt>ã</rt></ruby>ã¨<ruby><rb>æ</rb><rt>ããã</rt></ruby><ruby><rb>å¸«</rb><rt>ã</rt></ruby>ãèä»»ããããã«ããããã<ruby><rb>è</rb><rt>ãã</rt></ruby><ruby><rb>ä»»</rb><rt>ã«ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã§ãããããªãããã®<ruby><rb>å</rb><rt>ãã¡</rt></ruby>ã«ããèéã®åã«ãããã¾ã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã®å¬ãã¨<ruby><rb>è³</rb><rt>ãã¾</rt></ruby><ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã«<ruby><rb>å¿</rb><rt>ãã</rt></ruby>ãã¦ããããã®<ruby><rb>ç¦</rb><rt>ãµã</rt></ruby><ruby><rb>é³</rb><rt>ãã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¤</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããããã«ã<ruby><rb>è</rb><rt>ãã</rt></ruby><ruby><rb>ä»»</rb><rt>ã«ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã§ããã",
+      "zhs": "<span class=\"verse-number\">32ã</span>å¹¶ä¸ï¼çåï¼ä½ ä»¬å°±æ¯ç±ææç«æ¥æç«ç¥­å¸åæå¸çäººï¼è¦æç§ä½ ä»¬èº«ä¸çå£çµçåéï¼å¹¶æç§ç¥ç»ä¸äººçå¬å¤åæ©èµï¼å®£è®²æçç¦é³ï¼",
+      "zht": "<span class=\"verse-number\">32ã</span>ä¸¦ä¸ï¼çåï¼ä½ åå°±æ¯ç±ææç«ä¾æç«ç¥­å¸åæå¸«çäººï¼è¦æç§ä½ åèº«ä¸çèéçåéï¼ä¸¦æç§ç¥çµ¦ä¸äººçå¬ååæ©è³ï¼å®£è¬æçç¦é³ï¼",
+      "spa": "<span class=\"verse-number\">32 </span>y he aquÃ­, sois vosotros los que sois ordenados por mÃ­ para ordenar presbÃ­teros y maestros; para declarar mi evangelio, de acuerdo con el poder del EspÃ­ritu Santo que estÃ¡ en vosotros, y segÃºn los llamamientos y dones de Dios a los hombres.",
+      "por": "<span class=\"verse-number\">32 </span>E eis que sois aqueles ordenados por mim para ordenar sacerdotes e mestres; para declarar meu evangelho, de acordo com o poder do EspÃ­rito Santo que estÃ¡ em vÃ³s e de acordo com os chamados e dons de Deus aos homens;",
+      "fra": "<span class=\"verse-number\">32Â </span>Et voici, vous Ãªtes ceux que jâai Ã©tablis pour ordonner des prÃªtres et des instructeursÂ ; pour annoncer mon Ãvangile selon la puissance du Saint-Esprit qui est en vous, et selon les appels et les dons de Dieu aux hommes.",
+      "deu": "<span class=\"verse-number\">32Â </span>Und siehe, ihr seid diejenigen, die von mir ordiniert sind, um Priester und Lehrer zu ordinieren, um mein Evangelium zu verkÃ¼nden gemÃ¤Ã der Macht des Heiligen Geistes, die in euch ist, und gemÃ¤Ã den Berufungen und Gaben, die Gott den Menschen gibt;",
+      "kor": "<span class=\"verse-number\">32 </span>ê·¸ë¦¬ê³  ë³´ë¼, ëí¬ë ì ì¬ì êµì¬ë¥¼ ì±ìíëë¡, ê·¸ë¦¬ê³  ëí¬ ìì ìë ì±ì ì ê¶ë¥ì ë°ë¼ ë ì¬ëë¤ìê² ì£¼ìë íëëì ë¶ë¥´ì¬ê³¼ ìì¬ì ë°ë¼ ëì ë³µìì ì í¬íëë¡ ë´ê² ì±ì ë°ë ìë¤ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">32 </span>Ed ecco, voi siete coloro che io ho ordinato per ordinare sacerdoti ed insegnanti; per proclamare il mio Vangelo, secondo il potere dello Spirito Santo che Ã¨ in voi e secondo le chiamate e i doni di Dio agli uomini."
+    },
+    "33": {
+      "eng": "<span class=\"verse-number\">33 </span>And I, Jesus Christ, your Lord and your God, have spoken it.",
+      "jpn": "<span class=\"verse-number\">33</span>ããããããªãã¡ãããªãããã®<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã§ããããªãããã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ã§ãããã¤ã¨ã¹ã»ã­ãªã¹ããããã<ruby><rb>èª</rb><rt>ãã</rt></ruby>ã£ãã",
+      "zhs": "<span class=\"verse-number\">33ã</span>æï¼è¶ç¨£åºç£ï¼ä½ ä»¬çä¸»åä½ ä»¬çç¥ï¼è¯´è¿è¯ã",
+      "zht": "<span class=\"verse-number\">33ã</span>æï¼è¶ç©åºç£ï¼ä½ åçä¸»åä½ åçç¥ï¼èªªéè©±ã",
+      "spa": "<span class=\"verse-number\">33 </span>Y yo, Jesucristo, vuestro SeÃ±or y vuestro Dios, lo he hablado.",
+      "por": "<span class=\"verse-number\">33 </span>E eu, Jesus Cristo, vosso Senhor e vosso Deus, disse-o.",
+      "fra": "<span class=\"verse-number\">33Â </span>Et moi, JÃ©sus-Christ, votre Seigneur et votre Dieu, je lâai dit.",
+      "deu": "<span class=\"verse-number\">33Â </span>und ich, Jesus Christus, euer Herr und euer Gott, habe es gesprochen.",
+      "kor": "<span class=\"verse-number\">33 </span>ê·¸ë¦¬ê³  ëí¬ ì£¼ì, ëí¬ íëëì¸ ë ìì ê·¸ë¦¬ì¤ëê° ì´ë¥¼ ë§íìë¸ë¼.",
+      "ita": "<span class=\"verse-number\">33 </span>E io, GesÃ¹ Cristo, vostro Signore e vostro Dio, lâho detto."
+    },
+    "34": {
+      "eng": "<span class=\"verse-number\">34 </span>These words are not of men nor of man, but of me; wherefore, you shall testify they are of me and not of man;",
+      "jpn": "<span class=\"verse-number\">34</span>ãããã®è¨èã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ããã<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby><ruby><rb>é</rb><rt>ãã</rt></ruby>ãã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦ããã®ã§ã¯ãªããããããã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦ããã®ã§ããããããããããªãããã¯ããããã®<ruby><rb>è¨</rb><rt>ãã¨</rt></ruby><ruby><rb>è</rb><rt>ã°</rt></ruby>ãããããã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦ãããã®ã§ãã£ã¦ã<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby><ruby><rb>é</rb><rt>ãã</rt></ruby>ãã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ã¦ãããã®ã§ã¯ãªããã¨ã<ruby><rb>è¨¼</rb><rt>ããã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">34ã</span>è¿äºè¯ä¸æ¯ä¼äººçï¼ä¹ä¸æ¯æäººçï¼èæ¯æçï¼å æ­¤ï¼ä½ ä»¬è¦è§è¯è¿äºè¯æ¯æçï¼ä¸æ¯æäººçï¼",
+      "zht": "<span class=\"verse-number\">34ã</span>éäºè©±ä¸æ¯ç¾äººçï¼ä¹ä¸æ¯æäººçï¼èæ¯æçï¼å æ­¤ï¼ä½ åè¦è¦è­éäºè©±æ¯æçï¼ä¸æ¯æäººçï¼",
+      "spa": "<span class=\"verse-number\">34 </span>Estas palabras no son de hombres, ni de hombre, sino mÃ­as; por tanto, testificarÃ©is que son de mÃ­, y no del hombre.",
+      "por": "<span class=\"verse-number\">34 </span>Estas palavras nÃ£o sÃ£o de homens nem de um homem, mas sÃ£o minhas; portanto, vÃ³s testificareis que sÃ£o minhas e nÃ£o de um homem;",
+      "fra": "<span class=\"verse-number\">34Â </span>Ces paroles ne sont ni des hommes ni de lâhomme, mais de moiÂ ; câest pourquoi vous tÃ©moignerez quâelles sont de moi et non de lâhomme.",
+      "deu": "<span class=\"verse-number\">34Â </span>Diese Worte sind nicht von den Menschen, auch nicht von einem Menschen, sondern von mir; darum sollt ihr bezeugen, dass sie von mir sind und nicht von einem Menschen;",
+      "kor": "<span class=\"verse-number\">34 </span>ì´ ë§ì ì¬ë¬ ì¬ëìê²ì ë§ë¯¸ìì ê²ì´ ìëì í ì¬ëìê²ì ë§ë¯¸ìì ê²ë ìëì, ëìê²ì ë§ë¯¸ìì ê²ì´ë, ê·¸ë°ì¦ ëí¬ë ì´ ë§ì´ ëìê²ì ë§ë¯¸ìì ê²ì´ì ì¬ëìê²ì ë§ë¯¸ìì ê²ì´ ìëì ì¦ì¸í ì§ëë¼.",
+      "ita": "<span class=\"verse-number\">34 </span>Queste parole non vengono da uomini nÃ© da un uomo, ma da me; pertanto voi attesterete che vengono da me e non da un uomo;"
+    },
+    "35": {
+      "eng": "<span class=\"verse-number\">35 </span>For it is my voice which speaketh them unto you; for they are given by my Spirit unto you, and by my power you can read them one to another; and save it were by my power you could not have them;",
+      "jpn": "<span class=\"verse-number\">35</span>ãããã®<ruby><rb>è¨</rb><rt>ãã¨</rt></ruby><ruby><rb>è</rb><rt>ã°</rt></ruby>ãããªãããã«<ruby><rb>èª</rb><rt>ãã</rt></ruby>ã£ã¦ããã®ã¯ããããã®å£°ã§ããããããã®<ruby><rb>è¨</rb><rt>ãã¨</rt></ruby><ruby><rb>è</rb><rt>ã°</rt></ruby>ã¯ããããã®<ruby><rb>å¾¡</rb><rt>ã¿</rt></ruby><ruby><rb>é</rb><rt>ãã¾</rt></ruby>ã«ãã£ã¦ããªãããã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã¦ããããã§ãããããã¦ããããã®<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã«ãã£ã¦ãããªãããã¯ãããã®<ruby><rb>è¨</rb><rt>ãã¨</rt></ruby><ruby><rb>è</rb><rt>ã°</rt></ruby>ã<ruby><rb>äº</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>èª­</rb><rt>ã</rt></ruby>ã¿<ruby><rb>å</rb><rt>ã</rt></ruby>ããã¨ãã§ããããããã®<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã«ãããªããã°ãããªãããã¯ãããã®<ruby><rb>è¨</rb><rt>ãã¨</rt></ruby><ruby><rb>è</rb><rt>ã°</rt></ruby>ã<ruby><rb>å¾</rb><rt>ã</rt></ruby>ããã¨ã¯ã§ããªãã",
+      "zhs": "<span class=\"verse-number\">35ã</span>å ä¸ºæ¯æçå£°é³å¯¹ä½ ä»¬è¯´è¿äºè¯ï¼è¿äºè¯æ¯æççµç»ä½ ä»¬çï¼ä½ ä»¬å¯ä»¥åæçè½åè¯»ç»å½¼æ­¤å¬ï¼è¥ä¸åæçè½åï¼ä½ ä»¬å°±å¾ä¸å°è¿äºè¯ï¼",
+      "zht": "<span class=\"verse-number\">35ã</span>å çºæ¯æçè²é³å°ä½ åèªªéäºè©±ï¼éäºè©±æ¯æçéçµ¦ä½ åçï¼ä½ åå¯ä»¥èæçè½åè®çµ¦å½¼æ­¤è½ï¼è¥ä¸èæçè½åï¼ä½ åå°±å¾ä¸å°éäºè©±ï¼",
+      "spa": "<span class=\"verse-number\">35 </span>Porque es mi voz la que os las declara; porque os son dadas por mi EspÃ­ritu, y por mi poder las podÃ©is leer los unos a los otros; y si no fuera por mi poder, no podrÃ­ais tenerlas.",
+      "por": "<span class=\"verse-number\">35 </span>Pois Ã© a minha voz que vo-las diz; pois vos sÃ£o dadas pelo meu EspÃ­rito; e pelo meu poder vÃ³s as podeis ler uns para os outros; e se nÃ£o fosse pelo meu poder, nÃ£o as poderÃ­eis ter;",
+      "fra": "<span class=\"verse-number\">35Â </span>Car câest ma voix qui vous les ditÂ ; car elles vous sont donnÃ©es par mon EspritÂ ; et par ma puissance, vous pouvez vous les lire les uns aux autresÂ ; et si ce nâÃ©tait par ma puissance, vous ne pourriez pas les avoir.",
+      "deu": "<span class=\"verse-number\">35Â </span>denn es ist meine Stimme, die sie zu euch redet; denn sie werden euch durch meinen Geist gegeben, und durch meine Macht kÃ¶nnt ihr sie einander vorlesen, und auÃer durch meine Macht kÃ¶nntet ihr sie nicht haben;",
+      "kor": "<span class=\"verse-number\">35 </span>ì´ë ì´ë¥¼ ëí¬ìê² ë§íë ê²ì´ ëì ìì±ì¸ ì°ê³ ë¼. ì´ë ì´ê²ì´ ëì ìì¼ë¡ì¨ ëí¬ìê² ì£¼ì´ì§ì´ì ëì ê¶ë¥ì¼ë¡ì¨ ëí¬ë ì´ë¥¼ ìë¡ìê² ì½ì´ ì¤ ì ìì¼ë ëì ê¶ë¥ì¼ë¡ì¨ê° ìëê³ ë ëí¬ê° ì´ë¥¼ ê°ì§ ëª»íìì ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">35 </span>Ã la mia voce, infatti, che ve le dice; poichÃ© vi sono date dal mio Spirito e mediante il mio potere potete leggerle lâuno allâaltro; e se non fosse per il mio potere, non potreste averle."
+    },
+    "36": {
+      "eng": "<span class=\"verse-number\">36 </span>Wherefore, you can testify that you have heard my voice, and know my words.",
+      "jpn": "<span class=\"verse-number\">36</span>ãã®ããã«ãããªãããã¯ããããã®<ruby><rb>å£°</rb><rt>ãã</rt></ruby>ã<ruby><rb>è</rb><rt>ã</rt></ruby>ãããã¨ãããã¦ãããã®<ruby><rb>è¨</rb><rt>ãã¨</rt></ruby><ruby><rb>è</rb><rt>ã°</rt></ruby>ã<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ã£ã¦ãããã¨ãè¨¼ã§ããã®ã§ããã",
+      "zhs": "<span class=\"verse-number\">36ã</span>å æ­¤ï¼ä½ ä»¬å¯ä»¥è§è¯ï¼ä½ ä»¬å¬è¿æçå£°é³ï¼ç¥éæçè¯ã",
+      "zht": "<span class=\"verse-number\">36ã</span>å æ­¤ï¼ä½ åå¯ä»¥è¦è­ï¼ä½ åè½éæçè²é³ï¼ç¥éæçè©±ã",
+      "spa": "<span class=\"verse-number\">36 </span>Por tanto, podÃ©is testificar que habÃ©is oÃ­do mi voz y que conocÃ©is mis palabras.",
+      "por": "<span class=\"verse-number\">36 </span>Portanto, podeis testificar que ouvistes a minha voz e conheceis as minhas palavras.",
+      "fra": "<span class=\"verse-number\">36Â </span>Câest pourquoi, vous pouvez tÃ©moigner que vous avez entendu ma voix et que vous connaissez mes paroles.",
+      "deu": "<span class=\"verse-number\">36Â </span>darum kÃ¶nnt ihr bezeugen, dass ihr meine Stimme vernommen habt und meine Worte kennt.",
+      "kor": "<span class=\"verse-number\">36 </span>ê·¸ë°ì¦ ëí¬ë ë´ ìì±ì ë¤ìê³  ë´ ë§ì ìë¤ê³  ì¦ì¸í  ì ìëëë¼.",
+      "ita": "<span class=\"verse-number\">36 </span>Pertanto, potrete attestare di avere udito la mia voce e di conoscere le mie parole."
+    },
+    "37": {
+      "eng": "<span class=\"verse-number\">37 </span>And now, behold, I give unto you, Oliver Cowdery, and also unto David Whitmer, that you shall search out the Twelve, who shall have the desires of which I have spoken;",
+      "jpn": "<span class=\"verse-number\">37</span>ãã¦<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãããããã¯ããªããªãªãã¼ã»ã«ã¦ããªã¨ãã¾ãããããã»ãã¤ãããã¼ã«ããããã<ruby><rb>èª</rb><rt>ãã</rt></ruby>ã£ããããª<ruby><rb>é¡</rb><rt>ã­ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã¤åäº<ruby><rb>äºº</rb><rt>ã«ã</rt></ruby>ã<ruby><rb>æ¢</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ã<ruby><rb>å</rb><rt>ã¤ã¨</rt></ruby>ãã<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããã",
+      "zhs": "<span class=\"verse-number\">37ã</span>ç°å¨ï¼çåï¼æå©åä½ ï¼<u>å¥¥å©ä½Â·èå¾·é</u>ï¼ä¹å©å<u>å¤§å«Â·æ ç¹è</u>ï¼å»æ¾åºè¿åäºä½æææè¯´çé£ç§æ¸´æçäººã",
+      "zht": "<span class=\"verse-number\">37ã</span>ç¾å¨ï¼çåï¼æå©åä½ ï¼<u>å¥§å©ä½Â·èå¾·é</u>ï¼ä¹å©å<u>å¤§è¡Â·æ ç¹è</u>ï¼å»æ¾åºéåäºä½æææèªªçé£ç¨®æ¸´æçäººã",
+      "spa": "<span class=\"verse-number\">37 </span>Y ahora bien, he aquÃ­, te concedo a ti, Oliver Cowdery, y tambiÃ©n a David Whitmer, que busquÃ©is a los Doce, los cuales tendrÃ¡n los deseos de que he hablado;",
+      "por": "<span class=\"verse-number\">37 </span>E agora, eis que eu dou a ti, Oliver Cowdery, e tambÃ©m a ti, David Whitmer, o encargo de procurar os Doze, que terÃ£o os desejos que mencionei;",
+      "fra": "<span class=\"verse-number\">37Â </span>Et maintenant, voici, je vous confie, Ã  toi, Oliver Cowdery, et aussi Ã  David Whitmer, la tÃ¢che de dÃ©couvrir les Douze qui auront les dÃ©sirs dont jâai parlÃ©.",
+      "deu": "<span class=\"verse-number\">37Â </span>Und nun siehe, ich gebe es dir, Oliver Cowdery, und auch David Whitmer, die ZwÃ¶lf auszusuchen, die die WÃ¼nsche haben werden, wovon ich gesprochen habe,",
+      "kor": "<span class=\"verse-number\">37 </span>ê·¸ë¦¬ê³  ì´ì  ë³´ë¼, ëë ë ì¬ë¦¬ë² ì¹´ì°ëë¦¬ìê², ëí ë°ì´ë¹ë íí¸ë¨¸ìê² ëªíë¸ë, ëí¬ë ë´ê° ë§í ìë§ì ê°ì§ ì´ëì ì°¾ìë¼ì§ëë¼.",
+      "ita": "<span class=\"verse-number\">37 </span>Ed ora ecco, io do a te, Oliver Cowdery, ed anche a David Whitmer, lâincarico di trovare i Dodici, che abbiano i desideri di cui ho parlato;"
+    },
+    "38": {
+      "eng": "<span class=\"verse-number\">38 </span>And by their desires and their works you shall know them.",
+      "jpn": "<span class=\"verse-number\">38</span>ããªãããã¯ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>é¡</rb><rt>ã­ã</rt></ruby>ãã¨è¡ãã«ãã£ã¦<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby><ruby><rb>å</rb><rt>ã</rt></ruby>ããã§ãããã",
+      "zhs": "<span class=\"verse-number\">38ã</span>ä½ ä»¬ä»ä»ä»¬çæ¸´æåè¡ä¸ºï¼å°±å¯è®¤åºä»ä»¬æ¥ã",
+      "zht": "<span class=\"verse-number\">38ã</span>ä½ åå¾ä»åçæ¸´æåè¡çºï¼å°±å¯èªåºä»åä¾ã",
+      "spa": "<span class=\"verse-number\">38 </span>y por sus deseos y sus obras los conocerÃ©is.",
+      "por": "<span class=\"verse-number\">38 </span>E por seus desejos e suas obras conhecÃª-los-eis.",
+      "fra": "<span class=\"verse-number\">38Â </span>Et câest Ã  leurs dÃ©sirs et Ã  leurs Åuvres que vous les reconnaÃ®trez.",
+      "deu": "<span class=\"verse-number\">38Â </span>und an ihren WÃ¼nschen und ihren Werken werdet ihr sie erkennen.",
+      "kor": "<span class=\"verse-number\">38 </span>ê·¸ë¦¬ê³  ëí¬ë ê·¸ë¤ì ìë§ê³¼ ê·¸ë¤ì íì¤ë¡ ê·¸ë¤ì ìê² ëë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">38 </span>E li riconoscerete dai loro desideri e dalle loro opere."
+    },
+    "39": {
+      "eng": "<span class=\"verse-number\">39 </span>And when you have found them you shall show these things unto them.",
+      "jpn": "<span class=\"verse-number\">39</span>ããªãããã¯<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã ãããããããã®ãã¨ã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>ç¥</rb><rt>ã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">39ã</span>ä½ ä»¬æ¾å°ä»ä»¬æ¶ï¼å°±æè¿äºäºç©ç»ä»ä»¬çã",
+      "zht": "<span class=\"verse-number\">39ã</span>ä½ åæ¾å°ä»åæï¼å°±æéäºäºç©çµ¦ä»åçã",
+      "spa": "<span class=\"verse-number\">39 </span>Y cuando los hayÃ¡is encontrado, les enseÃ±arÃ©is estas cosas.",
+      "por": "<span class=\"verse-number\">39 </span>E quando os tiverdes encontrado, revelareis estas coisas a eles.",
+      "fra": "<span class=\"verse-number\">39Â </span>Et quand vous les aurez trouvÃ©s, vous leur montrerez ces choses.",
+      "deu": "<span class=\"verse-number\">39Â </span>Und wenn ihr sie gefunden habt, sollt ihr ihnen dieses hier zeigen.",
+      "kor": "<span class=\"verse-number\">39 </span>ê·¸ë¦¬ê³  ëí¬ê° ê·¸ë¤ì ì°¾ê±°ë  ì´ê²ì ê·¸ë¤ìê² ë³´ì¼ì§ëë¼.",
+      "ita": "<span class=\"verse-number\">39 </span>E quando li avrete trovati, mostrerete loro queste cose."
+    },
+    "40": {
+      "eng": "<span class=\"verse-number\">40 </span>And you shall fall down and worship the Father in my name.",
+      "jpn": "<span class=\"verse-number\">40</span>ã¾ããããªãããã¯<ruby><rb>ä¼</rb><rt>ãµ</rt></ruby>ãã¦ããããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã«ãã£ã¦<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ãç¤¼æããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">40ã</span>ä½ ä»¬è¦ä¿¯ä¼ï¼å¹¶å¥æçåå´æç¶ã",
+      "zht": "<span class=\"verse-number\">40ã</span>ä½ åè¦ä¿¯ä¼ï¼ä¸¦å¥æçåå´æç¶ã",
+      "spa": "<span class=\"verse-number\">40 </span>Y os postrarÃ©is y adorarÃ©is al Padre en mi nombre.",
+      "por": "<span class=\"verse-number\">40 </span>E prostar-vos-eis e adorareis o Pai em meu nome.",
+      "fra": "<span class=\"verse-number\">40Â </span>Et vous vous prosternerez et adorerez le PÃ¨re en mon nom.",
+      "deu": "<span class=\"verse-number\">40Â </span>Und ihr sollt niederfallen und den Vater in meinem Namen anbeten.",
+      "kor": "<span class=\"verse-number\">40 </span>ê·¸ë¦¬ê³  ëí¬ë ìëë ¤ ë´ ì´ë¦ì¼ë¡ ìë²ì§ë¥¼ ê²½ë°°í ì§ëë¼.",
+      "ita": "<span class=\"verse-number\">40 </span>E vi prostrerete, e adorerete il Padre nel mio nome."
+    },
+    "41": {
+      "eng": "<span class=\"verse-number\">41 </span>And you must preach unto the world, saying: You must repent and be baptized, in the name of Jesus Christ;",
+      "jpn": "<span class=\"verse-number\">41</span>ã¾ããããªãããã¯<ruby><rb>ä¸</rb><rt>ã</rt></ruby>ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby><ruby><rb>ã</rb><rt>ã³ã¨</rt></ruby>ã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ãã<ruby><rb>èª¬</rb><rt>ã¨</rt></ruby>ãã¦<ruby><rb>è¨</rb><rt>ã</rt></ruby>ããªããã°ãªããªãããããªãããã¯<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ãã¦ãã¤ã¨ã¹ã»ã­ãªã¹ãã®<ruby><rb>å¾¡</rb><rt>ã¿</rt></ruby><ruby><rb>å</rb><rt>ãª</rt></ruby>ã«ãã£ã¦ãããã¹ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ããªããã°ãªããªããã",
+      "zhs": "<span class=\"verse-number\">41ã</span>ä½ ä»¬ä¸å®è¦å¯¹ä¸äººå®£è®²ï¼è¯´ï¼ä½ ä»¬å¿é¡»ææ¹ï¼å¥è¶ç¨£åºç£çååæ´ï¼",
+      "zht": "<span class=\"verse-number\">41ã</span>ä½ åä¸å®è¦å°ä¸äººå®£è¬ï¼èªªï¼ä½ åå¿é ææ¹ï¼å¥è¶ç©åºç£çååæ´ï¼",
+      "spa": "<span class=\"verse-number\">41 </span>Y habÃ©is de predicar al mundo, diciendo: DebÃ©is arrepentiros y bautizaros en el nombre de Jesucristo;",
+      "por": "<span class=\"verse-number\">41 </span>Ã preciso que pregueis ao mundo, dizendo: Deveis arrepender-vos e ser batizados em nome de Jesus Cristo;",
+      "fra": "<span class=\"verse-number\">41Â </span>Et vous devez prÃªcher au monde, disantÂ : Vous devez vous repentir et Ãªtre baptisÃ©s au nom de JÃ©sus-Christ.",
+      "deu": "<span class=\"verse-number\">41Â </span>Und ihr mÃ¼sst der Welt predigen, nÃ¤mlich: Ihr mÃ¼sst umkehren und euch taufen lassen, im Namen Jesu Christi;",
+      "kor": "<span class=\"verse-number\">41 </span>ê·¸ë¦¬ê³  ëí¬ë ì¸ìì ì ëí´ì¼ íëë, ì´ë¥´ê¸°ë¥¼, ëí¬ë ë°ëì íê°íê³  ìì ê·¸ë¦¬ì¤ëì ì´ë¦ì¼ë¡ ì¹¨ë¡ë¥¼ ë°ìì¼ íëëë¼ íë¼.",
+      "ita": "<span class=\"verse-number\">41 </span>E dovrete predicare al mondo, dicendo: Dovete pentirvi ed essere battezzati, nel nome di GesÃ¹ Cristo;"
+    },
+    "42": {
+      "eng": "<span class=\"verse-number\">42 </span>For all men must repent and be baptized, and not only men, but women, and children who have arrived at the years of accountability.",
+      "jpn": "<span class=\"verse-number\">42</span>ãã¹ã¦ã®<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã¯<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ãã¦ããããã¹ãã<ruby><rb>å</rb><rt>ã</rt></ruby>ããªããã°ãªããªãããã§ããã<ruby><rb>ç·</rb><rt>ãã¨ã</rt></ruby>ã ãã§ãªãã<ruby><rb>å¥³</rb><rt>ãããª</rt></ruby>ããã¾ãè²¬ä»»ãè² ã<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby><ruby><rb>é½¢</rb><rt>ãã</rt></ruby>ã«<ruby><rb>é</rb><rt>ãã£</rt></ruby>ãã<ruby><rb>å­</rb><rt>ã</rt></ruby><ruby><rb>ä¾</rb><rt>ã©ã</rt></ruby>ãã¡ãããããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">42ã</span>å ä¸ºå¨äººç±»é½å¿é¡»ææ¹ååæ´ï¼ä¸åªæ¯ç·äººï¼è¿æå¥³äººåå°è¾¾è´è´£å¹´é¾çå°å­©ã",
+      "zht": "<span class=\"verse-number\">42ã</span>å çºå¨äººé¡é½å¿é ææ¹ååæ´ï¼ä¸åªæ¯ç·äººï¼éæå¥³äººåå°éè² è²¬å¹´é½¡çå°å­©ã",
+      "spa": "<span class=\"verse-number\">42 </span>porque todos los hombres deben arrepentirse y bautizarse, y no Ãºnicamente los hombres, sino las mujeres y los niÃ±os que hayan llegado a la edad de responsabilidad.",
+      "por": "<span class=\"verse-number\">42 </span>Porque todos os homens devem arrepender-se e ser batizados; e nÃ£o sÃ³ homens, mas mulheres e crianÃ§as que tiverem alcanÃ§ado a idade da responsabilidade.",
+      "fra": "<span class=\"verse-number\">42Â </span>Car tous les hommes doivent se repentir et Ãªtre baptisÃ©s, et pas seulement les hommes, mais aussi les femmes et les enfants qui sont arrivÃ©s Ã  lâÃ¢ge de responsabilitÃ©.",
+      "deu": "<span class=\"verse-number\">42Â </span>denn alle Menschen mÃ¼ssen umkehren und sich taufen lassen, und nicht nur die MÃ¤nner, sondern auch die Frauen und diejenigen Kinder, die die Jahre der Verantwortlichkeit erreicht haben.",
+      "kor": "<span class=\"verse-number\">42 </span>ì´ë ëª¨ë  ì¬ëì´ ë°ëì íê°íê³  ì¹¨ë¡ë¥¼ ë°ìì¼ë§ í¨ì´ë, ë¨ìë¿ ìëë¼ ì¬ìì ì±ìì§ ì ìë ëì´ì ì´ë¥¸ ìì´ë ê·¸ë¬íëë¼.",
+      "ita": "<span class=\"verse-number\">42 </span>PoichÃ© tutti gli uomini debbono pentirsi ed essere battezzati, e non solo gli uomini, ma anche le donne e i bambini che sono giunti allâetÃ  della responsabilitÃ ."
+    },
+    "43": {
+      "eng": "<span class=\"verse-number\">43 </span>And now, after that you have received this, you must keep my commandments in all things;",
+      "jpn": "<span class=\"verse-number\">43</span>ãã¦ãããªãããã¯ããã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>å¾</rb><rt>ã®ã¡</rt></ruby>ããã¹ã¦ã®ãã¨ã«ã¤ãã¦ãããã®æãã<ruby><rb>å®</rb><rt>ã¾ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">43ã</span>ç°å¨ï¼ä½ ä»¬å·²å¾å°è¿äºï¼å°±å¿é¡»å¡äºéµå®æçè¯«å½ï¼",
+      "zht": "<span class=\"verse-number\">43ã</span>ç¾å¨ï¼ä½ åå·²å¾å°éäºï¼å°±å¿é å¡äºéµå®æçèª¡å½ï¼",
+      "spa": "<span class=\"verse-number\">43 </span>Y ahora, despuÃ©s de haber recibido vosotros esto, debÃ©is guardar mis mandamientos en todas las cosas;",
+      "por": "<span class=\"verse-number\">43 </span>E agora, depois de terdes recebido isto, deveis guardar meus mandamentos em todas as coisas;",
+      "fra": "<span class=\"verse-number\">43Â </span>Et une fois que vous avez reÃ§u cela, vous devez garder mes commandements en toutes chosesÂ ;",
+      "deu": "<span class=\"verse-number\">43Â </span>Und nun, nachdem ihr dies empfangen habt, mÃ¼sst ihr in allem meine Gebote halten,",
+      "kor": "<span class=\"verse-number\">43 </span>ê·¸ë¦¬ê³  ì´ì , ëí¬ê° ì´ë¥¼ ë°ì íìë ëí¬ë ëª¨ë  ì¼ì ëì ê³ëªì ë°ëì ì§ì¼ì¼ íëëë¼.",
+      "ita": "<span class=\"verse-number\">43 </span>Ed ora, dopo che avrete ricevuto queste cose, dovrete rispettare i miei comandamenti in ogni cosa;"
+    },
+    "44": {
+      "eng": "<span class=\"verse-number\">44 </span>And by your hands I will work a marvelous work among the <span class=\"page-break\" data-page=\"31\"></span>children of men, unto the convincing of many of their sins, that they may come unto repentance, and that they may come unto the kingdom of my Father.",
+      "jpn": "<span class=\"verse-number\">44</span>ããªãããã®<ruby><rb>æ</rb><rt>ã¦</rt></ruby>ã«ãã£ã¦ããããã¯<ruby><rb>äºº</rb><rt>ã²ã¨</rt></ruby>ã®<ruby><rb>å­</rb><rt>ã</rt></ruby>ãã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã«é©ãã¹ãæ¥­ã<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®<ruby><rb>å¤</rb><rt>ãã</rt></ruby>ãã«<ruby><rb>ç½ª</rb><rt>ã¤ã¿</rt></ruby>ã®ãããã¨ãèªè¦ããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¹</rb><rt>ããã</rt></ruby>ãã¦ããããã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã®<ruby><rb>ç</rb><rt>ãã</rt></ruby><ruby><rb>å½</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ãããããã«ãããã",
+      "zhs": "<span class=\"verse-number\">44ã</span>æè¦åä½ ä»¬çæå¨äººç±»å¿å¥³ä¸­åå¥å¦çäºå·¥ï¼åè®¸å¤äººè®¤æ¸èªå·±çç½ªï¼ä½¿ä»ä»¬åæ¥ææ¹èå½åæç¶çå½åº¦ã",
+      "zht": "<span class=\"verse-number\">44ã</span>æè¦èä½ åçæå¨äººé¡åå¥³ä¸­åå¥å¦çäºå·¥ï¼å¸è¨±å¤äººèªæ¸èªå·±çç½ªï¼ä½¿ä»ååä¾ææ¹èæ­¸åæç¶çååº¦ã",
+      "spa": "<span class=\"verse-number\">44 </span>y por conducto de vuestras manos harÃ© una obra maravillosa entre los hijos de los hombres, para convencer a muchos de ellos de sus pecados, para que se arrepientan y lleguen al reino de mi Padre.",
+      "por": "<span class=\"verse-number\">44 </span>E por vossas mÃ£os realizarei uma obra maravilhosa entre os filhos dos homens para convencer a muitos de seus pecados, para que se arrependam e se aproximem do reino de meu Pai.",
+      "fra": "<span class=\"verse-number\">44Â </span>et jâaccomplirai par vos mains une Åuvre merveilleuse parmi les enfants des hommes, au point dâen convaincre beaucoup de leurs pÃ©chÃ©s, afin quâils viennent au repentir et quâils viennent au royaume de mon PÃ¨re.",
+      "deu": "<span class=\"verse-number\">44Â </span>und durch eure HÃ¤nde werde ich unter den Menschenkindern ein wunderbares Werk bewirken, sodass viele sich ihrer SÃ¼nden bewusst werden, damit sie zur Umkehr kommen mÃ¶gen und damit sie ins Reich meines Vaters kommen mÃ¶gen.",
+      "kor": "<span class=\"verse-number\">44 </span>ê·¸ë¦¬ê³  ëí¬ ìì¼ë¡ ë´ê° ì¬ëì ìëë¤ ê°ì´ë° ê¸°ì´í ì¼ì ííì¬ ë§ì ììê² ìê¸°ì ì£ë¥¼ ê¹¨ë«ê² íë¦¬ë, ì´ë ê·¸ë¤ë¡ íê°ì ì´ë¥´ê² íë ¤ í¨ì´ë©°, ê·¸ë¤ë¡ ë´ ìë²ì§ì ìêµ­ì ì´ë¥´ê² íë ¤ í¨ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">44 </span>E per mano vostra io compirÃ² unâopera meravigliosa tra i figlioli degli uomini, fino a convincerne molti dei loro peccati, affinchÃ© possano venire al pentimento e possano venire nel regno di mio Padre."
+    },
+    "45": {
+      "eng": "<span class=\"verse-number\">45 </span>Wherefore, the blessings which I give unto you are above all things.",
+      "jpn": "<span class=\"verse-number\">45</span>ããããããªãããã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãã<ruby><rb>ç¥</rb><rt>ããã</rt></ruby><ruby><rb>ç¦</rb><rt>ãµã</rt></ruby>ã¯ããã¹ã¦ã®ãã®ã«åã£ã¦ããã",
+      "zhs": "<span class=\"verse-number\">45ã</span>å æ­¤ï¼æç»ä½ ä»¬çç¥ç¦è¶ä¹ä¸åã",
+      "zht": "<span class=\"verse-number\">45ã</span>å æ­¤ï¼æçµ¦ä½ åçç¥ç¦è¶ä¹ä¸åã",
+      "spa": "<span class=\"verse-number\">45 </span>AsÃ­ que, las bendiciones que os doy son superiores a todas las cosas.",
+      "por": "<span class=\"verse-number\">45 </span>Portanto, as bÃªnÃ§Ã£os que vos dou estÃ£o acima de todas as coisas.",
+      "fra": "<span class=\"verse-number\">45Â </span>Câest pourquoi les bÃ©nÃ©dictions que je vous donne sont au-dessus de toutes choses.",
+      "deu": "<span class=\"verse-number\">45Â </span>Darum stehen die Segnungen, die ich euch gebe, Ã¼ber allem.",
+      "kor": "<span class=\"verse-number\">45 </span>ê·¸ë°ì¦ ë´ê° ëí¬ìê² ì£¼ë ì¶ë³µì ëª¨ë  ê² ìì ë°ì´ëëë¤.",
+      "ita": "<span class=\"verse-number\">45 </span>Pertanto, le benedizioni che io vi do sono al di sopra di ogni cosa."
+    },
+    "46": {
+      "eng": "<span class=\"verse-number\">46 </span>And after that you have received this, if you keep not my commandments you cannot be saved in the kingdom of my Father.",
+      "jpn": "<span class=\"verse-number\">46</span>ããªãããã¯ããã<ruby><rb>å</rb><rt>ã</rt></ruby>ãã<ruby><rb>å¾</rb><rt>ã®ã¡</rt></ruby>ãããããããã®<ruby><rb>æ</rb><rt>ãã¾ã</rt></ruby>ããå®ããªããã°ããããã®<ruby><rb>ç¶</rb><rt>ã¡ã¡</rt></ruby>ã®<ruby><rb>ç</rb><rt>ãã</rt></ruby><ruby><rb>å½</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ</rb><rt>ãã</rt></ruby>ããããã¨ã¯ã§ããªãã",
+      "zhs": "<span class=\"verse-number\">46ã</span>ä½ ä»¬å¾å°è¿äºåï¼è¥ä¸éµå®æçè¯«å½ï¼å°±ä¸è½å¨æç¶çå½åº¦ä¸­å¾æã",
+      "zht": "<span class=\"verse-number\">46ã</span>ä½ åå¾å°éäºå¾ï¼è¥ä¸éµå®æçèª¡å½ï¼å°±ä¸è½å¨æç¶çååº¦ä¸­å¾æã",
+      "spa": "<span class=\"verse-number\">46 </span>Y despuÃ©s de haber recibido esto, si no guardÃ¡is mis mandamientos, no podrÃ©is salvaros en el reino de mi Padre.",
+      "por": "<span class=\"verse-number\">46 </span>E depois de terdes recebido isto, se nÃ£o guardardes meus mandamentos, nÃ£o podereis ser salvos no reino de meu Pai.",
+      "fra": "<span class=\"verse-number\">46Â </span>Et si, aprÃ¨s avoir reÃ§u cela, vous ne gardez pas mes commandements, vous ne pourrez pas Ãªtre sauvÃ©s dans le royaume de mon PÃ¨re.",
+      "deu": "<span class=\"verse-number\">46Â </span>Und wenn ihr, nachdem ihr dies empfangen habt, meine Gebote nicht haltet, kÃ¶nnt ihr nicht im Reich meines Vaters errettet werden.",
+      "kor": "<span class=\"verse-number\">46 </span>ê·¸ë¦¬ê³  ëí¬ê° ì´ë¥¼ ë°ì íì ë§ì¼ ë´ ê³ëªì ì§í¤ì§ ìëíë©´, ëí¬ë ë´ ìë²ì§ì ìêµ­ìì êµ¬ì ë°ì ì ìëëë¼.",
+      "ita": "<span class=\"verse-number\">46 </span>E dopo che avrete ricevuto queste cose, se non rispettate i miei comandamenti non potrete essere salvati nel regno di mio Padre."
+    },
+    "47": {
+      "eng": "<span class=\"verse-number\">47 </span>Behold, I, Jesus Christ, your Lord and your God, and your Redeemer, by the power of my Spirit have spoken it. Amen.",
+      "jpn": "<span class=\"verse-number\">47</span><ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ããããããããªãã¡ãããªãããã®<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ãããªãããã®<ruby><rb>ç¥</rb><rt>ãã¿</rt></ruby>ãã¾ãããªãããã®<ruby><rb>è´</rb><rt>ãããª</rt></ruby>ã<ruby><rb>ä¸»</rb><rt>ã¬ã</rt></ruby>ã§ããã¤ã¨ã¹ã»ã­ãªã¹ããããããã®<ruby><rb>å¾¡</rb><rt>ã¿</rt></ruby><ruby><rb>é</rb><rt>ãã¾</rt></ruby>ã®<ruby><rb>å</rb><rt>ã¡ãã</rt></ruby>ã«ãã£ã¦ããã<ruby><rb>èª</rb><rt>ãã</rt></ruby>ã£ãã®ã§ãããã¢ã¼ã¡ã³ã",
+      "zhs": "<span class=\"verse-number\">47ã</span>çåï¼æï¼è¶ç¨£åºç£ï¼ä½ ä»¬çä¸»åä½ ä»¬çç¥ï¼ä½ ä»¬çæèµä¸»ï¼åçæçµçåéè¯´è¿è¯ãé¿ä»¬ã",
+      "zht": "<span class=\"verse-number\">47ã</span>çåï¼æï¼è¶ç©åºç£ï¼ä½ åçä¸»åä½ åçç¥ï¼ä½ åçæè´ä¸»ï¼èèæéçåéèªªéè©±ãé¿åã",
+      "spa": "<span class=\"verse-number\">47 </span>He aquÃ­, yo, Jesucristo, vuestro SeÃ±or, Dios y Redentor, lo he hablado por el poder de mi EspÃ­ritu. AmÃ©n.",
+      "por": "<span class=\"verse-number\">47 </span>Eis que eu, Jesus Cristo, vosso Senhor e vosso Deus e vosso Redentor, pelo poder de meu EspÃ­rito, disse-o. AmÃ©m.",
+      "fra": "<span class=\"verse-number\">47Â </span>Voici, moi, JÃ©sus-Christ, votre Seigneur et votre Dieu, et votre RÃ©dempteur, lâai dit par la puissance de mon Esprit. Amen.",
+      "deu": "<span class=\"verse-number\">47Â </span>Siehe, ich, Jesus Christus, euer Herr und euer Gott und euer ErlÃ¶ser, habe es durch die Macht meines Geistes gesprochen. Amen.",
+      "kor": "<span class=\"verse-number\">47 </span>ë³´ë¼, ëí¬ì ì£¼ì ëí¬ì íëëì´ì, ëí¬ êµ¬ìì£¼ì¸ ë ìì ê·¸ë¦¬ì¤ëë ë´ ìì ê¶ë¥ì¼ë¡ì¨ ì´ë¥¼ ë§íìë¸ë¼. ìë©.",
+      "ita": "<span class=\"verse-number\">47 </span>Ecco, io, GesÃ¹ Cristo, vostro Signore e vostro Dio e vostro Redentore, lâho detto mediante il potere del mio Spirito. Amen."
+    }
+  }
+}

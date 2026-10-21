@@ -1,0 +1,464 @@
+{
+  "meta": {
+    "volume": "bom",
+    "book": "3-ne",
+    "chapter": 13,
+    "headings": {
+      "ara": "ÙØ¹ÙÙÙ ÙØ³ÙØ¹ Ø§ÙÙØ§ÙÙÙÙ ØµÙØ§Ø© Ø§ÙØ±Ø¨âÙÙØµÙÙÙ Ø£Ù ÙÙÙØ²ÙØ§ ÙÙÙØ²Ø§ ÙÙ Ø§ÙØ³ÙØ§Ø¡âÙÙØµÙ Ø§ÙØªÙØ§ÙÙØ° Ø§ÙØ§Ø«ÙÙ Ø¹Ø´Ø± Ø¨Ø¹Ø¯Ù Ø§ÙØ§ÙØªÙØ§Ù Ø¨Ø§ÙØ£ÙÙØ± Ø§ÙØ¯ÙÙÙÙØ© Ø£Ø«ÙØ§Ø¡ Ø®Ø¯ÙØªÙÙâØ±Ø§Ø¬Ø¹ ÙØªÙ Ù¦. (Ù£Ù¤ Ù. ØªÙØ±ÙØ¨ÙØ§)",
+      "jpn": "イエス、<ruby><rb>主</rb><rt>しゅ</rt></ruby>の<ruby><rb>祈</rb><rt>いの</rt></ruby>りをニーファイ<ruby><rb>人</rb><rt>じん</rt></ruby>に<ruby><rb>教</rb><rt>おし</rt></ruby>えられる。<ruby><rb>人</rb><rt>ひと</rt></ruby>は<ruby><rb>天</rb><rt>てん</rt></ruby>に<ruby><rb>宝</rb><rt>たから</rt></ruby>を<ruby><rb>蓄</rb><rt>たくわ</rt></ruby>えなければならない。<ruby><rb>主</rb><rt>しゅ</rt></ruby>の<ruby><rb>務</rb><rt>つと</rt></ruby>めに<ruby><rb>携</rb><rt>たずさ</rt></ruby>わる<ruby><rb>十</rb><rt>じゅう</rt></ruby><ruby><rb>二</rb><rt>に</rt></ruby><ruby><rb>弟</rb><rt>で</rt></ruby><ruby><rb>子</rb><rt>し</rt></ruby>、この<ruby><rb>世</rb><rt>よ</rt></ruby>のものを<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>煩</rb><rt>わずら</rt></ruby>わないように<ruby><rb>命</rb><rt>めい</rt></ruby>じられる。<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6?lang=jpn\">マタイによる<ruby><rb>福</rb><rt>ふく</rt></ruby><ruby><rb>音</rb><rt>いん</rt></ruby><ruby><rb>書</rb><rt>しょ</rt></ruby><ruby><rb>第</rb><rt>だい</rt></ruby>六<ruby><rb>章</rb><rt>しょう</rt></ruby></a>と<ruby><rb>比</rb><rt>ひ</rt></ruby><ruby><rb>較</rb><rt>かく</rt></ruby>。<ruby><rb>紀</rb><rt>き</rt></ruby><ruby><rb>元</rb><rt>げん</rt></ruby><ruby><rb>約</rb><rt>やく</rt></ruby>三十四<ruby><rb>年</rb><rt>ねん</rt></ruby>。",
+      "zhs": "耶穌教導<u>尼腓</u>人主的祈禱文——他們要積存財寶在天上——命令十二門徒在傳道時，勿憂慮俗事——比照<a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6?lang=zho\">《馬太福音》第6章</a>。約主後34年。",
+      "zht": "è¶ç©æå°<u>å°¼è</u>äººä¸»çç¥ç¦±æââä»åè¦ç©å­è²¡å¯¶å¨å¤©ä¸ââå½ä»¤åäºéå¾å¨å³éæï¼å¿ææ®ä¿äºââæ¯ç§ãé¦¬å¤ªç¦é³ãç¬¬6ç« ãç´ä¸»å¾34å¹´ã",
+      "spa": "Jesús enseña a los nefitas la manera de orar — Deben acumular tesoros en los cielos — Manda a los doce discípulos que en su ministerio no se afanen por las cosas temporales — Compárese con <a class=\"scripture-ref\" href=\"/study/scriptures/nt/matt/6?lang=spa\">Mateo 6</a>. Aproximadamente 34 d.C.",
+      "por": "Jesus ensina aos nefitas a maneira de orarÂ â Eles devem ajuntar tesouros nos cÃ©usÂ â Os doze discÃ­pulos, em seu ministÃ©rio, recebem ordem de nÃ£o se preocuparem com coisas materiaisÂ â Comparar com Mateus 6. Aproximadamente 34Â d.C.",
+      "fra": "JÃ©sus enseigne aux NÃ©phites Ã  prierÂ â Ils doivent sâamasser des trÃ©sors dans le cielÂ â Les douze disciples reÃ§oivent le commandement de ne pas sâinquiÃ©ter des choses temporelles pendant leur ministÃ¨reÂ â Comparez avec Matthieu 6. Vers 34Â apr.Â J.-C.",
+      "deu": "Jesus lehrt die Nephiten das VaterunserÂ â Sie sollen sich SchÃ¤tze im Himmel sammelnÂ â Den zwÃ¶lf JÃ¼ngern wird geboten, sich in ihrem Dienst nicht um zeitliche Dinge zu sorgenÂ â Vergleiche MatthÃ¤us 6. Um 34Â n.Â Chr.",
+      "kor": "ììê»ì ëíì´ì¸ë¤ìê² ì£¼ê¸°ëë¬¸ì ê°ë¥´ì¹ì¬âê·¸ë¤ì ë³´ë¬¼ì íëì ìì ëì´ì¼ í¨âì±ì­ì ë² í¸ë ì´ë ì ìë¤ì íì¸ì ì¸ ì¼ì ì¼ë ¤íì§ ë§ëë¡ ëªì ë°ìâë§íë³µì 6ì¥ê³¼ ë¹êµíë¼. ì£¼í 34ëê²½.",
+      "ita": "GesÃ¹ insegna ai Nefiti la preghiera del SignoreÂ â Devono ammassare tesori in cieloÂ â Ai dodici discepoli viene comandato di non darsi pensiero, nel loro ministero, delle cose materialiÂ â Confrontare con Matteo 6. Circa 34Â d.C."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "Verily, verily, I say that I would that ye should do alms unto the poor; but take heed that ye do not your alms before men to be seen of them; otherwise ye have no reward of your Father who is in heaven.",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>Ø§ÙÙÙØ­ÙÙÙÙ Ø§ÙÙØ­ÙÙÙÙ Ø£ÙÙÙÙÙ ÙÙÙÙÙÙ Ø¥ÙÙÙÙ Ø£ÙØ±ÙØºÙØ¨Ù ÙÙ Ø£ÙÙÙ ØªÙÙÙØ¯ÙÙÙÙØ§ Ø§ÙØµÙÙØ¯ÙÙØ§ØªÙ ÙÙÙÙÙÙÙÙØ±Ø§Ø¡ÙØ ÙÙÙÙ°ÙÙÙÙ Ø§Ø­ÙØ°ÙØ±ÙØ§ ÙÙÙÙ Ø£ÙÙÙ ØªÙÙÙØ¯ÙÙÙÙØ§ ØµÙØ¯ÙÙØ§ØªÙÙÙÙÙ Ø£ÙÙØ§ÙÙ Ø§ÙÙÙØ§Ø³Ù ÙÙÙÙ ÙÙØ±ÙÙÙÙÙÙÙØ ÙÙØ¥ÙÙÙØ§ ÙÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙÙÙÙÙ Ø£ÙØ¬ÙØ±Ù ÙÙÙÙ Ø£ÙØ¨ÙÙÙÙÙ Ø§ÙÙÙØ°Ù ÙÙ Ø§ÙØ³ÙÙÙØ§ÙØ§ØªÙ.",
+      "jpn": "「まことに、まことに、わたしは<ruby>言<rt>い</rt></ruby>う。あなたがたは<ruby>貧<rt>まず</rt></ruby>しい<ruby>者<rt>もの</rt></ruby>に<ruby>施<rt>ほどこ</rt></ruby>しをしてほしい。しかし、<ruby>見<rt>み</rt></ruby>られるために<ruby>人<rt>ひと</rt></ruby><ruby>々<rt>びと</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>施<rt>ほどこ</rt></ruby>しをすることのないように<ruby>注<rt>ちゅう</rt></ruby><ruby>意<rt>い</rt></ruby>しなさい。もし、そうしないと、<ruby>天<rt>てん</rt></ruby>におられるあなたがたの<ruby>父<rt>ちち</rt></ruby>から<ruby>報<rt>むく</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けることがないであろう。",
+      "zhs": "我实实在在地说，我希望你们周济穷人；只是你们要小心，不可将周济的事行在人前，叫他们看见；若是这样，就不能得你们在天上的父的赏赐了。",
+      "zht": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p1\" title=\"ç¸éå§å®¹\"><button aria-label=\"ç¸éå§å®¹\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">1ã</span>æå¯¦å¯¦å¨å¨å°èªªï¼æå¸æä½ åè³æ¿çª®äººï¼åªæ¯ä½ åè¦å°å¿ï¼ä¸å¯å°è³æ¿çäºè¡å¨äººåï¼å«ä»åçè¦ï¼è¥æ¯éæ¨£ï¼å°±ä¸è½å¾ä½ åå¨å¤©ä¸çç¶çè³è³äºã",
+      "spa": "En verdad, en verdad os digo, quisiera que dieseis limosnas a los pobres; mas guardaos de dar vuestras limosnas delante de los hombres para ser vistos de ellos; de otra manera, ningún galardón tenéis de vuestro Padre que está en los cielos.",
+      "por": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p1\" title=\"ConteÃºdo relacionado\"><button aria-label=\"ConteÃºdo relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">1 </span>Em verdade, em verdade vos digo que gostaria que dÃ©sseis esmolas aos pobres; mas guardai-vos de fazer a vossa esmola diante dos homens, para serdes vistos por eles; de outra forma, nÃ£o recebereis galardÃ£o algum de vosso Pai que estÃ¡ no cÃ©u.",
+      "fra": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p1\" title=\"Contenu associÃ©\"><button aria-label=\"Contenu associÃ©\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">1Â </span>En vÃ©ritÃ©, en vÃ©ritÃ©, je vous le disÂ : Je voudrais que vous fassiez des aumÃ´nes aux pauvresÂ ; mais gardez-vous de faire vos aumÃ´nes devant les hommes pour en Ãªtre vusÂ ; autrement, vous nâaurez point de rÃ©compense auprÃ¨s de votre PÃ¨re qui est dans les cieux.",
+      "deu": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p1\" title=\"DazugehÃ¶riger Inhalt\"><button aria-label=\"DazugehÃ¶riger Inhalt\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">1Â </span>Wahrlich, wahrlich, ich sage, ich mÃ¶chte, dass ihr den Armen Almosen gebt; aber achtet darauf, dass ihr eure Almosen nicht vor den Leuten gebt, um von ihnen gesehen zu werden; sonst habt ihr keinen Lohn von eurem Vater, der im Himmel ist.",
+      "kor": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p1\" title=\"ê´ë ¨ ì½íì¸ \"><button aria-label=\"ê´ë ¨ ì½íì¸ \" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">1 </span>ì§ì¤ë¡ ì§ì¤ë¡ ë´ê° ì´ë¥´ë¸ë ëë ëí¬ê° ê°ëí ìë¥¼ êµ¬ì íê¸°ë¥¼ ìíë¸ë¼. ê·¸ë¬ë ëí¬ë ì¬ëë¤ìê² ë³´ì´ë ¤ê³  ê·¸ë¤ ììì ëí¬ì êµ¬ì ë¥¼ ííì§ ìëë¡ ì£¼ìíë¼. ê·¸ë ì§ ìëíë©´ íëì ê³ì  ëí¬ ìë²ì§ê» ìì ì»ì§ ëª»íëëë¼.",
+      "ita": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p1\" title=\"Contenuti collegati\"><button aria-label=\"Contenuti collegati\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">1 </span>In veritÃ , in veritÃ , io dico che vorrei che faceste elemosine ai poveri; ma fate attenzione di non fare le vostre elemosine dinanzi agli uomini, per essere visti da loro; altrimenti non avrete ricompensa dal vostro Padre che Ã¨ in cielo."
+    },
+    "2": {
+      "eng": "Therefore, when ye shall do your alms do not sound a trumpet before you, as will hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, they have their reward.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙØ°Ù°ÙÙÙÙØ Ø¹ÙÙÙØ¯ÙÙØ§ ØªÙÙÙØ¯ÙÙÙÙÙÙ ØµÙØ¯ÙÙØ§ØªÙÙÙÙÙ ÙØ§ ØªÙÙÙÙÙØ®ÙØ§ Ø¨ÙØ§ÙÙØ¨ÙÙÙ Ø£ÙÙØ§ÙÙÙÙÙÙ ÙÙÙØ§ ÙÙÙÙØ¹ÙÙÙ Ø§ÙÙÙÙÙØ§ÙÙÙÙÙÙ ÙÙ Ø¯ÙØ±Ù Ø§ÙÙØ¹ÙØ¨Ø§Ø¯ÙØ©Ù ÙÙÙÙ Ø§ÙØ·ÙÙØ±ÙÙØ§ØªÙ ÙÙÙÙÙÙ ÙÙØ­ÙØ¸ÙÙÙØ§ Ø¨ÙØ§ÙÙÙÙØ¯ÙØ­Ù ÙÙÙÙ Ø§ÙÙÙØ§Ø³Ù. Ø§ÙÙÙØ­ÙÙÙÙ Ø£ÙÙÙÙÙ ÙÙÙÙÙÙØ ÙÙÙÙØ¯Ù Ø£ÙØ®ÙØ°ÙØ§ Ø£ÙØ¬ÙØ±ÙÙÙÙÙ.",
+      "jpn": "だから、<ruby>施<rt>ほどこ</rt></ruby>しをするときには、<ruby>偽<rt>ぎ</rt></ruby><ruby>善<rt>ぜん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちが<ruby>人<rt>ひと</rt></ruby>から<ruby>褒<rt>ほ</rt></ruby>められるために<ruby>会<rt>かい</rt></ruby><ruby>堂<rt>どう</rt></ruby>や<ruby>通<rt>とお</rt></ruby>りでするように、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>でラッパを<ruby>吹<rt>ふ</rt></ruby>いてはならない。まことに、あなたがたに<ruby>言<rt>い</rt></ruby>う。<ruby>彼<rt>かれ</rt></ruby>らはその<ruby>報<rt>むく</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けてしまっている。",
+      "zhs": "所以你们周济时，不可在你们前面吹号，像那假冒为善的人，在会堂里和在街道上所行的，要得人的荣耀。我实在告诉你们，他们已经得了他们的赏赐。",
+      "zht": "<span class=\"verse-number\">2ã</span>æä»¥ä½ åè³æ¿æï¼ä¸å¯å¨ä½ ååé¢å¹èï¼åé£ååçºåçäººï¼å¨æå è£¡åå¨è¡éä¸æè¡çï¼è¦å¾äººçæ¦®èãæå¯¦å¨åè¨´ä½ åï¼ä»åå·²ç¶å¾äºä»åçè³è³ã",
+      "spa": "Por tanto, cuando hagáis vuestra limosna, no toquéis trompeta delante de vosotros, como lo hacen los hipócritas en las sinagogas y en las calles, para tener gloria de los hombres. En verdad os digo que ya tienen su recompensa.",
+      "por": "<span class=\"verse-number\">2 </span>Quando, pois, derdes esmolas, nÃ£o toqueis trombeta diante de vÃ³s, como fazem os hipÃ³critas nas sinagogas e nas ruas, para serem glorificados pelos homens. Em verdade vos digo que jÃ¡ receberam o seu galardÃ£o.",
+      "fra": "<span class=\"verse-number\">2Â </span>Câest pourquoi, lorsque vous faites lâaumÃ´ne, ne sonnez pas de la trompette devant vous, comme font les hypocrites dans les synagogues et dans les rues, afin dâÃªtre glorifiÃ©s par les hommes. En vÃ©ritÃ©, je vous le dis, ils reÃ§oivent leur rÃ©compense.",
+      "deu": "<span class=\"verse-number\">2Â </span>Darum, wenn ihr eure Almosen gebt, so posaunt nicht vor euch her, wie Heuchler das in den Synagogen und auf den StraÃen tun, um sich von den Leuten preisen zu lassen. Wahrlich, ich sage euch: Sie haben ihren Lohn.",
+      "kor": "<span class=\"verse-number\">2 </span>ê·¸ë¬ë¯ë¡ ëí¬ê° êµ¬ì í  ëì, ì¸ìíë ìë¤ì´ ì¬ëë¤ìê² ìê´ì ì»ì¼ë ¤ê³  íë¹ê³¼ ê±°ë¦¬ìì íë ê²ê°ì´, ëí¬ ìì ëíì ë¶ì§ ë§ë¼. ì§ì¤ë¡ ë´ê° ëí¬ìê² ì´ë¥´ë¸ë ê·¸ë¤ì ìê¸° ìì ì´ë¯¸ ë°ìëëë¼.",
+      "ita": "<span class=\"verse-number\">2 </span>Quando dunque farete le vostre elemosine, non suonate la tromba dinanzi a voi, come fanno gli ipocriti nelle sinagoghe e nelle strade, per avere la gloria dagli uomini. In veritÃ  io vi dico châessi hanno la loro ricompensa."
+    },
+    "3": {
+      "eng": "But when thou doest alms let not thy left hand know what thy right hand doeth;",
+      "ara": "<span class=\"verse-number\">Ù£ </span>ÙÙÙÙ°ÙÙÙÙ Ø¹ÙÙÙØ¯ÙÙØ§ ØªÙÙÙØ¯ÙÙÙÙØ§ Ø§ÙØµÙÙØ¯ÙÙØ§ØªÙ ÙØ§ ØªÙØ¯ÙØ¹ÙØ§ ÙÙØ³ÙØ±Ø§ÙÙÙÙ ØªÙØ¯ÙØ±Ù Ø¨ÙÙØ§ ØªÙÙÙØ¹ÙÙÙÙÙ ÙÙÙÙÙØ§ÙÙÙÙØ",
+      "jpn": "あなたは<ruby>施<rt>ほどこ</rt></ruby>しをするとき、<ruby>右<rt>みぎ</rt></ruby>の<ruby>手<rt>て</rt></ruby>のしていることを<ruby>左<rt>ひだり</rt></ruby>の<ruby>手<rt>て</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせてはならない。",
+      "zhs": "你们周济时，不要叫左手知道右手做的；",
+      "zht": "<span class=\"verse-number\">3ã</span>ä½ åè³æ¿æï¼ä¸è¦å«å·¦æç¥éå³æåçï¼",
+      "spa": "Mas cuando tú hagas limosna, no sepa tu mano izquierda lo que hace tu derecha;",
+      "por": "<span class=\"verse-number\">3 </span>Mas quando tu deres esmola, nÃ£o saiba a tua mÃ£o esquerda o que faz a direita;",
+      "fra": "<span class=\"verse-number\">3Â </span>Mais quand tu fais lâaumÃ´ne, que ta main gauche ne sache pas ce que fait ta droite,",
+      "deu": "<span class=\"verse-number\">3Â </span>Wenn aber du Almosen gibst, so lass deine linke Hand nicht wissen, was deine rechte Hand tut,",
+      "kor": "<span class=\"verse-number\">3 </span>ì¤ì§ ëë êµ¬ì í  ëì ë¤ ì¤ë¥¸ìì´ íë ê²ì ë¤ ì¼ìì´ ëª¨ë¥´ê² íì¬,",
+      "ita": "<span class=\"verse-number\">3 </span>Ma quando tu fai elemosina, che la tua mano sinistra non sappia ciÃ² che fa la destra;"
+    },
+    "4": {
+      "eng": "That thine alms may be in secret; and thy Father who seeth in secret, himself shall reward thee openly.",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙÙÙ ØªÙÙÙÙÙ ØµÙØ¯ÙÙØ§ØªÙÙÙÙÙ ÙÙ Ø§ÙÙØ®ÙÙØ§Ø¡ÙØ ÙÙØ£ÙØ¨ÙÙÙÙÙ Ø§ÙÙÙØ°Ù ÙÙØ±Ù ÙÙ Ø§ÙÙØ®ÙÙØ§Ø¡Ù Ø³ÙÙÙÙØ§ÙÙØ¦ÙÙÙÙÙ Ø¹ÙÙØ§ÙÙÙÙÙØ©Ù.",
+      "jpn": "それは、あなたのする<ruby>施<rt>ほどこ</rt></ruby>しが<ruby>隠<rt>かく</rt></ruby>れているためである。そうすれば、ひそかに<ruby>見<rt>み</rt></ruby>ておられるあなたの<ruby>父<rt>ちち</rt></ruby>は、<ruby>公<rt>おおやけ</rt></ruby>に<ruby>報<rt>むく</rt></ruby>いてくださるであろう。",
+      "zhs": "要叫你们周济的事行在暗中，你们的父在暗中察看，必公开酬赏你们。",
+      "zht": "<span class=\"verse-number\">4ã</span>è¦å«ä½ åè³æ¿çäºè¡å¨æä¸­ï¼ä½ åçç¶å¨æä¸­å¯çï¼å¿å¬éé¬è³ä½ åã",
+      "spa": "a fin de que tu limosna sea en secreto; y tu Padre que ve en lo secreto, te recompensará en público.",
+      "por": "<span class=\"verse-number\">4 </span>Para que tuas esmolas sejam dadas em segredo; e teu Pai, que vÃª em segredo, recompensar-te-Ã¡ abertamente.",
+      "fra": "<span class=\"verse-number\">4Â </span>afin que ton aumÃ´ne se fasse en secretÂ ; et ton PÃ¨re, qui voit dans le secret, lui-mÃªme te rÃ©compensera ouvertement.",
+      "deu": "<span class=\"verse-number\">4Â </span>damit deine Almosen verborgen bleiben; und dein Vater, der ins Verborgene sieht, wird selbst es dir offen lohnen.",
+      "kor": "<span class=\"verse-number\">4 </span>ëì êµ¬ì í¨ì´ ìë°í ì¤ì ìê² íë¼. ìë°í ì¤ì ë³´ìë ëì ìë²ì§ê»ì ì¹í ëë¬ë´ì´ ë¤ê² ê°ì¼ìë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">4 </span>AffinchÃ© la tua elemosina possa essere in segreto; e tuo Padre, che vede nel segreto, ti ricompenserÃ  apertamente."
+    },
+    "5": {
+      "eng": "And when thou prayest thou shalt not do as the hypocrites, for they love to pray, standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, they have their reward.",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ¹ÙÙÙØ¯ÙÙØ§ ØªÙØµÙÙÙÙÙÙ ÙÙÙØ§ ØªÙÙÙÙÙØ§ ÙÙØ§ÙÙÙÙÙØ§ÙÙÙÙÙÙ ÙÙØ£ÙÙÙÙÙÙÙÙ ÙÙØ­ÙØ¨ÙÙÙÙ Ø£ÙÙÙ ÙÙØµÙÙÙÙØ§ ÙØ§ÙÙÙÙÙÙ ÙÙ Ø¯ÙØ±Ù Ø§ÙÙØ¹ÙØ¨Ø§Ø¯ÙØ©Ù ÙÙØ²ÙÙØ§ÙØ§ Ø§ÙØ·ÙÙØ±ÙÙØ§ØªÙ ÙÙÙÙ ÙÙØ±Ø§ÙÙÙÙ Ø§ÙÙÙØ§Ø³Ù. Ø§ÙÙÙØ­ÙÙÙÙ Ø£ÙÙÙÙÙ ÙÙÙÙÙÙØ ÙÙÙÙØ¯Ù Ø£ÙØ®ÙØ°ÙØ§ Ø£ÙØ¬ÙØ±ÙÙÙÙÙ.",
+      "jpn": "また、<ruby>祈<rt>いの</rt></ruby>るときには、<ruby>偽<rt>ぎ</rt></ruby><ruby>善<rt>ぜん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>たちのようにしてはならない。<ruby>彼<rt>かれ</rt></ruby>らは<ruby>人<rt>ひと</rt></ruby>に<ruby>見<rt>み</rt></ruby>せようとして、<ruby>会<rt>かい</rt></ruby><ruby>堂<rt>どう</rt></ruby>や<ruby>大<rt>おお</rt></ruby><ruby>通<rt>どお</rt></ruby>りのつじに<ruby>立<rt>た</rt></ruby>って<ruby>祈<rt>いの</rt></ruby>ることを<ruby>好<rt>この</rt></ruby>む。まことに、あなたがたに<ruby>言<rt>い</rt></ruby>う。<ruby>彼<rt>かれ</rt></ruby>らはその<ruby>報<rt>むく</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けてしまっている。",
+      "zhs": "你们祷告时，不可像那假冒为善的人，他们爱站在会堂里和路口上祷告，好叫人看见。我实在告诉你们，他们已经得了他们的赏赐。",
+      "zht": "<span class=\"verse-number\">5ã</span>ä½ åç¦±åæï¼ä¸å¯åé£ååçºåçäººï¼ä»åæç«å¨æå è£¡åè·¯å£ä¸ç¦±åï¼å¥½å«äººçè¦ãæå¯¦å¨åè¨´ä½ åï¼ä»åå·²ç¶å¾äºä»åçè³è³ã",
+      "spa": "Y cuando ores, no seas como los hipócritas, porque les gusta orar de pie en las sinagogas y en las esquinas de las calles, para ser vistos de los hombres. En verdad os digo que ya tienen su recompensa.",
+      "por": "<span class=\"verse-number\">5 </span>E quando orares, nÃ£o faÃ§as como os hipÃ³critas, que se comprazem em orar em pÃ© nas sinagogas e nas esquinas das ruas para serem vistos pelos homens. Em verdade vos digo que eles jÃ¡ receberam o seu galardÃ£o.",
+      "fra": "<span class=\"verse-number\">5Â </span>Et lorsque tu pries, ne sois pas comme les hypocrites, qui aiment Ã  prier debout dans les synagogues et aux coins des rues, pour Ãªtre vus des hommes. En vÃ©ritÃ©, je vous le dis, ils reÃ§oivent leur rÃ©compense.",
+      "deu": "<span class=\"verse-number\">5Â </span>Und wenn du betest, so sollst du es nicht wie die Heuchler tun, denn sie beten gern, wÃ¤hrend sie in den Synagogen und an den StraÃenecken stehen, damit sie von den Leuten gesehen werden. Wahrlich, ich sage euch: Sie haben ihren Lohn.",
+      "kor": "<span class=\"verse-number\">5 </span>ë ë¤ê° ê¸°ëí  ëì ì¸ìíë ìë¤ê³¼ ê°ì´ íì§ ë§ì§ë, ì´ë ê·¸ë¤ì´ ì¬ëë¤ìê² ë³´ì´ë ¤ê³  íë¹ì´ë ê±°ë¦¬ ëª¨íì´ì ìì ê¸°ëíê¸°ë¥¼ ì¢ìí¨ì´ëë¼. ì§ì¤ë¡ ë´ê° ëí¬ìê² ì´ë¥´ë¸ë ê·¸ë¤ì ìê¸° ìì ì´ë¯¸ ë°ìëëë¼.",
+      "ita": "<span class=\"verse-number\">5 </span>E quando preghi, non fare come gli ipocriti, poichÃ© essi amano pregare in piedi nelle sinagoghe e agli angoli delle strade, per poter essere visti dagli uomini. In veritÃ  io vi dico, essi hanno la loro ricompensa."
+    },
+    "6": {
+      "eng": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father who is in secret; and thy Father, who seeth in secret, shall reward thee openly.",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙ°ÙÙÙÙ Ø¹ÙÙÙØ¯ÙÙØ§ ØªÙØµÙÙÙÙÙÙ Ø§Ø¯ÙØ®ÙÙÙØ§ ÙÙØ®Ø§Ø¯ÙØ¹ÙÙÙÙÙ ÙÙØ¨ÙØ¹ÙØ¯ÙÙØ§ ØªÙØºÙÙÙÙÙÙÙ Ø£ÙØ¨ÙÙØ§Ø¨ÙÙÙÙÙ ØµÙÙÙÙØ§ ÙÙØ£ÙØ¨ÙÙÙÙÙ Ø§ÙÙÙØ°Ù ÙÙ Ø§ÙÙØ®ÙÙØ§Ø¡Ù ÙÙØ£ÙØ¨ÙÙÙÙÙ Ø§ÙÙÙØ°Ù ÙÙØ±Ù ÙÙ Ø§ÙÙØ®ÙÙØ§Ø¡Ù Ø³ÙÙÙÙØ§ÙÙØ¦ÙÙÙÙÙ Ø¹ÙÙØ§ÙÙÙÙÙØ©Ù.",
+      "jpn": "あなたは<ruby>祈<rt>いの</rt></ruby>るとき、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>部<rt>へ</rt></ruby><ruby>屋<rt>や</rt></ruby>に<ruby>入<rt>はい</rt></ruby>り、<ruby>戸<rt>と</rt></ruby>を<ruby>閉<rt>と</rt></ruby>じて、<ruby>隠<rt>かく</rt></ruby>れた<ruby>所<rt>ところ</rt></ruby>におられるあなたの<ruby>父<rt>ちち</rt></ruby>に<ruby>祈<rt>いの</rt></ruby>りなさい。すると、ひそかに<ruby>見<rt>み</rt></ruby>ておられるあなたの<ruby>父<rt>ちち</rt></ruby>は、<ruby>公<rt>おおやけ</rt></ruby>に<ruby>報<rt>むく</rt></ruby>いてくださるであろう。",
+      "zhs": "你们祷告时，要进你们的内屋，关上门，向你们在暗中的父祷告，你们的父在暗中察看，必公开酬赏你们。",
+      "zht": "<span class=\"verse-number\">6ã</span>ä½ åç¦±åæï¼è¦é²ä½ åçå§å±ï¼éä¸éï¼åä½ åå¨æä¸­çç¶ç¦±åï¼ä½ åçç¶å¨æä¸­å¯çï¼å¿å¬éé¬è³ä½ åã",
+      "spa": "Mas tú, cuando ores, entra en tu aposento, y cuando hayas cerrado la puerta, ora a tu Padre que está en secreto; y tu Padre, que ve en lo secreto, te recompensará en público.",
+      "por": "<span class=\"verse-number\">6 </span>Mas tu, quando orares, entra no teu aposento e, quando tiveres fechado a tua porta, ora a teu Pai que estÃ¡ em oculto; e teu Pai, que vÃª em oculto, recompensar-te-Ã¡ abertamente.",
+      "fra": "<span class=\"verse-number\">6Â </span>Mais quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton PÃ¨re qui est lÃ  dans le lieu secretÂ ; et ton PÃ¨re, qui voit dans le secret, te rÃ©compensera ouvertement.",
+      "deu": "<span class=\"verse-number\">6Â </span>Aber du, wenn du betest, so gehe in deine Kammer, und wenn du deine TÃ¼r geschlossen hast, so bete zu deinem Vater, der im Verborgenen ist; und dein Vater, der ins Verborgene sieht, wird es dir offen lohnen.",
+      "kor": "<span class=\"verse-number\">6 </span>ì¤ì§ ëë ê¸°ëí  ëì ë¤ ê³¨ë°©ì ë¤ì´ê° ë¬¸ì ë«ê³  ìë°í ì¤ì ê³ìë ë¤ ìë²ì§ê» ê¸°ëíë¼. ìë°í ì¤ì ë³´ìë ë¤ ìë²ì§ê»ì ëë¬ë´ì´ ë¤ê² ê°ì¼ìë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">6 </span>Ma tu, quando preghi, entra nella tua cameretta, e dopo aver chiuso la porta, prega il Padre tuo che Ã¨ nel segreto; e tuo Padre, che vede nel segreto, ti ricompenserÃ  apertamente."
+    },
+    "7": {
+      "eng": "But when ye pray, use not vain repetitions, as the heathen, for they think that they shall be heard for their much speaking.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙ°ÙÙÙÙ Ø¹ÙÙÙØ¯ÙÙØ§ ØªÙØµÙÙÙÙÙÙ ÙØ§ ØªÙØ³ÙØªÙØ®ÙØ¯ÙÙÙØ§ Ø§ÙØªÙÙÙÙØ±Ø§Ø±Ø§ØªÙ Ø§ÙÙØ¨Ø§Ø·ÙÙÙØ©Ù ÙÙÙØ§ ÙÙÙÙØ¹ÙÙÙ Ø§ÙÙÙÙØ«ÙÙÙÙÙÙÙÙ ÙÙØ¥ÙÙÙÙÙÙÙÙ ÙÙØ¹ÙØªÙÙÙØ¯ÙÙÙ Ø£ÙÙÙÙÙÙ Ø³ÙÙÙØ³ÙØªÙØ¬Ø§Ø¨Ù ÙÙÙÙÙÙ Ø¨ÙØ³ÙØ¨ÙØ¨Ù ÙÙØ«ÙØ±ÙØ©Ù ÙÙÙØ§ÙÙÙÙÙÙ.",
+      "jpn": "また、<ruby>祈<rt>いの</rt></ruby>るとき、<ruby>異<rt>い</rt></ruby><ruby>教<rt>きょう</rt></ruby><ruby>徒<rt>と</rt></ruby>のように<ruby>無<rt>む</rt></ruby><ruby>益<rt>えき</rt></ruby>に<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>すことはやめなさい。<ruby>彼<rt>かれ</rt></ruby>らは、<ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby><ruby>数<rt>かず</rt></ruby>が<ruby>多<rt>おお</rt></ruby>ければ<ruby>聞<rt>き</rt></ruby>き<ruby>入<rt>い</rt></ruby>れられると<ruby>思<rt>おも</rt></ruby>っている。",
+      "zhs": "你们祷告，不可像异教徒，无谓地重复许多话，他们以为话多了必蒙垂听。",
+      "zht": "<span class=\"verse-number\">7ã</span>ä½ åç¦±åï¼ä¸å¯åç°æå¾ï¼ç¡è¬å°éè¤è¨±å¤è©±ï¼ä»åä»¥çºè©±å¤äºå¿èåè½ã",
+      "spa": "Y al orar, no uséis vanas repeticiones, como los paganos; pues ellos creen que por su mucha parlería serán oídos.",
+      "por": "<span class=\"verse-number\">7 </span>VÃ³s, porÃ©m, quando orardes, nÃ£o useis de vÃ£s repetiÃ§Ãµes como os gentios, que pensam que por muito falarem serÃ£o ouvidos.",
+      "fra": "<span class=\"verse-number\">7Â </span>En priant, ne multipliez pas de vaines paroles, comme les paÃ¯ens, qui sâimaginent quâÃ  force de paroles ils seront exaucÃ©s.",
+      "deu": "<span class=\"verse-number\">7Â </span>Wenn ihr aber betet, so gebraucht keine unnÃ¼tzen Wiederholungen wie die Heiden, denn sie meinen, sie werden erhÃ¶rt, weil sie viele Worte machen.",
+      "kor": "<span class=\"verse-number\">7 </span>ê·¸ë¬ë ëí¬ë ê¸°ëí  ëì ì´ë°©ì¸ê³¼ ê°ì´ ì¤ì¸ë¶ì¸íì§ ë§ë¼. ê·¸ë¤ì ë§ì ë§ì´ íì¬ì¼ ë¤ì¼ì¤ ì¤ë¡ ìê°íëëë¼.",
+      "ita": "<span class=\"verse-number\">7 </span>Ma quando pregate, non usate vane ripetizioni, come fanno i pagani, poichÃ© credono di essere ascoltati per il loro gran parlare."
+    },
+    "8": {
+      "eng": "Be not ye therefore like unto them, for your Father knoweth what things ye have need of before ye ask him.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙØ§ ØªÙÙÙÙÙØ§ ÙÙØ«ÙÙÙÙÙÙÙØ ÙÙØ£ÙÙÙÙ Ø£ÙØ¨Ø§ÙÙÙÙ ÙÙØ¹ÙÙÙÙÙ ÙØ§ ØªÙØ­ÙØªØ§Ø¬ÙÙÙÙÙ ÙÙØ¨ÙÙÙ Ø£ÙÙÙ ØªÙØ³ÙØ£ÙÙÙÙÙ.",
+      "jpn": "だから、<ruby>彼<rt>かれ</rt></ruby>らのまねをしてはならない。あなたがたの<ruby>父<rt>ちち</rt></ruby>は、<ruby>求<rt>もと</rt></ruby>めない<ruby>先<rt>さき</rt></ruby>から、あなたがたに<ruby>必<rt>ひつ</rt></ruby><ruby>要<rt>よう</rt></ruby>なものを<ruby>御<rt>ご</rt></ruby><ruby>存<rt>ぞん</rt></ruby>じだからである。",
+      "zhs": "你们不可效法他们，因为你们没有祈求以前，你们所需用的，你们的父早已知道了。",
+      "zht": "<span class=\"verse-number\">8ã</span>ä½ åä¸å¯ææ³ä»åï¼å çºä½ åæ²æç¥æ±ä»¥åï¼ä½ åæéç¨çï¼ä½ åçç¶æ©å·²ç¥éäºã",
+      "spa": "No seáis, por tanto, como ellos; porque vuestro Padre sabe las cosas que necesitáis antes que le pidáis.",
+      "por": "<span class=\"verse-number\">8 </span>NÃ£o sejais, pois, semelhantes a eles, porque vosso Pai sabe o que vos Ã© necessÃ¡rio antes que vÃ³s lho peÃ§ais.",
+      "fra": "<span class=\"verse-number\">8Â </span>Ne leur ressemblez pasÂ ; car votre PÃ¨re sait de quoi vous avez besoin avant que vous le lui demandiez.",
+      "deu": "<span class=\"verse-number\">8Â </span>Seid ihr also nicht so wie sie, denn euer Vater weiÃ, was ihr bedÃ¼rft, bevor ihr ihn bittet.",
+      "kor": "<span class=\"verse-number\">8 </span>ê·¸ë¬ë¯ë¡ ëí¬ë ê·¸ë¤ì ë³¸ë°ì§ ë§ë¼. ì´ë ëí¬ê° êµ¬íê¸° ì ì ëí¬ìê² íìí ê²ì ëí¬ ìë²ì§ê»ì ìì¬ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">8 </span>Non siate dunque simili a loro, poichÃ© il vostro Padre sa di che cosa avete bisogno, prima che voi glielo domandiate."
+    },
+    "9": {
+      "eng": "After this manner therefore pray ye: Our Father who art in heaven, hallowed be thy name.",
+      "ara": "<span class=\"verse-number\">Ù© </span>ÙÙØ°Ø§ ØµÙÙÙÙØ§ ÙÙ°ÙÙØ°Ø§: Ø£ÙØ¨Ø§ÙØ§ Ø§ÙÙÙØ°Ù ÙÙ Ø§ÙØ³ÙÙÙØ§ÙØ§ØªÙØ ÙÙÙÙØªÙÙÙØ¯ÙÙØ³Ù Ø§Ø³ÙÙÙÙÙ.",
+      "jpn": "だから、あなたがたはこう<ruby>祈<rt>いの</rt></ruby>りなさい。『<ruby>天<rt>てん</rt></ruby>におられるわたしたちの<ruby>父<rt>ちち</rt></ruby>よ、<ruby>御<rt>み</rt></ruby><ruby>名<rt>な</rt></ruby>があがめられますように。",
+      "zhs": "所以你们要照这方式祷告：我们在天上的父，愿人都尊您的名为圣。",
+      "zht": "<span class=\"verse-number\">9ã</span>æä»¥ä½ åè¦ç§éæ¹å¼ç¦±åï¼æåå¨å¤©ä¸çç¶ï¼é¡äººé½å°æ¨çåçºèã",
+      "spa": "De esta manera, pues, orad: Padre nuestro que estás en los cielos, santificado sea tu nombre.",
+      "por": "<span class=\"verse-number\">9 </span>Portanto, assim orareis: Pai nosso que estÃ¡s nos cÃ©us, santificado seja o teu nome.",
+      "fra": "<span class=\"verse-number\">9Â </span>Voici donc comment vous devez prierÂ : Notre PÃ¨re qui es aux cieuxÂ ! Que ton nom soit sanctifiÃ©Â ;",
+      "deu": "<span class=\"verse-number\">9Â </span>Auf diese Weise sollt ihr darum beten: Unser Vater, der du bist im Himmel, geheiligt werde dein Name.",
+      "kor": "<span class=\"verse-number\">9 </span>ê·¸ë¬ë¯ë¡ ëí¬ë ì´ê°ì´ ê¸°ëíë¼. íëì ê³ì  ì°ë¦¬ ìë²ì§ìì¬, ì´ë¦ì´ ê±°ë£©í ì¬ê¹ì ë°ì¼ììµìì.",
+      "ita": "<span class=\"verse-number\">9 </span>Pregate dunque in questo modo: Padre nostro che sei in cielo, sia santificato il tuo nome."
+    },
+    "10": {
+      "eng": "Thy will be done on earth as it is in heaven.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØªÙÙÙÙÙ ÙÙØ´ÙØ¦ÙØªÙÙÙ Ø¹ÙÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù ÙÙÙØ§ ÙÙ Ø§ÙØ³ÙÙÙØ§Ø¡Ù.",
+      "jpn": "<ruby>御<rt>み</rt></ruby><ruby>心<rt>こころ</rt></ruby>が<ruby>天<rt>てん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>われるように、<ruby>地<rt>ち</rt></ruby>でも<ruby>行<rt>おこな</rt></ruby>われますように。",
+      "zhs": "愿您的旨意行在地上，如同行在天上。",
+      "zht": "<span class=\"verse-number\">10ã</span>é¡æ¨çæ¨æè¡å¨å°ä¸ï¼å¦åè¡å¨å¤©ä¸ã",
+      "spa": "Sea hecha tu voluntad en la tierra así como en el cielo.",
+      "por": "<span class=\"verse-number\">10 </span>Seja feita a tua vontade assim na Terra como no cÃ©u.",
+      "fra": "<span class=\"verse-number\">10Â </span>que ta volontÃ© soit faite sur la terre comme au ciel.",
+      "deu": "<span class=\"verse-number\">10Â </span>Dein Wille geschehe auf Erden wie im Himmel.",
+      "kor": "<span class=\"verse-number\">10 </span>ë»ì´ íëìì ì´ë£¨ì´ì§ ê²ê°ì´ ëììë ì´ë£¨ì´ì§ì´ë¤.",
+      "ita": "<span class=\"verse-number\">10 </span>Sia fatta la tua volontÃ  in terra, come Ã¨ fatta in cielo."
+    },
+    "11": {
+      "eng": "And forgive us our debts, as we forgive our debtors.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙØ§ØºÙÙÙØ±Ù ÙÙÙØ§ Ø°ÙÙÙØ¨ÙÙØ§ ÙÙÙØ§ ÙÙØºÙÙÙØ±Ù ÙÙÙÙÙÙØ°ÙÙÙØ¨ÙÙÙ Ø¥ÙÙÙÙÙÙØ§.",
+      "jpn": "わたしたちが<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>に<ruby>負<rt>ふ</rt></ruby><ruby>債<rt>さい</rt></ruby>のある<ruby>者<rt>もの</rt></ruby>を<ruby>赦<rt>ゆる</rt></ruby>していますように、わたしたちの<ruby>負<rt>ふ</rt></ruby><ruby>債<rt>さい</rt></ruby>をお<ruby>赦<rt>ゆる</rt></ruby>しください。",
+      "zhs": "免我们的债，如同我们免了人的债。",
+      "zht": "<span class=\"verse-number\">11ã</span>åæåçåµï¼å¦åæååäºäººçåµã",
+      "spa": "Y perdónanos nuestras deudas, como nosotros perdonamos a nuestros deudores.",
+      "por": "<span class=\"verse-number\">11 </span>E perdoa-nos as nossas dÃ­vidas, assim como nÃ³s perdoamos aos nossos devedores.",
+      "fra": "<span class=\"verse-number\">11Â </span>Et pardonne-nous nos offenses, comme nous aussi nous pardonnons Ã  ceux qui nous ont offensÃ©s.",
+      "deu": "<span class=\"verse-number\">11Â </span>Und vergib uns unsere Schuld, wie wir unseren Schuldigern vergeben.",
+      "kor": "<span class=\"verse-number\">11 </span>ë ì°ë¦¬ê° ì°ë¦¬ìê² ì£ì§ì ìë¥¼ ì¬íì¬ ì¤ ê²ê°ì´ ì°ë¦¬ì ì£ë¥¼ ì¬íì¬ ì£¼ììµìì.",
+      "ita": "<span class=\"verse-number\">11 </span>E perdonaci i nostri debiti, come noi perdoniamo i nostri debitori."
+    },
+    "12": {
+      "eng": "And lead us not into temptation, but deliver us from evil.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙÙØ§ ØªÙØ¯ÙØ®ÙÙÙÙØ§ ÙÙ Ø§ÙØªÙÙØ¬ÙØ±ÙØ¨ÙØ©Ù Ø¨ÙÙÙ ÙÙØ¬ÙÙÙØ§ ÙÙÙÙ Ø§ÙØ´ÙÙØ±ÙÙ.",
+      "jpn": "わたしたちを<ruby>誘<rt>ゆう</rt></ruby><ruby>惑<rt>わく</rt></ruby>に<ruby>陥<rt>おちい</rt></ruby>らせることのないようにし、<ruby>悪<rt>あく</rt></ruby>からお<ruby>救<rt>すく</rt></ruby>いください。",
+      "zhs": "不叫我们遇见试探，救我们脱离邪恶。",
+      "zht": "<span class=\"verse-number\">12ã</span>ä¸å«æåéè¦è©¦æ¢ï¼ææåè«é¢éªæ¡ã",
+      "spa": "Y no nos dejes caer en tentación, mas líbranos del mal.",
+      "por": "<span class=\"verse-number\">12 </span>E nÃ£o nos induzas Ã  tentaÃ§Ã£o, mas livra-nos do mal.",
+      "fra": "<span class=\"verse-number\">12Â </span>Et ne nous induis pas en tentation, mais dÃ©livre-nous du Malin.",
+      "deu": "<span class=\"verse-number\">12Â </span>Und fÃ¼hre uns nicht in Versuchung, sondern befreie uns vom BÃ¶sen.",
+      "kor": "<span class=\"verse-number\">12 </span>ë ì°ë¦¬ë¥¼ ìíì ë¤ê² íì§ ë§ììµê³  ë¤ë§ ììì êµ¬íììµìì.",
+      "ita": "<span class=\"verse-number\">12 </span>E non indurci in tentazione, ma liberaci dal male."
+    },
+    "13": {
+      "eng": "For thine is the kingdom, and the power, and the glory, forever. Amen.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØ£ÙÙÙÙ ÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙÙØ§ÙÙÙÙÙÙÙØ©Ù ÙÙØ§ÙÙÙÙØ¬ÙØ¯Ù Ø¥ÙÙÙ Ø§ÙÙØ£ÙØ¨ÙØ¯Ù. Ø¢ÙÙÙÙ.",
+      "jpn": "<ruby>王<rt>おう</rt></ruby><ruby>国<rt>こく</rt></ruby>と<ruby>力<rt>ちから</rt></ruby>と<ruby>栄<rt>えい</rt></ruby><ruby>光<rt>こう</rt></ruby>はとこしえにあなたのものです。アーメン。』",
+      "zhs": "因为国度、权力、荣耀，全是您的，直到永远。阿们。",
+      "zht": "<span class=\"verse-number\">13ã</span>å çºååº¦ãæ¬åãæ¦®èï¼å¨æ¯æ¨çï¼ç´å°æ°¸é ãé¿åã",
+      "spa": "Porque tuyo es el reino, y el poder, y la gloria, para siempre. Amén.",
+      "por": "<span class=\"verse-number\">13 </span>Pois teu Ã© o reino e o poder e a glÃ³ria, para sempre. AmÃ©m.",
+      "fra": "<span class=\"verse-number\">13Â </span>Car câest Ã  toi quâappartiennent, dans tous les siÃ¨cles, le rÃ¨gne, la puissance et la gloire. Amen.",
+      "deu": "<span class=\"verse-number\">13Â </span>Denn dein ist das Reich und die Macht und die Herrlichkeit immerdar. Amen.",
+      "kor": "<span class=\"verse-number\">13 </span>ëë¼ì ê¶ë¥ê³¼ ìê´ì´ ìë²ì§ê» ììí ìì¬ìµëì´ë¤. ìë©.",
+      "ita": "<span class=\"verse-number\">13 </span>PoichÃ© tuo Ã¨ il regno, e il potere, e la gloria, per sempre. Amen."
+    },
+    "14": {
+      "eng": "For, if ye forgive men their trespasses your heavenly Father will also forgive you;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>ÙÙØ£ÙÙÙÙÙÙ Ø¥ÙØ°Ø§ ØºÙÙÙØ±ÙØªÙÙÙ ÙÙÙÙÙØ§Ø³Ù Ø²ÙÙÙØ§ØªÙÙÙÙÙ ÙÙØ¥ÙÙÙÙ Ø£ÙØ¨Ø§ÙÙÙÙ Ø§ÙØ³ÙÙÙØ§ÙÙÙÙÙ Ø³ÙÙÙØºÙÙÙØ±Ù ÙÙÙÙÙÙ Ø£ÙÙÙØ¶ÙØ§Ø",
+      "jpn": "もしあなたがたが<ruby>人<rt>ひと</rt></ruby>の<ruby>過<rt>あやま</rt></ruby>ちを<ruby>赦<rt>ゆる</rt></ruby>すならば、あなたがたの<ruby>天<rt>てん</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>もあなたがたを<ruby>赦<rt>ゆる</rt></ruby>してくださるであろう。",
+      "zhs": "你们饶恕人的过犯，你们的天父也必饶恕你们。",
+      "zht": "<span class=\"verse-number\">14ã</span>ä½ åé¥æäººçéç¯ï¼ä½ åçå¤©ç¶ä¹å¿é¥æä½ åã",
+      "spa": "Porque si perdonáis a los hombres sus ofensas, os perdonará también a vosotros vuestro Padre Celestial;",
+      "por": "<span class=\"verse-number\">14 </span>Pois se aos homens perdoardes as suas ofensas, vosso Pai Celestial tambÃ©m vos perdoarÃ¡.",
+      "fra": "<span class=\"verse-number\">14Â </span>Car, si vous pardonnez aux hommes leurs offenses, votre PÃ¨re cÃ©leste vous pardonnera aussiÂ ;",
+      "deu": "<span class=\"verse-number\">14Â </span>Denn wenn ihr den Menschen ihre Verfehlungen vergebt, so wird euch euer himmlischer Vater auch vergeben;",
+      "kor": "<span class=\"verse-number\">14 </span>ì´ë ëí¬ê° ì¬ëì ê³¼ì¤ì ì©ìíë©´ ëí¬ì íë ìë²ì§ê»ìë ëí¬ì ê³¼ì¤ì ì©ìíìë ¤ëì,",
+      "ita": "<span class=\"verse-number\">14 </span>PoichÃ©, se voi perdonate agli uomini le loro offese, anche il vostro Padre celeste perdonerÃ  voi;"
+    },
+    "15": {
+      "eng": "But if ye forgive not men their trespasses neither will your Father forgive your trespasses.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙ°ÙÙÙÙ Ø¥ÙØ°Ø§ ÙÙÙÙ ØªÙØºÙÙÙØ±ÙØ§ ÙÙÙÙÙØ§Ø³Ù Ø²ÙÙÙØ§ØªÙÙÙÙÙ ÙÙÙÙÙÙ ÙÙØºÙÙÙØ±Ù ÙÙÙÙÙÙ Ø£ÙØ¨ÙÙÙÙÙ Ø§ÙØ³ÙÙÙØ§ÙÙÙÙÙ Ø²ÙÙÙØ§ØªÙÙÙÙÙ.",
+      "jpn": "もし<ruby>人<rt>ひと</rt></ruby>を<ruby>赦<rt>ゆる</rt></ruby>さないならば、あなたがたの<ruby>父<rt>ちち</rt></ruby>も、あなたがたの<ruby>過<rt>あやま</rt></ruby>ちを<ruby>赦<rt>ゆる</rt></ruby>してくださらないであろう。",
+      "zhs": "你们不饶恕人的过犯，你们的父也必不饶恕你们的过犯。",
+      "zht": "<span class=\"verse-number\">15ã</span>ä½ åä¸é¥æäººçéç¯ï¼ä½ åçç¶ä¹å¿ä¸é¥æä½ åçéç¯ã",
+      "spa": "mas si no perdonáis a los hombres sus ofensas, vuestro Padre tampoco perdonará vuestras ofensas.",
+      "por": "<span class=\"verse-number\">15 </span>Mas se aos homens nÃ£o perdoardes as suas ofensas, tampouco vosso Pai vos perdoarÃ¡ as vossas ofensas.",
+      "fra": "<span class=\"verse-number\">15Â </span>mais si vous ne pardonnez pas aux hommes, votre PÃ¨re ne vous pardonnera pas non plus vos offenses.",
+      "deu": "<span class=\"verse-number\">15Â </span>wenn ihr aber den Menschen ihre Verfehlungen nicht vergebt, wird euer Vater eure Verfehlungen auch nicht vergeben.",
+      "kor": "<span class=\"verse-number\">15 </span>ëí¬ê° ì¬ëì ê³¼ì¤ì ì©ìíì§ ìëíë©´ ëí¬ ìë²ì§ê»ìë ëí¬ì ê³¼ì¤ì ì©ìíì§ ìëíì¤ ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">15 </span>Ma se voi non perdonate agli uomini le loro offese, neppure il Padre vostro perdonerÃ  le vostre offese."
+    },
+    "16": {
+      "eng": "Moreover, when ye fast be not as the hypocrites, of a sad countenance, for they disfigure their faces that they may appear unto men to fast. Verily I say unto you, they have their reward.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>ÙÙØ£ÙÙÙØ¶ÙØ§ Ø¹ÙÙÙØ¯ÙÙØ§ ØªÙØµÙÙÙÙÙ ÙØ§ ØªÙÙÙÙÙØ§ ÙÙØ§ÙÙÙÙÙØ§ÙÙÙÙÙÙ Ø§ÙÙØ¹Ø§Ø¨Ø³ÙÙÙØ ÙÙØ£ÙÙÙÙÙÙÙÙ ÙÙØ¬ÙØ¹ÙÙÙÙÙ ÙÙØ¬ÙÙÙÙÙÙÙ Ø¹Ø§Ø¨ÙØ³ÙØ©Ù ÙÙÙÙ ÙÙØ¸ÙÙÙØ±ÙØ§ ØµØ§Ø¦ÙÙÙÙ Ø£ÙÙØ§ÙÙ Ø§ÙÙÙØ§Ø³Ù. Ø§ÙÙÙØ­ÙÙÙÙ Ø£ÙÙÙÙÙ ÙÙÙÙÙÙØ ÙÙÙÙØ¯Ù Ø£ÙØ®ÙØ°ÙØ§ Ø£ÙØ¬ÙØ±ÙÙÙÙÙ.",
+      "jpn": "さらにあなたがたは、<ruby>断<rt>だん</rt></ruby><ruby>食<rt>じき</rt></ruby>をするときには、<ruby>偽<rt>ぎ</rt></ruby><ruby>善<rt>ぜん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のように<ruby>悲<rt>かな</rt></ruby>しげな<ruby>顔<rt>かお</rt></ruby>つきをしてはならない。<ruby>彼<rt>かれ</rt></ruby>らは<ruby>断<rt>だん</rt></ruby><ruby>食<rt>じき</rt></ruby>をしていることを<ruby>人<rt>ひと</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせようとして、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>を<ruby>見<rt>み</rt></ruby><ruby>苦<rt>ぐる</rt></ruby>しくする。まことに、あなたがたに<ruby>言<rt>い</rt></ruby>う。<ruby>彼<rt>かれ</rt></ruby>らはその<ruby>報<rt>むく</rt></ruby>いを<ruby>受<rt>う</rt></ruby>けてしまっている。",
+      "zhs": "此外，你们禁食的时候，不可像那假冒为善的人，脸上带着愁容，因为他们把脸弄得难看，故意叫人看出他们在禁食。我实在告诉你们，他们已经得到了他们的赏赐。",
+      "zht": "<span class=\"verse-number\">16ã</span>æ­¤å¤ï¼ä½ åç¦é£çæåï¼ä¸å¯åé£ååçºåçäººï¼èä¸å¸¶èæå®¹ï¼å çºä»åæèå¼å¾é£çï¼ææå«äººçåºä»åå¨ç¦é£ãæå¯¦å¨åè¨´ä½ åï¼ä»åå·²ç¶å¾å°äºä»åçè³è³ã",
+      "spa": "Además, cuando ayunéis, no seáis como los hipócritas, de semblante triste, porque desfiguran sus rostros para mostrar a los hombres que ayunan. En verdad os digo que ya tienen su galardón.",
+      "por": "<span class=\"verse-number\">16 </span>Ademais, quando jejuardes, nÃ£o sejais como os hipÃ³critas, porque eles desfiguram o rosto para que aos homens pareÃ§a que jejuam. Em verdade vos digo que jÃ¡ receberam o seu galardÃ£o.",
+      "fra": "<span class=\"verse-number\">16Â </span>De plus, lorsque vous jeÃ»nez, ne prenez pas un air triste, comme les hypocrites, qui se rendent le visage tout dÃ©fait, pour montrer aux hommes quâils jeÃ»nent. En vÃ©ritÃ©, je vous le dis, ils reÃ§oivent leur rÃ©compense.",
+      "deu": "<span class=\"verse-number\">16Â </span>Und weiter, wenn ihr fastet, sollt ihr nicht sein wie die Heuchler mit traurigem Gesichtsausdruck, denn sie verstellen ihr Gesicht, um den Menschen ihr Fasten zu zeigen. Wahrlich, ich sage euch: Sie haben ihren Lohn.",
+      "kor": "<span class=\"verse-number\">16 </span>ëì±ì´ ëí¬ê° ê¸ìí  ëìë ì¸ìíë ìë¤ê³¼ ê°ì´ ì¬í ê¸°ìì ë´ì§ ë§ë¼. ì´ë ê·¸ë¤ì´ ê¸ìíë ê²ì ì¬ëìê² ë³´ì´ë ¤ê³  ì¼êµ´ì ííê² í¨ì´ëë¼. ì§ì¤ë¡ ë´ê° ëí¬ìê² ì´ë¥´ë¸ë ê·¸ë¤ì ìê¸° ìì ì´ë¯¸ ë°ìëëë¼.",
+      "ita": "<span class=\"verse-number\">16 </span>Inoltre quando digiunate non siate come gli ipocriti, tristi di volto, poichÃ© essi sfigurano la faccia, per poter mostrare agli uomini che digiunano. In veritÃ  vi dico, essi hanno la loro ricompensa."
+    },
+    "17": {
+      "eng": "But thou, when thou fastest, anoint thy head, and wash thy face;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>Ø£ÙÙÙØ§ Ø£ÙÙÙØªÙÙÙØ ÙÙØ¹ÙÙÙØ¯ÙÙØ§ ØªÙØµÙÙÙÙÙ Ø§ÙÙØ³ÙØ­ÙØ§ Ø±ÙØ¤ÙØ³ÙÙÙÙÙ ÙÙØ§ØºÙØ³ÙÙÙØ§ ÙÙØ¬ÙÙÙÙÙÙÙØ",
+      "jpn": "あなたがたは<ruby>断<rt>だん</rt></ruby><ruby>食<rt>じき</rt></ruby>をするときには、<ruby>頭<rt>あたま</rt></ruby>に<ruby>油<rt>あぶら</rt></ruby>を<ruby>塗<rt>ぬ</rt></ruby>り、<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>いなさい。",
+      "zhs": "你们禁食的时候，要膏你们的头，洗你们的脸；",
+      "zht": "<span class=\"verse-number\">17ã</span>ä½ åç¦é£çæåï¼è¦èä½ åçé ­ï¼æ´ä½ åçèï¼",
+      "spa": "Mas tú, cuando ayunes, unge tu cabeza y lava tu rostro;",
+      "por": "<span class=\"verse-number\">17 </span>Tu, porÃ©m, quando jejuares, unge a cabeÃ§a e lava o rosto.",
+      "fra": "<span class=\"verse-number\">17Â </span>Mais quand tu jeÃ»nes, parfume ta tÃªte et lave ton visage,",
+      "deu": "<span class=\"verse-number\">17Â </span>Aber du, wenn du fastest, salbe dein Haupt und wasche dein Gesicht,",
+      "kor": "<span class=\"verse-number\">17 </span>ì¤ì§ ëë ê¸ìí  ëì ë¤ ë¨¸ë¦¬ì ê¸°ë¦ì ë°ë¥´ê³ , ë¤ ì¼êµ´ì ì»ì¼ë¼.",
+      "ita": "<span class=\"verse-number\">17 </span>Ma tu, quando digiuni, ungiti il capo e lavati la faccia;"
+    },
+    "18": {
+      "eng": "That thou appear not unto men to fast, but unto thy Father, who is in secret; and thy Father, who seeth in secret, shall reward thee openly.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙÙÙ ÙØ§ ØªÙØ¸ÙÙÙØ±ÙØ§ ÙÙÙÙÙØ§Ø³Ù ØµØ§Ø¦ÙÙÙÙÙ Ø¨ÙÙÙ ÙÙØ£ÙØ¨ÙÙÙÙÙ Ø§ÙÙÙØ°Ù ÙÙ Ø§ÙÙØ®ÙÙØ§Ø¡ÙØ ÙÙØ£ÙØ¨ÙÙÙÙÙ Ø§ÙÙÙØ°Ù ÙÙØ±Ù ÙÙ Ø§ÙÙØ®ÙÙØ§Ø¡Ù Ø³ÙÙÙÙØ§ÙÙØ¦ÙÙÙÙÙ Ø¹ÙÙØ§ÙÙÙÙÙØ©Ù.",
+      "jpn": "それは、<ruby>断<rt>だん</rt></ruby><ruby>食<rt>じき</rt></ruby>をしていることを<ruby>人<rt>ひと</rt></ruby>に<ruby>知<rt>し</rt></ruby>られないで、<ruby>隠<rt>かく</rt></ruby>れた<ruby>所<rt>ところ</rt></ruby>におられるあなたの<ruby>父<rt>ちち</rt></ruby>に<ruby>知<rt>し</rt></ruby>っていただくためである。そうすれば、ひそかに<ruby>見<rt>み</rt></ruby>ておられるあなたの<ruby>父<rt>ちち</rt></ruby>は、<ruby>公<rt>おおやけ</rt></ruby>に<ruby>報<rt>むく</rt></ruby>いてくださるであろう。",
+      "zhs": "不叫人看出你们禁食来，只叫你在暗中的父看见；你们的父在暗中察看，必公开酬赏你们。",
+      "zht": "<span class=\"verse-number\">18ã</span>ä¸å«äººçåºä½ åç¦é£ä¾ï¼åªå«ä½ å¨æä¸­çç¶çè¦ï¼ä½ åçç¶å¨æä¸­å¯çï¼å¿å¬éé¬è³ä½ åã",
+      "spa": "para que no muestres a los hombres que ayunas, sino a tu Padre, que está en secreto; y tu Padre, que ve en lo secreto, te recompensará en público.",
+      "por": "<span class=\"verse-number\">18 </span>A fim de que nÃ£o pareÃ§a aos homens que jejuas, mas a teu Pai, que estÃ¡ em oculto; e teu Pai, que vÃª em oculto, recompensar-te-Ã¡ abertamente.",
+      "fra": "<span class=\"verse-number\">18Â </span>afin de ne pas montrer aux hommes que tu jeÃ»nes, mais Ã  ton PÃ¨re qui est lÃ  dans le lieu secretÂ ; et ton PÃ¨re, qui voit dans le secret, te rÃ©compensera ouvertement.",
+      "deu": "<span class=\"verse-number\">18Â </span>damit du nicht vor den Menschen dein Fasten zeigst, sondern vor deinem Vater, der im Verborgenen ist; und dein Vater, der ins Verborgene sieht, wird es dir offen lohnen.",
+      "kor": "<span class=\"verse-number\">18 </span>ì´ë ë¤ê° ê¸ìíë ê²ì ì¬ëìê² ë³´ì´ì§ ìê³  ìë°í ì¤ì ê³ìë ë¤ ìë²ì§ê» ë³´ì´ê² íë ¤ í¨ì´ë¼. ìë°í ì¤ì ë³´ìë ë¤ ìë²ì§ê»ì ëë¬ë´ì´ ë¤ê² ê°ì¼ìë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">18 </span>Per non poter mostrare agli uomini che digiuni, ma al Padre tuo che Ã¨ nel segreto; e il Padre tuo, che vede nel segreto, ti ricompenserÃ  apertamente."
+    },
+    "19": {
+      "eng": "Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and thieves break through and steal;",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙØ§ ØªÙÙÙÙÙØ²ÙØ§ ÙÙØ£ÙÙÙÙÙØ³ÙÙÙÙÙ ÙÙÙÙØ²ÙØ§ ÙÙ Ø§ÙÙØ£ÙØ±ÙØ¶Ù Ø­ÙÙÙØ«Ù ÙÙÙÙØ³ÙØ¯ÙÙØ§ Ø§ÙÙØ¹ÙØ«ÙÙ ÙÙØ§ÙØµÙÙØ¯ÙØ£Ù ÙÙØ­ÙÙÙØ«Ù ÙÙÙÙØªÙØ­ÙÙÙ Ø§ÙÙÙÙØµÙØµÙ Ø¨ÙÙÙØªÙÙÙÙÙ ÙÙÙÙØ³ÙØ±ÙÙÙÙÙÙØ§Ø",
+      "jpn": "あなたがたは<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>のために、<ruby>虫<rt>むし</rt></ruby>が<ruby>食<rt>く</rt></ruby>い、さびがつき、また、<ruby>盗<rt>ぬす</rt></ruby><ruby>人<rt>びと</rt></ruby>らが<ruby>押<rt>お</rt></ruby>し<ruby>入<rt>い</rt></ruby>って<ruby>盗<rt>ぬす</rt></ruby>み<ruby>出<rt>だ</rt></ruby>すような<ruby>地<rt>ち</rt></ruby><ruby>上<rt>じょう</rt></ruby>に、<ruby>宝<rt>たから</rt></ruby>を<ruby>蓄<rt>たくわ</rt></ruby>えてはならない。",
+      "zhs": "不要为自己积存财宝在地上，地上有虫子咬，会锈坏，也有贼挖窟窿来偷；",
+      "zht": "<span class=\"verse-number\">19ã</span>ä¸è¦çºèªå·±ç©å­è²¡å¯¶å¨å°ä¸ï¼å°ä¸æè²å­å¬ï¼æé¹å£ï¼ä¹æè³æçªçª¿ä¾å·ï¼",
+      "spa": "No os acumuléis tesoros sobre la tierra, donde la polilla y el moho corrompen, y los ladrones minan y roban;",
+      "por": "<span class=\"verse-number\">19 </span>NÃ£o entesoureis para vÃ³s tesouros na Terra, onde a traÃ§a e a ferrugem consomem e onde os ladrÃµes minam e roubam.",
+      "fra": "<span class=\"verse-number\">19Â </span>Ne vous amassez pas des trÃ©sors sur la terre, oÃ¹ la teigne et la rouille dÃ©truisent, et oÃ¹ les voleurs percent et dÃ©robentÂ ;",
+      "deu": "<span class=\"verse-number\">19Â </span>Sammelt euch nicht SchÃ¤tze auf Erden, wo Motten und Rost sie zerfressen und Diebe einbrechen und stehlen;",
+      "kor": "<span class=\"verse-number\">19 </span>ëí¬ë¥¼ ìíì¬ ë³´ë¬¼ì ëì ìì ëì§ ë§ë¼. ê±°ê¸°ë ì¢ê³¼ ëë¡ì´ í´íë©°, ëì ì´ ë«ê³  ë¤ì´ì ëì ì§íëëë¼.",
+      "ita": "<span class=\"verse-number\">19 </span>Non ammassatevi tesori sulla terra, dove i vermi e la ruggine guastano, e i ladri penetrano e rubano;"
+    },
+    "20": {
+      "eng": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙ°ÙÙÙÙ Ø§ÙÙÙÙØ²ÙØ§ ÙÙØ£ÙÙÙÙÙØ³ÙÙÙÙÙ ÙÙÙÙØ²ÙØ§ ÙÙ Ø§ÙØ³ÙÙÙØ§Ø¡Ù Ø­ÙÙÙØ«Ù ÙØ§ ÙÙÙÙØ³ÙØ¯ÙÙØ§ Ø§ÙÙØ¹ÙØ«ÙÙ ÙÙØ§ÙØµÙÙØ¯ÙØ£Ù ÙÙØ­ÙÙÙØ«Ù ÙØ§ ÙÙÙÙØªÙØ­ÙÙÙ Ø§ÙÙÙÙØµÙØµÙ Ø¨ÙÙÙØªÙÙÙÙÙ ÙÙÙÙØ³ÙØ±ÙÙÙÙÙÙØ§.",
+      "jpn": "むしろ<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>のため、<ruby>虫<rt>むし</rt></ruby>も<ruby>食<rt>く</rt></ruby>わず、さびもつかず、また、<ruby>盗<rt>ぬす</rt></ruby><ruby>人<rt>びと</rt></ruby>らが<ruby>押<rt>お</rt></ruby>し<ruby>入<rt>い</rt></ruby>って<ruby>盗<rt>ぬす</rt></ruby>み<ruby>出<rt>だ</rt></ruby>すこともない<ruby>天<rt>てん</rt></ruby>に、<ruby>宝<rt>たから</rt></ruby>を<ruby>蓄<rt>たくわ</rt></ruby>えなさい。",
+      "zhs": "只要为自己积存财宝在天上，天上没有虫子咬，不会锈坏，也没有贼挖窟窿来偷。",
+      "zht": "<span class=\"verse-number\">20ã</span>åªè¦çºèªå·±ç©å­è²¡å¯¶å¨å¤©ä¸ï¼å¤©ä¸æ²æè²å­å¬ï¼ä¸æé¹å£ï¼ä¹æ²æè³æçªçª¿ä¾å·ã",
+      "spa": "sino acumulaos tesoros en los cielos, donde ni la polilla ni el moho corrompen, y donde los ladrones no minan ni roban.",
+      "por": "<span class=\"verse-number\">20 </span>Mas ajuntai tesouros nos cÃ©us, onde nem a traÃ§a nem a ferrugem consomem e onde os ladrÃµes nÃ£o minam nem roubam.",
+      "fra": "<span class=\"verse-number\">20Â </span>mais amassez-vous des trÃ©sors dans le ciel, oÃ¹ la teigne et la rouille ne dÃ©truisent point, et oÃ¹ les voleurs ne percent ni ne dÃ©robent.",
+      "deu": "<span class=\"verse-number\">20Â </span>sondern sammelt euch SchÃ¤tze im Himmel, wo weder Motten noch Rost sie zerfressen und wo Diebe nicht einbrechen noch stehlen.",
+      "kor": "<span class=\"verse-number\">20 </span>ì¤ì§ ëí¬ë¥¼ ìíì¬ ë³´ë¬¼ì íëì ìì ëë¼. ê±°ê¸°ë ì¢ê³¼ ëë¡ì´ í´íì§ ëª»íë©°, ëì ì´ ë«ê³  ë¤ì´ì¤ì§ë ëª»íê³  ëì ì§íì§ë ëª»íëëë¼.",
+      "ita": "<span class=\"verse-number\">20 </span>Ma ammassatevi tesori in cielo, dove nÃ© vermi nÃ© ruggine guastano e dove i ladri non penetrano nÃ© rubano."
+    },
+    "21": {
+      "eng": "For where your treasure is, there will your heart be also.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØ­ÙÙÙØ«Ù ÙÙÙÙÙÙ ÙÙÙÙØ²ÙÙÙÙÙ Ø³ÙÙÙÙÙÙÙ ÙÙÙÙØ¨ÙÙÙÙÙ Ø£ÙÙÙØ¶ÙØ§.",
+      "jpn": "あなたの<ruby>宝<rt>たから</rt></ruby>のある<ruby>所<rt>ところ</rt></ruby>には、<ruby>心<rt>こころ</rt></ruby>もあるからである。",
+      "zhs": "因为你们的财宝在哪里，你们的心也在哪里。",
+      "zht": "<span class=\"verse-number\">21ã</span>å çºä½ åçè²¡å¯¶å¨åªè£¡ï¼ä½ åçå¿ä¹å¨åªè£¡ã",
+      "spa": "Porque donde esté vuestro tesoro, allí estará también vuestro corazón.",
+      "por": "<span class=\"verse-number\">21 </span>Pois onde estiver o vosso tesouro, ali estarÃ¡ tambÃ©m o vosso coraÃ§Ã£o.",
+      "fra": "<span class=\"verse-number\">21Â </span>Car lÃ  oÃ¹ est ton trÃ©sor, lÃ  aussi sera ton cÅur.",
+      "deu": "<span class=\"verse-number\">21Â </span>Denn wo euer Schatz ist, da wird auch euer Herz sein.",
+      "kor": "<span class=\"verse-number\">21 </span>ì´ë ë¤ ë³´ë¬¼ì´ ìë ê·¸ ê³³ìë, ë¤ ë§ìë ìì ê²ìì´ëë¼.",
+      "ita": "<span class=\"verse-number\">21 </span>PoichÃ© dove Ã¨ il tuo tesoro, lÃ  sarÃ  pure il tuo cuore."
+    },
+    "22": {
+      "eng": "The light of the body is the eye; if, therefore, thine eye be single, thy whole body shall be full of light.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙØ±Ù Ø§ÙÙØ¬ÙØ³ÙØ¯Ù ÙÙÙÙ Ø§ÙÙØ¹ÙÙÙÙÙØ ÙÙØ°Ù°ÙÙÙÙ Ø¥ÙÙÙ ÙØ§ÙÙØªÙ Ø¹ÙÙÙÙÙÙÙÙÙ ØªÙÙÙÙÙÙØ©ÙØ ÙÙØ¥ÙÙÙÙ Ø¬ÙØ³ÙØ¯ÙÙÙÙÙ ÙÙÙÙÙÙÙ Ø³ÙÙÙÙÙÙÙ ÙÙÙÙØ¦ÙØ§ Ø¨ÙØ§ÙÙÙÙØ±Ù.",
+      "jpn": "<ruby>体<rt>からだ</rt></ruby>の<ruby>明<rt>あ</rt></ruby>かりは<ruby>目<rt>め</rt></ruby>である。だから、あなたの<ruby>目<rt>め</rt></ruby>が<ruby>正<rt>ただ</rt></ruby>しく<ruby>見<rt>み</rt></ruby>ていれば、あなたの<ruby>全<rt>ぜん</rt></ruby><ruby>身<rt>しん</rt></ruby>に<ruby>光<rt>ひかり</rt></ruby>が<ruby>満<rt>み</rt></ruby>ちるであろう。",
+      "zhs": "眼睛是身上的灯；因此，你们的眼睛若专一，全身就充满光明。",
+      "zht": "<span class=\"verse-number\">22ã</span>ç¼çæ¯èº«ä¸ççï¼å æ­¤ï¼ä½ åçç¼çè¥å°ä¸ï¼å¨èº«å°±åæ»¿åæã",
+      "spa": "La luz del cuerpo es el ojo; por tanto, si tu ojo es puro, todo tu cuerpo estará lleno de luz.",
+      "por": "<span class=\"verse-number\">22 </span>A luz do corpo sÃ£o os olhos; se, pois, teus olhos forem bons, todo o teu corpo serÃ¡ cheio de luz;",
+      "fra": "<span class=\"verse-number\">22Â </span>LâÅil est la lampe du corps. Si ton Åil est en bon Ã©tat, tout ton corps sera Ã©clairÃ©.",
+      "deu": "<span class=\"verse-number\">22Â </span>Das Licht des Leibes ist das Auge; wenn also dein Auge lauter ist, so wird dein ganzer Leib voll Licht sein.",
+      "kor": "<span class=\"verse-number\">22 </span>ëì ëª¸ì ë¹ì´ë, ê·¸ë¬ë¯ë¡ ë§ì¼ ë¤ ëì´ ìì íë©´, ë¤ ì¨ ëª¸ì ë¹ì´ ê°ëíë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">22 </span>La luce del corpo Ã¨ lâocchio; se dunque il tuo occhio Ã¨ sano, il tuo corpo intero sarÃ  pieno di luce."
+    },
+    "23": {
+      "eng": "But if thine eye be evil, thy whole body shall be full of darkness. If, therefore, the light that is in thee be darkness, how great is that darkness!",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙ°ÙÙÙÙ Ø¥ÙÙÙ ÙØ§ÙÙØªÙ Ø¹ÙÙÙÙÙÙÙÙÙ Ø´ÙØ±ÙÙØ±ÙØ©ÙØ ÙÙÙÙÙÙ Ø¬ÙØ³ÙØ¯ÙÙÙÙÙ ÙÙÙÙÙÙÙ ÙÙÙÙØ¦ÙØ§ Ø¨ÙØ§ÙØ¸ÙÙÙÙÙÙØ©Ù. ÙÙØ°Ù°ÙÙÙÙ Ø¥ÙÙÙ ÙØ§ÙÙ Ø§ÙÙÙÙØ±Ù Ø§ÙÙÙØ°Ù ÙÙÙÙÙÙ Ø¸ÙÙÙÙÙØ©Ù ÙÙÙØ§ Ø£ÙØ¹ÙØ¸ÙÙÙ ÙÙ°Ø°ÙÙÙ Ø§ÙØ¸ÙÙÙÙÙÙØ©Ù!",
+      "jpn": "しかし、あなたの<ruby>目<rt>め</rt></ruby>が<ruby>悪<rt>あく</rt></ruby>を<ruby>見<rt>み</rt></ruby>ていれば、<ruby>全<rt>ぜん</rt></ruby><ruby>身<rt>しん</rt></ruby>に<ruby>暗<rt>くら</rt></ruby><ruby>闇<rt>やみ</rt></ruby>が<ruby>及<rt>およ</rt></ruby>ぶであろう。だから、もしあなたの<ruby>内<rt>うち</rt></ruby>にある<ruby>光<rt>ひかり</rt></ruby>が<ruby>暗<rt>くら</rt></ruby><ruby>闇<rt>やみ</rt></ruby>になるならば、その<ruby>暗<rt>くら</rt></ruby>さはどんなに<ruby>深<rt>ふか</rt></ruby>いことか。",
+      "zhs": "你们的眼睛若邪恶，全身就充满黑暗。因此，你们里面的光若黑暗了，那是多么的黑暗啊！",
+      "zht": "<span class=\"verse-number\">23ã</span>ä½ åçç¼çè¥éªæ¡ï¼å¨èº«å°±åæ»¿é»æãå æ­¤ï¼ä½ åè£¡é¢çåè¥é»æäºï¼é£æ¯å¤éº¼çé»æåï¼",
+      "spa": "Pero si tu ojo es malo, todo tu cuerpo estará lleno de tinieblas. Por tanto, si la luz que hay en ti es tinieblas, ¡cuán grandes no serán esas tinieblas!",
+      "por": "<span class=\"verse-number\">23 </span>Se, porÃ©m, teus olhos forem maus, todo o teu corpo serÃ¡ cheio de trevas. Se, pois, a luz que em ti hÃ¡ sÃ£o trevas, quÃ£o grandes sÃ£o essas trevas!",
+      "fra": "<span class=\"verse-number\">23Â </span>Mais si ton Åil est en mauvais Ã©tat, tout ton corps sera dans les tÃ©nÃ¨bres. Si donc la lumiÃ¨re qui est en toi est tÃ©nÃ¨bres, combien seront grandes ces tÃ©nÃ¨bresÂ !",
+      "deu": "<span class=\"verse-number\">23Â </span>Wenn aber dein Auge bÃ¶se ist, so wird dein ganzer Leib voll Finsternis sein. Wenn nun das Licht, das in dir ist, Finsternis ist, wie groÃ ist dann die Finsternis!",
+      "kor": "<span class=\"verse-number\">23 </span>ê·¸ë¬ë ë§ì¼ ë¤ ëì´ ìíë©´, ë¤ ì¨ ëª¸ì ì´ë ì´ ê°ëíë¦¬ë, ê·¸ë¬ë¯ë¡ ë§ì¼ ë¤ ìì ìë ë¹ì´ ì´ë ì´ë©´, ê·¸ ì´ë ì´ ì¼ë§ë ì¬íê² ëë!",
+      "ita": "<span class=\"verse-number\">23 </span>Ma se il tuo occhio Ã¨ peccaminoso, il tuo corpo intero sarÃ  pieno di tenebra. Se dunque la luce che Ã¨ in te Ã¨ tenebre, quanto saranno grandi le tenebre stesse!"
+    },
+    "24": {
+      "eng": "No man can serve two masters; for either he will hate the one and love the other, or else he will hold to the one and despise the other. Ye cannot serve God and Mammon.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙØ§ ÙÙÙÙÙÙÙÙ ÙÙØ¥ÙÙÙØ³Ø§ÙÙ Ø£ÙÙÙ ÙÙØ®ÙØ¯ÙÙÙ Ø³ÙÙÙÙØ¯ÙÙÙÙÙØ ÙÙØ£ÙÙÙÙÙÙ Ø¥ÙÙÙØ§ ÙÙØ¨ÙØºÙØ¶Ù Ø£ÙØ­ÙØ¯ÙÙÙÙØ§ ÙÙÙÙØ­ÙØ¨ÙÙ Ø§ÙÙØ¢Ø®ÙØ±ÙØ Ø£ÙÙÙ ÙÙØªÙÙÙØ³ÙÙÙÙ Ø¨ÙØ£ÙØ­ÙØ¯ÙÙÙÙØ§ ÙÙÙÙØ­ÙØªÙÙÙØ±Ù Ø§ÙÙØ¢Ø®ÙØ±Ù. ÙØ§ ÙÙÙÙÙÙÙÙÙÙÙÙ Ø£ÙÙÙ ØªÙØ®ÙØ¯ÙÙÙØ§ Ø§ÙÙÙÙ°ÙÙ ÙÙØ§ÙÙÙØ§ÙÙ ÙÙØ¹ÙØ§.",
+      "jpn": "だれも、<ruby>二人<rt>ふたり</rt></ruby>の<ruby>主<rt>しゅ</rt></ruby><ruby>人<rt>じん</rt></ruby>に<ruby>兼<rt>か</rt></ruby>ね<ruby>仕<rt>つか</rt></ruby>えることはできない。<ruby>一<rt>いっ</rt></ruby><ruby>方<rt>ぽう</rt></ruby>を<ruby>憎<rt>にく</rt></ruby>んで<ruby>他<rt>た</rt></ruby><ruby>方<rt>ほう</rt></ruby>を<ruby>愛<rt>あい</rt></ruby>し、あるいは、<ruby>一<rt>いっ</rt></ruby><ruby>方<rt>ぽう</rt></ruby>に<ruby>親<rt>した</rt></ruby>しんで<ruby>他<rt>た</rt></ruby><ruby>方<rt>ほう</rt></ruby>をうとんじるからである。あなたがたは、<ruby>神<rt>かみ</rt></ruby>と<ruby>富<rt>とみ</rt></ruby>とに<ruby>兼<rt>か</rt></ruby>ね<ruby>仕<rt>つか</rt></ruby>えることはできない。」",
+      "zhs": "没有人能事奉两个主；他不是恨这个爱那个，就是重这个轻那个。你们不能又事奉神，又事奉玛门。",
+      "zht": "<span class=\"verse-number\">24ã</span>æ²æäººè½äºå¥å©åä¸»ï¼ä»ä¸æ¯æ¨éåæé£åï¼å°±æ¯ééåè¼é£åãä½ åä¸è½åäºå¥ç¥ï¼åäºå¥çªéã",
+      "spa": "Ningún hombre puede servir a dos señores, porque o aborrecerá al uno y amará al otro, o se allegará al uno y despreciará al otro. No podéis servir a Dios y a Mamón.",
+      "por": "<span class=\"verse-number\">24 </span>NinguÃ©m pode servir a dois senhores; porque ou hÃ¡ de odiar um e amar o outro ou hÃ¡ de apegar-se a um e desprezar o outro. NÃ£o podeis servir a Deus e a Mamom.",
+      "fra": "<span class=\"verse-number\">24Â </span>Nul ne peut servir deux maÃ®tres. Car, ou il haÃ¯ra lâun, et aimera lâautreÂ ; ou il sâattachera Ã  lâun, et mÃ©prisera lâautre. Vous ne pouvez servir Dieu et Mamon.",
+      "deu": "<span class=\"verse-number\">24Â </span>Niemand kann zwei Herren dienen; denn entweder wird er den einen hassen und den anderen lieben, oder aber er wird zu dem einen halten und den anderen verachten. Ihr kÃ¶nnt nicht Gott dienen und dem Mammon.",
+      "kor": "<span class=\"verse-number\">24 </span>ìë¬´ë ë ì£¼ì¸ì ì¬ê¸¸ ì ìëë, ì´ë í¹ ì´ë¥¼ ë¯¸ìíê³  ì ë¥¼ ì¬ëíê±°ë, í¹ ê·¸ë ì§ ìëíë©´ ì´ë¥¼ ì¤í ì¬ê¸°ê³  ì ë¥¼ ê²½í ì¬ê¸¸ ê²ìì´ëë¼. ëí¬ê° íëëê³¼ ì¬ë¬¼ì ê²¸íì¬ ì¬ê¸¸ ì ìëëë¼.",
+      "ita": "<span class=\"verse-number\">24 </span>Nessuno puÃ² servire due padroni; poichÃ© o odierÃ  lâuno e amerÃ  lâaltro, oppure si atterrÃ  allâuno e sprezzerÃ  lâaltro. Voi non potete servire Dio e Mammona."
+    },
+    "25": {
+      "eng": "And now it came to pass that when Jesus had spoken these words he looked upon the twelve whom he had chosen, and said unto them: Remember the words which I have spoken. For behold, ye are they whom I have chosen to minister unto this people. Therefore I say unto you, take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>ÙÙØ¨ÙØ¹ÙØ¯Ù Ø£ÙÙÙ ÙÙØ·ÙÙÙ ÙÙØ³ÙØ¹Ù Ø¨ÙÙÙ°Ø°ÙÙÙ Ø§ÙÙÙÙÙÙÙØ§ØªÙØ ÙÙØ¸ÙØ±Ù Ø¥ÙÙÙ Ø§ÙÙØ§Ø«ÙÙÙÙÙ Ø¹ÙØ´ÙØ±Ù Ø§ÙÙÙØ°ÙÙÙ Ø§Ø®ÙØªØ§Ø±ÙÙÙÙÙ ÙÙÙØ§ÙÙ ÙÙÙÙÙÙ: ØªÙØ°ÙÙÙÙØ±ÙØ§ Ø§ÙÙÙÙÙÙÙØ§ØªÙ Ø§ÙÙÙØªÙ ÙÙØ·ÙÙÙØªÙ Ø¨ÙÙØ§. ÙÙØ¥ÙÙÙÙÙÙÙÙ Ø£ÙÙÙØªÙÙÙ Ø§ÙÙÙØ°ÙÙÙ Ø§Ø®ÙØªÙØ±ÙØªÙÙÙÙÙ ÙÙØ®ÙØ¯ÙÙÙØ©Ù ÙÙ°Ø°Ø§ Ø§ÙØ´ÙÙØ¹ÙØ¨Ù. ÙÙØ°Ù°ÙÙÙÙ ÙÙØ¥ÙÙÙÙ Ø£ÙÙÙÙÙ ÙÙÙÙÙÙ: ÙØ§ ØªÙÙÙØªÙÙÙÙØ§ Ø¨ÙØ­ÙÙØ§ØªÙÙÙÙÙØ Ø¨ÙÙØ§ ØªÙØ£ÙÙÙÙÙÙÙ Ø£ÙÙÙ ØªÙØ´ÙØ±ÙØ¨ÙÙÙØ ÙÙÙØ§ Ø¨ÙØ¬ÙØ³ÙØ¯ÙÙÙÙÙ Ø¨ÙÙØ§ ØªÙÙÙØ¨ÙØ³ÙÙÙ. Ø£ÙÙÙÙÙØ³ÙØªÙ Ø§ÙÙØ­ÙÙØ§Ø©Ù Ø£ÙÙÙØ«ÙØ±Ù ÙÙÙÙ ÙÙØ¬ÙØ±ÙÙØ¯Ù Ø·ÙØ¹Ø§ÙÙ ÙÙØ§ÙÙØ¬ÙØ³ÙØ¯Ù Ø£ÙÙÙØ«ÙØ±Ù ÙÙÙÙ ÙÙØ¬ÙØ±ÙÙØ¯Ù ÙÙØ¨Ø§Ø³ÙØ",
+      "jpn": "さて、イエスはこれらの<ruby>御<rt>み</rt></ruby><ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>を<ruby>語<rt>かた</rt></ruby>り<ruby>終<rt>お</rt></ruby>えると、<ruby>御<rt>ご</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>が<ruby>選<rt>えら</rt></ruby>んだ十二<ruby>人<rt>にん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>言<rt>い</rt></ruby>われた。「わたしが<ruby>語<rt>かた</rt></ruby>った<ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えておきなさい。<ruby>見<rt>み</rt></ruby>よ、あなたがたはこの<ruby>民<rt>たみ</rt></ruby>に<ruby>仕<rt>つか</rt></ruby>えるようにわたしが<ruby>選<rt>えら</rt></ruby>んだ<ruby>者<rt>もの</rt></ruby>だからである。あなたがたに<ruby>言<rt>い</rt></ruby>う。<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べようか、<ruby>何<rt>なに</rt></ruby>を<ruby>飲<rt>の</rt></ruby>もうかと、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>命<rt>いのち</rt></ruby>のことで<ruby>思<rt>おも</rt></ruby>い<ruby>煩<rt>わずら</rt></ruby>い、<ruby>何<rt>なに</rt></ruby>を<ruby>着<rt>き</rt></ruby>ようかと<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>のことで<ruby>思<rt>おも</rt></ruby>い<ruby>煩<rt>わずら</rt></ruby>ってはならない。<ruby>命<rt>いのち</rt></ruby>は<ruby>食<rt>しょく</rt></ruby><ruby>物<rt>もつ</rt></ruby>に<ruby>勝<rt>まさ</rt></ruby>り、<ruby>体<rt>からだ</rt></ruby>は<ruby>衣<rt>い</rt></ruby><ruby>服<rt>ふく</rt></ruby>に<ruby>勝<rt>まさ</rt></ruby>っていないだろうか。",
+      "zhs": "事情是这样的，耶稣说完这些话，就看着祂拣选的十二人，并对他们说：记住我说的话。因为看啊，你们是我拣选来施助这人民的，所以我告诉你们，不要为生活忧虑要吃什么或要喝什么，也不必为身体忧虑要穿什么。生命不胜于饮食吗？身体不胜于衣裳吗？",
+      "zht": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p25\" title=\"ç¸éå§å®¹\"><button aria-label=\"ç¸éå§å®¹\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">25ã</span>äºææ¯éæ¨£çï¼è¶ç©èªªå®éäºè©±ï¼å°±çèç¥æé¸çåäºäººï¼ä¸¦å°ä»åèªªï¼è¨ä½æèªªçè©±ãå çºçåï¼ä½ åæ¯ææé¸ä¾æ½å©éäººæ°çï¼æä»¥æåè¨´ä½ åï¼ä¸è¦çºçæ´»ææ®è¦åä»éº¼æè¦åä»éº¼ï¼ä¹ä¸å¿çºèº«é«ææ®è¦ç©¿ä»éº¼ãçå½ä¸åæ¼é£²é£åï¼èº«é«ä¸åæ¼è¡£è£³åï¼",
+      "spa": "Y aconteció que cuando Jesús hubo hablado estas palabras, miró hacia los doce que había elegido, y les dijo: Acordaos de las palabras que he hablado. Porque he aquí, vosotros sois aquellos a quienes he escogido para ejercer el ministerio entre este pueblo. Os digo, pues: No os afanéis por vuestra vida, qué habéis de comer o qué habéis de beber; ni tampoco por vuestro cuerpo, con qué lo habéis de vestir. ¿No es la vida más que el alimento, y el cuerpo más que el vestido?",
+      "por": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p25\" title=\"ConteÃºdo relacionado\"><button aria-label=\"ConteÃºdo relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">25 </span>E entÃ£o aconteceu que apÃ³s ter dito estas palavras, Jesus olhou para os doze que havia escolhido e disse-lhes: Lembrai-vos das palavras que eu disse. Porque eis que sois vÃ³s os que eu escolhi para ministrar entre este povo. Portanto, eu vos digo: NÃ£o vos preocupeis quanto a vossa vida, pelo que havereis de comer ou pelo que havereis de beber; nem quanto ao vosso corpo, pelo que havereis de vestir. NÃ£o Ã© a vida mais do que alimento e o corpo mais do que vestido?",
+      "fra": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p25\" title=\"Contenu associÃ©\"><button aria-label=\"Contenu associÃ©\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">25Â </span>Et alors, il arriva que lorsque JÃ©sus eut dit ces paroles, il posa les yeux sur les douze quâil avait choisis et leur ditÂ : Souvenez-vous des paroles que jâai dites. Car voici, vous Ãªtes ceux que jâai choisis pour instruire ce peuple. Câest pourquoi je vous disÂ : Ne vous inquiÃ©tez pas pour votre vie de ce que vous mangerez ou de ce que vous boirezÂ ; ni pour votre corps de quoi vous serez vÃªtus. La vie nâest-elle pas plus que la nourriture, et le corps plus que le vÃªtementÂ ?",
+      "deu": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p25\" title=\"DazugehÃ¶riger Inhalt\"><button aria-label=\"DazugehÃ¶riger Inhalt\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">25Â </span>Und nun begab es sich: Als Jesus diese Worte gesprochen hatte, blickte er die ZwÃ¶lf an, die er erwÃ¤hlt hatte, und sprach zu ihnen: Denkt an die Worte, die ich gesprochen habe. Denn siehe, ihr seid es, die ich erwÃ¤hlt habe, diesem Volk zu dienen. Darum sage ich euch: Sorgt nicht um euer Leben, was ihr essen werdet oder was ihr trinken werdet, auch nicht um euren Leib, was ihr anziehen werdet. Ist nicht das Leben mehr als Nahrung und der Leib mehr als Kleidung?",
+      "kor": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p25\" title=\"ê´ë ¨ ì½íì¸ \"><button aria-label=\"ê´ë ¨ ì½íì¸ \" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">25 </span>ê·¸ë¦¬ê³  ì´ì  ì´ë ê² ëìëë ììê»ì ì´ê°ì´ ë§ìíìê³  ëì ê·¸ ííì  ì´ëì ë³´ìë©° ê·¸ë¤ìê² ì´ë¥´ìë, ë´ê° í ë§ì ê¸°ìµíë¼. ì´ë ë³´ë¼, ëí¬ë ì´ ë°±ì±ìê² ì±ì­ì ë² íê² íë ¤ê³  ë´ê° íí ìë¤ìì´ë¼. ê·¸ë¬ë¯ë¡ ë´ê° ëí¬ìê² ì´ë¥´ë¸ë, ëí¬ ëª©ì¨ì ìíì¬ ë¬´ìì ë¨¹ìê¹, í¹ì ë¬´ìì ë§ì¤ê¹ ì¼ë ¤íì§ ë§ë©°, ëí¬ ëª¸ì ìíì¬ ë¬´ìì ììê¹ ì¼ë ¤íì§ ë§ë¼. ëª©ì¨ì´ ììë³´ë¤, ëª¸ì´ ìë³µë³´ë¤ ì¤íì§ ìëíë?",
+      "ita": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p25\" title=\"Contenuti collegati\"><button aria-label=\"Contenuti collegati\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">25 </span>Ed ora avvenne che quando GesÃ¹ ebbe pronunciato queste parole guardÃ² i dodici che aveva scelto, e disse loro: Ricordate le parole che vi ho detto. PoichÃ© ecco, voi siete coloro che ho scelto per istruire questo popolo. PerciÃ² vi dico: Non datevi pensiero per la vostra vita, di cosa mangerete o di cosa berrete; e neppure per il vostro corpo, di cosa indosserete. Non Ã¨ la vita piÃ¹ del cibo, e il corpo piÃ¹ del vestito?"
+    },
+    "26": {
+      "eng": "Behold the fowls of the air, for they sow not, neither do they reap nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>Ø§ÙÙÙØ¸ÙØ±ÙØ§ Ø¥ÙÙÙ Ø·ÙÙÙØ±Ù Ø§ÙØ³ÙÙÙØ§Ø¡Ù Ø¥ÙØ°Ù ÙÙÙÙ ÙØ§ ØªÙØ²ÙØ±ÙØ¹Ù ÙÙÙØ§ ØªÙØ­ÙØµÙØ¯Ù Ø£ÙÙÙ ØªÙØ¬ÙÙÙØ¹Ù ÙÙ Ø§ÙÙÙÙØ®Ø§Ø²ÙÙÙØ ÙÙÙÙ°ÙÙÙÙÙ Ø£ÙØ¨Ø§ÙÙÙÙ Ø§ÙØ³ÙÙÙØ§ÙÙÙÙÙ ÙÙØ·ÙØ¹ÙÙÙÙØ§. Ø£ÙÙÙØ³ÙØªÙÙÙ Ø£ÙÙÙØ¶ÙÙÙ ÙÙÙÙÙØ§ Ø¨ÙÙÙØ«ÙØ±ÙØ",
+      "jpn": "<ruby>空<rt>そら</rt></ruby>の<ruby>鳥<rt>とり</rt></ruby>を<ruby>見<rt>み</rt></ruby>なさい。まくことも<ruby>刈<rt>か</rt></ruby>ることもせず、<ruby>倉<rt>くら</rt></ruby>に<ruby>納<rt>おさ</rt></ruby>めることもしない。それでも、あなたがたの<ruby>天<rt>てん</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>は<ruby>鳥<rt>とり</rt></ruby>を<ruby>養<rt>やしな</rt></ruby>っておられる。あなたがたは、<ruby>鳥<rt>とり</rt></ruby>よりもはるかに<ruby>優<rt>すぐ</rt></ruby>れた<ruby>者<rt>もの</rt></ruby>ではないか。",
+      "zhs": "你们看空中的飞鸟，也不种，也不收，也不集在仓里，你们的天父尚且养活它们，你们不比飞鸟贵重得多吗？",
+      "zht": "<span class=\"verse-number\">26ã</span>ä½ åçç©ºä¸­çé£é³¥ï¼ä¹ä¸ç¨®ï¼ä¹ä¸æ¶ï¼ä¹ä¸éå¨åè£¡ï¼ä½ åçå¤©ç¶å°ä¸é¤æ´»ç åï¼ä½ åä¸æ¯é£é³¥è²´éå¾å¤åï¼",
+      "spa": "Mirad las aves del cielo, pues no siembran, ni tampoco siegan, ni recogen en alfolíes; sin embargo, vuestro Padre Celestial las alimenta. ¿No sois vosotros mucho mejores que ellas?",
+      "por": "<span class=\"verse-number\">26 </span>Olhai as aves do cÃ©u, pois nÃ£o semeiam nem segam nem ajuntam em celeiros; contudo, vosso Pai Celestial as alimenta. NÃ£o sois vÃ³s muito melhores do que elas?",
+      "fra": "<span class=\"verse-number\">26Â </span>Regardez les oiseaux du cielÂ ; ils ne sÃ¨ment ni ne moissonnent, et ils nâamassent rien dans des greniersÂ ; et votre PÃ¨re cÃ©leste les nourrit. Ne valez-vous pas beaucoup plus quâeuxÂ ?",
+      "deu": "<span class=\"verse-number\">26Â </span>Seht die VÃ¶gel in der Luft an, denn sie sÃ¤en nicht und ernten nicht noch sammeln sie in Scheunen; und euer himmlischer Vater ernÃ¤hrt sie doch. Seid ihr nicht viel mehr wert als sie?",
+      "kor": "<span class=\"verse-number\">26 </span>ê³µì¤ì ìë¥¼ ë³´ë¼. ì¬ì§ë ìê³  ê±°ëì§ë ìëíê³  ì°½ê³ ì ëª¨ìë¤ì´ì§ë ìëíë, ëí¬ íë ìë²ì§ê»ì ê·¸ë¤ì ë¨¹ì´ìëë, ëí¬ë ê·¸ë¤ë³´ë¤ ëì± ë«ì§ ìëíë?",
+      "ita": "<span class=\"verse-number\">26 </span>Guardate gli uccelli dellâaria, che non seminano, non mietono nÃ© raccolgono nei granai; eppure il vostro Padre celeste li nutre. Non siete voi molto piÃ¹ di loro?"
+    },
+    "27": {
+      "eng": "Which of you by taking thought can add one cubit unto his stature?",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙÙÙ ÙÙÙÙÙÙÙÙ Ø¥ÙØ°Ø§ Ø­Ø§ÙÙÙÙ ÙÙØ³ÙØªÙØ·ÙØ¹Ù Ø£ÙÙÙ ÙÙØ²ÙØ¯Ù Ø°ÙØ±Ø§Ø¹ÙØ§ ÙØ§Ø­ÙØ¯ÙØ©Ù Ø¥ÙÙÙ ÙØ§ÙÙØªÙÙÙØ",
+      "jpn": "あなたがたの<ruby>中<rt>なか</rt></ruby>のだれが、<ruby>思<rt>おも</rt></ruby>い<ruby>煩<rt>わずら</rt></ruby>ったからといって、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>背<rt>せ</rt></ruby><ruby>丈<rt>たけ</rt></ruby>を一キュビト<ruby>伸<rt>の</rt></ruby>ばすことができようか。",
+      "zhs": "你们哪一个能用忧虑，使身材增高一肘呢？",
+      "zht": "<span class=\"verse-number\">27ã</span>ä½ ååªä¸åè½ç¨ææ®ï¼ä½¿èº«æå¢é«ä¸èå¢ï¼",
+      "spa": "¿Quién de vosotros, por mucho que se afane, podrá añadir un codo a su estatura?",
+      "por": "<span class=\"verse-number\">27 </span>Qual de vÃ³s, por preocupar-se, pode acrescentar um cÃ´vado a sua estatura?",
+      "fra": "<span class=\"verse-number\">27Â </span>Qui de vous, par ses inquiÃ©tudes, peut ajouter une coudÃ©e Ã  sa tailleÂ ?",
+      "deu": "<span class=\"verse-number\">27Â </span>Wer von euch kann, indem er sich sorgt, seiner KÃ¶rpergrÃ¶Ãe auch nur eine Elle hinzufÃ¼gen?",
+      "kor": "<span class=\"verse-number\">27 </span>ëí¬ ì¤ì ëê° ì¼ë ¤í¨ì¼ë¡ ê·¸ í¤ë¥¼ í ìë ëí  ì ìëë?",
+      "ita": "<span class=\"verse-number\">27 </span>Chi di voi, dandosi pensiero, puÃ² aggiungere alla sua statura un sol cubito?"
+    },
+    "28": {
+      "eng": "And why take ye thought for raiment? Consider the lilies of the field how they grow; they toil not, neither do they spin;",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙÙÙÙÙ ØªÙÙÙØªÙÙÙÙÙÙ Ø¨ÙØ§ÙÙÙÙØ¨Ø§Ø³ÙØ Ø§ÙÙÙØ¸ÙØ±ÙØ§ Ø¥ÙÙÙ Ø²ÙÙØ§Ø¨ÙÙÙ Ø§ÙÙØ­ÙÙÙÙÙ ÙÙÙÙÙÙ ØªÙÙÙÙÙØ Ø¥ÙÙÙÙÙØ§ ÙØ§ ØªÙØªÙØ¹ÙØ¨Ù ÙÙÙØ§ ØªÙØºÙØ²ÙÙÙØ",
+      "jpn": "また、なぜ<ruby>衣<rt>い</rt></ruby><ruby>服<rt>ふく</rt></ruby>のことで<ruby>思<rt>おも</rt></ruby>い<ruby>煩<rt>わずら</rt></ruby>うのか。<ruby>野<rt>の</rt></ruby>のゆりがどのように<ruby>育<rt>そだ</rt></ruby>っているか<ruby>考<rt>かんが</rt></ruby>えてみなさい。<ruby>野<rt>の</rt></ruby>のゆりは<ruby>働<rt>はたら</rt></ruby>きもせず、<ruby>紡<rt>つむ</rt></ruby>ぎもしない。",
+      "zhs": "何必为衣裳忧虑呢？你们想，野地里的百合花，是怎么长起来的？它也不劳苦，也不纺线；",
+      "zht": "<span class=\"verse-number\">28ã</span>ä½å¿çºè¡£è£³ææ®å¢ï¼ä½ åæ³ï¼éå°è£¡çç¾åè±ï¼æ¯æéº¼é·èµ·ä¾çï¼å®ä¹ä¸åè¦ï¼ä¹ä¸ç´¡ç·ï¼",
+      "spa": "Y por el vestido, ¿por qué os afanáis? Considerad los lirios del campo cómo crecen: No trabajan, ni hilan;",
+      "por": "<span class=\"verse-number\">28 </span>E por que vos preocupais com os vestidos? Atentai para os lÃ­rios do campo, como eles crescem; eles nÃ£o trabalham nem fiam;",
+      "fra": "<span class=\"verse-number\">28Â </span>Et pourquoi vous inquiÃ©ter au sujet du vÃªtementÂ ? ConsidÃ©rez comment croissent les lis des champsÂ ; ils ne travaillent ni ne filentÂ ;",
+      "deu": "<span class=\"verse-number\">28Â </span>Und warum sorgt ihr um Kleidung? Betrachtet die Lilien auf dem Feld, wie sie wachsen: Sie arbeiten nicht, auch spinnen sie nicht;",
+      "kor": "<span class=\"verse-number\">28 </span>ë ëí¬ê° ì´ì° ìë³µì ìíì¬ ì¼ë ¤íëë? ë¤ì ë°±í©íê° ì´ë»ê² ìë¼ëê° ìê°íì¬ ë³´ë¼. ìê³ ë ìëíê³ , ê¸¸ìë ìëíëëë¼.",
+      "ita": "<span class=\"verse-number\">28 </span>E perchÃ© vi date pensiero per i vestiti? Considerate come crescono i gigli dei campi; essi non faticano nÃ© filano;"
+    },
+    "29": {
+      "eng": "And yet I say unto you, that even Solomon, in all his glory, was not arrayed like one of these.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙÙÙ°ÙÙÙÙÙ Ø£ÙÙÙÙÙ ÙÙÙÙÙÙ: Ø­ÙØªÙÙ Ø³ÙÙÙÙÙÙØ§ÙÙ ÙÙ ÙÙÙÙÙ ÙÙØ¬ÙØ¯ÙÙÙ ÙÙÙÙ ÙÙÙÙØ¨ÙØ³Ù ÙÙØ«ÙÙÙ ÙØ§Ø­ÙØ¯ÙØ©Ù ÙÙÙÙ ÙÙ°Ø°ÙÙÙ.",
+      "jpn": "しかし、あなたがたに<ruby>言<rt>い</rt></ruby>うが、<ruby>栄<rt>えい</rt></ruby><ruby>華<rt>が</rt></ruby>を<ruby>極<rt>きわ</rt></ruby>めたときのソロモンでさえ、この<ruby>花<rt>はな</rt></ruby>の一つほどにも<ruby>着<rt>き</rt></ruby><ruby>飾<rt>かざ</rt></ruby>ってはいなかった。",
+      "zhs": "然而我告诉你们，就是所罗门极荣华的时候，他所穿戴的，还不如这花一朵呢。",
+      "zht": "<span class=\"verse-number\">29ã</span>ç¶èæåè¨´ä½ åï¼å°±æ¯<u>æç¾é</u>æ¥µæ¦®è¯çæåï¼ä»æç©¿æ´çï¼éä¸å¦éè±ä¸æµå¢ã",
+      "spa": "y sin embargo, os digo, que ni aun Salomón, en toda su gloria, se vistió como uno de estos.",
+      "por": "<span class=\"verse-number\">29 </span>E digo-vos, contudo, que nem mesmo SalomÃ£o, em toda a sua glÃ³ria, vestiu-se como um deles.",
+      "fra": "<span class=\"verse-number\">29Â </span>et cependant je vous dis que Salomon mÃªme, dans toute sa gloire, nâa pas Ã©tÃ© vÃªtu comme lâun dâeux.",
+      "deu": "<span class=\"verse-number\">29Â </span>und doch sage ich euch, dass selbst Salomo in seiner ganzen Herrlichkeit nicht so gekleidet gewesen ist wie eine von ihnen.",
+      "kor": "<span class=\"verse-number\">29 </span>ê·¸ë¬ë ë´ê° ëí¬ìê² ë§íë¸ë, ìë¡ëª¬ì´ ê·¸ ëª¨ë  ìê´ì¼ë¡ë ìì ê²ì´ ì´ ê½ íëë§ ê°ì§ ëª»íìëëë¼.",
+      "ita": "<span class=\"verse-number\">29 </span>Eppure io vi dico che neppure Salomone, in tutta la sua gloria, era vestito come uno di loro."
+    },
+    "30": {
+      "eng": "Wherefore, if God so clothe the grass of the field, which today is, and tomorrow is cast into the oven, even so will he clothe you, if ye are not of little faith.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>ÙÙØ°Ù°ÙÙÙÙ Ø¥ÙÙÙ ÙØ§ÙÙ Ø§ÙÙÙÙ°ÙÙ ÙÙÙÙØ³Ù Ø¹ÙØ´ÙØ¨Ù Ø§ÙÙØ­ÙÙÙÙÙ Ø§ÙÙÙØ°Ù ÙÙØ¬ÙØ¯Ù Ø§ÙÙÙÙÙÙÙÙ ÙÙØºÙØ¯ÙØ§ ÙÙØ·ÙØ±ÙØ­Ù ÙÙ Ø§ÙÙÙØ§Ø±ÙØ ÙÙÙÙØ°Ù°ÙÙÙÙ ÙÙÙÙØ³ÙÙÙÙÙ Ø¥ÙÙÙ ÙÙ ØªÙÙÙÙÙØ§ ÙÙÙÙÙÙ Ø§ÙÙØ¥ÙÙØ§ÙÙ.",
+      "jpn": "だから、<ruby>今日<rt>きょう</rt></ruby>はあって、<ruby>明日<rt>あす</rt></ruby>は<ruby>炉<rt>ろ</rt></ruby>に<ruby>投<rt>な</rt></ruby>げ<ruby>込<rt>こ</rt></ruby>まれる<ruby>野<rt>の</rt></ruby>の<ruby>草<rt>くさ</rt></ruby>でさえ、<ruby>神<rt>かみ</rt></ruby>がこのように<ruby>装<rt>よそお</rt></ruby>ってくださるとすれば、あなたがたの<ruby>信<rt>しん</rt></ruby><ruby>仰<rt>こう</rt></ruby>が<ruby>薄<rt>うす</rt></ruby>くないかぎり、<ruby>神<rt>かみ</rt></ruby>はあなたがたにも<ruby>同<rt>おな</rt></ruby>じように<ruby>装<rt>よそお</rt></ruby>わせてくださるであろう。",
+      "zhs": "因此，野地里的草，今天还在，明天就丢在炉里，神还给它们这样的装扮，若你们不小信，祂必照样装扮你们。",
+      "zht": "<span class=\"verse-number\">30ã</span>å æ­¤ï¼éå°è£¡çèï¼ä»å¤©éå¨ï¼æå¤©å°±ä¸å¨çè£¡ï¼ç¥éçµ¦å®åéæ¨£çè£æ®ï¼è¥ä½ åä¸å°ä¿¡ï¼ç¥å¿ç§æ¨£è£æ®ä½ åã",
+      "spa": "Por tanto, si Dios viste así la hierba del campo, que hoy es, y mañana se echa en el horno, así os vestirá él, si vosotros no sois de poca fe.",
+      "por": "<span class=\"verse-number\">30 </span>Portanto, se Deus assim veste a erva do campo que hoje existe e amanhÃ£ Ã© lanÃ§ada ao forno, tambÃ©m vestirÃ¡ a vÃ³s, se vossa fÃ© nÃ£o for pequena.",
+      "fra": "<span class=\"verse-number\">30Â </span>Câest pourquoi, si Dieu revÃªt ainsi lâherbe des champs, qui existe aujourdâhui et qui demain sera jetÃ©e au four, de mÃªme il vous vÃªtira, si vous nâÃªtes pas de peu de foi.",
+      "deu": "<span class=\"verse-number\">30Â </span>Wenn denn Gott das Gras auf dem Feld so kleidet, das heute da ist und morgen in den Ofen geworfen wird, so wird er auch euch kleiden, wenn ihr nicht kleinglÃ¤ubig seid.",
+      "kor": "<span class=\"verse-number\">30 </span>ê·¸ë¬íì¦ ì¤ë ìë¤ê° ë´ì¼ ìê¶ì´ì ëì ¸ì§ë ë¤íë íëëì´ ì´ë ê² ìíìê±°ë , ëí¬ì ì ìì´ ì ì§ ìëí ì§ë ê·¸ì ê°ì´ ëí¬ë ìíìë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">30 </span>Pertanto, se Dio veste cosÃ¬ lâerba dei campi, che oggi Ã¨ e domani Ã¨ gettata nel forno, altrettanto vestirÃ  voi se non sarete di poca fede."
+    },
+    "31": {
+      "eng": "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙØ°Ù°ÙÙÙÙ ÙØ§ ØªÙÙÙÙÙÙØ±ÙØ§ ÙØ§Ø¦ÙÙÙÙÙ: ÙØ§Ø°Ø§ ÙÙØ£ÙÙÙÙÙØ Ø£ÙÙÙ ÙØ§Ø°Ø§ ÙÙØ´ÙØ±ÙØ¨ÙØ Ø£ÙÙÙ ÙØ§Ø°Ø§ ÙÙÙÙØ¨ÙØ³ÙØ",
+      "jpn": "だから、『<ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べようか』『<ruby>何<rt>なに</rt></ruby>を<ruby>飲<rt>の</rt></ruby>もうか』『<ruby>何<rt>なに</rt></ruby>を<ruby>着<rt>き</rt></ruby>ようか』と<ruby>言<rt>い</rt></ruby>って<ruby>思<rt>おも</rt></ruby>い<ruby>煩<rt>わずら</rt></ruby>ってはならない。",
+      "zhs": "所以不要忧虑说，我们要吃什么？我们要喝什么？或我们要穿什么？",
+      "zht": "<span class=\"verse-number\">31ã</span>æä»¥ä¸è¦ææ®èªªï¼æåè¦åä»éº¼ï¼æåè¦åä»éº¼ï¼ææåè¦ç©¿ä»éº¼ï¼",
+      "spa": "No os afanéis, pues, diciendo: ¿Qué comeremos o qué beberemos, o con qué nos hemos de vestir?",
+      "por": "<span class=\"verse-number\">31 </span>Portanto, nÃ£o vos preocupeis, dizendo: Que comeremos ou que beberemos ou com que nos vestiremos?",
+      "fra": "<span class=\"verse-number\">31Â </span>Ne vous inquiÃ©tez donc point, et ne dites pasÂ : Que mangerons-nousÂ ? que boirons-nousÂ ? de quoi serons-nous vÃªtusÂ ?",
+      "deu": "<span class=\"verse-number\">31Â </span>Darum sollt ihr nicht sorgen und sagen: Was werden wir essen? Oder: Was werden wir trinken? Oder: Womit werden wir uns kleiden?",
+      "kor": "<span class=\"verse-number\">31 </span>ê·¸ë¬ë¯ë¡ ì¼ë ¤íì¬ ì´ë¥´ê¸°ë¥¼, ë¬´ìì ë¨¹ìê¹? í¹ì ë¬´ìì ë§ì¤ê¹? í¹ì ë¬´ìì ììê¹? íì§ ë§ë¼.",
+      "ita": "<span class=\"verse-number\">31 </span>Non datevi dunque pensiero, dicendo: Cosa mangeremo? o Cosa berremo? o Con cosa ci vestiremo?"
+    },
+    "32": {
+      "eng": "For your heavenly Father knoweth that ye have need of all these things.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØ£ÙØ¨ÙÙÙÙÙ Ø§ÙØ³ÙÙÙØ§ÙÙÙÙÙ ÙÙØ¹ÙÙÙÙÙ Ø£ÙÙÙÙÙÙÙÙ ØªÙØ­ÙØªØ§Ø¬ÙÙÙ Ø¥ÙÙÙ ÙÙÙÙÙ ÙÙ°Ø°ÙÙÙ Ø§ÙÙØ£ÙØ´ÙÙØ§Ø¡Ù.",
+      "jpn": "あなたがたの<ruby>天<rt>てん</rt></ruby>の<ruby>父<rt>ちち</rt></ruby>は、これらのものがすべてあなたがたに<ruby>必<rt>ひつ</rt></ruby><ruby>要<rt>よう</rt></ruby>であることを<ruby>御<rt>ご</rt></ruby><ruby>存<rt>ぞん</rt></ruby>じだからである。",
+      "zhs": "因为你们的天父知道你们需要这一切东西。",
+      "zht": "<span class=\"verse-number\">32ã</span>å çºä½ åçå¤©ç¶ç¥éä½ åéè¦éä¸åæ±è¥¿ã",
+      "spa": "Porque vuestro Padre Celestial sabe que tenéis necesidad de todas estas cosas.",
+      "por": "<span class=\"verse-number\">32 </span>Porque vosso Pai Celestial sabe que necessitais de todas estas coisas.",
+      "fra": "<span class=\"verse-number\">32Â </span>Car votre PÃ¨re cÃ©leste sait que vous avez besoin de toutes ces choses.",
+      "deu": "<span class=\"verse-number\">32Â </span>Denn euer himmlischer Vater weiÃ, dass ihr all dessen bedÃ¼rft.",
+      "kor": "<span class=\"verse-number\">32 </span>ì´ë ëí¬ íë ìë²ì§ê»ì ì´ ëª¨ë  ê²ì´ ëí¬ìê² ìì´ì¼ í  ì¤ ìì¬ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">32 </span>PoichÃ© il vostro Padre celeste sa che avete bisogno di tutte queste cose."
+    },
+    "33": {
+      "eng": "But seek ye first the kingdom of God and his righteousness, and all these things shall be added unto you.",
+      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>ÙÙ°ÙÙÙÙ Ø§Ø·ÙÙÙØ¨ÙØ§ Ø£ÙÙÙÙÙÙØ§ ÙÙÙÙÙÙØªÙ Ø§ÙÙÙÙ°ÙÙ ÙÙØ¨ÙØ±ÙÙÙÙØ ÙÙÙÙÙÙÙ ÙÙ°Ø°ÙÙÙ Ø§ÙÙØ£ÙØ´ÙÙØ§Ø¡Ù ØªÙØ²Ø§Ø¯Ù ÙÙÙÙÙÙ.",
+      "jpn": "まず<ruby>神<rt>かみ</rt></ruby>の<ruby>王<rt>おう</rt></ruby><ruby>国<rt>こく</rt></ruby>と<ruby>神<rt>かみ</rt></ruby>の<ruby>義<rt>ぎ</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めなさい。そうすれば、これらのものはすべて<ruby>添<rt>そ</rt></ruby>えて<ruby>与<rt>あた</rt></ruby>えられるであろう。",
+      "zhs": "只要你们先求神的国和祂的义，这一切都必加给你们。",
+      "zht": "<span class=\"verse-number\">33ã</span>åªè¦ä½ ååæ±ç¥çååç¥çç¾©ï¼éä¸åé½å¿å çµ¦ä½ åã",
+      "spa": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+      "por": "<span class=\"verse-number\">33 </span>Mas buscai primeiro o reino de Deus e a sua retidÃ£o; e todas estas coisas vos serÃ£o acrescentadas.",
+      "fra": "<span class=\"verse-number\">33Â </span>Mais cherchez premiÃ¨rement le royaume et la justice de DieuÂ ; et toutes ces choses vous seront donnÃ©es par-dessus.",
+      "deu": "<span class=\"verse-number\">33Â </span>Sondern trachtet ihr zuerst nach dem Reich Gottes und nach seiner Rechtschaffenheit, und dies alles wird euch hinzugefÃ¼gt werden.",
+      "kor": "<span class=\"verse-number\">33 </span>ì¤ì§ ëí¬ë ë¨¼ì  íëëì ëë¼ì ê·¸ì ìë¥¼ êµ¬íë¼, ê·¸ë¦¬íë©´ ì´ ëª¨ë  ê²ì ëí¬ìê² ëíìë¦¬ë¼.",
+      "ita": "<span class=\"verse-number\">33 </span>Ma cercate prima il regno di Dio e la sua rettitudine, e tutte queste cose vi saranno aggiunte."
+    },
+    "34": {
+      "eng": "Take therefore no thought for the morrow, for the morrow shall take thought for the things of itself. Sufficient is the day unto the evil thereof.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>ÙÙØ°Ù°ÙÙÙÙØ ÙØ§ ØªÙØ­ÙÙÙÙÙ ÙÙÙÙÙ Ø§ÙÙØºÙØ¯ÙØ ÙÙØ§ÙÙØºÙØ¯Ù Ø³ÙÙÙØ­ÙÙÙÙÙ ÙÙÙÙÙ ÙÙÙÙØ³ÙÙÙ. ÙÙÙÙÙÙ Ø§ÙÙÙÙÙÙÙÙ ÙØ§ ÙÙÙÙ ÙÙÙÙ Ø´ÙØ±ÙÙ.",
+      "jpn": "だから、<ruby>明日<rt>あす</rt></ruby>のことを<ruby>思<rt>おも</rt></ruby>い<ruby>煩<rt>わずら</rt></ruby>ってはならない。<ruby>明日<rt>あす</rt></ruby>のことは<ruby>明日<rt>あす</rt></ruby><ruby>自<rt>じ</rt></ruby><ruby>身<rt>しん</rt></ruby>が<ruby>思<rt>おも</rt></ruby>い<ruby>煩<rt>わずら</rt></ruby>うであろう。その<ruby>日<rt>ひ</rt></ruby>はその<ruby>日<rt>ひ</rt></ruby>の<ruby>苦<rt>く</rt></ruby><ruby>労<rt>ろう</rt></ruby>だけで<ruby>十<rt>じゅう</rt></ruby><ruby>分<rt>ぶん</rt></ruby>である。」",
+      "zhs": "所以不要为明天忧虑，明天的事自有明天去忧虑，一天的难处一天当就够了。",
+      "zht": "<span class=\"verse-number\">34ã</span>æä»¥ä¸è¦çºæå¤©ææ®ï¼æå¤©çäºèªææå¤©å»ææ®ï¼ä¸å¤©çé£èä¸å¤©ç¶å°±å¤ äºã",
+      "spa": "Así que, no os afanéis por el día de mañana, porque el día de mañana traerá su afán por sus propias cosas. Basta el día para su propio mal.",
+      "por": "<span class=\"verse-number\">34 </span>Portanto, nÃ£o vos preocupeis com o dia de amanhÃ£, porque o dia de amanhÃ£ se preocuparÃ¡ com suas prÃ³prias coisas. Basta a cada dia o seu mal.",
+      "fra": "<span class=\"verse-number\">34Â </span>Ne vous inquiÃ©tez donc pas du lendemainÂ ; car le lendemain aura soin de lui-mÃªme. Ã chaque jour suffit sa peine.",
+      "deu": "<span class=\"verse-number\">34Â </span>Darum sorgt nicht fÃ¼r den morgigen Tag, denn der morgige Tag wird fÃ¼r sich selbst sorgen. Jeder Tag hat genug an seinem eigenen Ãbel.",
+      "kor": "<span class=\"verse-number\">34 </span>ê·¸ë¬ë¯ë¡ ë´ì¼ì ìíì¬ ì¼ë ¤íì§ ë§ë¼, ë´ì¼ ì¼ì ë´ì¼ì´ ì¼ë ¤í  ê²ì´ì, í ë  ê´´ë¡ìì ê·¸ ë ë¡ ì¡±í¨ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">34 </span>Non datevi dunque pensiero per il domani, poichÃ© il domani si darÃ  pensiero per le cose sue; basta a ciascun giorno il suo male."
+    }
+  }
+}

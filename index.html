@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Polyglot Saint — Home Dashboard</title>
+
+  <!-- Google Fonts: Newsreader (Academic Serif), Inter (Clean UI Sans), JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="styles.css" />
+
+  <!-- Supabase v2 CDN & Client -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="supabaseClient.js"></script>
+</head>
+<body>
+
+  <!-- ====================================================================
+       HEADER: Brand Logo | Active Languages Selector | Continue with Google
+       ==================================================================== -->
+  <header class="site-header">
+    <div class="header-inner">
+      <!-- Left: Text Logo -->
+      <a href="#" class="brand-logo">The Polyglot Saint</a>
+
+      <!-- Middle: Active Language Selection -->
+      <div class="header-lang-bar" aria-label="Active Languages">
+        <div class="active-lang-trigger">
+          <span class="active-lang-label">Active</span>
+          <button type="button" class="btn-select-langs" title="Choose active study languages">
+            &lt; Select &gt;
+          </button>
+        </div>
+
+        <div class="active-lang-box" role="list" aria-label="Selected language codes">
+          <span class="lang-code-badge" role="listitem">eng</span>
+          <span class="lang-code-badge" role="listitem">jpn</span>
+          <span class="lang-code-badge" role="listitem">zhs</span>
+          <span class="lang-code-badge" role="listitem">zht</span>
+          <span class="lang-code-badge" role="listitem">spa</span>
+        </div>
+      </div>
+
+      <!-- Right: Continue with Google -->
+      <button type="button" class="btn-google-auth">
+        <svg class="google-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path fill="#4285F4" d="M23.49 12.27c0-.79-.07-1.54-.19-2.27H12v4.51h6.47c-.29 1.48-1.14 2.73-2.4 3.58v3h3.86c2.26-2.09 3.56-5.17 3.56-8.82z"/>
+          <path fill="#34A853" d="M12 24c3.24 0 5.95-1.08 7.93-2.91l-3.86-3c-1.08.72-2.45 1.16-4.07 1.16-3.13 0-5.78-2.11-6.73-4.96H1.29v3.09C3.26 21.3 7.31 24 12 24z"/>
+          <path fill="#FBBC05" d="M5.27 14.29c-.25-.72-.38-1.49-.38-2.29s.13-1.57.38-2.29V6.62H1.29C.47 8.24 0 10.06 0 12s.47 3.76 1.29 5.38l3.98-3.09z"/>
+          <path fill="#EA4335" d="M12 4.75c1.77 0 3.35.61 4.6 1.8l3.42-3.42C17.95 1.19 15.24 0 12 0 7.31 0 3.26 2.7 1.29 6.62l3.98 3.09c.95-2.85 3.6-4.96 6.73-4.96z"/>
+        </svg>
+        <span class="auth-btn-text">Continue with Google</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ====================================================================
+       MAIN DASHBOARD CONTENT
+       ==================================================================== -->
+  <main class="dashboard-main">
+
+    <!-- ==================================================================
+         TOP BODY: Today's Flashcards (Left ~3/4) + Decks List (Right ~1/4)
+         ================================================================== -->
+    <section class="dashboard-row" aria-label="Flashcard Review Workspace">
+
+      <!-- Left Column: Today's Flashcards -->
+      <div class="flashcard-workspace">
+        <div class="flashcard-topbar">
+          <h1 class="section-title flashcard-section-title">Today’s Flashcards</h1>
+
+          <div class="flashcard-lang-selectors">
+            <!-- Review Language -->
+            <div class="lang-config-group lang-config-review">
+              <span class="lang-config-label">Review language</span>
+              <div class="lang-config-values" role="button" tabindex="0" title="Choose review languages (front)" aria-haspopup="true" aria-expanded="false">
+                <span class="lang-abbr-list">jpn, zhs, zht</span>
+                <button type="button" class="btn-icon-edit" title="Edit review languages" aria-label="Edit review languages">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M12 20h9"/>
+                    <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/>
+                  </svg>
+                </button>
+              </div>
+            </div>
+
+            <!-- Answer Language -->
+            <div class="lang-config-group lang-config-answer">
+              <span class="lang-config-label">Answer language</span>
+              <div class="lang-config-values" role="button" tabindex="0" title="Choose answer languages (back)" aria-haspopup="true" aria-expanded="false">
+                <span class="lang-abbr-list">spa, jpn, eng</span>
+                <button type="button" class="btn-icon-edit" title="Edit answer languages" aria-label="Edit answer languages">
+                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M12 20h9"/>
+                    <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/>
+                  </svg>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Flashcard Display Card -->
+        <div class="flashcard-stage" role="region" aria-label="Flashcard workspace">
+          <!-- Top Meta Row: Reference & Language on left, Navigation & Counter in center, Edit button on right -->
+          <div class="flashcard-meta-row">
+            <span class="flashcard-source-ref">jpn</span>
+            <div class="flashcard-nav-controls">
+              <button type="button" class="flashcard-nav-btn btn-prev-card" title="Previous card (Left Arrow)" aria-label="Previous card">&lsaquo;</button>
+              <span class="flashcard-counter">1 / 1</span>
+              <button type="button" class="flashcard-nav-btn btn-next-card" title="Next card (Right Arrow)" aria-label="Next card">&rsaquo;</button>
+            </div>
+            <button type="button" class="flashcard-btn-edit" title="Edit card" aria-label="Edit card">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 20h9"/>
+                <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Main Interactive Card Body (Two Columns: Left Word, Right Dynamic Front/Back) -->
+          <div class="flashcard-card-surface" role="button" tabindex="0" title="Click card or press Space to flip" aria-label="Flashcard, click to flip">
+            <div class="flashcard-body-layout">
+              <!-- Left Column: Prominent Word with Ruby -->
+              <div class="flashcard-left-col">
+                <p class="flashcard-prompt-word">
+                  <ruby>悔<rt>く</rt></ruby>い<ruby>改<rt>あらた</rt></ruby>め
+                </p>
+                <div class="flashcard-subprompt"></div>
+              </div>
+
+              <!-- Right Column: Front Definitions or Back Context Sentence -->
+              <div class="flashcard-right-col">
+                <!-- Dynamically rendered -->
+              </div>
+            </div>
+          </div>
+
+          <!-- Bottom Footer Area: Ratings Row + Action Hint -->
+          <div class="flashcard-footer-area">
+            <div class="flashcard-ratings-row" style="display: none;"></div>
+            <div class="flashcard-footer-hint"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Column: Selectable Flashcard Decks -->
+      <aside class="decks-panel" aria-label="Flashcard Decks">
+        <div class="decks-topbar">
+          <h2 class="section-title">Decks</h2>
+          </div>
+
+        <div class="decks-box">
+          <ul class="decks-list" role="listbox" aria-multiselectable="true">
+            <li class="deck-item" style="cursor: default;">
+              <div class="deck-item-left">
+                <span class="deck-name" style="color: var(--text-muted);">Loading decks…</span>
+              </div>
+            </li>
+          </ul>
+
+          <div class="decks-actions-bar">
+            <button type="button" class="btn-deck-action">Run</button>
+            <button type="button" class="btn-deck-action">View List</button>
+          </div>
+        </div>
+      </aside>
+
+    </section>
+
+    <!-- ==================================================================
+         LOWER BODY: Library Selection (Left ~3/4) + Search Box (Right ~1/4)
+         ================================================================== -->
+    <section class="dashboard-row" aria-label="Library and Search">
+
+      <!-- Left Column: Cascading Library Lists (Scriptures & General Conference) -->
+      <div class="library-column">
+
+        <!-- 1. Scriptures Cascading Browser (Volume -> Book -> Chapter) -->
+        <div class="library-section">
+          <div class="section-header-line">
+            <h2 class="section-title">Scriptures</h2>
+            <span class="section-subtitle">Select Volume &rarr; Book &rarr; Chapter</span>
+          </div>
+
+          <div class="cascading-browser" role="region" aria-label="Scriptures cascading navigation">
+            <!-- Column 1: Volumes -->
+            <div class="cascade-pane">
+              <div class="cascade-pane-header">Volume</div>
+              <ul class="cascade-list" id="scripture-volumes"></ul>
+            </div>
+
+            <!-- Column 2: Books (Expanded from selected Volume) -->
+            <div class="cascade-pane">
+              <div class="cascade-pane-header">Book</div>
+              <ul class="cascade-list" id="scripture-books"></ul>
+            </div>
+
+            <!-- Column 3: Chapters (Expanded from selected Book) -->
+            <div class="cascade-pane">
+              <div class="cascade-pane-header">Chapter</div>
+              <div class="chapter-grid"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 2. General Conference Cascading Browser (Session -> Speaker -> Title) -->
+        <div class="library-section">
+          <div class="section-header-line">
+            <h2 class="section-title">General Conference</h2>
+            <span class="section-subtitle">Browse by Session or Speaker</span>
+          </div>
+
+          <div class="cascading-browser" role="region" aria-label="General Conference cascading navigation">
+            <!-- Column 1: Session -->
+            <div class="cascade-pane">
+              <div class="cascade-pane-header">Browse By</div>
+              <ul class="cascade-list"></ul>
+            </div>
+
+            <!-- Column 2: Speaker -->
+            <div class="cascade-pane">
+              <div class="cascade-pane-header">Session</div>
+              <ul class="cascade-list"></ul>
+            </div>
+
+            <!-- Column 3: Talk Title -->
+            <div class="cascade-pane">
+              <div class="cascade-pane-header">Talks</div>
+              <div class="cascade-list">
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Right Column: Search Box Optimized for Finding Chapters / Talks -->
+      <aside class="search-column" aria-label="Quick Search">
+        <div class="search-input-wrapper">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"/>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+          <input
+            type="search"
+            class="search-input"
+            placeholder="Search chapters, talks, or speakers..."
+            aria-label="Search chapters, talks, or speakers"
+          />
+        </div>
+
+        <div class="search-results-box">
+          <div class="search-results-header">Quick Jump &amp; Recent Chapters</div>
+          <ul class="search-result-list">
+            <li>
+              <a href="reader.html" class="search-result-item">
+                <span class="search-result-title">1 Nephi 1</span>
+                <span class="search-result-snippet">Book of Mormon &bull; 20 verses &bull; eng, jpn, zhs, zht, spa</span>
+              </a>
+            </li>
+            <li>
+              <a href="#read/bom/alma/32" class="search-result-item">
+                <span class="search-result-title">Alma 32</span>
+                <span class="search-result-snippet">Book of Mormon &bull; 43 verses &bull; Alma’s discourse on faith</span>
+              </a>
+            </li>
+            <li>
+              <a href="#read/pgp/moses/1" class="search-result-item">
+                <span class="search-result-title">Moses 1</span>
+                <span class="search-result-snippet">Pearl of Great Price &bull; 42 verses &bull; Visions of Moses</span>
+              </a>
+            </li>
+            <li>
+              <a href="#read/gc/2026-10/12gong" class="search-result-item">
+                <span class="search-result-title">Gerrit W. Gong — October 2026</span>
+                <span class="search-result-snippet">General Conference &bull; 32 paragraphs &bull; eng, jpn, zht, spa</span>
+              </a>
+            </li>
+            <li>
+              <a href="#read/dc/dc/88" class="search-result-item">
+                <span class="search-result-title">Doctrine and Covenants 88</span>
+                <span class="search-result-snippet">Doctrine and Covenants &bull; 141 verses &bull; The Olive Leaf</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </aside>
+
+    </section>
+
+  </main>
+
+  <!-- Library index (generated by compile_corpus.py / build_manifest_js.py) -->
+  <script src="data/manifest.js"></script>
+  <!-- Shared display names + dashboard controller -->
+  <script src="names.js"></script>
+  <script src="dashboard.js"></script>
+</body>
+</html>

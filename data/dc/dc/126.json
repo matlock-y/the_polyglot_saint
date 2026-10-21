@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "volume": "dc",
+    "book": "dc",
+    "chapter": 126,
+    "headings": {
+      "eng": "1â3, Brigham Young is commended for his labors and is relieved of future travel abroad.",
+      "jpn": "1ï¼3ããªã¬ã ã»ã¤ã³ã°ã¯ãã®<ruby><rb>å</rb><rt>ã¯ãã</rt></ruby>ãã<ruby><rb>è¤</rb><rt>ã»</rt></ruby>ãããã<ruby><rb>å°</rb><rt>ããã</rt></ruby><ruby><rb>æ¥</rb><rt>ãã</rt></ruby><ruby><rb>å¤</rb><rt>ãã</rt></ruby><ruby><rb>å½</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ</rb><rt>ãã³</rt></ruby>ãããã®ã<ruby><rb>å</rb><rt>ãã</rt></ruby><ruby><rb>é¤</rb><rt>ãã</rt></ruby>ãããã",
+      "zhs": "1-3ï¼<u>ç¾ç¿°Â·æ¨</u>å ä»çå·¥ä½èåç§°èµï¼å°æ¥å°å¤å°å·¡åçå·¥ä½ä¹è¢«åé¤äºã",
+      "zht": "1-3ï¼<u>ç¾ç¿°Â·æ¥</u>å ä»çå·¥ä½èåç¨±è®ï¼å°ä¾å°å¤å°å·¡è¿´çå·¥ä½ä¹è¢«åé¤äºã",
+      "spa": "1â3, Se encomia a Brigham Young por sus obras y se le releva de viajar al extranjero en lo futuro.",
+      "por": "1â3, Brigham Young Ã© elogiado por seu trabalho e dispensado de futuras viagens para o exterior.",
+      "fra": "1-3, Brigham Young est fÃ©licitÃ© pour ses efforts et est relevÃ© de tout voyage futur Ã  lâÃ©tranger.",
+      "deu": "1-3 Brigham Young wird fÃ¼r seine Arbeit gelobt und von kÃ¼nftigen auswÃ¤rtigen Reisen befreit.",
+      "kor": "1~3, ë¸ë¦¬ê² ìì ê·¸ ìê³ ì ëíì¬ ì¹­ì°¬ë°ê³ , ìì¼ë¡ ì§ì ë ë ì¬ííë ì¼ì ë©´ì  ë°ì.",
+      "ita": "1â3: Brigham Young Ã¨ lodato per le sue fatiche e viene esonerato da futuri viaggi allâestero."
+    },
+    "intros": {
+      "eng": "Revelation given through Joseph Smith the Prophet, in the house of Brigham Young, at Nauvoo, Illinois, July 9, 1841. Brigham Young had just returned to his family in Nauvoo from a nearly two-year mission to England.",
+      "jpn": "åå«ç¾ååä¸<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby>ä¸<ruby><rb>æ</rb><rt>ãã¤</rt></ruby><ruby><rb>ä¹</rb><rt>ããã®</rt></ruby><ruby><rb>æ¥</rb><rt>ã</rt></ruby>ãã¤ãªãã¤<ruby><rb>å·</rb><rt>ããã</rt></ruby>ãã¼ãã¼ã®ããªã¬ã ã»ã¤ã³ã°ã®<ruby><rb>å®¶</rb><rt>ãã</rt></ruby>ã§ã<ruby><rb>é </rb><rt>ã</rt></ruby><ruby><rb>è¨</rb><rt>ãã</rt></ruby><ruby><rb>è</rb><rt>ãã</rt></ruby>ã¸ã§ã»ãã»ã¹ãã¹ã<ruby><rb>é</rb><rt>ã¨ã</rt></ruby>ãã¦<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããã<ruby><rb>å</rb><rt>ãã</rt></ruby><ruby><rb>ç¤º</rb><rt>ã</rt></ruby>ãããªã¬ã ã»ã¤ã³ã°ã¯ãã¤ã®ãªã¹ã§ã®ãããäº<ruby><rb>å¹´</rb><rt>ã­ã</rt></ruby><ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ä¼</rb><rt>ã§ã</rt></ruby><ruby><rb>é</rb><rt>ã©ã</rt></ruby>ãããã¼ãã¼ã®<ruby><rb>å®¶</rb><rt>ã</rt></ruby><ruby><rb>æ</rb><rt>ãã</rt></ruby>ã®ãã¨ã«<ruby><rb>æ»</rb><rt>ãã©</rt></ruby>ã£ã¦<ruby><rb>æ¥</rb><rt>ã</rt></ruby>ãã°ããã§ãã£ãã",
+      "zhs": "1841å¹´7æ9æ¥ï¼å¨<u>ä¼å©è¯º</u>ï¼<u>çº³åº</u>ï¼å¨<u>ç¾ç¿°Â·æ¨</u>å®¶ä¸­ï¼éè¿åç¥<u>çº¦çÂ·æ¯å¯</u>ç»äºçå¯ç¤ºã<u>ç¾ç¿°Â·æ¨</u>åç»æå¨<u>è±å½</u>å°è¿ä¸¤å¹´çä¼ æï¼åå°ä»å¨<u>çº³åº</u>çå®¶ã",
+      "zht": "1841å¹´7æ9æ¥ï¼å¨<u>ä¼å©è«¾</u>ï¼<u>ç´åº</u>ï¼å¨<u>ç¾ç¿°Â·æ¥</u>å®¶ä¸­ï¼ééåç¥<u>ç´çÂ·æ¯å¯</u>çµ¦äºçåç¤ºã<u>ç¾ç¿°Â·æ¥</u>åçµæå¨<u>è±å</u>å°è¿å©å¹´çå³æï¼åå°ä»å¨<u>ç´åº</u>çå®¶ã",
+      "spa": "RevelaciÃ³n dada por medio de JosÃ© Smith el Profeta en la casa de Brigham Young en Nauvoo, Illinois, el 9 de julio de 1841. Brigham Young acababa de reunirse con su familia en Nauvoo despuÃ©s de una misiÃ³n de casi dos aÃ±os en Inglaterra.",
+      "por": "RevelaÃ§Ã£o dada por intermÃ©dio de Joseph Smith, o Profeta, na casa de Brigham Young, em Nauvoo, Illinois, em 9 de julho de 1841. Brigham Young havia acabado de retornar para sua famÃ­lia, em Nauvoo, de uma missÃ£o de quase dois anos na Inglaterra.",
+      "fra": "RÃ©vÃ©lation donnÃ©e le 9Â juillet 1841, par lâintermÃ©diaire de Joseph Smith, le prophÃ¨te, chez Brigham Young, Ã  Nauvoo (Illinois). Brigham Young venait de retourner auprÃ¨s de sa famille Ã  Nauvoo aprÃ¨s une mission en Angleterre dâenviron deux ans.",
+      "deu": "Offenbarung, gegeben durch Joseph Smith, den Propheten, am 9.Â Juli 1841 im Haus Brigham Youngs zu Nauvoo, Illinois. Brigham Young war gerade nach einer fast zweijÃ¤hrigen Mission in England zu seiner Familie in Nauvoo zurÃ¼ckgekehrt.",
+      "kor": "1841ë 7ì 9ì¼ ì¼ë¦¬ë¸ì´ ì£¼ ëë¶ì ìë ë¸ë¦¬ê² ìì ì§ìì ì ì§ì ì¡°ì ì¤ë¯¸ì¤ë¥¼ íµíì¬ ì£¼ì  ê³ì(<em>êµíì¬</em> 4:382). ì´ ë¹ì ë¸ë¦¬ê² ìì ì­ì´ì¬ë ì ìíì íì¥ì´ìë¤.",
+      "ita": "Rivelazione data a Joseph Smith, il Profeta, nella casa di Brigham Young, a Nauvoo, Illinois, il 9Â luglio 1841. A quel tempo Brigham Young era presidente del Quorum dei Dodici Apostoli."
+    }
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>Dear and well-beloved brother, Brigham Young, verily thus saith the Lord unto you: My servant Brigham, it is no more required at your hand to leave your family as in times past, for your offering is acceptable to me.",
+      "jpn": "<span class=\"verse-number\">1</span><ruby><rb>è¦ª</rb><rt>ãã</rt></ruby><ruby><rb>æ</rb><rt>ãã</rt></ruby>ãªãããªã¬ã ã»ã¤ã³ã°<ruby><rb>å</rb><rt>ããã</rt></ruby><ruby><rb>å¼</rb><rt>ã ã</rt></ruby>ãã¾ãã¨ã«ã<ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ããªãã«ãã®ããã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ããããããããã®<ruby><rb>å</rb><rt>ããã¹</rt></ruby>ããªã¬ã ããããã¾ã§ã®ããã«<ruby><rb>å®¶</rb><rt>ã</rt></ruby><ruby><rb>æ</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ®</rb><rt>ã®ã</rt></ruby>ãã¦<ruby><rb>åº</rb><rt>ã§</rt></ruby>ããããã¨ã¯ãããããªãã«<ruby><rb>æ±</rb><rt>ãã¨</rt></ruby>ããããªããããªãã®ããã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ãããããã¯<ruby><rb>å</rb><rt>ã</rt></ruby>ã<ruby><rb>å¥</rb><rt>ã</rt></ruby>ããããã§ããã",
+      "zhs": "<span class=\"verse-number\">1ã</span>äº²ç±èåååç±çå¼åï¼ç¾ç¿°Â·æ¨ï¼ä¸»å®å¨è¿æ ·åè¯ä½ ï¼æçä»äºº<u>ç¾ç¿°</u>ï¼ç°å¨ä¸ååè¿å»é£æ ·éè¦ä½ ç¦»å¼ä½ çå®¶åº­äºï¼å ä¸ºä½ çç®ç¥­å¯¹æèè¨æ¯å¯æ¥çº³çã",
+      "zht": "<span class=\"verse-number\">1ã</span>è¦ªæèåååæçå¼åï¼ç¾ç¿°Â·æ¥ï¼ä¸»å¯¦å¨éæ¨£åè¨´ä½ ï¼æçåäºº<u>ç¾ç¿°</u>ï¼ç¾å¨ä¸ååéå»é£æ¨£éè¦ä½ é¢éä½ çå®¶åº­äºï¼å çºä½ çç»ç¥­å°æèè¨æ¯å¯æ¥ç´çã",
+      "spa": "<span class=\"verse-number\">1 </span>Querido y muy amado hermano Brigham Young, de cierto, asÃ­ te dice el SeÃ±or: Brigham, mi siervo, ya no te es requerido separarte de tu familia como en lo pasado, pues tu ofrenda me es aceptable.",
+      "por": "<span class=\"verse-number\">1 </span>Querido e bem-amado irmÃ£o Brigham Young, em verdade assim te diz o Senhor: Meu servo Brigham, nÃ£o mais se requer de ti que deixes tua famÃ­lia como em tempos passados, porque tua oferta me Ã© aceitÃ¡vel.",
+      "fra": "<span class=\"verse-number\">1Â </span>Cher et bien-aimÃ© frÃ¨re Brigham Young, en vÃ©ritÃ©, ainsi te dit le SeigneurÂ : Mon serviteur Brigham, il nâest plus requis de toi que tu quittes ta famille comme dans le passÃ©, car ton offrande est acceptable devant moi.",
+      "deu": "<span class=\"verse-number\">1Â </span>Teurer und vielgeliebter Bruder Brigham Young, wahrlich, so spricht der Herr zu dir: Mein Diener Brigham, es wird von deiner Hand nicht mehr gefordert, dass du, wie in der Vergangenheit, deine Familie verlÃ¤sst, denn dein Opfer ist fÃ¼r mich annehmbar.",
+      "kor": "<span class=\"verse-number\">1 </span>ì¹ì íê³  ì¬í ì¬ëíë íì  ë¸ë¦¬ê² ìì´ì¬, ì§ì¤ë¡ ì´ê°ì´ ì£¼ê»ì ê·¸ëìê² ë§ìíìëëë¼. ëì ì¢ ë¸ë¦¬ê²ì, ì´ì ë ì§ëë ê°ì´ ë¤ ê°ì¡±ì ë ëê¸°ë¥¼ ë¤ ìì ë ì´ì ìêµ¬íì§ ìëíë¸ë, ì´ë ë¤ íë¬¼ì´ ë´ê° ë°ìë¤ì¼ ë§í¨ì´ëë¼.",
+      "ita": "<span class=\"verse-number\">1 </span>Caro e diletto fratello Brigham Young, in veritÃ  cosÃ¬ ti dice il Signore: Mio servitore Brigham, non ti Ã¨ piÃ¹ richiesto di lasciare la tua famiglia come nei tempi passati, poichÃ© la tua offerta mi Ã¨ accettabile."
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>I have seen your labor and toil in journeyings for my name.",
+      "jpn": "<span class=\"verse-number\">2</span>ãããã¯ããããã®<ruby><rb>å</rb><rt>ãª</rt></ruby>ã®ããã«<ruby><rb>è¡</rb><rt>ãããª</rt></ruby>ã£ã<ruby><rb>æ</rb><rt>ãã³</rt></ruby>ã«ãããããªãã®åãã¨<ruby><rb>å´</rb><rt>ãã</rt></ruby><ruby><rb>è¦</rb><rt>ã</rt></ruby>ã<ruby><rb>è¦</rb><rt>ã¿</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">2ã</span>æå·²çè§ä½ ä¸ºæçåèæè¡æ¶æåçå·¥ä½åè¾å³ã",
+      "zht": "<span class=\"verse-number\">2ã</span>æå·²çè¦ä½ çºæçåèæè¡ææåçå·¥ä½åè¾åã",
+      "spa": "<span class=\"verse-number\">2 </span>He visto tu obra y tu afÃ¡n en tus viajes por mi nombre.",
+      "por": "<span class=\"verse-number\">2 </span>Tenho visto teu trabalho e tua lida nas viagens que fizeste pelo meu nome.",
+      "fra": "<span class=\"verse-number\">2Â </span>Jâai vu ton travail et ton labeur lorsque tu voyageais pour mon nom.",
+      "deu": "<span class=\"verse-number\">2Â </span>Ich habe deine Arbeit und MÃ¼he gesehen, als du um meines Namens willen gereist bist.",
+      "kor": "<span class=\"verse-number\">2 </span>ëì ì´ë¦ì ìíì¬ ì¬ííë©´ì íí ë¤ ì¼ê³¼ ìê³ ë¥¼ ë´ê° ë³´ììì¦,",
+      "ita": "<span class=\"verse-number\">2 </span>Ho visto il tuo lavoro e la tua fatica nel viaggiare per il mio nome."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>I therefore command you to send my word abroad, and take especial care of your family from this time, henceforth and forever. Amen.",
+      "jpn": "<span class=\"verse-number\">3</span>ããããããããã¯ããªãã«ããããã®<ruby><rb>è¨</rb><rt>ãã¨</rt></ruby><ruby><rb>è</rb><rt>ã°</rt></ruby>ã<ruby><rb>å¤</rb><rt>ãã</rt></ruby><ruby><rb>å½</rb><rt>ãã</rt></ruby>ã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãã<ruby><rb>ä»</rb><rt>ãã¾</rt></ruby>ãã<ruby><rb>å¾</rb><rt>ã®ã¡</rt></ruby>ãã¤ã¾ã§ãããªãã®å®¶æã®<ruby><rb>ä¸</rb><rt>ã</rt></ruby><ruby><rb>è©±</rb><rt>ã</rt></ruby>ã<ruby><rb>ç¹</rb><rt>ã¨ã</rt></ruby>ã«ããããããã«<ruby><rb>å½</rb><rt>ãã</rt></ruby>ãããã¢ã¼ã¡ã³ãã",
+      "zhs": "<span class=\"verse-number\">3ã</span>æä»¥æå½ä»¤ä½ å°æçè¯ä¼ å°å¤å°å»ï¼å¹¶è¦ä»ç°å¨èµ·ç¹å«ç§é¡¾ä½ çå®¶åº­ï¼ä»ä»ç´å°æ°¸è¿ãé¿ä»¬ã",
+      "zht": "<span class=\"verse-number\">3ã</span>æä»¥æå½ä»¤ä½ å°æçè©±å³å°å¤å°å»ï¼ä¸¦è¦å¾ç¾å¨èµ·ç¹å¥ç§é¡§ä½ çå®¶åº­ï¼å¾ä»ç´å°æ°¸é ãé¿åã",
+      "spa": "<span class=\"verse-number\">3 </span>Por tanto, te mando enviar mi palabra a todas partes y velar especialmente por tu familia, desde ahora en adelante y para siempre. AmÃ©n.",
+      "por": "<span class=\"verse-number\">3 </span>Ordeno-te, portanto, que envies minha palavra ao exterior e zeles especialmente por tua famÃ­lia, de agora em diante e para sempre. AmÃ©m.",
+      "fra": "<span class=\"verse-number\">3Â </span>Câest pourquoi, je te commande dâenvoyer ma parole au dehors et de prendre, Ã  partir de maintenant, spÃ©cialement soin de ta famille, dorÃ©navant et Ã  jamais. Amen.",
+      "deu": "<span class=\"verse-number\">3Â </span>Darum gebiete ich dir, sende mein Wort hinaus, und sorge von dieser Zeit an, fortan und fÃ¼r immer, besonders fÃ¼r deine Familie. Amen.",
+      "kor": "<span class=\"verse-number\">3 </span>ê·¸ë¬ë¯ë¡ ë´ê° ë¤ê² ëªíë¸ë, ëì ë§ì ëë¦¬ ë³´ë´ë©°, ì´ì ë¶í° ì´íë¡ ììí ë¡ ë¤ ê°ì¡±ì í¹ë³í ëë³¼ì§ì´ë¤. ìë©.",
+      "ita": "<span class=\"verse-number\">3 </span>PerciÃ² ti comando di mandare la mia parola nei paesi lontani e di prenderti cura speciale della tua famiglia da questo momento, in seguito e per sempre. Amen."
+    }
+  }
+}

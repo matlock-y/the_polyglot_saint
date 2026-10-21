@@ -1,0 +1,540 @@
+{
+  "meta": {
+    "volume": "ot",
+    "book": "ex",
+    "chapter": 25,
+    "headings": {
+      "eng": "Israel is commanded to donate property and build a tabernacle, the ark of testimony (with the mercy seat and cherubims), a table (for the shewbread), and the candlestick, all according to patterns shown to Moses on the mount.",
+      "zhs": "ä¸»å½ä»¤<u>ä»¥è²å</u>äººæåºè´¢ç©ï¼å¹¶ç§ä¸»å¨å±±ä¸æç¤º<u>æ©è¥¿</u>çæ ·å¼ï¼å¶é å¸å¹ãæ³æï¼è¿åæ½æ©åº§ååºè·¯ä¼¯ï¼ãæ¡å­ï¼æéè®¾é¥¼ï¼åç¯å°ã",
+      "zht": "ä¸»å½ä»¤<u>ä»¥è²å</u>äººæåºè²¡ç©ï¼ä¸¦ç§ä¸»å¨å±±ä¸æç¤º<u>æ©è¥¿</u>çæ¨£å¼ï¼è£½é å¸³å¹ãæ³æ«ï¼é£åæ½æ©åº§ååºè·¯ä¼¯ï¼ãæ¡å­ï¼æºé³è¨­é¤ï¼åçèºã",
+      "spa": "Se manda a Israel donar sus bienes y construir un tabernÃ¡culo; hacer el arca del testimonio (con su propiciatorio y los querubines), una mesa (para el pan de la proposiciÃ³n) y el candelabro, todo de acuerdo con el modelo que se habÃ­a mostrado a MoisÃ©s en el monte.",
+      "por": "Ordena-se a Israel que doem materiais e construam um tabernÃ¡culo, a arca do testemunho (com o propiciatÃ³rio e os querubins), uma mesa (para o pÃ£o da proposiÃ§Ã£o) e o candelabro, tudo de acordo com o modelo mostrado a MoisÃ©s no monte.",
+      "fra": "IsraÃ«l reÃ§oit le commandement de faire des offrandes et de construire le tabernacle, lâarche du tÃ©moignage (avec le propitiatoire et les chÃ©rubins), la table (pour les pains de proposition) et le chandelier, le tout dâaprÃ¨s le modÃ¨le montrÃ© Ã  MoÃ¯se sur la montagne.",
+      "deu": "Israel wird geboten, von seinem Eigentum zu spenden und eine WohnstÃ¤tte zu bauen sowie die Bundeslade (samt SÃ¼hneplatte und den Kerubim), einen Tisch (fÃ¼r die Schaubrote) und den Leuchter herzustellen, alles gemÃ¤Ã dem Muster, das Mose auf dem Berg gezeigt wurde.",
+      "ita": "A Israele viene comandato di donare dei beni e di costruire un tabernacolo, lâarca della testimonianza (con il propiziatorio e dei cherubini), una tavola (per il pane della presentazione) e il candelabro, tutto secondo i modelli mostrati a MosÃ¨ sul monte."
+    },
+    "intros": {}
+  },
+  "verses": {
+    "1": {
+      "eng": "<span class=\"verse-number\">1 </span>And the <span class=\"deity-name\"><span class=\"small-caps\">Lord</span></span> spake unto Moses, saying,",
+      "ara": "<span class=\"verse-number\">Ù¡ </span>ÙÙØ®ÙØ§Ø·ÙØ¨Ù Ø§ÙØ±ÙÙØ¨ÙÙ ÙÙÙØ³ÙÙ:",
+      "jpn": "<span class=\"verse-number\">1 </span><ruby><rb>ä¸»</rb><rt>ãã</rt></ruby>ã¯ã¢ã¼ã»ã«<ruby><rb>è¨</rb><rt>ã</rt></ruby>ãããã",
+      "zhs": "<span class=\"verse-number\">1ã</span>è¶ååæè°<u>æ©è¥¿</u>è¯´ï¼",
+      "zht": "<span class=\"verse-number\">1ã</span>è¶åè¯æè«­<u>æ©è¥¿</u>èªªï¼",
+      "spa": "<span class=\"verse-number\">1 </span>Y JehovÃ¡ hablÃ³ a MoisÃ©s, diciendo:",
+      "por": "<span class=\"verse-number\">1 </span>EntÃ£o falou o <span class=\"deity-name\"><span class=\"small-caps\">Senhor</span></span> a MoisÃ©s, dizendo:",
+      "fra": "<span class=\"verse-number\">1 </span>LâÃternel parla Ã  MoÃ¯se et ditÂ :",
+      "deu": "<span class=\"verse-number\">1Â </span>Der <span class=\"deity-name\"><span class=\"small-caps\">Herr</span></span> sprach dann zu Mose, nÃ¤mlich:",
+      "kor": "<span class=\"verse-number\">1 </span>ì¬í¸ìê»ì ëª¨ì¸ìê² ë§ìíì¬ ì´ë¥´ìë",
+      "ita": "<span class=\"verse-number\">1</span> LâEterno parlÃ² a MosÃ¨ dicendo: âDiâ ai figli dâIsraele che mi facciano unâofferta;"
+    },
+    "2": {
+      "eng": "<span class=\"verse-number\">2 </span>Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering.",
+      "ara": "<span class=\"verse-number\">Ù¢ </span>ÙÙÙÙÙÙÙ Ø¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ Ø£ÙÙÙ ÙÙØ£ÙØ®ÙØ°ÙÙØ§ ÙÙÙ ØªÙÙÙØ¯ÙÙÙØ©Ù ÙÙÙÙ ÙÙÙÙÙ Ø¥ÙÙÙØ³ÙØ§ÙÙ ÙÙØ­ÙØ«ÙÙÙÙ ÙÙÙÙØ¨ÙÙÙ Ø¹ÙÙÙÙ Ø°ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">2 </span>ãã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã«<ruby><rb>å</rb><rt>ã¤</rt></ruby>ãã¦ããããã®ããã«ããã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>æº</rb><rt>ããã</rt></ruby>ãã¦ããããªããããã¹ã¦ã<ruby><rb>å¿</rb><rt>ããã</rt></ruby>ãã<ruby><rb>å</rb><rt>ããã</rt></ruby>ãã§ãã<ruby><rb>è</rb><rt>ãã®</rt></ruby>ããããããã«ãããã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã<ruby><rb>å</rb><rt>ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ããªããã",
+      "zhs": "<span class=\"verse-number\">2ã</span>ä½ åè¯<u>ä»¥è²å</u>äººå½ä¸ºæéç¤¼ç©æ¥ï¼å¡çå¿ä¹æçï¼ä½ ä»¬å°±å¯ä»¥æ¶ä¸å½æã",
+      "zht": "<span class=\"verse-number\">2ã</span>ä½ åè¨´<u>ä»¥è²å</u>äººç¶çºæéç¦®ç©ä¾ï¼å¡çå¿æ¨æçï¼ä½ åå°±å¯ä»¥æ¶ä¸æ­¸æã",
+      "spa": "<span class=\"verse-number\">2 </span>Di a los hijos de Israel que tomen para mÃ­ una ofrenda; de todo hombre que la dÃ© voluntariamente, de corazÃ³n, tomarÃ©is mi ofrenda.",
+      "por": "<span class=\"verse-number\">2 </span>Fala aos filhos de Israel, que me tragam uma oferta alÃ§ada; de todo homem cujo coraÃ§Ã£o o mover a isso, <span class=\"clarity-word\">dele</span> recebereis a minha oferta alÃ§ada.",
+      "fra": "<span class=\"verse-number\">2 </span>Parle aux enfants dâIsraÃ«l. Quâils mâapportent une offrandeÂ ; vous la recevrez pour moi de tout homme qui la fera de bon cÅur.",
+      "deu": "<span class=\"verse-number\">2Â </span>âFordere die Israeliten auf, eine Abgabe an mich zu entrichten! Von einem jeden, den sein Herz dazu treibt, sollt ihr die Abgabe an mich annehmen!",
+      "kor": "<span class=\"verse-number\">2 </span>ì´ì¤ë¼ì ìììê² ëªë ¹íì¬ ë´ê² ìë¬¼ì ê°ì ¸ì¤ë¼ íê³  ê¸°ì ë§ìì¼ë¡ ë´ë ìê° ë´ê² ë°ì¹ë ëª¨ë  ê²ì ëí¬ë ë°ìì§ëë¼",
+      "ita": "<span class=\"verse-number\">2</span> accetterete lâofferta da ogni uomo che sarÃ  disposto a farmela di cuore."
+    },
+    "3": {
+      "eng": "<span class=\"verse-number\">3 </span>And this <span class=\"clarity-word\">is</span> the offering which ye shall take of them; gold, and silver, and brass,",
+      "ara": "<span class=\"verse-number\">Ù£ </span>Ø£ÙÙÙÙØ§ Ø§ÙØªÙÙÙÙØ¯ÙÙÙØ§ØªÙ Ø§ÙÙÙØªÙÙ ØªÙØ£ÙØ®ÙØ°ÙÙÙÙÙÙØ§ ÙÙÙÙÙÙÙÙ ÙÙÙÙÙÙ: Ø°ÙÙÙØ¨Ù ÙÙÙÙØ¶ÙÙØ©Ù ÙÙÙÙØ­ÙØ§Ø³Ù",
+      "jpn": "<span class=\"verse-number\">3 </span>ããªãããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ããã<ruby><rb>å</rb><rt>ã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ãã¹ãããã<ruby><rb>ç©</rb><rt>ãã®</rt></ruby>ã¯ããã§ãããããªãã¡<ruby><rb>é</rb><rt>ãã</rt></ruby>ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã<ruby><rb>éé</rb><rt>ããã©ã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">3ã</span>æè¦æ¶çç¤¼ç©å°±æ¯ï¼éãé¶ãéï¼",
+      "zht": "<span class=\"verse-number\">3ã</span>æè¦æ¶çç¦®ç©å°±æ¯ï¼éãéãéï¼",
+      "spa": "<span class=\"verse-number\">3 </span>Y esta es la ofrenda que tomarÃ©is de ellos: Oro, y plata, y cobre,",
+      "por": "<span class=\"verse-number\">3 </span>E esta <span class=\"clarity-word\">Ã©</span> a oferta alÃ§ada que recebereis deles: ouro, e prata, e bronze,",
+      "fra": "<span class=\"verse-number\">3 </span>Voici ce que vous recevrez dâeux en offrandeÂ : de lâor, de lâargent et de lâairainÂ ;",
+      "deu": "<span class=\"verse-number\">3Â </span>Und zwar besteht die Abgabe, die ihr von ihnen erheben sollt, in Folgendem: in Gold, Silber und Kupfer;",
+      "kor": "<span class=\"verse-number\">3 </span>ëí¬ê° ê·¸ë¤ìê²ì ë°ì ìë¬¼ì ì´ë¬íë ê¸ê³¼ ìê³¼ ëê³¼",
+      "ita": "<span class=\"verse-number\">3</span> E questa Ã¨ lâofferta che accetterete da loro: oro, argento e rame;"
+    },
+    "4": {
+      "eng": "<span class=\"verse-number\">4 </span>And blue, and purple, and scarlet, and fine linen, and goatsâ <span class=\"clarity-word\">hair,</span>",
+      "ara": "<span class=\"verse-number\">Ù¤ </span>ÙÙØ£ÙÙÙÙÙØ´ÙØ©Ù Ø²ÙØ±ÙÙÙØ§Ø¡Ù ÙÙØ¨ÙÙÙÙÙØ³ÙØ¬ÙÙÙÙØ©Ù ÙÙØ­ÙÙÙØ±ÙØ§Ø¡ÙØ ÙÙÙÙÙÙØ³ÙÙØ¬ÙØ§ØªÙ ÙÙØªÙÙØ§ÙÙÙÙÙØ©Ù ÙÙØ´ÙØ¹ÙØ±Ù ÙÙØ¹ÙØ²ÙÙØ",
+      "jpn": "<span class=\"verse-number\">4 </span><ruby><rb>é</rb><rt>ãã</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>ç´«</rb><rt>ãããã</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>ç·</rb><rt>ã²</rt></ruby><ruby><rb>ç³¸</rb><rt>ãã¨</rt></ruby>ã<ruby><rb>äºéº»</rb><rt>ãã¾</rt></ruby>ã®<ruby><rb>æç³¸</rb><rt>ã­ãã</rt></ruby>ãããã®<ruby><rb>æ¯ç³¸</rb><rt>ããã¨</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">4ã</span>èè²ãç´«è²ãæ±çº¢è²<span class=\"clarity-word\">çº¿</span>ï¼ç»éº»ï¼å±±ç¾<span class=\"clarity-word\">æ¯</span>ï¼",
+      "zht": "<span class=\"verse-number\">4ã</span>èè²ãç´«è²ãæ±ç´è²<span class=\"clarity-word\">ç·</span>ï¼ç´°éº»ï¼å±±ç¾<span class=\"clarity-word\">æ¯</span>ï¼",
+      "spa": "<span class=\"verse-number\">4 </span>y azul, y pÃºrpura, y carmesÃ­, y lino fino, y <span class=\"clarity-word\">pelo</span> de cabra,",
+      "por": "<span class=\"verse-number\">4 </span>E azul, e pÃºrpura, e carmesim, e linho fino, e <span class=\"clarity-word\">pelos</span> de cabras,",
+      "fra": "<span class=\"verse-number\">4 </span>des Ã©toffes teintes en bleu, en pourpre et en cramoisi, du fin lin et du poil de chÃ¨vreÂ ;",
+      "deu": "<span class=\"verse-number\">4Â </span>in blauem und rotem Purpur und Karmesin, in Byssus und Ziegenhaar;",
+      "kor": "<span class=\"verse-number\">4 </span>ì²­ì ìì íì <span class=\"clarity-word\">ì¤</span>ê³¼ ê°ë ë²  <span class=\"clarity-word\">ì¤</span>ê³¼ ì¼ì <span class=\"clarity-word\">í¸</span>ê³¼",
+      "ita": "<span class=\"verse-number\">4</span> stoffe di color violaceo, porporino, scarlatto;"
+    },
+    "5": {
+      "eng": "<span class=\"verse-number\">5 </span>And ramsâ skins dyed red, and badgersâ skins, and shittim wood,",
+      "ara": "<span class=\"verse-number\">Ù¥ </span>ÙÙØ¬ÙÙÙÙØ¯Ù ÙÙØ¨ÙØ§Ø´Ù ÙÙØµÙØ¨ÙÙØºÙØ©Ù Ø¨ÙØ§ÙÙØ­ÙÙÙØ±ÙØ©ÙØ ÙÙØ¬ÙÙÙÙØ¯Ù Ø¯ÙÙØ§ÙÙÙÙÙ ÙÙØ®ÙØ´ÙØ¨Ù Ø§ÙØ³ÙÙÙÙØ·ÙØ",
+      "jpn": "<span class=\"verse-number\">5 </span>ããã­<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã®<ruby><rb>éç¾</rb><rt>ãã²ã¤ã</rt></ruby>ã®<ruby><rb>ç®</rb><rt>ãã</rt></ruby>ãããããã®<ruby><rb>ç®</rb><rt>ãã</rt></ruby>ãã¢ã«ã·ã¤<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">5ã</span>æçº¢çå¬ç¾ç®ï¼æµ·çç®ï¼çèæ¨ï¼",
+      "zht": "<span class=\"verse-number\">5ã</span>æç´çå¬ç¾ç®ï¼æµ·çç®ï¼çè¢æ¨ï¼",
+      "spa": "<span class=\"verse-number\">5 </span>y pieles de carnero teÃ±idas de rojo, y pieles de tejÃ³n, y madera de acacia,",
+      "por": "<span class=\"verse-number\">5 </span>E peles de carneiros tintas de vermelho, e peles de texugos, e madeira de acÃ¡cia,",
+      "fra": "<span class=\"verse-number\">5 </span>des peaux de bÃ©liers teintes en rouge et des peaux de dauphinsÂ ; du bois dâacaciaÂ ;",
+      "deu": "<span class=\"verse-number\">5Â </span>in rotgefÃ¤rbten Widderfellen und TahaschhÃ¤uten, in Akazienholz;",
+      "kor": "<span class=\"verse-number\">5 </span>ë¶ì ë¬¼ ë¤ì¸ ì«ìì ê°ì£½ê³¼ í´ë¬ì ê°ì£½ê³¼ ì¡°ê°ëª©ê³¼",
+      "ita": "<span class=\"verse-number\">5</span> lino fino e pelo di capra; pelli di montone tinte in rosso, pelli di delfino e legno dâacacia;"
+    },
+    "6": {
+      "eng": "<span class=\"verse-number\">6 </span>Oil for the light, spices for anointing oil, and for sweet incense,",
+      "ara": "<span class=\"verse-number\">Ù¦ </span>ÙÙØ²ÙÙÙØªÙ ÙÙÙÙÙÙÙÙØ§Ø±ÙØ©ÙØ ÙÙØ£ÙØ·ÙÙÙØ§Ø¨Ù ÙÙØ¯ÙÙÙÙÙ Ø§ÙÙÙÙØ³ÙØ­ÙØ©Ù ÙÙÙÙÙÙØ¨ÙØ®ÙÙØ±Ù Ø§ÙÙØ¹ÙØ·ÙØ±Ù",
+      "jpn": "<span class=\"verse-number\">6 </span>ã¨ãã<ruby><rb>æ²¹</rb><rt>ãã¶ã</rt></ruby>ã<ruby><rb>æ³¨</rb><rt>ãã</rt></ruby>ã<ruby><rb>æ²¹</rb><rt>ãã¶ã</rt></ruby>ã¨<ruby><rb>é¦</rb><rt>ãã</rt></ruby>ã°ãã<ruby><rb>è«é¦</rb><rt>ãããã</rt></ruby>ã®ããã®<ruby><rb>é¦æ</rb><rt>ããããã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">6ã</span>ç¹ç¯çæ²¹ï¼å¹¶åèæ²¹åé¦çé¦æï¼",
+      "zht": "<span class=\"verse-number\">6ã</span>é»ççæ²¹ï¼ä¸¦åèæ²¹åé¦çé¦æï¼",
+      "spa": "<span class=\"verse-number\">6 </span>aceite para el alumbrado, especias para el aceite de la unciÃ³n y para el incienso aromÃ¡tico;",
+      "por": "<span class=\"verse-number\">6 </span>Azeite para a luz, especiarias para o Ã³leo da unÃ§Ã£o, e especiarias para o incenso,",
+      "fra": "<span class=\"verse-number\">6 </span>de lâhuile pour le chandelier, des aromates pour lâhuile dâonction et pour lâencens aromatiqueÂ ;",
+      "deu": "<span class=\"verse-number\">6Â </span>in Ãl zur Beleuchtung, in GewÃ¼rzkrÃ¤utern fÃ¼r das SalbÃ¶l und fÃ¼r das wohlriechende RÃ¤ucherwerk;",
+      "kor": "<span class=\"verse-number\">6 </span>ë±ì ì ê´ì ì ëë í¥ë£ì ë¶í¥í  í¥ì ë§ë¤ í¥íê³¼",
+      "ita": "<span class=\"verse-number\">6</span> olio per il candelabro, aromi per lâolio dellâunzione e per il profumo odoroso;"
+    },
+    "7": {
+      "eng": "<span class=\"verse-number\">7 </span>Onyx stones, and stones to be set in the ephod, and in the breastplate.",
+      "ara": "<span class=\"verse-number\">Ù§ </span>ÙÙØ­ÙØ¬ÙØ§Ø±ÙØ©Ù Ø¬ÙØ²ÙØ¹Ù ÙÙØ±ÙÙÙÙØ©Ù ÙÙØ­ÙØ¬ÙØ§Ø±ÙØ©Ù ÙÙØ±ÙÙÙÙØ©Ù Ø£ÙØ®ÙØ±ÙÙ ÙÙØªÙØ±ÙØµÙÙØ¹Ù Ø±ÙØ¯ÙØ§Ø¡Ù Ø§ÙÙÙÙØ§ÙÙÙÙ ÙÙØµÙØ¯ÙØ±ÙØªÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">7 </span><ruby><rb>ç¸</rb><rt>ãã¾</rt></ruby>ãã®ããã¨ããã¨<ruby><rb>è¸å½</rb><rt>ãã­ãã¦</rt></ruby>ã«ã¯ãã<ruby><rb>å®ç³</rb><rt>ã»ããã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">7ã</span>çº¢ççä¸å«æ ·çå®ç³ï¼å¯ä»¥é¶åµå¨ä»¥å¼å¾åè¸çä¸ã",
+      "zht": "<span class=\"verse-number\">7ã</span>ç´çªçèå¥æ¨£çå¯¶ç³ï¼å¯ä»¥é²åµå¨ä»¥å¼å¾åè¸çä¸ã",
+      "spa": "<span class=\"verse-number\">7 </span>piedras de Ã³nice y piedras de engaste para el efod y para el pectoral.",
+      "por": "<span class=\"verse-number\">7 </span>Pedras de Ã´nix, e pedras de engaste para o Ã©fode e para o peitoral.",
+      "fra": "<span class=\"verse-number\">7 </span>des pierres dâonyx et dâautres pierres Ã  enchÃ¢sser pour lâÃ©phod et le pectoral.",
+      "deu": "<span class=\"verse-number\">7Â </span>in Onyxsteinen und anderen Edelsteinen zum Besatz fÃ¼r das Schulterkleid und fÃ¼r den Brustschild.",
+      "kor": "<span class=\"verse-number\">7 </span>í¸ë§ë¸ë©° ìë´ê³¼ íí¨ì ë¬¼ë¦´ ë³´ìì´ëë¼",
+      "ita": "<span class=\"verse-number\">7</span> pietre di onice e pietre da incastonare per lâefod e il pettorale."
+    },
+    "8": {
+      "eng": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"Associated Content\"><button aria-label=\"Associated Content\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8 </span>And let them make me a sanctuary; that I may dwell among them.",
+      "ara": "<span class=\"verse-number\">Ù¨ </span>ÙÙÙÙØµÙÙÙØ¹ÙÙÙÙ ÙÙÙ ÙÙÙÙØ¯ÙØ³Ø§Ù Ø­ÙÙÙØ«Ù Ø£ÙÙÙÙÙÙ ÙÙÙÙÙ Ø¨ÙÙÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"é¢é£ã³ã³ãã³ã\"><button aria-label=\"é¢é£ã³ã³ãã³ã\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8 </span>ã¾ãã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã«ãããã®ããã«<ruby><rb>èæ</rb><rt>ãããã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãããªããããããã<ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã®ãã¡ã«<ruby><rb>ä½</rb><rt>ã</rt></ruby>ãããã§ããã",
+      "zhs": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"ç¸å³åå®¹\"><button aria-label=\"ç¸å³åå®¹\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8ã</span>åå½ä¸ºæé å£æï¼ä½¿æå¯ä»¥ä½å¨ä»ä»¬ä¸­é´ã",
+      "zht": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"ç¸éå§å®¹\"><button aria-label=\"ç¸éå§å®¹\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8ã</span>åç¶çºæé èæï¼ä½¿æå¯ä»¥ä½å¨ä»åä¸­éã",
+      "spa": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"Contenido relacionado\"><button aria-label=\"Contenido relacionado\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8 </span>Y me harÃ¡n un santuario, y yo habitarÃ© entre ellos.",
+      "por": "<span class=\"verse-number\">8 </span>E me farÃ£o um santuÃ¡rio, e habitarei no meio deles.",
+      "fra": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"Contenu associÃ©\"><button aria-label=\"Contenu associÃ©\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8 </span>Ils me feront un sanctuaire et jâhabiterai au milieu dâeux.",
+      "deu": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"DazugehÃ¶riger Inhalt\"><button aria-label=\"DazugehÃ¶riger Inhalt\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8Â </span>Sie sollen mir nÃ¤mlich ein Heiligtum herstellen, damit ich mitten unter ihnen wohne.",
+      "kor": "<span class=\"verse-number\">8 </span>ë´ê° ê·¸ë¤ ì¤ì ê±°í  ì±ìë¥¼ ê·¸ë¤ì´ ëë¥¼ ìíì¬ ì§ë",
+      "ita": "<span class=\"iconPointer-OKie_ icon-eLakR icon-ieVZ1\" data-pointer-type=\"media\" data-scroll-id=\"p8\" title=\"Contenuti collegati\"><button aria-label=\"Contenuti collegati\" class=\"iconPointerButton-Z_d47\"><svg class=\"sc-hoLEA jecbzY Icon-Sax6y\" role=\"presentation\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"> <path d=\"M21.523 8.984l.014 12.478H6.028L6.023 8.977l15.5.007zm-17-.772v14c0 .414.335.75.75.75h17a.75.75 0 00.75-.75v-14a.75.75 0 00-.75-.75h-17a.75.75 0 00-.75.75zm11.624 7.32c.242-.342.638-.334.88.01l2.853 4.041c.245.347.106.629-.33.629H8.089c-.418 0-.566-.286-.335-.634l3.99-6.018c.233-.35.606-.355.843.003l2.398 3.616 1.162-1.647zm2.428-2.32a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM17.477 1.026a.75.75 0 01.885.434l.033.096 1.314 4.905h-1.547l-1.015-3.77L2.173 6.694l1.349 5.028v5.804L.526 6.344A.75.75 0 01.96 5.46l.096-.033 16.42-4.4zm-2.86 3.613a1.5 1.5 0 011.841 1.823h-2.906a1.5 1.5 0 011.065-1.823z\" fill=\"currentColor\"> </path></svg></button></span><span class=\"verse-number\">8</span> E mi facciano un santuario perchÃ© io abiti in mezzo a loro."
+    },
+    "9": {
+      "eng": "<span class=\"verse-number\">9 </span>According to all that I shew thee, <span class=\"clarity-word\">after</span> the pattern of the tabernacle, and the pattern of all the instruments thereof, even so shall ye make <span class=\"clarity-word\">it.</span>",
+      "ara": "<span class=\"verse-number\">Ù© </span>ØªÙØµÙÙÙØ¹ÙÙÙÙÙÙ Ø­ÙØ³ÙØ¨Ù ÙÙØ«ÙØ§ÙÙ Ø§ÙÙÙÙØ³ÙÙÙÙÙ ÙÙØ§ÙØ¢ÙÙÙÙØ©Ù Ø§ÙÙÙØªÙÙ Ø£ÙØ±ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">9 </span>ãã¹ã¦ããªãã«<ruby><rb>ç¤º</rb><rt>ãã</rt></ruby>ã<ruby><rb>å¹å±</rb><rt>ã¾ãã</rt></ruby>ã®<ruby><rb>å</rb><rt>ãã</rt></ruby>ããã³ããã®ããããã®<ruby><rb>å¨</rb><rt>ãã¤ã</rt></ruby>ã®<ruby><rb>å</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ã£ã¦ãããã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">9ã</span>å¶é å¸å¹åå¶ä¸­çä¸åå¨å·é½è¦ç§æææç¤ºä½ çæ ·å¼ã",
+      "zht": "<span class=\"verse-number\">9ã</span>è£½é å¸³å¹åå¶ä¸­çä¸åå¨å·é½è¦ç§æææç¤ºä½ çæ¨£å¼ã",
+      "spa": "<span class=\"verse-number\">9 </span>Conforme a todo lo que yo te muestre, el diseÃ±o del tabernÃ¡culo y el diseÃ±o de todos sus enseres, asÃ­ lo harÃ©is.",
+      "por": "<span class=\"verse-number\">9 </span>Conforme tudo o que eu te mostrar <span class=\"clarity-word\">para</span> modelo do tabernÃ¡culo, e para modelo de todos os seus pertences, assim mesmo o fareis.",
+      "fra": "<span class=\"verse-number\">9 </span>Vous ferez le tabernacle et tous ses ustensiles dâaprÃ¨s le modÃ¨le que je vais te montrer.",
+      "deu": "<span class=\"verse-number\">9Â </span>Genau so, wie ich dir das Muster der WohnstÃ¤tte und das Muster aller ihrer GerÃ¤te zeigen werde, so sollt ihr es herstellen.",
+      "kor": "<span class=\"verse-number\">9 </span>ë¬´ë¦ ë´ê° ë¤ê² ë³´ì´ë ëª¨ìëë¡ ì¥ë§ì ì§ê³  ê¸°êµ¬ë¤ë ê·¸ ëª¨ìì ë°ë¼ ì§ìì§ëë¼",
+      "ita": "<span class=\"verse-number\">9</span> Me lo farete in tutto e per tutto secondo il modello del tabernacolo e secondo il modello di tutti i suoi arredi, che io sto per mostrarti."
+    },
+    "10": {
+      "eng": "<span class=\"verse-number\">10 </span><span class=\"para-mark\">Â¶ </span>And they shall make an ark <span class=\"clarity-word\">of</span> shittim wood: two cubits and a half <span class=\"clarity-word\">shall be</span> the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù  </span>ÙÙØµÙÙÙØ¹ÙÙÙÙ ØªÙØ§Ø¨ÙÙØªØ§Ù ÙÙÙÙ Ø®ÙØ´ÙØ¨Ù Ø§ÙØ³ÙÙÙÙØ·ÙØ Ø·ÙÙÙÙÙÙ Ø°ÙØ±ÙØ§Ø¹ÙØ§ÙÙ ÙÙÙÙØµÙÙÙ (ÙÙØ­ÙÙÙ ÙÙØªÙØ±Ù ÙÙØ±ÙØ¨ÙØ¹Ù Ø§ÙÙÙÙØªÙØ±Ù)Ø ÙÙØ¹ÙØ±ÙØ¶ÙÙÙ Ø°ÙØ±ÙØ§Ø¹Ù ÙÙÙÙØµÙÙÙ (ÙÙØ­ÙÙÙ Ø®ÙÙÙØ³ÙØ©Ù ÙÙØ³ÙØ¨ÙØ¹ÙÙÙÙ Ø³ÙÙÙØªÙÙÙÙØªÙØ±Ø§Ù) ÙÙØ§Ø±ÙØªÙÙÙØ§Ø¹ÙÙÙ Ø°ÙØ±ÙØ§Ø¹Ù ÙÙÙÙØµÙÙÙ (ÙÙØ­ÙÙÙ Ø®ÙÙÙØ³ÙØ©Ù ÙÙØ³ÙØ¨ÙØ¹ÙÙÙÙ Ø³ÙÙÙØªÙÙÙÙØªÙØ±Ø§Ù).",
+      "jpn": "<span class=\"verse-number\">10 </span><ruby><rb>å½¼</rb><rt>ãã</rt></ruby>ãã¯ã¢ã«ã·ã¤<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã§<ruby><rb>ç®±</rb><rt>ã¯ã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªãã<ruby><rb>é·</rb><rt>ãªã</rt></ruby>ãã¯äºã­ã¥ãã<ruby><rb>å</rb><rt>ã¯ã</rt></ruby>ã<ruby><rb>å¹</rb><rt>ã¯ã°</rt></ruby>ã¯ä¸ã­ã¥ãã<ruby><rb>å</rb><rt>ã¯ã</rt></ruby>ã<ruby><rb>é«</rb><rt>ãã</rt></ruby>ãã¯ä¸ã­ã¥ãã<ruby><rb>å</rb><rt>ã¯ã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">10ã</span>è¦ç¨çèæ¨åä¸æï¼é¿äºèåï¼å®½ä¸èåï¼é«ä¸èåã",
+      "zht": "<span class=\"verse-number\">10ã</span>è¦ç¨çè¢æ¨åä¸æ«ï¼é·äºèåï¼å¯¬ä¸èåï¼é«ä¸èåã",
+      "spa": "<span class=\"verse-number\">10 </span>HarÃ¡n tambiÃ©n un arca de madera de acacia, cuya longitud serÃ¡ de dos codos y medio, y su anchura de codo y medio, y su altura de codo y medio.",
+      "por": "<span class=\"verse-number\">10 </span>TambÃ©m farÃ£o uma arca de madeira de acÃ¡cia; o seu comprimento <span class=\"clarity-word\">serÃ¡</span> de dois cÃ´vados e meio, e a sua largura de um cÃ´vado e meio, e de um cÃ´vado e meio a sua altura.",
+      "fra": "<span class=\"verse-number\">10 </span>Ils feront une arche en bois dâacacia, sa longueur sera de deux coudÃ©es et demie, sa largeur dâune coudÃ©e et demie et sa hauteur dâune coudÃ©e et demie.",
+      "deu": "<span class=\"verse-number\">10Â </span>Sie sollen also eine Lade aus Akazienholz anfertigen, zweieinhalb Ellen lang, anderthalb Ellen breit und anderthalb Ellen hoch.",
+      "kor": "<span class=\"verse-number\">10 </span>ê·¸ë¤ì ì¡°ê°ëª©ì¼ë¡ ê¶¤ë¥¼ ì§ë ê¸¸ì´ë ë ê·ë¹ ë°, ëë¹ë í ê·ë¹ ë°, ëì´ë í ê·ë¹ ë°ì´ ëê² íê³",
+      "ita": "<span class=\"verse-number\">10</span> Faranno dunque unâarca di legno dâacacia; la sua lunghezza sarÃ  di due cubiti e mezzo, la sua larghezza di un cubito e mezzo, e la sua altezza di un cubito e mezzo."
+    },
+    "11": {
+      "eng": "<span class=\"verse-number\">11 </span>And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¡ </span>ÙÙØªÙØ¶ÙØ¹Ù Ø¹ÙÙÙÙÙÙÙ ØºÙØ´ÙØ§Ø¡Ù ÙÙÙÙ Ø°ÙÙÙØ¨Ù ÙÙÙÙÙÙÙ ÙÙÙÙ Ø§ÙØ¯ÙÙØ§Ø®ÙÙÙ ÙÙØ§ÙÙØ®ÙØ§Ø±ÙØ¬ÙØ ÙÙØ§Ø¬ÙØ¹ÙÙÙ ÙÙÙÙ Ø¥Ø·ÙØ§Ø±Ø§Ù ÙÙÙÙ Ø°ÙÙÙØ¨ÙØ",
+      "jpn": "<span class=\"verse-number\">11 </span>ããªãã¯<ruby><rb>ç´é</rb><rt>ããããã</rt></ruby>ã§ãããããããªããã°ãªããªããããªãã¡<ruby><rb>åå¤</rb><rt>ãªããã</rt></ruby>ã¨ãã«ããããããããã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å¨å²</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é£¾</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¸</rb><rt>ãµã¡</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">11ã</span>è¦éå¤åä¸ç²¾éï¼åå´é¶ä¸éçè¾¹ã",
+      "zht": "<span class=\"verse-number\">11ã</span>è¦è£¡å¤åä¸ç²¾éï¼ååé²ä¸éçéã",
+      "spa": "<span class=\"verse-number\">11 </span>Y la recubrirÃ¡s de oro puro; por dentro y por fuera la recubrirÃ¡s, y harÃ¡s sobre ella una cornisa de oro alrededor.",
+      "por": "<span class=\"verse-number\">11 </span>E cobri-la-Ã¡s de ouro puro, por dentro e por fora a cobrirÃ¡s; e farÃ¡s sobre ela uma bordadura de ouro ao redor;",
+      "fra": "<span class=\"verse-number\">11 </span>Tu la recouvriras dâor pur, tu la recouvriras en dedans et en dehors, et tu y feras une bordure en or tout autour.",
+      "deu": "<span class=\"verse-number\">11Â </span>Du sollst sie mit feinem Gold Ã¼berziehen, und zwar innen und auÃen, und oben einen goldenen Kranz ringsum an ihr anbringen.",
+      "kor": "<span class=\"verse-number\">11 </span>ëë ìê¸ì¼ë¡ ê·¸ê²ì ì¸ë ê·¸ ìíì ì¸ê³  <span class=\"clarity-word\">ììª½ ê°ì¥ìë¦¬ë¡</span> ëìê°ë©° ê¸ íë¥¼ ëë¥´ê³",
+      "ita": "<span class=\"verse-number\">11</span> La rivestirai dâoro puro; la rivestirai cosÃ¬ di dentro e di fuori; e le farai al di sopra una ghirlanda dâoro, che giri intorno."
+    },
+    "12": {
+      "eng": "<span class=\"verse-number\">12 </span>And thou shalt cast four rings of gold for it, and put <span class=\"clarity-word\">them</span> in the four corners thereof; and two rings <span class=\"clarity-word\">shall be</span> in the one side of it, and two rings in the other side of it.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¢ </span>ÙÙØ§Ø³ÙØ¨ÙÙÙ ÙÙÙÙ Ø£ÙØ±ÙØ¨ÙØ¹Ù Ø­ÙÙÙÙÙØ§ØªÙ ÙÙÙÙ Ø°ÙÙÙØ¨Ù ØªÙØ«ÙØ¨ÙÙØªÙÙÙØ§ Ø¹ÙÙÙÙ ÙÙÙÙØ§Ø¦ÙÙÙÙÙ Ø§ÙØ£ÙØ±ÙØ¨ÙØ¹Ù Ø­ÙÙÙÙÙØªÙÙÙÙÙ ÙÙÙÙ ÙÙÙÙÙ Ø¬ÙØ§ÙÙØ¨ÙØ",
+      "jpn": "<span class=\"verse-number\">12 </span>ã¾ã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ç°</rb><rt>ãã</rt></ruby>åã¤ã<ruby><rb>é³</rb><rt>ã</rt></ruby>ã¦ããã®åãã¿ã«<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>ä»</rb><rt>ã¤</rt></ruby>ããªããã°ãªããªããããªãã¡äºã¤ã®<ruby><rb>ç°</rb><rt>ãã</rt></ruby>ããã¡ã<ruby><rb>å´</rb><rt>ãã</rt></ruby>ã«ãäºã¤ã®<ruby><rb>ç°</rb><rt>ãã</rt></ruby>ããã¡ã<ruby><rb>å´</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ä»</rb><rt>ã¤</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">12ã</span>ä¹è¦é¸åä¸ªéç¯ï¼å®å¨æçåèä¸ï¼è¿è¾¹ä¸¤ç¯ï¼é£è¾¹ä¸¤ç¯ã",
+      "zht": "<span class=\"verse-number\">12ã</span>ä¹è¦éååéç°ï¼å®å¨æ«çåè³ä¸ï¼ééå©ç°ï¼é£éå©ç°ã",
+      "spa": "<span class=\"verse-number\">12 </span>Y para ella fundirÃ¡s cuatro argollas de oro, que pondrÃ¡s en sus cuatro esquinas, dos argollas a un lado de ella y dos argollas al otro lado.",
+      "por": "<span class=\"verse-number\">12 </span>E fundirÃ¡s para ela quatro <span class=\"page-break\" data-page=\"138\"></span>argolas de ouro, e <span class=\"clarity-word\">as</span> porÃ¡s nos quatro cantos dela, duas argolas num lado dela, e duas argolas no outro lado.",
+      "fra": "<span class=\"verse-number\">12 </span>Tu fondras pour elle quatre anneaux en or et tu les mettras Ã  ses quatre coins, deux anneaux dâun cÃ´tÃ© et deux anneaux de lâautre cÃ´tÃ©.",
+      "deu": "<span class=\"verse-number\">12Â </span>Sodann gieÃe fÃ¼r sie vier goldene Ringe und befestige sie unten an ihren vier Ecken, und zwar zwei Ringe an ihrer einen Seite und zwei Ringe an ihrer anderen Seite.",
+      "kor": "<span class=\"verse-number\">12 </span>ê¸ ê³ ë¦¬ ë·ì ë¶ì´ ë§ë¤ì´ ê·¸ ë¤ ë°ì ë¬ë ì´ìª½ì ë ê³ ë¦¬ ì ìª½ì ë ê³ ë¦¬ë¥¼ ë¬ë©°",
+      "ita": "<span class=\"verse-number\">12</span> Fonderai per essa quattro anelli dâoro, che metterai ai suoi quattro piedi: due anelli da un lato e due anelli dallâaltro lato."
+    },
+    "13": {
+      "eng": "<span class=\"verse-number\">13 </span>And thou shalt make staves <span class=\"clarity-word\">of</span> shittim wood, and overlay them with gold.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù£ </span>ÙÙØªÙØµÙÙÙØ¹Ù Ø¹ÙØµÙÙÙÙÙÙÙ ÙÙÙÙ Ø®ÙØ´ÙØ¨Ù Ø§ÙØ³ÙÙÙÙØ·Ù ØªÙØºÙØ´ÙÙÙÙÙÙÙØ§ Ø¨ÙØ§ÙØ°ÙÙÙÙØ¨ÙØ",
+      "jpn": "<span class=\"verse-number\">13 </span>ã¾ãã¢ã«ã·ã¤<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã®ããã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã§ãããããããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">13ã</span>è¦ç¨çèæ¨åä¸¤æ ¹æ ï¼ç¨éåè£¹ã",
+      "zht": "<span class=\"verse-number\">13ã</span>è¦ç¨çè¢æ¨åå©æ ¹æ§ï¼ç¨éåè£¹ã",
+      "spa": "<span class=\"verse-number\">13 </span>Y harÃ¡s unas varas de madera de acacia, las cuales recubrirÃ¡s de oro.",
+      "por": "<span class=\"verse-number\">13 </span>E farÃ¡s varas <span class=\"clarity-word\">de</span> madeira de acÃ¡cia, e as cobrirÃ¡s com ouro,",
+      "fra": "<span class=\"verse-number\">13 </span>Tu feras des barres en bois dâacacia et tu les recouvriras dâor.",
+      "deu": "<span class=\"verse-number\">13Â </span>Weiter fertige zwei Stangen aus Akazienholz an, Ã¼berziehe sie mit Gold",
+      "kor": "<span class=\"verse-number\">13 </span>ì¡°ê°ëª©ì¼ë¡ ì±ë¥¼ ë§ë¤ì´ ê¸ì¼ë¡ ì¸ê³",
+      "ita": "<span class=\"verse-number\">13</span> Farai anche delle stanghe di legno dâacacia, e le rivestirai dâoro."
+    },
+    "14": {
+      "eng": "<span class=\"verse-number\">14 </span>And thou shalt put the staves into the rings by the sides of the ark, that the ark may be borne with them.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¤ </span>Ø«ÙÙÙÙ ØªÙØ¯ÙØ®ÙÙÙÙÙÙÙØ§ ÙÙÙ Ø§ÙØ­ÙÙÙÙÙØ§ØªÙ Ø§ÙÙÙØªÙÙ Ø¹ÙÙÙÙ Ø¬ÙØ§ÙÙØ¨ÙÙÙ Ø§ÙØªÙÙØ§Ø¨ÙÙØªÙ ÙÙÙÙØ­ÙÙÙÙÙ Ø¨ÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">14 </span>ããã¦ãã®ããã<ruby><rb>ç®±</rb><rt>ã¯ã</rt></ruby>ã®<ruby><rb>å´é¢</rb><rt>ãããã</rt></ruby>ã®<ruby><rb>ç°</rb><rt>ãã</rt></ruby>ã«<ruby><rb>é</rb><rt>ã¨ã</rt></ruby>ããããã§<ruby><rb>ç®±</rb><rt>ã¯ã</rt></ruby>ããã¤ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">14ã</span>è¦ææ ç©¿å¨ææçç¯åï¼ä»¥ä¾¿æ¬æã",
+      "zht": "<span class=\"verse-number\">14ã</span>è¦ææ§ç©¿å¨æ«æçç°å§ï¼ä»¥ä¾¿æ¬æ«ã",
+      "spa": "<span class=\"verse-number\">14 </span>Y meterÃ¡s las varas por las argollas a los lados del arca, para llevar el arca con ellas.",
+      "por": "<span class=\"verse-number\">14 </span>E colocarÃ¡s as varas nas argolas, aos lados da arca, para levar-se com elas a arca.",
+      "fra": "<span class=\"verse-number\">14 </span>Tu passeras les barres dans les anneaux sur les cÃ´tÃ©s de lâarche, pour quâelles servent Ã  porter lâarcheÂ ;",
+      "deu": "<span class=\"verse-number\">14Â </span>und stecke diese Stangen in die Ringe an den Seiten der Lade, damit man die Lade tragen kann.",
+      "kor": "<span class=\"verse-number\">14 </span>ê·¸ ì±ë¥¼ ê¶¤ ììª½ ê³ ë¦¬ì ê¿°ì´ì ê¶¤ë¥¼ ë©ê² íë©°",
+      "ita": "<span class=\"verse-number\">14</span> E farai passare le stanghe per gli anelli ai lati dellâarca, perchÃ© servano a portarla."
+    },
+    "15": {
+      "eng": "<span class=\"verse-number\">15 </span>The staves shall be in the rings of the ark: they shall not be taken from it.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¥ </span>ÙÙØªÙØ¨ÙÙÙÙ Ø§ÙÙØ¹ÙØµÙÙÙØ§ÙÙ ÙÙÙ Ø­ÙÙÙÙÙØ§ØªÙ Ø§ÙØªÙÙØ§Ø¨ÙÙØªÙØ ÙÙØ§ ØªÙÙÙØ²ÙØ¹ÙØ§ÙÙ ÙÙÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">15 </span>ããã¯<ruby><rb>ç®±</rb><rt>ã¯ã</rt></ruby>ã®<ruby><rb>ç°</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å·®</rb><rt>ã</rt></ruby>ãã¦<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ããããã<ruby><rb>æ</rb><rt>ã¬</rt></ruby>ã<ruby><rb>æ¾</rb><rt>ã¯ãª</rt></ruby>ãã¦ã¯ãªããªãã",
+      "zhs": "<span class=\"verse-number\">15ã</span>è¿æ è¦å¸¸å¨æçç¯åï¼ä¸å¯æ½åºæ¥ã",
+      "zht": "<span class=\"verse-number\">15ã</span>éæ§è¦å¸¸å¨æ«çç°å§ï¼ä¸å¯æ½åºä¾ã",
+      "spa": "<span class=\"verse-number\">15 </span>Las varas quedarÃ¡n en las argollas del arca; no se quitarÃ¡n de ella.",
+      "por": "<span class=\"verse-number\">15 </span>As varas estarÃ£o nas argolas da arca; nÃ£o se tirarÃ£o dela.",
+      "fra": "<span class=\"verse-number\">15 </span>les barres resteront dans les anneaux de lâarche et nâen seront pas retirÃ©es.",
+      "deu": "<span class=\"verse-number\">15Â </span>Die Stangen sollen in den Ringen der Lade verbleiben. Sie dÃ¼rfen nicht daraus entfernt werden.",
+      "kor": "<span class=\"verse-number\">15 </span>ì±ë¥¼ ê¶¤ì ê³ ë¦¬ì ê¿´ ëë¡ ëê³  ë¹¼ë´ì§ ë§ì§ë©°",
+      "ita": "<span class=\"verse-number\">15</span> Le stanghe rimarranno negli anelli dellâarca; non ne saranno tratte fuori."
+    },
+    "16": {
+      "eng": "<span class=\"verse-number\">16 </span>And thou shalt put into the ark the testimony which I shall give thee.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¦ </span>Ø«ÙÙÙÙ ØªÙØ¶ÙØ¹Ù Ø§ÙØ´ÙÙÙÙØ§Ø¯ÙØ©Ù Ø§ÙÙÙØªÙÙ Ø£ÙØ¹ÙØ·ÙÙÙÙ ÙÙÙ Ø¯ÙØ§Ø®ÙÙÙ Ø§ÙØªÙÙØ§Ø¨ÙÙØªÙ.",
+      "jpn": "<span class=\"verse-number\">16 </span>ããã¦ãã®<ruby><rb>ç®±</rb><rt>ã¯ã</rt></ruby>ã«ãããããããªãã«<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ãããããã®<ruby><rb>æ¿</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç´</rb><rt>ãã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">16ã</span>å¿å°ææè¦èµç»ä½ çæ³çæ¾å¨æéã",
+      "zht": "<span class=\"verse-number\">16ã</span>å¿å°ææè¦è³çµ¦ä½ çæ³çæ¾å¨æ«è£¡ã",
+      "spa": "<span class=\"verse-number\">16 </span>Y pondrÃ¡s en el arca el testimonio que yo te darÃ©.",
+      "por": "<span class=\"verse-number\">16 </span>Depois porÃ¡s na arca o testemunho, que eu te darei.",
+      "fra": "<span class=\"verse-number\">16 </span>Tu mettras dans lâarche le tÃ©moignage que je te donnerai.",
+      "deu": "<span class=\"verse-number\">16Â </span>In die Lade sollst du dann das Gesetz legen, das ich dir geben werde.",
+      "kor": "<span class=\"verse-number\">16 </span>ë´ê° ë¤ê² ì¤ ì¦ê±°<span class=\"clarity-word\">í</span>ì ê¶¤ ìì ëì§ë©°",
+      "ita": "<span class=\"verse-number\">16</span> E metterai nellâarca la testimonianza che ti darÃ²."
+    },
+    "17": {
+      "eng": "<span class=\"verse-number\">17 </span>And thou shalt make a mercy seat <span class=\"clarity-word\">of</span> pure gold: two cubits and a half <span class=\"clarity-word\">shall be</span> the length thereof, and a cubit and a half the breadth thereof.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù§ </span>ÙÙØªÙØµÙÙÙØ¹Ù ØºÙØ·ÙØ§Ø¡Ù ÙÙÙÙ Ø°ÙÙÙØ¨Ù Ø®ÙØ§ÙÙØµÙØ ÙÙÙÙ ÙÙØ±ÙØ³ÙÙÙÙ Ø§ÙØ±ÙÙØ­ÙÙÙØ©ÙØ Ø·ÙÙÙÙÙÙ Ø°ÙØ±ÙØ§Ø¹ÙØ§ÙÙ ÙÙÙÙØµÙÙÙ (ÙÙØ­ÙÙÙ ÙÙØªÙØ±Ù ÙÙØ±ÙØ¨ÙØ¹Ù Ø§ÙÙÙÙØªÙØ±Ù) ÙÙØ¹ÙØ±ÙØ¶ÙÙÙ Ø°ÙØ±ÙØ§Ø¹Ù ÙÙÙÙØµÙÙÙ (ÙÙØ­ÙÙÙ Ø®ÙÙÙØ³ÙØ©Ù ÙÙØ³ÙØ¨ÙØ¹ÙÙÙÙ Ø³ÙÙÙØªÙÙÙÙØªÙØ±Ø§Ù)",
+      "jpn": "<span class=\"verse-number\">17 </span>ã¾ã<ruby><rb>ç´é</rb><rt>ããããã</rt></ruby>ã®<ruby><rb>è´ç½ªæ</rb><rt>ããããããã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªãã<ruby><rb>é·</rb><rt>ãªã</rt></ruby>ãã¯äºã­ã¥ãã<ruby><rb>å</rb><rt>ã¯ã</rt></ruby>ã<ruby><rb>å¹</rb><rt>ã¯ã°</rt></ruby>ã¯ä¸ã­ã¥ãã<ruby><rb>å</rb><rt>ã¯ã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">17ã</span>è¦ç¨ç²¾éåæ½æ©åº§ï¼é¿äºèåï¼å®½ä¸èåã",
+      "zht": "<span class=\"verse-number\">17ã</span>è¦ç¨ç²¾éåæ½æ©åº§ï¼é·äºèåï¼å¯¬ä¸èåã",
+      "spa": "<span class=\"verse-number\">17 </span>Y harÃ¡s un propiciatorio de oro fino, cuya longitud serÃ¡ de dos codos y medio, y su anchura de codo y medio.",
+      "por": "<span class=\"verse-number\">17 </span>TambÃ©m farÃ¡s um propiciatÃ³rio de ouro puro; o seu comprimento <span class=\"clarity-word\">serÃ¡</span> de dois cÃ´vados e meio, e a sua largura de um cÃ´vado e meio.",
+      "fra": "<span class=\"verse-number\">17 </span>Tu feras un propitiatoire en or purÂ ; sa longueur sera de deux coudÃ©es et demie et sa largeur dâune coudÃ©e et demie.",
+      "deu": "<span class=\"verse-number\">17Â </span>Sodann fertige eine SÃ¼hneplatte aus feinem Gold an, zweieinhalb Ellen lang und anderthalb Ellen breit.",
+      "kor": "<span class=\"verse-number\">17 </span>ìê¸ì¼ë¡ ìì£ìë¥¼ ë§ë¤ë ê¸¸ì´ë ë ê·ë¹ ë°, ëë¹ë í ê·ë¹ ë°ì´ ëê² íê³",
+      "ita": "<span class=\"verse-number\">17</span> Farai anche un propiziatorio dâoro puro; la sua lunghezza sarÃ  di due cubiti e mezzo, e la sua larghezza di un cubito e mezzo."
+    },
+    "18": {
+      "eng": "<span class=\"verse-number\">18 </span>And thou shalt make two cherubims <span class=\"clarity-word\">of</span> gold, <span class=\"clarity-word\">of</span> beaten work shalt thou make them, in the two ends of the mercy seat.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù¨ </span>ÙÙØªÙØ®ÙØ±ÙØ·Ù ÙÙØ±ÙÙØ¨ÙÙÙÙÙ (ØªÙÙÙØ«ÙØ§ÙÙÙÙ ÙÙÙØ§ÙÙÙÙÙÙ) ÙÙÙÙ Ø°ÙÙÙØ¨Ù ÙÙØªÙÙÙÙÙÙÙÙÙÙØ§ Ø¹ÙÙÙÙ Ø·ÙØ±ÙÙÙÙÙ Ø§ÙÙØºÙØ·ÙØ§Ø¡Ù.",
+      "jpn": "<span class=\"verse-number\">18 </span>ã¾ãäºã¤ã®<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®ã±ã«ãã ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªããããã<ruby><rb>æç©</rb><rt>ãã¡ãã®</rt></ruby><ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãã¨ãã<ruby><rb>è´ç½ªæ</rb><rt>ããããããã</rt></ruby>ã®<ruby><rb>ä¸¡ç«¯</rb><rt>ãããã¯ã</rt></ruby>ã«<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">18ã</span>è¦ç¨éå­é¤åºä¸¤ä¸ªåºè·¯ä¼¯æ¥ï¼å®å¨æ½æ©åº§çä¸¤å¤´ã",
+      "zht": "<span class=\"verse-number\">18ã</span>è¦ç¨éå­éåºå©ååºè·¯ä¼¯ä¾ï¼å®å¨æ½æ©åº§çå©é ­ã",
+      "spa": "<span class=\"verse-number\">18 </span>HarÃ¡s tambiÃ©n dos querubines de oro; labrados a martillo los harÃ¡s en los dos extremos del propiciatorio.",
+      "por": "<span class=\"verse-number\">18 </span>FarÃ¡s tambÃ©m dois querubins de ouro, de ouro batido os farÃ¡s, nas duas extremidades do propiciatÃ³rio.",
+      "fra": "<span class=\"verse-number\">18 </span>Tu feras deux chÃ©rubins en or, tu les feras en or battu, aux deux extrÃ©mitÃ©s du propitiatoireÂ ;",
+      "deu": "<span class=\"verse-number\">18Â </span>Weiter sollst du zwei goldene Kerubim anfertigen, und zwar in getriebener Arbeit, an den beiden Enden der SÃ¼hneplatte.",
+      "kor": "<span class=\"verse-number\">18 </span>ê¸ì¼ë¡ ê·¸ë£¹ ëì ìì£ì ë ëì ì³ì ë§ë¤ë",
+      "ita": "<span class=\"verse-number\">18</span> E farai due cherubini dâoro; li farai lavorati al martello, alle due estremitÃ  del propiziatorio;"
+    },
+    "19": {
+      "eng": "<span class=\"verse-number\">19 </span>And make one cherub on the one end, and the other cherub on the other end: <span class=\"clarity-word\">even</span> of the mercy seat <span class=\"page-break\" data-page=\"118\"></span>shall ye make the cherubims on the two ends thereof.",
+      "ara": "<span class=\"verse-number\">Ù¡Ù© </span>ÙÙØªÙØµÙÙÙØ¹Ù ÙÙØ±ÙÙØ¨Ø§Ù ÙÙØ§Ø­ÙØ¯Ø§Ù Ø¹ÙÙÙÙ ÙÙÙÙÙ Ø·ÙØ±ÙÙÙ ÙÙÙÙ Ø§ÙÙØºÙØ·ÙØ§Ø¡ÙØ ÙÙØ®ÙØ±ÙÙØ·ÙÙÙÙÙ ÙÙÙÙ Ø§ÙÙØºÙØ·ÙØ§Ø¡Ù ÙÙÙÙØ³ÙÙÙØ ÙÙÙÙØ§Ø¦ÙÙÙÙÙÙÙ Ø¹ÙÙÙÙ Ø·ÙØ±ÙÙÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">19 </span>ä¸ã¤ã®ã±ã«ãããã®<ruby><rb>ç«¯</rb><rt>ã¯ã</rt></ruby>ã«ãä¸ã¤ã®ã±ã«ãããã®<ruby><rb>ç«¯</rb><rt>ã¯ã</rt></ruby>ã«<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããã±ã«ãã ã<ruby><rb>è´ç½ªæ</rb><rt>ããããããã</rt></ruby>ã®<ruby><rb>ä¸é¨</rb><rt>ãã¡ã¶</rt></ruby>ã¨ãã¦ãã®<ruby><rb>ä¸¡ç«¯</rb><rt>ãããã¯ã</rt></ruby>ã«<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">19ã</span>è¿å¤´åä¸ä¸ªåºè·¯ä¼¯ï¼é£å¤´åä¸ä¸ªåºè·¯ä¼¯ï¼äºåºè·¯ä¼¯è¦æ¥è¿ä¸åï¼å¨æ½æ©åº§çä¸¤å¤´ã",
+      "zht": "<span class=\"verse-number\">19ã</span>éé ­åä¸ååºè·¯ä¼¯ï¼é£é ­åä¸ååºè·¯ä¼¯ï¼äºåºè·¯ä¼¯è¦æ¥é£ä¸å¡ï¼å¨æ½æ©åº§çå©é ­ã",
+      "spa": "<span class=\"verse-number\">19 </span>HarÃ¡s, pues, un querubÃ­n en un extremo, y un querubÃ­n en el otro extremo; harÃ¡s el propiciatorio con los querubines en sus dos extremos, de una sola pieza.",
+      "por": "<span class=\"verse-number\">19 </span>FarÃ¡s um querubim na extremidade de uma parte, e o outro querubim na extremidade da outra parte; de uma sÃ³ peÃ§a com o propiciatÃ³rio, fareis os querubins nas duas extremidades dele.",
+      "fra": "<span class=\"verse-number\">19 </span>fais un chÃ©rubin Ã  lâune des extrÃ©mitÃ©s et un chÃ©rubin Ã  lâautre extrÃ©mitÃ©Â ; vous ferez les chÃ©rubins sortant du propitiatoire Ã  ses deux extrÃ©mitÃ©s.",
+      "deu": "<span class=\"verse-number\">19Â </span>Den einen Kerub sollst du am Ende der einen Seite und den anderen Kerub am Ende der anderen Seite anbringen; mit der SÃ¼hneplatte zu einem StÃ¼ck verbunden sollt ihr die Kerubim an den beiden Enden der SÃ¼hneplatte anbringen.",
+      "kor": "<span class=\"verse-number\">19 </span>í ê·¸ë£¹ì ì´ ëì, ë í ê·¸ë£¹ì ì  ëì ê³§ ìì£ì ë ëì ìì£ìì í ë©ì´ë¡ ì°ê²°í ì§ë©°",
+      "ita": "<span class=\"verse-number\">19</span> faâ un cherubino a una delle estremitÃ , e un cherubino allâaltra; farete che questi cherubini escano dal propiziatorio alle due estremitÃ ."
+    },
+    "20": {
+      "eng": "<span class=\"verse-number\">20 </span>And the cherubims shall stretch forth <span class=\"clarity-word\">their</span> wings on high, covering the mercy seat with their wings, and their faces <span class=\"clarity-word\">shall look</span> one to another; toward the mercy seat shall the faces of the cherubims be.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù  </span>ÙÙÙÙÙÙÙÙÙ Ø§ÙÙÙÙØ±ÙÙØ¨ÙØ§ÙÙ ÙÙØªÙÙÙØ§Ø¬ÙÙÙÙÙÙÙ Ø£ÙÙÙØ¶Ø§ÙØ Ø¨ÙØ§Ø³ÙØ·ÙÙÙÙÙ Ø£ÙØ¬ÙÙÙØ­ÙØªÙÙÙÙÙØ§ Ø¥ÙÙÙÙ ÙÙÙÙÙÙØ ÙÙØ¸ÙÙÙÙÙØ§ÙÙ Ø¨ÙÙÙÙÙØ§ Ø§ÙÙØºÙØ·ÙØ§Ø¡ÙØ ÙÙÙÙØªÙÙØ¬ÙÙÙØ§ÙÙ Ø¨ÙÙÙØ¬ÙÙÙÙÙÙÙÙÙØ§ ÙÙØ­ÙÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">20 </span>ã±ã«ãã ã¯<ruby><rb>ç¿¼</rb><rt>ã¤ã°ã</rt></ruby>ã<ruby><rb>é«</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä¼¸</rb><rt>ã®</rt></ruby>ã¹ããã®<ruby><rb>ç¿¼</rb><rt>ã¤ã°ã</rt></ruby>ããã£ã¦<ruby><rb>è´ç½ªæ</rb><rt>ããããããã</rt></ruby>ããããã<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>äº</rb><rt>ããã</rt></ruby>ã«ããã<ruby><rb>å</rb><rt>ã</rt></ruby>ããã±ã«ãã ã®<ruby><rb>é¡</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>è´ç½ªæ</rb><rt>ããããããã</rt></ruby>ã«ããããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">20ã</span>äºåºè·¯ä¼¯è¦é«å¼ ç¿èï¼é®æ©æ½æ©åº§ãåºè·¯ä¼¯è¦è¸å¯¹è¸ï¼æçæ½æ©åº§ã",
+      "zht": "<span class=\"verse-number\">20ã</span>äºåºè·¯ä¼¯è¦é«å¼µç¿èï¼é®æ©æ½æ©åº§ãåºè·¯ä¼¯è¦èå°èï¼æèæ½æ©åº§ã",
+      "spa": "<span class=\"verse-number\">20 </span>Y los querubines extenderÃ¡n por encima las alas, cubriendo el propiciatorio con sus alas; sus rostros estarÃ¡n el uno enfrente del otro; mirando hacia el propiciatorio los rostros de los querubines.",
+      "por": "<span class=\"verse-number\">20 </span>Os querubins estenderÃ£o as <span class=\"clarity-word\">suas</span> asas por cima, cobrindo com as suas asas o propiciatÃ³rio; as faces deles uma defronte da outra; as faces dos querubins voltadas para o propiciatÃ³rio.",
+      "fra": "<span class=\"verse-number\">20 </span>Les chÃ©rubins Ã©tendront les ailes par-dessus, couvrant de leurs ailes le propitiatoire et se faisant face lâun Ã  lâautreÂ ; les chÃ©rubins auront la face tournÃ©e vers le propitiatoire.",
+      "deu": "<span class=\"verse-number\">20Â </span>Die Kerubim sollen die FlÃ¼gel nach oben hin ausgebreitet halten, sodass sie die SÃ¼hneplatte mit ihren FlÃ¼geln Ã¼berdecken; ihre Gesichter sollen einander zugekehrt und zugleich zur SÃ¼hneplatte hin gerichtet sein.",
+      "kor": "<span class=\"verse-number\">20 </span>ê·¸ë£¹ë¤ì ê·¸ ë ê°ë¥¼ ëì´ í´ì ê·¸ ë ê°ë¡ ìì£ìë¥¼ ë®ì¼ë©° ê·¸ ì¼êµ´ì ìë¡ ëíì¬ ìì£ìë¥¼ í¥íê² íê³",
+      "ita": "<span class=\"verse-number\">20</span> E i cherubini avranno le ali spiegate in alto, in modo da coprire il propiziatorio con le loro ali; avranno la faccia volta lâuno verso lâaltro; le facce dei cherubini saranno volte verso il propiziatorio."
+    },
+    "21": {
+      "eng": "<span class=\"verse-number\">21 </span>And thou shalt put the mercy seat above upon the ark; and in the ark thou shalt put the testimony that I shall give thee.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¡ </span>ÙÙØªÙØ¶ÙØ¹Ù Ø§ÙÙØºÙØ·ÙØ§Ø¡Ù ÙÙÙÙÙÙ Ø§ÙØªÙÙØ§Ø¨ÙÙØªÙ Ø§ÙÙÙØ°ÙÙ ØªÙØ­ÙØªÙÙÙØ¸Ù Ø¨ÙØ¯ÙØ§Ø®ÙÙÙÙÙ Ø¨ÙÙÙÙÙØ­ÙÙÙ Ø§ÙØ´ÙÙÙÙØ§Ø¯ÙØ©Ù Ø§ÙÙÙØªÙÙ Ø£ÙØ¹ÙØ·ÙÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">21 </span>ããªãã¯<ruby><rb>è´ç½ªæ</rb><rt>ããããããã</rt></ruby>ã<ruby><rb>ç®±</rb><rt>ã¯ã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ãã<ruby><rb>ç®±</rb><rt>ã¯ã</rt></ruby>ã®<ruby><rb>ä¸­</rb><rt>ãªã</rt></ruby>ã«ã¯ãããã<ruby><rb>æ</rb><rt>ãã¥</rt></ruby>ãããããã®<ruby><rb>æ¿</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç´</rb><rt>ãã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">21ã</span>è¦å°æ½æ©åº§å®å¨æçä¸è¾¹ï¼åå°ææè¦èµç»ä½ çæ³çæ¾å¨æéã",
+      "zht": "<span class=\"verse-number\">21ã</span>è¦å°æ½æ©åº§å®å¨æ«çä¸éï¼åå°ææè¦è³çµ¦ä½ çæ³çæ¾å¨æ«è£¡ã",
+      "spa": "<span class=\"verse-number\">21 </span>Y pondrÃ¡s el propiciatorio encima del arca, y en el arca pondrÃ¡s el testimonio que yo te darÃ©.",
+      "por": "<span class=\"verse-number\">21 </span>E porÃ¡s o propiciatÃ³rio em cima da arca, depois que houveres posto na arca o testemunho que eu te darei.",
+      "fra": "<span class=\"verse-number\">21 </span>Tu mettras le propitiatoire sur lâarche et tu mettras dans lâarche le tÃ©moignage que je te donnerai.",
+      "deu": "<span class=\"verse-number\">21Â </span>Die SÃ¼hneplatte sollst du dann oben auf die Lade legen; und in die Lade sollst du das Gesetz legen, das ich dir geben werde.",
+      "kor": "<span class=\"verse-number\">21 </span>ìì£ìë¥¼ ê¶¤ ìì ì¹ê³  ë´ê° ë¤ê² ì¤ ì¦ê±°<span class=\"clarity-word\">í</span>ì ê¶¤ ìì ë£ì¼ë¼",
+      "ita": "<span class=\"verse-number\">21</span> E metterai il propiziatorio in alto, sopra lâarca; e nellâarca metterai la testimonianza che ti darÃ²."
+    },
+    "22": {
+      "eng": "<span class=\"verse-number\">22 </span>And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims which <span class=\"clarity-word\">are</span> upon the ark of the testimony, of all <span class=\"clarity-word\">things</span> which I will give thee in commandment unto the children of Israel.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¢ </span>ÙÙÙÙÙÙØ§ÙÙ Ø£ÙØ¬ÙØªÙÙÙØ¹Ù Ø¨ÙÙÙ ÙÙØ£ÙÙÙÙÙÙÙÙÙÙ Ø¨ÙÙÙÙÙÙ ÙÙØ§ Ø£ÙÙØµÙÙÙÙ Ø¨ÙÙÙ ÙÙØªÙØ¨ÙÙÙÙØºÙÙÙ ÙÙØ¨ÙÙÙÙ Ø¥ÙØ³ÙØ±ÙØ§Ø¦ÙÙÙÙ ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙØºÙØ·ÙØ§Ø¡ÙØ ÙÙØ§ Ø¨ÙÙÙÙÙ Ø§ÙÙÙÙØ±ÙÙØ¨ÙÙÙÙÙ Ø§ÙÙÙÙØ°ÙÙÙÙÙ ÙÙØ¹ÙÙÙÙÙØ§ÙÙ ØªÙØ§Ø¨ÙÙØªÙ Ø§ÙØ´ÙÙÙÙØ§Ø¯ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">22 </span>ãã®<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã§ãããã¯ããªãã«<ruby><rb>ä¼</rb><rt>ã</rt></ruby>ãã<ruby><rb>è´ç½ªæ</rb><rt>ããããããã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ããããããã®<ruby><rb>ç®±</rb><rt>ã¯ã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ããäºã¤ã®ã±ã«ãã ã®<ruby><rb>é</rb><rt>ããã </rt></ruby>ãããã¤ã¹ã©ã¨ã«ã®<ruby><rb>äººã</rb><rt>ã²ã¨ã³ã¨</rt></ruby>ã®ããã«ããããã<ruby><rb>å½</rb><rt>ãã</rt></ruby>ãããã¨ããããããã®<ruby><rb>äº</rb><rt>ãã¨</rt></ruby>ããããªãã«<ruby><rb>èª</rb><rt>ãã</rt></ruby>ãã§ãããã",
+      "zhs": "<span class=\"verse-number\">22ã</span>æè¦å¨é£éä¸ä½ ç¸ä¼ï¼åè¦ä»æ³ææ½æ©åº§ä¸äºåºè·¯ä¼¯ä¸­é´ï¼åä½ è¯´ææè¦å©åä½ ä¼ ç»<u>ä»¥è²å</u>äººçä¸åäºã",
+      "zht": "<span class=\"verse-number\">22ã</span>æè¦å¨é£è£¡èä½ ç¸æï¼åè¦å¾æ³æ«æ½æ©åº§ä¸äºåºè·¯ä¼¯ä¸­éï¼åä½ èªªææè¦å©åä½ å³çµ¦<u>ä»¥è²å</u>äººçä¸åäºã",
+      "spa": "<span class=\"verse-number\">22 </span>Y allÃ­ me reunirÃ© contigo, y hablarÃ© contigo desde el propiciatorio, de entre los dos querubines que estÃ¡n sobre el arca del testimonio, de todo lo que yo te mande para los hijos de Israel.",
+      "por": "<span class=\"verse-number\">22 </span>E ali me encontrarei contigo, e falarei contigo de cima do propiciatÃ³rio, do meio dos dois querubins (que estÃ£o sobre a arca do testemunho), tudo o que eu te ordenar para os filhos de Israel.",
+      "fra": "<span class=\"verse-number\">22 </span>Câest lÃ  que je te rencontreraiÂ ; du haut du propitiatoire, entre les deux chÃ©rubins placÃ©s sur lâarche du tÃ©moignage, je te donnerai tous mes ordres pour les enfants dâIsraÃ«l.",
+      "deu": "<span class=\"verse-number\">22Â </span>Dort will ich mit dir dann zusammenkommen; und von der SÃ¼hneplatte herab, aus dem Raum zwischen den beiden Kerubim hervor, die auf der Gesetzeslade stehen, will ich dir alles mitteilen, was ich den Israeliten durch dich auftragen werde.",
+      "kor": "<span class=\"verse-number\">22 </span>ê±°ê¸°ì ë´ê° ëì ë§ëê³  ìì£ì ì ê³§ ì¦ê±°ê¶¤ ìì ìë ë ê·¸ë£¹ ì¬ì´ìì ë´ê° ì´ì¤ë¼ì ììì ìíì¬ ë¤ê² ëªë ¹í  ëª¨ë  ì¼ì ë¤ê² ì´ë¥´ë¦¬ë¼",
+      "ita": "<span class=\"verse-number\">22</span> LÃ¬ io mi incontrerÃ² con te; e di sul propiziatorio, fra i due cherubini che sono sullâarca della testimonianza, ti comunicherÃ² tutti gli ordini che avrÃ² da darti per i figli dâIsraele."
+    },
+    "23": {
+      "eng": "<span class=\"verse-number\">23 </span><span class=\"para-mark\">Â¶ </span>Thou shalt also make a table <span class=\"clarity-word\">of</span> shittim wood: two cubits <span class=\"clarity-word\">shall be</span> the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù£ </span>ÙÙÙÙØ°ÙÙÙÙÙ ØªÙØµÙÙÙØ¹Ù ÙÙØ§Ø¦ÙØ¯ÙØ©Ù ÙÙÙÙ Ø®ÙØ´ÙØ¨Ù Ø§ÙØ³ÙÙÙÙØ·Ù Ø·ÙÙÙÙÙÙØ§ Ø°ÙØ±ÙØ§Ø¹ÙØ§ÙÙ (ÙÙØ­ÙÙÙ ÙÙØªÙØ±Ù) ÙÙØ¹ÙØ±ÙØ¶ÙÙÙØ§ Ø°ÙØ±ÙØ§Ø¹Ù (ÙÙØ­ÙÙÙ Ø®ÙÙÙØ³ÙÙÙÙ Ø³ÙÙÙØªÙÙÙÙØªÙØ±Ø§Ù) ÙÙØ§Ø±ÙØªÙÙÙØ§Ø¹ÙÙÙØ§ Ø°ÙØ±ÙØ§Ø¹Ù ÙÙÙÙØµÙÙÙ (ÙÙØ­ÙÙÙ Ø®ÙÙÙØ³ÙØ©Ù ÙÙØ³ÙØ¨ÙØ¹ÙÙÙÙ Ø³ÙÙÙØªÙÙÙÙØªÙØ±Ø§Ù)",
+      "jpn": "<span class=\"verse-number\">23 </span>ããªãã¯ã¾ãã¢ã«ã·ã¤<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã®<ruby><rb>æº</rb><rt>ã¤ãã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªãã<ruby><rb>é·</rb><rt>ãªã</rt></ruby>ãã¯äºã­ã¥ããã<ruby><rb>å¹</rb><rt>ã¯ã°</rt></ruby>ã¯ä¸ã­ã¥ããã<ruby><rb>é«</rb><rt>ãã</rt></ruby>ãã¯ä¸ã­ã¥ãã<ruby><rb>å</rb><rt>ã¯ã</rt></ruby>ã",
+      "zhs": "<span class=\"verse-number\">23ã</span>è¦ç¨çèæ¨åä¸å¼ æ¡å­ï¼é¿äºèï¼å®½ä¸èï¼é«ä¸èåã",
+      "zht": "<span class=\"verse-number\">23ã</span>è¦ç¨çè¢æ¨åä¸å¼µæ¡å­ï¼é·äºèï¼å¯¬ä¸èï¼é«ä¸èåã",
+      "spa": "<span class=\"verse-number\">23 </span>HarÃ¡s asimismo una mesa de madera de acacia; su longitud serÃ¡ de dos codos, y de un codo su anchura, y su altura de codo y medio.",
+      "por": "<span class=\"verse-number\">23 </span>TambÃ©m farÃ¡s uma mesa <span class=\"clarity-word\">de</span> madeira de acÃ¡cia; o seu comprimento <span class=\"clarity-word\">serÃ¡</span> de dois cÃ´vados, e a sua largura, de um cÃ´vado, e a sua altura, de um cÃ´vado e meio,",
+      "fra": "<span class=\"verse-number\">23 </span>Tu feras une table en bois dâacaciaÂ ; sa longueur sera de deux coudÃ©es, sa largeur dâune coudÃ©e et sa hauteur dâune coudÃ©e et demie.",
+      "deu": "<span class=\"verse-number\">23Â </span>Ferner sollst du einen Tisch aus Akazienholz anfertigen, zwei Ellen lang, eine Elle breit und anderthalb Ellen hoch.",
+      "kor": "<span class=\"verse-number\">23 </span>ëë ì¡°ê°ëª©ì¼ë¡ ìì ë§ë¤ë ê¸¸ì´ë ë ê·ë¹, ëë¹ë í ê·ë¹, ëì´ë í ê·ë¹ ë°ì´ ëê² íê³",
+      "ita": "<span class=\"verse-number\">23</span> Farai anche una tavola di legno dâacacia; la sua lunghezza sarÃ  di due cubiti; la sua larghezza di un cubito, e la sua altezza di un cubito e mezzo."
+    },
+    "24": {
+      "eng": "<span class=\"verse-number\">24 </span>And thou shalt overlay it with pure gold, and make thereto a crown of gold round about.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¤ </span>ÙÙØºÙØ´ÙÙÙÙØ§ Ø¨ÙØ§ÙØ°ÙÙÙÙØ¨Ù ÙÙØ§ØµÙÙÙØ¹Ù ÙÙÙÙØ§ Ø¥ÙØ·ÙØ§Ø±Ø§Ù Ø¹ÙØ§ÙÙÙØ§Ù ÙÙÙÙ Ø§ÙØ°ÙÙÙÙØ¨ÙØ",
+      "jpn": "<span class=\"verse-number\">24 </span><ruby><rb>ç´é</rb><rt>ããããã</rt></ruby>ã§ããããããã<ruby><rb>å¨å²</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é£¾</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¸</rb><rt>ãµã¡</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãã",
+      "zhs": "<span class=\"verse-number\">24ã</span>è¦åä¸ç²¾éï¼åå´é¶ä¸éçè¾¹ã",
+      "zht": "<span class=\"verse-number\">24ã</span>è¦åä¸ç²¾éï¼ååé²ä¸éçéã",
+      "spa": "<span class=\"verse-number\">24 </span>Y la recubrirÃ¡s de oro puro y le harÃ¡s una cornisa de oro alrededor.",
+      "por": "<span class=\"verse-number\">24 </span>E cobri-la-Ã¡s com ouro puro; tambÃ©m lhe farÃ¡s uma bordadura de ouro ao redor.",
+      "fra": "<span class=\"verse-number\">24 </span>Tu la recouvriras dâor pur et tu y feras une bordure en or tout autour.",
+      "deu": "<span class=\"verse-number\">24Â </span>Ãberziehe ihn mit feinem Gold und bringe an ihm ringsum einen goldenen Kranz an.",
+      "kor": "<span class=\"verse-number\">24 </span>ìê¸ì¼ë¡ ì¸ê³  ì£¼ìì ê¸ íë¥¼ ëë¥´ê³",
+      "ita": "<span class=\"verse-number\">24</span> La rivestirai dâoro puro, e le farai una ghirlanda dâoro che le giri attorno."
+    },
+    "25": {
+      "eng": "<span class=\"verse-number\">25 </span>And thou shalt make unto it a border of an hand breadth round about, and thou shalt make a golden crown to the border thereof round about.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¥ </span>ÙÙØ§ØµÙÙÙØ¹Ù ÙÙÙÙØ§ Ø­ÙØ§ÙÙÙØ©Ù Ø­ÙÙÙÙÙÙÙØ§ ÙÙÙÙØ¯ÙØ§Ø±Ù Ø¹ÙØ±ÙØ¶ÙÙÙØ§ Ø´ÙØ¨ÙØ±ÙØ ÙÙØ§Ø¬ÙØ¹ÙÙÙ ÙÙÙÙØ­ÙÙØ·Ù Ø§ÙÙØ­ÙØ§ÙÙØ©Ù Ø¥Ø·ÙØ§Ø±Ø§Ù ÙÙÙÙ Ø°ÙÙÙØ¨ÙØ",
+      "jpn": "<span class=\"verse-number\">25 </span>ã¾ããã®<ruby><rb>å¨å²</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>æ</rb><rt>ã¦</rt></ruby><ruby><rb>å¹</rb><rt>ã¯ã°</rt></ruby>ã®<ruby><rb>æ£§</rb><rt>ãã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãããã®<ruby><rb>æ£§</rb><rt>ãã</rt></ruby>ã®<ruby><rb>å¨å²</rb><rt>ãããã</rt></ruby>ã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>é£¾</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¸</rb><rt>ãµã¡</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">25ã</span>æ¡å­çåå´ååä¸æå®½çæ¨ªæ¢ï¼æ¨ªæ¢ä¸é¶çéçè¾¹ã",
+      "zht": "<span class=\"verse-number\">25ã</span>æ¡å­çååååä¸æå¯¬çæ©«æ¨ï¼æ©«æ¨ä¸é²èéçéã",
+      "spa": "<span class=\"verse-number\">25 </span>Le harÃ¡s tambiÃ©n una <span class=\"page-break\" data-page=\"139\"></span>moldura alrededor, del ancho de un palmo menor, y le harÃ¡s una cornisa de oro alrededor de la moldura.",
+      "por": "<span class=\"verse-number\">25 </span>TambÃ©m lhe farÃ¡s uma moldura ao redor, <span class=\"clarity-word\">da largura</span> de uma mÃ£o, e lhe farÃ¡s uma bordadura de ouro ao redor da moldura.",
+      "fra": "<span class=\"verse-number\">25 </span>Tu y feras tout autour un rebord de quatre doigts sur lequel tu mettras une bordure en or.",
+      "deu": "<span class=\"verse-number\">25Â </span>Sodann bringe an ihm ringsum eine Einfassung an, die eine Handbreit hoch ist, und an dieser Einfassung wiederum einen goldenen Kranz ringsum.",
+      "kor": "<span class=\"verse-number\">25 </span>ê·¸ ì£¼ìì ìë°ë¥ ëì´ë§í í±ì ë§ë¤ê³  ê·¸ í± ì£¼ìì ê¸ì¼ë¡ íë¥¼ ë§ë¤ê³",
+      "ita": "<span class=\"verse-number\">25</span> Le farai allâintorno una cornice alta quattro dita; e a questa cornice farai tuttâintorno una ghirlanda dâoro."
+    },
+    "26": {
+      "eng": "<span class=\"verse-number\">26 </span>And thou shalt make for it four rings of gold, and put the rings in the four corners that <span class=\"clarity-word\">are</span> on the four feet thereof.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¦ </span>ÙÙØ§Ø³ÙØ¨ÙÙÙ ÙÙÙÙØ§ Ø£ÙØ±ÙØ¨ÙØ¹Ù Ø­ÙÙÙÙÙØ§ØªÙ ÙÙÙÙ Ø°ÙÙÙØ¨Ù ØªÙØ«ÙØ¨ÙÙØªÙÙÙØ§ Ø¹ÙÙÙÙ Ø²ÙÙÙØ§ÙÙØ§ ÙÙÙÙØ§Ø¦ÙÙÙÙÙØ§ Ø§ÙØ£ÙØ±ÙØ¨ÙØ¹ÙØ",
+      "jpn": "<span class=\"verse-number\">26 </span>ã¾ãããã®ããã«<ruby><rb>é</rb><rt>ãã</rt></ruby>ã®<ruby><rb>ç°</rb><rt>ãã</rt></ruby>åã¤ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãããã®åã¤ã®<ruby><rb>è¶³</rb><rt>ãã</rt></ruby>ã®ãã¿åã<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã«ãã®<ruby><rb>ç°</rb><rt>ãã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>ä»</rb><rt>ã¤</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">26ã</span>è¦ååä¸ªéç¯ï¼å®å¨æ¡å­çåè§ä¸ï¼å°±æ¯æ¡å­åèä¸çåè§ã",
+      "zht": "<span class=\"verse-number\">26ã</span>è¦åååéç°ï¼å®å¨æ¡å­çåè§ä¸ï¼å°±æ¯æ¡å­åè³ä¸çåè§ã",
+      "spa": "<span class=\"verse-number\">26 </span>Y le harÃ¡s cuatro argollas de oro, las cuales pondrÃ¡s en las cuatro esquinas que corresponden a sus cuatro patas.",
+      "por": "<span class=\"verse-number\">26 </span>TambÃ©m lhe farÃ¡s quatro argolas de ouro; e porÃ¡s as argolas nos quatro cantos, que estÃ£o nos seus quatro pÃ©s.",
+      "fra": "<span class=\"verse-number\">26 </span>Tu feras pour la table quatre anneaux en or et tu mettras les anneaux aux quatre coins correspondant Ã  ses quatre pieds.",
+      "deu": "<span class=\"verse-number\">26Â </span>Dann fertige fÃ¼r ihn vier goldene Ringe an und befestige diese Ringe an den vier Ecken bei seinen vier FÃ¼Ãen.",
+      "kor": "<span class=\"verse-number\">26 </span>ê·¸ê²ì ìíì¬ ê¸ ê³ ë¦¬ ë·ì ë§ë¤ì´ ê·¸ ë¤ ë° ì ë¤ ëª¨íì´ì ë¬ë",
+      "ita": "<span class=\"verse-number\">26</span> Le farai pure quattro anelli dâoro, e metterai gli anelli ai quattro canti, ai quattro piedi della tavola."
+    },
+    "27": {
+      "eng": "<span class=\"verse-number\">27 </span>Over against the border shall the rings be for places of the staves to bear the table.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù§ </span>ÙÙØªÙÙÙÙÙÙ Ø§ÙÙØ­ÙÙÙÙÙØ§ØªÙ Ø§ÙÙÙØ«ÙØ¨ÙÙØªÙØ©Ù Ø¹ÙÙÙÙ Ø§ÙÙØ­ÙØ§ÙÙØ©ÙØ Ø£ÙÙÙØ§ÙÙÙÙ ÙÙØ¹ÙØµÙÙÙÙÙÙÙ ØªÙØ­ÙÙÙÙÙ Ø¨ÙÙÙÙÙØ§ Ø§ÙÙÙÙØ§Ø¦ÙØ¯ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">27 </span><ruby><rb>ç°</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>æ£§</rb><rt>ãã</rt></ruby>ã®ããã«<ruby><rb>ä»</rb><rt>ã¤</rt></ruby>ãã¦ã<ruby><rb>æº</rb><rt>ã¤ãã</rt></ruby>ããã¤ãããã<ruby><rb>å¥</rb><rt>ã</rt></ruby>ãã<ruby><rb>æ</rb><rt>ã¨ãã</rt></ruby>ã¨ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">27ã</span>å®ç¯å­çå°æ¹è¦æ¨è¿æ¨ªæ¢ï¼å¯ä»¥ç©¿æ æ¬æ¡å­ã",
+      "zht": "<span class=\"verse-number\">27ã</span>å®ç°å­çå°æ¹è¦æ¨è¿æ©«æ¨ï¼å¯ä»¥ç©¿æ§æ¬æ¡å­ã",
+      "spa": "<span class=\"verse-number\">27 </span>Las argollas estarÃ¡n cerca del borde para colocar en ellas las varas para llevar la mesa.",
+      "por": "<span class=\"verse-number\">27 </span>Defronte da moldura estarÃ£o as argolas, como suportes para as varas, para levar-se a mesa.",
+      "fra": "<span class=\"verse-number\">27 </span>Les anneaux seront prÃ¨s du rebord et recevront les barres pour porter la table.",
+      "deu": "<span class=\"verse-number\">27Â </span>Dicht an der Einfassung sollen sich die Ringe befinden zur Aufnahme der Stangen, mit denen man den Tisch tragen kann.",
+      "kor": "<span class=\"verse-number\">27 </span>í± ê³ì ë¶ì´ë¼ ì´ë ìì ë© ì±ë¥¼ ê¿¸ ê³³ì´ë©°",
+      "ita": "<span class=\"verse-number\">27</span> Gli anelli saranno vicinissimi alla cornice per farvi passare le stanghe destinate a portare la tavola."
+    },
+    "28": {
+      "eng": "<span class=\"verse-number\">28 </span>And thou shalt make the staves <span class=\"clarity-word\">of</span> shittim wood, and overlay them with gold, that the table may be borne with them.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù¨ </span>ÙÙØªÙØµÙÙÙØ¹Ù Ø§ÙÙØ¹ÙØµÙÙÙÙÙÙÙ ÙÙÙÙ Ø®ÙØ´ÙØ¨Ù Ø§ÙØ³ÙÙÙÙØ·Ù ÙÙØªÙØºÙØ´ÙÙÙÙÙÙÙØ§ Ø¨ÙØ§ÙØ°ÙÙÙÙØ¨Ù ÙÙØªÙØ­ÙÙÙÙÙ Ø¨ÙÙÙÙÙØ§ Ø§ÙÙÙÙØ§Ø¦ÙØ¯ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">28 </span>ã¾ãã¢ã«ã·ã¤<ruby><rb>æ</rb><rt>ãã</rt></ruby>ã®ããã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãã<ruby><rb>é</rb><rt>ãã</rt></ruby>ã§ãããããããããããã£ã¦ã<ruby><rb>æº</rb><rt>ã¤ãã</rt></ruby>ããã¤ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">28ã</span>è¦ç¨çèæ¨åä¸¤æ ¹æ ï¼ç¨éåè£¹ï¼ä»¥ä¾¿æ¬æ¡å­ã",
+      "zht": "<span class=\"verse-number\">28ã</span>è¦ç¨çè¢æ¨åå©æ ¹æ§ï¼ç¨éåè£¹ï¼ä»¥ä¾¿æ¬æ¡å­ã",
+      "spa": "<span class=\"verse-number\">28 </span>Y harÃ¡s las varas de madera de acacia y las recubrirÃ¡s de oro, y con ellas serÃ¡ llevada la mesa.",
+      "por": "<span class=\"verse-number\">28 </span>FarÃ¡s, pois, essas varas de madeira <span class=\"clarity-word\">de</span> acÃ¡cia, e cobri-las-Ã¡s com ouro; e levar-se-Ã¡ com elas a mesa.",
+      "fra": "<span class=\"verse-number\">28 </span>Tu feras les barres en bois dâacacia et tu les recouvriras dâorÂ ; elles serviront Ã  porter la table.",
+      "deu": "<span class=\"verse-number\">28Â </span>Die Stangen fertige aus Akazienholz an und Ã¼berziehe sie mit Gold; mit ihnen soll der Tisch getragen werden.",
+      "kor": "<span class=\"verse-number\">28 </span>ë ì¡°ê°ëª©ì¼ë¡ ê·¸ ì±ë¥¼ ë§ë¤ê³  ê¸ì¼ë¡ ì¸ë¼ ìì ì´ê²ì¼ë¡ ë© ê²ì´ëë¼",
+      "ita": "<span class=\"verse-number\">28</span> E le stanghe le farai di legno dâacacia, le rivestirai dâoro, e serviranno a portare la tavola."
+    },
+    "29": {
+      "eng": "<span class=\"verse-number\">29 </span>And thou shalt make the dishes thereof, and spoons thereof, and covers thereof, and bowls thereof, to cover withal: <span class=\"clarity-word\">of</span> pure gold shalt thou make them.",
+      "ara": "<span class=\"verse-number\">Ù¢Ù© </span>ÙÙØ£ÙÙÙÙØ§ ØµÙØ­ÙØ§ÙÙ Ø§ÙÙÙÙØ§Ø¦ÙØ¯ÙØ©Ù ÙÙØµÙØ­ÙÙÙÙÙÙØ§ ÙÙÙÙØ¤ÙÙØ³ÙÙÙØ§ ÙÙØ£ÙØ¨ÙØ§Ø±ÙÙÙÙÙÙØ§ Ø§ÙÙÙØªÙÙ ÙÙØ³ÙÙÙØ¨Ù Ø¨ÙÙØ§Ø ÙÙØªÙØµÙÙØºÙÙÙØ§ ÙÙÙÙ Ø°ÙÙÙØ¨Ù Ø®ÙØ§ÙÙØµÙ.",
+      "jpn": "<span class=\"verse-number\">29 </span>ã¾ãããã®<ruby><rb>ç¿</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä¹³é¦</rb><rt>ã«ãããã</rt></ruby>ã<ruby><rb>ç</rb><rt>ã</rt></ruby>ã<ruby><rb>æ¯</rb><rt>ã¯ã</rt></ruby>ããã³<ruby><rb>çç¥­</rb><rt>ãããã</rt></ruby>ã<ruby><rb>æ³¨</rb><rt>ãã</rt></ruby>ãããã®<ruby><rb>ç¶</rb><rt>ã³ã</rt></ruby>ã¨<ruby><rb>é¢</rb><rt>ã¯ã¡</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãããããã¯<ruby><rb>ç´é</rb><rt>ããããã</rt></ruby>ã§<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">29ã</span>è¦åæ¡å­ä¸ççå­ãè°ç¾¹ï¼å¹¶å¥ <span class=\"clarity-word\">é</span>ççµåç¶ï¼è¿é½è¦ç¨ç²¾éå¶ä½ã",
+      "zht": "<span class=\"verse-number\">29ã</span>è¦åæ¡å­ä¸çç¤å­ãèª¿ç¾¹ï¼ä¸¦å¥ <span class=\"clarity-word\">é</span>ççµåç¶ï¼éé½è¦ç¨ç²¾éè£½ä½ã",
+      "spa": "<span class=\"verse-number\">29 </span>HarÃ¡s tambiÃ©n sus platos, y sus cucharas, y sus cubiertas y sus tazones con que se libarÃ¡; de oro fino los harÃ¡s.",
+      "por": "<span class=\"verse-number\">29 </span>TambÃ©m farÃ¡s os seus pratos, e as suas colheres, e os seus jarros, e as suas tigelas com que se hÃ£o de oferecer libaÃ§Ãµes; de ouro puro os farÃ¡s.",
+      "fra": "<span class=\"verse-number\">29 </span>Tu feras ses plats, ses coupes, ses calices et ses tasses, pour servir aux libationsÂ ; tu les feras en or pur.",
+      "deu": "<span class=\"verse-number\">29Â </span>Weiter fertige die fÃ¼r ihn erforderlichen SchÃ¼sseln und Schalen, die Kannen und Becher an, die zu den Trankopfern gebraucht werden; aus feinem Gold sollst du sie herstellen.",
+      "kor": "<span class=\"verse-number\">29 </span>ëë ëì ê³¼ ìê°ë½ê³¼ ë³ê³¼ ë¶ë ìì ë§ë¤ë ìê¸ì¼ë¡ ë§ë¤ë©°",
+      "ita": "<span class=\"verse-number\">29</span> Farai pure i suoi piatti, le sue coppe, i suoi calici e le sue tazze da servire per le libazioni; li farai dâoro puro."
+    },
+    "30": {
+      "eng": "<span class=\"verse-number\">30 </span>And thou shalt set upon the table shewbread before me alway.",
+      "ara": "<span class=\"verse-number\">Ù£Ù  </span>ÙÙØªÙØ¶ÙØ¹Ù Ø£ÙÙÙØ§ÙÙÙ Ø®ÙØ¨ÙØ²Ù Ø§ÙØªÙÙÙÙØ¯ÙÙÙØ©Ù Ø¹ÙÙÙÙ ÙÙØ°ÙÙÙ Ø§ÙÙÙÙØ§Ø¦ÙØ¯ÙØ©Ù Ø¯ÙØ§Ø¦ÙÙØ§Ù.",
+      "jpn": "<span class=\"verse-number\">30 </span>ããã¦<ruby><rb>æº</rb><rt>ã¤ãã</rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ã¯<ruby><rb>ä¾</rb><rt>ããª</rt></ruby>ãã®ãã³ã<ruby><rb>ç½®</rb><rt>ã</rt></ruby>ãã¦ã<ruby><rb>å¸¸</rb><rt>ã¤ã­</rt></ruby>ã«ãããã®<ruby><rb>å</rb><rt>ã¾ã</rt></ruby>ã«ããããã«ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">30ã</span>åè¦å¨æ¡å­ä¸ï¼å¨æé¢åï¼å¸¸æéè®¾é¥¼ã",
+      "zht": "<span class=\"verse-number\">30ã</span>åè¦å¨æ¡å­ä¸ï¼å¨æé¢åï¼å¸¸æºé³è¨­é¤ã",
+      "spa": "<span class=\"verse-number\">30 </span>Y pondrÃ¡s sobre la mesa el pan de la proposiciÃ³n delante de mÃ­ continuamente.",
+      "por": "<span class=\"verse-number\">30 </span>E sobre a mesa porÃ¡s o pÃ£o da proposiÃ§Ã£o perante a minha face continuamente.",
+      "fra": "<span class=\"verse-number\">30 </span>Tu mettras sur la table les pains de proposition continuellement devant ma face.",
+      "deu": "<span class=\"verse-number\">30Â </span>Auf den Tisch aber sollst du bestÃ¤ndig Schaubrote vor mich hinlegen.",
+      "kor": "<span class=\"verse-number\">30 </span>ì ìì ì§ì¤ë³ì ëì´ í­ì ë´ ìì ìê² í ì§ëë¼",
+      "ita": "<span class=\"verse-number\">30</span> E metterai sulla tavola il pane della presentazione, che starÃ  continuamente nel mio cospetto."
+    },
+    "31": {
+      "eng": "<span class=\"verse-number\">31 </span><span class=\"para-mark\">Â¶ </span>And thou shalt make a candlestick <span class=\"clarity-word\">of</span> pure gold: <span class=\"clarity-word\">of</span> beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¡ </span>ÙÙØ§Ø®ÙØ±ÙØ·Ù ÙÙÙÙØ§Ø±ÙØ©Ù ÙÙÙÙ Ø°ÙÙÙØ¨Ù Ø®ÙØ§ÙÙØµÙØ ÙÙØªÙÙÙÙÙÙ ÙÙØ§Ø¹ÙØ¯ÙØªÙÙÙØ§ ÙÙØ³ÙØ§ÙÙÙÙØ§ ÙÙÙÙØ§Ø³ÙØ§ØªÙÙÙØ§ ÙÙØ¨ÙØ±ÙØ§Ø¹ÙÙÙÙÙØ§ ÙÙØ£ÙØ²ÙÙÙØ§Ø±ÙÙÙØ§ ÙÙÙÙÙÙÙØ§ ÙÙØ®ÙØ±ÙÙØ·ÙØ©Ù ÙÙØ¹Ø§Ù ÙÙÙÙ ÙÙØ·ÙØ¹ÙØ©Ù ÙÙØ§Ø­ÙØ¯ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">31 </span>ã¾ã<ruby><rb>ç´é</rb><rt>ããããã</rt></ruby>ã®<ruby><rb>ç­å°</rb><rt>ãããã ã</rt></ruby>ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªãã<ruby><rb>ç­å°</rb><rt>ãããã ã</rt></ruby>ã¯<ruby><rb>æç©</rb><rt>ãã¡ãã®</rt></ruby><ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãã¨ãããã®<ruby><rb>å°</rb><rt>ã ã</rt></ruby>ã<ruby><rb>å¹¹</rb><rt>ã¿ã</rt></ruby>ã<ruby><rb>è¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>ç¯</rb><rt>ãµã</rt></ruby>ã<ruby><rb>è±</rb><rt>ã¯ãª</rt></ruby>ãä¸ã¤ã«<ruby><rb>é£</rb><rt>ã¤ã</rt></ruby>ãªãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">31ã</span>è¦ç¨ç²¾éåä¸ä¸ªç¯å°ï¼ç¯å°çåº§åå¹²ï¼ä¸æ¯ãçãè±ï¼é½è¦æ¥è¿ä¸åé¤åºæ¥ã",
+      "zht": "<span class=\"verse-number\">31ã</span>è¦ç¨ç²¾éåä¸åçèºï¼çèºçåº§åå¹¹ï¼èæ¯ãçãè±ï¼é½è¦æ¥é£ä¸å¡éåºä¾ã",
+      "spa": "<span class=\"verse-number\">31 </span>HarÃ¡s ademÃ¡s un candelabro de oro puro; labrado a martillo se harÃ¡ el candelabro; su pie, su caÃ±a, sus copas, sus cÃ¡lices y sus flores serÃ¡n de una sola pieza.",
+      "por": "<span class=\"verse-number\">31 </span>TambÃ©m farÃ¡s um candelabro de ouro puro; de ouro batido se farÃ¡ esse candelabro; o seu pÃ©, as suas hastes, os seus copos, os seus cÃ¡lices, e as suas flores serÃ£o uma sÃ³ peÃ§a.",
+      "fra": "<span class=\"verse-number\">31 </span>Tu feras un chandelier en or purÂ ; ce chandelier sera fait en or battuÂ ; son pied, sa tige, ses calices, ses boutons et ses fleurs seront dâune mÃªme piÃ¨ce.",
+      "deu": "<span class=\"verse-number\">31Â </span>Weiter sollst du einen Leuchter aus feinem Gold anfertigen; in getriebener Arbeit soll der Leuchter, sein FuÃ und sein Schaft, angefertigt werden; seine BlumenkelcheÂ â KnÃ¤ufe mit BlÃ¼tenÂ â sollen aus einem StÃ¼ck mit ihm gearbeitet sein.",
+      "kor": "<span class=\"verse-number\">31 </span>ëë ìê¸ì¼ë¡ ë±ìëë¥¼ ì³ ë§ë¤ë ê·¸ ë°íê³¼ ì¤ê¸°ì ìê³¼ ê½ë°ì¹¨ê³¼ ê½ì í ë©ì´ë¡ ì°ê²°íê³",
+      "ita": "<span class=\"verse-number\">31</span> Farai anche un candelabro dâoro puro; il candelabro, il suo piede e il suo tronco saranno lavorati al martello; i suoi calici, i suoi pomi e i suoi fiori saranno tutti dâun pezzo con il candelabro."
+    },
+    "32": {
+      "eng": "<span class=\"verse-number\">32 </span>And six branches shall come out of the sides of it; three branches of the candlestick out of the one side, and three branches of the candlestick out of the other side:",
+      "ara": "<span class=\"verse-number\">Ù£Ù¢ </span>ÙÙØªÙØªÙØ´ÙØ¹ÙÙØ¨Ù ÙÙÙÙ ÙÙÙÙÙ Ø¬ÙØ§ÙÙØ¨Ù ÙÙÙÙÙÙØ§ Ø«ÙÙØ§Ø«ÙØ©Ù Ø£ÙÙÙØ±ÙØ¹ÙØ",
+      "jpn": "<span class=\"verse-number\">32 </span>ã¾ãå­ã¤ã®<ruby><rb>æ</rb><rt>ãã </rt></ruby>ããã®ãããã<ruby><rb>åº</rb><rt>ã </rt></ruby>ããã<ruby><rb>ç­å°</rb><rt>ãããã ã</rt></ruby>ã®ä¸ã¤ã®<ruby><rb>æ</rb><rt>ãã </rt></ruby>ããã®<ruby><rb>å´</rb><rt>ãã</rt></ruby>ããã<ruby><rb>ç­å°</rb><rt>ãããã ã</rt></ruby>ã®ä¸ã¤ã®<ruby><rb>æ</rb><rt>ãã </rt></ruby>ããã®<ruby><rb>å´</rb><rt>ãã</rt></ruby>ãã<ruby><rb>åº</rb><rt>ã </rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">32ã</span>ç¯å°ä¸¤æè¦æåºå­ä¸ªæå­ï¼è¿æä¸ä¸ªï¼é£æä¸ä¸ªã",
+      "zht": "<span class=\"verse-number\">32ã</span>çèºå©æè¦æåºå­åæå­ï¼éæä¸åï¼é£æä¸åã",
+      "spa": "<span class=\"verse-number\">32 </span>Y saldrÃ¡n seis brazos de sus lados: tres brazos del candelabro de un lado y tres brazos del candelabro del otro lado.",
+      "por": "<span class=\"verse-number\">32 </span>E dos seus lados sairÃ£o seis hastes: trÃªs hastes do candelabro de um lado dele, e trÃªs hastes do candelabro do outro lado dele.",
+      "fra": "<span class=\"verse-number\">32 </span>Six branches sortiront de ses cÃ´tÃ©s, trois branches du chandelier de lâun des cÃ´tÃ©s, et trois branches du chandelier de lâautre cÃ´tÃ©.",
+      "deu": "<span class=\"verse-number\">32Â </span>Sechs Arme sollen von seinen Seiten ausgehen, drei Arme auf jeder Seite des Leuchters.",
+      "kor": "<span class=\"verse-number\">32 </span>ê°ì§ ì¬ì¯ì ë±ìë ê³ìì ëì¤ê² íë ë¤ë¥¸ ì¸ ê°ì§ë ì´ìª½ì¼ë¡ ëì¤ê³  ë¤ë¥¸ ì¸ ê°ì§ë ì ìª½ì¼ë¡ ëì¤ê² íë©°",
+      "ita": "<span class=\"verse-number\">32</span> Gli usciranno sei bracci dai lati: tre bracci del candelabro da un lato e tre bracci del candelabro dallâaltro;"
+    },
+    "33": {
+      "eng": "<span class=\"verse-number\">33 </span>Three bowls made like unto almonds, <span class=\"clarity-word\">with</span> a knop and a flower in one branch; and three bowls made like almonds in the other branch, <span class=\"clarity-word\">with</span> a knop and a flower: so in the six branches that come out of the candlestick.",
+      "ara": "<span class=\"verse-number\">Ù£Ù£ </span>ÙÙÙ ÙÙÙÙÙ Ø´ÙØ¹ÙØ¨ÙØ©Ù Ø«ÙÙØ§Ø«Ù ÙÙØ§Ø³ÙØ§ØªÙ Ø¨ÙØ¨ÙØ±ÙØ¹ÙÙÙ ÙÙØ²ÙÙÙØ±ÙØ ÙÙÙÙÙÙØ°ÙØ§ Ø¥ÙÙÙÙ Ø§ÙØ³ÙÙØªÙÙØ©Ù Ø§ÙØ£ÙÙÙØ±ÙØ¹Ù Ø§ÙÙÙÙØªÙØ´ÙØ¹ÙÙØ¨ÙØ©Ù ÙÙÙÙ Ø§ÙÙÙÙÙÙØ§Ø±ÙØ©Ù.",
+      "jpn": "<span class=\"verse-number\">33 </span>ãããã©ãã®<ruby><rb>è±</rb><rt>ã¯ãª</rt></ruby>ã®<ruby><rb>å½¢</rb><rt>ããã¡</rt></ruby>ãããä¸ã¤ã®<ruby><rb>è¼</rb><rt>ãã</rt></ruby>ãããããã<ruby><rb>ç¯</rb><rt>ãµã</rt></ruby>ã¨<ruby><rb>è±</rb><rt>ã¯ãª</rt></ruby>ããã£ã¦ä¸ã¤ã®<ruby><rb>æ</rb><rt>ãã </rt></ruby>ã«ãããã¾ãããããã©ãã®<ruby><rb>è±</rb><rt>ã¯ãª</rt></ruby>ã®<ruby><rb>å½¢</rb><rt>ããã¡</rt></ruby>ãããä¸ã¤ã®<ruby><rb>è¼</rb><rt>ãã</rt></ruby>ãããããã<ruby><rb>ç¯</rb><rt>ãµã</rt></ruby>ã¨<ruby><rb>è±</rb><rt>ã¯ãª</rt></ruby>ããã£ã¦ã»ãã®<ruby><rb>æ</rb><rt>ãã </rt></ruby>ã«ããããã«ãã<ruby><rb>ç­å°</rb><rt>ãããã ã</rt></ruby>ãã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ãå­ã¤ã®<ruby><rb>æ</rb><rt>ãã </rt></ruby>ããã¿ãªãã®ããã«ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">33ã</span>è¿ææ¯æä¸æä¸ä¸ªæ¯ï¼å½¢ç¶åæè±ï¼æçæè±ï¼é£ææ¯æä¸ä¹æä¸ä¸ªæ¯ï¼å½¢ç¶åæè±ï¼æçæè±ï¼ä»ç¯å°æåºæ¥çå­ä¸ªæå­é½æ¯å¦æ­¤ã",
+      "zht": "<span class=\"verse-number\">33ã</span>éææ¯æä¸æä¸åæ¯ï¼å½¢çåæè±ï¼æçæè±ï¼é£ææ¯æä¸ä¹æä¸åæ¯ï¼å½¢çåæè±ï¼æçæè±ï¼å¾çèºæåºä¾çå­åæå­é½æ¯å¦æ­¤ã",
+      "spa": "<span class=\"verse-number\">33 </span>Tres copas en forma de flor de almendro en un brazo, un cÃ¡liz y una flor; y tres copas en forma de flor de almendro en el otro brazo, un cÃ¡liz y una flor; asÃ­ en los seis brazos que salen del candelabro.",
+      "por": "<span class=\"verse-number\">33 </span>Numa haste <span class=\"clarity-word\">haverÃ¡</span> trÃªs copos em formato de amÃªndoas, um cÃ¡lice e uma flor; e trÃªs copos em formato de amÃªndoas na outra haste, um cÃ¡lice e uma flor; assim serÃ£o as seis hastes que saem do candelabro.",
+      "fra": "<span class=\"verse-number\">33 </span>Il y aura sur une branche trois calices en forme dâamande, avec boutons et fleurs, et sur une autre branche trois calices en forme dâamande, avec boutons et fleursÂ ; il en sera de mÃªme pour les six branches sortant du chandelier.",
+      "deu": "<span class=\"verse-number\">33Â </span>Drei mandelblÃ¼tenfÃ¶rmige BlumenkelcheÂ â je ein Knauf mit einer BlÃ¼teÂ â sollen sich an jedem Arm befinden; so soll es bei allen sechs Armen sein, die von dem Leuchter ausgehen.",
+      "kor": "<span class=\"verse-number\">33 </span>ì´ìª½ ê°ì§ì ì´êµ¬ê½ íìì ì ìê³¼ ê½ë°ì¹¨ê³¼ ê½ì´ ìê² íê³  ì ìª½ ê°ì§ìë ì´êµ¬ê½ íìì ì ìê³¼ ê½ë°ì¹¨ê³¼ ê½ì´ ìê² íì¬ ë±ìëìì ëì¨ ê°ì§ ì¬ì¯ì ê°ê² í ì§ë©°",
+      "ita": "<span class=\"verse-number\">33</span> su uno dei bracci ci saranno tre calici a forma di mandorla, con un pomo e un fiore; e sullâaltro braccio, tre calici a forma di mandorla, con un pomo e un fiore. Lo stesso per i sei bracci uscenti dal candelabro."
+    },
+    "34": {
+      "eng": "<span class=\"verse-number\">34 </span>And in the candlestick <span class=\"clarity-word\">shall be</span> four bowls made like unto almonds, <span class=\"clarity-word\">with</span> their knops and their flowers.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¤ </span>ÙÙÙÙÙÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙÙÙÙÙØ§Ø±ÙØ©Ù Ø£ÙØ±ÙØ¨ÙØ¹Ù ÙÙØ§Ø³ÙØ§ØªÙ ÙÙÙÙØ²ÙÙÙÙØ©Ù Ø§ÙØ´ÙÙÙÙÙÙ Ø¨ÙØ¨ÙØ±ÙØ§Ø¹ÙÙÙÙÙØ§ ÙÙØ£ÙØ²ÙÙÙØ§Ø±ÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">34 </span>ã¾ãã<ruby><rb>ç­å°</rb><rt>ãããã ã</rt></ruby>ã®<ruby><rb>å¹¹</rb><rt>ã¿ã</rt></ruby>ã«ã¯ããããã©ãã®<ruby><rb>è±</rb><rt>ã¯ãª</rt></ruby>ã®<ruby><rb>å½¢</rb><rt>ããã¡</rt></ruby>ãããåã¤ã®<ruby><rb>è¼</rb><rt>ãã</rt></ruby>ã<ruby><rb>ä»</rb><rt>ã¤</rt></ruby>ãããã®<ruby><rb>è¼</rb><rt>ãã</rt></ruby>ã«ã¯ãããã<ruby><rb>ç¯</rb><rt>ãµã</rt></ruby>ã¨<ruby><rb>è±</rb><rt>ã¯ãª</rt></ruby>ãããããªããã",
+      "zhs": "<span class=\"verse-number\">34ã</span>ç¯å°ä¸æåä¸ªæ¯ï¼å½¢ç¶åæè±ï¼æçæè±ã",
+      "zht": "<span class=\"verse-number\">34ã</span>çèºä¸æååæ¯ï¼å½¢çåæè±ï¼æçæè±ã",
+      "spa": "<span class=\"verse-number\">34 </span>Y en la caÃ±a del candelabro habrÃ¡ cuatro copas en forma de flor de almendro, sus cÃ¡lices y sus flores.",
+      "por": "<span class=\"verse-number\">34 </span>Mas no candelabro mesmo <span class=\"clarity-word\">haverÃ¡</span> quatro copos em formato de amÃªndoas, com seus cÃ¡lices e com suas flores;",
+      "fra": "<span class=\"verse-number\">34 </span>Ã la tige du chandelier, il y aura quatre calices en forme dâamande, avec leurs boutons et leurs fleurs.",
+      "deu": "<span class=\"verse-number\">34Â </span>Am Schaft selbst aber sollen sich vier mandelblÃ¼tenfÃ¶rmige BlumenkelcheÂ â KnÃ¤ufe mit BlÃ¼tenÂ â befinden,",
+      "kor": "<span class=\"verse-number\">34 </span>ë±ìë ì¤ê¸°ìë ì´êµ¬ê½ íìì ì ë·ê³¼ ê½ë°ì¹¨ê³¼ ê½ì´ ìê² íê³",
+      "ita": "<span class=\"verse-number\">34</span> Nel tronco del candelabro ci saranno poi quattro calici a forma di mandorla, con i loro pomi e i loro fiori."
+    },
+    "35": {
+      "eng": "<span class=\"verse-number\">35 </span>And <span class=\"clarity-word\">there shall be</span> a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches that proceed out of the candlestick.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¥ </span>ÙÙØªÙØ¬ÙØ¹ÙÙÙ ØªÙØ­ÙØªÙ ÙÙØ±ÙØ¹ÙÙÙÙÙ ÙÙÙÙ Ø§ÙØ£ÙÙÙØ±ÙØ¹Ù Ø§ÙÙÙÙØªÙØ´ÙØ¹ÙÙØ¨ÙØ©Ù ÙÙÙÙ Ø§ÙÙÙÙÙÙØ§Ø±ÙØ©Ù Ø¨ÙØ±ÙØ¹ÙÙØ§Ù. ÙÙÙÙØ°ÙØ§ ØªÙÙÙØ¹ÙÙÙ ÙÙÙØ³ÙÙØªÙÙØ©Ù Ø§ÙÙØ£ÙÙÙØ±ÙØ¹Ù.",
+      "jpn": "<span class=\"verse-number\">35 </span>ããªãã¡äºã¤ã®<ruby><rb>æ</rb><rt>ãã </rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ä¸ã¤ã®<ruby><rb>ç¯</rb><rt>ãµã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>ä»</rb><rt>ã¤</rt></ruby>ãã<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®äºã¤ã®<ruby><rb>æ</rb><rt>ãã </rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ä¸ã¤ã®<ruby><rb>ç¯</rb><rt>ãµã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>ä»</rb><rt>ã¤</rt></ruby>ãã<ruby><rb>æ´</rb><rt>ãã</rt></ruby>ã«<ruby><rb>æ¬¡</rb><rt>ã¤ã</rt></ruby>ã®äºã¤ã®<ruby><rb>æ</rb><rt>ãã </rt></ruby>ã®<ruby><rb>ä¸</rb><rt>ãã</rt></ruby>ã«ä¸ã¤ã®<ruby><rb>ç¯</rb><rt>ãµã</rt></ruby>ã<ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>ä»</rb><rt>ã¤</rt></ruby>ãã<ruby><rb>ç­å°</rb><rt>ãããã ã</rt></ruby>ã®<ruby><rb>å¹¹</rb><rt>ã¿ã</rt></ruby>ãã<ruby><rb>åº</rb><rt>ã§</rt></ruby>ãå­ã¤ã®<ruby><rb>æ</rb><rt>ãã </rt></ruby>ã«ãã¿ãªãã®ããã«ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">35ã</span>ç¯å°æ¯ä¸¤ä¸ªæå­ä»¥ä¸æçä¸æå­æ¥è¿ä¸åï¼ç¯å°åºçå­ä¸ªæå­é½æ¯å¦æ­¤ã",
+      "zht": "<span class=\"verse-number\">35ã</span>çèºæ¯å©åæå­ä»¥ä¸æçèæå­æ¥é£ä¸å¡ï¼çèºåºçå­åæå­é½æ¯å¦æ­¤ã",
+      "spa": "<span class=\"verse-number\">35 </span>HabrÃ¡ un cÃ¡liz debajo de los dos brazos del mismo, otro cÃ¡liz debajo de los otros dos brazos del mismo, y otro cÃ¡liz debajo de los <span class=\"clarity-word\">otros</span> dos brazos del mismo, conforme a los seis brazos que salen del candelabro.",
+      "por": "<span class=\"verse-number\">35 </span>E um cÃ¡lice debaixo de duas hastes que <span class=\"clarity-word\">saem</span> dele; e ainda um cÃ¡lice debaixo de duas <span class=\"clarity-word\">outras</span> hastes que <span class=\"clarity-word\">saem</span> dele; e <span class=\"clarity-word\">ainda mais</span> um cÃ¡lice debaixo de duas <span class=\"clarity-word\">outras</span> hastes que saem dele; <span class=\"clarity-word\">assim se farÃ¡</span> com as seis hastes que saem do candelabro.",
+      "fra": "<span class=\"verse-number\">35 </span>Il y aura un bouton sous deux des branches sortant de la tige du chandelier, un bouton sous deux autres branches et un bouton sous deux autres branchesÂ ; il en sera de mÃªme pour les six branches sortant du chandelier.",
+      "deu": "<span class=\"verse-number\">35Â </span>und zwar soll sich an ihm immer ein Knauf unter jedem Paar der sechs Arme befinden, die vom Schaft des Leuchters ausgehen.",
+      "kor": "<span class=\"verse-number\">35 </span>ë±ìëìì ëì¨ ê°ì§ ì¬ì¯ì ìíì¬ ê½ë°ì¹¨ì´ ìê² íë ë ê°ì§ ìëì í ê½ë°ì¹¨ì´ ìì´ ì¤ê¸°ì ì°ê²°íë©° ë ë ê°ì§ ìëì í ê½ë°ì¹¨ì´ ìì´ ì¤ê¸°ì ì°ê²°íë©° ë ë ê°ì§ ìëì í ê½ë°ì¹¨ì´ ìì´ ì¤ê¸°ì ì°ê²°íê² íê³",
+      "ita": "<span class=\"verse-number\">35</span> Ci sarÃ  un pomo sotto i due primi bracci che partono dal candelabro; un pomo sotto i due seguenti bracci, e un pomo sotto i due ultimi bracci che partono dal candelabro: cosÃ¬ per i sei bracci uscenti dal candelabro."
+    },
+    "36": {
+      "eng": "<span class=\"verse-number\">36 </span>Their knops and their branches shall be of the same: all it <span class=\"clarity-word\">shall be</span> one beaten work <span class=\"clarity-word\">of</span> pure gold.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¦ </span>ÙÙÙÙÙÙÙÙÙ Ø³ÙØ§ÙÙ Ø§ÙÙÙÙÙÙØ§Ø±ÙØ©Ù ÙÙØ¨ÙØ±ÙØ§Ø¹ÙÙÙÙÙØ§ ÙÙØ£ÙÙÙØ±ÙØ¹ÙÙÙØ§ ÙÙÙÙÙÙÙØ§ ÙÙØ·ÙØ¹ÙØ©Ù ÙÙØ§Ø­ÙØ¯ÙØ©Ù ÙÙØµÙÙØºÙØ©Ù ÙÙÙÙ Ø°ÙÙÙØ¨Ù Ø®ÙØ§ÙÙØµÙ.",
+      "jpn": "<span class=\"verse-number\">36 </span>ãããã®<ruby><rb>ç¯</rb><rt>ãµã</rt></ruby>ã¨<ruby><rb>æ</rb><rt>ãã </rt></ruby>ãä¸ã¤ã«<ruby><rb>é£</rb><rt>ã¤ã</rt></ruby>ã­ããã¨ãã¨ã<ruby><rb>ç´é</rb><rt>ããããã</rt></ruby>ã®<ruby><rb>æç©</rb><rt>ãã¡ãã®</rt></ruby><ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãã«ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">36ã</span>çåæå­è¦æ¥è¿ä¸åï¼é½æ¯ä¸åç²¾éé¤åºæ¥çã",
+      "zht": "<span class=\"verse-number\">36ã</span>çåæå­è¦æ¥é£ä¸å¡ï¼é½æ¯ä¸å¡ç²¾ééåºä¾çã",
+      "spa": "<span class=\"verse-number\">36 </span>Sus cÃ¡lices y sus brazos serÃ¡n de una sola pieza, todo ello una pieza labrada a martillo, de oro puro.",
+      "por": "<span class=\"verse-number\">36 </span>Os seus cÃ¡lices e as suas hastes serÃ£o do mesmo; tudo <span class=\"clarity-word\">serÃ¡</span> de uma sÃ³ peÃ§a, obra batida de ouro puro.",
+      "fra": "<span class=\"verse-number\">36 </span>Les boutons et les branches du chandelier seront dâune mÃªme piÃ¨ceÂ : il sera tout entier en or battu, en or pur.",
+      "deu": "<span class=\"verse-number\">36Â </span>Ihre KnÃ¤ufe und Arme sollen aus einem StÃ¼ck mit ihm bestehen. Der ganze Leuchter soll eine einzige getriebene Arbeit aus feinem Gold sein.",
+      "kor": "<span class=\"verse-number\">36 </span>ê·¸ ê½ë°ì¹¨ê³¼ ê°ì§ë¥¼ ì¤ê¸°ì ì°ê²°íì¬ ì ë¶ë¥¼ ìê¸ì¼ë¡ ì³ ë§ë¤ê³",
+      "ita": "<span class=\"verse-number\">36</span> Questi pomi e questi bracci saranno tutti dâun pezzo con il candelabro; il tutto sarÃ  dâoro fino battuto."
+    },
+    "37": {
+      "eng": "<span class=\"verse-number\">37 </span>And thou shalt make the seven lamps thereof: and they shall light the lamps thereof, that they may give light over against it.",
+      "ara": "<span class=\"verse-number\">Ù£Ù§ </span>Ø«ÙÙÙÙ Ø§ØµÙÙÙØ¹Ù Ø³ÙØ¨ÙØ¹ÙØ©Ù Ø³ÙØ±ÙØ¬Ù ÙÙÙÙÙÙÙÙØ§Ø±ÙØ©ÙØ ÙÙØ§Ø¬ÙØ¹ÙÙÙÙÙØ§ Ø¹ÙÙÙÙÙÙÙØ§ Ø¨ÙØ­ÙÙÙØ«Ù ØªÙØ¶ÙÙØ¡Ù Ø£ÙÙÙØ§ÙÙÙÙØ§.",
+      "jpn": "<span class=\"verse-number\">37 </span>ã¾ããããã®ã¨ããã³<ruby><rb>ç¿</rb><rt>ãã</rt></ruby>ãä¸ã¤<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãããã®ã¨ããã³<ruby><rb>ç¿</rb><rt>ãã</rt></ruby>ã«<ruby><rb>ç«</rb><rt>ã²</rt></ruby>ãã¨ããã¦ããã®<ruby><rb>åæ¹</rb><rt>ããã½ã</rt></ruby>ã<ruby><rb>ç§</rb><rt>ã¦ã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">37ã</span>è¦åç¯å°çä¸ä¸ªç¯çï¼ç¥­å¸è¦ç¹è¿ç¯ï¼ä½¿ç¯åå¯¹ç§ã",
+      "zht": "<span class=\"verse-number\">37ã</span>è¦åçèºçä¸åççï¼ç¥­å¸è¦é»éçï¼ä½¿çåå°ç§ã",
+      "spa": "<span class=\"verse-number\">37 </span>Y le harÃ¡s siete lÃ¡mparas, las cuales encenderÃ¡s para que alumbren hacia delante.",
+      "por": "<span class=\"verse-number\">37 </span>TambÃ©m lhe farÃ¡s sete lÃ¢mpadas, as quais se acenderÃ£o para alumiar defronte dele.",
+      "fra": "<span class=\"verse-number\">37 </span>Tu feras ses sept lampes, qui seront placÃ©es dessus, de maniÃ¨re Ã  Ã©clairer en face.",
+      "deu": "<span class=\"verse-number\">37Â </span>Sodann sollst du sieben Lampen fÃ¼r ihn anfertigen; und man soll ihm diese Lampen so aufsetzen, dass sie den vor dem Leuchter liegenden Raum erleuchten.",
+      "kor": "<span class=\"verse-number\">37 </span>ë±ì ì¼ê³±ì ë§ë¤ì´ ê·¸ ìì ëì´ ìì ë¹ì¶ê² íë©°",
+      "ita": "<span class=\"verse-number\">37</span> Farai pure le sue lampade, in numero di sette; e le sue lampade si accenderanno in modo che la luce rischiari il davanti del candelabro."
+    },
+    "38": {
+      "eng": "<span class=\"verse-number\">38 </span>And the tongs thereof, and the <span class=\"page-break\" data-page=\"119\"></span>snuffdishes thereof, <span class=\"clarity-word\">shall be of</span> pure gold.",
+      "ara": "<span class=\"verse-number\">Ù£Ù¨ </span>ÙÙÙÙØªÙÙÙÙÙ ÙÙÙØ§ÙÙØ·ÙÙÙØ§ ÙÙÙÙÙÙØ§ÙÙØ¶ÙÙÙØ§ ÙÙÙÙ Ø°ÙÙÙØ¨Ù Ø®ÙØ§ÙÙØµÙ.",
+      "jpn": "<span class=\"verse-number\">38 </span>ãã®<ruby><rb>è¯</rb><rt>ãã</rt></ruby><ruby><rb>å</rb><rt>ã</rt></ruby>ãã°ãã¿ã¨ã<ruby><rb>è¯</rb><rt>ãã</rt></ruby><ruby><rb>å</rb><rt>ã¨</rt></ruby>ã<ruby><rb>ç¿</rb><rt>ãã</rt></ruby>ã¯<ruby><rb>ç´é</rb><rt>ããããã</rt></ruby>ã§<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">38ã</span>ç¯å°çè¡åªåè¡è±çä¹æ¯è¦ç²¾éçã",
+      "zht": "<span class=\"verse-number\">38ã</span>çèºçè åªåè è±ç¤ä¹æ¯è¦ç²¾éçã",
+      "spa": "<span class=\"verse-number\">38 </span>TambiÃ©n sus despabiladeras y sus platillos, de oro puro.",
+      "por": "<span class=\"verse-number\">38 </span>As suas pinÃ§as e os seus apagadores <span class=\"clarity-word\">serÃ£o</span> de ouro puro.",
+      "fra": "<span class=\"verse-number\">38 </span>Ses mouchettes et ses vases Ã  cendre seront en or pur.",
+      "deu": "<span class=\"verse-number\">38Â </span>Auch die dazugehÃ¶rigen Lichtscheren und Pfannen sollen aus feinem Gold bestehen.",
+      "kor": "<span class=\"verse-number\">38 </span>ê·¸ ë¶ ì§ê²ì ë¶ ë¥ ê·¸ë¦ë ìê¸ì¼ë¡ ë§ë¤ì§ë",
+      "ita": "<span class=\"verse-number\">38</span> E i suoi smoccolatoi e i suoi porta smoccolature saranno dâoro puro."
+    },
+    "39": {
+      "eng": "<span class=\"verse-number\">39 </span><span class=\"clarity-word\">Of</span> a talent of pure gold shall he make it, with all these vessels.",
+      "ara": "<span class=\"verse-number\">Ù£Ù© </span>ÙÙÙÙÙÙÙÙÙ ÙÙØ²ÙÙÙ Ø§ÙØ°ÙÙÙÙØ¨Ù Ø§ÙÙØ®ÙØ§ÙÙØµÙ Ø§ÙÙÙÙØµÙØ§ØºÙ ÙÙØµÙÙÙØ¹Ù Ø§ÙÙÙÙÙÙØ§Ø±ÙØ©Ù ÙÙØ¬ÙÙÙÙØ¹Ù Ø£ÙÙÙØ§ÙÙÙÙÙØ§ ÙÙØ²ÙÙÙØ©Ù ÙÙØ§Ø­ÙØ¯ÙØ©Ù (ÙÙØ­ÙÙÙ Ø³ÙØªÙÙØ©Ù ÙÙØ«ÙÙØ§Ø«ÙÙÙÙ ÙÙÙÙÙÙ Ø¬ÙØ±ÙØ§ÙØ§Ù)",
+      "jpn": "<span class=\"verse-number\">39 </span>ããªãã¡<ruby><rb>ç´é</rb><rt>ããããã</rt></ruby>ä¸ã¿ã©ã³ãã§<ruby><rb>ç­å°</rb><rt>ãããã ã</rt></ruby>ã¨ããããã®ããããã®<ruby><rb>å¨</rb><rt>ãã¤ã</rt></ruby>ã¨ã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ãããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">39ã</span>åç¯å°åè¿ä¸åçå¨å·è¦ç¨ç²¾éä¸ä»è¿å¾ã",
+      "zht": "<span class=\"verse-number\">39ã</span>åçèºåéä¸åçå¨å·è¦ç¨ç²¾éä¸ä»é£å¾ã",
+      "spa": "<span class=\"verse-number\">39 </span>De un talento de oro fino lo harÃ¡s, con todos estos utensilios.",
+      "por": "<span class=\"verse-number\">39 </span>De um talento de ouro puro os farÃ¡s, com todos esses utensÃ­lios.",
+      "fra": "<span class=\"verse-number\">39 </span>On emploiera un talent dâor pur pour faire le chandelier avec tous ses ustensiles.",
+      "deu": "<span class=\"verse-number\">39Â </span>Aus einem Talent feinen Goldes soll man ihn nebst allen diesen GerÃ¤ten herstellen.",
+      "kor": "<span class=\"verse-number\">39 </span>ë±ìëì ì´ ëª¨ë  ê¸°êµ¬ë¥¼ ìê¸ í ë¬ëí¸ë¡ ë§ë¤ë",
+      "ita": "<span class=\"verse-number\">39</span> Per fare il candelabro con tutti questi suoi utensili si impiegherÃ  un talento dâoro puro."
+    },
+    "40": {
+      "eng": "<span class=\"verse-number\">40 </span>And look that thou make <span class=\"clarity-word\">them</span> after their pattern, which was shewed thee in the mount.",
+      "ara": "<span class=\"verse-number\">Ù¤Ù  </span>ÙÙØ§Ø­ÙØ±ÙØµÙ Ø£ÙÙÙ ÙÙÙÙÙÙÙ ÙÙÙÙÙ ÙÙØ§ ØªÙØµÙÙÙØ¹ÙÙÙ ÙÙØ·ÙØ§Ø¨ÙÙØ§Ù ÙÙÙÙÙÙØ«ÙØ§ÙÙ Ø§ÙÙÙØ°ÙÙ Ø£ÙØ¸ÙÙÙØ±ÙØªÙÙÙ ÙÙÙÙ Ø¹ÙÙÙÙ Ø§ÙÙØ¬ÙØ¨ÙÙÙ.",
+      "jpn": "<span class=\"verse-number\">40 </span>ããã¦ããªãã<ruby><rb>å±±</rb><rt>ãã¾</rt></ruby>ã§<ruby><rb>ç¤º</rb><rt>ãã</rt></ruby>ããã<ruby><rb>å</rb><rt>ãã</rt></ruby>ã«<ruby><rb>å¾</rb><rt>ããã</rt></ruby>ãã<ruby><rb>æ³¨æ</rb><rt>ã¡ããã</rt></ruby>ãã¦ããã<ruby><rb>é </rb><rt>ã¤ã</rt></ruby>ããªããã°ãªããªãã",
+      "zhs": "<span class=\"verse-number\">40ã</span>è¦è°¨æåè¿äºç©ä»¶ï¼é½è¦ç§çå¨å±±ä¸æç¤ºä½ çæ ·å¼ã",
+      "zht": "<span class=\"verse-number\">40ã</span>è¦è¬¹æåéäºç©ä»¶ï¼é½è¦ç§èå¨å±±ä¸æç¤ºä½ çæ¨£å¼ã",
+      "spa": "<span class=\"verse-number\">40 </span>Y mira y hazlos conforme al modelo que te ha sido mostrado en el monte.",
+      "por": "<span class=\"verse-number\">40 </span>Atenta, pois, que o faÃ§as conforme o seu modelo, que te foi mostrado no monte.",
+      "fra": "<span class=\"verse-number\">40 </span>Regarde, et fais dâaprÃ¨s le modÃ¨le qui tâa Ã©tÃ© montrÃ© sur la montagne.",
+      "deu": "<span class=\"verse-number\">40Â </span>Gib wohl acht, dass du alles genau nach dem Muster anfertigst, das dir auf dem Berg gezeigt worden ist.â",
+      "kor": "<span class=\"verse-number\">40 </span>ëë ì¼ê° ì´ ì°ìì ë¤ê² ë³´ì¸ ììëë¡ í ì§ëë¼",
+      "ita": "<span class=\"verse-number\">40</span> E vedi di fare ogni cosa secondo il modello che ti Ã¨ stato mostrato sul monteâ."
+    }
+  }
+}
